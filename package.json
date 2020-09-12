@@ -1,0 +1,30 @@
+{
+  "name": "medzuslovjansky",
+  "version": "0.0.0",
+  "description": "Interslavic language packages and tools",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medzuslovjansky/standard.git"
+  },
+  "keywords": [
+    "interslavic",
+    "medzuslovjansky"
+  ],
+  "authors": [
+    "Yaroslav Serhieiev <noomorph@gmail.com>",
+    "Sergey Cherebedov <cherebedov.sergey@gmail.com>",
+    "Denis Shabalin <desha87@bk.ru>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medzuslovjansky/standard/issues"
+  },
+  "homepage": "https://github.com/medzuslovjansky/standard#readme"
+}
