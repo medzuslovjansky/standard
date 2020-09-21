@@ -1,0 +1,33 @@
+{
+  "name": "@interslavic/nouns",
+  "version": "0.0.0",
+  "description": "Interslavic grammar: nouns",
+  "keywords": [
+    "interslavic",
+    "medzuslovjansky"
+  ],
+  "author": "Yaroslav Serhieiev <noomorph@gmail.com>",
+  "homepage": "https://github.com/medzuslovjansky/standard",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medzuslovjansky/standard.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/medzuslovjansky/standard/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
