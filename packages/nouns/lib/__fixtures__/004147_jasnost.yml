@@ -1,0 +1,22 @@
+---
+  id: "4147"
+  word: "jasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jasnosť"
+      acc: "jasnosť"
+      gen: "jasnosti"
+      loc: "jasnosti"
+      dat: "jasnosti"
+      ins: "jasnosťjų"
+      voc: "jasnosti"
+    plural: 
+      nom: "jasnosti"
+      acc: "jasnosti"
+      gen: "jasnostij"
+      loc: "jasnosťah"
+      dat: "jasnosťam"
+      ins: "jasnosťami"
+      voc: "jasnosti"

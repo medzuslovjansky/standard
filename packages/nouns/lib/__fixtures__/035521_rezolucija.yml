@@ -1,0 +1,22 @@
+---
+  id: "35521"
+  word: "rezolucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rezolucija"
+      acc: "rezolucijų"
+      gen: "rezolucije"
+      loc: "rezoluciji"
+      dat: "rezoluciji"
+      ins: "rezolucijejų"
+      voc: "rezolucijo"
+    plural: 
+      nom: "rezolucije"
+      acc: "rezolucije"
+      gen: "rezolucij"
+      loc: "rezolucijah"
+      dat: "rezolucijam"
+      ins: "rezolucijami"
+      voc: "rezolucije"

@@ -1,0 +1,22 @@
+---
+  id: "18362"
+  word: "povråz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "povråz"
+      acc: "povråz"
+      gen: "povråza"
+      loc: "povråzu"
+      dat: "povråzu"
+      ins: "povråzom"
+      voc: "povråze"
+    plural: 
+      nom: "povråzy"
+      acc: "povråzy"
+      gen: "povråzov"
+      loc: "povråzah"
+      dat: "povråzam"
+      ins: "povråzami"
+      voc: "povråzy"

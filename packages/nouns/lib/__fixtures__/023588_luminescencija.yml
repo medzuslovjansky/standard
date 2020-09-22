@@ -1,0 +1,22 @@
+---
+  id: "23588"
+  word: "luminescencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "luminescencija"
+      acc: "luminescencijų"
+      gen: "luminescencije"
+      loc: "luminescenciji"
+      dat: "luminescenciji"
+      ins: "luminescencijejų"
+      voc: "luminescencijo"
+    plural: 
+      nom: "luminescencije"
+      acc: "luminescencije"
+      gen: "luminescencij"
+      loc: "luminescencijah"
+      dat: "luminescencijam"
+      ins: "luminescencijami"
+      voc: "luminescencije"

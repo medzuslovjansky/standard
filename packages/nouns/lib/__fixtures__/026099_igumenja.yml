@@ -1,0 +1,22 @@
+---
+  id: "26099"
+  word: "igumenja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "igumenja"
+      acc: "igumenjų"
+      gen: "igumenje"
+      loc: "igumenji"
+      dat: "igumenji"
+      ins: "igumenjejų"
+      voc: "igumenjo"
+    plural: 
+      nom: "igumenje"
+      acc: "igumenje"
+      gen: "igumenej"
+      loc: "igumenjah"
+      dat: "igumenjam"
+      ins: "igumenjami"
+      voc: "igumenje"

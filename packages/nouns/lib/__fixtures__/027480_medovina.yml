@@ -1,0 +1,22 @@
+---
+  id: "27480"
+  word: "medovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medovina"
+      acc: "medovinų"
+      gen: "medoviny"
+      loc: "medovině"
+      dat: "medovině"
+      ins: "medovinojų"
+      voc: "medovino"
+    plural: 
+      nom: "medoviny"
+      acc: "medoviny"
+      gen: "medovin"
+      loc: "medovinah"
+      dat: "medovinam"
+      ins: "medovinami"
+      voc: "medoviny"

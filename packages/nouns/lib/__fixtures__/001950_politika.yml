@@ -1,0 +1,22 @@
+---
+  id: "1950"
+  word: "politika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "politika"
+      acc: "politikų"
+      gen: "politiky"
+      loc: "politikě"
+      dat: "politikě"
+      ins: "politikojų"
+      voc: "politiko"
+    plural: 
+      nom: "politiky"
+      acc: "politiky"
+      gen: "politik"
+      loc: "politikah"
+      dat: "politikam"
+      ins: "politikami"
+      voc: "politiky"

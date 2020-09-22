@@ -1,0 +1,22 @@
+---
+  id: "3613"
+  word: "ogråda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ogråda"
+      acc: "ogrådų"
+      gen: "ogrådy"
+      loc: "ogrådě"
+      dat: "ogrådě"
+      ins: "ogrådojų"
+      voc: "ogrådo"
+    plural: 
+      nom: "ogrådy"
+      acc: "ogrådy"
+      gen: "ogråd"
+      loc: "ogrådah"
+      dat: "ogrådam"
+      ins: "ogrådami"
+      voc: "ogrådy"

@@ -1,0 +1,23 @@
+---
+  id: "22955"
+  word: "mŕšejed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mŕšejed"
+      acc: "mŕšejeda"
+      gen: "mŕšejeda"
+      loc: "mŕšejedu"
+      dat: "mŕšejedu"
+      ins: "mŕšejedom"
+      voc: "mŕšejede"
+    plural: 
+      nom: "mŕšejedi"
+      acc: "mŕšejedov"
+      gen: "mŕšejedov"
+      loc: "mŕšejedah"
+      dat: "mŕšejedam"
+      ins: "mŕšejedami"
+      voc: "mŕšejedi"

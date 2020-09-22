@@ -1,0 +1,23 @@
+---
+  id: "25999"
+  word: "hråbrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hråbrec"
+      acc: "hråbreca"
+      gen: "hråbreca"
+      loc: "hråbrecu"
+      dat: "hråbrecu"
+      ins: "hråbrecem"
+      voc: "hråbreče"
+    plural: 
+      nom: "hråbreci"
+      acc: "hråbrecev"
+      gen: "hråbrecev"
+      loc: "hråbrecah"
+      dat: "hråbrecam"
+      ins: "hråbrecami"
+      voc: "hråbreci"

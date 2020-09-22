@@ -1,0 +1,22 @@
+---
+  id: "19750"
+  word: "izobražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izobražeńje"
+      acc: "izobražeńje"
+      gen: "izobražeńja"
+      loc: "izobražeńju"
+      dat: "izobražeńju"
+      ins: "izobražeńjem"
+      voc: "izobražeńje"
+    plural: 
+      nom: "izobražeńja"
+      acc: "izobražeńja"
+      gen: "izobraženij"
+      loc: "izobražeńjah"
+      dat: "izobražeńjam"
+      ins: "izobražeńjami"
+      voc: "izobražeńja"

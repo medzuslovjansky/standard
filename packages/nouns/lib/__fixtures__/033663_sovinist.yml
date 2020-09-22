@@ -1,0 +1,23 @@
+---
+  id: "33663"
+  word: "šovinist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šovinist"
+      acc: "šovinista"
+      gen: "šovinista"
+      loc: "šovinistu"
+      dat: "šovinistu"
+      ins: "šovinistom"
+      voc: "šoviniste"
+    plural: 
+      nom: "šovinisti"
+      acc: "šovinistov"
+      gen: "šovinistov"
+      loc: "šovinistah"
+      dat: "šovinistam"
+      ins: "šovinistami"
+      voc: "šovinisti"

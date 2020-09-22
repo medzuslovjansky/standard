@@ -1,0 +1,22 @@
+---
+  id: "32628"
+  word: "motiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "motiv"
+      acc: "motiv"
+      gen: "motiva"
+      loc: "motivu"
+      dat: "motivu"
+      ins: "motivom"
+      voc: "motive"
+    plural: 
+      nom: "motivy"
+      acc: "motivy"
+      gen: "motivov"
+      loc: "motivah"
+      dat: "motivam"
+      ins: "motivami"
+      voc: "motivy"

@@ -1,0 +1,22 @@
+---
+  id: "32131"
+  word: "ryma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ryma"
+      acc: "rymų"
+      gen: "rymy"
+      loc: "rymě"
+      dat: "rymě"
+      ins: "rymojų"
+      voc: "rymo"
+    plural: 
+      nom: "rymy"
+      acc: "rymy"
+      gen: "rym"
+      loc: "rymah"
+      dat: "rymam"
+      ins: "rymami"
+      voc: "rymy"

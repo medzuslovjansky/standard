@@ -1,0 +1,22 @@
+---
+  id: "25233"
+  word: "devon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "devon"
+      acc: "devon"
+      gen: "devona"
+      loc: "devonu"
+      dat: "devonu"
+      ins: "devonom"
+      voc: "devone"
+    plural: 
+      nom: "devony"
+      acc: "devony"
+      gen: "devonov"
+      loc: "devonah"
+      dat: "devonam"
+      ins: "devonami"
+      voc: "devony"

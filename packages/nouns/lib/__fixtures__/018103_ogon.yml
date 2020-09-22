@@ -1,0 +1,22 @@
+---
+  id: "18103"
+  word: "ogon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ogon"
+      acc: "ogon"
+      gen: "ogona"
+      loc: "ogonu"
+      dat: "ogonu"
+      ins: "ogonom"
+      voc: "ogone"
+    plural: 
+      nom: "ogony"
+      acc: "ogony"
+      gen: "ogonov"
+      loc: "ogonah"
+      dat: "ogonam"
+      ins: "ogonami"
+      voc: "ogony"

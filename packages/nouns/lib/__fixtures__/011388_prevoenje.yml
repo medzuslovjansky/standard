@@ -1,0 +1,22 @@
+---
+  id: "11388"
+  word: "prěvođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěvođeńje"
+      acc: "prěvođeńje"
+      gen: "prěvođeńja"
+      loc: "prěvođeńju"
+      dat: "prěvođeńju"
+      ins: "prěvođeńjem"
+      voc: "prěvođeńje"
+    plural: 
+      nom: "prěvođeńja"
+      acc: "prěvođeńja"
+      gen: "prěvođenij"
+      loc: "prěvođeńjah"
+      dat: "prěvođeńjam"
+      ins: "prěvođeńjami"
+      voc: "prěvođeńja"

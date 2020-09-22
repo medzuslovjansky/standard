@@ -1,0 +1,22 @@
+---
+  id: "5981"
+  word: "pistacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pistacija"
+      acc: "pistacijų"
+      gen: "pistacije"
+      loc: "pistaciji"
+      dat: "pistaciji"
+      ins: "pistacijejų"
+      voc: "pistacijo"
+    plural: 
+      nom: "pistacije"
+      acc: "pistacije"
+      gen: "pistacij"
+      loc: "pistacijah"
+      dat: "pistacijam"
+      ins: "pistacijami"
+      voc: "pistacije"

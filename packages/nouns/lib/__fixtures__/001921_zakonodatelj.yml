@@ -1,0 +1,23 @@
+---
+  id: "1921"
+  word: "zakonodatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zakonodatelj"
+      acc: "zakonodatelja"
+      gen: "zakonodatelja"
+      loc: "zakonodatelju"
+      dat: "zakonodatelju"
+      ins: "zakonodateljem"
+      voc: "zakonodatelju"
+    plural: 
+      nom: "zakonodatelji"
+      acc: "zakonodateljev"
+      gen: "zakonodateljev"
+      loc: "zakonodateljah"
+      dat: "zakonodateljam"
+      ins: "zakonodateljami"
+      voc: "zakonodatelji"

@@ -1,0 +1,23 @@
+---
+  id: "5292"
+  word: "drěvo"
+  meta: 
+    irregularity: "(drěva/drěvese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "drěvo"
+      acc: "drěvo"
+      gen: "drěva / drěvese"
+      loc: "drěvu / drěvesi"
+      dat: "drěvu / drěvesi"
+      ins: "drěvom / drěvesem"
+      voc: "drěvo"
+    plural: 
+      nom: "drěva / drěvesa"
+      acc: "drěva / drěvesa"
+      gen: "drěv / drěves"
+      loc: "drěvah / drěvesah"
+      dat: "drěvam / drěvesam"
+      ins: "drěvami / drěvesami"
+      voc: "drěva / drěvesa"

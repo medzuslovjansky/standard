@@ -1,0 +1,22 @@
+---
+  id: "17373"
+  word: "elisa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "elisa"
+      acc: "elisų"
+      gen: "elisy"
+      loc: "elisě"
+      dat: "elisě"
+      ins: "elisojų"
+      voc: "eliso"
+    plural: 
+      nom: "elisy"
+      acc: "elisy"
+      gen: "elis"
+      loc: "elisah"
+      dat: "elisam"
+      ins: "elisami"
+      voc: "elisy"

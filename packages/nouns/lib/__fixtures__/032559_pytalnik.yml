@@ -1,0 +1,22 @@
+---
+  id: "32559"
+  word: "pytaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pytaľnik"
+      acc: "pytaľnik"
+      gen: "pytaľnika"
+      loc: "pytaľniku"
+      dat: "pytaľniku"
+      ins: "pytaľnikom"
+      voc: "pytaľniče"
+    plural: 
+      nom: "pytaľniky"
+      acc: "pytaľniky"
+      gen: "pytaľnikov"
+      loc: "pytaľnikah"
+      dat: "pytaľnikam"
+      ins: "pytaľnikami"
+      voc: "pytaľniky"

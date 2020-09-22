@@ -1,0 +1,22 @@
+---
+  id: "5853"
+  word: "uvědomjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uvědomjeńje"
+      acc: "uvědomjeńje"
+      gen: "uvědomjeńja"
+      loc: "uvědomjeńju"
+      dat: "uvědomjeńju"
+      ins: "uvědomjeńjem"
+      voc: "uvědomjeńje"
+    plural: 
+      nom: "uvědomjeńja"
+      acc: "uvědomjeńja"
+      gen: "uvědomjenij"
+      loc: "uvědomjeńjah"
+      dat: "uvědomjeńjam"
+      ins: "uvědomjeńjami"
+      voc: "uvědomjeńja"

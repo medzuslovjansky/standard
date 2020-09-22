@@ -1,0 +1,23 @@
+---
+  id: "2855"
+  word: "bog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bog"
+      acc: "boga"
+      gen: "boga"
+      loc: "bogu"
+      dat: "bogu"
+      ins: "bogom"
+      voc: "bože"
+    plural: 
+      nom: "bogi"
+      acc: "bogov"
+      gen: "bogov"
+      loc: "bogah"
+      dat: "bogam"
+      ins: "bogami"
+      voc: "bogi"

@@ -1,0 +1,22 @@
+---
+  id: "4136"
+  word: "opalȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "opalȯk"
+      acc: "opalȯk"
+      gen: "opalka"
+      loc: "opalku"
+      dat: "opalku"
+      ins: "opalkom"
+      voc: "opalče"
+    plural: 
+      nom: "opalky"
+      acc: "opalky"
+      gen: "opalkov"
+      loc: "opalkah"
+      dat: "opalkam"
+      ins: "opalkami"
+      voc: "opalky"

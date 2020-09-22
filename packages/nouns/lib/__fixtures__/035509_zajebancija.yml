@@ -1,0 +1,22 @@
+---
+  id: "35509"
+  word: "zajebancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zajebancija"
+      acc: "zajebancijų"
+      gen: "zajebancije"
+      loc: "zajebanciji"
+      dat: "zajebanciji"
+      ins: "zajebancijejų"
+      voc: "zajebancijo"
+    plural: 
+      nom: "zajebancije"
+      acc: "zajebancije"
+      gen: "zajebancij"
+      loc: "zajebancijah"
+      dat: "zajebancijam"
+      ins: "zajebancijami"
+      voc: "zajebancije"

@@ -1,0 +1,23 @@
+---
+  id: "21098"
+  word: "prostak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prostak"
+      acc: "prostaka"
+      gen: "prostaka"
+      loc: "prostaku"
+      dat: "prostaku"
+      ins: "prostakom"
+      voc: "prostače"
+    plural: 
+      nom: "prostaki"
+      acc: "prostakov"
+      gen: "prostakov"
+      loc: "prostakah"
+      dat: "prostakam"
+      ins: "prostakami"
+      voc: "prostaki"

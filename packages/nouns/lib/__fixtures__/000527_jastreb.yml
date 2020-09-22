@@ -1,0 +1,23 @@
+---
+  id: "527"
+  word: "jastręb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jastręb"
+      acc: "jastręba"
+      gen: "jastręba"
+      loc: "jastrębu"
+      dat: "jastrębu"
+      ins: "jastrębom"
+      voc: "jastrębe"
+    plural: 
+      nom: "jastrębi"
+      acc: "jastrębov"
+      gen: "jastrębov"
+      loc: "jastrębah"
+      dat: "jastrębam"
+      ins: "jastrębami"
+      voc: "jastrębi"

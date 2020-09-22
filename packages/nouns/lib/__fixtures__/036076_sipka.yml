@@ -1,0 +1,22 @@
+---
+  id: "36076"
+  word: "šipka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šipka"
+      acc: "šipkų"
+      gen: "šipky"
+      loc: "šipkě"
+      dat: "šipkě"
+      ins: "šipkojų"
+      voc: "šipko"
+    plural: 
+      nom: "šipky"
+      acc: "šipky"
+      gen: "šipȯk"
+      loc: "šipkah"
+      dat: "šipkam"
+      ins: "šipkami"
+      voc: "šipky"

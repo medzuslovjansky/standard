@@ -1,0 +1,22 @@
+---
+  id: "22070"
+  word: "iztočnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iztočnik"
+      acc: "iztočnik"
+      gen: "iztočnika"
+      loc: "iztočniku"
+      dat: "iztočniku"
+      ins: "iztočnikom"
+      voc: "iztočniče"
+    plural: 
+      nom: "iztočniky"
+      acc: "iztočniky"
+      gen: "iztočnikov"
+      loc: "iztočnikah"
+      dat: "iztočnikam"
+      ins: "iztočnikami"
+      voc: "iztočniky"

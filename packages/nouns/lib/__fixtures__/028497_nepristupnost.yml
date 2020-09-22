@@ -1,0 +1,22 @@
+---
+  id: "28497"
+  word: "nepristųpnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepristųpnosť"
+      acc: "nepristųpnosť"
+      gen: "nepristųpnosti"
+      loc: "nepristųpnosti"
+      dat: "nepristųpnosti"
+      ins: "nepristųpnosťjų"
+      voc: "nepristųpnosti"
+    plural: 
+      nom: "nepristųpnosti"
+      acc: "nepristųpnosti"
+      gen: "nepristųpnostij"
+      loc: "nepristųpnosťah"
+      dat: "nepristųpnosťam"
+      ins: "nepristųpnosťami"
+      voc: "nepristųpnosti"

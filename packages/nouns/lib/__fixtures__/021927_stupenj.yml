@@ -1,0 +1,23 @@
+---
+  id: "21927"
+  word: "stųpenj"
+  meta: 
+    irregularity: "(stųpnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stųpėnj"
+      acc: "stųpėnj"
+      gen: "stųpnja"
+      loc: "stųpnju"
+      dat: "stųpnju"
+      ins: "stųpnjem"
+      voc: "stųpnju"
+    plural: 
+      nom: "stųpnje"
+      acc: "stųpnje"
+      gen: "stųpnjev"
+      loc: "stųpnjah"
+      dat: "stųpnjam"
+      ins: "stųpnjami"
+      voc: "stųpnje"

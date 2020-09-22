@@ -1,0 +1,22 @@
+---
+  id: "2573"
+  word: "hemija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hemija"
+      acc: "hemijų"
+      gen: "hemije"
+      loc: "hemiji"
+      dat: "hemiji"
+      ins: "hemijejų"
+      voc: "hemijo"
+    plural: 
+      nom: "hemije"
+      acc: "hemije"
+      gen: "hemij"
+      loc: "hemijah"
+      dat: "hemijam"
+      ins: "hemijami"
+      voc: "hemije"

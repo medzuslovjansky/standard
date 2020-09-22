@@ -1,0 +1,22 @@
+---
+  id: "31145"
+  word: "vrštat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vrštat"
+      acc: "vrštat"
+      gen: "vrštata"
+      loc: "vrštatu"
+      dat: "vrštatu"
+      ins: "vrštatom"
+      voc: "vrštate"
+    plural: 
+      nom: "vrštaty"
+      acc: "vrštaty"
+      gen: "vrštatov"
+      loc: "vrštatah"
+      dat: "vrštatam"
+      ins: "vrštatami"
+      voc: "vrštaty"

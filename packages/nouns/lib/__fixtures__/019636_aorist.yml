@@ -1,0 +1,22 @@
+---
+  id: "19636"
+  word: "aorist"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aorist"
+      acc: "aorist"
+      gen: "aorista"
+      loc: "aoristu"
+      dat: "aoristu"
+      ins: "aoristom"
+      voc: "aoriste"
+    plural: 
+      nom: "aoristy"
+      acc: "aoristy"
+      gen: "aoristov"
+      loc: "aoristah"
+      dat: "aoristam"
+      ins: "aoristami"
+      voc: "aoristy"

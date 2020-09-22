@@ -1,0 +1,22 @@
+---
+  id: "19179"
+  word: "veriga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veriga"
+      acc: "verigų"
+      gen: "verigy"
+      loc: "verigě"
+      dat: "verigě"
+      ins: "verigojų"
+      voc: "verigo"
+    plural: 
+      nom: "verigy"
+      acc: "verigy"
+      gen: "verig"
+      loc: "verigah"
+      dat: "verigam"
+      ins: "verigami"
+      voc: "verigy"

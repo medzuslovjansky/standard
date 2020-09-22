@@ -1,0 +1,23 @@
+---
+  id: "34763"
+  word: "smrf"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "smrf"
+      acc: "smrfa"
+      gen: "smrfa"
+      loc: "smrfu"
+      dat: "smrfu"
+      ins: "smrfom"
+      voc: "smrfe"
+    plural: 
+      nom: "smrfi"
+      acc: "smrfov"
+      gen: "smrfov"
+      loc: "smrfah"
+      dat: "smrfam"
+      ins: "smrfami"
+      voc: "smrfi"

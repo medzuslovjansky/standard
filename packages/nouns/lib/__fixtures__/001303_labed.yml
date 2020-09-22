@@ -1,0 +1,23 @@
+---
+  id: "1303"
+  word: "labęď"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "labęď"
+      acc: "labęďa"
+      gen: "labęďa"
+      loc: "labęďu"
+      dat: "labęďu"
+      ins: "labęďem"
+      voc: "labęďu"
+    plural: 
+      nom: "labędi"
+      acc: "labęďev"
+      gen: "labęďev"
+      loc: "labęďah"
+      dat: "labęďam"
+      ins: "labęďami"
+      voc: "labędi"

@@ -1,0 +1,22 @@
+---
+  id: "1270"
+  word: "sekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sekcija"
+      acc: "sekcijų"
+      gen: "sekcije"
+      loc: "sekciji"
+      dat: "sekciji"
+      ins: "sekcijejų"
+      voc: "sekcijo"
+    plural: 
+      nom: "sekcije"
+      acc: "sekcije"
+      gen: "sekcij"
+      loc: "sekcijah"
+      dat: "sekcijam"
+      ins: "sekcijami"
+      voc: "sekcije"

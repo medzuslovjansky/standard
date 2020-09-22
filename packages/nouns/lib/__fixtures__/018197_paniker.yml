@@ -1,0 +1,23 @@
+---
+  id: "18197"
+  word: "paniker"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "paniker"
+      acc: "panikera"
+      gen: "panikera"
+      loc: "panikeru"
+      dat: "panikeru"
+      ins: "panikerom"
+      voc: "panikere"
+    plural: 
+      nom: "panikeri"
+      acc: "panikerov"
+      gen: "panikerov"
+      loc: "panikerah"
+      dat: "panikeram"
+      ins: "panikerami"
+      voc: "panikeri"

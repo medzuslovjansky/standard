@@ -1,0 +1,22 @@
+---
+  id: "17006"
+  word: "pojmańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pojmańje"
+      acc: "pojmańje"
+      gen: "pojmańja"
+      loc: "pojmańju"
+      dat: "pojmańju"
+      ins: "pojmańjem"
+      voc: "pojmańje"
+    plural: 
+      nom: "pojmańja"
+      acc: "pojmańja"
+      gen: "pojmanij"
+      loc: "pojmańjah"
+      dat: "pojmańjam"
+      ins: "pojmańjami"
+      voc: "pojmańja"

@@ -1,0 +1,22 @@
+---
+  id: "12595"
+  word: "starosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "starosť"
+      acc: "starosť"
+      gen: "starosti"
+      loc: "starosti"
+      dat: "starosti"
+      ins: "starosťjų"
+      voc: "starosti"
+    plural: 
+      nom: "starosti"
+      acc: "starosti"
+      gen: "starostij"
+      loc: "starosťah"
+      dat: "starosťam"
+      ins: "starosťami"
+      voc: "starosti"

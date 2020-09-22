@@ -1,0 +1,15 @@
+---
+  id: "33436"
+  word: "bezvěŕje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezvěŕje"
+      acc: "bezvěŕje"
+      gen: "bezvěŕja"
+      loc: "bezvěŕju"
+      dat: "bezvěŕju"
+      ins: "bezvěŕjem"
+      voc: "bezvěŕje"

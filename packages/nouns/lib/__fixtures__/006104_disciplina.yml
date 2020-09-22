@@ -1,0 +1,22 @@
+---
+  id: "6104"
+  word: "disciplina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "disciplina"
+      acc: "disciplinų"
+      gen: "discipliny"
+      loc: "disciplině"
+      dat: "disciplině"
+      ins: "disciplinojų"
+      voc: "disciplino"
+    plural: 
+      nom: "discipliny"
+      acc: "discipliny"
+      gen: "disciplin"
+      loc: "disciplinah"
+      dat: "disciplinam"
+      ins: "disciplinami"
+      voc: "discipliny"

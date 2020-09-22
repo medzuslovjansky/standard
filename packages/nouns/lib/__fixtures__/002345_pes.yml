@@ -1,0 +1,24 @@
+---
+  id: "2345"
+  word: "pes"
+  meta: 
+    irregularity: "(psa)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pės"
+      acc: "psa"
+      gen: "psa"
+      loc: "psu"
+      dat: "psu"
+      ins: "psom"
+      voc: "pse"
+    plural: 
+      nom: "psi"
+      acc: "psov"
+      gen: "psov"
+      loc: "psah"
+      dat: "psam"
+      ins: "psami"
+      voc: "psi"

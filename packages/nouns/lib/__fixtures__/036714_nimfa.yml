@@ -1,0 +1,22 @@
+---
+  id: "36714"
+  word: "nimfa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nimfa"
+      acc: "nimfų"
+      gen: "nimfy"
+      loc: "nimfě"
+      dat: "nimfě"
+      ins: "nimfojų"
+      voc: "nimfo"
+    plural: 
+      nom: "nimfy"
+      acc: "nimfy"
+      gen: "nimf"
+      loc: "nimfah"
+      dat: "nimfam"
+      ins: "nimfami"
+      voc: "nimfy"

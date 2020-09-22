@@ -1,0 +1,23 @@
+---
+  id: "31024"
+  word: "Varjag"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Varjag"
+      acc: "Varjaga"
+      gen: "Varjaga"
+      loc: "Varjagu"
+      dat: "Varjagu"
+      ins: "Varjagom"
+      voc: "Varjaže"
+    plural: 
+      nom: "Varjagi"
+      acc: "Varjagov"
+      gen: "Varjagov"
+      loc: "Varjagah"
+      dat: "Varjagam"
+      ins: "Varjagami"
+      voc: "Varjagi"

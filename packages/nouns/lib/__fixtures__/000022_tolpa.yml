@@ -1,0 +1,22 @@
+---
+  id: "22"
+  word: "tȯlpa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tȯlpa"
+      acc: "tȯlpų"
+      gen: "tȯlpy"
+      loc: "tȯlpě"
+      dat: "tȯlpě"
+      ins: "tȯlpojų"
+      voc: "tȯlpo"
+    plural: 
+      nom: "tȯlpy"
+      acc: "tȯlpy"
+      gen: "tȯlp"
+      loc: "tȯlpah"
+      dat: "tȯlpam"
+      ins: "tȯlpami"
+      voc: "tȯlpy"

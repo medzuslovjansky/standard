@@ -1,0 +1,22 @@
+---
+  id: "1317"
+  word: "sistema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sistema"
+      acc: "sistemų"
+      gen: "sistemy"
+      loc: "sistemě"
+      dat: "sistemě"
+      ins: "sistemojų"
+      voc: "sistemo"
+    plural: 
+      nom: "sistemy"
+      acc: "sistemy"
+      gen: "sistem"
+      loc: "sistemah"
+      dat: "sistemam"
+      ins: "sistemami"
+      voc: "sistemy"

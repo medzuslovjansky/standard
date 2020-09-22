@@ -1,0 +1,22 @@
+---
+  id: "25029"
+  word: "člen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "člen"
+      acc: "člen"
+      gen: "člena"
+      loc: "členu"
+      dat: "členu"
+      ins: "členom"
+      voc: "člene"
+    plural: 
+      nom: "členy"
+      acc: "členy"
+      gen: "členov"
+      loc: "členah"
+      dat: "členam"
+      ins: "členami"
+      voc: "členy"

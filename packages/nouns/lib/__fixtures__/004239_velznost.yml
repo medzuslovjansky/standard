@@ -1,0 +1,22 @@
+---
+  id: "4239"
+  word: "velžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "velžnosť"
+      acc: "velžnosť"
+      gen: "velžnosti"
+      loc: "velžnosti"
+      dat: "velžnosti"
+      ins: "velžnosťjų"
+      voc: "velžnosti"
+    plural: 
+      nom: "velžnosti"
+      acc: "velžnosti"
+      gen: "velžnostij"
+      loc: "velžnosťah"
+      dat: "velžnosťam"
+      ins: "velžnosťami"
+      voc: "velžnosti"

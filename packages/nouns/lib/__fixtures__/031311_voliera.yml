@@ -1,0 +1,22 @@
+---
+  id: "31311"
+  word: "voliera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "voliera"
+      acc: "volierų"
+      gen: "voliery"
+      loc: "volierě"
+      dat: "volierě"
+      ins: "volierojų"
+      voc: "voliero"
+    plural: 
+      nom: "voliery"
+      acc: "voliery"
+      gen: "volier"
+      loc: "volierah"
+      dat: "volieram"
+      ins: "volierami"
+      voc: "voliery"

@@ -1,0 +1,22 @@
+---
+  id: "36085"
+  word: "morva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "morva"
+      acc: "morvų"
+      gen: "morvy"
+      loc: "morvě"
+      dat: "morvě"
+      ins: "morvojų"
+      voc: "morvo"
+    plural: 
+      nom: "morvy"
+      acc: "morvy"
+      gen: "morv"
+      loc: "morvah"
+      dat: "morvam"
+      ins: "morvami"
+      voc: "morvy"

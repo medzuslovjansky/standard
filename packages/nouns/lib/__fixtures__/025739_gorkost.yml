@@ -1,0 +1,22 @@
+---
+  id: "25739"
+  word: "goŕkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "goŕkosť"
+      acc: "goŕkosť"
+      gen: "goŕkosti"
+      loc: "goŕkosti"
+      dat: "goŕkosti"
+      ins: "goŕkosťjų"
+      voc: "goŕkosti"
+    plural: 
+      nom: "goŕkosti"
+      acc: "goŕkosti"
+      gen: "goŕkostij"
+      loc: "goŕkosťah"
+      dat: "goŕkosťam"
+      ins: "goŕkosťami"
+      voc: "goŕkosti"

@@ -1,0 +1,22 @@
+---
+  id: "33731"
+  word: "prognoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prognoza"
+      acc: "prognozų"
+      gen: "prognozy"
+      loc: "prognozě"
+      dat: "prognozě"
+      ins: "prognozojų"
+      voc: "prognozo"
+    plural: 
+      nom: "prognozy"
+      acc: "prognozy"
+      gen: "prognoz"
+      loc: "prognozah"
+      dat: "prognozam"
+      ins: "prognozami"
+      voc: "prognozy"

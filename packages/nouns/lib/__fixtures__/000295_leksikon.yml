@@ -1,0 +1,22 @@
+---
+  id: "295"
+  word: "leksikon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "leksikon"
+      acc: "leksikon"
+      gen: "leksikona"
+      loc: "leksikonu"
+      dat: "leksikonu"
+      ins: "leksikonom"
+      voc: "leksikone"
+    plural: 
+      nom: "leksikony"
+      acc: "leksikony"
+      gen: "leksikonov"
+      loc: "leksikonah"
+      dat: "leksikonam"
+      ins: "leksikonami"
+      voc: "leksikony"

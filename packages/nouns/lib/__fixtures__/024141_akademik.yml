@@ -1,0 +1,23 @@
+---
+  id: "24141"
+  word: "akademik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "akademik"
+      acc: "akademika"
+      gen: "akademika"
+      loc: "akademiku"
+      dat: "akademiku"
+      ins: "akademikom"
+      voc: "akademiče"
+    plural: 
+      nom: "akademiki"
+      acc: "akademikov"
+      gen: "akademikov"
+      loc: "akademikah"
+      dat: "akademikam"
+      ins: "akademikami"
+      voc: "akademiki"

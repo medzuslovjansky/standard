@@ -1,0 +1,22 @@
+---
+  id: "29072"
+  word: "odděljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odděljeńje"
+      acc: "odděljeńje"
+      gen: "odděljeńja"
+      loc: "odděljeńju"
+      dat: "odděljeńju"
+      ins: "odděljeńjem"
+      voc: "odděljeńje"
+    plural: 
+      nom: "odděljeńja"
+      acc: "odděljeńja"
+      gen: "odděljenij"
+      loc: "odděljeńjah"
+      dat: "odděljeńjam"
+      ins: "odděljeńjami"
+      voc: "odděljeńja"

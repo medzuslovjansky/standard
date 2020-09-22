@@ -1,0 +1,22 @@
+---
+  id: "35060"
+  word: "uveličeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uveličeńje"
+      acc: "uveličeńje"
+      gen: "uveličeńja"
+      loc: "uveličeńju"
+      dat: "uveličeńju"
+      ins: "uveličeńjem"
+      voc: "uveličeńje"
+    plural: 
+      nom: "uveličeńja"
+      acc: "uveličeńja"
+      gen: "uveličenij"
+      loc: "uveličeńjah"
+      dat: "uveličeńjam"
+      ins: "uveličeńjami"
+      voc: "uveličeńja"

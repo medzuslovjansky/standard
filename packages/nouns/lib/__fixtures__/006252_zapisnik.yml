@@ -1,0 +1,22 @@
+---
+  id: "6252"
+  word: "zapisnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapisnik"
+      acc: "zapisnik"
+      gen: "zapisnika"
+      loc: "zapisniku"
+      dat: "zapisniku"
+      ins: "zapisnikom"
+      voc: "zapisniče"
+    plural: 
+      nom: "zapisniky"
+      acc: "zapisniky"
+      gen: "zapisnikov"
+      loc: "zapisnikah"
+      dat: "zapisnikam"
+      ins: "zapisnikami"
+      voc: "zapisniky"

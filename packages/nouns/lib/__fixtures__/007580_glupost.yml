@@ -1,0 +1,22 @@
+---
+  id: "7580"
+  word: "gluposť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gluposť"
+      acc: "gluposť"
+      gen: "gluposti"
+      loc: "gluposti"
+      dat: "gluposti"
+      ins: "gluposťjų"
+      voc: "gluposti"
+    plural: 
+      nom: "gluposti"
+      acc: "gluposti"
+      gen: "glupostij"
+      loc: "gluposťah"
+      dat: "gluposťam"
+      ins: "gluposťami"
+      voc: "gluposti"

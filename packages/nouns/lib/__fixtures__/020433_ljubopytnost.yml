@@ -1,0 +1,22 @@
+---
+  id: "20433"
+  word: "ljubopytnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljubopytnosť"
+      acc: "ljubopytnosť"
+      gen: "ljubopytnosti"
+      loc: "ljubopytnosti"
+      dat: "ljubopytnosti"
+      ins: "ljubopytnosťjų"
+      voc: "ljubopytnosti"
+    plural: 
+      nom: "ljubopytnosti"
+      acc: "ljubopytnosti"
+      gen: "ljubopytnostij"
+      loc: "ljubopytnosťah"
+      dat: "ljubopytnosťam"
+      ins: "ljubopytnosťami"
+      voc: "ljubopytnosti"

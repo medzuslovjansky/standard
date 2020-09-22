@@ -1,0 +1,22 @@
+---
+  id: "304"
+  word: "distribucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "distribucija"
+      acc: "distribucijų"
+      gen: "distribucije"
+      loc: "distribuciji"
+      dat: "distribuciji"
+      ins: "distribucijejų"
+      voc: "distribucijo"
+    plural: 
+      nom: "distribucije"
+      acc: "distribucije"
+      gen: "distribucij"
+      loc: "distribucijah"
+      dat: "distribucijam"
+      ins: "distribucijami"
+      voc: "distribucije"

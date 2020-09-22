@@ -1,0 +1,22 @@
+---
+  id: "543"
+  word: "paradoks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "paradoks"
+      acc: "paradoks"
+      gen: "paradoksa"
+      loc: "paradoksu"
+      dat: "paradoksu"
+      ins: "paradoksom"
+      voc: "paradokse"
+    plural: 
+      nom: "paradoksy"
+      acc: "paradoksy"
+      gen: "paradoksov"
+      loc: "paradoksah"
+      dat: "paradoksam"
+      ins: "paradoksami"
+      voc: "paradoksy"

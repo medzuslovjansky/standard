@@ -1,0 +1,23 @@
+---
+  id: "5129"
+  word: "specialist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "specialist"
+      acc: "specialista"
+      gen: "specialista"
+      loc: "specialistu"
+      dat: "specialistu"
+      ins: "specialistom"
+      voc: "specialiste"
+    plural: 
+      nom: "specialisti"
+      acc: "specialistov"
+      gen: "specialistov"
+      loc: "specialistah"
+      dat: "specialistam"
+      ins: "specialistami"
+      voc: "specialisti"

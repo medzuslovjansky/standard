@@ -1,0 +1,22 @@
+---
+  id: "23496"
+  word: "avtomobil"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtomobil"
+      acc: "avtomobil"
+      gen: "avtomobila"
+      loc: "avtomobilu"
+      dat: "avtomobilu"
+      ins: "avtomobilom"
+      voc: "avtomobile"
+    plural: 
+      nom: "avtomobily"
+      acc: "avtomobily"
+      gen: "avtomobilov"
+      loc: "avtomobilah"
+      dat: "avtomobilam"
+      ins: "avtomobilami"
+      voc: "avtomobily"

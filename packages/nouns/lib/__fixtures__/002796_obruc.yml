@@ -1,0 +1,22 @@
+---
+  id: "2796"
+  word: "obrųč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrųč"
+      acc: "obrųč"
+      gen: "obrųča"
+      loc: "obrųču"
+      dat: "obrųču"
+      ins: "obrųčem"
+      voc: "obrųču"
+    plural: 
+      nom: "obrųče"
+      acc: "obrųče"
+      gen: "obrųčev"
+      loc: "obrųčah"
+      dat: "obrųčam"
+      ins: "obrųčami"
+      voc: "obrųče"

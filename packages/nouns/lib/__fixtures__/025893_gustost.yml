@@ -1,0 +1,22 @@
+---
+  id: "25893"
+  word: "gųstosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gųstosť"
+      acc: "gųstosť"
+      gen: "gųstosti"
+      loc: "gųstosti"
+      dat: "gųstosti"
+      ins: "gųstosťjų"
+      voc: "gųstosti"
+    plural: 
+      nom: "gųstosti"
+      acc: "gųstosti"
+      gen: "gųstostij"
+      loc: "gųstosťah"
+      dat: "gųstosťam"
+      ins: "gųstosťami"
+      voc: "gųstosti"

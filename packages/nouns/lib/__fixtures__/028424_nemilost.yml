@@ -1,0 +1,22 @@
+---
+  id: "28424"
+  word: "nemilosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nemilosť"
+      acc: "nemilosť"
+      gen: "nemilosti"
+      loc: "nemilosti"
+      dat: "nemilosti"
+      ins: "nemilosťjų"
+      voc: "nemilosti"
+    plural: 
+      nom: "nemilosti"
+      acc: "nemilosti"
+      gen: "nemilostij"
+      loc: "nemilosťah"
+      dat: "nemilosťam"
+      ins: "nemilosťami"
+      voc: "nemilosti"

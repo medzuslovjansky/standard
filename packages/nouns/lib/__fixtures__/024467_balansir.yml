@@ -1,0 +1,22 @@
+---
+  id: "24467"
+  word: "balansir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balansir"
+      acc: "balansir"
+      gen: "balansira"
+      loc: "balansiru"
+      dat: "balansiru"
+      ins: "balansirom"
+      voc: "balansire"
+    plural: 
+      nom: "balansiry"
+      acc: "balansiry"
+      gen: "balansirov"
+      loc: "balansirah"
+      dat: "balansiram"
+      ins: "balansirami"
+      voc: "balansiry"

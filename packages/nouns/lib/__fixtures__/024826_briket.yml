@@ -1,0 +1,22 @@
+---
+  id: "24826"
+  word: "briket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "briket"
+      acc: "briket"
+      gen: "briketa"
+      loc: "briketu"
+      dat: "briketu"
+      ins: "briketom"
+      voc: "brikete"
+    plural: 
+      nom: "brikety"
+      acc: "brikety"
+      gen: "briketov"
+      loc: "briketah"
+      dat: "briketam"
+      ins: "briketami"
+      voc: "brikety"

@@ -1,0 +1,22 @@
+---
+  id: "6082"
+  word: "embargo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "embargo"
+      acc: "embargo"
+      gen: "embarga"
+      loc: "embargu"
+      dat: "embargu"
+      ins: "embargom"
+      voc: "embargo"
+    plural: 
+      nom: "embarga"
+      acc: "embarga"
+      gen: "embarg"
+      loc: "embargah"
+      dat: "embargam"
+      ins: "embargami"
+      voc: "embarga"

@@ -1,0 +1,22 @@
+---
+  id: "35337"
+  word: "anahronizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "anahronizm"
+      acc: "anahronizm"
+      gen: "anahronizma"
+      loc: "anahronizmu"
+      dat: "anahronizmu"
+      ins: "anahronizmom"
+      voc: "anahronizme"
+    plural: 
+      nom: "anahronizmy"
+      acc: "anahronizmy"
+      gen: "anahronizmov"
+      loc: "anahronizmah"
+      dat: "anahronizmam"
+      ins: "anahronizmami"
+      voc: "anahronizmy"

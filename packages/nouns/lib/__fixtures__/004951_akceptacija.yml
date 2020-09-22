@@ -1,0 +1,15 @@
+---
+  id: "4951"
+  word: "akceptacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akceptacija"
+      acc: "akceptacijų"
+      gen: "akceptacije"
+      loc: "akceptaciji"
+      dat: "akceptaciji"
+      ins: "akceptacijejų"
+      voc: "akceptacijo"

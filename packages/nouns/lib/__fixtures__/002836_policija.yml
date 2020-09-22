@@ -1,0 +1,22 @@
+---
+  id: "2836"
+  word: "policija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "policija"
+      acc: "policijų"
+      gen: "policije"
+      loc: "policiji"
+      dat: "policiji"
+      ins: "policijejų"
+      voc: "policijo"
+    plural: 
+      nom: "policije"
+      acc: "policije"
+      gen: "policij"
+      loc: "policijah"
+      dat: "policijam"
+      ins: "policijami"
+      voc: "policije"

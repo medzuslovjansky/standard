@@ -1,0 +1,22 @@
+---
+  id: "35994"
+  word: "bifštek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bifštek"
+      acc: "bifštek"
+      gen: "bifšteka"
+      loc: "bifšteku"
+      dat: "bifšteku"
+      ins: "bifštekom"
+      voc: "bifšteče"
+    plural: 
+      nom: "bifšteky"
+      acc: "bifšteky"
+      gen: "bifštekov"
+      loc: "bifštekah"
+      dat: "bifštekam"
+      ins: "bifštekami"
+      voc: "bifšteky"

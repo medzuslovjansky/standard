@@ -1,0 +1,22 @@
+---
+  id: "5299"
+  word: "črěp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "črěp"
+      acc: "črěp"
+      gen: "črěpa"
+      loc: "črěpu"
+      dat: "črěpu"
+      ins: "črěpom"
+      voc: "črěpe"
+    plural: 
+      nom: "črěpy"
+      acc: "črěpy"
+      gen: "črěpov"
+      loc: "črěpah"
+      dat: "črěpam"
+      ins: "črěpami"
+      voc: "črěpy"

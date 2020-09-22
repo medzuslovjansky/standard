@@ -1,0 +1,15 @@
+---
+  id: "11623"
+  word: "prošlosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prošlosť"
+      acc: "prošlosť"
+      gen: "prošlosti"
+      loc: "prošlosti"
+      dat: "prošlosti"
+      ins: "prošlosťjų"
+      voc: "prošlosti"

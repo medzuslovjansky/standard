@@ -1,0 +1,22 @@
+---
+  id: "19411"
+  word: "zasměška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zasměška"
+      acc: "zasměškų"
+      gen: "zasměšky"
+      loc: "zasměškě"
+      dat: "zasměškě"
+      ins: "zasměškojų"
+      voc: "zasměško"
+    plural: 
+      nom: "zasměšky"
+      acc: "zasměšky"
+      gen: "zasměšek"
+      loc: "zasměškah"
+      dat: "zasměškam"
+      ins: "zasměškami"
+      voc: "zasměšky"

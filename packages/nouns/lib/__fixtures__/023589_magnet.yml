@@ -1,0 +1,22 @@
+---
+  id: "23589"
+  word: "magnet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "magnet"
+      acc: "magnet"
+      gen: "magneta"
+      loc: "magnetu"
+      dat: "magnetu"
+      ins: "magnetom"
+      voc: "magnete"
+    plural: 
+      nom: "magnety"
+      acc: "magnety"
+      gen: "magnetov"
+      loc: "magnetah"
+      dat: "magnetam"
+      ins: "magnetami"
+      voc: "magnety"

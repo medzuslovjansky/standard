@@ -1,0 +1,22 @@
+---
+  id: "35653"
+  word: "světluška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "světluška"
+      acc: "světluškų"
+      gen: "světlušky"
+      loc: "světluškě"
+      dat: "světluškě"
+      ins: "světluškojų"
+      voc: "světluško"
+    plural: 
+      nom: "světlušky"
+      acc: "světlušky"
+      gen: "světlušek"
+      loc: "světluškah"
+      dat: "světluškam"
+      ins: "světluškami"
+      voc: "světlušky"

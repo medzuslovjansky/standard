@@ -1,0 +1,23 @@
+---
+  id: "14770"
+  word: "obråtitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obråtitelj"
+      acc: "obråtitelja"
+      gen: "obråtitelja"
+      loc: "obråtitelju"
+      dat: "obråtitelju"
+      ins: "obråtiteljem"
+      voc: "obråtitelju"
+    plural: 
+      nom: "obråtitelji"
+      acc: "obråtiteljev"
+      gen: "obråtiteljev"
+      loc: "obråtiteljah"
+      dat: "obråtiteljam"
+      ins: "obråtiteljami"
+      voc: "obråtitelji"

@@ -1,0 +1,22 @@
+---
+  id: "27062"
+  word: "lavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lavka"
+      acc: "lavkų"
+      gen: "lavky"
+      loc: "lavkě"
+      dat: "lavkě"
+      ins: "lavkojų"
+      voc: "lavko"
+    plural: 
+      nom: "lavky"
+      acc: "lavky"
+      gen: "lavȯk"
+      loc: "lavkah"
+      dat: "lavkam"
+      ins: "lavkami"
+      voc: "lavky"

@@ -1,0 +1,22 @@
+---
+  id: "36508"
+  word: "směška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "směška"
+      acc: "směškų"
+      gen: "směšky"
+      loc: "směškě"
+      dat: "směškě"
+      ins: "směškojų"
+      voc: "směško"
+    plural: 
+      nom: "směšky"
+      acc: "směšky"
+      gen: "směšek"
+      loc: "směškah"
+      dat: "směškam"
+      ins: "směškami"
+      voc: "směšky"

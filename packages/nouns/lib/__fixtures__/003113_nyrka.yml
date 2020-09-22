@@ -1,0 +1,22 @@
+---
+  id: "3113"
+  word: "nyrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nyrka"
+      acc: "nyrkų"
+      gen: "nyrky"
+      loc: "nyrkě"
+      dat: "nyrkě"
+      ins: "nyrkojų"
+      voc: "nyrko"
+    plural: 
+      nom: "nyrky"
+      acc: "nyrky"
+      gen: "nyrȯk"
+      loc: "nyrkah"
+      dat: "nyrkam"
+      ins: "nyrkami"
+      voc: "nyrky"

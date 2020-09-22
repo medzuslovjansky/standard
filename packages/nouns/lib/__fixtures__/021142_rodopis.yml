@@ -1,0 +1,15 @@
+---
+  id: "21142"
+  word: "rodopis"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "rodopis"
+      acc: "rodopis"
+      gen: "rodopisa"
+      loc: "rodopisu"
+      dat: "rodopisu"
+      ins: "rodopisom"
+      voc: "rodopise"

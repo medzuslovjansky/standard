@@ -1,0 +1,22 @@
+---
+  id: "2105"
+  word: "igla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "igla"
+      acc: "iglų"
+      gen: "igly"
+      loc: "iglě"
+      dat: "iglě"
+      ins: "iglojų"
+      voc: "iglo"
+    plural: 
+      nom: "igly"
+      acc: "igly"
+      gen: "igl"
+      loc: "iglah"
+      dat: "iglam"
+      ins: "iglami"
+      voc: "igly"

@@ -1,0 +1,22 @@
+---
+  id: "6114"
+  word: "abažur"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abažur"
+      acc: "abažur"
+      gen: "abažura"
+      loc: "abažuru"
+      dat: "abažuru"
+      ins: "abažurom"
+      voc: "abažure"
+    plural: 
+      nom: "abažury"
+      acc: "abažury"
+      gen: "abažurov"
+      loc: "abažurah"
+      dat: "abažuram"
+      ins: "abažurami"
+      voc: "abažury"

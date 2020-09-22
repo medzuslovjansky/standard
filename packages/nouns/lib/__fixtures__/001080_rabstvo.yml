@@ -1,0 +1,15 @@
+---
+  id: "1080"
+  word: "råbstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "råbstvo"
+      acc: "råbstvo"
+      gen: "råbstva"
+      loc: "råbstvu"
+      dat: "råbstvu"
+      ins: "råbstvom"
+      voc: "råbstvo"

@@ -1,0 +1,22 @@
+---
+  id: "17248"
+  word: "depresija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "depresija"
+      acc: "depresijų"
+      gen: "depresije"
+      loc: "depresiji"
+      dat: "depresiji"
+      ins: "depresijejų"
+      voc: "depresijo"
+    plural: 
+      nom: "depresije"
+      acc: "depresije"
+      gen: "depresij"
+      loc: "depresijah"
+      dat: "depresijam"
+      ins: "depresijami"
+      voc: "depresije"

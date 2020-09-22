@@ -1,0 +1,22 @@
+---
+  id: "19216"
+  word: "vęzka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vęzka"
+      acc: "vęzkų"
+      gen: "vęzky"
+      loc: "vęzkě"
+      dat: "vęzkě"
+      ins: "vęzkojų"
+      voc: "vęzko"
+    plural: 
+      nom: "vęzky"
+      acc: "vęzky"
+      gen: "vęzȯk"
+      loc: "vęzkah"
+      dat: "vęzkam"
+      ins: "vęzkami"
+      voc: "vęzky"

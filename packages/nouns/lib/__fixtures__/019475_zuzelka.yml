@@ -1,0 +1,22 @@
+---
+  id: "19475"
+  word: "žuželka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žuželka"
+      acc: "žuželkų"
+      gen: "žuželky"
+      loc: "žuželkě"
+      dat: "žuželkě"
+      ins: "žuželkojų"
+      voc: "žuželko"
+    plural: 
+      nom: "žuželky"
+      acc: "žuželky"
+      gen: "žuželȯk"
+      loc: "žuželkah"
+      dat: "žuželkam"
+      ins: "žuželkami"
+      voc: "žuželky"

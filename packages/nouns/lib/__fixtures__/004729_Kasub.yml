@@ -1,0 +1,23 @@
+---
+  id: "4729"
+  word: "Kašub"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Kašub"
+      acc: "Kašuba"
+      gen: "Kašuba"
+      loc: "Kašubu"
+      dat: "Kašubu"
+      ins: "Kašubom"
+      voc: "Kašube"
+    plural: 
+      nom: "Kašubi"
+      acc: "Kašubov"
+      gen: "Kašubov"
+      loc: "Kašubah"
+      dat: "Kašubam"
+      ins: "Kašubami"
+      voc: "Kašubi"

@@ -1,0 +1,22 @@
+---
+  id: "6090"
+  word: "pyšnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pyšnosť"
+      acc: "pyšnosť"
+      gen: "pyšnosti"
+      loc: "pyšnosti"
+      dat: "pyšnosti"
+      ins: "pyšnosťjų"
+      voc: "pyšnosti"
+    plural: 
+      nom: "pyšnosti"
+      acc: "pyšnosti"
+      gen: "pyšnostij"
+      loc: "pyšnosťah"
+      dat: "pyšnosťam"
+      ins: "pyšnosťami"
+      voc: "pyšnosti"

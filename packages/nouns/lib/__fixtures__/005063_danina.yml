@@ -1,0 +1,22 @@
+---
+  id: "5063"
+  word: "danina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "danina"
+      acc: "daninų"
+      gen: "daniny"
+      loc: "danině"
+      dat: "danině"
+      ins: "daninojų"
+      voc: "danino"
+    plural: 
+      nom: "dany"
+      acc: "dany"
+      gen: "dan"
+      loc: "danah"
+      dat: "danam"
+      ins: "danami"
+      voc: "dany"

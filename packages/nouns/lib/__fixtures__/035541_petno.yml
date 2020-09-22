@@ -1,0 +1,22 @@
+---
+  id: "35541"
+  word: "pętno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pętno"
+      acc: "pętno"
+      gen: "pętna"
+      loc: "pętnu"
+      dat: "pętnu"
+      ins: "pętnom"
+      voc: "pętno"
+    plural: 
+      nom: "pętna"
+      acc: "pętna"
+      gen: "pęten"
+      loc: "pętnah"
+      dat: "pętnam"
+      ins: "pętnami"
+      voc: "pętna"

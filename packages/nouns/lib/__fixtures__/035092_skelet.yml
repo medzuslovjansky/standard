@@ -1,0 +1,22 @@
+---
+  id: "35092"
+  word: "skelet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skelet"
+      acc: "skelet"
+      gen: "skeleta"
+      loc: "skeletu"
+      dat: "skeletu"
+      ins: "skeletom"
+      voc: "skelete"
+    plural: 
+      nom: "skelety"
+      acc: "skelety"
+      gen: "skeletov"
+      loc: "skeletah"
+      dat: "skeletam"
+      ins: "skeletami"
+      voc: "skelety"

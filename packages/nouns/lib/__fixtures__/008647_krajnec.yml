@@ -1,0 +1,23 @@
+---
+  id: "8647"
+  word: "krajnec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krajnec"
+      acc: "krajneca"
+      gen: "krajneca"
+      loc: "krajnecu"
+      dat: "krajnecu"
+      ins: "krajnecem"
+      voc: "krajneče"
+    plural: 
+      nom: "krajneci"
+      acc: "krajnecev"
+      gen: "krajnecev"
+      loc: "krajnecah"
+      dat: "krajnecam"
+      ins: "krajnecami"
+      voc: "krajneci"

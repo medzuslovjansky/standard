@@ -1,0 +1,22 @@
+---
+  id: "23468"
+  word: "sråka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sråka"
+      acc: "sråkų"
+      gen: "sråky"
+      loc: "sråkě"
+      dat: "sråkě"
+      ins: "sråkojų"
+      voc: "sråko"
+    plural: 
+      nom: "sråky"
+      acc: "sråky"
+      gen: "sråk"
+      loc: "sråkah"
+      dat: "sråkam"
+      ins: "sråkami"
+      voc: "sråky"

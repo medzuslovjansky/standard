@@ -1,0 +1,22 @@
+---
+  id: "18818"
+  word: "skarbnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skarbnica"
+      acc: "skarbnicų"
+      gen: "skarbnice"
+      loc: "skarbnici"
+      dat: "skarbnici"
+      ins: "skarbnicejų"
+      voc: "skarbnico"
+    plural: 
+      nom: "skarbnice"
+      acc: "skarbnice"
+      gen: "skarbnic"
+      loc: "skarbnicah"
+      dat: "skarbnicam"
+      ins: "skarbnicami"
+      voc: "skarbnice"

@@ -1,0 +1,22 @@
+---
+  id: "35137"
+  word: "tematika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tematika"
+      acc: "tematikų"
+      gen: "tematiky"
+      loc: "tematikě"
+      dat: "tematikě"
+      ins: "tematikojų"
+      voc: "tematiko"
+    plural: 
+      nom: "tematiky"
+      acc: "tematiky"
+      gen: "tematik"
+      loc: "tematikah"
+      dat: "tematikam"
+      ins: "tematikami"
+      voc: "tematiky"

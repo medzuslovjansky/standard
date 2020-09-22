@@ -1,0 +1,15 @@
+---
+  id: "4898"
+  word: "Antarktida"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Antarktida"
+      acc: "Antarktidų"
+      gen: "Antarktidy"
+      loc: "Antarktidě"
+      dat: "Antarktidě"
+      ins: "Antarktidojų"
+      voc: "Antarktido"

@@ -1,0 +1,22 @@
+---
+  id: "23406"
+  word: "graběž"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "graběž"
+      acc: "graběž"
+      gen: "graběži"
+      loc: "graběži"
+      dat: "graběži"
+      ins: "graběžjų"
+      voc: "graběži"
+    plural: 
+      nom: "graběži"
+      acc: "graběži"
+      gen: "graběžij"
+      loc: "graběžah"
+      dat: "graběžam"
+      ins: "graběžami"
+      voc: "graběži"

@@ -1,0 +1,31 @@
+---
+  - 
+    id: "3582"
+    word: "ekspansija"
+    meta: 
+      gender: "feminine"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "ekspansija"
+        acc: "ekspansijų"
+        gen: "ekspansije"
+        loc: "ekspansiji"
+        dat: "ekspansiji"
+        ins: "ekspansijejų"
+        voc: "ekspansijo"
+  - 
+    id: "3582"
+    word: "ekspanzija"
+    meta: 
+      gender: "feminine"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "ekspanzija"
+        acc: "ekspanzijų"
+        gen: "ekspanzije"
+        loc: "ekspanziji"
+        dat: "ekspanziji"
+        ins: "ekspanzijejų"
+        voc: "ekspanzijo"

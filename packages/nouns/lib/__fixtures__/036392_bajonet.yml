@@ -1,0 +1,22 @@
+---
+  id: "36392"
+  word: "bajonet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bajonet"
+      acc: "bajonet"
+      gen: "bajoneta"
+      loc: "bajonetu"
+      dat: "bajonetu"
+      ins: "bajonetom"
+      voc: "bajonete"
+    plural: 
+      nom: "bajonety"
+      acc: "bajonety"
+      gen: "bajonetov"
+      loc: "bajonetah"
+      dat: "bajonetam"
+      ins: "bajonetami"
+      voc: "bajonety"

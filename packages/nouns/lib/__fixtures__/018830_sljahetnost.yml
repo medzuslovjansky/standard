@@ -1,0 +1,22 @@
+---
+  id: "18830"
+  word: "šljahetnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šljahetnosť"
+      acc: "šljahetnosť"
+      gen: "šljahetnosti"
+      loc: "šljahetnosti"
+      dat: "šljahetnosti"
+      ins: "šljahetnosťjų"
+      voc: "šljahetnosti"
+    plural: 
+      nom: "šljahetnosti"
+      acc: "šljahetnosti"
+      gen: "šljahetnostij"
+      loc: "šljahetnosťah"
+      dat: "šljahetnosťam"
+      ins: "šljahetnosťami"
+      voc: "šljahetnosti"

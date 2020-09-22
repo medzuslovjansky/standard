@@ -1,0 +1,15 @@
+---
+  id: "22600"
+  word: "azot"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "azot"
+      acc: "azot"
+      gen: "azota"
+      loc: "azotu"
+      dat: "azotu"
+      ins: "azotom"
+      voc: "azote"

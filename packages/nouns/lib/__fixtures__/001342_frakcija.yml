@@ -1,0 +1,22 @@
+---
+  id: "1342"
+  word: "frakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "frakcija"
+      acc: "frakcijų"
+      gen: "frakcije"
+      loc: "frakciji"
+      dat: "frakciji"
+      ins: "frakcijejų"
+      voc: "frakcijo"
+    plural: 
+      nom: "frakcije"
+      acc: "frakcije"
+      gen: "frakcij"
+      loc: "frakcijah"
+      dat: "frakcijam"
+      ins: "frakcijami"
+      voc: "frakcije"

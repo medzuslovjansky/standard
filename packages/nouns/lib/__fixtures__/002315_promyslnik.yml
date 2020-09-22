@@ -1,0 +1,23 @@
+---
+  id: "2315"
+  word: "promysľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "promysľnik"
+      acc: "promysľnika"
+      gen: "promysľnika"
+      loc: "promysľniku"
+      dat: "promysľniku"
+      ins: "promysľnikom"
+      voc: "promysľniče"
+    plural: 
+      nom: "promysľniki"
+      acc: "promysľnikov"
+      gen: "promysľnikov"
+      loc: "promysľnikah"
+      dat: "promysľnikam"
+      ins: "promysľnikami"
+      voc: "promysľniki"

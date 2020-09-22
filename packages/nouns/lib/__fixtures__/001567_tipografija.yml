@@ -1,0 +1,22 @@
+---
+  id: "1567"
+  word: "tipografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tipografija"
+      acc: "tipografijų"
+      gen: "tipografije"
+      loc: "tipografiji"
+      dat: "tipografiji"
+      ins: "tipografijejų"
+      voc: "tipografijo"
+    plural: 
+      nom: "tipografije"
+      acc: "tipografije"
+      gen: "tipografij"
+      loc: "tipografijah"
+      dat: "tipografijam"
+      ins: "tipografijami"
+      voc: "tipografije"

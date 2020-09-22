@@ -1,0 +1,22 @@
+---
+  id: "809"
+  word: "konjugacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konjugacija"
+      acc: "konjugacijų"
+      gen: "konjugacije"
+      loc: "konjugaciji"
+      dat: "konjugaciji"
+      ins: "konjugacijejų"
+      voc: "konjugacijo"
+    plural: 
+      nom: "konjugacije"
+      acc: "konjugacije"
+      gen: "konjugacij"
+      loc: "konjugacijah"
+      dat: "konjugacijam"
+      ins: "konjugacijami"
+      voc: "konjugacije"

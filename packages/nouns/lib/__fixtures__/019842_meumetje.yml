@@ -1,0 +1,22 @@
+---
+  id: "19842"
+  word: "međumeťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "međumeťje"
+      acc: "međumeťje"
+      gen: "međumeťja"
+      loc: "međumeťju"
+      dat: "međumeťju"
+      ins: "međumeťjem"
+      voc: "međumeťje"
+    plural: 
+      nom: "međumeťja"
+      acc: "međumeťja"
+      gen: "međumetij"
+      loc: "međumeťjah"
+      dat: "međumeťjam"
+      ins: "međumeťjami"
+      voc: "međumeťja"

@@ -1,0 +1,22 @@
+---
+  id: "34524"
+  word: "spozdnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "spozdnjeńje"
+      acc: "spozdnjeńje"
+      gen: "spozdnjeńja"
+      loc: "spozdnjeńju"
+      dat: "spozdnjeńju"
+      ins: "spozdnjeńjem"
+      voc: "spozdnjeńje"
+    plural: 
+      nom: "spozdnjeńja"
+      acc: "spozdnjeńja"
+      gen: "spozdnjenij"
+      loc: "spozdnjeńjah"
+      dat: "spozdnjeńjam"
+      ins: "spozdnjeńjami"
+      voc: "spozdnjeńja"

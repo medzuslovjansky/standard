@@ -1,0 +1,22 @@
+---
+  id: "5300"
+  word: "emocija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "emocija"
+      acc: "emocijų"
+      gen: "emocije"
+      loc: "emociji"
+      dat: "emociji"
+      ins: "emocijejų"
+      voc: "emocijo"
+    plural: 
+      nom: "emocije"
+      acc: "emocije"
+      gen: "emocij"
+      loc: "emocijah"
+      dat: "emocijam"
+      ins: "emocijami"
+      voc: "emocije"

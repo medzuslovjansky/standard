@@ -1,0 +1,22 @@
+---
+  id: "35572"
+  word: "kuzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuzina"
+      acc: "kuzinų"
+      gen: "kuziny"
+      loc: "kuzině"
+      dat: "kuzině"
+      ins: "kuzinojų"
+      voc: "kuzino"
+    plural: 
+      nom: "kuziny"
+      acc: "kuziny"
+      gen: "kuzin"
+      loc: "kuzinah"
+      dat: "kuzinam"
+      ins: "kuzinami"
+      voc: "kuziny"

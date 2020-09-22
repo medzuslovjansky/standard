@@ -1,0 +1,22 @@
+---
+  id: "3058"
+  word: "jelito"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jelito"
+      acc: "jelito"
+      gen: "jelita"
+      loc: "jelitu"
+      dat: "jelitu"
+      ins: "jelitom"
+      voc: "jelito"
+    plural: 
+      nom: "jelita"
+      acc: "jelita"
+      gen: "jelit"
+      loc: "jelitah"
+      dat: "jelitam"
+      ins: "jelitami"
+      voc: "jelita"

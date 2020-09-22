@@ -1,0 +1,22 @@
+---
+  id: "36854"
+  word: "strašilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "strašilo"
+      acc: "strašilo"
+      gen: "strašila"
+      loc: "strašilu"
+      dat: "strašilu"
+      ins: "strašilom"
+      voc: "strašilo"
+    plural: 
+      nom: "strašila"
+      acc: "strašila"
+      gen: "strašil"
+      loc: "strašilah"
+      dat: "strašilam"
+      ins: "strašilami"
+      voc: "strašila"

@@ -1,0 +1,23 @@
+---
+  id: "878"
+  word: "jaščer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jaščer"
+      acc: "jaščera"
+      gen: "jaščera"
+      loc: "jaščeru"
+      dat: "jaščeru"
+      ins: "jaščerom"
+      voc: "jaščere"
+    plural: 
+      nom: "jaščeri"
+      acc: "jaščerov"
+      gen: "jaščerov"
+      loc: "jaščerah"
+      dat: "jaščeram"
+      ins: "jaščerami"
+      voc: "jaščeri"

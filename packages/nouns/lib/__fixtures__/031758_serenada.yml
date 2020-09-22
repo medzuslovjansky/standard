@@ -1,0 +1,22 @@
+---
+  id: "31758"
+  word: "serenada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "serenada"
+      acc: "serenadų"
+      gen: "serenady"
+      loc: "serenadě"
+      dat: "serenadě"
+      ins: "serenadojų"
+      voc: "serenado"
+    plural: 
+      nom: "serenady"
+      acc: "serenady"
+      gen: "serenad"
+      loc: "serenadah"
+      dat: "serenadam"
+      ins: "serenadami"
+      voc: "serenady"

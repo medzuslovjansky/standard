@@ -1,0 +1,22 @@
+---
+  id: "28186"
+  word: "naslåda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naslåda"
+      acc: "naslådų"
+      gen: "naslådy"
+      loc: "naslådě"
+      dat: "naslådě"
+      ins: "naslådojų"
+      voc: "naslådo"
+    plural: 
+      nom: "naslådy"
+      acc: "naslådy"
+      gen: "naslåd"
+      loc: "naslådah"
+      dat: "naslådam"
+      ins: "naslådami"
+      voc: "naslådy"

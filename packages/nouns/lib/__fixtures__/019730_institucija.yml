@@ -1,0 +1,22 @@
+---
+  id: "19730"
+  word: "institucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "institucija"
+      acc: "institucijų"
+      gen: "institucije"
+      loc: "instituciji"
+      dat: "instituciji"
+      ins: "institucijejų"
+      voc: "institucijo"
+    plural: 
+      nom: "institucije"
+      acc: "institucije"
+      gen: "institucij"
+      loc: "institucijah"
+      dat: "institucijam"
+      ins: "institucijami"
+      voc: "institucije"

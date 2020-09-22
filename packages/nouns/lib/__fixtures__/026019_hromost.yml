@@ -1,0 +1,22 @@
+---
+  id: "26019"
+  word: "hromosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hromosť"
+      acc: "hromosť"
+      gen: "hromosti"
+      loc: "hromosti"
+      dat: "hromosti"
+      ins: "hromosťjų"
+      voc: "hromosti"
+    plural: 
+      nom: "hromosti"
+      acc: "hromosti"
+      gen: "hromostij"
+      loc: "hromosťah"
+      dat: "hromosťam"
+      ins: "hromosťami"
+      voc: "hromosti"

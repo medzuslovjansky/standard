@@ -1,0 +1,23 @@
+---
+  id: "25746"
+  word: "gospodaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gospodaŕ"
+      acc: "gospodaŕa"
+      gen: "gospodaŕa"
+      loc: "gospodaŕu"
+      dat: "gospodaŕu"
+      ins: "gospodaŕem"
+      voc: "gospodaŕu"
+    plural: 
+      nom: "gospodari"
+      acc: "gospodaŕev"
+      gen: "gospodaŕev"
+      loc: "gospodaŕah"
+      dat: "gospodaŕam"
+      ins: "gospodaŕami"
+      voc: "gospodari"

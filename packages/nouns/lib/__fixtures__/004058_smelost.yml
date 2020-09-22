@@ -1,0 +1,22 @@
+---
+  id: "4058"
+  word: "smělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smělosť"
+      acc: "smělosť"
+      gen: "smělosti"
+      loc: "smělosti"
+      dat: "smělosti"
+      ins: "smělosťjų"
+      voc: "smělosti"
+    plural: 
+      nom: "smělosti"
+      acc: "smělosti"
+      gen: "smělostij"
+      loc: "smělosťah"
+      dat: "smělosťam"
+      ins: "smělosťami"
+      voc: "smělosti"

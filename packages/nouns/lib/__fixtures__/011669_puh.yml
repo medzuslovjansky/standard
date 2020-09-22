@@ -1,0 +1,22 @@
+---
+  id: "11669"
+  word: "puh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "puh"
+      acc: "puh"
+      gen: "puha"
+      loc: "puhu"
+      dat: "puhu"
+      ins: "puhom"
+      voc: "puše"
+    plural: 
+      nom: "puhy"
+      acc: "puhy"
+      gen: "puhov"
+      loc: "puhah"
+      dat: "puham"
+      ins: "puhami"
+      voc: "puhy"

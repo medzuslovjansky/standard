@@ -1,0 +1,23 @@
+---
+  id: "35271"
+  word: "hobist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hobist"
+      acc: "hobista"
+      gen: "hobista"
+      loc: "hobistu"
+      dat: "hobistu"
+      ins: "hobistom"
+      voc: "hobiste"
+    plural: 
+      nom: "hobisti"
+      acc: "hobistov"
+      gen: "hobistov"
+      loc: "hobistah"
+      dat: "hobistam"
+      ins: "hobistami"
+      voc: "hobisti"

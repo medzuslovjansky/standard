@@ -1,0 +1,22 @@
+---
+  id: "5630"
+  word: "råzstavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzstavjeńje"
+      acc: "råzstavjeńje"
+      gen: "råzstavjeńja"
+      loc: "råzstavjeńju"
+      dat: "råzstavjeńju"
+      ins: "råzstavjeńjem"
+      voc: "råzstavjeńje"
+    plural: 
+      nom: "råzstavjeńja"
+      acc: "råzstavjeńja"
+      gen: "råzstavjenij"
+      loc: "råzstavjeńjah"
+      dat: "råzstavjeńjam"
+      ins: "råzstavjeńjami"
+      voc: "råzstavjeńja"

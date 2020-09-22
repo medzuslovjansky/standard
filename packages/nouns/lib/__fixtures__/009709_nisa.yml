@@ -1,0 +1,22 @@
+---
+  id: "9709"
+  word: "niša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "niša"
+      acc: "nišų"
+      gen: "niše"
+      loc: "niši"
+      dat: "niši"
+      ins: "nišejų"
+      voc: "nišo"
+    plural: 
+      nom: "niše"
+      acc: "niše"
+      gen: "niš"
+      loc: "nišah"
+      dat: "nišam"
+      ins: "nišami"
+      voc: "niše"

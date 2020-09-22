@@ -1,0 +1,15 @@
+---
+  id: "34769"
+  word: "akrobatika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akrobatika"
+      acc: "akrobatikų"
+      gen: "akrobatiky"
+      loc: "akrobatikě"
+      dat: "akrobatikě"
+      ins: "akrobatikojų"
+      voc: "akrobatiko"

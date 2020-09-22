@@ -1,0 +1,15 @@
+---
+  id: "5318"
+  word: "nacionalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nacionalizm"
+      acc: "nacionalizm"
+      gen: "nacionalizma"
+      loc: "nacionalizmu"
+      dat: "nacionalizmu"
+      ins: "nacionalizmom"
+      voc: "nacionalizme"

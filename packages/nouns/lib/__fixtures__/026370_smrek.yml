@@ -1,0 +1,22 @@
+---
+  id: "26370"
+  word: "smrěk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smrěk"
+      acc: "smrěk"
+      gen: "smrěka"
+      loc: "smrěku"
+      dat: "smrěku"
+      ins: "smrěkom"
+      voc: "smrěče"
+    plural: 
+      nom: "smrěky"
+      acc: "smrěky"
+      gen: "smrěkov"
+      loc: "smrěkah"
+      dat: "smrěkam"
+      ins: "smrěkami"
+      voc: "smrěky"

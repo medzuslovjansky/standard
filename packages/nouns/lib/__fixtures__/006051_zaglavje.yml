@@ -1,0 +1,22 @@
+---
+  id: "6051"
+  word: "zaglåvje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zaglåvje"
+      acc: "zaglåvje"
+      gen: "zaglåvja"
+      loc: "zaglåvju"
+      dat: "zaglåvju"
+      ins: "zaglåvjem"
+      voc: "zaglåvje"
+    plural: 
+      nom: "zaglåvja"
+      acc: "zaglåvja"
+      gen: "zaglåvij"
+      loc: "zaglåvjah"
+      dat: "zaglåvjam"
+      ins: "zaglåvjami"
+      voc: "zaglåvja"

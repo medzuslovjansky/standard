@@ -1,0 +1,22 @@
+---
+  id: "35905"
+  word: "kreol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kreol"
+      acc: "kreol"
+      gen: "kreola"
+      loc: "kreolu"
+      dat: "kreolu"
+      ins: "kreolom"
+      voc: "kreole"
+    plural: 
+      nom: "kreoly"
+      acc: "kreoly"
+      gen: "kreolov"
+      loc: "kreolah"
+      dat: "kreolam"
+      ins: "kreolami"
+      voc: "kreoly"

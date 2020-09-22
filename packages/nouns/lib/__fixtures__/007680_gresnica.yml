@@ -1,0 +1,22 @@
+---
+  id: "7680"
+  word: "grěšnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grěšnica"
+      acc: "grěšnicų"
+      gen: "grěšnice"
+      loc: "grěšnici"
+      dat: "grěšnici"
+      ins: "grěšnicejų"
+      voc: "grěšnico"
+    plural: 
+      nom: "grěšnice"
+      acc: "grěšnice"
+      gen: "grěšnic"
+      loc: "grěšnicah"
+      dat: "grěšnicam"
+      ins: "grěšnicami"
+      voc: "grěšnice"

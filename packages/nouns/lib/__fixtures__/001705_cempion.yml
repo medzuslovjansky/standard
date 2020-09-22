@@ -1,0 +1,23 @@
+---
+  id: "1705"
+  word: "čempion"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čempion"
+      acc: "čempiona"
+      gen: "čempiona"
+      loc: "čempionu"
+      dat: "čempionu"
+      ins: "čempionom"
+      voc: "čempione"
+    plural: 
+      nom: "čempioni"
+      acc: "čempionov"
+      gen: "čempionov"
+      loc: "čempionah"
+      dat: "čempionam"
+      ins: "čempionami"
+      voc: "čempioni"

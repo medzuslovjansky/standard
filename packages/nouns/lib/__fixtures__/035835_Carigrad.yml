@@ -1,0 +1,15 @@
+---
+  id: "35835"
+  word: "Carigrad"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Carigrad"
+      acc: "Carigrad"
+      gen: "Carigrada"
+      loc: "Carigradu"
+      dat: "Carigradu"
+      ins: "Carigradom"
+      voc: "Carigrade"

@@ -1,0 +1,22 @@
+---
+  id: "3045"
+  word: "zmija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zmija"
+      acc: "zmijų"
+      gen: "zmije"
+      loc: "zmiji"
+      dat: "zmiji"
+      ins: "zmijejų"
+      voc: "zmijo"
+    plural: 
+      nom: "zmije"
+      acc: "zmije"
+      gen: "zmij"
+      loc: "zmijah"
+      dat: "zmijam"
+      ins: "zmijami"
+      voc: "zmije"

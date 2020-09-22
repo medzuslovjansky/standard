@@ -1,0 +1,23 @@
+---
+  id: "35823"
+  word: "hameleon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hameleon"
+      acc: "hameleona"
+      gen: "hameleona"
+      loc: "hameleonu"
+      dat: "hameleonu"
+      ins: "hameleonom"
+      voc: "hameleone"
+    plural: 
+      nom: "hameleoni"
+      acc: "hameleonov"
+      gen: "hameleonov"
+      loc: "hameleonah"
+      dat: "hameleonam"
+      ins: "hameleonami"
+      voc: "hameleoni"

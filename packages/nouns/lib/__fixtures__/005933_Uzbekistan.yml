@@ -1,0 +1,15 @@
+---
+  id: "5933"
+  word: "Uzbekistan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Uzbekistan"
+      acc: "Uzbekistan"
+      gen: "Uzbekistana"
+      loc: "Uzbekistanu"
+      dat: "Uzbekistanu"
+      ins: "Uzbekistanom"
+      voc: "Uzbekistane"

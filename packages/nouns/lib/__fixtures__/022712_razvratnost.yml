@@ -1,0 +1,22 @@
+---
+  id: "22712"
+  word: "råzvråtnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzvråtnosť"
+      acc: "råzvråtnosť"
+      gen: "råzvråtnosti"
+      loc: "råzvråtnosti"
+      dat: "råzvråtnosti"
+      ins: "råzvråtnosťjų"
+      voc: "råzvråtnosti"
+    plural: 
+      nom: "råzvråtnosti"
+      acc: "råzvråtnosti"
+      gen: "råzvråtnostij"
+      loc: "råzvråtnosťah"
+      dat: "råzvråtnosťam"
+      ins: "råzvråtnosťami"
+      voc: "råzvråtnosti"

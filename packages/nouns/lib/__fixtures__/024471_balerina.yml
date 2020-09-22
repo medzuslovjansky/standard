@@ -1,0 +1,22 @@
+---
+  id: "24471"
+  word: "balerina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "balerina"
+      acc: "balerinų"
+      gen: "baleriny"
+      loc: "balerině"
+      dat: "balerině"
+      ins: "balerinojų"
+      voc: "balerino"
+    plural: 
+      nom: "baleriny"
+      acc: "baleriny"
+      gen: "balerin"
+      loc: "balerinah"
+      dat: "balerinam"
+      ins: "balerinami"
+      voc: "baleriny"

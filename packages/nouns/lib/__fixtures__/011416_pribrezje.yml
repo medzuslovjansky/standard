@@ -1,0 +1,22 @@
+---
+  id: "11416"
+  word: "pribrěžje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pribrěžje"
+      acc: "pribrěžje"
+      gen: "pribrěžja"
+      loc: "pribrěžju"
+      dat: "pribrěžju"
+      ins: "pribrěžjem"
+      voc: "pribrěžje"
+    plural: 
+      nom: "pribrěžja"
+      acc: "pribrěžja"
+      gen: "pribrěžij"
+      loc: "pribrěžjah"
+      dat: "pribrěžjam"
+      ins: "pribrěžjami"
+      voc: "pribrěžja"

@@ -1,0 +1,22 @@
+---
+  id: "18781"
+  word: "ščedrosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ščedrosť"
+      acc: "ščedrosť"
+      gen: "ščedrosti"
+      loc: "ščedrosti"
+      dat: "ščedrosti"
+      ins: "ščedrosťjų"
+      voc: "ščedrosti"
+    plural: 
+      nom: "ščedrosti"
+      acc: "ščedrosti"
+      gen: "ščedrostij"
+      loc: "ščedrosťah"
+      dat: "ščedrosťam"
+      ins: "ščedrosťami"
+      voc: "ščedrosti"

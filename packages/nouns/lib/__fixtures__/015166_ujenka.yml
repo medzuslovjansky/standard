@@ -1,0 +1,22 @@
+---
+  id: "15166"
+  word: "ujenka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ujenka"
+      acc: "ujenkų"
+      gen: "ujenky"
+      loc: "ujenkě"
+      dat: "ujenkě"
+      ins: "ujenkojų"
+      voc: "ujenko"
+    plural: 
+      nom: "ujenky"
+      acc: "ujenky"
+      gen: "ujenȯk"
+      loc: "ujenkah"
+      dat: "ujenkam"
+      ins: "ujenkami"
+      voc: "ujenky"

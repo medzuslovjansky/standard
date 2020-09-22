@@ -1,0 +1,23 @@
+---
+  id: "8484"
+  word: "kliše"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "kliše"
+      acc: "kliše"
+      gen: "kliše"
+      loc: "kliše"
+      dat: "kliše"
+      ins: "kliše"
+      voc: "kliše"
+    plural: 
+      nom: "kliše"
+      acc: "kliše"
+      gen: "kliše"
+      loc: "kliše"
+      dat: "kliše"
+      ins: "kliše"
+      voc: "kliše"

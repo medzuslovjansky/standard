@@ -1,0 +1,22 @@
+---
+  id: "20783"
+  word: "umysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "umysl"
+      acc: "umysl"
+      gen: "umysla"
+      loc: "umyslu"
+      dat: "umyslu"
+      ins: "umyslom"
+      voc: "umysle"
+    plural: 
+      nom: "umysly"
+      acc: "umysly"
+      gen: "umyslov"
+      loc: "umyslah"
+      dat: "umyslam"
+      ins: "umyslami"
+      voc: "umysly"

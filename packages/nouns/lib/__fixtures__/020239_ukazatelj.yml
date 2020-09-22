@@ -1,0 +1,22 @@
+---
+  id: "20239"
+  word: "ukazatelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ukazatelj"
+      acc: "ukazatelj"
+      gen: "ukazatelja"
+      loc: "ukazatelju"
+      dat: "ukazatelju"
+      ins: "ukazateljem"
+      voc: "ukazatelju"
+    plural: 
+      nom: "ukazatelje"
+      acc: "ukazatelje"
+      gen: "ukazateljev"
+      loc: "ukazateljah"
+      dat: "ukazateljam"
+      ins: "ukazateljami"
+      voc: "ukazatelje"

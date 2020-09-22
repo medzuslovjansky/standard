@@ -1,0 +1,22 @@
+---
+  id: "32183"
+  word: "salata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "salata"
+      acc: "salatų"
+      gen: "salaty"
+      loc: "salatě"
+      dat: "salatě"
+      ins: "salatojų"
+      voc: "salato"
+    plural: 
+      nom: "salaty"
+      acc: "salaty"
+      gen: "salat"
+      loc: "salatah"
+      dat: "salatam"
+      ins: "salatami"
+      voc: "salaty"

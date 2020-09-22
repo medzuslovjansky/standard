@@ -1,0 +1,22 @@
+---
+  id: "2275"
+  word: "kilogram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kilogram"
+      acc: "kilogram"
+      gen: "kilograma"
+      loc: "kilogramu"
+      dat: "kilogramu"
+      ins: "kilogramom"
+      voc: "kilograme"
+    plural: 
+      nom: "kilogramy"
+      acc: "kilogramy"
+      gen: "kilogramov"
+      loc: "kilogramah"
+      dat: "kilogramam"
+      ins: "kilogramami"
+      voc: "kilogramy"

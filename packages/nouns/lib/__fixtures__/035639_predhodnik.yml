@@ -1,0 +1,23 @@
+---
+  id: "35639"
+  word: "prědhodnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědhodnik"
+      acc: "prědhodnika"
+      gen: "prědhodnika"
+      loc: "prědhodniku"
+      dat: "prědhodniku"
+      ins: "prědhodnikom"
+      voc: "prědhodniče"
+    plural: 
+      nom: "prědhodniki"
+      acc: "prědhodnikov"
+      gen: "prědhodnikov"
+      loc: "prědhodnikah"
+      dat: "prědhodnikam"
+      ins: "prědhodnikami"
+      voc: "prědhodniki"

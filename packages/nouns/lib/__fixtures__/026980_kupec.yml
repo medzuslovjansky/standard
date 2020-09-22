@@ -1,0 +1,23 @@
+---
+  id: "26980"
+  word: "kupec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kupec"
+      acc: "kupca"
+      gen: "kupca"
+      loc: "kupcu"
+      dat: "kupcu"
+      ins: "kupcem"
+      voc: "kupče"
+    plural: 
+      nom: "kupci"
+      acc: "kupcev"
+      gen: "kupcev"
+      loc: "kupcah"
+      dat: "kupcam"
+      ins: "kupcami"
+      voc: "kupci"

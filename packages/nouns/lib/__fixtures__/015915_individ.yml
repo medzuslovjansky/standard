@@ -1,0 +1,23 @@
+---
+  id: "15915"
+  word: "individ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "individ"
+      acc: "individa"
+      gen: "individa"
+      loc: "individu"
+      dat: "individu"
+      ins: "individom"
+      voc: "individe"
+    plural: 
+      nom: "individi"
+      acc: "individov"
+      gen: "individov"
+      loc: "individah"
+      dat: "individam"
+      ins: "individami"
+      voc: "individi"

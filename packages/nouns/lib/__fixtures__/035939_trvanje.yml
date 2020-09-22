@@ -1,0 +1,22 @@
+---
+  id: "35939"
+  word: "trvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "trvańje"
+      acc: "trvańje"
+      gen: "trvańja"
+      loc: "trvańju"
+      dat: "trvańju"
+      ins: "trvańjem"
+      voc: "trvańje"
+    plural: 
+      nom: "trvańja"
+      acc: "trvańja"
+      gen: "trvanij"
+      loc: "trvańjah"
+      dat: "trvańjam"
+      ins: "trvańjami"
+      voc: "trvańja"

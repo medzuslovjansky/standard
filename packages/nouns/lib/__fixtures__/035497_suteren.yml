@@ -1,0 +1,22 @@
+---
+  id: "35497"
+  word: "suteren"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "suteren"
+      acc: "suteren"
+      gen: "suterena"
+      loc: "suterenu"
+      dat: "suterenu"
+      ins: "suterenom"
+      voc: "suterene"
+    plural: 
+      nom: "sutereny"
+      acc: "sutereny"
+      gen: "suterenov"
+      loc: "suterenah"
+      dat: "suterenam"
+      ins: "suterenami"
+      voc: "sutereny"

@@ -1,0 +1,22 @@
+---
+  id: "9192"
+  word: "mȯlva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mȯlva"
+      acc: "mȯlvų"
+      gen: "mȯlvy"
+      loc: "mȯlvě"
+      dat: "mȯlvě"
+      ins: "mȯlvojų"
+      voc: "mȯlvo"
+    plural: 
+      nom: "mȯlvy"
+      acc: "mȯlvy"
+      gen: "mȯlv"
+      loc: "mȯlvah"
+      dat: "mȯlvam"
+      ins: "mȯlvami"
+      voc: "mȯlvy"

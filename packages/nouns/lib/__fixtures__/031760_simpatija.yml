@@ -1,0 +1,22 @@
+---
+  id: "31760"
+  word: "simpatija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "simpatija"
+      acc: "simpatijų"
+      gen: "simpatije"
+      loc: "simpatiji"
+      dat: "simpatiji"
+      ins: "simpatijejų"
+      voc: "simpatijo"
+    plural: 
+      nom: "simpatije"
+      acc: "simpatije"
+      gen: "simpatij"
+      loc: "simpatijah"
+      dat: "simpatijam"
+      ins: "simpatijami"
+      voc: "simpatije"

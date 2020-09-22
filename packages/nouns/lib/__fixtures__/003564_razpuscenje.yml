@@ -1,0 +1,22 @@
+---
+  id: "3564"
+  word: "råzpušćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzpušćeńje"
+      acc: "råzpušćeńje"
+      gen: "råzpušćeńja"
+      loc: "råzpušćeńju"
+      dat: "råzpušćeńju"
+      ins: "råzpušćeńjem"
+      voc: "råzpušćeńje"
+    plural: 
+      nom: "råzpušćeńja"
+      acc: "råzpušćeńja"
+      gen: "råzpušćenij"
+      loc: "råzpušćeńjah"
+      dat: "råzpušćeńjam"
+      ins: "råzpušćeńjami"
+      voc: "råzpušćeńja"

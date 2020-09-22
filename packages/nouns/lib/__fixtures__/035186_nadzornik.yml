@@ -1,0 +1,23 @@
+---
+  id: "35186"
+  word: "nadzornik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nadzornik"
+      acc: "nadzornika"
+      gen: "nadzornika"
+      loc: "nadzorniku"
+      dat: "nadzorniku"
+      ins: "nadzornikom"
+      voc: "nadzorniče"
+    plural: 
+      nom: "nadzorniki"
+      acc: "nadzornikov"
+      gen: "nadzornikov"
+      loc: "nadzornikah"
+      dat: "nadzornikam"
+      ins: "nadzornikami"
+      voc: "nadzorniki"

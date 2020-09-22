@@ -1,0 +1,22 @@
+---
+  id: "36659"
+  word: "trejler"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trejler"
+      acc: "trejler"
+      gen: "trejlera"
+      loc: "trejleru"
+      dat: "trejleru"
+      ins: "trejlerom"
+      voc: "trejlere"
+    plural: 
+      nom: "trejlery"
+      acc: "trejlery"
+      gen: "trejlerov"
+      loc: "trejlerah"
+      dat: "trejleram"
+      ins: "trejlerami"
+      voc: "trejlery"

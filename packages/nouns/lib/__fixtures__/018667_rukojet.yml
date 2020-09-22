@@ -1,0 +1,22 @@
+---
+  id: "18667"
+  word: "rųkojęť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rųkojęť"
+      acc: "rųkojęť"
+      gen: "rųkojęti"
+      loc: "rųkojęti"
+      dat: "rųkojęti"
+      ins: "rųkojęťjų"
+      voc: "rųkojęti"
+    plural: 
+      nom: "rųkojęti"
+      acc: "rųkojęti"
+      gen: "rųkojętij"
+      loc: "rųkojęťah"
+      dat: "rųkojęťam"
+      ins: "rųkojęťami"
+      voc: "rųkojęti"

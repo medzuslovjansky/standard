@@ -1,0 +1,15 @@
+---
+  id: "34782"
+  word: "feudalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "feudalizm"
+      acc: "feudalizm"
+      gen: "feudalizma"
+      loc: "feudalizmu"
+      dat: "feudalizmu"
+      ins: "feudalizmom"
+      voc: "feudalizme"

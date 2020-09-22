@@ -1,0 +1,22 @@
+---
+  id: "27162"
+  word: "lětovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lětovišče"
+      acc: "lětovišče"
+      gen: "lětovišča"
+      loc: "lětovišču"
+      dat: "lětovišču"
+      ins: "lětoviščem"
+      voc: "lětovišče"
+    plural: 
+      nom: "lětovišča"
+      acc: "lětovišča"
+      gen: "lětovišč"
+      loc: "lětoviščah"
+      dat: "lětoviščam"
+      ins: "lětoviščami"
+      voc: "lětovišča"

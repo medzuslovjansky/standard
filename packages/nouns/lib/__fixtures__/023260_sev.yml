@@ -1,0 +1,22 @@
+---
+  id: "23260"
+  word: "šev"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šev"
+      acc: "šev"
+      gen: "ševa"
+      loc: "ševu"
+      dat: "ševu"
+      ins: "ševom"
+      voc: "ševe"
+    plural: 
+      nom: "ševy"
+      acc: "ševy"
+      gen: "ševov"
+      loc: "ševah"
+      dat: "ševam"
+      ins: "ševami"
+      voc: "ševy"

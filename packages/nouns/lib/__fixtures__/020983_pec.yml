@@ -1,0 +1,22 @@
+---
+  id: "20983"
+  word: "peć"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "peć"
+      acc: "peć"
+      gen: "peća"
+      loc: "peću"
+      dat: "peću"
+      ins: "pećem"
+      voc: "peću"
+    plural: 
+      nom: "peće"
+      acc: "peće"
+      gen: "pećev"
+      loc: "pećah"
+      dat: "pećam"
+      ins: "pećami"
+      voc: "peće"

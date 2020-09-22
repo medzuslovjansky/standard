@@ -1,0 +1,22 @@
+---
+  id: "35294"
+  word: "čat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čat"
+      acc: "čat"
+      gen: "čata"
+      loc: "čatu"
+      dat: "čatu"
+      ins: "čatom"
+      voc: "čate"
+    plural: 
+      nom: "čaty"
+      acc: "čaty"
+      gen: "čatov"
+      loc: "čatah"
+      dat: "čatam"
+      ins: "čatami"
+      voc: "čaty"

@@ -1,0 +1,22 @@
+---
+  id: "31078"
+  word: "velen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "velen"
+      acc: "velen"
+      gen: "velena"
+      loc: "velenu"
+      dat: "velenu"
+      ins: "velenom"
+      voc: "velene"
+    plural: 
+      nom: "veleny"
+      acc: "veleny"
+      gen: "velenov"
+      loc: "velenah"
+      dat: "velenam"
+      ins: "velenami"
+      voc: "veleny"

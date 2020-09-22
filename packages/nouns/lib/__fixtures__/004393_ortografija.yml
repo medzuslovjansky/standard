@@ -1,0 +1,22 @@
+---
+  id: "4393"
+  word: "ortografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ortografija"
+      acc: "ortografijų"
+      gen: "ortografije"
+      loc: "ortografiji"
+      dat: "ortografiji"
+      ins: "ortografijejų"
+      voc: "ortografijo"
+    plural: 
+      nom: "ortografije"
+      acc: "ortografije"
+      gen: "ortografij"
+      loc: "ortografijah"
+      dat: "ortografijam"
+      ins: "ortografijami"
+      voc: "ortografije"

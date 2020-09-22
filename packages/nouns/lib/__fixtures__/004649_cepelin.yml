@@ -1,0 +1,22 @@
+---
+  id: "4649"
+  word: "cepelin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cepelin"
+      acc: "cepelin"
+      gen: "cepelina"
+      loc: "cepelinu"
+      dat: "cepelinu"
+      ins: "cepelinom"
+      voc: "cepeline"
+    plural: 
+      nom: "cepeliny"
+      acc: "cepeliny"
+      gen: "cepelinov"
+      loc: "cepelinah"
+      dat: "cepelinam"
+      ins: "cepelinami"
+      voc: "cepeliny"

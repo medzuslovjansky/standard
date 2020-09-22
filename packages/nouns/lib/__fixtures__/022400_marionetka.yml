@@ -1,0 +1,22 @@
+---
+  id: "22400"
+  word: "marionetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marionetka"
+      acc: "marionetkų"
+      gen: "marionetky"
+      loc: "marionetkě"
+      dat: "marionetkě"
+      ins: "marionetkojų"
+      voc: "marionetko"
+    plural: 
+      nom: "marionetky"
+      acc: "marionetky"
+      gen: "marionetȯk"
+      loc: "marionetkah"
+      dat: "marionetkam"
+      ins: "marionetkami"
+      voc: "marionetky"

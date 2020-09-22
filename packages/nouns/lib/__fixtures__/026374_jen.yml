@@ -1,0 +1,22 @@
+---
+  id: "26374"
+  word: "jen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jen"
+      acc: "jen"
+      gen: "jena"
+      loc: "jenu"
+      dat: "jenu"
+      ins: "jenom"
+      voc: "jene"
+    plural: 
+      nom: "jeny"
+      acc: "jeny"
+      gen: "jenov"
+      loc: "jenah"
+      dat: "jenam"
+      ins: "jenami"
+      voc: "jeny"

@@ -1,0 +1,22 @@
+---
+  id: "36268"
+  word: "popaljenina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popaljenina"
+      acc: "popaljeninų"
+      gen: "popaljeniny"
+      loc: "popaljenině"
+      dat: "popaljenině"
+      ins: "popaljeninojų"
+      voc: "popaljenino"
+    plural: 
+      nom: "popaljeniny"
+      acc: "popaljeniny"
+      gen: "popaljenin"
+      loc: "popaljeninah"
+      dat: "popaljeninam"
+      ins: "popaljeninami"
+      voc: "popaljeniny"

@@ -1,0 +1,22 @@
+---
+  id: "21010"
+  word: "podporka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podporka"
+      acc: "podporkų"
+      gen: "podporky"
+      loc: "podporkě"
+      dat: "podporkě"
+      ins: "podporkojų"
+      voc: "podporko"
+    plural: 
+      nom: "podporky"
+      acc: "podporky"
+      gen: "podporȯk"
+      loc: "podporkah"
+      dat: "podporkam"
+      ins: "podporkami"
+      voc: "podporky"

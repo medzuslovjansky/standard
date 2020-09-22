@@ -1,0 +1,23 @@
+---
+  id: "5926"
+  word: "konsul"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konsul"
+      acc: "konsula"
+      gen: "konsula"
+      loc: "konsulu"
+      dat: "konsulu"
+      ins: "konsulom"
+      voc: "konsule"
+    plural: 
+      nom: "konsuli"
+      acc: "konsulov"
+      gen: "konsulov"
+      loc: "konsulah"
+      dat: "konsulam"
+      ins: "konsulami"
+      voc: "konsuli"

@@ -1,0 +1,22 @@
+---
+  id: "35427"
+  word: "generalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "generalizacija"
+      acc: "generalizacijų"
+      gen: "generalizacije"
+      loc: "generalizaciji"
+      dat: "generalizaciji"
+      ins: "generalizacijejų"
+      voc: "generalizacijo"
+    plural: 
+      nom: "generalizacije"
+      acc: "generalizacije"
+      gen: "generalizacij"
+      loc: "generalizacijah"
+      dat: "generalizacijam"
+      ins: "generalizacijami"
+      voc: "generalizacije"

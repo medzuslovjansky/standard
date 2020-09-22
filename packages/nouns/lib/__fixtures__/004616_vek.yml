@@ -1,0 +1,22 @@
+---
+  id: "4616"
+  word: "věk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "věk"
+      acc: "věk"
+      gen: "věka"
+      loc: "věku"
+      dat: "věku"
+      ins: "věkom"
+      voc: "věče"
+    plural: 
+      nom: "věky"
+      acc: "věky"
+      gen: "věkov"
+      loc: "věkah"
+      dat: "věkam"
+      ins: "věkami"
+      voc: "věky"

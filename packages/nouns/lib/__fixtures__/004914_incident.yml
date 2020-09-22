@@ -1,0 +1,22 @@
+---
+  id: "4914"
+  word: "incident"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "incident"
+      acc: "incident"
+      gen: "incidenta"
+      loc: "incidentu"
+      dat: "incidentu"
+      ins: "incidentom"
+      voc: "incidente"
+    plural: 
+      nom: "incidenty"
+      acc: "incidenty"
+      gen: "incidentov"
+      loc: "incidentah"
+      dat: "incidentam"
+      ins: "incidentami"
+      voc: "incidenty"

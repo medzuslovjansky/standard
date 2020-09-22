@@ -1,0 +1,15 @@
+---
+  id: "24127"
+  word: "agresija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "agresija"
+      acc: "agresijų"
+      gen: "agresije"
+      loc: "agresiji"
+      dat: "agresiji"
+      ins: "agresijejų"
+      voc: "agresijo"

@@ -1,0 +1,22 @@
+---
+  id: "26766"
+  word: "kotlovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kotlovina"
+      acc: "kotlovinų"
+      gen: "kotloviny"
+      loc: "kotlovině"
+      dat: "kotlovině"
+      ins: "kotlovinojų"
+      voc: "kotlovino"
+    plural: 
+      nom: "kotloviny"
+      acc: "kotloviny"
+      gen: "kotlovin"
+      loc: "kotlovinah"
+      dat: "kotlovinam"
+      ins: "kotlovinami"
+      voc: "kotloviny"

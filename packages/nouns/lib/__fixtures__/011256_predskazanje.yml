@@ -1,0 +1,22 @@
+---
+  id: "11256"
+  word: "prědskazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědskazańje"
+      acc: "prědskazańje"
+      gen: "prědskazańja"
+      loc: "prědskazańju"
+      dat: "prědskazańju"
+      ins: "prědskazańjem"
+      voc: "prědskazańje"
+    plural: 
+      nom: "prědskazańja"
+      acc: "prědskazańja"
+      gen: "prědskazanij"
+      loc: "prědskazańjah"
+      dat: "prědskazańjam"
+      ins: "prědskazańjami"
+      voc: "prědskazańja"

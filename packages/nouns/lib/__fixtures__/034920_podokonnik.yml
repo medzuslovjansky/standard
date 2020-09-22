@@ -1,0 +1,22 @@
+---
+  id: "34920"
+  word: "podokȯnnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podokȯnnik"
+      acc: "podokȯnnik"
+      gen: "podokȯnnika"
+      loc: "podokȯnniku"
+      dat: "podokȯnniku"
+      ins: "podokȯnnikom"
+      voc: "podokȯnniče"
+    plural: 
+      nom: "podokȯnniky"
+      acc: "podokȯnniky"
+      gen: "podokȯnnikov"
+      loc: "podokȯnnikah"
+      dat: "podokȯnnikam"
+      ins: "podokȯnnikami"
+      voc: "podokȯnniky"

@@ -1,0 +1,22 @@
+---
+  id: "15372"
+  word: "råzcvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzcvět"
+      acc: "råzcvět"
+      gen: "råzcvěta"
+      loc: "råzcvětu"
+      dat: "råzcvětu"
+      ins: "råzcvětom"
+      voc: "råzcvěte"
+    plural: 
+      nom: "råzcvěty"
+      acc: "råzcvěty"
+      gen: "råzcvětov"
+      loc: "råzcvětah"
+      dat: "råzcvětam"
+      ins: "råzcvětami"
+      voc: "råzcvěty"

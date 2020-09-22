@@ -1,0 +1,22 @@
+---
+  id: "2435"
+  word: "baba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "baba"
+      acc: "babų"
+      gen: "baby"
+      loc: "babě"
+      dat: "babě"
+      ins: "babojų"
+      voc: "babo"
+    plural: 
+      nom: "baby"
+      acc: "baby"
+      gen: "bab"
+      loc: "babah"
+      dat: "babam"
+      ins: "babami"
+      voc: "baby"

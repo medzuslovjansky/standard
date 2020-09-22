@@ -1,0 +1,22 @@
+---
+  id: "10555"
+  word: "piramida"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "piramida"
+      acc: "piramidų"
+      gen: "piramidy"
+      loc: "piramidě"
+      dat: "piramidě"
+      ins: "piramidojų"
+      voc: "piramido"
+    plural: 
+      nom: "piramidy"
+      acc: "piramidy"
+      gen: "piramid"
+      loc: "piramidah"
+      dat: "piramidam"
+      ins: "piramidami"
+      voc: "piramidy"

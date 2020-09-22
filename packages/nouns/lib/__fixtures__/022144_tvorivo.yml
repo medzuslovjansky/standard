@@ -1,0 +1,22 @@
+---
+  id: "22144"
+  word: "tvorivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tvorivo"
+      acc: "tvorivo"
+      gen: "tvoriva"
+      loc: "tvorivu"
+      dat: "tvorivu"
+      ins: "tvorivom"
+      voc: "tvorivo"
+    plural: 
+      nom: "tvoriva"
+      acc: "tvoriva"
+      gen: "tvoriv"
+      loc: "tvorivah"
+      dat: "tvorivam"
+      ins: "tvorivami"
+      voc: "tvoriva"

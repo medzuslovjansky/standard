@@ -1,0 +1,15 @@
+---
+  id: "35350"
+  word: "jugoslavizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jugoslavizm"
+      acc: "jugoslavizm"
+      gen: "jugoslavizma"
+      loc: "jugoslavizmu"
+      dat: "jugoslavizmu"
+      ins: "jugoslavizmom"
+      voc: "jugoslavizme"

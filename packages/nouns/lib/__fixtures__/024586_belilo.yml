@@ -1,0 +1,22 @@
+---
+  id: "24586"
+  word: "bělilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bělilo"
+      acc: "bělilo"
+      gen: "bělila"
+      loc: "bělilu"
+      dat: "bělilu"
+      ins: "bělilom"
+      voc: "bělilo"
+    plural: 
+      nom: "bělila"
+      acc: "bělila"
+      gen: "bělil"
+      loc: "bělilah"
+      dat: "bělilam"
+      ins: "bělilami"
+      voc: "bělila"

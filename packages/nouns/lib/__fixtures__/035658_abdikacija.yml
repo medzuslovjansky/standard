@@ -1,0 +1,22 @@
+---
+  id: "35658"
+  word: "abdikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "abdikacija"
+      acc: "abdikacijų"
+      gen: "abdikacije"
+      loc: "abdikaciji"
+      dat: "abdikaciji"
+      ins: "abdikacijejų"
+      voc: "abdikacijo"
+    plural: 
+      nom: "abdikacije"
+      acc: "abdikacije"
+      gen: "abdikacij"
+      loc: "abdikacijah"
+      dat: "abdikacijam"
+      ins: "abdikacijami"
+      voc: "abdikacije"

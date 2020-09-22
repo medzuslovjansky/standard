@@ -1,0 +1,22 @@
+---
+  id: "12999"
+  word: "tysęćročje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tysęćročje"
+      acc: "tysęćročje"
+      gen: "tysęćročja"
+      loc: "tysęćročju"
+      dat: "tysęćročju"
+      ins: "tysęćročjem"
+      voc: "tysęćročje"
+    plural: 
+      nom: "tysęćročja"
+      acc: "tysęćročja"
+      gen: "tysęćročij"
+      loc: "tysęćročjah"
+      dat: "tysęćročjam"
+      ins: "tysęćročjami"
+      voc: "tysęćročja"

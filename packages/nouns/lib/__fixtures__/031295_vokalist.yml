@@ -1,0 +1,23 @@
+---
+  id: "31295"
+  word: "vokalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vokalist"
+      acc: "vokalista"
+      gen: "vokalista"
+      loc: "vokalistu"
+      dat: "vokalistu"
+      ins: "vokalistom"
+      voc: "vokaliste"
+    plural: 
+      nom: "vokalisti"
+      acc: "vokalistov"
+      gen: "vokalistov"
+      loc: "vokalistah"
+      dat: "vokalistam"
+      ins: "vokalistami"
+      voc: "vokalisti"

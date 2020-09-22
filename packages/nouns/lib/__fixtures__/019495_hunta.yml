@@ -1,0 +1,22 @@
+---
+  id: "19495"
+  word: "hunta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hunta"
+      acc: "huntų"
+      gen: "hunty"
+      loc: "huntě"
+      dat: "huntě"
+      ins: "huntojų"
+      voc: "hunto"
+    plural: 
+      nom: "hunty"
+      acc: "hunty"
+      gen: "hunt"
+      loc: "huntah"
+      dat: "huntam"
+      ins: "huntami"
+      voc: "hunty"

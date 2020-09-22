@@ -1,0 +1,22 @@
+---
+  id: "4314"
+  word: "potěńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "potěńje"
+      acc: "potěńje"
+      gen: "potěńja"
+      loc: "potěńju"
+      dat: "potěńju"
+      ins: "potěńjem"
+      voc: "potěńje"
+    plural: 
+      nom: "potěńja"
+      acc: "potěńja"
+      gen: "potěnij"
+      loc: "potěńjah"
+      dat: "potěńjam"
+      ins: "potěńjami"
+      voc: "potěńja"

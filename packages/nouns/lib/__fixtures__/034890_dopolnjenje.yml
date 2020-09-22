@@ -1,0 +1,22 @@
+---
+  id: "34890"
+  word: "dopȯlnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dopȯlnjeńje"
+      acc: "dopȯlnjeńje"
+      gen: "dopȯlnjeńja"
+      loc: "dopȯlnjeńju"
+      dat: "dopȯlnjeńju"
+      ins: "dopȯlnjeńjem"
+      voc: "dopȯlnjeńje"
+    plural: 
+      nom: "dopȯlnjeńja"
+      acc: "dopȯlnjeńja"
+      gen: "dopȯlnjenij"
+      loc: "dopȯlnjeńjah"
+      dat: "dopȯlnjeńjam"
+      ins: "dopȯlnjeńjami"
+      voc: "dopȯlnjeńja"

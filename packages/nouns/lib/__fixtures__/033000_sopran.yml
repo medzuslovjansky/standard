@@ -1,0 +1,22 @@
+---
+  id: "33000"
+  word: "sopran"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sopran"
+      acc: "sopran"
+      gen: "soprana"
+      loc: "sopranu"
+      dat: "sopranu"
+      ins: "sopranom"
+      voc: "soprane"
+    plural: 
+      nom: "soprany"
+      acc: "soprany"
+      gen: "sopranov"
+      loc: "sopranah"
+      dat: "sopranam"
+      ins: "sopranami"
+      voc: "soprany"

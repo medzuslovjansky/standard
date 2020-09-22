@@ -1,0 +1,23 @@
+---
+  id: "34889"
+  word: "historik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "historik"
+      acc: "historika"
+      gen: "historika"
+      loc: "historiku"
+      dat: "historiku"
+      ins: "historikom"
+      voc: "historiče"
+    plural: 
+      nom: "historiki"
+      acc: "historikov"
+      gen: "historikov"
+      loc: "historikah"
+      dat: "historikam"
+      ins: "historikami"
+      voc: "historiki"

@@ -1,0 +1,22 @@
+---
+  id: "23281"
+  word: "mit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mit"
+      acc: "mit"
+      gen: "mita"
+      loc: "mitu"
+      dat: "mitu"
+      ins: "mitom"
+      voc: "mite"
+    plural: 
+      nom: "mity"
+      acc: "mity"
+      gen: "mitov"
+      loc: "mitah"
+      dat: "mitam"
+      ins: "mitami"
+      voc: "mity"

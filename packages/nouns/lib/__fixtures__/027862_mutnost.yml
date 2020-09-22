@@ -1,0 +1,22 @@
+---
+  id: "27862"
+  word: "mųtnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųtnosť"
+      acc: "mųtnosť"
+      gen: "mųtnosti"
+      loc: "mųtnosti"
+      dat: "mųtnosti"
+      ins: "mųtnosťjų"
+      voc: "mųtnosti"
+    plural: 
+      nom: "mųtnosti"
+      acc: "mųtnosti"
+      gen: "mųtnostij"
+      loc: "mųtnosťah"
+      dat: "mųtnosťam"
+      ins: "mųtnosťami"
+      voc: "mųtnosti"

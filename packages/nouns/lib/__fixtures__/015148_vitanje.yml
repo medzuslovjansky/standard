@@ -1,0 +1,22 @@
+---
+  id: "15148"
+  word: "vitańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vitańje"
+      acc: "vitańje"
+      gen: "vitańja"
+      loc: "vitańju"
+      dat: "vitańju"
+      ins: "vitańjem"
+      voc: "vitańje"
+    plural: 
+      nom: "vitańja"
+      acc: "vitańja"
+      gen: "vitanij"
+      loc: "vitańjah"
+      dat: "vitańjam"
+      ins: "vitańjami"
+      voc: "vitańja"

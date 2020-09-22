@@ -1,0 +1,22 @@
+---
+  id: "25478"
+  word: "esej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "esej"
+      acc: "esej"
+      gen: "eseja"
+      loc: "eseju"
+      dat: "eseju"
+      ins: "esejem"
+      voc: "eseju"
+    plural: 
+      nom: "eseje"
+      acc: "eseje"
+      gen: "esejev"
+      loc: "esejah"
+      dat: "esejam"
+      ins: "esejami"
+      voc: "eseje"

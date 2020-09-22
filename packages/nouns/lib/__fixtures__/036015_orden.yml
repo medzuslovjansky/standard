@@ -1,0 +1,22 @@
+---
+  id: "36015"
+  word: "orden"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "orden"
+      acc: "orden"
+      gen: "ordena"
+      loc: "ordenu"
+      dat: "ordenu"
+      ins: "ordenom"
+      voc: "ordene"
+    plural: 
+      nom: "ordeny"
+      acc: "ordeny"
+      gen: "ordenov"
+      loc: "ordenah"
+      dat: "ordenam"
+      ins: "ordenami"
+      voc: "ordeny"

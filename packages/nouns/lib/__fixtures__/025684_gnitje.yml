@@ -1,0 +1,15 @@
+---
+  id: "25684"
+  word: "gniťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gniťje"
+      acc: "gniťje"
+      gen: "gniťja"
+      loc: "gniťju"
+      dat: "gniťju"
+      ins: "gniťjem"
+      voc: "gniťje"

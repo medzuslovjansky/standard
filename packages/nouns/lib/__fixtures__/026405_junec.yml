@@ -1,0 +1,23 @@
+---
+  id: "26405"
+  word: "junec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "junec"
+      acc: "junca"
+      gen: "junca"
+      loc: "juncu"
+      dat: "juncu"
+      ins: "juncem"
+      voc: "junče"
+    plural: 
+      nom: "junci"
+      acc: "juncev"
+      gen: "juncev"
+      loc: "juncah"
+      dat: "juncam"
+      ins: "juncami"
+      voc: "junci"

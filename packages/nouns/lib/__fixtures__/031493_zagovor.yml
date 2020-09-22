@@ -1,0 +1,22 @@
+---
+  id: "31493"
+  word: "zagovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zagovor"
+      acc: "zagovor"
+      gen: "zagovora"
+      loc: "zagovoru"
+      dat: "zagovoru"
+      ins: "zagovorom"
+      voc: "zagovore"
+    plural: 
+      nom: "zagovory"
+      acc: "zagovory"
+      gen: "zagovorov"
+      loc: "zagovorah"
+      dat: "zagovoram"
+      ins: "zagovorami"
+      voc: "zagovory"

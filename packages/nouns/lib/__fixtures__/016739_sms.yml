@@ -1,0 +1,22 @@
+---
+  id: "16739"
+  word: "sms"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sms"
+      acc: "sms"
+      gen: "smsa"
+      loc: "smsu"
+      dat: "smsu"
+      ins: "smsom"
+      voc: "smse"
+    plural: 
+      nom: "smsy"
+      acc: "smsy"
+      gen: "smsov"
+      loc: "smsah"
+      dat: "smsam"
+      ins: "smsami"
+      voc: "smsy"

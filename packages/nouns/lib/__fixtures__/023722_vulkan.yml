@@ -1,0 +1,22 @@
+---
+  id: "23722"
+  word: "vulkan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vulkan"
+      acc: "vulkan"
+      gen: "vulkana"
+      loc: "vulkanu"
+      dat: "vulkanu"
+      ins: "vulkanom"
+      voc: "vulkane"
+    plural: 
+      nom: "vulkany"
+      acc: "vulkany"
+      gen: "vulkanov"
+      loc: "vulkanah"
+      dat: "vulkanam"
+      ins: "vulkanami"
+      voc: "vulkany"

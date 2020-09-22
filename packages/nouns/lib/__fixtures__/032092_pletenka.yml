@@ -1,0 +1,22 @@
+---
+  id: "32092"
+  word: "pletenka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pletenka"
+      acc: "pletenkų"
+      gen: "pletenky"
+      loc: "pletenkě"
+      dat: "pletenkě"
+      ins: "pletenkojų"
+      voc: "pletenko"
+    plural: 
+      nom: "pletenky"
+      acc: "pletenky"
+      gen: "pletenȯk"
+      loc: "pletenkah"
+      dat: "pletenkam"
+      ins: "pletenkami"
+      voc: "pletenky"

@@ -1,0 +1,22 @@
+---
+  id: "10559"
+  word: "piromanija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "piromanija"
+      acc: "piromanijų"
+      gen: "piromanije"
+      loc: "piromaniji"
+      dat: "piromaniji"
+      ins: "piromanijejų"
+      voc: "piromanijo"
+    plural: 
+      nom: "piromanije"
+      acc: "piromanije"
+      gen: "piromanij"
+      loc: "piromanijah"
+      dat: "piromanijam"
+      ins: "piromanijami"
+      voc: "piromanije"

@@ -1,0 +1,22 @@
+---
+  id: "4650"
+  word: "profesija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "profesija"
+      acc: "profesijų"
+      gen: "profesije"
+      loc: "profesiji"
+      dat: "profesiji"
+      ins: "profesijejų"
+      voc: "profesijo"
+    plural: 
+      nom: "profesije"
+      acc: "profesije"
+      gen: "profesij"
+      loc: "profesijah"
+      dat: "profesijam"
+      ins: "profesijami"
+      voc: "profesije"

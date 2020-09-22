@@ -1,0 +1,22 @@
+---
+  id: "35480"
+  word: "torf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "torf"
+      acc: "torf"
+      gen: "torfa"
+      loc: "torfu"
+      dat: "torfu"
+      ins: "torfom"
+      voc: "torfe"
+    plural: 
+      nom: "torfy"
+      acc: "torfy"
+      gen: "torfov"
+      loc: "torfah"
+      dat: "torfam"
+      ins: "torfami"
+      voc: "torfy"

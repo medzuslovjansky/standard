@@ -1,0 +1,22 @@
+---
+  id: "36290"
+  word: "motocikl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "motocikl"
+      acc: "motocikl"
+      gen: "motocikla"
+      loc: "motociklu"
+      dat: "motociklu"
+      ins: "motociklom"
+      voc: "motocikle"
+    plural: 
+      nom: "motocikly"
+      acc: "motocikly"
+      gen: "motociklov"
+      loc: "motociklah"
+      dat: "motociklam"
+      ins: "motociklami"
+      voc: "motocikly"

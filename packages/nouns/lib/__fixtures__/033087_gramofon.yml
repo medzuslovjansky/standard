@@ -1,0 +1,22 @@
+---
+  id: "33087"
+  word: "gramofon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gramofon"
+      acc: "gramofon"
+      gen: "gramofona"
+      loc: "gramofonu"
+      dat: "gramofonu"
+      ins: "gramofonom"
+      voc: "gramofone"
+    plural: 
+      nom: "gramofony"
+      acc: "gramofony"
+      gen: "gramofonov"
+      loc: "gramofonah"
+      dat: "gramofonam"
+      ins: "gramofonami"
+      voc: "gramofony"

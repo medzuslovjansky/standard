@@ -1,0 +1,15 @@
+---
+  id: "5759"
+  word: "Čile"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Čile"
+      acc: "Čile"
+      gen: "Čilęte / Čilęta"
+      loc: "Čilęti / Čilętu"
+      dat: "Čilęti / Čilętu"
+      ins: "Čilętem / Čilętom"
+      voc: "Čile"

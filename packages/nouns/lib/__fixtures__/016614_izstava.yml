@@ -1,0 +1,22 @@
+---
+  id: "16614"
+  word: "izstava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izstava"
+      acc: "izstavų"
+      gen: "izstavy"
+      loc: "izstavě"
+      dat: "izstavě"
+      ins: "izstavojų"
+      voc: "izstavo"
+    plural: 
+      nom: "izstavy"
+      acc: "izstavy"
+      gen: "izstav"
+      loc: "izstavah"
+      dat: "izstavam"
+      ins: "izstavami"
+      voc: "izstavy"

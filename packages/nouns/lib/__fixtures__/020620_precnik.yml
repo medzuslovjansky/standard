@@ -1,0 +1,22 @@
+---
+  id: "20620"
+  word: "prěčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěčnik"
+      acc: "prěčnik"
+      gen: "prěčnika"
+      loc: "prěčniku"
+      dat: "prěčniku"
+      ins: "prěčnikom"
+      voc: "prěčniče"
+    plural: 
+      nom: "prěčniky"
+      acc: "prěčniky"
+      gen: "prěčnikov"
+      loc: "prěčnikah"
+      dat: "prěčnikam"
+      ins: "prěčnikami"
+      voc: "prěčniky"

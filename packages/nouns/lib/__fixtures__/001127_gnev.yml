@@ -1,0 +1,15 @@
+---
+  id: "1127"
+  word: "gněv"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gněv"
+      acc: "gněv"
+      gen: "gněva"
+      loc: "gněvu"
+      dat: "gněvu"
+      ins: "gněvom"
+      voc: "gněve"

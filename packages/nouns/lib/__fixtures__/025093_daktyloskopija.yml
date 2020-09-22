@@ -1,0 +1,15 @@
+---
+  id: "25093"
+  word: "daktyloskopija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "daktyloskopija"
+      acc: "daktyloskopijų"
+      gen: "daktyloskopije"
+      loc: "daktyloskopiji"
+      dat: "daktyloskopiji"
+      ins: "daktyloskopijejų"
+      voc: "daktyloskopijo"

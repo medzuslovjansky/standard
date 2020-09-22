@@ -1,0 +1,22 @@
+---
+  id: "29963"
+  word: "povoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "povoz"
+      acc: "povoz"
+      gen: "povoza"
+      loc: "povozu"
+      dat: "povozu"
+      ins: "povozom"
+      voc: "povoze"
+    plural: 
+      nom: "povozy"
+      acc: "povozy"
+      gen: "povozov"
+      loc: "povozah"
+      dat: "povozam"
+      ins: "povozami"
+      voc: "povozy"

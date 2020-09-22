@@ -1,0 +1,22 @@
+---
+  id: "32075"
+  word: "kavalerija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kavalerija"
+      acc: "kavalerijų"
+      gen: "kavalerije"
+      loc: "kavaleriji"
+      dat: "kavaleriji"
+      ins: "kavalerijejų"
+      voc: "kavalerijo"
+    plural: 
+      nom: "kavalerije"
+      acc: "kavalerije"
+      gen: "kavalerij"
+      loc: "kavalerijah"
+      dat: "kavalerijam"
+      ins: "kavalerijami"
+      voc: "kavalerije"

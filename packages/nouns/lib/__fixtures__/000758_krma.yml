@@ -1,0 +1,22 @@
+---
+  id: "758"
+  word: "krma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krma"
+      acc: "krmų"
+      gen: "krmy"
+      loc: "krmě"
+      dat: "krmě"
+      ins: "krmojų"
+      voc: "krmo"
+    plural: 
+      nom: "krmy"
+      acc: "krmy"
+      gen: "krm"
+      loc: "krmah"
+      dat: "krmam"
+      ins: "krmami"
+      voc: "krmy"

@@ -1,0 +1,22 @@
+---
+  id: "4529"
+  word: "popravjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "popravjeńje"
+      acc: "popravjeńje"
+      gen: "popravjeńja"
+      loc: "popravjeńju"
+      dat: "popravjeńju"
+      ins: "popravjeńjem"
+      voc: "popravjeńje"
+    plural: 
+      nom: "popravjeńja"
+      acc: "popravjeńja"
+      gen: "popravjenij"
+      loc: "popravjeńjah"
+      dat: "popravjeńjam"
+      ins: "popravjeńjami"
+      voc: "popravjeńja"

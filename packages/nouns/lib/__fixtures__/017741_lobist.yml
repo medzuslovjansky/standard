@@ -1,0 +1,23 @@
+---
+  id: "17741"
+  word: "lobist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lobist"
+      acc: "lobista"
+      gen: "lobista"
+      loc: "lobistu"
+      dat: "lobistu"
+      ins: "lobistom"
+      voc: "lobiste"
+    plural: 
+      nom: "lobisti"
+      acc: "lobistov"
+      gen: "lobistov"
+      loc: "lobistah"
+      dat: "lobistam"
+      ins: "lobistami"
+      voc: "lobisti"

@@ -1,0 +1,15 @@
+---
+  id: "25520"
+  word: "gabardin"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gabardin"
+      acc: "gabardin"
+      gen: "gabardina"
+      loc: "gabardinu"
+      dat: "gabardinu"
+      ins: "gabardinom"
+      voc: "gabardine"

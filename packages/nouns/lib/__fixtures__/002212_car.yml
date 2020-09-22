@@ -1,0 +1,22 @@
+---
+  id: "2212"
+  word: "čar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čar"
+      acc: "čar"
+      gen: "čara"
+      loc: "čaru"
+      dat: "čaru"
+      ins: "čarom"
+      voc: "čare"
+    plural: 
+      nom: "čary"
+      acc: "čary"
+      gen: "čarov"
+      loc: "čarah"
+      dat: "čaram"
+      ins: "čarami"
+      voc: "čary"

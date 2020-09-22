@@ -1,0 +1,15 @@
+---
+  id: "15686"
+  word: "žrěńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "žrěńje"
+      acc: "žrěńje"
+      gen: "žrěńja"
+      loc: "žrěńju"
+      dat: "žrěńju"
+      ins: "žrěńjem"
+      voc: "žrěńje"

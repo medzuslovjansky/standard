@@ -1,0 +1,22 @@
+---
+  id: "3734"
+  word: "svaťba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svaťba"
+      acc: "svaťbų"
+      gen: "svaťby"
+      loc: "svaťbě"
+      dat: "svaťbě"
+      ins: "svaťbojų"
+      voc: "svaťbo"
+    plural: 
+      nom: "svaťby"
+      acc: "svaťby"
+      gen: "svaťb"
+      loc: "svaťbah"
+      dat: "svaťbam"
+      ins: "svaťbami"
+      voc: "svaťby"

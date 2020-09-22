@@ -1,0 +1,22 @@
+---
+  id: "25376"
+  word: "dropja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dropja"
+      acc: "dropjų"
+      gen: "dropje"
+      loc: "dropji"
+      dat: "dropji"
+      ins: "dropjejų"
+      voc: "dropjo"
+    plural: 
+      nom: "dropje"
+      acc: "dropje"
+      gen: "dropej"
+      loc: "dropjah"
+      dat: "dropjam"
+      ins: "dropjami"
+      voc: "dropje"

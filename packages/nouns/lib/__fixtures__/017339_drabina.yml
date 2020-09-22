@@ -1,0 +1,22 @@
+---
+  id: "17339"
+  word: "drabina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "drabina"
+      acc: "drabinų"
+      gen: "drabiny"
+      loc: "drabině"
+      dat: "drabině"
+      ins: "drabinojų"
+      voc: "drabino"
+    plural: 
+      nom: "drabiny"
+      acc: "drabiny"
+      gen: "drabin"
+      loc: "drabinah"
+      dat: "drabinam"
+      ins: "drabinami"
+      voc: "drabiny"

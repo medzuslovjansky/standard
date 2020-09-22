@@ -1,0 +1,15 @@
+---
+  id: "25712"
+  word: "gololed"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gololed"
+      acc: "gololed"
+      gen: "gololeda"
+      loc: "gololedu"
+      dat: "gololedu"
+      ins: "gololedom"
+      voc: "gololede"

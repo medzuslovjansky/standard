@@ -1,0 +1,22 @@
+---
+  id: "34075"
+  word: "opatstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opatstvo"
+      acc: "opatstvo"
+      gen: "opatstva"
+      loc: "opatstvu"
+      dat: "opatstvu"
+      ins: "opatstvom"
+      voc: "opatstvo"
+    plural: 
+      nom: "opatstva"
+      acc: "opatstva"
+      gen: "opatstv"
+      loc: "opatstvah"
+      dat: "opatstvam"
+      ins: "opatstvami"
+      voc: "opatstva"

@@ -1,0 +1,22 @@
+---
+  id: "16"
+  word: "želųdȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "želųdȯk"
+      acc: "želųdȯk"
+      gen: "želųdka"
+      loc: "želųdku"
+      dat: "želųdku"
+      ins: "želųdkom"
+      voc: "želųdče"
+    plural: 
+      nom: "želųdky"
+      acc: "želųdky"
+      gen: "želųdkov"
+      loc: "želųdkah"
+      dat: "želųdkam"
+      ins: "želųdkami"
+      voc: "želųdky"

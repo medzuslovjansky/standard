@@ -1,0 +1,15 @@
+---
+  id: "17051"
+  word: "tvorjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "tvorjeńje"
+      acc: "tvorjeńje"
+      gen: "tvorjeńja"
+      loc: "tvorjeńju"
+      dat: "tvorjeńju"
+      ins: "tvorjeńjem"
+      voc: "tvorjeńje"

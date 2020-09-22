@@ -1,0 +1,22 @@
+---
+  id: "27017"
+  word: "kvartira"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvartira"
+      acc: "kvartirų"
+      gen: "kvartiry"
+      loc: "kvartirě"
+      dat: "kvartirě"
+      ins: "kvartirojų"
+      voc: "kvartiro"
+    plural: 
+      nom: "kvartiry"
+      acc: "kvartiry"
+      gen: "kvartir"
+      loc: "kvartirah"
+      dat: "kvartiram"
+      ins: "kvartirami"
+      voc: "kvartiry"

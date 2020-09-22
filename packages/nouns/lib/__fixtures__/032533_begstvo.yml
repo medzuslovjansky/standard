@@ -1,0 +1,22 @@
+---
+  id: "32533"
+  word: "běgstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "běgstvo"
+      acc: "běgstvo"
+      gen: "běgstva"
+      loc: "běgstvu"
+      dat: "běgstvu"
+      ins: "běgstvom"
+      voc: "běgstvo"
+    plural: 
+      nom: "běgstva"
+      acc: "běgstva"
+      gen: "běgstv"
+      loc: "běgstvah"
+      dat: "běgstvam"
+      ins: "běgstvami"
+      voc: "běgstva"

@@ -1,0 +1,22 @@
+---
+  id: "27482"
+  word: "medunka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medunka"
+      acc: "medunkų"
+      gen: "medunky"
+      loc: "medunkě"
+      dat: "medunkě"
+      ins: "medunkojų"
+      voc: "medunko"
+    plural: 
+      nom: "medunky"
+      acc: "medunky"
+      gen: "medunȯk"
+      loc: "medunkah"
+      dat: "medunkam"
+      ins: "medunkami"
+      voc: "medunky"

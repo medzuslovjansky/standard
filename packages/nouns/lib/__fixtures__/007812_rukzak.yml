@@ -1,0 +1,22 @@
+---
+  id: "7812"
+  word: "rukzak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rukzak"
+      acc: "rukzak"
+      gen: "rukzaka"
+      loc: "rukzaku"
+      dat: "rukzaku"
+      ins: "rukzakom"
+      voc: "rukzače"
+    plural: 
+      nom: "rukzaky"
+      acc: "rukzaky"
+      gen: "rukzakov"
+      loc: "rukzakah"
+      dat: "rukzakam"
+      ins: "rukzakami"
+      voc: "rukzaky"

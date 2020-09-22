@@ -1,0 +1,22 @@
+---
+  id: "4861"
+  word: "mehanizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mehanizm"
+      acc: "mehanizm"
+      gen: "mehanizma"
+      loc: "mehanizmu"
+      dat: "mehanizmu"
+      ins: "mehanizmom"
+      voc: "mehanizme"
+    plural: 
+      nom: "mehanizmy"
+      acc: "mehanizmy"
+      gen: "mehanizmov"
+      loc: "mehanizmah"
+      dat: "mehanizmam"
+      ins: "mehanizmami"
+      voc: "mehanizmy"

@@ -1,0 +1,22 @@
+---
+  id: "14943"
+  word: "proganjańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proganjańje"
+      acc: "proganjańje"
+      gen: "proganjańja"
+      loc: "proganjańju"
+      dat: "proganjańju"
+      ins: "proganjańjem"
+      voc: "proganjańje"
+    plural: 
+      nom: "proganjańja"
+      acc: "proganjańja"
+      gen: "proganjanij"
+      loc: "proganjańjah"
+      dat: "proganjańjam"
+      ins: "proganjańjami"
+      voc: "proganjańja"

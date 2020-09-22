@@ -1,0 +1,15 @@
+---
+  id: "34994"
+  word: "akańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akańje"
+      acc: "akańje"
+      gen: "akańja"
+      loc: "akańju"
+      dat: "akańju"
+      ins: "akańjem"
+      voc: "akańje"

@@ -1,0 +1,22 @@
+---
+  id: "35826"
+  word: "hrestomatija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hrestomatija"
+      acc: "hrestomatijų"
+      gen: "hrestomatije"
+      loc: "hrestomatiji"
+      dat: "hrestomatiji"
+      ins: "hrestomatijejų"
+      voc: "hrestomatijo"
+    plural: 
+      nom: "hrestomatije"
+      acc: "hrestomatije"
+      gen: "hrestomatij"
+      loc: "hrestomatijah"
+      dat: "hrestomatijam"
+      ins: "hrestomatijami"
+      voc: "hrestomatije"

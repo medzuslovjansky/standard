@@ -1,0 +1,22 @@
+---
+  id: "36115"
+  word: "notacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "notacija"
+      acc: "notacijų"
+      gen: "notacije"
+      loc: "notaciji"
+      dat: "notaciji"
+      ins: "notacijejų"
+      voc: "notacijo"
+    plural: 
+      nom: "notacije"
+      acc: "notacije"
+      gen: "notacij"
+      loc: "notacijah"
+      dat: "notacijam"
+      ins: "notacijami"
+      voc: "notacije"

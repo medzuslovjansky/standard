@@ -1,0 +1,15 @@
+---
+  id: "3767"
+  word: "učęsťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "učęsťje"
+      acc: "učęsťje"
+      gen: "učęsťja"
+      loc: "učęsťju"
+      dat: "učęsťju"
+      ins: "učęsťjem"
+      voc: "učęsťje"

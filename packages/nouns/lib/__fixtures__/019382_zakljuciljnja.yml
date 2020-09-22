@@ -1,0 +1,22 @@
+---
+  id: "19382"
+  word: "zaključiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaključiljnja"
+      acc: "zaključiljnjų"
+      gen: "zaključiljnje"
+      loc: "zaključiljnji"
+      dat: "zaključiljnji"
+      ins: "zaključiljnjejų"
+      voc: "zaključiljnjo"
+    plural: 
+      nom: "zaključiljnje"
+      acc: "zaključiljnje"
+      gen: "zaključiljnej"
+      loc: "zaključiljnjah"
+      dat: "zaključiljnjam"
+      ins: "zaključiljnjami"
+      voc: "zaključiljnje"

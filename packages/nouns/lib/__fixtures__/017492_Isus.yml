@@ -1,0 +1,23 @@
+---
+  id: "17492"
+  word: "Isus"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Isus"
+      acc: "Isusa"
+      gen: "Isusa"
+      loc: "Isusu"
+      dat: "Isusu"
+      ins: "Isusom"
+      voc: "Isuse"
+    plural: 
+      nom: "Isusi"
+      acc: "Isusov"
+      gen: "Isusov"
+      loc: "Isusah"
+      dat: "Isusam"
+      ins: "Isusami"
+      voc: "Isusi"

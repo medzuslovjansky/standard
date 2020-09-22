@@ -1,0 +1,22 @@
+---
+  id: "1843"
+  word: "žlěb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žlěb"
+      acc: "žlěb"
+      gen: "žlěba"
+      loc: "žlěbu"
+      dat: "žlěbu"
+      ins: "žlěbom"
+      voc: "žlěbe"
+    plural: 
+      nom: "žlěby"
+      acc: "žlěby"
+      gen: "žlěbov"
+      loc: "žlěbah"
+      dat: "žlěbam"
+      ins: "žlěbami"
+      voc: "žlěby"

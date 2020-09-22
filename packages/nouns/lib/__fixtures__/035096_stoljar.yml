@@ -1,0 +1,23 @@
+---
+  id: "35096"
+  word: "stoljaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "stoljaŕ"
+      acc: "stoljaŕa"
+      gen: "stoljaŕa"
+      loc: "stoljaŕu"
+      dat: "stoljaŕu"
+      ins: "stoljaŕem"
+      voc: "stoljaŕu"
+    plural: 
+      nom: "stoljari"
+      acc: "stoljaŕev"
+      gen: "stoljaŕev"
+      loc: "stoljaŕah"
+      dat: "stoljaŕam"
+      ins: "stoljaŕami"
+      voc: "stoljari"

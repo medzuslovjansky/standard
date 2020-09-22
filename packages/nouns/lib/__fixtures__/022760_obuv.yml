@@ -1,0 +1,22 @@
+---
+  id: "22760"
+  word: "obuv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obuȯv"
+      acc: "obuȯv"
+      gen: "obuve / obuvi"
+      loc: "obuvi"
+      dat: "obuvi"
+      ins: "obuȯvjų"
+      voc: "obuȯv"
+    plural: 
+      nom: "obuvi"
+      acc: "obuvi"
+      gen: "obuvij"
+      loc: "obuvah"
+      dat: "obuvam"
+      ins: "obuvami"
+      voc: "obuvi"

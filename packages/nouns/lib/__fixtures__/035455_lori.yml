@@ -1,0 +1,23 @@
+---
+  id: "35455"
+  word: "lori"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lori"
+      acc: "lorų"
+      gen: "lore"
+      loc: "lori"
+      dat: "lori"
+      ins: "lorejų"
+      voc: "loro"
+    plural: 
+      nom: "lori"
+      acc: "lorev"
+      gen: "lorev"
+      loc: "lorah"
+      dat: "loram"
+      ins: "lorami"
+      voc: "lori"

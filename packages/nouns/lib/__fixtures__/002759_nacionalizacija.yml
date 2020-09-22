@@ -1,0 +1,22 @@
+---
+  id: "2759"
+  word: "nacionalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nacionalizacija"
+      acc: "nacionalizacijų"
+      gen: "nacionalizacije"
+      loc: "nacionalizaciji"
+      dat: "nacionalizaciji"
+      ins: "nacionalizacijejų"
+      voc: "nacionalizacijo"
+    plural: 
+      nom: "nacionalizacije"
+      acc: "nacionalizacije"
+      gen: "nacionalizacij"
+      loc: "nacionalizacijah"
+      dat: "nacionalizacijam"
+      ins: "nacionalizacijami"
+      voc: "nacionalizacije"

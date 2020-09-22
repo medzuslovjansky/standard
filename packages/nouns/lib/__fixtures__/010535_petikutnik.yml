@@ -1,0 +1,22 @@
+---
+  id: "10535"
+  word: "pętikųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pętikųtnik"
+      acc: "pętikųtnik"
+      gen: "pętikųtnika"
+      loc: "pętikųtniku"
+      dat: "pętikųtniku"
+      ins: "pętikųtnikom"
+      voc: "pętikųtniče"
+    plural: 
+      nom: "pętikųtniky"
+      acc: "pętikųtniky"
+      gen: "pętikųtnikov"
+      loc: "pętikųtnikah"
+      dat: "pętikųtnikam"
+      ins: "pętikųtnikami"
+      voc: "pętikųtniky"

@@ -1,0 +1,22 @@
+---
+  id: "34853"
+  word: "interakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "interakcija"
+      acc: "interakcijų"
+      gen: "interakcije"
+      loc: "interakciji"
+      dat: "interakciji"
+      ins: "interakcijejų"
+      voc: "interakcijo"
+    plural: 
+      nom: "interakcije"
+      acc: "interakcije"
+      gen: "interakcij"
+      loc: "interakcijah"
+      dat: "interakcijam"
+      ins: "interakcijami"
+      voc: "interakcije"

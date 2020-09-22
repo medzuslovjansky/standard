@@ -1,0 +1,23 @@
+---
+  id: "2625"
+  word: "grěšnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grěšnik"
+      acc: "grěšnika"
+      gen: "grěšnika"
+      loc: "grěšniku"
+      dat: "grěšniku"
+      ins: "grěšnikom"
+      voc: "grěšniče"
+    plural: 
+      nom: "grěšniki"
+      acc: "grěšnikov"
+      gen: "grěšnikov"
+      loc: "grěšnikah"
+      dat: "grěšnikam"
+      ins: "grěšnikami"
+      voc: "grěšniki"

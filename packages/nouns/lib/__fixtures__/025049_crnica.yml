@@ -1,0 +1,22 @@
+---
+  id: "25049"
+  word: "črnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črnica"
+      acc: "črnicų"
+      gen: "črnice"
+      loc: "črnici"
+      dat: "črnici"
+      ins: "črnicejų"
+      voc: "črnico"
+    plural: 
+      nom: "črnice"
+      acc: "črnice"
+      gen: "črnic"
+      loc: "črnicah"
+      dat: "črnicam"
+      ins: "črnicami"
+      voc: "črnice"

@@ -1,0 +1,22 @@
+---
+  id: "16370"
+  word: "strategija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strategija"
+      acc: "strategijų"
+      gen: "strategije"
+      loc: "strategiji"
+      dat: "strategiji"
+      ins: "strategijejų"
+      voc: "strategijo"
+    plural: 
+      nom: "strategije"
+      acc: "strategije"
+      gen: "strategij"
+      loc: "strategijah"
+      dat: "strategijam"
+      ins: "strategijami"
+      voc: "strategije"

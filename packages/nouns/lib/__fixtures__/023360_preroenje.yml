@@ -1,0 +1,22 @@
+---
+  id: "23360"
+  word: "prěrođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěrođeńje"
+      acc: "prěrođeńje"
+      gen: "prěrođeńja"
+      loc: "prěrođeńju"
+      dat: "prěrođeńju"
+      ins: "prěrođeńjem"
+      voc: "prěrođeńje"
+    plural: 
+      nom: "prěrođeńja"
+      acc: "prěrođeńja"
+      gen: "prěrođenij"
+      loc: "prěrođeńjah"
+      dat: "prěrođeńjam"
+      ins: "prěrođeńjami"
+      voc: "prěrođeńja"

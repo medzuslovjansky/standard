@@ -1,0 +1,22 @@
+---
+  id: "2598"
+  word: "igra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "igra"
+      acc: "igrų"
+      gen: "igry"
+      loc: "igrě"
+      dat: "igrě"
+      ins: "igrojų"
+      voc: "igro"
+    plural: 
+      nom: "igry"
+      acc: "igry"
+      gen: "igr"
+      loc: "igrah"
+      dat: "igram"
+      ins: "igrami"
+      voc: "igry"

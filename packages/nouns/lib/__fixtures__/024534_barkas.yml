@@ -1,0 +1,22 @@
+---
+  id: "24534"
+  word: "barkas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barkas"
+      acc: "barkas"
+      gen: "barkasa"
+      loc: "barkasu"
+      dat: "barkasu"
+      ins: "barkasom"
+      voc: "barkase"
+    plural: 
+      nom: "barkasy"
+      acc: "barkasy"
+      gen: "barkasov"
+      loc: "barkasah"
+      dat: "barkasam"
+      ins: "barkasami"
+      voc: "barkasy"

@@ -1,0 +1,22 @@
+---
+  id: "36512"
+  word: "duplo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "duplo"
+      acc: "duplo"
+      gen: "dupla"
+      loc: "duplu"
+      dat: "duplu"
+      ins: "duplom"
+      voc: "duplo"
+    plural: 
+      nom: "dupla"
+      acc: "dupla"
+      gen: "dupl"
+      loc: "duplah"
+      dat: "duplam"
+      ins: "duplami"
+      voc: "dupla"

@@ -1,0 +1,23 @@
+---
+  id: "2873"
+  word: "lěkaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lěkaŕ"
+      acc: "lěkaŕa"
+      gen: "lěkaŕa"
+      loc: "lěkaŕu"
+      dat: "lěkaŕu"
+      ins: "lěkaŕem"
+      voc: "lěkaŕu"
+    plural: 
+      nom: "lěkari"
+      acc: "lěkaŕev"
+      gen: "lěkaŕev"
+      loc: "lěkaŕah"
+      dat: "lěkaŕam"
+      ins: "lěkaŕami"
+      voc: "lěkari"

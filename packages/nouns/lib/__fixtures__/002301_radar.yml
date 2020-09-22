@@ -1,0 +1,22 @@
+---
+  id: "2301"
+  word: "radar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "radar"
+      acc: "radar"
+      gen: "radara"
+      loc: "radaru"
+      dat: "radaru"
+      ins: "radarom"
+      voc: "radare"
+    plural: 
+      nom: "radary"
+      acc: "radary"
+      gen: "radarov"
+      loc: "radarah"
+      dat: "radaram"
+      ins: "radarami"
+      voc: "radary"

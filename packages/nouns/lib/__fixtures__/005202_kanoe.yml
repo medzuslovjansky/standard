@@ -1,0 +1,23 @@
+---
+  id: "5202"
+  word: "kanoe"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "kanoe"
+      acc: "kanoe"
+      gen: "kanoe"
+      loc: "kanoe"
+      dat: "kanoe"
+      ins: "kanoe"
+      voc: "kanoe"
+    plural: 
+      nom: "kanoe"
+      acc: "kanoe"
+      gen: "kanoe"
+      loc: "kanoe"
+      dat: "kanoe"
+      ins: "kanoe"
+      voc: "kanoe"

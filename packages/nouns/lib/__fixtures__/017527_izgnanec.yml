@@ -1,0 +1,22 @@
+---
+  id: "17527"
+  word: "izgnanec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izgnanec"
+      acc: "izgnanec"
+      gen: "izgnanca"
+      loc: "izgnancu"
+      dat: "izgnancu"
+      ins: "izgnancem"
+      voc: "izgnanče"
+    plural: 
+      nom: "izgnance"
+      acc: "izgnance"
+      gen: "izgnancev"
+      loc: "izgnancah"
+      dat: "izgnancam"
+      ins: "izgnancami"
+      voc: "izgnance"

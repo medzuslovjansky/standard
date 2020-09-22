@@ -1,0 +1,22 @@
+---
+  id: "36849"
+  word: "lak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lak"
+      acc: "lak"
+      gen: "laka"
+      loc: "laku"
+      dat: "laku"
+      ins: "lakom"
+      voc: "lače"
+    plural: 
+      nom: "laky"
+      acc: "laky"
+      gen: "lakov"
+      loc: "lakah"
+      dat: "lakam"
+      ins: "lakami"
+      voc: "laky"

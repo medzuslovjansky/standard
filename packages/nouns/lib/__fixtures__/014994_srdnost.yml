@@ -1,0 +1,22 @@
+---
+  id: "14994"
+  word: "sŕdnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sŕdnosť"
+      acc: "sŕdnosť"
+      gen: "sŕdnosti"
+      loc: "sŕdnosti"
+      dat: "sŕdnosti"
+      ins: "sŕdnosťjų"
+      voc: "sŕdnosti"
+    plural: 
+      nom: "sŕdnosti"
+      acc: "sŕdnosti"
+      gen: "sŕdnostij"
+      loc: "sŕdnosťah"
+      dat: "sŕdnosťam"
+      ins: "sŕdnosťami"
+      voc: "sŕdnosti"

@@ -1,0 +1,15 @@
+---
+  id: "24050"
+  word: "absolutizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "absolutizm"
+      acc: "absolutizm"
+      gen: "absolutizma"
+      loc: "absolutizmu"
+      dat: "absolutizmu"
+      ins: "absolutizmom"
+      voc: "absolutizme"

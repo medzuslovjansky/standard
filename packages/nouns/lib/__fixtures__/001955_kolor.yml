@@ -1,0 +1,22 @@
+---
+  id: "1955"
+  word: "kolor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolor"
+      acc: "kolor"
+      gen: "kolora"
+      loc: "koloru"
+      dat: "koloru"
+      ins: "kolorom"
+      voc: "kolore"
+    plural: 
+      nom: "kolory"
+      acc: "kolory"
+      gen: "kolorov"
+      loc: "kolorah"
+      dat: "koloram"
+      ins: "kolorami"
+      voc: "kolory"

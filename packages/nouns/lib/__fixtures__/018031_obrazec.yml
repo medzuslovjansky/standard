@@ -1,0 +1,22 @@
+---
+  id: "18031"
+  word: "obrazec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrazec"
+      acc: "obrazec"
+      gen: "obrazca"
+      loc: "obrazcu"
+      dat: "obrazcu"
+      ins: "obrazcem"
+      voc: "obrazče"
+    plural: 
+      nom: "obrazce"
+      acc: "obrazce"
+      gen: "obrazcev"
+      loc: "obrazcah"
+      dat: "obrazcam"
+      ins: "obrazcami"
+      voc: "obrazce"

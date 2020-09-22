@@ -1,0 +1,22 @@
+---
+  id: "20224"
+  word: "tvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tvor"
+      acc: "tvor"
+      gen: "tvora"
+      loc: "tvoru"
+      dat: "tvoru"
+      ins: "tvorom"
+      voc: "tvore"
+    plural: 
+      nom: "tvory"
+      acc: "tvory"
+      gen: "tvorov"
+      loc: "tvorah"
+      dat: "tvoram"
+      ins: "tvorami"
+      voc: "tvory"

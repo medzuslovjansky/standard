@@ -1,0 +1,22 @@
+---
+  id: "24503"
+  word: "banja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "banja"
+      acc: "banjų"
+      gen: "banje"
+      loc: "banji"
+      dat: "banji"
+      ins: "banjejų"
+      voc: "banjo"
+    plural: 
+      nom: "banje"
+      acc: "banje"
+      gen: "banej"
+      loc: "banjah"
+      dat: "banjam"
+      ins: "banjami"
+      voc: "banje"

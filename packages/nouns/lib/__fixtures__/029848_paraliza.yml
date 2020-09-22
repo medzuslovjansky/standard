@@ -1,0 +1,22 @@
+---
+  id: "29848"
+  word: "paraliza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "paraliza"
+      acc: "paralizų"
+      gen: "paralizy"
+      loc: "paralizě"
+      dat: "paralizě"
+      ins: "paralizojų"
+      voc: "paralizo"
+    plural: 
+      nom: "paralizy"
+      acc: "paralizy"
+      gen: "paraliz"
+      loc: "paralizah"
+      dat: "paralizam"
+      ins: "paralizami"
+      voc: "paralizy"

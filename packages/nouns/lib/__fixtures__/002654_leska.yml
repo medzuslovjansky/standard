@@ -1,0 +1,22 @@
+---
+  id: "2654"
+  word: "lěska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěska"
+      acc: "lěskų"
+      gen: "lěsky"
+      loc: "lěskě"
+      dat: "lěskě"
+      ins: "lěskojų"
+      voc: "lěsko"
+    plural: 
+      nom: "lěsky"
+      acc: "lěsky"
+      gen: "lěsȯk"
+      loc: "lěskah"
+      dat: "lěskam"
+      ins: "lěskami"
+      voc: "lěsky"

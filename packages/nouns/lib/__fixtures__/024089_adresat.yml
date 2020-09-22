@@ -1,0 +1,23 @@
+---
+  id: "24089"
+  word: "adresat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "adresat"
+      acc: "adresata"
+      gen: "adresata"
+      loc: "adresatu"
+      dat: "adresatu"
+      ins: "adresatom"
+      voc: "adresate"
+    plural: 
+      nom: "adresati"
+      acc: "adresatov"
+      gen: "adresatov"
+      loc: "adresatah"
+      dat: "adresatam"
+      ins: "adresatami"
+      voc: "adresati"

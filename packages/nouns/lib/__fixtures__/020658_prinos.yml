@@ -1,0 +1,22 @@
+---
+  id: "20658"
+  word: "prinos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prinos"
+      acc: "prinos"
+      gen: "prinosa"
+      loc: "prinosu"
+      dat: "prinosu"
+      ins: "prinosom"
+      voc: "prinose"
+    plural: 
+      nom: "prinosy"
+      acc: "prinosy"
+      gen: "prinosov"
+      loc: "prinosah"
+      dat: "prinosam"
+      ins: "prinosami"
+      voc: "prinosy"

@@ -1,0 +1,22 @@
+---
+  id: "22425"
+  word: "prividěńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prividěńje"
+      acc: "prividěńje"
+      gen: "prividěńja"
+      loc: "prividěńju"
+      dat: "prividěńju"
+      ins: "prividěńjem"
+      voc: "prividěńje"
+    plural: 
+      nom: "prividěńja"
+      acc: "prividěńja"
+      gen: "prividěnij"
+      loc: "prividěńjah"
+      dat: "prividěńjam"
+      ins: "prividěńjami"
+      voc: "prividěńja"

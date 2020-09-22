@@ -1,0 +1,15 @@
+---
+  id: "7357"
+  word: "dušeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dušeńje"
+      acc: "dušeńje"
+      gen: "dušeńja"
+      loc: "dušeńju"
+      dat: "dušeńju"
+      ins: "dušeńjem"
+      voc: "dušeńje"

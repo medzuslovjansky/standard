@@ -1,0 +1,22 @@
+---
+  id: "24727"
+  word: "bodec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bodec"
+      acc: "bodec"
+      gen: "bodca"
+      loc: "bodcu"
+      dat: "bodcu"
+      ins: "bodcem"
+      voc: "bodče"
+    plural: 
+      nom: "bodce"
+      acc: "bodce"
+      gen: "bodcev"
+      loc: "bodcah"
+      dat: "bodcam"
+      ins: "bodcami"
+      voc: "bodce"

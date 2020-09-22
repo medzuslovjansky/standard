@@ -1,0 +1,15 @@
+---
+  id: "4512"
+  word: "bogohuljeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bogohuljeńje"
+      acc: "bogohuljeńje"
+      gen: "bogohuljeńja"
+      loc: "bogohuljeńju"
+      dat: "bogohuljeńju"
+      ins: "bogohuljeńjem"
+      voc: "bogohuljeńje"

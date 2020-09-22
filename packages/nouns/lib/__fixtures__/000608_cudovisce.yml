@@ -1,0 +1,22 @@
+---
+  id: "608"
+  word: "čudovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čudovišče"
+      acc: "čudovišče"
+      gen: "čudovišča"
+      loc: "čudovišču"
+      dat: "čudovišču"
+      ins: "čudoviščem"
+      voc: "čudovišče"
+    plural: 
+      nom: "čudovišča"
+      acc: "čudovišča"
+      gen: "čudovišč"
+      loc: "čudoviščah"
+      dat: "čudoviščam"
+      ins: "čudoviščami"
+      voc: "čudovišča"

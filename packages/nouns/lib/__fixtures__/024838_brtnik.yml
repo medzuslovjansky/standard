@@ -1,0 +1,23 @@
+---
+  id: "24838"
+  word: "brtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "brtnik"
+      acc: "brtnika"
+      gen: "brtnika"
+      loc: "brtniku"
+      dat: "brtniku"
+      ins: "brtnikom"
+      voc: "brtniče"
+    plural: 
+      nom: "brtniki"
+      acc: "brtnikov"
+      gen: "brtnikov"
+      loc: "brtnikah"
+      dat: "brtnikam"
+      ins: "brtnikami"
+      voc: "brtniki"

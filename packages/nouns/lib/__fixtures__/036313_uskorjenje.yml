@@ -1,0 +1,22 @@
+---
+  id: "36313"
+  word: "uskorjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uskorjeńje"
+      acc: "uskorjeńje"
+      gen: "uskorjeńja"
+      loc: "uskorjeńju"
+      dat: "uskorjeńju"
+      ins: "uskorjeńjem"
+      voc: "uskorjeńje"
+    plural: 
+      nom: "uskorjeńja"
+      acc: "uskorjeńja"
+      gen: "uskorjenij"
+      loc: "uskorjeńjah"
+      dat: "uskorjeńjam"
+      ins: "uskorjeńjami"
+      voc: "uskorjeńja"

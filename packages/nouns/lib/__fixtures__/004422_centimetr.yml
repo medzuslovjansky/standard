@@ -1,0 +1,22 @@
+---
+  id: "4422"
+  word: "centimetr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "centimetr"
+      acc: "centimetr"
+      gen: "centimetra"
+      loc: "centimetru"
+      dat: "centimetru"
+      ins: "centimetrom"
+      voc: "centimetre"
+    plural: 
+      nom: "centimetry"
+      acc: "centimetry"
+      gen: "centimetrov"
+      loc: "centimetrah"
+      dat: "centimetram"
+      ins: "centimetrami"
+      voc: "centimetry"

@@ -1,0 +1,22 @@
+---
+  id: "761"
+  word: "naslědstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "naslědstvo"
+      acc: "naslědstvo"
+      gen: "naslědstva"
+      loc: "naslědstvu"
+      dat: "naslědstvu"
+      ins: "naslědstvom"
+      voc: "naslědstvo"
+    plural: 
+      nom: "naslědstva"
+      acc: "naslědstva"
+      gen: "naslědstv"
+      loc: "naslědstvah"
+      dat: "naslědstvam"
+      ins: "naslědstvami"
+      voc: "naslědstva"

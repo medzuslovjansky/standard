@@ -1,0 +1,22 @@
+---
+  id: "8852"
+  word: "lětalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lětalo"
+      acc: "lětalo"
+      gen: "lětala"
+      loc: "lětalu"
+      dat: "lětalu"
+      ins: "lětalom"
+      voc: "lětalo"
+    plural: 
+      nom: "lětala"
+      acc: "lětala"
+      gen: "lětal"
+      loc: "lětalah"
+      dat: "lětalam"
+      ins: "lětalami"
+      voc: "lětala"

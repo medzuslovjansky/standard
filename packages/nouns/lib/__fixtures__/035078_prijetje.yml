@@ -1,0 +1,22 @@
+---
+  id: "35078"
+  word: "prijęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prijęťje"
+      acc: "prijęťje"
+      gen: "prijęťja"
+      loc: "prijęťju"
+      dat: "prijęťju"
+      ins: "prijęťjem"
+      voc: "prijęťje"
+    plural: 
+      nom: "prijęťja"
+      acc: "prijęťja"
+      gen: "prijętij"
+      loc: "prijęťjah"
+      dat: "prijęťjam"
+      ins: "prijęťjami"
+      voc: "prijęťja"

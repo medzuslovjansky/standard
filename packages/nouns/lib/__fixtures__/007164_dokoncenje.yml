@@ -1,0 +1,22 @@
+---
+  id: "7164"
+  word: "dokončeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dokončeńje"
+      acc: "dokončeńje"
+      gen: "dokončeńja"
+      loc: "dokončeńju"
+      dat: "dokončeńju"
+      ins: "dokončeńjem"
+      voc: "dokončeńje"
+    plural: 
+      nom: "dokončeńja"
+      acc: "dokončeńja"
+      gen: "dokončenij"
+      loc: "dokončeńjah"
+      dat: "dokončeńjam"
+      ins: "dokončeńjami"
+      voc: "dokončeńja"

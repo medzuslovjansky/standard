@@ -1,0 +1,22 @@
+---
+  id: "5997"
+  word: "trotuar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trotuar"
+      acc: "trotuar"
+      gen: "trotuara"
+      loc: "trotuaru"
+      dat: "trotuaru"
+      ins: "trotuarom"
+      voc: "trotuare"
+    plural: 
+      nom: "trotuary"
+      acc: "trotuary"
+      gen: "trotuarov"
+      loc: "trotuarah"
+      dat: "trotuaram"
+      ins: "trotuarami"
+      voc: "trotuary"

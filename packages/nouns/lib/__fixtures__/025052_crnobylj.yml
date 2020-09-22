@@ -1,0 +1,22 @@
+---
+  id: "25052"
+  word: "črnobylj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "črnobylj"
+      acc: "črnobylj"
+      gen: "črnobylja"
+      loc: "črnobylju"
+      dat: "črnobylju"
+      ins: "črnobyljem"
+      voc: "črnobylju"
+    plural: 
+      nom: "črnobylje"
+      acc: "črnobylje"
+      gen: "črnobyljev"
+      loc: "črnobyljah"
+      dat: "črnobyljam"
+      ins: "črnobyljami"
+      voc: "črnobylje"

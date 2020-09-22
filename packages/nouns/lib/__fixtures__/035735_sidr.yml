@@ -1,0 +1,22 @@
+---
+  id: "35735"
+  word: "sidr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sidr"
+      acc: "sidr"
+      gen: "sidra"
+      loc: "sidru"
+      dat: "sidru"
+      ins: "sidrom"
+      voc: "sidre"
+    plural: 
+      nom: "sidry"
+      acc: "sidry"
+      gen: "sidrov"
+      loc: "sidrah"
+      dat: "sidram"
+      ins: "sidrami"
+      voc: "sidry"

@@ -1,0 +1,23 @@
+---
+  id: "25136"
+  word: "davec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "davec"
+      acc: "davca"
+      gen: "davca"
+      loc: "davcu"
+      dat: "davcu"
+      ins: "davcem"
+      voc: "davče"
+    plural: 
+      nom: "davci"
+      acc: "davcev"
+      gen: "davcev"
+      loc: "davcah"
+      dat: "davcam"
+      ins: "davcami"
+      voc: "davci"

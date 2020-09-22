@@ -1,0 +1,22 @@
+---
+  id: "2008"
+  word: "mogyla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mogyla"
+      acc: "mogylų"
+      gen: "mogyly"
+      loc: "mogylě"
+      dat: "mogylě"
+      ins: "mogylojų"
+      voc: "mogylo"
+    plural: 
+      nom: "mogyly"
+      acc: "mogyly"
+      gen: "mogyl"
+      loc: "mogylah"
+      dat: "mogylam"
+      ins: "mogylami"
+      voc: "mogyly"

@@ -1,0 +1,23 @@
+---
+  id: "19156"
+  word: "vȯzråstȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vȯzråstȯk"
+      acc: "vȯzråstka"
+      gen: "vȯzråstka"
+      loc: "vȯzråstku"
+      dat: "vȯzråstku"
+      ins: "vȯzråstkom"
+      voc: "vȯzråstče"
+    plural: 
+      nom: "vȯzråstki"
+      acc: "vȯzråstkov"
+      gen: "vȯzråstkov"
+      loc: "vȯzråstkah"
+      dat: "vȯzråstkam"
+      ins: "vȯzråstkami"
+      voc: "vȯzråstki"

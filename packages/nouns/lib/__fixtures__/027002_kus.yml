@@ -1,0 +1,22 @@
+---
+  id: "27002"
+  word: "kųs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kųs"
+      acc: "kųs"
+      gen: "kųsa"
+      loc: "kųsu"
+      dat: "kųsu"
+      ins: "kųsom"
+      voc: "kųse"
+    plural: 
+      nom: "kųsy"
+      acc: "kųsy"
+      gen: "kųsov"
+      loc: "kųsah"
+      dat: "kųsam"
+      ins: "kųsami"
+      voc: "kųsy"

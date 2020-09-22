@@ -1,0 +1,22 @@
+---
+  id: "599"
+  word: "členstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "členstvo"
+      acc: "členstvo"
+      gen: "členstva"
+      loc: "členstvu"
+      dat: "členstvu"
+      ins: "členstvom"
+      voc: "členstvo"
+    plural: 
+      nom: "členstva"
+      acc: "členstva"
+      gen: "členstv"
+      loc: "členstvah"
+      dat: "členstvam"
+      ins: "členstvami"
+      voc: "členstva"

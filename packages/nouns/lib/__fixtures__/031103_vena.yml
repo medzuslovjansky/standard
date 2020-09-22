@@ -1,0 +1,22 @@
+---
+  id: "31103"
+  word: "vena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vena"
+      acc: "venų"
+      gen: "veny"
+      loc: "veně"
+      dat: "veně"
+      ins: "venojų"
+      voc: "veno"
+    plural: 
+      nom: "veny"
+      acc: "veny"
+      gen: "ven"
+      loc: "venah"
+      dat: "venam"
+      ins: "venami"
+      voc: "veny"

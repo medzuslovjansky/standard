@@ -1,0 +1,22 @@
+---
+  id: "26906"
+  word: "kropilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kropilo"
+      acc: "kropilo"
+      gen: "kropila"
+      loc: "kropilu"
+      dat: "kropilu"
+      ins: "kropilom"
+      voc: "kropilo"
+    plural: 
+      nom: "kropila"
+      acc: "kropila"
+      gen: "kropil"
+      loc: "kropilah"
+      dat: "kropilam"
+      ins: "kropilami"
+      voc: "kropila"

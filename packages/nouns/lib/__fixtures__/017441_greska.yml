@@ -1,0 +1,22 @@
+---
+  id: "17441"
+  word: "grěška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grěška"
+      acc: "grěškų"
+      gen: "grěšky"
+      loc: "grěškě"
+      dat: "grěškě"
+      ins: "grěškojų"
+      voc: "grěško"
+    plural: 
+      nom: "grěšky"
+      acc: "grěšky"
+      gen: "grěšek"
+      loc: "grěškah"
+      dat: "grěškam"
+      ins: "grěškami"
+      voc: "grěšky"

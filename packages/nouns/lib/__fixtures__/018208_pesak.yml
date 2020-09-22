@@ -1,0 +1,23 @@
+---
+  id: "18208"
+  word: "pěšak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pěšak"
+      acc: "pěšaka"
+      gen: "pěšaka"
+      loc: "pěšaku"
+      dat: "pěšaku"
+      ins: "pěšakom"
+      voc: "pěšače"
+    plural: 
+      nom: "pěšaki"
+      acc: "pěšakov"
+      gen: "pěšakov"
+      loc: "pěšakah"
+      dat: "pěšakam"
+      ins: "pěšakami"
+      voc: "pěšaki"

@@ -1,0 +1,22 @@
+---
+  id: "26364"
+  word: "jela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jela"
+      acc: "jelų"
+      gen: "jely"
+      loc: "jelě"
+      dat: "jelě"
+      ins: "jelojų"
+      voc: "jelo"
+    plural: 
+      nom: "jely"
+      acc: "jely"
+      gen: "jel"
+      loc: "jelah"
+      dat: "jelam"
+      ins: "jelami"
+      voc: "jely"

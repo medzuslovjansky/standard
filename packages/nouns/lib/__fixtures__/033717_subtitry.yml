@@ -1,0 +1,15 @@
+---
+  id: "33717"
+  word: "subtitry"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "subtitry"
+      acc: "subtitry"
+      gen: "subtitrov"
+      loc: "subtitrah"
+      dat: "subtitram"
+      ins: "subtitrami"
+      voc: "subtitry"

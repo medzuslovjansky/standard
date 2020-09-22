@@ -1,0 +1,22 @@
+---
+  id: "35768"
+  word: "ljutnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljutnja"
+      acc: "ljutnjų"
+      gen: "ljutnje"
+      loc: "ljutnji"
+      dat: "ljutnji"
+      ins: "ljutnjejų"
+      voc: "ljutnjo"
+    plural: 
+      nom: "ljutnje"
+      acc: "ljutnje"
+      gen: "ljutnej"
+      loc: "ljutnjah"
+      dat: "ljutnjam"
+      ins: "ljutnjami"
+      voc: "ljutnje"

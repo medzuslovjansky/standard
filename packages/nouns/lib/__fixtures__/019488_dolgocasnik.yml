@@ -1,0 +1,23 @@
+---
+  id: "19488"
+  word: "dȯlgočasnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dȯlgočasnik"
+      acc: "dȯlgočasnika"
+      gen: "dȯlgočasnika"
+      loc: "dȯlgočasniku"
+      dat: "dȯlgočasniku"
+      ins: "dȯlgočasnikom"
+      voc: "dȯlgočasniče"
+    plural: 
+      nom: "dȯlgočasniki"
+      acc: "dȯlgočasnikov"
+      gen: "dȯlgočasnikov"
+      loc: "dȯlgočasnikah"
+      dat: "dȯlgočasnikam"
+      ins: "dȯlgočasnikami"
+      voc: "dȯlgočasniki"

@@ -1,0 +1,22 @@
+---
+  id: "11450"
+  word: "prijemnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prijemnosť"
+      acc: "prijemnosť"
+      gen: "prijemnosti"
+      loc: "prijemnosti"
+      dat: "prijemnosti"
+      ins: "prijemnosťjų"
+      voc: "prijemnosti"
+    plural: 
+      nom: "prijemnosti"
+      acc: "prijemnosti"
+      gen: "prijemnostij"
+      loc: "prijemnosťah"
+      dat: "prijemnosťam"
+      ins: "prijemnosťami"
+      voc: "prijemnosti"

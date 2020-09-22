@@ -1,0 +1,22 @@
+---
+  id: "36812"
+  word: "Madrid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Madrid"
+      acc: "Madrid"
+      gen: "Madrida"
+      loc: "Madridu"
+      dat: "Madridu"
+      ins: "Madridom"
+      voc: "Madride"
+    plural: 
+      nom: "Madridy"
+      acc: "Madridy"
+      gen: "Madridov"
+      loc: "Madridah"
+      dat: "Madridam"
+      ins: "Madridami"
+      voc: "Madridy"

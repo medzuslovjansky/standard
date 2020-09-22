@@ -1,0 +1,22 @@
+---
+  id: "12831"
+  word: "šestivųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šestivųgȯľnik"
+      acc: "šestivųgȯľnik"
+      gen: "šestivųgȯľnika"
+      loc: "šestivųgȯľniku"
+      dat: "šestivųgȯľniku"
+      ins: "šestivųgȯľnikom"
+      voc: "šestivųgȯľniče"
+    plural: 
+      nom: "šestivųgȯľniky"
+      acc: "šestivųgȯľniky"
+      gen: "šestivųgȯľnikov"
+      loc: "šestivųgȯľnikah"
+      dat: "šestivųgȯľnikam"
+      ins: "šestivųgȯľnikami"
+      voc: "šestivųgȯľniky"

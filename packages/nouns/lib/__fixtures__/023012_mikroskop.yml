@@ -1,0 +1,22 @@
+---
+  id: "23012"
+  word: "mikroskop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mikroskop"
+      acc: "mikroskop"
+      gen: "mikroskopa"
+      loc: "mikroskopu"
+      dat: "mikroskopu"
+      ins: "mikroskopom"
+      voc: "mikroskope"
+    plural: 
+      nom: "mikroskopy"
+      acc: "mikroskopy"
+      gen: "mikroskopov"
+      loc: "mikroskopah"
+      dat: "mikroskopam"
+      ins: "mikroskopami"
+      voc: "mikroskopy"

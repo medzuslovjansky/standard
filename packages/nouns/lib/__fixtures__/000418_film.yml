@@ -1,0 +1,22 @@
+---
+  id: "418"
+  word: "film"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "film"
+      acc: "film"
+      gen: "filma"
+      loc: "filmu"
+      dat: "filmu"
+      ins: "filmom"
+      voc: "filme"
+    plural: 
+      nom: "filmy"
+      acc: "filmy"
+      gen: "filmov"
+      loc: "filmah"
+      dat: "filmam"
+      ins: "filmami"
+      voc: "filmy"

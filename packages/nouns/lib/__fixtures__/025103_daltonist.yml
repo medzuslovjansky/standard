@@ -1,0 +1,23 @@
+---
+  id: "25103"
+  word: "daltonist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "daltonist"
+      acc: "daltonista"
+      gen: "daltonista"
+      loc: "daltonistu"
+      dat: "daltonistu"
+      ins: "daltonistom"
+      voc: "daltoniste"
+    plural: 
+      nom: "daltonisti"
+      acc: "daltonistov"
+      gen: "daltonistov"
+      loc: "daltonistah"
+      dat: "daltonistam"
+      ins: "daltonistami"
+      voc: "daltonisti"

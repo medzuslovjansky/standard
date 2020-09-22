@@ -1,0 +1,23 @@
+---
+  id: "17749"
+  word: "ljudojed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljudojed"
+      acc: "ljudojeda"
+      gen: "ljudojeda"
+      loc: "ljudojedu"
+      dat: "ljudojedu"
+      ins: "ljudojedom"
+      voc: "ljudojede"
+    plural: 
+      nom: "ljudojedi"
+      acc: "ljudojedov"
+      gen: "ljudojedov"
+      loc: "ljudojedah"
+      dat: "ljudojedam"
+      ins: "ljudojedami"
+      voc: "ljudojedi"

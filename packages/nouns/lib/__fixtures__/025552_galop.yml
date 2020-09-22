@@ -1,0 +1,22 @@
+---
+  id: "25552"
+  word: "galop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "galop"
+      acc: "galop"
+      gen: "galopa"
+      loc: "galopu"
+      dat: "galopu"
+      ins: "galopom"
+      voc: "galope"
+    plural: 
+      nom: "galopy"
+      acc: "galopy"
+      gen: "galopov"
+      loc: "galopah"
+      dat: "galopam"
+      ins: "galopami"
+      voc: "galopy"

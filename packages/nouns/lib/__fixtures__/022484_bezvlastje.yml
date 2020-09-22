@@ -1,0 +1,15 @@
+---
+  id: "22484"
+  word: "bezvlasťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezvlasťje"
+      acc: "bezvlasťje"
+      gen: "bezvlasťja"
+      loc: "bezvlasťju"
+      dat: "bezvlasťju"
+      ins: "bezvlasťjem"
+      voc: "bezvlasťje"

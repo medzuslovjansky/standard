@@ -1,0 +1,22 @@
+---
+  id: "823"
+  word: "kongres"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kongres"
+      acc: "kongres"
+      gen: "kongresa"
+      loc: "kongresu"
+      dat: "kongresu"
+      ins: "kongresom"
+      voc: "kongrese"
+    plural: 
+      nom: "kongresy"
+      acc: "kongresy"
+      gen: "kongresov"
+      loc: "kongresah"
+      dat: "kongresam"
+      ins: "kongresami"
+      voc: "kongresy"

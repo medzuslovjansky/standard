@@ -1,0 +1,22 @@
+---
+  id: "2488"
+  word: "diskusija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "diskusija"
+      acc: "diskusijų"
+      gen: "diskusije"
+      loc: "diskusiji"
+      dat: "diskusiji"
+      ins: "diskusijejų"
+      voc: "diskusijo"
+    plural: 
+      nom: "diskusije"
+      acc: "diskusije"
+      gen: "diskusij"
+      loc: "diskusijah"
+      dat: "diskusijam"
+      ins: "diskusijami"
+      voc: "diskusije"

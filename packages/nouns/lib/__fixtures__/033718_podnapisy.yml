@@ -1,0 +1,15 @@
+---
+  id: "33718"
+  word: "podnapisy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "podnapisy"
+      acc: "podnapisy"
+      gen: "podnapisov"
+      loc: "podnapisah"
+      dat: "podnapisam"
+      ins: "podnapisami"
+      voc: "podnapisy"

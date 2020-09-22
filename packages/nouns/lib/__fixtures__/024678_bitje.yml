@@ -1,0 +1,22 @@
+---
+  id: "24678"
+  word: "biťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "biťje"
+      acc: "biťje"
+      gen: "biťja"
+      loc: "biťju"
+      dat: "biťju"
+      ins: "biťjem"
+      voc: "biťje"
+    plural: 
+      nom: "biťja"
+      acc: "biťja"
+      gen: "bitij"
+      loc: "biťjah"
+      dat: "biťjam"
+      ins: "biťjami"
+      voc: "biťja"

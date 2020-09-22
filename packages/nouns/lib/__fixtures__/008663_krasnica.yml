@@ -1,0 +1,22 @@
+---
+  id: "8663"
+  word: "krasnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasnica"
+      acc: "krasnicų"
+      gen: "krasnice"
+      loc: "krasnici"
+      dat: "krasnici"
+      ins: "krasnicejų"
+      voc: "krasnico"
+    plural: 
+      nom: "krasnice"
+      acc: "krasnice"
+      gen: "krasnic"
+      loc: "krasnicah"
+      dat: "krasnicam"
+      ins: "krasnicami"
+      voc: "krasnice"

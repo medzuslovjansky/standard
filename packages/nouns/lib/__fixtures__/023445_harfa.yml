@@ -1,0 +1,22 @@
+---
+  id: "23445"
+  word: "harfa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "harfa"
+      acc: "harfų"
+      gen: "harfy"
+      loc: "harfě"
+      dat: "harfě"
+      ins: "harfojų"
+      voc: "harfo"
+    plural: 
+      nom: "harfy"
+      acc: "harfy"
+      gen: "harf"
+      loc: "harfah"
+      dat: "harfam"
+      ins: "harfami"
+      voc: "harfy"

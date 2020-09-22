@@ -1,0 +1,15 @@
+---
+  id: "22611"
+  word: "fosfor"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fosfor"
+      acc: "fosfor"
+      gen: "fosfora"
+      loc: "fosforu"
+      dat: "fosforu"
+      ins: "fosforom"
+      voc: "fosfore"

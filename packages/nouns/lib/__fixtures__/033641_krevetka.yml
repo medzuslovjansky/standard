@@ -1,0 +1,22 @@
+---
+  id: "33641"
+  word: "krevetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krevetka"
+      acc: "krevetkų"
+      gen: "krevetky"
+      loc: "krevetkě"
+      dat: "krevetkě"
+      ins: "krevetkojų"
+      voc: "krevetko"
+    plural: 
+      nom: "krevetky"
+      acc: "krevetky"
+      gen: "krevetȯk"
+      loc: "krevetkah"
+      dat: "krevetkam"
+      ins: "krevetkami"
+      voc: "krevetky"

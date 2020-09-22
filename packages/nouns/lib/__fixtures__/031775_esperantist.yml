@@ -1,0 +1,23 @@
+---
+  id: "31775"
+  word: "esperantist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "esperantist"
+      acc: "esperantista"
+      gen: "esperantista"
+      loc: "esperantistu"
+      dat: "esperantistu"
+      ins: "esperantistom"
+      voc: "esperantiste"
+    plural: 
+      nom: "esperantisti"
+      acc: "esperantistov"
+      gen: "esperantistov"
+      loc: "esperantistah"
+      dat: "esperantistam"
+      ins: "esperantistami"
+      voc: "esperantisti"

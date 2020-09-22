@@ -1,0 +1,15 @@
+---
+  id: "5302"
+  word: "fašizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fašizm"
+      acc: "fašizm"
+      gen: "fašizma"
+      loc: "fašizmu"
+      dat: "fašizmu"
+      ins: "fašizmom"
+      voc: "fašizme"

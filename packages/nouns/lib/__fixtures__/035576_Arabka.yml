@@ -1,0 +1,22 @@
+---
+  id: "35576"
+  word: "Arabka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Arabka"
+      acc: "Arabkų"
+      gen: "Arabky"
+      loc: "Arabkě"
+      dat: "Arabkě"
+      ins: "Arabkojų"
+      voc: "Arabko"
+    plural: 
+      nom: "Arabky"
+      acc: "Arabky"
+      gen: "Arabȯk"
+      loc: "Arabkah"
+      dat: "Arabkam"
+      ins: "Arabkami"
+      voc: "Arabky"

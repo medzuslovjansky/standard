@@ -1,0 +1,22 @@
+---
+  id: "17450"
+  word: "hirugija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hirugija"
+      acc: "hirugijų"
+      gen: "hirugije"
+      loc: "hirugiji"
+      dat: "hirugiji"
+      ins: "hirugijejų"
+      voc: "hirugijo"
+    plural: 
+      nom: "hirugije"
+      acc: "hirugije"
+      gen: "hirugij"
+      loc: "hirugijah"
+      dat: "hirugijam"
+      ins: "hirugijami"
+      voc: "hirugije"

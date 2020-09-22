@@ -1,0 +1,22 @@
+---
+  id: "1475"
+  word: "sufiks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sufiks"
+      acc: "sufiks"
+      gen: "sufiksa"
+      loc: "sufiksu"
+      dat: "sufiksu"
+      ins: "sufiksom"
+      voc: "sufikse"
+    plural: 
+      nom: "sufiksy"
+      acc: "sufiksy"
+      gen: "sufiksov"
+      loc: "sufiksah"
+      dat: "sufiksam"
+      ins: "sufiksami"
+      voc: "sufiksy"

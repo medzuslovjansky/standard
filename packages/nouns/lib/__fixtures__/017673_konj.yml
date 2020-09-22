@@ -1,0 +1,23 @@
+---
+  id: "17673"
+  word: "konj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konj"
+      acc: "konja"
+      gen: "konja"
+      loc: "konju"
+      dat: "konju"
+      ins: "konjem"
+      voc: "konju"
+    plural: 
+      nom: "konji"
+      acc: "konjev"
+      gen: "konjev"
+      loc: "konjah"
+      dat: "konjam"
+      ins: "konjami"
+      voc: "konji"

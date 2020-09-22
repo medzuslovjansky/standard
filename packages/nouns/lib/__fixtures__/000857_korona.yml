@@ -1,0 +1,22 @@
+---
+  id: "857"
+  word: "korona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korona"
+      acc: "koronų"
+      gen: "korony"
+      loc: "koroně"
+      dat: "koroně"
+      ins: "koronojų"
+      voc: "korono"
+    plural: 
+      nom: "korony"
+      acc: "korony"
+      gen: "koron"
+      loc: "koronah"
+      dat: "koronam"
+      ins: "koronami"
+      voc: "korony"

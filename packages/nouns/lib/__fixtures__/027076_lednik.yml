@@ -1,0 +1,22 @@
+---
+  id: "27076"
+  word: "lednik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lednik"
+      acc: "lednik"
+      gen: "lednika"
+      loc: "ledniku"
+      dat: "ledniku"
+      ins: "lednikom"
+      voc: "ledniče"
+    plural: 
+      nom: "ledniky"
+      acc: "ledniky"
+      gen: "lednikov"
+      loc: "lednikah"
+      dat: "lednikam"
+      ins: "lednikami"
+      voc: "ledniky"

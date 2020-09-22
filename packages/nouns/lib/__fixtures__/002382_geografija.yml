@@ -1,0 +1,22 @@
+---
+  id: "2382"
+  word: "geografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "geografija"
+      acc: "geografijų"
+      gen: "geografije"
+      loc: "geografiji"
+      dat: "geografiji"
+      ins: "geografijejų"
+      voc: "geografijo"
+    plural: 
+      nom: "geografije"
+      acc: "geografije"
+      gen: "geografij"
+      loc: "geografijah"
+      dat: "geografijam"
+      ins: "geografijami"
+      voc: "geografije"

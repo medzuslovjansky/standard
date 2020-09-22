@@ -1,0 +1,22 @@
+---
+  id: "32733"
+  word: "stojišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stojišče"
+      acc: "stojišče"
+      gen: "stojišča"
+      loc: "stojišču"
+      dat: "stojišču"
+      ins: "stojiščem"
+      voc: "stojišče"
+    plural: 
+      nom: "stojišča"
+      acc: "stojišča"
+      gen: "stojišč"
+      loc: "stojiščah"
+      dat: "stojiščam"
+      ins: "stojiščami"
+      voc: "stojišča"

@@ -1,0 +1,22 @@
+---
+  id: "20917"
+  word: "občina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "občina"
+      acc: "občinų"
+      gen: "občiny"
+      loc: "občině"
+      dat: "občině"
+      ins: "občinojų"
+      voc: "občino"
+    plural: 
+      nom: "občiny"
+      acc: "občiny"
+      gen: "občin"
+      loc: "občinah"
+      dat: "občinam"
+      ins: "občinami"
+      voc: "občiny"

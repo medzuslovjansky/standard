@@ -1,0 +1,15 @@
+---
+  id: "22461"
+  word: "Meksiko"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Meksiko"
+      acc: "Meksiko"
+      gen: "Meksika"
+      loc: "Meksiku"
+      dat: "Meksiku"
+      ins: "Meksikom"
+      voc: "Meksiko"

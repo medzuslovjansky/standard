@@ -1,0 +1,23 @@
+---
+  id: "25424"
+  word: "durenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "durenj"
+      acc: "durenja"
+      gen: "durenja"
+      loc: "durenju"
+      dat: "durenju"
+      ins: "durenjem"
+      voc: "durenju"
+    plural: 
+      nom: "durenji"
+      acc: "durenjev"
+      gen: "durenjev"
+      loc: "durenjah"
+      dat: "durenjam"
+      ins: "durenjami"
+      voc: "durenji"

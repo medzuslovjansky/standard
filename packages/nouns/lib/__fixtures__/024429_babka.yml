@@ -1,0 +1,22 @@
+---
+  id: "24429"
+  word: "babka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "babka"
+      acc: "babkų"
+      gen: "babky"
+      loc: "babkě"
+      dat: "babkě"
+      ins: "babkojų"
+      voc: "babko"
+    plural: 
+      nom: "babky"
+      acc: "babky"
+      gen: "babȯk"
+      loc: "babkah"
+      dat: "babkam"
+      ins: "babkami"
+      voc: "babky"

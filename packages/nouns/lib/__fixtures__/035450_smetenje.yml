@@ -1,0 +1,15 @@
+---
+  id: "35450"
+  word: "smęteńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "smęteńje"
+      acc: "smęteńje"
+      gen: "smęteńja"
+      loc: "smęteńju"
+      dat: "smęteńju"
+      ins: "smęteńjem"
+      voc: "smęteńje"

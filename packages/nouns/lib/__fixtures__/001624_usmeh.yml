@@ -1,0 +1,22 @@
+---
+  id: "1624"
+  word: "usměh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "usměh"
+      acc: "usměh"
+      gen: "usměha"
+      loc: "usměhu"
+      dat: "usměhu"
+      ins: "usměhom"
+      voc: "usměše"
+    plural: 
+      nom: "usměhy"
+      acc: "usměhy"
+      gen: "usměhov"
+      loc: "usměhah"
+      dat: "usměham"
+      ins: "usměhami"
+      voc: "usměhy"

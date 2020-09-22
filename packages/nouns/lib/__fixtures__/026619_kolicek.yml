@@ -1,0 +1,22 @@
+---
+  id: "26619"
+  word: "količek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "količek"
+      acc: "količek"
+      gen: "količeka"
+      loc: "količeku"
+      dat: "količeku"
+      ins: "količekom"
+      voc: "količeče"
+    plural: 
+      nom: "količeky"
+      acc: "količeky"
+      gen: "količekov"
+      loc: "količekah"
+      dat: "količekam"
+      ins: "količekami"
+      voc: "količeky"

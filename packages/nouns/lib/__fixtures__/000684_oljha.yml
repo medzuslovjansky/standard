@@ -1,0 +1,22 @@
+---
+  id: "684"
+  word: "oljha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oljha"
+      acc: "oljhų"
+      gen: "oljhy"
+      loc: "oljhě"
+      dat: "oljhě"
+      ins: "oljhojų"
+      voc: "oljho"
+    plural: 
+      nom: "oljhy"
+      acc: "oljhy"
+      gen: "oljh"
+      loc: "oljhah"
+      dat: "oljham"
+      ins: "oljhami"
+      voc: "oljhy"

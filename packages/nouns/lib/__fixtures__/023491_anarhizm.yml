@@ -1,0 +1,15 @@
+---
+  id: "23491"
+  word: "anarhizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "anarhizm"
+      acc: "anarhizm"
+      gen: "anarhizma"
+      loc: "anarhizmu"
+      dat: "anarhizmu"
+      ins: "anarhizmom"
+      voc: "anarhizme"

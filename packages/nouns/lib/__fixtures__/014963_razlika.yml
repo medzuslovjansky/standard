@@ -1,0 +1,22 @@
+---
+  id: "14963"
+  word: "råzlika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzlika"
+      acc: "råzlikų"
+      gen: "råzliky"
+      loc: "råzlikě"
+      dat: "råzlikě"
+      ins: "råzlikojų"
+      voc: "råzliko"
+    plural: 
+      nom: "råzliky"
+      acc: "råzliky"
+      gen: "råzlik"
+      loc: "råzlikah"
+      dat: "råzlikam"
+      ins: "råzlikami"
+      voc: "råzliky"

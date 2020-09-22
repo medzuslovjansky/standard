@@ -1,0 +1,22 @@
+---
+  id: "25940"
+  word: "hieroglif"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hieroglif"
+      acc: "hieroglif"
+      gen: "hieroglifa"
+      loc: "hieroglifu"
+      dat: "hieroglifu"
+      ins: "hieroglifom"
+      voc: "hieroglife"
+    plural: 
+      nom: "hieroglify"
+      acc: "hieroglify"
+      gen: "hieroglifov"
+      loc: "hieroglifah"
+      dat: "hieroglifam"
+      ins: "hieroglifami"
+      voc: "hieroglify"

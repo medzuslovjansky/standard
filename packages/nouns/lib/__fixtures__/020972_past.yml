@@ -1,0 +1,22 @@
+---
+  id: "20972"
+  word: "pasť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pasť"
+      acc: "pasť"
+      gen: "pasti"
+      loc: "pasti"
+      dat: "pasti"
+      ins: "pasťjų"
+      voc: "pasti"
+    plural: 
+      nom: "pasti"
+      acc: "pasti"
+      gen: "pastij"
+      loc: "pasťah"
+      dat: "pasťam"
+      ins: "pasťami"
+      voc: "pasti"

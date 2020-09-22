@@ -1,0 +1,22 @@
+---
+  id: "2683"
+  word: "karantina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "karantina"
+      acc: "karantinų"
+      gen: "karantiny"
+      loc: "karantině"
+      dat: "karantině"
+      ins: "karantinojų"
+      voc: "karantino"
+    plural: 
+      nom: "karantiny"
+      acc: "karantiny"
+      gen: "karantin"
+      loc: "karantinah"
+      dat: "karantinam"
+      ins: "karantinami"
+      voc: "karantiny"

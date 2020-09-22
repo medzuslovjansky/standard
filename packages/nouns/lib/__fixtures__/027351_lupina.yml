@@ -1,0 +1,22 @@
+---
+  id: "27351"
+  word: "lupina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lupina"
+      acc: "lupinų"
+      gen: "lupiny"
+      loc: "lupině"
+      dat: "lupině"
+      ins: "lupinojų"
+      voc: "lupino"
+    plural: 
+      nom: "lupiny"
+      acc: "lupiny"
+      gen: "lupin"
+      loc: "lupinah"
+      dat: "lupinam"
+      ins: "lupinami"
+      voc: "lupiny"

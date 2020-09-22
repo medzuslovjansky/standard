@@ -1,0 +1,22 @@
+---
+  id: "32388"
+  word: "utopija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "utopija"
+      acc: "utopijų"
+      gen: "utopije"
+      loc: "utopiji"
+      dat: "utopiji"
+      ins: "utopijejų"
+      voc: "utopijo"
+    plural: 
+      nom: "utopije"
+      acc: "utopije"
+      gen: "utopij"
+      loc: "utopijah"
+      dat: "utopijam"
+      ins: "utopijami"
+      voc: "utopije"

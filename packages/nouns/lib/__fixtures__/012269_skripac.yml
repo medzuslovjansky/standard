@@ -1,0 +1,23 @@
+---
+  id: "12269"
+  word: "skripač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skripač"
+      acc: "skripača"
+      gen: "skripača"
+      loc: "skripaču"
+      dat: "skripaču"
+      ins: "skripačem"
+      voc: "skripaču"
+    plural: 
+      nom: "skripači"
+      acc: "skripačev"
+      gen: "skripačev"
+      loc: "skripačah"
+      dat: "skripačam"
+      ins: "skripačami"
+      voc: "skripači"

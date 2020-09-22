@@ -1,0 +1,22 @@
+---
+  id: "2576"
+  word: "hlåd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hlåd"
+      acc: "hlåd"
+      gen: "hlåda"
+      loc: "hlådu"
+      dat: "hlådu"
+      ins: "hlådom"
+      voc: "hlåde"
+    plural: 
+      nom: "hlådy"
+      acc: "hlådy"
+      gen: "hlådov"
+      loc: "hlådah"
+      dat: "hlådam"
+      ins: "hlådami"
+      voc: "hlådy"

@@ -1,0 +1,22 @@
+---
+  id: "30698"
+  word: "skica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skica"
+      acc: "skicų"
+      gen: "skice"
+      loc: "skici"
+      dat: "skici"
+      ins: "skicejų"
+      voc: "skico"
+    plural: 
+      nom: "skice"
+      acc: "skice"
+      gen: "skic"
+      loc: "skicah"
+      dat: "skicam"
+      ins: "skicami"
+      voc: "skice"

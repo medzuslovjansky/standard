@@ -1,0 +1,15 @@
+---
+  id: "17380"
+  word: "financije"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "financije"
+      acc: "financije"
+      gen: "financij"
+      loc: "financijah"
+      dat: "financijam"
+      ins: "financijami"
+      voc: "financije"

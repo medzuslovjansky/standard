@@ -1,0 +1,22 @@
+---
+  id: "2489"
+  word: "dlånj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dlånj"
+      acc: "dlånj"
+      gen: "dlånji"
+      loc: "dlånji"
+      dat: "dlånji"
+      ins: "dlånjjų"
+      voc: "dlånji"
+    plural: 
+      nom: "dlånji"
+      acc: "dlånji"
+      gen: "dlånjij"
+      loc: "dlånjah"
+      dat: "dlånjam"
+      ins: "dlånjami"
+      voc: "dlånji"

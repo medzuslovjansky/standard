@@ -1,0 +1,15 @@
+---
+  id: "10"
+  word: "olovo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "olovo"
+      acc: "olovo"
+      gen: "olova"
+      loc: "olovu"
+      dat: "olovu"
+      ins: "olovom"
+      voc: "olovo"

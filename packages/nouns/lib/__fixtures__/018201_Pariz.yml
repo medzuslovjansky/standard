@@ -1,0 +1,15 @@
+---
+  id: "18201"
+  word: "Pariž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Pariž"
+      acc: "Pariž"
+      gen: "Pariža"
+      loc: "Parižu"
+      dat: "Parižu"
+      ins: "Parižem"
+      voc: "Parižu"

@@ -1,0 +1,22 @@
+---
+  id: "35795"
+  word: "diagram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diagram"
+      acc: "diagram"
+      gen: "diagrama"
+      loc: "diagramu"
+      dat: "diagramu"
+      ins: "diagramom"
+      voc: "diagrame"
+    plural: 
+      nom: "diagramy"
+      acc: "diagramy"
+      gen: "diagramov"
+      loc: "diagramah"
+      dat: "diagramam"
+      ins: "diagramami"
+      voc: "diagramy"

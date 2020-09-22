@@ -1,0 +1,22 @@
+---
+  id: "2247"
+  word: "princesa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "princesa"
+      acc: "princesų"
+      gen: "princesy"
+      loc: "princesě"
+      dat: "princesě"
+      ins: "princesojų"
+      voc: "princeso"
+    plural: 
+      nom: "princesy"
+      acc: "princesy"
+      gen: "princes"
+      loc: "princesah"
+      dat: "princesam"
+      ins: "princesami"
+      voc: "princesy"

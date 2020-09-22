@@ -1,0 +1,22 @@
+---
+  id: "16781"
+  word: "faktor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "faktor"
+      acc: "faktor"
+      gen: "faktora"
+      loc: "faktoru"
+      dat: "faktoru"
+      ins: "faktorom"
+      voc: "faktore"
+    plural: 
+      nom: "faktory"
+      acc: "faktory"
+      gen: "faktorov"
+      loc: "faktorah"
+      dat: "faktoram"
+      ins: "faktorami"
+      voc: "faktory"

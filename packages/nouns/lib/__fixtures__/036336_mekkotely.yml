@@ -1,0 +1,24 @@
+---
+  id: "36336"
+  word: "mękkotěly"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mękkotěly"
+      acc: "mękkotělogo"
+      gen: "mękkotělogo"
+      loc: "mękkotělom"
+      dat: "mękkotělomu"
+      ins: "mękkotělym"
+      voc: "mękkotěly"
+    plural: 
+      nom: "mękkotěli"
+      acc: "mękkotělyh"
+      gen: "mękkotělyh"
+      loc: "mękkotělyh"
+      dat: "mękkotělym"
+      ins: "mękkotělymi"
+      voc: "mękkotěli"

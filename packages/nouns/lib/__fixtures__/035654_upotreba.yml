@@ -1,0 +1,22 @@
+---
+  id: "35654"
+  word: "upotrěba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "upotrěba"
+      acc: "upotrěbų"
+      gen: "upotrěby"
+      loc: "upotrěbě"
+      dat: "upotrěbě"
+      ins: "upotrěbojų"
+      voc: "upotrěbo"
+    plural: 
+      nom: "upotrěby"
+      acc: "upotrěby"
+      gen: "upotrěb"
+      loc: "upotrěbah"
+      dat: "upotrěbam"
+      ins: "upotrěbami"
+      voc: "upotrěby"

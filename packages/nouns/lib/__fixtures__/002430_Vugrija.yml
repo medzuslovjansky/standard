@@ -1,0 +1,15 @@
+---
+  id: "2430"
+  word: "Vųgrija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Vųgrija"
+      acc: "Vųgrijų"
+      gen: "Vųgrije"
+      loc: "Vųgriji"
+      dat: "Vųgriji"
+      ins: "Vųgrijejų"
+      voc: "Vųgrijo"

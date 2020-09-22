@@ -1,0 +1,23 @@
+---
+  id: "4251"
+  word: "čudak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čudak"
+      acc: "čudaka"
+      gen: "čudaka"
+      loc: "čudaku"
+      dat: "čudaku"
+      ins: "čudakom"
+      voc: "čudače"
+    plural: 
+      nom: "čudaki"
+      acc: "čudakov"
+      gen: "čudakov"
+      loc: "čudakah"
+      dat: "čudakam"
+      ins: "čudakami"
+      voc: "čudaki"

@@ -1,0 +1,22 @@
+---
+  id: "848"
+  word: "kordon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kordon"
+      acc: "kordon"
+      gen: "kordona"
+      loc: "kordonu"
+      dat: "kordonu"
+      ins: "kordonom"
+      voc: "kordone"
+    plural: 
+      nom: "kordony"
+      acc: "kordony"
+      gen: "kordonov"
+      loc: "kordonah"
+      dat: "kordonam"
+      ins: "kordonami"
+      voc: "kordony"

@@ -1,0 +1,15 @@
+---
+  id: "27734"
+  word: "Monako"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Monako"
+      acc: "Monako"
+      gen: "Monaka"
+      loc: "Monaku"
+      dat: "Monaku"
+      ins: "Monakom"
+      voc: "Monako"

@@ -1,0 +1,22 @@
+---
+  id: "36811"
+  word: "Lisabon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Lisabon"
+      acc: "Lisabon"
+      gen: "Lisabona"
+      loc: "Lisabonu"
+      dat: "Lisabonu"
+      ins: "Lisabonom"
+      voc: "Lisabone"
+    plural: 
+      nom: "Lisabony"
+      acc: "Lisabony"
+      gen: "Lisabonov"
+      loc: "Lisabonah"
+      dat: "Lisabonam"
+      ins: "Lisabonami"
+      voc: "Lisabony"

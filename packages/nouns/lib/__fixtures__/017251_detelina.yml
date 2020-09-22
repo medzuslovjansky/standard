@@ -1,0 +1,22 @@
+---
+  id: "17251"
+  word: "dętelina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dętelina"
+      acc: "dętelinų"
+      gen: "dęteliny"
+      loc: "dętelině"
+      dat: "dętelině"
+      ins: "dętelinojų"
+      voc: "dętelino"
+    plural: 
+      nom: "dęteliny"
+      acc: "dęteliny"
+      gen: "dętelin"
+      loc: "dętelinah"
+      dat: "dętelinam"
+      ins: "dętelinami"
+      voc: "dęteliny"

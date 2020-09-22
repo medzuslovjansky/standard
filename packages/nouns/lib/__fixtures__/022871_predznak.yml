@@ -1,0 +1,22 @@
+---
+  id: "22871"
+  word: "prědznak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědznak"
+      acc: "prědznak"
+      gen: "prědznaka"
+      loc: "prědznaku"
+      dat: "prědznaku"
+      ins: "prědznakom"
+      voc: "prědznače"
+    plural: 
+      nom: "prědznaky"
+      acc: "prědznaky"
+      gen: "prědznakov"
+      loc: "prědznakah"
+      dat: "prědznakam"
+      ins: "prědznakami"
+      voc: "prědznaky"

@@ -1,0 +1,22 @@
+---
+  id: "2385"
+  word: "spor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spor"
+      acc: "spor"
+      gen: "spora"
+      loc: "sporu"
+      dat: "sporu"
+      ins: "sporom"
+      voc: "spore"
+    plural: 
+      nom: "spory"
+      acc: "spory"
+      gen: "sporov"
+      loc: "sporah"
+      dat: "sporam"
+      ins: "sporami"
+      voc: "spory"

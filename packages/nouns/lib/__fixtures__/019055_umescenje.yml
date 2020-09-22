@@ -1,0 +1,22 @@
+---
+  id: "19055"
+  word: "uměšćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uměšćeńje"
+      acc: "uměšćeńje"
+      gen: "uměšćeńja"
+      loc: "uměšćeńju"
+      dat: "uměšćeńju"
+      ins: "uměšćeńjem"
+      voc: "uměšćeńje"
+    plural: 
+      nom: "uměšćeńja"
+      acc: "uměšćeńja"
+      gen: "uměšćenij"
+      loc: "uměšćeńjah"
+      dat: "uměšćeńjam"
+      ins: "uměšćeńjami"
+      voc: "uměšćeńja"

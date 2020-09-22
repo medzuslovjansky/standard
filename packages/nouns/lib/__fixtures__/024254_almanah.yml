@@ -1,0 +1,22 @@
+---
+  id: "24254"
+  word: "almanah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "almanah"
+      acc: "almanah"
+      gen: "almanaha"
+      loc: "almanahu"
+      dat: "almanahu"
+      ins: "almanahom"
+      voc: "almanaše"
+    plural: 
+      nom: "almanahy"
+      acc: "almanahy"
+      gen: "almanahov"
+      loc: "almanahah"
+      dat: "almanaham"
+      ins: "almanahami"
+      voc: "almanahy"

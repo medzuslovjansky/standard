@@ -1,0 +1,22 @@
+---
+  id: "3452"
+  word: "kųpaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kųpaljnja"
+      acc: "kųpaljnjų"
+      gen: "kųpaljnje"
+      loc: "kųpaljnji"
+      dat: "kųpaljnji"
+      ins: "kųpaljnjejų"
+      voc: "kųpaljnjo"
+    plural: 
+      nom: "kųpaljnje"
+      acc: "kųpaljnje"
+      gen: "kųpaljnej"
+      loc: "kųpaljnjah"
+      dat: "kųpaljnjam"
+      ins: "kųpaljnjami"
+      voc: "kųpaljnje"

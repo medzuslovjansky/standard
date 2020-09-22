@@ -1,0 +1,22 @@
+---
+  id: "961"
+  word: "nos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nos"
+      acc: "nos"
+      gen: "nosa"
+      loc: "nosu"
+      dat: "nosu"
+      ins: "nosom"
+      voc: "nose"
+    plural: 
+      nom: "nosy"
+      acc: "nosy"
+      gen: "nosov"
+      loc: "nosah"
+      dat: "nosam"
+      ins: "nosami"
+      voc: "nosy"

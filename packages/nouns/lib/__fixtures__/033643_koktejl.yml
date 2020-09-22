@@ -1,0 +1,22 @@
+---
+  id: "33643"
+  word: "koktejl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koktejl"
+      acc: "koktejl"
+      gen: "koktejla"
+      loc: "koktejlu"
+      dat: "koktejlu"
+      ins: "koktejlom"
+      voc: "koktejle"
+    plural: 
+      nom: "koktejly"
+      acc: "koktejly"
+      gen: "koktejlov"
+      loc: "koktejlah"
+      dat: "koktejlam"
+      ins: "koktejlami"
+      voc: "koktejly"

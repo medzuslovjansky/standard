@@ -1,0 +1,22 @@
+---
+  id: "1550"
+  word: "rekreacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rekreacija"
+      acc: "rekreacijų"
+      gen: "rekreacije"
+      loc: "rekreaciji"
+      dat: "rekreaciji"
+      ins: "rekreacijejų"
+      voc: "rekreacijo"
+    plural: 
+      nom: "rekreacije"
+      acc: "rekreacije"
+      gen: "rekreacij"
+      loc: "rekreacijah"
+      dat: "rekreacijam"
+      ins: "rekreacijami"
+      voc: "rekreacije"

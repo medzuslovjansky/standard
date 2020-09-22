@@ -1,0 +1,23 @@
+---
+  id: "10850"
+  word: "poldenj"
+  meta: 
+    irregularity: "(poldnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poldėnj"
+      acc: "poldėnj"
+      gen: "poldnja"
+      loc: "poldnju"
+      dat: "poldnju"
+      ins: "poldnjem"
+      voc: "poldnju"
+    plural: 
+      nom: "poldnje"
+      acc: "poldnje"
+      gen: "poldnjev"
+      loc: "poldnjah"
+      dat: "poldnjam"
+      ins: "poldnjami"
+      voc: "poldnje"

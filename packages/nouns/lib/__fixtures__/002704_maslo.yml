@@ -1,0 +1,22 @@
+---
+  id: "2704"
+  word: "maslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "maslo"
+      acc: "maslo"
+      gen: "masla"
+      loc: "maslu"
+      dat: "maslu"
+      ins: "maslom"
+      voc: "maslo"
+    plural: 
+      nom: "masla"
+      acc: "masla"
+      gen: "masel"
+      loc: "maslah"
+      dat: "maslam"
+      ins: "maslami"
+      voc: "masla"

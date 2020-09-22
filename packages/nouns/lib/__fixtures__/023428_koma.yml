@@ -1,0 +1,22 @@
+---
+  id: "23428"
+  word: "koma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koma"
+      acc: "komų"
+      gen: "komy"
+      loc: "komě"
+      dat: "komě"
+      ins: "komojų"
+      voc: "komo"
+    plural: 
+      nom: "komy"
+      acc: "komy"
+      gen: "kom"
+      loc: "komah"
+      dat: "komam"
+      ins: "komami"
+      voc: "komy"

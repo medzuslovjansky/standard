@@ -1,0 +1,22 @@
+---
+  id: "14562"
+  word: "fajl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fajl"
+      acc: "fajl"
+      gen: "fajla"
+      loc: "fajlu"
+      dat: "fajlu"
+      ins: "fajlom"
+      voc: "fajle"
+    plural: 
+      nom: "fajly"
+      acc: "fajly"
+      gen: "fajlov"
+      loc: "fajlah"
+      dat: "fajlam"
+      ins: "fajlami"
+      voc: "fajly"

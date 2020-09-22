@@ -1,0 +1,23 @@
+---
+  id: "8448"
+  word: "Kitajec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Kitajec"
+      acc: "Kitajca"
+      gen: "Kitajca"
+      loc: "Kitajcu"
+      dat: "Kitajcu"
+      ins: "Kitajcem"
+      voc: "Kitajče"
+    plural: 
+      nom: "Kitajci"
+      acc: "Kitajcev"
+      gen: "Kitajcev"
+      loc: "Kitajcah"
+      dat: "Kitajcam"
+      ins: "Kitajcami"
+      voc: "Kitajci"

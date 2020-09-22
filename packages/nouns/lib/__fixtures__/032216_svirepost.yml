@@ -1,0 +1,22 @@
+---
+  id: "32216"
+  word: "svirěposť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svirěposť"
+      acc: "svirěposť"
+      gen: "svirěposti"
+      loc: "svirěposti"
+      dat: "svirěposti"
+      ins: "svirěposťjų"
+      voc: "svirěposti"
+    plural: 
+      nom: "svirěposti"
+      acc: "svirěposti"
+      gen: "svirěpostij"
+      loc: "svirěposťah"
+      dat: "svirěposťam"
+      ins: "svirěposťami"
+      voc: "svirěposti"

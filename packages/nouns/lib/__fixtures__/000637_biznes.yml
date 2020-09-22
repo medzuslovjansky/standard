@@ -1,0 +1,22 @@
+---
+  id: "637"
+  word: "biznes"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "biznes"
+      acc: "biznes"
+      gen: "biznesa"
+      loc: "biznesu"
+      dat: "biznesu"
+      ins: "biznesom"
+      voc: "biznese"
+    plural: 
+      nom: "biznesy"
+      acc: "biznesy"
+      gen: "biznesov"
+      loc: "biznesah"
+      dat: "biznesam"
+      ins: "biznesami"
+      voc: "biznesy"

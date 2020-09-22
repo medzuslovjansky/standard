@@ -1,0 +1,22 @@
+---
+  id: "169"
+  word: "samit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "samit"
+      acc: "samit"
+      gen: "samita"
+      loc: "samitu"
+      dat: "samitu"
+      ins: "samitom"
+      voc: "samite"
+    plural: 
+      nom: "samity"
+      acc: "samity"
+      gen: "samitov"
+      loc: "samitah"
+      dat: "samitam"
+      ins: "samitami"
+      voc: "samity"

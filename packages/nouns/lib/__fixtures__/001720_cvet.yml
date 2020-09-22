@@ -1,0 +1,22 @@
+---
+  id: "1720"
+  word: "cvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cvět"
+      acc: "cvět"
+      gen: "cvěta"
+      loc: "cvětu"
+      dat: "cvětu"
+      ins: "cvětom"
+      voc: "cvěte"
+    plural: 
+      nom: "cvěty"
+      acc: "cvěty"
+      gen: "cvětov"
+      loc: "cvětah"
+      dat: "cvětam"
+      ins: "cvětami"
+      voc: "cvěty"

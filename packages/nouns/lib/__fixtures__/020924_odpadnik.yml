@@ -1,0 +1,23 @@
+---
+  id: "20924"
+  word: "odpadnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "odpadnik"
+      acc: "odpadnika"
+      gen: "odpadnika"
+      loc: "odpadniku"
+      dat: "odpadniku"
+      ins: "odpadnikom"
+      voc: "odpadniče"
+    plural: 
+      nom: "odpadniki"
+      acc: "odpadnikov"
+      gen: "odpadnikov"
+      loc: "odpadnikah"
+      dat: "odpadnikam"
+      ins: "odpadnikami"
+      voc: "odpadniki"

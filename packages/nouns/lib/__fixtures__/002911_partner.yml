@@ -1,0 +1,23 @@
+---
+  id: "2911"
+  word: "partner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "partner"
+      acc: "partnera"
+      gen: "partnera"
+      loc: "partneru"
+      dat: "partneru"
+      ins: "partnerom"
+      voc: "partnere"
+    plural: 
+      nom: "partneri"
+      acc: "partnerov"
+      gen: "partnerov"
+      loc: "partnerah"
+      dat: "partneram"
+      ins: "partnerami"
+      voc: "partneri"

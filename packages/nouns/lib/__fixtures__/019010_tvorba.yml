@@ -1,0 +1,22 @@
+---
+  id: "19010"
+  word: "tvoŕba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tvoŕba"
+      acc: "tvoŕbų"
+      gen: "tvoŕby"
+      loc: "tvoŕbě"
+      dat: "tvoŕbě"
+      ins: "tvoŕbojų"
+      voc: "tvoŕbo"
+    plural: 
+      nom: "tvoŕby"
+      acc: "tvoŕby"
+      gen: "tvoŕb"
+      loc: "tvoŕbah"
+      dat: "tvoŕbam"
+      ins: "tvoŕbami"
+      voc: "tvoŕby"

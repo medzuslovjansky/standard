@@ -1,0 +1,22 @@
+---
+  id: "23172"
+  word: "privlěkateljnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "privlěkateljnosť"
+      acc: "privlěkateljnosť"
+      gen: "privlěkateljnosti"
+      loc: "privlěkateljnosti"
+      dat: "privlěkateljnosti"
+      ins: "privlěkateljnosťjų"
+      voc: "privlěkateljnosti"
+    plural: 
+      nom: "privlěkateljnosti"
+      acc: "privlěkateljnosti"
+      gen: "privlěkateljnostij"
+      loc: "privlěkateljnosťah"
+      dat: "privlěkateljnosťam"
+      ins: "privlěkateljnosťami"
+      voc: "privlěkateljnosti"

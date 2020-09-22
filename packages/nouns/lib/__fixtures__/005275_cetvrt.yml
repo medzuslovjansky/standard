@@ -1,0 +1,22 @@
+---
+  id: "5275"
+  word: "četvŕt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "četvŕt"
+      acc: "četvŕt"
+      gen: "četvŕta"
+      loc: "četvŕtu"
+      dat: "četvŕtu"
+      ins: "četvŕtom"
+      voc: "četvŕte"
+    plural: 
+      nom: "četvŕty"
+      acc: "četvŕty"
+      gen: "četvŕtov"
+      loc: "četvŕtah"
+      dat: "četvŕtam"
+      ins: "četvŕtami"
+      voc: "četvŕty"

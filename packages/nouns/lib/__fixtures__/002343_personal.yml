@@ -1,0 +1,22 @@
+---
+  id: "2343"
+  word: "personal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "personal"
+      acc: "personal"
+      gen: "personala"
+      loc: "personalu"
+      dat: "personalu"
+      ins: "personalom"
+      voc: "personale"
+    plural: 
+      nom: "personaly"
+      acc: "personaly"
+      gen: "personalov"
+      loc: "personalah"
+      dat: "personalam"
+      ins: "personalami"
+      voc: "personaly"

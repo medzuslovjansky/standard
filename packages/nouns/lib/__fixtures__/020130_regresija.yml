@@ -1,0 +1,22 @@
+---
+  id: "20130"
+  word: "regresija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "regresija"
+      acc: "regresijų"
+      gen: "regresije"
+      loc: "regresiji"
+      dat: "regresiji"
+      ins: "regresijejų"
+      voc: "regresijo"
+    plural: 
+      nom: "regresije"
+      acc: "regresije"
+      gen: "regresij"
+      loc: "regresijah"
+      dat: "regresijam"
+      ins: "regresijami"
+      voc: "regresije"

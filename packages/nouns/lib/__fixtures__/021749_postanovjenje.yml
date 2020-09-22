@@ -1,0 +1,22 @@
+---
+  id: "21749"
+  word: "postanovjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "postanovjeńje"
+      acc: "postanovjeńje"
+      gen: "postanovjeńja"
+      loc: "postanovjeńju"
+      dat: "postanovjeńju"
+      ins: "postanovjeńjem"
+      voc: "postanovjeńje"
+    plural: 
+      nom: "postanovjeńja"
+      acc: "postanovjeńja"
+      gen: "postanovjenij"
+      loc: "postanovjeńjah"
+      dat: "postanovjeńjam"
+      ins: "postanovjeńjami"
+      voc: "postanovjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "18988"
+  word: "travnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "travnik"
+      acc: "travnik"
+      gen: "travnika"
+      loc: "travniku"
+      dat: "travniku"
+      ins: "travnikom"
+      voc: "travniče"
+    plural: 
+      nom: "travniky"
+      acc: "travniky"
+      gen: "travnikov"
+      loc: "travnikah"
+      dat: "travnikam"
+      ins: "travnikami"
+      voc: "travniky"

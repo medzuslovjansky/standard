@@ -1,0 +1,22 @@
+---
+  id: "19160"
+  word: "vazektomija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vazektomija"
+      acc: "vazektomijų"
+      gen: "vazektomije"
+      loc: "vazektomiji"
+      dat: "vazektomiji"
+      ins: "vazektomijejų"
+      voc: "vazektomijo"
+    plural: 
+      nom: "vazektomije"
+      acc: "vazektomije"
+      gen: "vazektomij"
+      loc: "vazektomijah"
+      dat: "vazektomijam"
+      ins: "vazektomijami"
+      voc: "vazektomije"

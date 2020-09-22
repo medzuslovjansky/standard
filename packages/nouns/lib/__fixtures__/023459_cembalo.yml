@@ -1,0 +1,22 @@
+---
+  id: "23459"
+  word: "čembalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čembalo"
+      acc: "čembalo"
+      gen: "čembala"
+      loc: "čembalu"
+      dat: "čembalu"
+      ins: "čembalom"
+      voc: "čembalo"
+    plural: 
+      nom: "čembala"
+      acc: "čembala"
+      gen: "čembal"
+      loc: "čembalah"
+      dat: "čembalam"
+      ins: "čembalami"
+      voc: "čembala"

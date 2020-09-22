@@ -1,0 +1,22 @@
+---
+  id: "26912"
+  word: "krotosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krotosť"
+      acc: "krotosť"
+      gen: "krotosti"
+      loc: "krotosti"
+      dat: "krotosti"
+      ins: "krotosťjų"
+      voc: "krotosti"
+    plural: 
+      nom: "krotosti"
+      acc: "krotosti"
+      gen: "krotostij"
+      loc: "krotosťah"
+      dat: "krotosťam"
+      ins: "krotosťami"
+      voc: "krotosti"

@@ -1,0 +1,15 @@
+---
+  id: "35737"
+  word: "respekt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "respekt"
+      acc: "respekt"
+      gen: "respekta"
+      loc: "respektu"
+      dat: "respektu"
+      ins: "respektom"
+      voc: "respekte"

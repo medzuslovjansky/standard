@@ -1,0 +1,22 @@
+---
+  id: "3552"
+  word: "ohota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ohota"
+      acc: "ohotų"
+      gen: "ohoty"
+      loc: "ohotě"
+      dat: "ohotě"
+      ins: "ohotojų"
+      voc: "ohoto"
+    plural: 
+      nom: "ohoty"
+      acc: "ohoty"
+      gen: "ohot"
+      loc: "ohotah"
+      dat: "ohotam"
+      ins: "ohotami"
+      voc: "ohoty"

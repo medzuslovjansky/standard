@@ -1,0 +1,22 @@
+---
+  id: "2039"
+  word: "dȯska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯska"
+      acc: "dȯskų"
+      gen: "dȯsky"
+      loc: "dȯskě"
+      dat: "dȯskě"
+      ins: "dȯskojų"
+      voc: "dȯsko"
+    plural: 
+      nom: "dȯsky"
+      acc: "dȯsky"
+      gen: "dȯsȯk"
+      loc: "dȯskah"
+      dat: "dȯskam"
+      ins: "dȯskami"
+      voc: "dȯsky"

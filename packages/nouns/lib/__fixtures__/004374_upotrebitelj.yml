@@ -1,0 +1,23 @@
+---
+  id: "4374"
+  word: "upotrěbitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "upotrěbitelj"
+      acc: "upotrěbitelja"
+      gen: "upotrěbitelja"
+      loc: "upotrěbitelju"
+      dat: "upotrěbitelju"
+      ins: "upotrěbiteljem"
+      voc: "upotrěbitelju"
+    plural: 
+      nom: "upotrěbitelji"
+      acc: "upotrěbiteljev"
+      gen: "upotrěbiteljev"
+      loc: "upotrěbiteljah"
+      dat: "upotrěbiteljam"
+      ins: "upotrěbiteljami"
+      voc: "upotrěbitelji"

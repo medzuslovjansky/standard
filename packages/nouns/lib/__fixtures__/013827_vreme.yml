@@ -1,0 +1,22 @@
+---
+  id: "13827"
+  word: "vrěmę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vrěmę"
+      acc: "vrěmę"
+      gen: "vrěmene / vrěmena"
+      loc: "vrěmeni / vrěmenu"
+      dat: "vrěmeni / vrěmenu"
+      ins: "vrěmenem / vrěmenom"
+      voc: "vrěmę"
+    plural: 
+      nom: "vrěmena"
+      acc: "vrěmena"
+      gen: "vrěmen"
+      loc: "vrěmenah"
+      dat: "vrěmenam"
+      ins: "vrěmenami"
+      voc: "vrěmena"

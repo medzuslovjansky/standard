@@ -1,0 +1,22 @@
+---
+  id: "33706"
+  word: "izgovorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izgovorka"
+      acc: "izgovorkų"
+      gen: "izgovorky"
+      loc: "izgovorkě"
+      dat: "izgovorkě"
+      ins: "izgovorkojų"
+      voc: "izgovorko"
+    plural: 
+      nom: "izgovorky"
+      acc: "izgovorky"
+      gen: "izgovorȯk"
+      loc: "izgovorkah"
+      dat: "izgovorkam"
+      ins: "izgovorkami"
+      voc: "izgovorky"

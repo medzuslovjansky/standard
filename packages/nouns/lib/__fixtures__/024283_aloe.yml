@@ -1,0 +1,15 @@
+---
+  id: "24283"
+  word: "aloe"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aloe"
+      acc: "aloe"
+      gen: "aloęte / aloęta"
+      loc: "aloęti / aloętu"
+      dat: "aloęti / aloętu"
+      ins: "aloętem / aloętom"
+      voc: "aloe"

@@ -1,0 +1,22 @@
+---
+  id: "35600"
+  word: "formaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "formaľnosť"
+      acc: "formaľnosť"
+      gen: "formaľnosti"
+      loc: "formaľnosti"
+      dat: "formaľnosti"
+      ins: "formaľnosťjų"
+      voc: "formaľnosti"
+    plural: 
+      nom: "formaľnosti"
+      acc: "formaľnosti"
+      gen: "formaľnostij"
+      loc: "formaľnosťah"
+      dat: "formaľnosťam"
+      ins: "formaľnosťami"
+      voc: "formaľnosti"

@@ -1,0 +1,22 @@
+---
+  id: "2146"
+  word: "kontrarevolucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kontrarevolucija"
+      acc: "kontrarevolucijų"
+      gen: "kontrarevolucije"
+      loc: "kontrarevoluciji"
+      dat: "kontrarevoluciji"
+      ins: "kontrarevolucijejų"
+      voc: "kontrarevolucijo"
+    plural: 
+      nom: "kontrarevolucije"
+      acc: "kontrarevolucije"
+      gen: "kontrarevolucij"
+      loc: "kontrarevolucijah"
+      dat: "kontrarevolucijam"
+      ins: "kontrarevolucijami"
+      voc: "kontrarevolucije"

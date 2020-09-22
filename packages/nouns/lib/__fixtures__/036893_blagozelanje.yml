@@ -1,0 +1,22 @@
+---
+  id: "36893"
+  word: "blågoželańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "blågoželańje"
+      acc: "blågoželańje"
+      gen: "blågoželańja"
+      loc: "blågoželańju"
+      dat: "blågoželańju"
+      ins: "blågoželańjem"
+      voc: "blågoželańje"
+    plural: 
+      nom: "blågoželańja"
+      acc: "blågoželańja"
+      gen: "blågoželanij"
+      loc: "blågoželańjah"
+      dat: "blågoželańjam"
+      ins: "blågoželańjami"
+      voc: "blågoželańja"

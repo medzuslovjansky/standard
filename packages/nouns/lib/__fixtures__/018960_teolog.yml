@@ -1,0 +1,23 @@
+---
+  id: "18960"
+  word: "teolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "teolog"
+      acc: "teologa"
+      gen: "teologa"
+      loc: "teologu"
+      dat: "teologu"
+      ins: "teologom"
+      voc: "teolože"
+    plural: 
+      nom: "teologi"
+      acc: "teologov"
+      gen: "teologov"
+      loc: "teologah"
+      dat: "teologam"
+      ins: "teologami"
+      voc: "teologi"

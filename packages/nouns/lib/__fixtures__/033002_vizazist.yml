@@ -1,0 +1,23 @@
+---
+  id: "33002"
+  word: "vizažist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vizažist"
+      acc: "vizažista"
+      gen: "vizažista"
+      loc: "vizažistu"
+      dat: "vizažistu"
+      ins: "vizažistom"
+      voc: "vizažiste"
+    plural: 
+      nom: "vizažisti"
+      acc: "vizažistov"
+      gen: "vizažistov"
+      loc: "vizažistah"
+      dat: "vizažistam"
+      ins: "vizažistami"
+      voc: "vizažisti"

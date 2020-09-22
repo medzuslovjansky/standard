@@ -1,0 +1,22 @@
+---
+  id: "29922"
+  word: "pojas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pojas"
+      acc: "pojas"
+      gen: "pojasa"
+      loc: "pojasu"
+      dat: "pojasu"
+      ins: "pojasom"
+      voc: "pojase"
+    plural: 
+      nom: "pojasy"
+      acc: "pojasy"
+      gen: "pojasov"
+      loc: "pojasah"
+      dat: "pojasam"
+      ins: "pojasami"
+      voc: "pojasy"

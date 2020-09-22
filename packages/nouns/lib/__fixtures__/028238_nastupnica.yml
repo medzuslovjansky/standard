@@ -1,0 +1,22 @@
+---
+  id: "28238"
+  word: "nastųpnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nastųpnica"
+      acc: "nastųpnicų"
+      gen: "nastųpnice"
+      loc: "nastųpnici"
+      dat: "nastųpnici"
+      ins: "nastųpnicejų"
+      voc: "nastųpnico"
+    plural: 
+      nom: "nastųpnice"
+      acc: "nastųpnice"
+      gen: "nastųpnic"
+      loc: "nastųpnicah"
+      dat: "nastųpnicam"
+      ins: "nastųpnicami"
+      voc: "nastųpnice"

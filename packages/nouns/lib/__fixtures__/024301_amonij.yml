@@ -1,0 +1,15 @@
+---
+  id: "24301"
+  word: "amonij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "amonij"
+      acc: "amonij"
+      gen: "amonija"
+      loc: "amoniju"
+      dat: "amoniju"
+      ins: "amonijem"
+      voc: "amoniju"

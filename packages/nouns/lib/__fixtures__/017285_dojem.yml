@@ -1,0 +1,22 @@
+---
+  id: "17285"
+  word: "dojem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dojem"
+      acc: "dojem"
+      gen: "dojema"
+      loc: "dojemu"
+      dat: "dojemu"
+      ins: "dojemom"
+      voc: "dojeme"
+    plural: 
+      nom: "dojemy"
+      acc: "dojemy"
+      gen: "dojemov"
+      loc: "dojemah"
+      dat: "dojemam"
+      ins: "dojemami"
+      voc: "dojemy"

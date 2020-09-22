@@ -1,0 +1,15 @@
+---
+  id: "6987"
+  word: "dějańja"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "dějańja"
+      acc: "dějańja"
+      gen: "dějańj"
+      loc: "dějańjah"
+      dat: "dějańjam"
+      ins: "dějańjami"
+      voc: "dějańja"

@@ -1,0 +1,22 @@
+---
+  id: "33155"
+  word: "vȯznikneńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯznikneńje"
+      acc: "vȯznikneńje"
+      gen: "vȯznikneńja"
+      loc: "vȯznikneńju"
+      dat: "vȯznikneńju"
+      ins: "vȯznikneńjem"
+      voc: "vȯznikneńje"
+    plural: 
+      nom: "vȯznikneńja"
+      acc: "vȯznikneńja"
+      gen: "vȯzniknenij"
+      loc: "vȯznikneńjah"
+      dat: "vȯznikneńjam"
+      ins: "vȯznikneńjami"
+      voc: "vȯznikneńja"

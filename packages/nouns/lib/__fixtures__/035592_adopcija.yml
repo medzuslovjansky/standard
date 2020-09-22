@@ -1,0 +1,22 @@
+---
+  id: "35592"
+  word: "adopcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "adopcija"
+      acc: "adopcijų"
+      gen: "adopcije"
+      loc: "adopciji"
+      dat: "adopciji"
+      ins: "adopcijejų"
+      voc: "adopcijo"
+    plural: 
+      nom: "adopcije"
+      acc: "adopcije"
+      gen: "adopcij"
+      loc: "adopcijah"
+      dat: "adopcijam"
+      ins: "adopcijami"
+      voc: "adopcije"

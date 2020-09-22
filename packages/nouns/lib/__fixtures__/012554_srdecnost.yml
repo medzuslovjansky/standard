@@ -1,0 +1,22 @@
+---
+  id: "12554"
+  word: "sŕdečnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sŕdečnosť"
+      acc: "sŕdečnosť"
+      gen: "sŕdečnosti"
+      loc: "sŕdečnosti"
+      dat: "sŕdečnosti"
+      ins: "sŕdečnosťjų"
+      voc: "sŕdečnosti"
+    plural: 
+      nom: "sŕdečnosti"
+      acc: "sŕdečnosti"
+      gen: "sŕdečnostij"
+      loc: "sŕdečnosťah"
+      dat: "sŕdečnosťam"
+      ins: "sŕdečnosťami"
+      voc: "sŕdečnosti"

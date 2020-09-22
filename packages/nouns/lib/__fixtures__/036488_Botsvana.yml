@@ -1,0 +1,15 @@
+---
+  id: "36488"
+  word: "Botsvana"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Botsvana"
+      acc: "Botsvanų"
+      gen: "Botsvany"
+      loc: "Botsvaně"
+      dat: "Botsvaně"
+      ins: "Botsvanojų"
+      voc: "Botsvano"

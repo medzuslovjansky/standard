@@ -1,0 +1,22 @@
+---
+  id: "2731"
+  word: "myslj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "myslj"
+      acc: "myslj"
+      gen: "myslji"
+      loc: "myslji"
+      dat: "myslji"
+      ins: "mysljjų"
+      voc: "myslji"
+    plural: 
+      nom: "myslji"
+      acc: "myslji"
+      gen: "mysljij"
+      loc: "mysljah"
+      dat: "mysljam"
+      ins: "mysljami"
+      voc: "myslji"

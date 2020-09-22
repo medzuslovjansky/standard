@@ -1,0 +1,23 @@
+---
+  id: "32136"
+  word: "kloun"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kloun"
+      acc: "klouna"
+      gen: "klouna"
+      loc: "klounu"
+      dat: "klounu"
+      ins: "klounom"
+      voc: "kloune"
+    plural: 
+      nom: "klouni"
+      acc: "klounov"
+      gen: "klounov"
+      loc: "klounah"
+      dat: "klounam"
+      ins: "klounami"
+      voc: "klouni"

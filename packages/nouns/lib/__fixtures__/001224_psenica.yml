@@ -1,0 +1,22 @@
+---
+  id: "1224"
+  word: "pšenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pšenica"
+      acc: "pšenicų"
+      gen: "pšenice"
+      loc: "pšenici"
+      dat: "pšenici"
+      ins: "pšenicejų"
+      voc: "pšenico"
+    plural: 
+      nom: "pšenice"
+      acc: "pšenice"
+      gen: "pšenic"
+      loc: "pšenicah"
+      dat: "pšenicam"
+      ins: "pšenicami"
+      voc: "pšenice"

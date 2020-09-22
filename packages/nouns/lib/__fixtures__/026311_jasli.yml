@@ -1,0 +1,15 @@
+---
+  id: "26311"
+  word: "jasli"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "jasli"
+      acc: "jasli"
+      gen: "jaslov"
+      loc: "jaslah"
+      dat: "jaslam"
+      ins: "jaslami"
+      voc: "jasli"

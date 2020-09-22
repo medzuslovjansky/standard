@@ -1,0 +1,22 @@
+---
+  id: "25562"
+  word: "gambit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gambit"
+      acc: "gambit"
+      gen: "gambita"
+      loc: "gambitu"
+      dat: "gambitu"
+      ins: "gambitom"
+      voc: "gambite"
+    plural: 
+      nom: "gambity"
+      acc: "gambity"
+      gen: "gambitov"
+      loc: "gambitah"
+      dat: "gambitam"
+      ins: "gambitami"
+      voc: "gambity"

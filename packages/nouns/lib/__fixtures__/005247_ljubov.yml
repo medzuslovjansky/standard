@@ -1,0 +1,22 @@
+---
+  id: "5247"
+  word: "ljubȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljubȯv"
+      acc: "ljubȯv"
+      gen: "ljubve / ljubvi"
+      loc: "ljubvi"
+      dat: "ljubvi"
+      ins: "ljubȯvjų"
+      voc: "ljubȯv"
+    plural: 
+      nom: "ljubvi"
+      acc: "ljubvi"
+      gen: "ljubvij"
+      loc: "ljubvah"
+      dat: "ljubvam"
+      ins: "ljubvami"
+      voc: "ljubvi"

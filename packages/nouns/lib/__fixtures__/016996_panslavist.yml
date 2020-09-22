@@ -1,0 +1,23 @@
+---
+  id: "16996"
+  word: "panslavist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "panslavist"
+      acc: "panslavista"
+      gen: "panslavista"
+      loc: "panslavistu"
+      dat: "panslavistu"
+      ins: "panslavistom"
+      voc: "panslaviste"
+    plural: 
+      nom: "panslavisti"
+      acc: "panslavistov"
+      gen: "panslavistov"
+      loc: "panslavistah"
+      dat: "panslavistam"
+      ins: "panslavistami"
+      voc: "panslavisti"

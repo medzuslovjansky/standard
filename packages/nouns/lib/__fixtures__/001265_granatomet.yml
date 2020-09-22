@@ -1,0 +1,22 @@
+---
+  id: "1265"
+  word: "granatomet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "granatomet"
+      acc: "granatomet"
+      gen: "granatometa"
+      loc: "granatometu"
+      dat: "granatometu"
+      ins: "granatometom"
+      voc: "granatomete"
+    plural: 
+      nom: "granatomety"
+      acc: "granatomety"
+      gen: "granatometov"
+      loc: "granatometah"
+      dat: "granatometam"
+      ins: "granatometami"
+      voc: "granatomety"

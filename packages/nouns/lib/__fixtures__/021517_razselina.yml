@@ -1,0 +1,22 @@
+---
+  id: "21517"
+  word: "råzselina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzselina"
+      acc: "råzselinų"
+      gen: "råzseliny"
+      loc: "råzselině"
+      dat: "råzselině"
+      ins: "råzselinojų"
+      voc: "råzselino"
+    plural: 
+      nom: "råzseliny"
+      acc: "råzseliny"
+      gen: "råzselin"
+      loc: "råzselinah"
+      dat: "råzselinam"
+      ins: "råzselinami"
+      voc: "råzseliny"

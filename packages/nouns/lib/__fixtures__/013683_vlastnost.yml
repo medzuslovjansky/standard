@@ -1,0 +1,22 @@
+---
+  id: "13683"
+  word: "vlastnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlastnosť"
+      acc: "vlastnosť"
+      gen: "vlastnosti"
+      loc: "vlastnosti"
+      dat: "vlastnosti"
+      ins: "vlastnosťjų"
+      voc: "vlastnosti"
+    plural: 
+      nom: "vlastnosti"
+      acc: "vlastnosti"
+      gen: "vlastnostij"
+      loc: "vlastnosťah"
+      dat: "vlastnosťam"
+      ins: "vlastnosťami"
+      voc: "vlastnosti"

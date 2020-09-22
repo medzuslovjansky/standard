@@ -1,0 +1,22 @@
+---
+  id: "4970"
+  word: "kolonizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolonizacija"
+      acc: "kolonizacijų"
+      gen: "kolonizacije"
+      loc: "kolonizaciji"
+      dat: "kolonizaciji"
+      ins: "kolonizacijejų"
+      voc: "kolonizacijo"
+    plural: 
+      nom: "kolonizacije"
+      acc: "kolonizacije"
+      gen: "kolonizacij"
+      loc: "kolonizacijah"
+      dat: "kolonizacijam"
+      ins: "kolonizacijami"
+      voc: "kolonizacije"

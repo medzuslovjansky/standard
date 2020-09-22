@@ -1,0 +1,22 @@
+---
+  id: "35132"
+  word: "abstrakt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abstrakt"
+      acc: "abstrakt"
+      gen: "abstrakta"
+      loc: "abstraktu"
+      dat: "abstraktu"
+      ins: "abstraktom"
+      voc: "abstrakte"
+    plural: 
+      nom: "abstrakty"
+      acc: "abstrakty"
+      gen: "abstraktov"
+      loc: "abstraktah"
+      dat: "abstraktam"
+      ins: "abstraktami"
+      voc: "abstrakty"

@@ -1,0 +1,22 @@
+---
+  id: "24679"
+  word: "bitka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bitka"
+      acc: "bitkų"
+      gen: "bitky"
+      loc: "bitkě"
+      dat: "bitkě"
+      ins: "bitkojų"
+      voc: "bitko"
+    plural: 
+      nom: "bitky"
+      acc: "bitky"
+      gen: "bitȯk"
+      loc: "bitkah"
+      dat: "bitkam"
+      ins: "bitkami"
+      voc: "bitky"

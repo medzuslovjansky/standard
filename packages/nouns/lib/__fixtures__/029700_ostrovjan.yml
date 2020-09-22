@@ -1,0 +1,47 @@
+---
+  - 
+    id: "29700"
+    word: "ostrovjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "ostrovjan"
+        acc: "ostrovjana"
+        gen: "ostrovjana"
+        loc: "ostrovjanu"
+        dat: "ostrovjanu"
+        ins: "ostrovjanom"
+        voc: "ostrovjane"
+      plural: 
+        nom: "ostrovjani"
+        acc: "ostrovjanov"
+        gen: "ostrovjanov"
+        loc: "ostrovjanah"
+        dat: "ostrovjanam"
+        ins: "ostrovjanami"
+        voc: "ostrovjani"
+  - 
+    id: "29700"
+    word: "ostrovjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "ostrovjanin"
+        acc: "ostrovjanina"
+        gen: "ostrovjanina"
+        loc: "ostrovjaninu"
+        dat: "ostrovjaninu"
+        ins: "ostrovjaninom"
+        voc: "ostrovjanine"
+      plural: 
+        nom: "ostrovjani"
+        acc: "ostrovjanov"
+        gen: "ostrovjanov"
+        loc: "ostrovjanah"
+        dat: "ostrovjanam"
+        ins: "ostrovjanami"
+        voc: "ostrovjani"

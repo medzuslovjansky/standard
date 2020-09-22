@@ -1,0 +1,22 @@
+---
+  id: "26394"
+  word: "ježina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ježina"
+      acc: "ježinų"
+      gen: "ježiny"
+      loc: "ježině"
+      dat: "ježině"
+      ins: "ježinojų"
+      voc: "ježino"
+    plural: 
+      nom: "ježiny"
+      acc: "ježiny"
+      gen: "ježin"
+      loc: "ježinah"
+      dat: "ježinam"
+      ins: "ježinami"
+      voc: "ježiny"

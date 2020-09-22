@@ -1,0 +1,22 @@
+---
+  id: "1414"
+  word: "stol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stol"
+      acc: "stol"
+      gen: "stola"
+      loc: "stolu"
+      dat: "stolu"
+      ins: "stolom"
+      voc: "stole"
+    plural: 
+      nom: "stoly"
+      acc: "stoly"
+      gen: "stolov"
+      loc: "stolah"
+      dat: "stolam"
+      ins: "stolami"
+      voc: "stoly"

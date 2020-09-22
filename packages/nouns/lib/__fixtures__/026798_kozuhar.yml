@@ -1,0 +1,23 @@
+---
+  id: "26798"
+  word: "kožuhaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kožuhaŕ"
+      acc: "kožuhaŕa"
+      gen: "kožuhaŕa"
+      loc: "kožuhaŕu"
+      dat: "kožuhaŕu"
+      ins: "kožuhaŕem"
+      voc: "kožuhaŕu"
+    plural: 
+      nom: "kožuhari"
+      acc: "kožuhaŕev"
+      gen: "kožuhaŕev"
+      loc: "kožuhaŕah"
+      dat: "kožuhaŕam"
+      ins: "kožuhaŕami"
+      voc: "kožuhari"

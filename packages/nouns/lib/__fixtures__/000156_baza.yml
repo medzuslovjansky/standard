@@ -1,0 +1,22 @@
+---
+  id: "156"
+  word: "baza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "baza"
+      acc: "bazų"
+      gen: "bazy"
+      loc: "bazě"
+      dat: "bazě"
+      ins: "bazojų"
+      voc: "bazo"
+    plural: 
+      nom: "bazy"
+      acc: "bazy"
+      gen: "baz"
+      loc: "bazah"
+      dat: "bazam"
+      ins: "bazami"
+      voc: "bazy"

@@ -1,0 +1,22 @@
+---
+  id: "18647"
+  word: "rokada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rokada"
+      acc: "rokadų"
+      gen: "rokady"
+      loc: "rokadě"
+      dat: "rokadě"
+      ins: "rokadojų"
+      voc: "rokado"
+    plural: 
+      nom: "rokady"
+      acc: "rokady"
+      gen: "rokad"
+      loc: "rokadah"
+      dat: "rokadam"
+      ins: "rokadami"
+      voc: "rokady"

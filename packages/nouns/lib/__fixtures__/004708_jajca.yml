@@ -1,0 +1,15 @@
+---
+  id: "4708"
+  word: "jajca"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "jajca"
+      acc: "jajca"
+      gen: "jajc"
+      loc: "jajcah"
+      dat: "jajcam"
+      ins: "jajcami"
+      voc: "jajca"

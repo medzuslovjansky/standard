@@ -1,0 +1,15 @@
+---
+  id: "31665"
+  word: "zrazy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "zrazy"
+      acc: "zrazy"
+      gen: "zrazov"
+      loc: "zrazah"
+      dat: "zrazam"
+      ins: "zrazami"
+      voc: "zrazy"

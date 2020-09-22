@@ -1,0 +1,22 @@
+---
+  id: "9445"
+  word: "narušeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "narušeńje"
+      acc: "narušeńje"
+      gen: "narušeńja"
+      loc: "narušeńju"
+      dat: "narušeńju"
+      ins: "narušeńjem"
+      voc: "narušeńje"
+    plural: 
+      nom: "narušeńja"
+      acc: "narušeńja"
+      gen: "narušenij"
+      loc: "narušeńjah"
+      dat: "narušeńjam"
+      ins: "narušeńjami"
+      voc: "narušeńja"

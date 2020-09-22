@@ -1,0 +1,22 @@
+---
+  id: "22942"
+  word: "sųzvězďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųzvězďje"
+      acc: "sųzvězďje"
+      gen: "sųzvězďja"
+      loc: "sųzvězďju"
+      dat: "sųzvězďju"
+      ins: "sųzvězďjem"
+      voc: "sųzvězďje"
+    plural: 
+      nom: "sųzvězďja"
+      acc: "sųzvězďja"
+      gen: "sųzvězdij"
+      loc: "sųzvězďjah"
+      dat: "sųzvězďjam"
+      ins: "sųzvězďjami"
+      voc: "sųzvězďja"

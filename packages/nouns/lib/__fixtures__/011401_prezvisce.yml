@@ -1,0 +1,22 @@
+---
+  id: "11401"
+  word: "prězvišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prězvišče"
+      acc: "prězvišče"
+      gen: "prězvišča"
+      loc: "prězvišču"
+      dat: "prězvišču"
+      ins: "prězviščem"
+      voc: "prězvišče"
+    plural: 
+      nom: "prězvišča"
+      acc: "prězvišča"
+      gen: "prězvišč"
+      loc: "prězviščah"
+      dat: "prězviščam"
+      ins: "prězviščami"
+      voc: "prězvišča"

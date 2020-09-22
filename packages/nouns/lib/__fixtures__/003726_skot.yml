@@ -1,0 +1,15 @@
+---
+  id: "3726"
+  word: "skot"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "skot"
+      acc: "skot"
+      gen: "skota"
+      loc: "skotu"
+      dat: "skotu"
+      ins: "skotom"
+      voc: "skote"

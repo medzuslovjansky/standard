@@ -1,0 +1,22 @@
+---
+  id: "26349"
+  word: "jedivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jedivo"
+      acc: "jedivo"
+      gen: "jediva"
+      loc: "jedivu"
+      dat: "jedivu"
+      ins: "jedivom"
+      voc: "jedivo"
+    plural: 
+      nom: "jediva"
+      acc: "jediva"
+      gen: "jediv"
+      loc: "jedivah"
+      dat: "jedivam"
+      ins: "jedivami"
+      voc: "jediva"

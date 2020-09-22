@@ -1,0 +1,22 @@
+---
+  id: "19133"
+  word: "vȯzduholoď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯzduholoď"
+      acc: "vȯzduholoď"
+      gen: "vȯzduholodi"
+      loc: "vȯzduholodi"
+      dat: "vȯzduholodi"
+      ins: "vȯzduholoďjų"
+      voc: "vȯzduholodi"
+    plural: 
+      nom: "vȯzduholodi"
+      acc: "vȯzduholodi"
+      gen: "vȯzduholodij"
+      loc: "vȯzduholoďah"
+      dat: "vȯzduholoďam"
+      ins: "vȯzduholoďami"
+      voc: "vȯzduholodi"

@@ -1,0 +1,22 @@
+---
+  id: "2676"
+  word: "grab"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grab"
+      acc: "grab"
+      gen: "graba"
+      loc: "grabu"
+      dat: "grabu"
+      ins: "grabom"
+      voc: "grabe"
+    plural: 
+      nom: "graby"
+      acc: "graby"
+      gen: "grabov"
+      loc: "grabah"
+      dat: "grabam"
+      ins: "grabami"
+      voc: "graby"

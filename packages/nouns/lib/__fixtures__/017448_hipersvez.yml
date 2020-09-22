@@ -1,0 +1,22 @@
+---
+  id: "17448"
+  word: "hipersvęź"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hipersvęź"
+      acc: "hipersvęź"
+      gen: "hipersvęzi"
+      loc: "hipersvęzi"
+      dat: "hipersvęzi"
+      ins: "hipersvęźjų"
+      voc: "hipersvęzi"
+    plural: 
+      nom: "hipersvęzi"
+      acc: "hipersvęzi"
+      gen: "hipersvęzij"
+      loc: "hipersvęźah"
+      dat: "hipersvęźam"
+      ins: "hipersvęźami"
+      voc: "hipersvęzi"

@@ -1,0 +1,29 @@
+---
+  - 
+    id: "16493"
+    word: "městnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "městnik"
+        acc: "městnik"
+        gen: "městnika"
+        loc: "městniku"
+        dat: "městniku"
+        ins: "městnikom"
+        voc: "městniče"
+      plural: 
+        nom: "městniky"
+        acc: "městniky"
+        gen: "městnikov"
+        loc: "městnikah"
+        dat: "městnikam"
+        ins: "městnikami"
+        voc: "městniky"
+  - 
+    id: "16493"
+    word: "městny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

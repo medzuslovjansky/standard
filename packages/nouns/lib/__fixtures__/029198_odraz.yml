@@ -1,0 +1,22 @@
+---
+  id: "29198"
+  word: "odraz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odraz"
+      acc: "odraz"
+      gen: "odraza"
+      loc: "odrazu"
+      dat: "odrazu"
+      ins: "odrazom"
+      voc: "odraze"
+    plural: 
+      nom: "odrazy"
+      acc: "odrazy"
+      gen: "odrazov"
+      loc: "odrazah"
+      dat: "odrazam"
+      ins: "odrazami"
+      voc: "odrazy"

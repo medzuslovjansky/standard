@@ -1,0 +1,22 @@
+---
+  id: "35935"
+  word: "semantika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "semantika"
+      acc: "semantikų"
+      gen: "semantiky"
+      loc: "semantikě"
+      dat: "semantikě"
+      ins: "semantikojų"
+      voc: "semantiko"
+    plural: 
+      nom: "semantiky"
+      acc: "semantiky"
+      gen: "semantik"
+      loc: "semantikah"
+      dat: "semantikam"
+      ins: "semantikami"
+      voc: "semantiky"

@@ -1,0 +1,22 @@
+---
+  id: "35301"
+  word: "iteracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iteracija"
+      acc: "iteracijų"
+      gen: "iteracije"
+      loc: "iteraciji"
+      dat: "iteraciji"
+      ins: "iteracijejų"
+      voc: "iteracijo"
+    plural: 
+      nom: "iteracije"
+      acc: "iteracije"
+      gen: "iteracij"
+      loc: "iteracijah"
+      dat: "iteracijam"
+      ins: "iteracijami"
+      voc: "iteracije"

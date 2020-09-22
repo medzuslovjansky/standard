@@ -1,0 +1,22 @@
+---
+  id: "1580"
+  word: "jagoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jagoda"
+      acc: "jagodų"
+      gen: "jagody"
+      loc: "jagodě"
+      dat: "jagodě"
+      ins: "jagodojų"
+      voc: "jagodo"
+    plural: 
+      nom: "jagody"
+      acc: "jagody"
+      gen: "jagod"
+      loc: "jagodah"
+      dat: "jagodam"
+      ins: "jagodami"
+      voc: "jagody"

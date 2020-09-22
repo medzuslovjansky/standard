@@ -1,0 +1,22 @@
+---
+  id: "51"
+  word: "glųb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glųb"
+      acc: "glųb"
+      gen: "glųba"
+      loc: "glųbu"
+      dat: "glųbu"
+      ins: "glųbom"
+      voc: "glųbe"
+    plural: 
+      nom: "glųby"
+      acc: "glųby"
+      gen: "glųbov"
+      loc: "glųbah"
+      dat: "glųbam"
+      ins: "glųbami"
+      voc: "glųby"

@@ -1,0 +1,23 @@
+---
+  id: "35171"
+  word: "delegat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "delegat"
+      acc: "delegata"
+      gen: "delegata"
+      loc: "delegatu"
+      dat: "delegatu"
+      ins: "delegatom"
+      voc: "delegate"
+    plural: 
+      nom: "delegati"
+      acc: "delegatov"
+      gen: "delegatov"
+      loc: "delegatah"
+      dat: "delegatam"
+      ins: "delegatami"
+      voc: "delegati"

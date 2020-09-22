@@ -1,0 +1,22 @@
+---
+  id: "36378"
+  word: "rodoslovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rodoslovje"
+      acc: "rodoslovje"
+      gen: "rodoslovja"
+      loc: "rodoslovju"
+      dat: "rodoslovju"
+      ins: "rodoslovjem"
+      voc: "rodoslovje"
+    plural: 
+      nom: "rodoslovja"
+      acc: "rodoslovja"
+      gen: "rodoslovij"
+      loc: "rodoslovjah"
+      dat: "rodoslovjam"
+      ins: "rodoslovjami"
+      voc: "rodoslovja"

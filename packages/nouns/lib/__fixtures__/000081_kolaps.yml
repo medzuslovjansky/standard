@@ -1,0 +1,22 @@
+---
+  id: "81"
+  word: "kolaps"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolaps"
+      acc: "kolaps"
+      gen: "kolapsa"
+      loc: "kolapsu"
+      dat: "kolapsu"
+      ins: "kolapsom"
+      voc: "kolapse"
+    plural: 
+      nom: "kolapsy"
+      acc: "kolapsy"
+      gen: "kolapsov"
+      loc: "kolapsah"
+      dat: "kolapsam"
+      ins: "kolapsami"
+      voc: "kolapsy"

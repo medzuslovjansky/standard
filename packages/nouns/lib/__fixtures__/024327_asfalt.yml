@@ -1,0 +1,15 @@
+---
+  id: "24327"
+  word: "asfalt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "asfalt"
+      acc: "asfalt"
+      gen: "asfalta"
+      loc: "asfaltu"
+      dat: "asfaltu"
+      ins: "asfaltom"
+      voc: "asfalte"

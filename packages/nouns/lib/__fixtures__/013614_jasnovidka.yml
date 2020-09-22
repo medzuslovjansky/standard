@@ -1,0 +1,22 @@
+---
+  id: "13614"
+  word: "jasnovidka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jasnovidka"
+      acc: "jasnovidkų"
+      gen: "jasnovidky"
+      loc: "jasnovidkě"
+      dat: "jasnovidkě"
+      ins: "jasnovidkojų"
+      voc: "jasnovidko"
+    plural: 
+      nom: "jasnovidky"
+      acc: "jasnovidky"
+      gen: "jasnovidȯk"
+      loc: "jasnovidkah"
+      dat: "jasnovidkam"
+      ins: "jasnovidkami"
+      voc: "jasnovidky"

@@ -1,0 +1,15 @@
+---
+  id: "152"
+  word: "Kyrgyzstan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kyrgyzstan"
+      acc: "Kyrgyzstan"
+      gen: "Kyrgyzstana"
+      loc: "Kyrgyzstanu"
+      dat: "Kyrgyzstanu"
+      ins: "Kyrgyzstanom"
+      voc: "Kyrgyzstane"

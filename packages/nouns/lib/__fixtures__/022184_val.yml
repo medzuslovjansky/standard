@@ -1,0 +1,22 @@
+---
+  id: "22184"
+  word: "val"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "val"
+      acc: "val"
+      gen: "vala"
+      loc: "valu"
+      dat: "valu"
+      ins: "valom"
+      voc: "vale"
+    plural: 
+      nom: "valy"
+      acc: "valy"
+      gen: "valov"
+      loc: "valah"
+      dat: "valam"
+      ins: "valami"
+      voc: "valy"

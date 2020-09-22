@@ -1,0 +1,45 @@
+---
+  - 
+    id: "6301"
+    word: "sȯglåsnosť"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sȯglåsnosť"
+        acc: "sȯglåsnosť"
+        gen: "sȯglåsnosti"
+        loc: "sȯglåsnosti"
+        dat: "sȯglåsnosti"
+        ins: "sȯglåsnosťjų"
+        voc: "sȯglåsnosti"
+      plural: 
+        nom: "sȯglåsnosti"
+        acc: "sȯglåsnosti"
+        gen: "sȯglåsnostij"
+        loc: "sȯglåsnosťah"
+        dat: "sȯglåsnosťam"
+        ins: "sȯglåsnosťami"
+        voc: "sȯglåsnosti"
+  - 
+    id: "6301"
+    word: "sųglåsnosť"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sųglåsnosť"
+        acc: "sųglåsnosť"
+        gen: "sųglåsnosti"
+        loc: "sųglåsnosti"
+        dat: "sųglåsnosti"
+        ins: "sųglåsnosťjų"
+        voc: "sųglåsnosti"
+      plural: 
+        nom: "sųglåsnosti"
+        acc: "sųglåsnosti"
+        gen: "sųglåsnostij"
+        loc: "sųglåsnosťah"
+        dat: "sųglåsnosťam"
+        ins: "sųglåsnosťami"
+        voc: "sųglåsnosti"

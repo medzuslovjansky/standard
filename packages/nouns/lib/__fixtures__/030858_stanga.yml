@@ -1,0 +1,22 @@
+---
+  id: "30858"
+  word: "štanga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "štanga"
+      acc: "štangų"
+      gen: "štangy"
+      loc: "štangě"
+      dat: "štangě"
+      ins: "štangojų"
+      voc: "štango"
+    plural: 
+      nom: "štangy"
+      acc: "štangy"
+      gen: "štang"
+      loc: "štangah"
+      dat: "štangam"
+      ins: "štangami"
+      voc: "štangy"

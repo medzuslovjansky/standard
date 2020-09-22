@@ -1,0 +1,23 @@
+---
+  id: "31778"
+  word: "interlingvist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "interlingvist"
+      acc: "interlingvista"
+      gen: "interlingvista"
+      loc: "interlingvistu"
+      dat: "interlingvistu"
+      ins: "interlingvistom"
+      voc: "interlingviste"
+    plural: 
+      nom: "interlingvisti"
+      acc: "interlingvistov"
+      gen: "interlingvistov"
+      loc: "interlingvistah"
+      dat: "interlingvistam"
+      ins: "interlingvistami"
+      voc: "interlingvisti"

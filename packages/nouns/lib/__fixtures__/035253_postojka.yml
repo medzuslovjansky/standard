@@ -1,0 +1,22 @@
+---
+  id: "35253"
+  word: "postojka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "postojka"
+      acc: "postojkų"
+      gen: "postojky"
+      loc: "postojkě"
+      dat: "postojkě"
+      ins: "postojkojų"
+      voc: "postojko"
+    plural: 
+      nom: "postojky"
+      acc: "postojky"
+      gen: "postojek"
+      loc: "postojkah"
+      dat: "postojkam"
+      ins: "postojkami"
+      voc: "postojky"

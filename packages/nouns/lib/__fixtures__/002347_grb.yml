@@ -1,0 +1,22 @@
+---
+  id: "2347"
+  word: "grb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grb"
+      acc: "grb"
+      gen: "grba"
+      loc: "grbu"
+      dat: "grbu"
+      ins: "grbom"
+      voc: "grbe"
+    plural: 
+      nom: "grby"
+      acc: "grby"
+      gen: "grbov"
+      loc: "grbah"
+      dat: "grbam"
+      ins: "grbami"
+      voc: "grby"

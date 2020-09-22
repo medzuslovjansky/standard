@@ -1,0 +1,23 @@
+---
+  id: "2566"
+  word: "karierist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "karierist"
+      acc: "karierista"
+      gen: "karierista"
+      loc: "karieristu"
+      dat: "karieristu"
+      ins: "karieristom"
+      voc: "karieriste"
+    plural: 
+      nom: "karieristi"
+      acc: "karieristov"
+      gen: "karieristov"
+      loc: "karieristah"
+      dat: "karieristam"
+      ins: "karieristami"
+      voc: "karieristi"

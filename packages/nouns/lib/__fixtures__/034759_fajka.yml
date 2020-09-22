@@ -1,0 +1,22 @@
+---
+  id: "34759"
+  word: "fajka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fajka"
+      acc: "fajkų"
+      gen: "fajky"
+      loc: "fajkě"
+      dat: "fajkě"
+      ins: "fajkojų"
+      voc: "fajko"
+    plural: 
+      nom: "fajky"
+      acc: "fajky"
+      gen: "fajek"
+      loc: "fajkah"
+      dat: "fajkam"
+      ins: "fajkami"
+      voc: "fajky"

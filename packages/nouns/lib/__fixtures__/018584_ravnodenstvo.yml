@@ -1,0 +1,22 @@
+---
+  id: "18584"
+  word: "råvnodenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råvnodenstvo"
+      acc: "råvnodenstvo"
+      gen: "råvnodenstva"
+      loc: "råvnodenstvu"
+      dat: "råvnodenstvu"
+      ins: "råvnodenstvom"
+      voc: "råvnodenstvo"
+    plural: 
+      nom: "råvnodenstva"
+      acc: "råvnodenstva"
+      gen: "råvnodenstv"
+      loc: "råvnodenstvah"
+      dat: "råvnodenstvam"
+      ins: "råvnodenstvami"
+      voc: "råvnodenstva"

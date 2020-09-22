@@ -1,0 +1,23 @@
+---
+  id: "4174"
+  word: "kolibri"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kolibri"
+      acc: "kolibrų"
+      gen: "kolibre"
+      loc: "kolibri"
+      dat: "kolibri"
+      ins: "kolibrejų"
+      voc: "kolibro"
+    plural: 
+      nom: "kolibri"
+      acc: "kolibrev"
+      gen: "kolibrev"
+      loc: "kolibrah"
+      dat: "kolibram"
+      ins: "kolibrami"
+      voc: "kolibri"

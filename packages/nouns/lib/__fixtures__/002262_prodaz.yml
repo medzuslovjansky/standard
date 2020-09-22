@@ -1,0 +1,22 @@
+---
+  id: "2262"
+  word: "prodaž"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prodaž"
+      acc: "prodaž"
+      gen: "prodaži"
+      loc: "prodaži"
+      dat: "prodaži"
+      ins: "prodažjų"
+      voc: "prodaži"
+    plural: 
+      nom: "prodaži"
+      acc: "prodaži"
+      gen: "prodažij"
+      loc: "prodažah"
+      dat: "prodažam"
+      ins: "prodažami"
+      voc: "prodaži"

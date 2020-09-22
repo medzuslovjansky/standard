@@ -1,0 +1,22 @@
+---
+  id: "26785"
+  word: "kozina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kozina"
+      acc: "kozinų"
+      gen: "koziny"
+      loc: "kozině"
+      dat: "kozině"
+      ins: "kozinojų"
+      voc: "kozino"
+    plural: 
+      nom: "koziny"
+      acc: "koziny"
+      gen: "kozin"
+      loc: "kozinah"
+      dat: "kozinam"
+      ins: "kozinami"
+      voc: "koziny"

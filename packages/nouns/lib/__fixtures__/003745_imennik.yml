@@ -1,0 +1,23 @@
+---
+  id: "3745"
+  word: "imennik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "imennik"
+      acc: "imennika"
+      gen: "imennika"
+      loc: "imenniku"
+      dat: "imenniku"
+      ins: "imennikom"
+      voc: "imenniče"
+    plural: 
+      nom: "imenniki"
+      acc: "imennikov"
+      gen: "imennikov"
+      loc: "imennikah"
+      dat: "imennikam"
+      ins: "imennikami"
+      voc: "imenniki"

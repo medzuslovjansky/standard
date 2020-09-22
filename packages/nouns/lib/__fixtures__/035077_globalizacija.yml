@@ -1,0 +1,22 @@
+---
+  id: "35077"
+  word: "globalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "globalizacija"
+      acc: "globalizacijų"
+      gen: "globalizacije"
+      loc: "globalizaciji"
+      dat: "globalizaciji"
+      ins: "globalizacijejų"
+      voc: "globalizacijo"
+    plural: 
+      nom: "globalizacije"
+      acc: "globalizacije"
+      gen: "globalizacij"
+      loc: "globalizacijah"
+      dat: "globalizacijam"
+      ins: "globalizacijami"
+      voc: "globalizacije"

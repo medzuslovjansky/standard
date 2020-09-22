@@ -1,0 +1,23 @@
+---
+  id: "15480"
+  word: "poznanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poznanec"
+      acc: "poznanca"
+      gen: "poznanca"
+      loc: "poznancu"
+      dat: "poznancu"
+      ins: "poznancem"
+      voc: "poznanče"
+    plural: 
+      nom: "poznanci"
+      acc: "poznancev"
+      gen: "poznancev"
+      loc: "poznancah"
+      dat: "poznancam"
+      ins: "poznancami"
+      voc: "poznanci"

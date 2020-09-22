@@ -1,0 +1,22 @@
+---
+  id: "1032"
+  word: "obręd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obręd"
+      acc: "obręd"
+      gen: "obręda"
+      loc: "obrędu"
+      dat: "obrędu"
+      ins: "obrędom"
+      voc: "obręde"
+    plural: 
+      nom: "obrędy"
+      acc: "obrędy"
+      gen: "obrędov"
+      loc: "obrędah"
+      dat: "obrędam"
+      ins: "obrędami"
+      voc: "obrędy"

@@ -1,0 +1,22 @@
+---
+  id: "537"
+  word: "loď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "loď"
+      acc: "loď"
+      gen: "lodi"
+      loc: "lodi"
+      dat: "lodi"
+      ins: "loďjų"
+      voc: "lodi"
+    plural: 
+      nom: "lodi"
+      acc: "lodi"
+      gen: "lodij"
+      loc: "loďah"
+      dat: "loďam"
+      ins: "loďami"
+      voc: "lodi"

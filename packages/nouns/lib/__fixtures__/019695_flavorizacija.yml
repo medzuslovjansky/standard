@@ -1,0 +1,22 @@
+---
+  id: "19695"
+  word: "flavorizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "flavorizacija"
+      acc: "flavorizacijų"
+      gen: "flavorizacije"
+      loc: "flavorizaciji"
+      dat: "flavorizaciji"
+      ins: "flavorizacijejų"
+      voc: "flavorizacijo"
+    plural: 
+      nom: "flavorizacije"
+      acc: "flavorizacije"
+      gen: "flavorizacij"
+      loc: "flavorizacijah"
+      dat: "flavorizacijam"
+      ins: "flavorizacijami"
+      voc: "flavorizacije"

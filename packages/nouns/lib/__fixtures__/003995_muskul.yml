@@ -1,0 +1,22 @@
+---
+  id: "3995"
+  word: "muskul"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "muskul"
+      acc: "muskul"
+      gen: "muskula"
+      loc: "muskulu"
+      dat: "muskulu"
+      ins: "muskulom"
+      voc: "muskule"
+    plural: 
+      nom: "muskuly"
+      acc: "muskuly"
+      gen: "muskulov"
+      loc: "muskulah"
+      dat: "muskulam"
+      ins: "muskulami"
+      voc: "muskuly"

@@ -1,0 +1,22 @@
+---
+  id: "9274"
+  word: "mųčiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųčiljnja"
+      acc: "mųčiljnjų"
+      gen: "mųčiljnje"
+      loc: "mųčiljnji"
+      dat: "mųčiljnji"
+      ins: "mųčiljnjejų"
+      voc: "mųčiljnjo"
+    plural: 
+      nom: "mųčiljnje"
+      acc: "mųčiljnje"
+      gen: "mųčiljnej"
+      loc: "mųčiljnjah"
+      dat: "mųčiljnjam"
+      ins: "mųčiljnjami"
+      voc: "mųčiljnje"

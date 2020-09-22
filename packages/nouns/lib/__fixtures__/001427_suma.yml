@@ -1,0 +1,22 @@
+---
+  id: "1427"
+  word: "suma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "suma"
+      acc: "sumų"
+      gen: "sumy"
+      loc: "sumě"
+      dat: "sumě"
+      ins: "sumojų"
+      voc: "sumo"
+    plural: 
+      nom: "sumy"
+      acc: "sumy"
+      gen: "sum"
+      loc: "sumah"
+      dat: "sumam"
+      ins: "sumami"
+      voc: "sumy"

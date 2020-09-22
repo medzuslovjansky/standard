@@ -1,0 +1,22 @@
+---
+  id: "32493"
+  word: "antilopa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "antilopa"
+      acc: "antilopų"
+      gen: "antilopy"
+      loc: "antilopě"
+      dat: "antilopě"
+      ins: "antilopojų"
+      voc: "antilopo"
+    plural: 
+      nom: "antilopy"
+      acc: "antilopy"
+      gen: "antilop"
+      loc: "antilopah"
+      dat: "antilopam"
+      ins: "antilopami"
+      voc: "antilopy"

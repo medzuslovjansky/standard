@@ -1,0 +1,22 @@
+---
+  id: "2593"
+  word: "hvala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hvala"
+      acc: "hvalų"
+      gen: "hvaly"
+      loc: "hvalě"
+      dat: "hvalě"
+      ins: "hvalojų"
+      voc: "hvalo"
+    plural: 
+      nom: "hvaly"
+      acc: "hvaly"
+      gen: "hval"
+      loc: "hvalah"
+      dat: "hvalam"
+      ins: "hvalami"
+      voc: "hvaly"

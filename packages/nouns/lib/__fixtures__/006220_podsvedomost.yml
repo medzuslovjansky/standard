@@ -1,0 +1,22 @@
+---
+  id: "6220"
+  word: "podsvědomosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podsvědomosť"
+      acc: "podsvědomosť"
+      gen: "podsvědomosti"
+      loc: "podsvědomosti"
+      dat: "podsvědomosti"
+      ins: "podsvědomosťjų"
+      voc: "podsvědomosti"
+    plural: 
+      nom: "podsvědomosti"
+      acc: "podsvědomosti"
+      gen: "podsvědomostij"
+      loc: "podsvědomosťah"
+      dat: "podsvědomosťam"
+      ins: "podsvědomosťami"
+      voc: "podsvědomosti"

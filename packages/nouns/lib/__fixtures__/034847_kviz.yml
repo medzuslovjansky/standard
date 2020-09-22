@@ -1,0 +1,22 @@
+---
+  id: "34847"
+  word: "kviz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kviz"
+      acc: "kviz"
+      gen: "kviza"
+      loc: "kvizu"
+      dat: "kvizu"
+      ins: "kvizom"
+      voc: "kvize"
+    plural: 
+      nom: "kvizy"
+      acc: "kvizy"
+      gen: "kvizov"
+      loc: "kvizah"
+      dat: "kvizam"
+      ins: "kvizami"
+      voc: "kvizy"

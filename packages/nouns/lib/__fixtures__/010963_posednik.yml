@@ -1,0 +1,23 @@
+---
+  id: "10963"
+  word: "posědnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "posědnik"
+      acc: "posědnika"
+      gen: "posědnika"
+      loc: "posědniku"
+      dat: "posědniku"
+      ins: "posědnikom"
+      voc: "posědniče"
+    plural: 
+      nom: "posědniki"
+      acc: "posědnikov"
+      gen: "posědnikov"
+      loc: "posědnikah"
+      dat: "posědnikam"
+      ins: "posědnikami"
+      voc: "posědniki"

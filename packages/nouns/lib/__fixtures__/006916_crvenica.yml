@@ -1,0 +1,22 @@
+---
+  id: "6916"
+  word: "črvenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črvenica"
+      acc: "črvenicų"
+      gen: "črvenice"
+      loc: "črvenici"
+      dat: "črvenici"
+      ins: "črvenicejų"
+      voc: "črvenico"
+    plural: 
+      nom: "črvenice"
+      acc: "črvenice"
+      gen: "črvenic"
+      loc: "črvenicah"
+      dat: "črvenicam"
+      ins: "črvenicami"
+      voc: "črvenice"

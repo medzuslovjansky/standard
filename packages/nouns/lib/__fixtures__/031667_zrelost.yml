@@ -1,0 +1,22 @@
+---
+  id: "31667"
+  word: "zrělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zrělosť"
+      acc: "zrělosť"
+      gen: "zrělosti"
+      loc: "zrělosti"
+      dat: "zrělosti"
+      ins: "zrělosťjų"
+      voc: "zrělosti"
+    plural: 
+      nom: "zrělosti"
+      acc: "zrělosti"
+      gen: "zrělostij"
+      loc: "zrělosťah"
+      dat: "zrělosťam"
+      ins: "zrělosťami"
+      voc: "zrělosti"

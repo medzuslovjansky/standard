@@ -1,0 +1,23 @@
+---
+  id: "35575"
+  word: "Arab"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Arab"
+      acc: "Araba"
+      gen: "Araba"
+      loc: "Arabu"
+      dat: "Arabu"
+      ins: "Arabom"
+      voc: "Arabe"
+    plural: 
+      nom: "Arabi"
+      acc: "Arabov"
+      gen: "Arabov"
+      loc: "Arabah"
+      dat: "Arabam"
+      ins: "Arabami"
+      voc: "Arabi"

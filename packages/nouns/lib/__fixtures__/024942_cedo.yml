@@ -1,0 +1,22 @@
+---
+  id: "24942"
+  word: "čędo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čędo"
+      acc: "čędo"
+      gen: "čęda"
+      loc: "čędu"
+      dat: "čędu"
+      ins: "čędom"
+      voc: "čędo"
+    plural: 
+      nom: "čęda"
+      acc: "čęda"
+      gen: "čęd"
+      loc: "čędah"
+      dat: "čędam"
+      ins: "čędami"
+      voc: "čęda"

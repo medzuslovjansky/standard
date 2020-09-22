@@ -1,0 +1,23 @@
+---
+  id: "3038"
+  word: "Evropejec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Evropejec"
+      acc: "Evropejca"
+      gen: "Evropejca"
+      loc: "Evropejcu"
+      dat: "Evropejcu"
+      ins: "Evropejcem"
+      voc: "Evropejče"
+    plural: 
+      nom: "Evropejci"
+      acc: "Evropejcev"
+      gen: "Evropejcev"
+      loc: "Evropejcah"
+      dat: "Evropejcam"
+      ins: "Evropejcami"
+      voc: "Evropejci"

@@ -1,0 +1,23 @@
+---
+  id: "30657"
+  word: "samouk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "samouk"
+      acc: "samouka"
+      gen: "samouka"
+      loc: "samouku"
+      dat: "samouku"
+      ins: "samoukom"
+      voc: "samouče"
+    plural: 
+      nom: "samouki"
+      acc: "samoukov"
+      gen: "samoukov"
+      loc: "samoukah"
+      dat: "samoukam"
+      ins: "samoukami"
+      voc: "samouki"

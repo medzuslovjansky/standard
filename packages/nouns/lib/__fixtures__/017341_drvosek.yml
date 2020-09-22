@@ -1,0 +1,23 @@
+---
+  id: "17341"
+  word: "drvosěk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drvosěk"
+      acc: "drvosěka"
+      gen: "drvosěka"
+      loc: "drvosěku"
+      dat: "drvosěku"
+      ins: "drvosěkom"
+      voc: "drvosěče"
+    plural: 
+      nom: "drvosěki"
+      acc: "drvosěkov"
+      gen: "drvosěkov"
+      loc: "drvosěkah"
+      dat: "drvosěkam"
+      ins: "drvosěkami"
+      voc: "drvosěki"

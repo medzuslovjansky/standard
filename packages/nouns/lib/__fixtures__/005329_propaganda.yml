@@ -1,0 +1,22 @@
+---
+  id: "5329"
+  word: "propaganda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "propaganda"
+      acc: "propagandų"
+      gen: "propagandy"
+      loc: "propagandě"
+      dat: "propagandě"
+      ins: "propagandojų"
+      voc: "propagando"
+    plural: 
+      nom: "propagandy"
+      acc: "propagandy"
+      gen: "propagand"
+      loc: "propagandah"
+      dat: "propagandam"
+      ins: "propagandami"
+      voc: "propagandy"

@@ -1,0 +1,22 @@
+---
+  id: "32726"
+  word: "linza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "linza"
+      acc: "linzų"
+      gen: "linzy"
+      loc: "linzě"
+      dat: "linzě"
+      ins: "linzojų"
+      voc: "linzo"
+    plural: 
+      nom: "linzy"
+      acc: "linzy"
+      gen: "linz"
+      loc: "linzah"
+      dat: "linzam"
+      ins: "linzami"
+      voc: "linzy"

@@ -1,0 +1,22 @@
+---
+  id: "16372"
+  word: "konvoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konvoj"
+      acc: "konvoj"
+      gen: "konvoja"
+      loc: "konvoju"
+      dat: "konvoju"
+      ins: "konvojem"
+      voc: "konvoju"
+    plural: 
+      nom: "konvoje"
+      acc: "konvoje"
+      gen: "konvojev"
+      loc: "konvojah"
+      dat: "konvojam"
+      ins: "konvojami"
+      voc: "konvoje"

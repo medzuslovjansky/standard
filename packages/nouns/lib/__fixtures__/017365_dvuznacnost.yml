@@ -1,0 +1,22 @@
+---
+  id: "17365"
+  word: "dvuznačnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvuznačnosť"
+      acc: "dvuznačnosť"
+      gen: "dvuznačnosti"
+      loc: "dvuznačnosti"
+      dat: "dvuznačnosti"
+      ins: "dvuznačnosťjų"
+      voc: "dvuznačnosti"
+    plural: 
+      nom: "dvuznačnosti"
+      acc: "dvuznačnosti"
+      gen: "dvuznačnostij"
+      loc: "dvuznačnosťah"
+      dat: "dvuznačnosťam"
+      ins: "dvuznačnosťami"
+      voc: "dvuznačnosti"

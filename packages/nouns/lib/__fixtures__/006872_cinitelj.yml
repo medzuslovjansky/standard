@@ -1,0 +1,22 @@
+---
+  id: "6872"
+  word: "činitelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "činitelj"
+      acc: "činitelj"
+      gen: "činitelja"
+      loc: "činitelju"
+      dat: "činitelju"
+      ins: "činiteljem"
+      voc: "činitelju"
+    plural: 
+      nom: "činitelje"
+      acc: "činitelje"
+      gen: "činiteljev"
+      loc: "činiteljah"
+      dat: "činiteljam"
+      ins: "činiteljami"
+      voc: "činitelje"

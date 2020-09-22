@@ -1,0 +1,22 @@
+---
+  id: "27769"
+  word: "motovilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "motovilo"
+      acc: "motovilo"
+      gen: "motovila"
+      loc: "motovilu"
+      dat: "motovilu"
+      ins: "motovilom"
+      voc: "motovilo"
+    plural: 
+      nom: "motovila"
+      acc: "motovila"
+      gen: "motovil"
+      loc: "motovilah"
+      dat: "motovilam"
+      ins: "motovilami"
+      voc: "motovila"

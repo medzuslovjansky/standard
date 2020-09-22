@@ -1,0 +1,23 @@
+---
+  id: "18637"
+  word: "rezjume"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "rezjume"
+      acc: "rezjume"
+      gen: "rezjume"
+      loc: "rezjume"
+      dat: "rezjume"
+      ins: "rezjume"
+      voc: "rezjume"
+    plural: 
+      nom: "rezjume"
+      acc: "rezjume"
+      gen: "rezjume"
+      loc: "rezjume"
+      dat: "rezjume"
+      ins: "rezjume"
+      voc: "rezjume"

@@ -1,0 +1,22 @@
+---
+  id: "22428"
+  word: "Providěńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "Providěńje"
+      acc: "Providěńje"
+      gen: "Providěńja"
+      loc: "Providěńju"
+      dat: "Providěńju"
+      ins: "Providěńjem"
+      voc: "Providěńje"
+    plural: 
+      nom: "Providěńja"
+      acc: "Providěńja"
+      gen: "Providěnij"
+      loc: "Providěńjah"
+      dat: "Providěńjam"
+      ins: "Providěńjami"
+      voc: "Providěńja"

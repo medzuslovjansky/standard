@@ -1,0 +1,23 @@
+---
+  id: "19831"
+  word: "letač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "letač"
+      acc: "letača"
+      gen: "letača"
+      loc: "letaču"
+      dat: "letaču"
+      ins: "letačem"
+      voc: "letaču"
+    plural: 
+      nom: "letači"
+      acc: "letačev"
+      gen: "letačev"
+      loc: "letačah"
+      dat: "letačam"
+      ins: "letačami"
+      voc: "letači"

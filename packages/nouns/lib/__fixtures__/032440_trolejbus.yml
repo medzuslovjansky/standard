@@ -1,0 +1,22 @@
+---
+  id: "32440"
+  word: "trolejbus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trolejbus"
+      acc: "trolejbus"
+      gen: "trolejbusa"
+      loc: "trolejbusu"
+      dat: "trolejbusu"
+      ins: "trolejbusom"
+      voc: "trolejbuse"
+    plural: 
+      nom: "trolejbusy"
+      acc: "trolejbusy"
+      gen: "trolejbusov"
+      loc: "trolejbusah"
+      dat: "trolejbusam"
+      ins: "trolejbusami"
+      voc: "trolejbusy"

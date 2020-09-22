@@ -1,0 +1,22 @@
+---
+  id: "26718"
+  word: "korveta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korveta"
+      acc: "korvetų"
+      gen: "korvety"
+      loc: "korvetě"
+      dat: "korvetě"
+      ins: "korvetojų"
+      voc: "korveto"
+    plural: 
+      nom: "korvety"
+      acc: "korvety"
+      gen: "korvet"
+      loc: "korvetah"
+      dat: "korvetam"
+      ins: "korvetami"
+      voc: "korvety"

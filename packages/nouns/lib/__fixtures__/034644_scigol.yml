@@ -1,0 +1,24 @@
+---
+  id: "34644"
+  word: "ščigȯl"
+  meta: 
+    irregularity: "(ščigla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ščig(ȯ)l"
+      acc: "ščig(ȯ)la"
+      gen: "ščig(ȯ)la"
+      loc: "ščig(ȯ)lu"
+      dat: "ščig(ȯ)lu"
+      ins: "ščig(ȯ)lom"
+      voc: "ščig(ȯ)le"
+    plural: 
+      nom: "ščig(ȯ)li"
+      acc: "ščig(ȯ)lov"
+      gen: "ščig(ȯ)lov"
+      loc: "ščig(ȯ)lah"
+      dat: "ščig(ȯ)lam"
+      ins: "ščig(ȯ)lami"
+      voc: "ščig(ȯ)li"

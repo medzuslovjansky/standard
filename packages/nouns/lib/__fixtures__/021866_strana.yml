@@ -1,0 +1,22 @@
+---
+  id: "21866"
+  word: "stråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stråna"
+      acc: "strånų"
+      gen: "stråny"
+      loc: "stråně"
+      dat: "stråně"
+      ins: "strånojų"
+      voc: "stråno"
+    plural: 
+      nom: "stråny"
+      acc: "stråny"
+      gen: "strån"
+      loc: "strånah"
+      dat: "strånam"
+      ins: "strånami"
+      voc: "stråny"

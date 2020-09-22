@@ -1,0 +1,22 @@
+---
+  id: "22261"
+  word: "proizvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proizvod"
+      acc: "proizvod"
+      gen: "proizvoda"
+      loc: "proizvodu"
+      dat: "proizvodu"
+      ins: "proizvodom"
+      voc: "proizvode"
+    plural: 
+      nom: "proizvody"
+      acc: "proizvody"
+      gen: "proizvodov"
+      loc: "proizvodah"
+      dat: "proizvodam"
+      ins: "proizvodami"
+      voc: "proizvody"

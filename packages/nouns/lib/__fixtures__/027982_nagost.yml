@@ -1,0 +1,22 @@
+---
+  id: "27982"
+  word: "nagosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nagosť"
+      acc: "nagosť"
+      gen: "nagosti"
+      loc: "nagosti"
+      dat: "nagosti"
+      ins: "nagosťjų"
+      voc: "nagosti"
+    plural: 
+      nom: "nagosti"
+      acc: "nagosti"
+      gen: "nagostij"
+      loc: "nagosťah"
+      dat: "nagosťam"
+      ins: "nagosťami"
+      voc: "nagosti"

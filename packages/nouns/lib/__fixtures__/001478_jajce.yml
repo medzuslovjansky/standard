@@ -1,0 +1,22 @@
+---
+  id: "1478"
+  word: "jajce"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jajce"
+      acc: "jajce"
+      gen: "jajca"
+      loc: "jajcu"
+      dat: "jajcu"
+      ins: "jajcem"
+      voc: "jajce"
+    plural: 
+      nom: "jajca"
+      acc: "jajca"
+      gen: "jajc"
+      loc: "jajcah"
+      dat: "jajcam"
+      ins: "jajcami"
+      voc: "jajca"

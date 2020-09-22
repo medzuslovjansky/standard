@@ -1,0 +1,22 @@
+---
+  id: "4383"
+  word: "arhaizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "arhaizm"
+      acc: "arhaizm"
+      gen: "arhaizma"
+      loc: "arhaizmu"
+      dat: "arhaizmu"
+      ins: "arhaizmom"
+      voc: "arhaizme"
+    plural: 
+      nom: "arhaizmy"
+      acc: "arhaizmy"
+      gen: "arhaizmov"
+      loc: "arhaizmah"
+      dat: "arhaizmam"
+      ins: "arhaizmami"
+      voc: "arhaizmy"

@@ -1,0 +1,23 @@
+---
+  id: "24107"
+  word: "agent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "agent"
+      acc: "agenta"
+      gen: "agenta"
+      loc: "agentu"
+      dat: "agentu"
+      ins: "agentom"
+      voc: "agente"
+    plural: 
+      nom: "agenti"
+      acc: "agentov"
+      gen: "agentov"
+      loc: "agentah"
+      dat: "agentam"
+      ins: "agentami"
+      voc: "agenti"

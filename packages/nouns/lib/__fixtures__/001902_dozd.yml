@@ -1,0 +1,22 @@
+---
+  id: "1902"
+  word: "dȯžď"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dȯžď"
+      acc: "dȯžď"
+      gen: "dȯžďa"
+      loc: "dȯžďu"
+      dat: "dȯžďu"
+      ins: "dȯžďem"
+      voc: "dȯžďu"
+    plural: 
+      nom: "dȯžďe"
+      acc: "dȯžďe"
+      gen: "dȯžďev"
+      loc: "dȯžďah"
+      dat: "dȯžďam"
+      ins: "dȯžďami"
+      voc: "dȯžďe"

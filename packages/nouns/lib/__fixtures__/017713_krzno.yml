@@ -1,0 +1,22 @@
+---
+  id: "17713"
+  word: "krzno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krzno"
+      acc: "krzno"
+      gen: "krzna"
+      loc: "krznu"
+      dat: "krznu"
+      ins: "krznom"
+      voc: "krzno"
+    plural: 
+      nom: "krzna"
+      acc: "krzna"
+      gen: "krzen"
+      loc: "krznah"
+      dat: "krznam"
+      ins: "krznami"
+      voc: "krzna"

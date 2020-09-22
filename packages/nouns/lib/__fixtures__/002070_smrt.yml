@@ -1,0 +1,22 @@
+---
+  id: "2070"
+  word: "smŕť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smŕť"
+      acc: "smŕť"
+      gen: "smŕti"
+      loc: "smŕti"
+      dat: "smŕti"
+      ins: "smŕťjų"
+      voc: "smŕti"
+    plural: 
+      nom: "smŕti"
+      acc: "smŕti"
+      gen: "smŕtij"
+      loc: "smŕťah"
+      dat: "smŕťam"
+      ins: "smŕťami"
+      voc: "smŕti"

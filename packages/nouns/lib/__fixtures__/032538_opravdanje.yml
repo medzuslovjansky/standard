@@ -1,0 +1,22 @@
+---
+  id: "32538"
+  word: "opravdańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opravdańje"
+      acc: "opravdańje"
+      gen: "opravdańja"
+      loc: "opravdańju"
+      dat: "opravdańju"
+      ins: "opravdańjem"
+      voc: "opravdańje"
+    plural: 
+      nom: "opravdańja"
+      acc: "opravdańja"
+      gen: "opravdanij"
+      loc: "opravdańjah"
+      dat: "opravdańjam"
+      ins: "opravdańjami"
+      voc: "opravdańja"

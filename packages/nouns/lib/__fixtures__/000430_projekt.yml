@@ -1,0 +1,22 @@
+---
+  id: "430"
+  word: "projekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "projekt"
+      acc: "projekt"
+      gen: "projekta"
+      loc: "projektu"
+      dat: "projektu"
+      ins: "projektom"
+      voc: "projekte"
+    plural: 
+      nom: "projekty"
+      acc: "projekty"
+      gen: "projektov"
+      loc: "projektah"
+      dat: "projektam"
+      ins: "projektami"
+      voc: "projekty"

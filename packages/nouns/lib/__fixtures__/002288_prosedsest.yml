@@ -1,0 +1,15 @@
+---
+  id: "2288"
+  word: "prošedšesť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prošedšesť"
+      acc: "prošedšesť"
+      gen: "prošedšesti"
+      loc: "prošedšesti"
+      dat: "prošedšesti"
+      ins: "prošedšesťjų"
+      voc: "prošedšesti"

@@ -1,0 +1,22 @@
+---
+  id: "24864"
+  word: "buhta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "buhta"
+      acc: "buhtų"
+      gen: "buhty"
+      loc: "buhtě"
+      dat: "buhtě"
+      ins: "buhtojų"
+      voc: "buhto"
+    plural: 
+      nom: "buhty"
+      acc: "buhty"
+      gen: "buht"
+      loc: "buhtah"
+      dat: "buhtam"
+      ins: "buhtami"
+      voc: "buhty"

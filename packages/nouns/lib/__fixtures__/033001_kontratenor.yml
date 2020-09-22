@@ -1,0 +1,23 @@
+---
+  id: "33001"
+  word: "kontratenor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kontratenor"
+      acc: "kontratenora"
+      gen: "kontratenora"
+      loc: "kontratenoru"
+      dat: "kontratenoru"
+      ins: "kontratenorom"
+      voc: "kontratenore"
+    plural: 
+      nom: "kontratenori"
+      acc: "kontratenorov"
+      gen: "kontratenorov"
+      loc: "kontratenorah"
+      dat: "kontratenoram"
+      ins: "kontratenorami"
+      voc: "kontratenori"

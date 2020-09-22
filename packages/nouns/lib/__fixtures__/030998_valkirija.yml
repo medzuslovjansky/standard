@@ -1,0 +1,22 @@
+---
+  id: "30998"
+  word: "valkirija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "valkirija"
+      acc: "valkirijų"
+      gen: "valkirije"
+      loc: "valkiriji"
+      dat: "valkiriji"
+      ins: "valkirijejų"
+      voc: "valkirijo"
+    plural: 
+      nom: "valkirije"
+      acc: "valkirije"
+      gen: "valkirij"
+      loc: "valkirijah"
+      dat: "valkirijam"
+      ins: "valkirijami"
+      voc: "valkirije"

@@ -1,0 +1,23 @@
+---
+  id: "10580"
+  word: "pistoľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pistoľnik"
+      acc: "pistoľnika"
+      gen: "pistoľnika"
+      loc: "pistoľniku"
+      dat: "pistoľniku"
+      ins: "pistoľnikom"
+      voc: "pistoľniče"
+    plural: 
+      nom: "pistoľniki"
+      acc: "pistoľnikov"
+      gen: "pistoľnikov"
+      loc: "pistoľnikah"
+      dat: "pistoľnikam"
+      ins: "pistoľnikami"
+      voc: "pistoľniki"

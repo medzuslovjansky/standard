@@ -1,0 +1,22 @@
+---
+  id: "32138"
+  word: "kemping"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kemping"
+      acc: "kemping"
+      gen: "kempinga"
+      loc: "kempingu"
+      dat: "kempingu"
+      ins: "kempingom"
+      voc: "kempinže"
+    plural: 
+      nom: "kempingy"
+      acc: "kempingy"
+      gen: "kempingov"
+      loc: "kempingah"
+      dat: "kempingam"
+      ins: "kempingami"
+      voc: "kempingy"

@@ -1,0 +1,22 @@
+---
+  id: "28809"
+  word: "oblik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oblik"
+      acc: "oblik"
+      gen: "oblika"
+      loc: "obliku"
+      dat: "obliku"
+      ins: "oblikom"
+      voc: "obliče"
+    plural: 
+      nom: "obliky"
+      acc: "obliky"
+      gen: "oblikov"
+      loc: "oblikah"
+      dat: "oblikam"
+      ins: "oblikami"
+      voc: "obliky"

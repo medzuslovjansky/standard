@@ -1,0 +1,22 @@
+---
+  id: "2611"
+  word: "gruda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gruda"
+      acc: "grudų"
+      gen: "grudy"
+      loc: "grudě"
+      dat: "grudě"
+      ins: "grudojų"
+      voc: "grudo"
+    plural: 
+      nom: "grudy"
+      acc: "grudy"
+      gen: "grud"
+      loc: "grudah"
+      dat: "grudam"
+      ins: "grudami"
+      voc: "grudy"

@@ -1,0 +1,22 @@
+---
+  id: "5522"
+  word: "serija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "serija"
+      acc: "serijų"
+      gen: "serije"
+      loc: "seriji"
+      dat: "seriji"
+      ins: "serijejų"
+      voc: "serijo"
+    plural: 
+      nom: "serije"
+      acc: "serije"
+      gen: "serij"
+      loc: "serijah"
+      dat: "serijam"
+      ins: "serijami"
+      voc: "serije"

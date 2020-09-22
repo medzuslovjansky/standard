@@ -1,0 +1,22 @@
+---
+  id: "35068"
+  word: "netŕpimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "netŕpimosť"
+      acc: "netŕpimosť"
+      gen: "netŕpimosti"
+      loc: "netŕpimosti"
+      dat: "netŕpimosti"
+      ins: "netŕpimosťjų"
+      voc: "netŕpimosti"
+    plural: 
+      nom: "netŕpimosti"
+      acc: "netŕpimosti"
+      gen: "netŕpimostij"
+      loc: "netŕpimosťah"
+      dat: "netŕpimosťam"
+      ins: "netŕpimosťami"
+      voc: "netŕpimosti"

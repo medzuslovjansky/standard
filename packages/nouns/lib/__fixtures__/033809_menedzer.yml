@@ -1,0 +1,23 @@
+---
+  id: "33809"
+  word: "menedžer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "menedžer"
+      acc: "menedžera"
+      gen: "menedžera"
+      loc: "menedžeru"
+      dat: "menedžeru"
+      ins: "menedžerom"
+      voc: "menedžere"
+    plural: 
+      nom: "menedžeri"
+      acc: "menedžerov"
+      gen: "menedžerov"
+      loc: "menedžerah"
+      dat: "menedžeram"
+      ins: "menedžerami"
+      voc: "menedžeri"

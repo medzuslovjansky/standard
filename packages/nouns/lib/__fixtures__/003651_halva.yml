@@ -1,0 +1,22 @@
+---
+  id: "3651"
+  word: "halva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "halva"
+      acc: "halvų"
+      gen: "halvy"
+      loc: "halvě"
+      dat: "halvě"
+      ins: "halvojų"
+      voc: "halvo"
+    plural: 
+      nom: "halvy"
+      acc: "halvy"
+      gen: "halv"
+      loc: "halvah"
+      dat: "halvam"
+      ins: "halvami"
+      voc: "halvy"

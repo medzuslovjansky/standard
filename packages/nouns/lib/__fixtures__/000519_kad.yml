@@ -1,0 +1,22 @@
+---
+  id: "519"
+  word: "kaď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaď"
+      acc: "kaď"
+      gen: "kadi"
+      loc: "kadi"
+      dat: "kadi"
+      ins: "kaďjų"
+      voc: "kadi"
+    plural: 
+      nom: "kadi"
+      acc: "kadi"
+      gen: "kadij"
+      loc: "kaďah"
+      dat: "kaďam"
+      ins: "kaďami"
+      voc: "kadi"

@@ -1,0 +1,22 @@
+---
+  id: "35577"
+  word: "dieta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dieta"
+      acc: "dietų"
+      gen: "diety"
+      loc: "dietě"
+      dat: "dietě"
+      ins: "dietojų"
+      voc: "dieto"
+    plural: 
+      nom: "diety"
+      acc: "diety"
+      gen: "diet"
+      loc: "dietah"
+      dat: "dietam"
+      ins: "dietami"
+      voc: "diety"

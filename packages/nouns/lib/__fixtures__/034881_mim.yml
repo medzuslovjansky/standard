@@ -1,0 +1,23 @@
+---
+  id: "34881"
+  word: "mim"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mim"
+      acc: "mima"
+      gen: "mima"
+      loc: "mimu"
+      dat: "mimu"
+      ins: "mimom"
+      voc: "mime"
+    plural: 
+      nom: "mimi"
+      acc: "mimov"
+      gen: "mimov"
+      loc: "mimah"
+      dat: "mimam"
+      ins: "mimami"
+      voc: "mimi"

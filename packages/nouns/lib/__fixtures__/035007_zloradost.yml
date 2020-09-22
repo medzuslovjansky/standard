@@ -1,0 +1,22 @@
+---
+  id: "35007"
+  word: "zloradosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zloradosť"
+      acc: "zloradosť"
+      gen: "zloradosti"
+      loc: "zloradosti"
+      dat: "zloradosti"
+      ins: "zloradosťjų"
+      voc: "zloradosti"
+    plural: 
+      nom: "zloradosti"
+      acc: "zloradosti"
+      gen: "zloradostij"
+      loc: "zloradosťah"
+      dat: "zloradosťam"
+      ins: "zloradosťami"
+      voc: "zloradosti"

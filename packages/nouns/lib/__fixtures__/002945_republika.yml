@@ -1,0 +1,22 @@
+---
+  id: "2945"
+  word: "republika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "republika"
+      acc: "republikų"
+      gen: "republiky"
+      loc: "republikě"
+      dat: "republikě"
+      ins: "republikojų"
+      voc: "republiko"
+    plural: 
+      nom: "republiky"
+      acc: "republiky"
+      gen: "republik"
+      loc: "republikah"
+      dat: "republikam"
+      ins: "republikami"
+      voc: "republiky"

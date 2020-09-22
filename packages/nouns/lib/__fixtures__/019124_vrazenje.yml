@@ -1,0 +1,22 @@
+---
+  id: "19124"
+  word: "vražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vražeńje"
+      acc: "vražeńje"
+      gen: "vražeńja"
+      loc: "vražeńju"
+      dat: "vražeńju"
+      ins: "vražeńjem"
+      voc: "vražeńje"
+    plural: 
+      nom: "vražeńja"
+      acc: "vražeńja"
+      gen: "vraženij"
+      loc: "vražeńjah"
+      dat: "vražeńjam"
+      ins: "vražeńjami"
+      voc: "vražeńja"

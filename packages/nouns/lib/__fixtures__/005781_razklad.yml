@@ -1,0 +1,22 @@
+---
+  id: "5781"
+  word: "råzklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzklad"
+      acc: "råzklad"
+      gen: "råzklada"
+      loc: "råzkladu"
+      dat: "råzkladu"
+      ins: "råzkladom"
+      voc: "råzklade"
+    plural: 
+      nom: "råzklady"
+      acc: "råzklady"
+      gen: "råzkladov"
+      loc: "råzkladah"
+      dat: "råzkladam"
+      ins: "råzkladami"
+      voc: "råzklady"

@@ -1,0 +1,22 @@
+---
+  id: "5672"
+  word: "regularnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "regularnosť"
+      acc: "regularnosť"
+      gen: "regularnosti"
+      loc: "regularnosti"
+      dat: "regularnosti"
+      ins: "regularnosťjų"
+      voc: "regularnosti"
+    plural: 
+      nom: "regularnosti"
+      acc: "regularnosti"
+      gen: "regularnostij"
+      loc: "regularnosťah"
+      dat: "regularnosťam"
+      ins: "regularnosťami"
+      voc: "regularnosti"

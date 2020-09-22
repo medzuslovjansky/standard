@@ -1,0 +1,22 @@
+---
+  id: "22001"
+  word: "råzsyp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzsyp"
+      acc: "råzsyp"
+      gen: "råzsypa"
+      loc: "råzsypu"
+      dat: "råzsypu"
+      ins: "råzsypom"
+      voc: "råzsype"
+    plural: 
+      nom: "råzsypy"
+      acc: "råzsypy"
+      gen: "råzsypov"
+      loc: "råzsypah"
+      dat: "råzsypam"
+      ins: "råzsypami"
+      voc: "råzsypy"

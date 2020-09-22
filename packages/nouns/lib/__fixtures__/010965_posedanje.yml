@@ -1,0 +1,22 @@
+---
+  id: "10965"
+  word: "posědańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "posědańje"
+      acc: "posědańje"
+      gen: "posědańja"
+      loc: "posědańju"
+      dat: "posědańju"
+      ins: "posědańjem"
+      voc: "posědańje"
+    plural: 
+      nom: "posědańja"
+      acc: "posědańja"
+      gen: "posědanij"
+      loc: "posědańjah"
+      dat: "posědańjam"
+      ins: "posědańjami"
+      voc: "posědańja"

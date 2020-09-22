@@ -1,0 +1,22 @@
+---
+  id: "30899"
+  word: "topinambur"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "topinambur"
+      acc: "topinambur"
+      gen: "topinambura"
+      loc: "topinamburu"
+      dat: "topinamburu"
+      ins: "topinamburom"
+      voc: "topinambure"
+    plural: 
+      nom: "topinambury"
+      acc: "topinambury"
+      gen: "topinamburov"
+      loc: "topinamburah"
+      dat: "topinamburam"
+      ins: "topinamburami"
+      voc: "topinambury"

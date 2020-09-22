@@ -1,0 +1,22 @@
+---
+  id: "34623"
+  word: "podtekst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podtekst"
+      acc: "podtekst"
+      gen: "podteksta"
+      loc: "podtekstu"
+      dat: "podtekstu"
+      ins: "podtekstom"
+      voc: "podtekste"
+    plural: 
+      nom: "podteksty"
+      acc: "podteksty"
+      gen: "podtekstov"
+      loc: "podtekstah"
+      dat: "podtekstam"
+      ins: "podtekstami"
+      voc: "podteksty"

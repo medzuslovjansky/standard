@@ -1,0 +1,15 @@
+---
+  id: "22482"
+  word: "samovlasťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "samovlasťje"
+      acc: "samovlasťje"
+      gen: "samovlasťja"
+      loc: "samovlasťju"
+      dat: "samovlasťju"
+      ins: "samovlasťjem"
+      voc: "samovlasťje"

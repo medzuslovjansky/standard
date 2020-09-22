@@ -1,0 +1,23 @@
+---
+  id: "27198"
+  word: "lin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lin"
+      acc: "lina"
+      gen: "lina"
+      loc: "linu"
+      dat: "linu"
+      ins: "linom"
+      voc: "line"
+    plural: 
+      nom: "lini"
+      acc: "linov"
+      gen: "linov"
+      loc: "linah"
+      dat: "linam"
+      ins: "linami"
+      voc: "lini"

@@ -1,0 +1,22 @@
+---
+  id: "35929"
+  word: "nestabiľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nestabiľnosť"
+      acc: "nestabiľnosť"
+      gen: "nestabiľnosti"
+      loc: "nestabiľnosti"
+      dat: "nestabiľnosti"
+      ins: "nestabiľnosťjų"
+      voc: "nestabiľnosti"
+    plural: 
+      nom: "nestabiľnosti"
+      acc: "nestabiľnosti"
+      gen: "nestabiľnostij"
+      loc: "nestabiľnosťah"
+      dat: "nestabiľnosťam"
+      ins: "nestabiľnosťami"
+      voc: "nestabiľnosti"

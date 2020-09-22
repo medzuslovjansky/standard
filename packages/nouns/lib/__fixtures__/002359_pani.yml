@@ -1,0 +1,23 @@
+---
+  id: "2359"
+  word: "pani"
+  meta: 
+    irregularity: "(panje)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pani"
+      acc: "panjų"
+      gen: "panje"
+      loc: "panji"
+      dat: "panji"
+      ins: "panjejų"
+      voc: "panjo"
+    plural: 
+      nom: "panje"
+      acc: "panje"
+      gen: "panej"
+      loc: "panjah"
+      dat: "panjam"
+      ins: "panjami"
+      voc: "panje"

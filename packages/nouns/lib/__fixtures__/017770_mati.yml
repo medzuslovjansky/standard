@@ -1,0 +1,23 @@
+---
+  id: "17770"
+  word: "mati"
+  meta: 
+    irregularity: "(matere)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mati"
+      acc: "mati"
+      gen: "matere / materi"
+      loc: "materi"
+      dat: "materi"
+      ins: "materjų"
+      voc: "mati"
+    plural: 
+      nom: "materi"
+      acc: "materi"
+      gen: "materij"
+      loc: "materah"
+      dat: "materam"
+      ins: "materami"
+      voc: "materi"

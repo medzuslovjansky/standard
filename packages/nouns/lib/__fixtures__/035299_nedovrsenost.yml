@@ -1,0 +1,22 @@
+---
+  id: "35299"
+  word: "nedovŕšenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedovŕšenosť"
+      acc: "nedovŕšenosť"
+      gen: "nedovŕšenosti"
+      loc: "nedovŕšenosti"
+      dat: "nedovŕšenosti"
+      ins: "nedovŕšenosťjų"
+      voc: "nedovŕšenosti"
+    plural: 
+      nom: "nedovŕšenosti"
+      acc: "nedovŕšenosti"
+      gen: "nedovŕšenostij"
+      loc: "nedovŕšenosťah"
+      dat: "nedovŕšenosťam"
+      ins: "nedovŕšenosťami"
+      voc: "nedovŕšenosti"

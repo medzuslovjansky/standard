@@ -1,0 +1,15 @@
+---
+  id: "35064"
+  word: "Ural"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Ural"
+      acc: "Ural"
+      gen: "Urala"
+      loc: "Uralu"
+      dat: "Uralu"
+      ins: "Uralom"
+      voc: "Urale"

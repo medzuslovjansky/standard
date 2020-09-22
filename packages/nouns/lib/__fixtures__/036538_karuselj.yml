@@ -1,0 +1,22 @@
+---
+  id: "36538"
+  word: "karuselj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "karuselj"
+      acc: "karuselj"
+      gen: "karuselji"
+      loc: "karuselji"
+      dat: "karuselji"
+      ins: "karuseljjų"
+      voc: "karuselji"
+    plural: 
+      nom: "karuselji"
+      acc: "karuselji"
+      gen: "karuseljij"
+      loc: "karuseljah"
+      dat: "karuseljam"
+      ins: "karuseljami"
+      voc: "karuselji"

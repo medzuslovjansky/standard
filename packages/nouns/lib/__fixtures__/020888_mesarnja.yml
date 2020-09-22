@@ -1,0 +1,22 @@
+---
+  id: "20888"
+  word: "męsarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "męsarnja"
+      acc: "męsarnjų"
+      gen: "męsarnje"
+      loc: "męsarnji"
+      dat: "męsarnji"
+      ins: "męsarnjejų"
+      voc: "męsarnjo"
+    plural: 
+      nom: "męsarnje"
+      acc: "męsarnje"
+      gen: "męsarnej"
+      loc: "męsarnjah"
+      dat: "męsarnjam"
+      ins: "męsarnjami"
+      voc: "męsarnje"

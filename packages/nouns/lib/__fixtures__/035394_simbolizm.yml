@@ -1,0 +1,15 @@
+---
+  id: "35394"
+  word: "simbolizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "simbolizm"
+      acc: "simbolizm"
+      gen: "simbolizma"
+      loc: "simbolizmu"
+      dat: "simbolizmu"
+      ins: "simbolizmom"
+      voc: "simbolizme"

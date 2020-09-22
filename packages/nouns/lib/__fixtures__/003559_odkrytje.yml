@@ -1,0 +1,22 @@
+---
+  id: "3559"
+  word: "odkryťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odkryťje"
+      acc: "odkryťje"
+      gen: "odkryťja"
+      loc: "odkryťju"
+      dat: "odkryťju"
+      ins: "odkryťjem"
+      voc: "odkryťje"
+    plural: 
+      nom: "odkryťja"
+      acc: "odkryťja"
+      gen: "odkrytij"
+      loc: "odkryťjah"
+      dat: "odkryťjam"
+      ins: "odkryťjami"
+      voc: "odkryťja"

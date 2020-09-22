@@ -1,0 +1,22 @@
+---
+  id: "31407"
+  word: "vyboj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vyboj"
+      acc: "vyboj"
+      gen: "vyboja"
+      loc: "vyboju"
+      dat: "vyboju"
+      ins: "vybojem"
+      voc: "vyboju"
+    plural: 
+      nom: "vyboje"
+      acc: "vyboje"
+      gen: "vybojev"
+      loc: "vybojah"
+      dat: "vybojam"
+      ins: "vybojami"
+      voc: "vyboje"

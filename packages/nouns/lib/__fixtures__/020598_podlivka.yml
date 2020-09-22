@@ -1,0 +1,22 @@
+---
+  id: "20598"
+  word: "podlivka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podlivka"
+      acc: "podlivkų"
+      gen: "podlivky"
+      loc: "podlivkě"
+      dat: "podlivkě"
+      ins: "podlivkojų"
+      voc: "podlivko"
+    plural: 
+      nom: "podlivky"
+      acc: "podlivky"
+      gen: "podlivȯk"
+      loc: "podlivkah"
+      dat: "podlivkam"
+      ins: "podlivkami"
+      voc: "podlivky"

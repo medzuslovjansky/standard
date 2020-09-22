@@ -1,0 +1,22 @@
+---
+  id: "32707"
+  word: "kapital"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kapital"
+      acc: "kapital"
+      gen: "kapitala"
+      loc: "kapitalu"
+      dat: "kapitalu"
+      ins: "kapitalom"
+      voc: "kapitale"
+    plural: 
+      nom: "kapitaly"
+      acc: "kapitaly"
+      gen: "kapitalov"
+      loc: "kapitalah"
+      dat: "kapitalam"
+      ins: "kapitalami"
+      voc: "kapitaly"

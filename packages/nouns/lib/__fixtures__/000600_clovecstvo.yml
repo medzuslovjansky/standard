@@ -1,0 +1,15 @@
+---
+  id: "600"
+  word: "člověčstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "člověčstvo"
+      acc: "člověčstvo"
+      gen: "člověčstva"
+      loc: "člověčstvu"
+      dat: "člověčstvu"
+      ins: "člověčstvom"
+      voc: "člověčstvo"

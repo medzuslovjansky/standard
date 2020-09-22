@@ -1,0 +1,23 @@
+---
+  id: "30086"
+  word: "råvěsnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råvěsnik"
+      acc: "råvěsnika"
+      gen: "råvěsnika"
+      loc: "råvěsniku"
+      dat: "råvěsniku"
+      ins: "råvěsnikom"
+      voc: "råvěsniče"
+    plural: 
+      nom: "råvěsniki"
+      acc: "råvěsnikov"
+      gen: "råvěsnikov"
+      loc: "råvěsnikah"
+      dat: "råvěsnikam"
+      ins: "råvěsnikami"
+      voc: "råvěsniki"

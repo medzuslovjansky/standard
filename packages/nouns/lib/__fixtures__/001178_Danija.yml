@@ -1,0 +1,15 @@
+---
+  id: "1178"
+  word: "Danija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Danija"
+      acc: "Danijų"
+      gen: "Danije"
+      loc: "Daniji"
+      dat: "Daniji"
+      ins: "Danijejų"
+      voc: "Danijo"

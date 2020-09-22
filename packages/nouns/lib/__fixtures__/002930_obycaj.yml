@@ -1,0 +1,22 @@
+---
+  id: "2930"
+  word: "obyčaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obyčaj"
+      acc: "obyčaj"
+      gen: "obyčaja"
+      loc: "obyčaju"
+      dat: "obyčaju"
+      ins: "obyčajem"
+      voc: "obyčaju"
+    plural: 
+      nom: "obyčaje"
+      acc: "obyčaje"
+      gen: "obyčajev"
+      loc: "obyčajah"
+      dat: "obyčajam"
+      ins: "obyčajami"
+      voc: "obyčaje"

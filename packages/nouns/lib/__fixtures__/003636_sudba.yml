@@ -1,0 +1,22 @@
+---
+  id: "3636"
+  word: "sųďba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųďba"
+      acc: "sųďbų"
+      gen: "sųďby"
+      loc: "sųďbě"
+      dat: "sųďbě"
+      ins: "sųďbojų"
+      voc: "sųďbo"
+    plural: 
+      nom: "sųďby"
+      acc: "sųďby"
+      gen: "sųďb"
+      loc: "sųďbah"
+      dat: "sųďbam"
+      ins: "sųďbami"
+      voc: "sųďby"

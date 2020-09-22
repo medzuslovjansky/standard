@@ -1,0 +1,22 @@
+---
+  id: "30566"
+  word: "råzumnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzumnica"
+      acc: "råzumnicų"
+      gen: "råzumnice"
+      loc: "råzumnici"
+      dat: "råzumnici"
+      ins: "råzumnicejų"
+      voc: "råzumnico"
+    plural: 
+      nom: "råzumnice"
+      acc: "råzumnice"
+      gen: "råzumnic"
+      loc: "råzumnicah"
+      dat: "råzumnicam"
+      ins: "råzumnicami"
+      voc: "råzumnice"

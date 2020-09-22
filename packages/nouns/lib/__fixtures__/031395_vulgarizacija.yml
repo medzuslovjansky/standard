@@ -1,0 +1,22 @@
+---
+  id: "31395"
+  word: "vulgarizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vulgarizacija"
+      acc: "vulgarizacijų"
+      gen: "vulgarizacije"
+      loc: "vulgarizaciji"
+      dat: "vulgarizaciji"
+      ins: "vulgarizacijejų"
+      voc: "vulgarizacijo"
+    plural: 
+      nom: "vulgarizacije"
+      acc: "vulgarizacije"
+      gen: "vulgarizacij"
+      loc: "vulgarizacijah"
+      dat: "vulgarizacijam"
+      ins: "vulgarizacijami"
+      voc: "vulgarizacije"

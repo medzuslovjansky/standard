@@ -1,0 +1,22 @@
+---
+  id: "3447"
+  word: "paket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "paket"
+      acc: "paket"
+      gen: "paketa"
+      loc: "paketu"
+      dat: "paketu"
+      ins: "paketom"
+      voc: "pakete"
+    plural: 
+      nom: "pakety"
+      acc: "pakety"
+      gen: "paketov"
+      loc: "paketah"
+      dat: "paketam"
+      ins: "paketami"
+      voc: "pakety"

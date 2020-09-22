@@ -1,0 +1,23 @@
+---
+  id: "459"
+  word: "tělohrånitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tělohrånitelj"
+      acc: "tělohrånitelja"
+      gen: "tělohrånitelja"
+      loc: "tělohrånitelju"
+      dat: "tělohrånitelju"
+      ins: "tělohråniteljem"
+      voc: "tělohrånitelju"
+    plural: 
+      nom: "tělohrånitelji"
+      acc: "tělohråniteljev"
+      gen: "tělohråniteljev"
+      loc: "tělohråniteljah"
+      dat: "tělohråniteljam"
+      ins: "tělohråniteljami"
+      voc: "tělohrånitelji"

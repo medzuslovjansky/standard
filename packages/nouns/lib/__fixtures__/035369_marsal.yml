@@ -1,0 +1,22 @@
+---
+  id: "35369"
+  word: "maršal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "maršal"
+      acc: "maršal"
+      gen: "maršala"
+      loc: "maršalu"
+      dat: "maršalu"
+      ins: "maršalom"
+      voc: "maršale"
+    plural: 
+      nom: "maršaly"
+      acc: "maršaly"
+      gen: "maršalov"
+      loc: "maršalah"
+      dat: "maršalam"
+      ins: "maršalami"
+      voc: "maršaly"

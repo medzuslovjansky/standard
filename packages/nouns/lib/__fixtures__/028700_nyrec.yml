@@ -1,0 +1,23 @@
+---
+  id: "28700"
+  word: "nyrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nyrec"
+      acc: "nyrca"
+      gen: "nyrca"
+      loc: "nyrcu"
+      dat: "nyrcu"
+      ins: "nyrcem"
+      voc: "nyrče"
+    plural: 
+      nom: "nyrci"
+      acc: "nyrcev"
+      gen: "nyrcev"
+      loc: "nyrcah"
+      dat: "nyrcam"
+      ins: "nyrcami"
+      voc: "nyrci"

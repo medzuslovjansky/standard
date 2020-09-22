@@ -1,0 +1,22 @@
+---
+  id: "12306"
+  word: "slěpica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slěpica"
+      acc: "slěpicų"
+      gen: "slěpice"
+      loc: "slěpici"
+      dat: "slěpici"
+      ins: "slěpicejų"
+      voc: "slěpico"
+    plural: 
+      nom: "slěpice"
+      acc: "slěpice"
+      gen: "slěpic"
+      loc: "slěpicah"
+      dat: "slěpicam"
+      ins: "slěpicami"
+      voc: "slěpice"

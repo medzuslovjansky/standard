@@ -1,0 +1,23 @@
+---
+  id: "4831"
+  word: "čaroděj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čaroděj"
+      acc: "čaroděja"
+      gen: "čaroděja"
+      loc: "čaroděju"
+      dat: "čaroděju"
+      ins: "čarodějem"
+      voc: "čaroděju"
+    plural: 
+      nom: "čaroději"
+      acc: "čarodějev"
+      gen: "čarodějev"
+      loc: "čarodějah"
+      dat: "čarodějam"
+      ins: "čarodějami"
+      voc: "čaroději"

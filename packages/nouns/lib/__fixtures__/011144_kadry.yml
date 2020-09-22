@@ -1,0 +1,15 @@
+---
+  id: "11144"
+  word: "kadry"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "kadry"
+      acc: "kadry"
+      gen: "kadrov"
+      loc: "kadrah"
+      dat: "kadram"
+      ins: "kadrami"
+      voc: "kadry"

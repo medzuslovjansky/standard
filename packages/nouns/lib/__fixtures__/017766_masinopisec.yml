@@ -1,0 +1,23 @@
+---
+  id: "17766"
+  word: "mašinopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mašinopisec"
+      acc: "mašinopisca"
+      gen: "mašinopisca"
+      loc: "mašinopiscu"
+      dat: "mašinopiscu"
+      ins: "mašinopiscem"
+      voc: "mašinopisče"
+    plural: 
+      nom: "mašinopisci"
+      acc: "mašinopiscev"
+      gen: "mašinopiscev"
+      loc: "mašinopiscah"
+      dat: "mašinopiscam"
+      ins: "mašinopiscami"
+      voc: "mašinopisci"

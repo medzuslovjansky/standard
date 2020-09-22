@@ -1,0 +1,15 @@
+---
+  id: "36486"
+  word: "Filipiny"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Filipiny"
+      acc: "Filipiny"
+      gen: "Filipin"
+      loc: "Filipinah"
+      dat: "Filipinam"
+      ins: "Filipinami"
+      voc: "Filipiny"

@@ -1,0 +1,15 @@
+---
+  id: "22448"
+  word: "Urugvaj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Urugvaj"
+      acc: "Urugvaj"
+      gen: "Urugvaja"
+      loc: "Urugvaju"
+      dat: "Urugvaju"
+      ins: "Urugvajem"
+      voc: "Urugvaju"

@@ -1,0 +1,23 @@
+---
+  id: "25701"
+  word: "gogolj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gogolj"
+      acc: "gogolja"
+      gen: "gogolja"
+      loc: "gogolju"
+      dat: "gogolju"
+      ins: "gogoljem"
+      voc: "gogolju"
+    plural: 
+      nom: "gogolji"
+      acc: "gogoljev"
+      gen: "gogoljev"
+      loc: "gogoljah"
+      dat: "gogoljam"
+      ins: "gogoljami"
+      voc: "gogolji"

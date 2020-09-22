@@ -1,0 +1,22 @@
+---
+  id: "2095"
+  word: "punkt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "punkt"
+      acc: "punkt"
+      gen: "punkta"
+      loc: "punktu"
+      dat: "punktu"
+      ins: "punktom"
+      voc: "punkte"
+    plural: 
+      nom: "punkty"
+      acc: "punkty"
+      gen: "punktov"
+      loc: "punktah"
+      dat: "punktam"
+      ins: "punktami"
+      voc: "punkty"

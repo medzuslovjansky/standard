@@ -1,0 +1,22 @@
+---
+  id: "953"
+  word: "skråćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "skråćeńje"
+      acc: "skråćeńje"
+      gen: "skråćeńja"
+      loc: "skråćeńju"
+      dat: "skråćeńju"
+      ins: "skråćeńjem"
+      voc: "skråćeńje"
+    plural: 
+      nom: "skråćeńja"
+      acc: "skråćeńja"
+      gen: "skråćenij"
+      loc: "skråćeńjah"
+      dat: "skråćeńjam"
+      ins: "skråćeńjami"
+      voc: "skråćeńja"

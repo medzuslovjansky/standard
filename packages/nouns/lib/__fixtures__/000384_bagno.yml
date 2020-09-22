@@ -1,0 +1,22 @@
+---
+  id: "384"
+  word: "bagno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bagno"
+      acc: "bagno"
+      gen: "bagna"
+      loc: "bagnu"
+      dat: "bagnu"
+      ins: "bagnom"
+      voc: "bagno"
+    plural: 
+      nom: "bagna"
+      acc: "bagna"
+      gen: "bagn"
+      loc: "bagnah"
+      dat: "bagnam"
+      ins: "bagnami"
+      voc: "bagna"

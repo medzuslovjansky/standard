@@ -1,0 +1,22 @@
+---
+  id: "20093"
+  word: "proklęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proklęťje"
+      acc: "proklęťje"
+      gen: "proklęťja"
+      loc: "proklęťju"
+      dat: "proklęťju"
+      ins: "proklęťjem"
+      voc: "proklęťje"
+    plural: 
+      nom: "proklęťja"
+      acc: "proklęťja"
+      gen: "proklętij"
+      loc: "proklęťjah"
+      dat: "proklęťjam"
+      ins: "proklęťjami"
+      voc: "proklęťja"

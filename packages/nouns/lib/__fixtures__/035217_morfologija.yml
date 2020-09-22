@@ -1,0 +1,22 @@
+---
+  id: "35217"
+  word: "morfologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "morfologija"
+      acc: "morfologijų"
+      gen: "morfologije"
+      loc: "morfologiji"
+      dat: "morfologiji"
+      ins: "morfologijejų"
+      voc: "morfologijo"
+    plural: 
+      nom: "morfologije"
+      acc: "morfologije"
+      gen: "morfologij"
+      loc: "morfologijah"
+      dat: "morfologijam"
+      ins: "morfologijami"
+      voc: "morfologije"

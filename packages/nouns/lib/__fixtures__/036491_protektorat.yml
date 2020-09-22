@@ -1,0 +1,22 @@
+---
+  id: "36491"
+  word: "protektorat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "protektorat"
+      acc: "protektorat"
+      gen: "protektorata"
+      loc: "protektoratu"
+      dat: "protektoratu"
+      ins: "protektoratom"
+      voc: "protektorate"
+    plural: 
+      nom: "protektoraty"
+      acc: "protektoraty"
+      gen: "protektoratov"
+      loc: "protektoratah"
+      dat: "protektoratam"
+      ins: "protektoratami"
+      voc: "protektoraty"

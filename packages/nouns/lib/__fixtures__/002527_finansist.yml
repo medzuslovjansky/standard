@@ -1,0 +1,23 @@
+---
+  id: "2527"
+  word: "finansist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "finansist"
+      acc: "finansista"
+      gen: "finansista"
+      loc: "finansistu"
+      dat: "finansistu"
+      ins: "finansistom"
+      voc: "finansiste"
+    plural: 
+      nom: "finansisti"
+      acc: "finansistov"
+      gen: "finansistov"
+      loc: "finansistah"
+      dat: "finansistam"
+      ins: "finansistami"
+      voc: "finansisti"

@@ -1,0 +1,23 @@
+---
+  id: "7328"
+  word: "drugar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drugar"
+      acc: "drugara"
+      gen: "drugara"
+      loc: "drugaru"
+      dat: "drugaru"
+      ins: "drugarom"
+      voc: "drugare"
+    plural: 
+      nom: "drugari"
+      acc: "drugarov"
+      gen: "drugarov"
+      loc: "drugarah"
+      dat: "drugaram"
+      ins: "drugarami"
+      voc: "drugari"

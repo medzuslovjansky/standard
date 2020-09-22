@@ -1,0 +1,22 @@
+---
+  id: "3590"
+  word: "priměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "priměr"
+      acc: "priměr"
+      gen: "priměra"
+      loc: "priměru"
+      dat: "priměru"
+      ins: "priměrom"
+      voc: "priměre"
+    plural: 
+      nom: "priměry"
+      acc: "priměry"
+      gen: "priměrov"
+      loc: "priměrah"
+      dat: "priměram"
+      ins: "priměrami"
+      voc: "priměry"

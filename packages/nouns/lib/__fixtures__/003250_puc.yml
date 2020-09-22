@@ -1,0 +1,22 @@
+---
+  id: "3250"
+  word: "puč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "puč"
+      acc: "puč"
+      gen: "puča"
+      loc: "puču"
+      dat: "puču"
+      ins: "pučem"
+      voc: "puču"
+    plural: 
+      nom: "puče"
+      acc: "puče"
+      gen: "pučev"
+      loc: "pučah"
+      dat: "pučam"
+      ins: "pučami"
+      voc: "puče"

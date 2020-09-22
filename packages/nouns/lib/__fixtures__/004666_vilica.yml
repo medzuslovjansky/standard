@@ -1,0 +1,22 @@
+---
+  id: "4666"
+  word: "vilica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vilica"
+      acc: "vilicų"
+      gen: "vilice"
+      loc: "vilici"
+      dat: "vilici"
+      ins: "vilicejų"
+      voc: "vilico"
+    plural: 
+      nom: "vilice"
+      acc: "vilice"
+      gen: "vilic"
+      loc: "vilicah"
+      dat: "vilicam"
+      ins: "vilicami"
+      voc: "vilice"

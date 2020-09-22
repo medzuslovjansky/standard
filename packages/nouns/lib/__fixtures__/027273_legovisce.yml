@@ -1,0 +1,22 @@
+---
+  id: "27273"
+  word: "legovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "legovišče"
+      acc: "legovišče"
+      gen: "legovišča"
+      loc: "legovišču"
+      dat: "legovišču"
+      ins: "legoviščem"
+      voc: "legovišče"
+    plural: 
+      nom: "legovišča"
+      acc: "legovišča"
+      gen: "legovišč"
+      loc: "legoviščah"
+      dat: "legoviščam"
+      ins: "legoviščami"
+      voc: "legovišča"

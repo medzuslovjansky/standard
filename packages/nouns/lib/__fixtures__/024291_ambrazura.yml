@@ -1,0 +1,22 @@
+---
+  id: "24291"
+  word: "ambrazura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ambrazura"
+      acc: "ambrazurų"
+      gen: "ambrazury"
+      loc: "ambrazurě"
+      dat: "ambrazurě"
+      ins: "ambrazurojų"
+      voc: "ambrazuro"
+    plural: 
+      nom: "ambrazury"
+      acc: "ambrazury"
+      gen: "ambrazur"
+      loc: "ambrazurah"
+      dat: "ambrazuram"
+      ins: "ambrazurami"
+      voc: "ambrazury"

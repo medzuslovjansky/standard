@@ -1,0 +1,22 @@
+---
+  id: "20365"
+  word: "doměška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "doměška"
+      acc: "doměškų"
+      gen: "doměšky"
+      loc: "doměškě"
+      dat: "doměškě"
+      ins: "doměškojų"
+      voc: "doměško"
+    plural: 
+      nom: "doměšky"
+      acc: "doměšky"
+      gen: "doměšek"
+      loc: "doměškah"
+      dat: "doměškam"
+      ins: "doměškami"
+      voc: "doměšky"

@@ -1,0 +1,22 @@
+---
+  id: "2745"
+  word: "morje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "morje"
+      acc: "morje"
+      gen: "morja"
+      loc: "morju"
+      dat: "morju"
+      ins: "morjem"
+      voc: "morje"
+    plural: 
+      nom: "morja"
+      acc: "morja"
+      gen: "morej"
+      loc: "morjah"
+      dat: "morjam"
+      ins: "morjami"
+      voc: "morja"

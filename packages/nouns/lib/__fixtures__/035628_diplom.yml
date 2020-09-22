@@ -1,0 +1,22 @@
+---
+  id: "35628"
+  word: "diplom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diplom"
+      acc: "diplom"
+      gen: "diploma"
+      loc: "diplomu"
+      dat: "diplomu"
+      ins: "diplomom"
+      voc: "diplome"
+    plural: 
+      nom: "diplomy"
+      acc: "diplomy"
+      gen: "diplomov"
+      loc: "diplomah"
+      dat: "diplomam"
+      ins: "diplomami"
+      voc: "diplomy"

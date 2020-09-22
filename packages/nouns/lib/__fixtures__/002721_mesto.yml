@@ -1,0 +1,22 @@
+---
+  id: "2721"
+  word: "město"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "město"
+      acc: "město"
+      gen: "města"
+      loc: "městu"
+      dat: "městu"
+      ins: "městom"
+      voc: "město"
+    plural: 
+      nom: "města"
+      acc: "města"
+      gen: "měst"
+      loc: "městah"
+      dat: "městam"
+      ins: "městami"
+      voc: "města"

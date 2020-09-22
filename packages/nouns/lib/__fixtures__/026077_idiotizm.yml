@@ -1,0 +1,22 @@
+---
+  id: "26077"
+  word: "idiotizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "idiotizm"
+      acc: "idiotizm"
+      gen: "idiotizma"
+      loc: "idiotizmu"
+      dat: "idiotizmu"
+      ins: "idiotizmom"
+      voc: "idiotizme"
+    plural: 
+      nom: "idiotizmy"
+      acc: "idiotizmy"
+      gen: "idiotizmov"
+      loc: "idiotizmah"
+      dat: "idiotizmam"
+      ins: "idiotizmami"
+      voc: "idiotizmy"

@@ -1,0 +1,22 @@
+---
+  id: "6628"
+  word: "bogatstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bogatstvo"
+      acc: "bogatstvo"
+      gen: "bogatstva"
+      loc: "bogatstvu"
+      dat: "bogatstvu"
+      ins: "bogatstvom"
+      voc: "bogatstvo"
+    plural: 
+      nom: "bogatstva"
+      acc: "bogatstva"
+      gen: "bogatstv"
+      loc: "bogatstvah"
+      dat: "bogatstvam"
+      ins: "bogatstvami"
+      voc: "bogatstva"

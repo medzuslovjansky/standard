@@ -1,0 +1,22 @@
+---
+  id: "15737"
+  word: "tęžnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tęžnica"
+      acc: "tęžnicų"
+      gen: "tęžnice"
+      loc: "tęžnici"
+      dat: "tęžnici"
+      ins: "tęžnicejų"
+      voc: "tęžnico"
+    plural: 
+      nom: "tęžnice"
+      acc: "tęžnice"
+      gen: "tęžnic"
+      loc: "tęžnicah"
+      dat: "tęžnicam"
+      ins: "tęžnicami"
+      voc: "tęžnice"

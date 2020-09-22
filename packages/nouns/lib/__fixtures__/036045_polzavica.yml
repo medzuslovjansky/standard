@@ -1,0 +1,22 @@
+---
+  id: "36045"
+  word: "pȯlzavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pȯlzavica"
+      acc: "pȯlzavicų"
+      gen: "pȯlzavice"
+      loc: "pȯlzavici"
+      dat: "pȯlzavici"
+      ins: "pȯlzavicejų"
+      voc: "pȯlzavico"
+    plural: 
+      nom: "pȯlzavice"
+      acc: "pȯlzavice"
+      gen: "pȯlzavic"
+      loc: "pȯlzavicah"
+      dat: "pȯlzavicam"
+      ins: "pȯlzavicami"
+      voc: "pȯlzavice"

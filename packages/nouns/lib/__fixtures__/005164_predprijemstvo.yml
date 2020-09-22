@@ -1,0 +1,22 @@
+---
+  id: "5164"
+  word: "prědprijemstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědprijemstvo"
+      acc: "prědprijemstvo"
+      gen: "prědprijemstva"
+      loc: "prědprijemstvu"
+      dat: "prědprijemstvu"
+      ins: "prědprijemstvom"
+      voc: "prědprijemstvo"
+    plural: 
+      nom: "prědprijemstva"
+      acc: "prědprijemstva"
+      gen: "prědprijemstv"
+      loc: "prědprijemstvah"
+      dat: "prědprijemstvam"
+      ins: "prědprijemstvami"
+      voc: "prědprijemstva"

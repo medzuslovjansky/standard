@@ -1,0 +1,22 @@
+---
+  id: "24314"
+  word: "anglicizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "anglicizm"
+      acc: "anglicizm"
+      gen: "anglicizma"
+      loc: "anglicizmu"
+      dat: "anglicizmu"
+      ins: "anglicizmom"
+      voc: "anglicizme"
+    plural: 
+      nom: "anglicizmy"
+      acc: "anglicizmy"
+      gen: "anglicizmov"
+      loc: "anglicizmah"
+      dat: "anglicizmam"
+      ins: "anglicizmami"
+      voc: "anglicizmy"

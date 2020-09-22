@@ -1,0 +1,22 @@
+---
+  id: "6282"
+  word: "odpovědnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpovědnik"
+      acc: "odpovědnik"
+      gen: "odpovědnika"
+      loc: "odpovědniku"
+      dat: "odpovědniku"
+      ins: "odpovědnikom"
+      voc: "odpovědniče"
+    plural: 
+      nom: "odpovědniky"
+      acc: "odpovědniky"
+      gen: "odpovědnikov"
+      loc: "odpovědnikah"
+      dat: "odpovědnikam"
+      ins: "odpovědnikami"
+      voc: "odpovědniky"

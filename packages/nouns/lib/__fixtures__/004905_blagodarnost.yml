@@ -1,0 +1,15 @@
+---
+  id: "4905"
+  word: "blågodarnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "blågodarnosť"
+      acc: "blågodarnosť"
+      gen: "blågodarnosti"
+      loc: "blågodarnosti"
+      dat: "blågodarnosti"
+      ins: "blågodarnosťjų"
+      voc: "blågodarnosti"

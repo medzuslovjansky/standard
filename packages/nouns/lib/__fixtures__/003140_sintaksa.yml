@@ -1,0 +1,22 @@
+---
+  id: "3140"
+  word: "sintaksa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sintaksa"
+      acc: "sintaksų"
+      gen: "sintaksy"
+      loc: "sintaksě"
+      dat: "sintaksě"
+      ins: "sintaksojų"
+      voc: "sintakso"
+    plural: 
+      nom: "sintaksy"
+      acc: "sintaksy"
+      gen: "sintaks"
+      loc: "sintaksah"
+      dat: "sintaksam"
+      ins: "sintaksami"
+      voc: "sintaksy"

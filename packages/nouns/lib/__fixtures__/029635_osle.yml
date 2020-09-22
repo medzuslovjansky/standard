@@ -1,0 +1,22 @@
+---
+  id: "29635"
+  word: "oslę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oslę"
+      acc: "oslę"
+      gen: "oslęte / oslęta"
+      loc: "oslęti / oslętu"
+      dat: "oslęti / oslętu"
+      ins: "oslętem / oslętom"
+      voc: "oslę"
+    plural: 
+      nom: "oslęta"
+      acc: "oslęta"
+      gen: "oslęt"
+      loc: "oslętah"
+      dat: "oslętam"
+      ins: "oslętami"
+      voc: "oslęta"

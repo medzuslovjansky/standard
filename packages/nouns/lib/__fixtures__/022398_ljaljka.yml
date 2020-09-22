@@ -1,0 +1,22 @@
+---
+  id: "22398"
+  word: "ljaljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljaljka"
+      acc: "ljaljkų"
+      gen: "ljaljky"
+      loc: "ljaljkě"
+      dat: "ljaljkě"
+      ins: "ljaljkojų"
+      voc: "ljaljko"
+    plural: 
+      nom: "ljaljky"
+      acc: "ljaljky"
+      gen: "ljaljek"
+      loc: "ljaljkah"
+      dat: "ljaljkam"
+      ins: "ljaljkami"
+      voc: "ljaljky"

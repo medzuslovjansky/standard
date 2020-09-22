@@ -1,0 +1,22 @@
+---
+  id: "36777"
+  word: "rudnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rudnik"
+      acc: "rudnik"
+      gen: "rudnika"
+      loc: "rudniku"
+      dat: "rudniku"
+      ins: "rudnikom"
+      voc: "rudniče"
+    plural: 
+      nom: "rudniky"
+      acc: "rudniky"
+      gen: "rudnikov"
+      loc: "rudnikah"
+      dat: "rudnikam"
+      ins: "rudnikami"
+      voc: "rudniky"

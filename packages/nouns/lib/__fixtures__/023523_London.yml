@@ -1,0 +1,15 @@
+---
+  id: "23523"
+  word: "London"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "London"
+      acc: "London"
+      gen: "Londona"
+      loc: "Londonu"
+      dat: "Londonu"
+      ins: "Londonom"
+      voc: "Londone"

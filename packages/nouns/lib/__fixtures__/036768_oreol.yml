@@ -1,0 +1,22 @@
+---
+  id: "36768"
+  word: "oreol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oreol"
+      acc: "oreol"
+      gen: "oreola"
+      loc: "oreolu"
+      dat: "oreolu"
+      ins: "oreolom"
+      voc: "oreole"
+    plural: 
+      nom: "oreoly"
+      acc: "oreoly"
+      gen: "oreolov"
+      loc: "oreolah"
+      dat: "oreolam"
+      ins: "oreolami"
+      voc: "oreoly"

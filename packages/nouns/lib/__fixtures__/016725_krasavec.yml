@@ -1,0 +1,23 @@
+---
+  id: "16725"
+  word: "krasavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krasavec"
+      acc: "krasavca"
+      gen: "krasavca"
+      loc: "krasavcu"
+      dat: "krasavcu"
+      ins: "krasavcem"
+      voc: "krasavče"
+    plural: 
+      nom: "krasavci"
+      acc: "krasavcev"
+      gen: "krasavcev"
+      loc: "krasavcah"
+      dat: "krasavcam"
+      ins: "krasavcami"
+      voc: "krasavci"

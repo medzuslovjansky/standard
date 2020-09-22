@@ -1,0 +1,22 @@
+---
+  id: "14475"
+  word: "bolěznj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bolěznj"
+      acc: "bolěznj"
+      gen: "bolěznji"
+      loc: "bolěznji"
+      dat: "bolěznji"
+      ins: "bolěznjjų"
+      voc: "bolěznji"
+    plural: 
+      nom: "bolěznji"
+      acc: "bolěznji"
+      gen: "bolěznjij"
+      loc: "bolěznjah"
+      dat: "bolěznjam"
+      ins: "bolěznjami"
+      voc: "bolěznji"

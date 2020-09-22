@@ -1,0 +1,23 @@
+---
+  id: "25491"
+  word: "fantom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fantom"
+      acc: "fantoma"
+      gen: "fantoma"
+      loc: "fantomu"
+      dat: "fantomu"
+      ins: "fantomom"
+      voc: "fantome"
+    plural: 
+      nom: "fantomi"
+      acc: "fantomov"
+      gen: "fantomov"
+      loc: "fantomah"
+      dat: "fantomam"
+      ins: "fantomami"
+      voc: "fantomi"

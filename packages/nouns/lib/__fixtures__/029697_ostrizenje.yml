@@ -1,0 +1,22 @@
+---
+  id: "29697"
+  word: "ostrižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ostrižeńje"
+      acc: "ostrižeńje"
+      gen: "ostrižeńja"
+      loc: "ostrižeńju"
+      dat: "ostrižeńju"
+      ins: "ostrižeńjem"
+      voc: "ostrižeńje"
+    plural: 
+      nom: "ostrižeńja"
+      acc: "ostrižeńja"
+      gen: "ostriženij"
+      loc: "ostrižeńjah"
+      dat: "ostrižeńjam"
+      ins: "ostrižeńjami"
+      voc: "ostrižeńja"

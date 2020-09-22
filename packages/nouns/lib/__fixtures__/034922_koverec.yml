@@ -1,0 +1,22 @@
+---
+  id: "34922"
+  word: "koverec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koverec"
+      acc: "koverec"
+      gen: "koverca"
+      loc: "kovercu"
+      dat: "kovercu"
+      ins: "kovercem"
+      voc: "koverče"
+    plural: 
+      nom: "koverce"
+      acc: "koverce"
+      gen: "kovercev"
+      loc: "kovercah"
+      dat: "kovercam"
+      ins: "kovercami"
+      voc: "koverce"

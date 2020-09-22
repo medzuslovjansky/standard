@@ -1,0 +1,22 @@
+---
+  id: "20027"
+  word: "podmet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podmet"
+      acc: "podmet"
+      gen: "podmeta"
+      loc: "podmetu"
+      dat: "podmetu"
+      ins: "podmetom"
+      voc: "podmete"
+    plural: 
+      nom: "podmety"
+      acc: "podmety"
+      gen: "podmetov"
+      loc: "podmetah"
+      dat: "podmetam"
+      ins: "podmetami"
+      voc: "podmety"

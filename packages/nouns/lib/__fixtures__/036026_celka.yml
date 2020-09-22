@@ -1,0 +1,22 @@
+---
+  id: "36026"
+  word: "čelka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čelka"
+      acc: "čelkų"
+      gen: "čelky"
+      loc: "čelkě"
+      dat: "čelkě"
+      ins: "čelkojų"
+      voc: "čelko"
+    plural: 
+      nom: "čelky"
+      acc: "čelky"
+      gen: "čelȯk"
+      loc: "čelkah"
+      dat: "čelkam"
+      ins: "čelkami"
+      voc: "čelky"

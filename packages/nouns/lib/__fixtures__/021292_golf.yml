@@ -1,0 +1,15 @@
+---
+  id: "21292"
+  word: "golf"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "golf"
+      acc: "golf"
+      gen: "golfa"
+      loc: "golfu"
+      dat: "golfu"
+      ins: "golfom"
+      voc: "golfe"

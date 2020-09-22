@@ -1,0 +1,23 @@
+---
+  id: "35178"
+  word: "producent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "producent"
+      acc: "producenta"
+      gen: "producenta"
+      loc: "producentu"
+      dat: "producentu"
+      ins: "producentom"
+      voc: "producente"
+    plural: 
+      nom: "producenti"
+      acc: "producentov"
+      gen: "producentov"
+      loc: "producentah"
+      dat: "producentam"
+      ins: "producentami"
+      voc: "producenti"

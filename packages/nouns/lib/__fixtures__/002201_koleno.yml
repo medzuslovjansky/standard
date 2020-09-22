@@ -1,0 +1,22 @@
+---
+  id: "2201"
+  word: "kolěno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kolěno"
+      acc: "kolěno"
+      gen: "kolěna"
+      loc: "kolěnu"
+      dat: "kolěnu"
+      ins: "kolěnom"
+      voc: "kolěno"
+    plural: 
+      nom: "kolěna"
+      acc: "kolěna"
+      gen: "kolěn"
+      loc: "kolěnah"
+      dat: "kolěnam"
+      ins: "kolěnami"
+      voc: "kolěna"

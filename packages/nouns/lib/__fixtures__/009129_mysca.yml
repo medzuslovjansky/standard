@@ -1,0 +1,22 @@
+---
+  id: "9129"
+  word: "myšca"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "myšca"
+      acc: "myšcų"
+      gen: "myšce"
+      loc: "myšci"
+      dat: "myšci"
+      ins: "myšcejų"
+      voc: "myšco"
+    plural: 
+      nom: "myšce"
+      acc: "myšce"
+      gen: "myšc"
+      loc: "myšcah"
+      dat: "myšcam"
+      ins: "myšcami"
+      voc: "myšce"

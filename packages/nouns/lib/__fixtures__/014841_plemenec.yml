@@ -1,0 +1,23 @@
+---
+  id: "14841"
+  word: "plemenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "plemenec"
+      acc: "plemenca"
+      gen: "plemenca"
+      loc: "plemencu"
+      dat: "plemencu"
+      ins: "plemencem"
+      voc: "plemenče"
+    plural: 
+      nom: "plemenci"
+      acc: "plemencev"
+      gen: "plemencev"
+      loc: "plemencah"
+      dat: "plemencam"
+      ins: "plemencami"
+      voc: "plemenci"

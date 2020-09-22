@@ -1,0 +1,22 @@
+---
+  id: "20758"
+  word: "sųčasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųčasnosť"
+      acc: "sųčasnosť"
+      gen: "sųčasnosti"
+      loc: "sųčasnosti"
+      dat: "sųčasnosti"
+      ins: "sųčasnosťjų"
+      voc: "sųčasnosti"
+    plural: 
+      nom: "sųčasnosti"
+      acc: "sųčasnosti"
+      gen: "sųčasnostij"
+      loc: "sųčasnosťah"
+      dat: "sųčasnosťam"
+      ins: "sųčasnosťami"
+      voc: "sųčasnosti"

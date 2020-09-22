@@ -1,0 +1,22 @@
+---
+  id: "22408"
+  word: "zavěćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zavěćańje"
+      acc: "zavěćańje"
+      gen: "zavěćańja"
+      loc: "zavěćańju"
+      dat: "zavěćańju"
+      ins: "zavěćańjem"
+      voc: "zavěćańje"
+    plural: 
+      nom: "zavěćańja"
+      acc: "zavěćańja"
+      gen: "zavěćanij"
+      loc: "zavěćańjah"
+      dat: "zavěćańjam"
+      ins: "zavěćańjami"
+      voc: "zavěćańja"

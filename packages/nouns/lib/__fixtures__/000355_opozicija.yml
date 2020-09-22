@@ -1,0 +1,22 @@
+---
+  id: "355"
+  word: "opozicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opozicija"
+      acc: "opozicijų"
+      gen: "opozicije"
+      loc: "opoziciji"
+      dat: "opoziciji"
+      ins: "opozicijejų"
+      voc: "opozicijo"
+    plural: 
+      nom: "opozicije"
+      acc: "opozicije"
+      gen: "opozicij"
+      loc: "opozicijah"
+      dat: "opozicijam"
+      ins: "opozicijami"
+      voc: "opozicije"

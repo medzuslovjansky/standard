@@ -1,0 +1,22 @@
+---
+  id: "5214"
+  word: "směr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "směr"
+      acc: "směr"
+      gen: "směra"
+      loc: "směru"
+      dat: "směru"
+      ins: "směrom"
+      voc: "směre"
+    plural: 
+      nom: "směry"
+      acc: "směry"
+      gen: "směrov"
+      loc: "směrah"
+      dat: "směram"
+      ins: "směrami"
+      voc: "směry"

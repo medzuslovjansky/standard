@@ -1,0 +1,22 @@
+---
+  id: "35181"
+  word: "bjuleten"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bjuleten"
+      acc: "bjuleten"
+      gen: "bjuletena"
+      loc: "bjuletenu"
+      dat: "bjuletenu"
+      ins: "bjuletenom"
+      voc: "bjuletene"
+    plural: 
+      nom: "bjuleteny"
+      acc: "bjuleteny"
+      gen: "bjuletenov"
+      loc: "bjuletenah"
+      dat: "bjuletenam"
+      ins: "bjuletenami"
+      voc: "bjuleteny"

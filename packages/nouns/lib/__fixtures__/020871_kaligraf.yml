@@ -1,0 +1,23 @@
+---
+  id: "20871"
+  word: "kaligraf"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kaligraf"
+      acc: "kaligrafa"
+      gen: "kaligrafa"
+      loc: "kaligrafu"
+      dat: "kaligrafu"
+      ins: "kaligrafom"
+      voc: "kaligrafe"
+    plural: 
+      nom: "kaligrafi"
+      acc: "kaligrafov"
+      gen: "kaligrafov"
+      loc: "kaligrafah"
+      dat: "kaligrafam"
+      ins: "kaligrafami"
+      voc: "kaligrafi"

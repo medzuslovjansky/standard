@@ -1,0 +1,24 @@
+---
+  id: "22829"
+  word: "znajemy"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "znajemy"
+      acc: "znajemogo"
+      gen: "znajemogo"
+      loc: "znajemom"
+      dat: "znajemomu"
+      ins: "znajemym"
+      voc: "znajemy"
+    plural: 
+      nom: "znajemi"
+      acc: "znajemyh"
+      gen: "znajemyh"
+      loc: "znajemyh"
+      dat: "znajemym"
+      ins: "znajemymi"
+      voc: "znajemi"

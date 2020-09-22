@@ -1,0 +1,22 @@
+---
+  id: "17372"
+  word: "element"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "element"
+      acc: "element"
+      gen: "elementa"
+      loc: "elementu"
+      dat: "elementu"
+      ins: "elementom"
+      voc: "elemente"
+    plural: 
+      nom: "elementy"
+      acc: "elementy"
+      gen: "elementov"
+      loc: "elementah"
+      dat: "elementam"
+      ins: "elementami"
+      voc: "elementy"

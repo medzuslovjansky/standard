@@ -1,0 +1,22 @@
+---
+  id: "14030"
+  word: "zabråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zabråna"
+      acc: "zabrånų"
+      gen: "zabråny"
+      loc: "zabråně"
+      dat: "zabråně"
+      ins: "zabrånojų"
+      voc: "zabråno"
+    plural: 
+      nom: "zabråny"
+      acc: "zabråny"
+      gen: "zabrån"
+      loc: "zabrånah"
+      dat: "zabrånam"
+      ins: "zabrånami"
+      voc: "zabråny"

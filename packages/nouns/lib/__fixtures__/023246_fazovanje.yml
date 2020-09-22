@@ -1,0 +1,15 @@
+---
+  id: "23246"
+  word: "fazovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fazovańje"
+      acc: "fazovańje"
+      gen: "fazovańja"
+      loc: "fazovańju"
+      dat: "fazovańju"
+      ins: "fazovańjem"
+      voc: "fazovańje"

@@ -1,0 +1,22 @@
+---
+  id: "30432"
+  word: "råzrěz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzrěz"
+      acc: "råzrěz"
+      gen: "råzrěza"
+      loc: "råzrězu"
+      dat: "råzrězu"
+      ins: "råzrězom"
+      voc: "råzrěze"
+    plural: 
+      nom: "råzrězy"
+      acc: "råzrězy"
+      gen: "råzrězov"
+      loc: "råzrězah"
+      dat: "råzrězam"
+      ins: "råzrězami"
+      voc: "råzrězy"

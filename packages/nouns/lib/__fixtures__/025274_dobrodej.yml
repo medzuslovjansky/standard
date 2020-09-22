@@ -1,0 +1,23 @@
+---
+  id: "25274"
+  word: "dobroděj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dobroděj"
+      acc: "dobroděja"
+      gen: "dobroděja"
+      loc: "dobroděju"
+      dat: "dobroděju"
+      ins: "dobrodějem"
+      voc: "dobroděju"
+    plural: 
+      nom: "dobroději"
+      acc: "dobrodějev"
+      gen: "dobrodějev"
+      loc: "dobrodějah"
+      dat: "dobrodějam"
+      ins: "dobrodějami"
+      voc: "dobroději"

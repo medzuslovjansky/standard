@@ -1,0 +1,22 @@
+---
+  id: "814"
+  word: "samolet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "samolet"
+      acc: "samolet"
+      gen: "samoleta"
+      loc: "samoletu"
+      dat: "samoletu"
+      ins: "samoletom"
+      voc: "samolete"
+    plural: 
+      nom: "samolety"
+      acc: "samolety"
+      gen: "samoletov"
+      loc: "samoletah"
+      dat: "samoletam"
+      ins: "samoletami"
+      voc: "samolety"

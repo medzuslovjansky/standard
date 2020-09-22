@@ -1,0 +1,22 @@
+---
+  id: "6148"
+  word: "šizofrenija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šizofrenija"
+      acc: "šizofrenijų"
+      gen: "šizofrenije"
+      loc: "šizofreniji"
+      dat: "šizofreniji"
+      ins: "šizofrenijejų"
+      voc: "šizofrenijo"
+    plural: 
+      nom: "šizofrenije"
+      acc: "šizofrenije"
+      gen: "šizofrenij"
+      loc: "šizofrenijah"
+      dat: "šizofrenijam"
+      ins: "šizofrenijami"
+      voc: "šizofrenije"

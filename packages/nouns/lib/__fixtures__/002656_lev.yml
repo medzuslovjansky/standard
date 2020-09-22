@@ -1,0 +1,24 @@
+---
+  id: "2656"
+  word: "lev"
+  meta: 
+    irregularity: "(ljva)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lev"
+      acc: "ljva"
+      gen: "ljva"
+      loc: "ljvu"
+      dat: "ljvu"
+      ins: "ljvom"
+      voc: "ljve"
+    plural: 
+      nom: "ljvi"
+      acc: "ljvov"
+      gen: "ljvov"
+      loc: "ljvah"
+      dat: "ljvam"
+      ins: "ljvami"
+      voc: "ljvi"

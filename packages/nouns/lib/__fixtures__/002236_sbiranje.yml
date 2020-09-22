@@ -1,0 +1,15 @@
+---
+  id: "2236"
+  word: "sbirańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sbirańje"
+      acc: "sbirańje"
+      gen: "sbirańja"
+      loc: "sbirańju"
+      dat: "sbirańju"
+      ins: "sbirańjem"
+      voc: "sbirańje"

@@ -1,0 +1,22 @@
+---
+  id: "35562"
+  word: "ranimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ranimosť"
+      acc: "ranimosť"
+      gen: "ranimosti"
+      loc: "ranimosti"
+      dat: "ranimosti"
+      ins: "ranimosťjų"
+      voc: "ranimosti"
+    plural: 
+      nom: "ranimosti"
+      acc: "ranimosti"
+      gen: "ranimostij"
+      loc: "ranimosťah"
+      dat: "ranimosťam"
+      ins: "ranimosťami"
+      voc: "ranimosti"

@@ -1,0 +1,23 @@
+---
+  id: "31191"
+  word: "vihȯr"
+  meta: 
+    irregularity: "(vihra)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vih(ȯ)r"
+      acc: "vih(ȯ)r"
+      gen: "vih(ȯ)ra"
+      loc: "vih(ȯ)ru"
+      dat: "vih(ȯ)ru"
+      ins: "vih(ȯ)rom"
+      voc: "vih(ȯ)re"
+    plural: 
+      nom: "vih(ȯ)ry"
+      acc: "vih(ȯ)ry"
+      gen: "vih(ȯ)rov"
+      loc: "vih(ȯ)rah"
+      dat: "vih(ȯ)ram"
+      ins: "vih(ȯ)rami"
+      voc: "vih(ȯ)ry"

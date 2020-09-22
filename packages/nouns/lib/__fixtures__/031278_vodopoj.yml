@@ -1,0 +1,22 @@
+---
+  id: "31278"
+  word: "vodopoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodopoj"
+      acc: "vodopoj"
+      gen: "vodopoja"
+      loc: "vodopoju"
+      dat: "vodopoju"
+      ins: "vodopojem"
+      voc: "vodopoju"
+    plural: 
+      nom: "vodopoje"
+      acc: "vodopoje"
+      gen: "vodopojev"
+      loc: "vodopojah"
+      dat: "vodopojam"
+      ins: "vodopojami"
+      voc: "vodopoje"

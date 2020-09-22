@@ -1,0 +1,22 @@
+---
+  id: "23458"
+  word: "klavesin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klavesin"
+      acc: "klavesin"
+      gen: "klavesina"
+      loc: "klavesinu"
+      dat: "klavesinu"
+      ins: "klavesinom"
+      voc: "klavesine"
+    plural: 
+      nom: "klavesiny"
+      acc: "klavesiny"
+      gen: "klavesinov"
+      loc: "klavesinah"
+      dat: "klavesinam"
+      ins: "klavesinami"
+      voc: "klavesiny"

@@ -1,0 +1,22 @@
+---
+  id: "943"
+  word: "nagråda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nagråda"
+      acc: "nagrådų"
+      gen: "nagrådy"
+      loc: "nagrådě"
+      dat: "nagrådě"
+      ins: "nagrådojų"
+      voc: "nagrådo"
+    plural: 
+      nom: "nagrådy"
+      acc: "nagrådy"
+      gen: "nagråd"
+      loc: "nagrådah"
+      dat: "nagrådam"
+      ins: "nagrådami"
+      voc: "nagrådy"

@@ -1,0 +1,22 @@
+---
+  id: "23882"
+  word: "objezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "objezd"
+      acc: "objezd"
+      gen: "objezda"
+      loc: "objezdu"
+      dat: "objezdu"
+      ins: "objezdom"
+      voc: "objezde"
+    plural: 
+      nom: "objezdy"
+      acc: "objezdy"
+      gen: "objezdov"
+      loc: "objezdah"
+      dat: "objezdam"
+      ins: "objezdami"
+      voc: "objezdy"

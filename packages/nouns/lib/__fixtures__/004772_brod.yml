@@ -1,0 +1,22 @@
+---
+  id: "4772"
+  word: "brod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brod"
+      acc: "brod"
+      gen: "broda"
+      loc: "brodu"
+      dat: "brodu"
+      ins: "brodom"
+      voc: "brode"
+    plural: 
+      nom: "brody"
+      acc: "brody"
+      gen: "brodov"
+      loc: "brodah"
+      dat: "brodam"
+      ins: "brodami"
+      voc: "brody"

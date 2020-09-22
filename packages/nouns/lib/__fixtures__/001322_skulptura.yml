@@ -1,0 +1,22 @@
+---
+  id: "1322"
+  word: "skulptura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skulptura"
+      acc: "skulpturų"
+      gen: "skulptury"
+      loc: "skulpturě"
+      dat: "skulpturě"
+      ins: "skulpturojų"
+      voc: "skulpturo"
+    plural: 
+      nom: "skulptury"
+      acc: "skulptury"
+      gen: "skulptur"
+      loc: "skulpturah"
+      dat: "skulpturam"
+      ins: "skulpturami"
+      voc: "skulptury"

@@ -1,0 +1,23 @@
+---
+  id: "16423"
+  word: "drozd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drozd"
+      acc: "drozda"
+      gen: "drozda"
+      loc: "drozdu"
+      dat: "drozdu"
+      ins: "drozdom"
+      voc: "drozde"
+    plural: 
+      nom: "drozdi"
+      acc: "drozdov"
+      gen: "drozdov"
+      loc: "drozdah"
+      dat: "drozdam"
+      ins: "drozdami"
+      voc: "drozdi"

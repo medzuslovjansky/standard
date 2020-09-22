@@ -1,0 +1,23 @@
+---
+  id: "6305"
+  word: "strånnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "strånnik"
+      acc: "strånnika"
+      gen: "strånnika"
+      loc: "strånniku"
+      dat: "strånniku"
+      ins: "strånnikom"
+      voc: "strånniče"
+    plural: 
+      nom: "strånniki"
+      acc: "strånnikov"
+      gen: "strånnikov"
+      loc: "strånnikah"
+      dat: "strånnikam"
+      ins: "strånnikami"
+      voc: "strånniki"

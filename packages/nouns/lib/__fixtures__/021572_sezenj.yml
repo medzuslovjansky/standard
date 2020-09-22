@@ -1,0 +1,22 @@
+---
+  id: "21572"
+  word: "sęženj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sęženj"
+      acc: "sęženj"
+      gen: "sęženji"
+      loc: "sęženji"
+      dat: "sęženji"
+      ins: "sęženjjų"
+      voc: "sęženji"
+    plural: 
+      nom: "sęženji"
+      acc: "sęženji"
+      gen: "sęženjij"
+      loc: "sęženjah"
+      dat: "sęženjam"
+      ins: "sęženjami"
+      voc: "sęženji"

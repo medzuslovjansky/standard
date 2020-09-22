@@ -1,0 +1,22 @@
+---
+  id: "34096"
+  word: "amputacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "amputacija"
+      acc: "amputacijų"
+      gen: "amputacije"
+      loc: "amputaciji"
+      dat: "amputaciji"
+      ins: "amputacijejų"
+      voc: "amputacijo"
+    plural: 
+      nom: "amputacije"
+      acc: "amputacije"
+      gen: "amputacij"
+      loc: "amputacijah"
+      dat: "amputacijam"
+      ins: "amputacijami"
+      voc: "amputacije"

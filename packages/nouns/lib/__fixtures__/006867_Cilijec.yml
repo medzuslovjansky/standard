@@ -1,0 +1,23 @@
+---
+  id: "6867"
+  word: "Čilijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Čilijec"
+      acc: "Čilijca"
+      gen: "Čilijca"
+      loc: "Čilijcu"
+      dat: "Čilijcu"
+      ins: "Čilijcem"
+      voc: "Čilijče"
+    plural: 
+      nom: "Čilijci"
+      acc: "Čilijcev"
+      gen: "Čilijcev"
+      loc: "Čilijcah"
+      dat: "Čilijcam"
+      ins: "Čilijcami"
+      voc: "Čilijci"

@@ -1,0 +1,22 @@
+---
+  id: "951"
+  word: "mgla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mgla"
+      acc: "mglų"
+      gen: "mgly"
+      loc: "mglě"
+      dat: "mglě"
+      ins: "mglojų"
+      voc: "mglo"
+    plural: 
+      nom: "mgly"
+      acc: "mgly"
+      gen: "mgȯl"
+      loc: "mglah"
+      dat: "mglam"
+      ins: "mglami"
+      voc: "mgly"

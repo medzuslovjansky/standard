@@ -1,0 +1,22 @@
+---
+  id: "36624"
+  word: "plankton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plankton"
+      acc: "plankton"
+      gen: "planktona"
+      loc: "planktonu"
+      dat: "planktonu"
+      ins: "planktonom"
+      voc: "planktone"
+    plural: 
+      nom: "planktony"
+      acc: "planktony"
+      gen: "planktonov"
+      loc: "planktonah"
+      dat: "planktonam"
+      ins: "planktonami"
+      voc: "planktony"

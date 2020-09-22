@@ -1,0 +1,22 @@
+---
+  id: "11676"
+  word: "pustina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pustina"
+      acc: "pustinų"
+      gen: "pustiny"
+      loc: "pustině"
+      dat: "pustině"
+      ins: "pustinojų"
+      voc: "pustino"
+    plural: 
+      nom: "pustiny"
+      acc: "pustiny"
+      gen: "pustin"
+      loc: "pustinah"
+      dat: "pustinam"
+      ins: "pustinami"
+      voc: "pustiny"

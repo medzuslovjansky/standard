@@ -1,0 +1,22 @@
+---
+  id: "8462"
+  word: "klaviatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klaviatura"
+      acc: "klaviaturų"
+      gen: "klaviatury"
+      loc: "klaviaturě"
+      dat: "klaviaturě"
+      ins: "klaviaturojų"
+      voc: "klaviaturo"
+    plural: 
+      nom: "klaviatury"
+      acc: "klaviatury"
+      gen: "klaviatur"
+      loc: "klaviaturah"
+      dat: "klaviaturam"
+      ins: "klaviaturami"
+      voc: "klaviatury"

@@ -1,0 +1,22 @@
+---
+  id: "4280"
+  word: "širina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "širina"
+      acc: "širinų"
+      gen: "širiny"
+      loc: "širině"
+      dat: "širině"
+      ins: "širinojų"
+      voc: "širino"
+    plural: 
+      nom: "širiny"
+      acc: "širiny"
+      gen: "širin"
+      loc: "širinah"
+      dat: "širinam"
+      ins: "širinami"
+      voc: "širiny"

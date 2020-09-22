@@ -1,0 +1,23 @@
+---
+  id: "34761"
+  word: "kufer"
+  meta: 
+    irregularity: "(kufra)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kufėr"
+      acc: "kufėr"
+      gen: "kufra"
+      loc: "kufru"
+      dat: "kufru"
+      ins: "kufrom"
+      voc: "kufre"
+    plural: 
+      nom: "kufry"
+      acc: "kufry"
+      gen: "kufrov"
+      loc: "kufrah"
+      dat: "kufram"
+      ins: "kuframi"
+      voc: "kufry"

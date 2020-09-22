@@ -1,0 +1,22 @@
+---
+  id: "116"
+  word: "cicka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cicka"
+      acc: "cickų"
+      gen: "cicky"
+      loc: "cickě"
+      dat: "cickě"
+      ins: "cickojų"
+      voc: "cicko"
+    plural: 
+      nom: "cicky"
+      acc: "cicky"
+      gen: "cicek"
+      loc: "cickah"
+      dat: "cickam"
+      ins: "cickami"
+      voc: "cicky"

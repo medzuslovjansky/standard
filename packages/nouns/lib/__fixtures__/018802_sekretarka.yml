@@ -1,0 +1,22 @@
+---
+  id: "18802"
+  word: "sekretaŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sekretaŕka"
+      acc: "sekretaŕkų"
+      gen: "sekretaŕky"
+      loc: "sekretaŕkě"
+      dat: "sekretaŕkě"
+      ins: "sekretaŕkojų"
+      voc: "sekretaŕko"
+    plural: 
+      nom: "sekretaŕky"
+      acc: "sekretaŕky"
+      gen: "sekretaŕek"
+      loc: "sekretaŕkah"
+      dat: "sekretaŕkam"
+      ins: "sekretaŕkami"
+      voc: "sekretaŕky"

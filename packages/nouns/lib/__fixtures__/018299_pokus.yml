@@ -1,0 +1,22 @@
+---
+  id: "18299"
+  word: "pokus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pokus"
+      acc: "pokus"
+      gen: "pokusa"
+      loc: "pokusu"
+      dat: "pokusu"
+      ins: "pokusom"
+      voc: "pokuse"
+    plural: 
+      nom: "pokusy"
+      acc: "pokusy"
+      gen: "pokusov"
+      loc: "pokusah"
+      dat: "pokusam"
+      ins: "pokusami"
+      voc: "pokusy"

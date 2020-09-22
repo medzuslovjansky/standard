@@ -1,0 +1,22 @@
+---
+  id: "31776"
+  word: "interlingvistika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "interlingvistika"
+      acc: "interlingvistikų"
+      gen: "interlingvistiky"
+      loc: "interlingvistikě"
+      dat: "interlingvistikě"
+      ins: "interlingvistikojų"
+      voc: "interlingvistiko"
+    plural: 
+      nom: "interlingvistiky"
+      acc: "interlingvistiky"
+      gen: "interlingvistik"
+      loc: "interlingvistikah"
+      dat: "interlingvistikam"
+      ins: "interlingvistikami"
+      voc: "interlingvistiky"

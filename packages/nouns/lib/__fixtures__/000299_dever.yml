@@ -1,0 +1,23 @@
+---
+  id: "299"
+  word: "děveŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "děveŕ"
+      acc: "děveŕa"
+      gen: "děveŕa"
+      loc: "děveŕu"
+      dat: "děveŕu"
+      ins: "děveŕem"
+      voc: "děveŕu"
+    plural: 
+      nom: "děveri"
+      acc: "děveŕev"
+      gen: "děveŕev"
+      loc: "děveŕah"
+      dat: "děveŕam"
+      ins: "děveŕami"
+      voc: "děveri"

@@ -1,0 +1,22 @@
+---
+  id: "21737"
+  word: "nedostatȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nedostatȯk"
+      acc: "nedostatȯk"
+      gen: "nedostatka"
+      loc: "nedostatku"
+      dat: "nedostatku"
+      ins: "nedostatkom"
+      voc: "nedostatče"
+    plural: 
+      nom: "nedostatky"
+      acc: "nedostatky"
+      gen: "nedostatkov"
+      loc: "nedostatkah"
+      dat: "nedostatkam"
+      ins: "nedostatkami"
+      voc: "nedostatky"

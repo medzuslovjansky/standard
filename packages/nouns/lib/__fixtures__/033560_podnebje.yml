@@ -1,0 +1,22 @@
+---
+  id: "33560"
+  word: "podnebje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podnebje"
+      acc: "podnebje"
+      gen: "podnebja"
+      loc: "podnebju"
+      dat: "podnebju"
+      ins: "podnebjem"
+      voc: "podnebje"
+    plural: 
+      nom: "podnebja"
+      acc: "podnebja"
+      gen: "podnebij"
+      loc: "podnebjah"
+      dat: "podnebjam"
+      ins: "podnebjami"
+      voc: "podnebja"

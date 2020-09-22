@@ -1,0 +1,22 @@
+---
+  id: "23159"
+  word: "šampon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šampon"
+      acc: "šampon"
+      gen: "šampona"
+      loc: "šamponu"
+      dat: "šamponu"
+      ins: "šamponom"
+      voc: "šampone"
+    plural: 
+      nom: "šampony"
+      acc: "šampony"
+      gen: "šamponov"
+      loc: "šamponah"
+      dat: "šamponam"
+      ins: "šamponami"
+      voc: "šampony"

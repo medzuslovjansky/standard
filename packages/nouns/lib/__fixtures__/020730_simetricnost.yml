@@ -1,0 +1,22 @@
+---
+  id: "20730"
+  word: "simetričnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "simetričnosť"
+      acc: "simetričnosť"
+      gen: "simetričnosti"
+      loc: "simetričnosti"
+      dat: "simetričnosti"
+      ins: "simetričnosťjų"
+      voc: "simetričnosti"
+    plural: 
+      nom: "simetričnosti"
+      acc: "simetričnosti"
+      gen: "simetričnostij"
+      loc: "simetričnosťah"
+      dat: "simetričnosťam"
+      ins: "simetričnosťami"
+      voc: "simetričnosti"

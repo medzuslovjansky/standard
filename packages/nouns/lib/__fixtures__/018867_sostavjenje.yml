@@ -1,0 +1,22 @@
+---
+  id: "18867"
+  word: "sȯstavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯstavjeńje"
+      acc: "sȯstavjeńje"
+      gen: "sȯstavjeńja"
+      loc: "sȯstavjeńju"
+      dat: "sȯstavjeńju"
+      ins: "sȯstavjeńjem"
+      voc: "sȯstavjeńje"
+    plural: 
+      nom: "sȯstavjeńja"
+      acc: "sȯstavjeńja"
+      gen: "sȯstavjenij"
+      loc: "sȯstavjeńjah"
+      dat: "sȯstavjeńjam"
+      ins: "sȯstavjeńjami"
+      voc: "sȯstavjeńja"

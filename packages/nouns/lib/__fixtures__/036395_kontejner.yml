@@ -1,0 +1,22 @@
+---
+  id: "36395"
+  word: "kontejner"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontejner"
+      acc: "kontejner"
+      gen: "kontejnera"
+      loc: "kontejneru"
+      dat: "kontejneru"
+      ins: "kontejnerom"
+      voc: "kontejnere"
+    plural: 
+      nom: "kontejnery"
+      acc: "kontejnery"
+      gen: "kontejnerov"
+      loc: "kontejnerah"
+      dat: "kontejneram"
+      ins: "kontejnerami"
+      voc: "kontejnery"

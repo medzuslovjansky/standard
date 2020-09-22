@@ -1,0 +1,22 @@
+---
+  id: "15436"
+  word: "pikirovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pikirovka"
+      acc: "pikirovkų"
+      gen: "pikirovky"
+      loc: "pikirovkě"
+      dat: "pikirovkě"
+      ins: "pikirovkojų"
+      voc: "pikirovko"
+    plural: 
+      nom: "pikirovky"
+      acc: "pikirovky"
+      gen: "pikirovȯk"
+      loc: "pikirovkah"
+      dat: "pikirovkam"
+      ins: "pikirovkami"
+      voc: "pikirovky"

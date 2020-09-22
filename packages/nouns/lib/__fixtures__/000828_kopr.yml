@@ -1,0 +1,22 @@
+---
+  id: "828"
+  word: "kopr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kopr"
+      acc: "kopr"
+      gen: "kopra"
+      loc: "kopru"
+      dat: "kopru"
+      ins: "koprom"
+      voc: "kopre"
+    plural: 
+      nom: "kopry"
+      acc: "kopry"
+      gen: "koprov"
+      loc: "koprah"
+      dat: "kopram"
+      ins: "koprami"
+      voc: "kopry"

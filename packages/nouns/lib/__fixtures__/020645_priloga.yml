@@ -1,0 +1,22 @@
+---
+  id: "20645"
+  word: "priloga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "priloga"
+      acc: "prilogų"
+      gen: "prilogy"
+      loc: "prilogě"
+      dat: "prilogě"
+      ins: "prilogojų"
+      voc: "prilogo"
+    plural: 
+      nom: "prilogy"
+      acc: "prilogy"
+      gen: "prilog"
+      loc: "prilogah"
+      dat: "prilogam"
+      ins: "prilogami"
+      voc: "prilogy"

@@ -1,0 +1,22 @@
+---
+  id: "19257"
+  word: "vsesvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vsesvět"
+      acc: "vsesvět"
+      gen: "vsesvěta"
+      loc: "vsesvětu"
+      dat: "vsesvětu"
+      ins: "vsesvětom"
+      voc: "vsesvěte"
+    plural: 
+      nom: "vsesvěty"
+      acc: "vsesvěty"
+      gen: "vsesvětov"
+      loc: "vsesvětah"
+      dat: "vsesvětam"
+      ins: "vsesvětami"
+      voc: "vsesvěty"

@@ -1,0 +1,15 @@
+---
+  id: "12626"
+  word: "stonańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "stonańje"
+      acc: "stonańje"
+      gen: "stonańja"
+      loc: "stonańju"
+      dat: "stonańju"
+      ins: "stonańjem"
+      voc: "stonańje"

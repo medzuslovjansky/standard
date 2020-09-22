@@ -1,0 +1,22 @@
+---
+  id: "9772"
+  word: "oběćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oběćańje"
+      acc: "oběćańje"
+      gen: "oběćańja"
+      loc: "oběćańju"
+      dat: "oběćańju"
+      ins: "oběćańjem"
+      voc: "oběćańje"
+    plural: 
+      nom: "oběćańja"
+      acc: "oběćańja"
+      gen: "oběćanij"
+      loc: "oběćańjah"
+      dat: "oběćańjam"
+      ins: "oběćańjami"
+      voc: "oběćańja"

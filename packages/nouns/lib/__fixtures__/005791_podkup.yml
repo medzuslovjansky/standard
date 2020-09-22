@@ -1,0 +1,22 @@
+---
+  id: "5791"
+  word: "podkup"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podkup"
+      acc: "podkup"
+      gen: "podkupa"
+      loc: "podkupu"
+      dat: "podkupu"
+      ins: "podkupom"
+      voc: "podkupe"
+    plural: 
+      nom: "podkupy"
+      acc: "podkupy"
+      gen: "podkupov"
+      loc: "podkupah"
+      dat: "podkupam"
+      ins: "podkupami"
+      voc: "podkupy"

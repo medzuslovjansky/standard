@@ -1,0 +1,22 @@
+---
+  id: "28782"
+  word: "oblåčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oblåčeńje"
+      acc: "oblåčeńje"
+      gen: "oblåčeńja"
+      loc: "oblåčeńju"
+      dat: "oblåčeńju"
+      ins: "oblåčeńjem"
+      voc: "oblåčeńje"
+    plural: 
+      nom: "oblåčeńja"
+      acc: "oblåčeńja"
+      gen: "oblåčenij"
+      loc: "oblåčeńjah"
+      dat: "oblåčeńjam"
+      ins: "oblåčeńjami"
+      voc: "oblåčeńja"

@@ -1,0 +1,22 @@
+---
+  id: "22939"
+  word: "prěžitȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěžitȯk"
+      acc: "prěžitȯk"
+      gen: "prěžitka"
+      loc: "prěžitku"
+      dat: "prěžitku"
+      ins: "prěžitkom"
+      voc: "prěžitče"
+    plural: 
+      nom: "prěžitky"
+      acc: "prěžitky"
+      gen: "prěžitkov"
+      loc: "prěžitkah"
+      dat: "prěžitkam"
+      ins: "prěžitkami"
+      voc: "prěžitky"

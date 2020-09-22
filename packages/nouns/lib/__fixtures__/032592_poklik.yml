@@ -1,0 +1,22 @@
+---
+  id: "32592"
+  word: "poklik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poklik"
+      acc: "poklik"
+      gen: "poklika"
+      loc: "pokliku"
+      dat: "pokliku"
+      ins: "poklikom"
+      voc: "pokliče"
+    plural: 
+      nom: "pokliky"
+      acc: "pokliky"
+      gen: "poklikov"
+      loc: "poklikah"
+      dat: "poklikam"
+      ins: "poklikami"
+      voc: "pokliky"

@@ -1,0 +1,22 @@
+---
+  id: "24210"
+  word: "akušerka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akušerka"
+      acc: "akušerkų"
+      gen: "akušerky"
+      loc: "akušerkě"
+      dat: "akušerkě"
+      ins: "akušerkojų"
+      voc: "akušerko"
+    plural: 
+      nom: "akušerky"
+      acc: "akušerky"
+      gen: "akušerȯk"
+      loc: "akušerkah"
+      dat: "akušerkam"
+      ins: "akušerkami"
+      voc: "akušerky"

@@ -1,0 +1,15 @@
+---
+  id: "35961"
+  word: "sabljevańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sabljevańje"
+      acc: "sabljevańje"
+      gen: "sabljevańja"
+      loc: "sabljevańju"
+      dat: "sabljevańju"
+      ins: "sabljevańjem"
+      voc: "sabljevańje"

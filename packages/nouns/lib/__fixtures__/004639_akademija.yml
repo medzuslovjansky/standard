@@ -1,0 +1,22 @@
+---
+  id: "4639"
+  word: "akademija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akademija"
+      acc: "akademijų"
+      gen: "akademije"
+      loc: "akademiji"
+      dat: "akademiji"
+      ins: "akademijejų"
+      voc: "akademijo"
+    plural: 
+      nom: "akademije"
+      acc: "akademije"
+      gen: "akademij"
+      loc: "akademijah"
+      dat: "akademijam"
+      ins: "akademijami"
+      voc: "akademije"

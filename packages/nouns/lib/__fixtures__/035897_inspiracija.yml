@@ -1,0 +1,22 @@
+---
+  id: "35897"
+  word: "inspiracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inspiracija"
+      acc: "inspiracijų"
+      gen: "inspiracije"
+      loc: "inspiraciji"
+      dat: "inspiraciji"
+      ins: "inspiracijejų"
+      voc: "inspiracijo"
+    plural: 
+      nom: "inspiracije"
+      acc: "inspiracije"
+      gen: "inspiracij"
+      loc: "inspiracijah"
+      dat: "inspiracijam"
+      ins: "inspiracijami"
+      voc: "inspiracije"

@@ -1,0 +1,23 @@
+---
+  id: "34973"
+  word: "udačnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "udačnik"
+      acc: "udačnika"
+      gen: "udačnika"
+      loc: "udačniku"
+      dat: "udačniku"
+      ins: "udačnikom"
+      voc: "udačniče"
+    plural: 
+      nom: "udačniki"
+      acc: "udačnikov"
+      gen: "udačnikov"
+      loc: "udačnikah"
+      dat: "udačnikam"
+      ins: "udačnikami"
+      voc: "udačniki"

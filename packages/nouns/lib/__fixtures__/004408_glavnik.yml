@@ -1,0 +1,23 @@
+---
+  id: "4408"
+  word: "glåvnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glåvnik"
+      acc: "glåvnika"
+      gen: "glåvnika"
+      loc: "glåvniku"
+      dat: "glåvniku"
+      ins: "glåvnikom"
+      voc: "glåvniče"
+    plural: 
+      nom: "glåvniki"
+      acc: "glåvnikov"
+      gen: "glåvnikov"
+      loc: "glåvnikah"
+      dat: "glåvnikam"
+      ins: "glåvnikami"
+      voc: "glåvniki"

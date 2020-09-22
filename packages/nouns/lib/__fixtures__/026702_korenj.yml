@@ -1,0 +1,22 @@
+---
+  id: "26702"
+  word: "korenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koren / korenj"
+      acc: "koren / korenj"
+      gen: "korene / korenja"
+      loc: "koreni / korenju"
+      dat: "koreni / korenju"
+      ins: "korenem / korenjem"
+      voc: "koren / korenju"
+    plural: 
+      nom: "koreni / korenje"
+      acc: "koreni / korenje"
+      gen: "korenev / korenjev"
+      loc: "korenah / korenjah"
+      dat: "korenam / korenjam"
+      ins: "korenami / korenjami"
+      voc: "koreni / korenje"

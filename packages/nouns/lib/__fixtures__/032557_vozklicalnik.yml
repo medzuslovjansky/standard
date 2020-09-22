@@ -1,0 +1,22 @@
+---
+  id: "32557"
+  word: "vȯzklicaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzklicaľnik"
+      acc: "vȯzklicaľnik"
+      gen: "vȯzklicaľnika"
+      loc: "vȯzklicaľniku"
+      dat: "vȯzklicaľniku"
+      ins: "vȯzklicaľnikom"
+      voc: "vȯzklicaľniče"
+    plural: 
+      nom: "vȯzklicaľniky"
+      acc: "vȯzklicaľniky"
+      gen: "vȯzklicaľnikov"
+      loc: "vȯzklicaľnikah"
+      dat: "vȯzklicaľnikam"
+      ins: "vȯzklicaľnikami"
+      voc: "vȯzklicaľniky"

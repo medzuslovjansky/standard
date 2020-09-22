@@ -1,0 +1,23 @@
+---
+  id: "23809"
+  word: "samoljubec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "samoljubec"
+      acc: "samoljubca"
+      gen: "samoljubca"
+      loc: "samoljubcu"
+      dat: "samoljubcu"
+      ins: "samoljubcem"
+      voc: "samoljubče"
+    plural: 
+      nom: "samoljubci"
+      acc: "samoljubcev"
+      gen: "samoljubcev"
+      loc: "samoljubcah"
+      dat: "samoljubcam"
+      ins: "samoljubcami"
+      voc: "samoljubci"

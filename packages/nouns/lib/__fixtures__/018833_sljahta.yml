@@ -1,0 +1,22 @@
+---
+  id: "18833"
+  word: "šljahta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šljahta"
+      acc: "šljahtų"
+      gen: "šljahty"
+      loc: "šljahtě"
+      dat: "šljahtě"
+      ins: "šljahtojų"
+      voc: "šljahto"
+    plural: 
+      nom: "šljahty"
+      acc: "šljahty"
+      gen: "šljaht"
+      loc: "šljahtah"
+      dat: "šljahtam"
+      ins: "šljahtami"
+      voc: "šljahty"

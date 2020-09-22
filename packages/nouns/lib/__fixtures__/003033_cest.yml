@@ -1,0 +1,22 @@
+---
+  id: "3033"
+  word: "česť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "česť"
+      acc: "česť"
+      gen: "česti"
+      loc: "česti"
+      dat: "česti"
+      ins: "česťjų"
+      voc: "česti"
+    plural: 
+      nom: "česti"
+      acc: "česti"
+      gen: "čestij"
+      loc: "česťah"
+      dat: "česťam"
+      ins: "česťami"
+      voc: "česti"

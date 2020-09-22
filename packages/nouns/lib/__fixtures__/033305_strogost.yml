@@ -1,0 +1,22 @@
+---
+  id: "33305"
+  word: "strogosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strogosť"
+      acc: "strogosť"
+      gen: "strogosti"
+      loc: "strogosti"
+      dat: "strogosti"
+      ins: "strogosťjų"
+      voc: "strogosti"
+    plural: 
+      nom: "strogosti"
+      acc: "strogosti"
+      gen: "strogostij"
+      loc: "strogosťah"
+      dat: "strogosťam"
+      ins: "strogosťami"
+      voc: "strogosti"

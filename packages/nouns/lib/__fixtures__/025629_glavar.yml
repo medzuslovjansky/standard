@@ -1,0 +1,23 @@
+---
+  id: "25629"
+  word: "glåvaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glåvaŕ"
+      acc: "glåvaŕa"
+      gen: "glåvaŕa"
+      loc: "glåvaŕu"
+      dat: "glåvaŕu"
+      ins: "glåvaŕem"
+      voc: "glåvaŕu"
+    plural: 
+      nom: "glåvari"
+      acc: "glåvaŕev"
+      gen: "glåvaŕev"
+      loc: "glåvaŕah"
+      dat: "glåvaŕam"
+      ins: "glåvaŕami"
+      voc: "glåvari"

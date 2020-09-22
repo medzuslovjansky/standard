@@ -1,0 +1,22 @@
+---
+  id: "23448"
+  word: "orkestr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "orkestr"
+      acc: "orkestr"
+      gen: "orkestra"
+      loc: "orkestru"
+      dat: "orkestru"
+      ins: "orkestrom"
+      voc: "orkestre"
+    plural: 
+      nom: "orkestry"
+      acc: "orkestry"
+      gen: "orkestrov"
+      loc: "orkestrah"
+      dat: "orkestram"
+      ins: "orkestrami"
+      voc: "orkestry"

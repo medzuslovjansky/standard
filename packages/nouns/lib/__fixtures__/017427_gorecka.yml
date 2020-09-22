@@ -1,0 +1,22 @@
+---
+  id: "17427"
+  word: "goręčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "goręčka"
+      acc: "goręčkų"
+      gen: "goręčky"
+      loc: "goręčkě"
+      dat: "goręčkě"
+      ins: "goręčkojų"
+      voc: "goręčko"
+    plural: 
+      nom: "goręčky"
+      acc: "goręčky"
+      gen: "goręček"
+      loc: "goręčkah"
+      dat: "goręčkam"
+      ins: "goręčkami"
+      voc: "goręčky"

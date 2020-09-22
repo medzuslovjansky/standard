@@ -1,0 +1,22 @@
+---
+  id: "2457"
+  word: "blondinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blondinka"
+      acc: "blondinkų"
+      gen: "blondinky"
+      loc: "blondinkě"
+      dat: "blondinkě"
+      ins: "blondinkojų"
+      voc: "blondinko"
+    plural: 
+      nom: "blondinky"
+      acc: "blondinky"
+      gen: "blondinȯk"
+      loc: "blondinkah"
+      dat: "blondinkam"
+      ins: "blondinkami"
+      voc: "blondinky"

@@ -1,0 +1,22 @@
+---
+  id: "34772"
+  word: "nedvižimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedvižimosť"
+      acc: "nedvižimosť"
+      gen: "nedvižimosti"
+      loc: "nedvižimosti"
+      dat: "nedvižimosti"
+      ins: "nedvižimosťjų"
+      voc: "nedvižimosti"
+    plural: 
+      nom: "nedvižimosti"
+      acc: "nedvižimosti"
+      gen: "nedvižimostij"
+      loc: "nedvižimosťah"
+      dat: "nedvižimosťam"
+      ins: "nedvižimosťami"
+      voc: "nedvižimosti"

@@ -1,0 +1,22 @@
+---
+  id: "7988"
+  word: "izčezneńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izčezneńje"
+      acc: "izčezneńje"
+      gen: "izčezneńja"
+      loc: "izčezneńju"
+      dat: "izčezneńju"
+      ins: "izčezneńjem"
+      voc: "izčezneńje"
+    plural: 
+      nom: "izčezneńja"
+      acc: "izčezneńja"
+      gen: "izčeznenij"
+      loc: "izčezneńjah"
+      dat: "izčezneńjam"
+      ins: "izčezneńjami"
+      voc: "izčezneńja"

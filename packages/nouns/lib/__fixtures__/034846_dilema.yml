@@ -1,0 +1,22 @@
+---
+  id: "34846"
+  word: "dilema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dilema"
+      acc: "dilemų"
+      gen: "dilemy"
+      loc: "dilemě"
+      dat: "dilemě"
+      ins: "dilemojų"
+      voc: "dilemo"
+    plural: 
+      nom: "dilemy"
+      acc: "dilemy"
+      gen: "dilem"
+      loc: "dilemah"
+      dat: "dilemam"
+      ins: "dilemami"
+      voc: "dilemy"

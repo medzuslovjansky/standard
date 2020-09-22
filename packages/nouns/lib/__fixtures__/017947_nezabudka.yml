@@ -1,0 +1,22 @@
+---
+  id: "17947"
+  word: "nezabųďka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nezabųďka"
+      acc: "nezabųďkų"
+      gen: "nezabųďky"
+      loc: "nezabųďkě"
+      dat: "nezabųďkě"
+      ins: "nezabųďkojų"
+      voc: "nezabųďko"
+    plural: 
+      nom: "nezabųďky"
+      acc: "nezabųďky"
+      gen: "nezabųďek"
+      loc: "nezabųďkah"
+      dat: "nezabųďkam"
+      ins: "nezabųďkami"
+      voc: "nezabųďky"

@@ -1,0 +1,23 @@
+---
+  id: "36748"
+  word: "autist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "autist"
+      acc: "autista"
+      gen: "autista"
+      loc: "autistu"
+      dat: "autistu"
+      ins: "autistom"
+      voc: "autiste"
+    plural: 
+      nom: "autisti"
+      acc: "autistov"
+      gen: "autistov"
+      loc: "autistah"
+      dat: "autistam"
+      ins: "autistami"
+      voc: "autisti"

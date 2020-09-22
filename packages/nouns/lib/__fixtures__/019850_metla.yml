@@ -1,0 +1,22 @@
+---
+  id: "19850"
+  word: "metla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "metla"
+      acc: "metlų"
+      gen: "metly"
+      loc: "metlě"
+      dat: "metlě"
+      ins: "metlojų"
+      voc: "metlo"
+    plural: 
+      nom: "metly"
+      acc: "metly"
+      gen: "metȯl"
+      loc: "metlah"
+      dat: "metlam"
+      ins: "metlami"
+      voc: "metly"

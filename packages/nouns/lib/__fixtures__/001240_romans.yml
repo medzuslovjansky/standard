@@ -1,0 +1,15 @@
+---
+  id: "1240"
+  word: "romanš"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "romanš"
+      acc: "romanš"
+      gen: "romanša"
+      loc: "romanšu"
+      dat: "romanšu"
+      ins: "romanšem"
+      voc: "romanšu"

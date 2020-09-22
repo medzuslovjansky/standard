@@ -1,0 +1,22 @@
+---
+  id: "13677"
+  word: "vlasť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlasť"
+      acc: "vlasť"
+      gen: "vlasti"
+      loc: "vlasti"
+      dat: "vlasti"
+      ins: "vlasťjų"
+      voc: "vlasti"
+    plural: 
+      nom: "vlasti"
+      acc: "vlasti"
+      gen: "vlastij"
+      loc: "vlasťah"
+      dat: "vlasťam"
+      ins: "vlasťami"
+      voc: "vlasti"

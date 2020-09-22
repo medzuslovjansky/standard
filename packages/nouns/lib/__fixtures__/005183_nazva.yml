@@ -1,0 +1,22 @@
+---
+  id: "5183"
+  word: "nazva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nazva"
+      acc: "nazvų"
+      gen: "nazvy"
+      loc: "nazvě"
+      dat: "nazvě"
+      ins: "nazvojų"
+      voc: "nazvo"
+    plural: 
+      nom: "nazvy"
+      acc: "nazvy"
+      gen: "nazv"
+      loc: "nazvah"
+      dat: "nazvam"
+      ins: "nazvami"
+      voc: "nazvy"

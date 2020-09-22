@@ -1,0 +1,22 @@
+---
+  id: "16733"
+  word: "izdańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izdańje"
+      acc: "izdańje"
+      gen: "izdańja"
+      loc: "izdańju"
+      dat: "izdańju"
+      ins: "izdańjem"
+      voc: "izdańje"
+    plural: 
+      nom: "izdańja"
+      acc: "izdańja"
+      gen: "izdanij"
+      loc: "izdańjah"
+      dat: "izdańjam"
+      ins: "izdańjami"
+      voc: "izdańja"

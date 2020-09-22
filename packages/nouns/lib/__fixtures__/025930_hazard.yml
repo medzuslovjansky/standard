@@ -1,0 +1,22 @@
+---
+  id: "25930"
+  word: "hazard"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hazard"
+      acc: "hazard"
+      gen: "hazarda"
+      loc: "hazardu"
+      dat: "hazardu"
+      ins: "hazardom"
+      voc: "hazarde"
+    plural: 
+      nom: "hazardy"
+      acc: "hazardy"
+      gen: "hazardov"
+      loc: "hazardah"
+      dat: "hazardam"
+      ins: "hazardami"
+      voc: "hazardy"

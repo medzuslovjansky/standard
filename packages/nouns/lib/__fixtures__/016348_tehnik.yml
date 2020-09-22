@@ -1,0 +1,23 @@
+---
+  id: "16348"
+  word: "tehnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tehnik"
+      acc: "tehnika"
+      gen: "tehnika"
+      loc: "tehniku"
+      dat: "tehniku"
+      ins: "tehnikom"
+      voc: "tehniče"
+    plural: 
+      nom: "tehniki"
+      acc: "tehnikov"
+      gen: "tehnikov"
+      loc: "tehnikah"
+      dat: "tehnikam"
+      ins: "tehnikami"
+      voc: "tehniki"

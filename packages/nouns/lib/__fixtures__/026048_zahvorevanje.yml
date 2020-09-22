@@ -1,0 +1,22 @@
+---
+  id: "26048"
+  word: "zahvorěvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zahvorěvańje"
+      acc: "zahvorěvańje"
+      gen: "zahvorěvańja"
+      loc: "zahvorěvańju"
+      dat: "zahvorěvańju"
+      ins: "zahvorěvańjem"
+      voc: "zahvorěvańje"
+    plural: 
+      nom: "zahvorěvańja"
+      acc: "zahvorěvańja"
+      gen: "zahvorěvanij"
+      loc: "zahvorěvańjah"
+      dat: "zahvorěvańjam"
+      ins: "zahvorěvańjami"
+      voc: "zahvorěvańja"

@@ -1,0 +1,22 @@
+---
+  id: "13734"
+  word: "vojsko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vojsko"
+      acc: "vojsko"
+      gen: "vojska"
+      loc: "vojsku"
+      dat: "vojsku"
+      ins: "vojskom"
+      voc: "vojsko"
+    plural: 
+      nom: "vojska"
+      acc: "vojska"
+      gen: "vojsk"
+      loc: "vojskah"
+      dat: "vojskam"
+      ins: "vojskami"
+      voc: "vojska"

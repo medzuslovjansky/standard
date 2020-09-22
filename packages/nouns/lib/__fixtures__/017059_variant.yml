@@ -1,0 +1,22 @@
+---
+  id: "17059"
+  word: "variant"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "variant"
+      acc: "variant"
+      gen: "varianta"
+      loc: "variantu"
+      dat: "variantu"
+      ins: "variantom"
+      voc: "variante"
+    plural: 
+      nom: "varianty"
+      acc: "varianty"
+      gen: "variantov"
+      loc: "variantah"
+      dat: "variantam"
+      ins: "variantami"
+      voc: "varianty"

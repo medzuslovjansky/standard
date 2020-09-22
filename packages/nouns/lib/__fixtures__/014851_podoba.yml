@@ -1,0 +1,22 @@
+---
+  id: "14851"
+  word: "podoba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podoba"
+      acc: "podobų"
+      gen: "podoby"
+      loc: "podobě"
+      dat: "podobě"
+      ins: "podobojų"
+      voc: "podobo"
+    plural: 
+      nom: "podoby"
+      acc: "podoby"
+      gen: "podob"
+      loc: "podobah"
+      dat: "podobam"
+      ins: "podobami"
+      voc: "podoby"

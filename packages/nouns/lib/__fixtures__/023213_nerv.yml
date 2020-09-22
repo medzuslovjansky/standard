@@ -1,0 +1,22 @@
+---
+  id: "23213"
+  word: "nerv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nerv"
+      acc: "nerv"
+      gen: "nerva"
+      loc: "nervu"
+      dat: "nervu"
+      ins: "nervom"
+      voc: "nerve"
+    plural: 
+      nom: "nervy"
+      acc: "nervy"
+      gen: "nervov"
+      loc: "nervah"
+      dat: "nervam"
+      ins: "nervami"
+      voc: "nervy"

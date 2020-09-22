@@ -1,0 +1,22 @@
+---
+  id: "24522"
+  word: "barbaris"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barbaris"
+      acc: "barbaris"
+      gen: "barbarisa"
+      loc: "barbarisu"
+      dat: "barbarisu"
+      ins: "barbarisom"
+      voc: "barbarise"
+    plural: 
+      nom: "barbarisy"
+      acc: "barbarisy"
+      gen: "barbarisov"
+      loc: "barbarisah"
+      dat: "barbarisam"
+      ins: "barbarisami"
+      voc: "barbarisy"

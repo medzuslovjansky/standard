@@ -1,0 +1,22 @@
+---
+  id: "17362"
+  word: "dvusmysľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvusmysľnosť"
+      acc: "dvusmysľnosť"
+      gen: "dvusmysľnosti"
+      loc: "dvusmysľnosti"
+      dat: "dvusmysľnosti"
+      ins: "dvusmysľnosťjų"
+      voc: "dvusmysľnosti"
+    plural: 
+      nom: "dvusmysľnosti"
+      acc: "dvusmysľnosti"
+      gen: "dvusmysľnostij"
+      loc: "dvusmysľnosťah"
+      dat: "dvusmysľnosťam"
+      ins: "dvusmysľnosťami"
+      voc: "dvusmysľnosti"

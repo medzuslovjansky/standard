@@ -1,0 +1,15 @@
+---
+  id: "24520"
+  word: "baranina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "baranina"
+      acc: "baraninų"
+      gen: "baraniny"
+      loc: "baranině"
+      dat: "baranině"
+      ins: "baraninojų"
+      voc: "baranino"

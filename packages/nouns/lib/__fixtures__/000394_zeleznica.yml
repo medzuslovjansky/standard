@@ -1,0 +1,22 @@
+---
+  id: "394"
+  word: "želěznica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "želěznica"
+      acc: "želěznicų"
+      gen: "želěznice"
+      loc: "želěznici"
+      dat: "želěznici"
+      ins: "želěznicejų"
+      voc: "želěznico"
+    plural: 
+      nom: "želěznice"
+      acc: "želěznice"
+      gen: "želěznic"
+      loc: "želěznicah"
+      dat: "želěznicam"
+      ins: "želěznicami"
+      voc: "želěznice"

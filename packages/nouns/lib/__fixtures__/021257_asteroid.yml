@@ -1,0 +1,22 @@
+---
+  id: "21257"
+  word: "asteroid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "asteroid"
+      acc: "asteroid"
+      gen: "asteroida"
+      loc: "asteroidu"
+      dat: "asteroidu"
+      ins: "asteroidom"
+      voc: "asteroide"
+    plural: 
+      nom: "asteroidy"
+      acc: "asteroidy"
+      gen: "asteroidov"
+      loc: "asteroidah"
+      dat: "asteroidam"
+      ins: "asteroidami"
+      voc: "asteroidy"

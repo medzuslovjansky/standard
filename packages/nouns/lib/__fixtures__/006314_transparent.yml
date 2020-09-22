@@ -1,0 +1,22 @@
+---
+  id: "6314"
+  word: "transparent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "transparent"
+      acc: "transparent"
+      gen: "transparenta"
+      loc: "transparentu"
+      dat: "transparentu"
+      ins: "transparentom"
+      voc: "transparente"
+    plural: 
+      nom: "transparenty"
+      acc: "transparenty"
+      gen: "transparentov"
+      loc: "transparentah"
+      dat: "transparentam"
+      ins: "transparentami"
+      voc: "transparenty"

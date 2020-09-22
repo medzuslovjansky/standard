@@ -1,0 +1,22 @@
+---
+  id: "1417"
+  word: "kirilica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kirilica"
+      acc: "kirilicų"
+      gen: "kirilice"
+      loc: "kirilici"
+      dat: "kirilici"
+      ins: "kirilicejų"
+      voc: "kirilico"
+    plural: 
+      nom: "kirilice"
+      acc: "kirilice"
+      gen: "kirilic"
+      loc: "kirilicah"
+      dat: "kirilicam"
+      ins: "kirilicami"
+      voc: "kirilice"

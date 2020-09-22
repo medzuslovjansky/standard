@@ -1,0 +1,22 @@
+---
+  id: "1238"
+  word: "rěšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rěšeńje"
+      acc: "rěšeńje"
+      gen: "rěšeńja"
+      loc: "rěšeńju"
+      dat: "rěšeńju"
+      ins: "rěšeńjem"
+      voc: "rěšeńje"
+    plural: 
+      nom: "rěšeńja"
+      acc: "rěšeńja"
+      gen: "rěšenij"
+      loc: "rěšeńjah"
+      dat: "rěšeńjam"
+      ins: "rěšeńjami"
+      voc: "rěšeńja"

@@ -1,0 +1,22 @@
+---
+  id: "18309"
+  word: "pončik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pončik"
+      acc: "pončik"
+      gen: "pončika"
+      loc: "pončiku"
+      dat: "pončiku"
+      ins: "pončikom"
+      voc: "pončiče"
+    plural: 
+      nom: "pončiky"
+      acc: "pončiky"
+      gen: "pončikov"
+      loc: "pončikah"
+      dat: "pončikam"
+      ins: "pončikami"
+      voc: "pončiky"

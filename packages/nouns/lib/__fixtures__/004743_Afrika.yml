@@ -1,0 +1,15 @@
+---
+  id: "4743"
+  word: "Afrika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Afrika"
+      acc: "Afrikų"
+      gen: "Afriky"
+      loc: "Afrikě"
+      dat: "Afrikě"
+      ins: "Afrikojų"
+      voc: "Afriko"

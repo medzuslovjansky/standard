@@ -1,0 +1,22 @@
+---
+  id: "1205"
+  word: "nizina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nizina"
+      acc: "nizinų"
+      gen: "niziny"
+      loc: "nizině"
+      dat: "nizině"
+      ins: "nizinojų"
+      voc: "nizino"
+    plural: 
+      nom: "niziny"
+      acc: "niziny"
+      gen: "nizin"
+      loc: "nizinah"
+      dat: "nizinam"
+      ins: "nizinami"
+      voc: "niziny"

@@ -1,0 +1,15 @@
+---
+  id: "25392"
+  word: "drva"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "drva"
+      acc: "drva"
+      gen: "drv"
+      loc: "drvah"
+      dat: "drvam"
+      ins: "drvami"
+      voc: "drva"

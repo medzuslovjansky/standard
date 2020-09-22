@@ -1,0 +1,22 @@
+---
+  id: "36074"
+  word: "avokado"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "avokado"
+      acc: "avokado"
+      gen: "avokada"
+      loc: "avokadu"
+      dat: "avokadu"
+      ins: "avokadom"
+      voc: "avokado"
+    plural: 
+      nom: "avokada"
+      acc: "avokada"
+      gen: "avokad"
+      loc: "avokadah"
+      dat: "avokadam"
+      ins: "avokadami"
+      voc: "avokada"

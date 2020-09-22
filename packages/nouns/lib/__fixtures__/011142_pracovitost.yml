@@ -1,0 +1,22 @@
+---
+  id: "11142"
+  word: "pracovitosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pracovitosť"
+      acc: "pracovitosť"
+      gen: "pracovitosti"
+      loc: "pracovitosti"
+      dat: "pracovitosti"
+      ins: "pracovitosťjų"
+      voc: "pracovitosti"
+    plural: 
+      nom: "pracovitosti"
+      acc: "pracovitosti"
+      gen: "pracovitostij"
+      loc: "pracovitosťah"
+      dat: "pracovitosťam"
+      ins: "pracovitosťami"
+      voc: "pracovitosti"

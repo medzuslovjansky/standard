@@ -1,0 +1,22 @@
+---
+  id: "36006"
+  word: "opakovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opakovańje"
+      acc: "opakovańje"
+      gen: "opakovańja"
+      loc: "opakovańju"
+      dat: "opakovańju"
+      ins: "opakovańjem"
+      voc: "opakovańje"
+    plural: 
+      nom: "opakovańja"
+      acc: "opakovańja"
+      gen: "opakovanij"
+      loc: "opakovańjah"
+      dat: "opakovańjam"
+      ins: "opakovańjami"
+      voc: "opakovańja"

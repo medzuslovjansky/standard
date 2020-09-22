@@ -1,0 +1,22 @@
+---
+  id: "23784"
+  word: "proporcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "proporcija"
+      acc: "proporcijų"
+      gen: "proporcije"
+      loc: "proporciji"
+      dat: "proporciji"
+      ins: "proporcijejų"
+      voc: "proporcijo"
+    plural: 
+      nom: "proporcije"
+      acc: "proporcije"
+      gen: "proporcij"
+      loc: "proporcijah"
+      dat: "proporcijam"
+      ins: "proporcijami"
+      voc: "proporcije"

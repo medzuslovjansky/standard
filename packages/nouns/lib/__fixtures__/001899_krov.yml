@@ -1,0 +1,22 @@
+---
+  id: "1899"
+  word: "krȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krȯv"
+      acc: "krȯv"
+      gen: "krve / krvi"
+      loc: "krvi"
+      dat: "krvi"
+      ins: "krȯvjų"
+      voc: "krȯv"
+    plural: 
+      nom: "krvi"
+      acc: "krvi"
+      gen: "krvij"
+      loc: "krvah"
+      dat: "krvam"
+      ins: "krvami"
+      voc: "krvi"

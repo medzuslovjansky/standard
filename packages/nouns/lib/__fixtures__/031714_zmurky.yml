@@ -1,0 +1,15 @@
+---
+  id: "31714"
+  word: "žmurky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "žmurky"
+      acc: "žmurky"
+      gen: "žmurk"
+      loc: "žmurkah"
+      dat: "žmurkam"
+      ins: "žmurkami"
+      voc: "žmurky"

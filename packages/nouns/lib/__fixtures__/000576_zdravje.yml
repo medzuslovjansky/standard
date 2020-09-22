@@ -1,0 +1,22 @@
+---
+  id: "576"
+  word: "zdråvje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zdråvje"
+      acc: "zdråvje"
+      gen: "zdråvja"
+      loc: "zdråvju"
+      dat: "zdråvju"
+      ins: "zdråvjem"
+      voc: "zdråvje"
+    plural: 
+      nom: "zdråvja"
+      acc: "zdråvja"
+      gen: "zdråvij"
+      loc: "zdråvjah"
+      dat: "zdråvjam"
+      ins: "zdråvjami"
+      voc: "zdråvja"

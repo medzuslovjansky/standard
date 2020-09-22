@@ -1,0 +1,22 @@
+---
+  id: "25493"
+  word: "fatamorgana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fatamorgana"
+      acc: "fatamorganų"
+      gen: "fatamorgany"
+      loc: "fatamorganě"
+      dat: "fatamorganě"
+      ins: "fatamorganojų"
+      voc: "fatamorgano"
+    plural: 
+      nom: "fatamorgany"
+      acc: "fatamorgany"
+      gen: "fatamorgan"
+      loc: "fatamorganah"
+      dat: "fatamorganam"
+      ins: "fatamorganami"
+      voc: "fatamorgany"

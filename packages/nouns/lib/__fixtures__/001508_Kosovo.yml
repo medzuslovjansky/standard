@@ -1,0 +1,15 @@
+---
+  id: "1508"
+  word: "Kosovo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kosovo"
+      acc: "Kosovo"
+      gen: "Kosova"
+      loc: "Kosovu"
+      dat: "Kosovu"
+      ins: "Kosovom"
+      voc: "Kosovo"

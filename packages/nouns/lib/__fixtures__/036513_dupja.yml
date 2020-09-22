@@ -1,0 +1,22 @@
+---
+  id: "36513"
+  word: "dupja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dupja"
+      acc: "dupjų"
+      gen: "dupje"
+      loc: "dupji"
+      dat: "dupji"
+      ins: "dupjejų"
+      voc: "dupjo"
+    plural: 
+      nom: "dupje"
+      acc: "dupje"
+      gen: "dupej"
+      loc: "dupjah"
+      dat: "dupjam"
+      ins: "dupjami"
+      voc: "dupje"

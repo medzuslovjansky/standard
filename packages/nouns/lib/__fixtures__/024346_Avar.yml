@@ -1,0 +1,23 @@
+---
+  id: "24346"
+  word: "Avar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Avar"
+      acc: "Avara"
+      gen: "Avara"
+      loc: "Avaru"
+      dat: "Avaru"
+      ins: "Avarom"
+      voc: "Avare"
+    plural: 
+      nom: "Avari"
+      acc: "Avarov"
+      gen: "Avarov"
+      loc: "Avarah"
+      dat: "Avaram"
+      ins: "Avarami"
+      voc: "Avari"

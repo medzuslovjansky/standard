@@ -1,0 +1,15 @@
+---
+  id: "1541"
+  word: "Bulgarija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bulgarija"
+      acc: "Bulgarijų"
+      gen: "Bulgarije"
+      loc: "Bulgariji"
+      dat: "Bulgariji"
+      ins: "Bulgarijejų"
+      voc: "Bulgarijo"

@@ -1,0 +1,22 @@
+---
+  id: "26420"
+  word: "kabala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kabala"
+      acc: "kabalų"
+      gen: "kabaly"
+      loc: "kabalě"
+      dat: "kabalě"
+      ins: "kabalojų"
+      voc: "kabalo"
+    plural: 
+      nom: "kabaly"
+      acc: "kabaly"
+      gen: "kabal"
+      loc: "kabalah"
+      dat: "kabalam"
+      ins: "kabalami"
+      voc: "kabaly"

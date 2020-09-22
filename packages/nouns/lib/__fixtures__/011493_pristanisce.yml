@@ -1,0 +1,22 @@
+---
+  id: "11493"
+  word: "pristanišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pristanišče"
+      acc: "pristanišče"
+      gen: "pristanišča"
+      loc: "pristanišču"
+      dat: "pristanišču"
+      ins: "pristaniščem"
+      voc: "pristanišče"
+    plural: 
+      nom: "pristanišča"
+      acc: "pristanišča"
+      gen: "pristanišč"
+      loc: "pristaniščah"
+      dat: "pristaniščam"
+      ins: "pristaniščami"
+      voc: "pristanišča"

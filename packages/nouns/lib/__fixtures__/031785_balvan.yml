@@ -1,0 +1,22 @@
+---
+  id: "31785"
+  word: "balvan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balvan"
+      acc: "balvan"
+      gen: "balvana"
+      loc: "balvanu"
+      dat: "balvanu"
+      ins: "balvanom"
+      voc: "balvane"
+    plural: 
+      nom: "balvany"
+      acc: "balvany"
+      gen: "balvanov"
+      loc: "balvanah"
+      dat: "balvanam"
+      ins: "balvanami"
+      voc: "balvany"

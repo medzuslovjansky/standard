@@ -1,0 +1,22 @@
+---
+  id: "35848"
+  word: "peticija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "peticija"
+      acc: "peticijų"
+      gen: "peticije"
+      loc: "peticiji"
+      dat: "peticiji"
+      ins: "peticijejų"
+      voc: "peticijo"
+    plural: 
+      nom: "peticije"
+      acc: "peticije"
+      gen: "peticij"
+      loc: "peticijah"
+      dat: "peticijam"
+      ins: "peticijami"
+      voc: "peticije"

@@ -1,0 +1,22 @@
+---
+  id: "767"
+  word: "strah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "strah"
+      acc: "strah"
+      gen: "straha"
+      loc: "strahu"
+      dat: "strahu"
+      ins: "strahom"
+      voc: "straše"
+    plural: 
+      nom: "strahy"
+      acc: "strahy"
+      gen: "strahov"
+      loc: "strahah"
+      dat: "straham"
+      ins: "strahami"
+      voc: "strahy"

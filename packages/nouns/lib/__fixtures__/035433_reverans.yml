@@ -1,0 +1,22 @@
+---
+  id: "35433"
+  word: "reverans"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "reverans"
+      acc: "reverans"
+      gen: "reveransa"
+      loc: "reveransu"
+      dat: "reveransu"
+      ins: "reveransom"
+      voc: "reveranse"
+    plural: 
+      nom: "reveransy"
+      acc: "reveransy"
+      gen: "reveransov"
+      loc: "reveransah"
+      dat: "reveransam"
+      ins: "reveransami"
+      voc: "reveransy"

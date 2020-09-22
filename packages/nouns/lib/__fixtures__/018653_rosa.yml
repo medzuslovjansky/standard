@@ -1,0 +1,22 @@
+---
+  id: "18653"
+  word: "rosa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rosa"
+      acc: "rosų"
+      gen: "rosy"
+      loc: "rosě"
+      dat: "rosě"
+      ins: "rosojų"
+      voc: "roso"
+    plural: 
+      nom: "rosy"
+      acc: "rosy"
+      gen: "ros"
+      loc: "rosah"
+      dat: "rosam"
+      ins: "rosami"
+      voc: "rosy"

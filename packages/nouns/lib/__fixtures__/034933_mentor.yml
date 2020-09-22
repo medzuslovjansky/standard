@@ -1,0 +1,23 @@
+---
+  id: "34933"
+  word: "mentor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mentor"
+      acc: "mentora"
+      gen: "mentora"
+      loc: "mentoru"
+      dat: "mentoru"
+      ins: "mentorom"
+      voc: "mentore"
+    plural: 
+      nom: "mentori"
+      acc: "mentorov"
+      gen: "mentorov"
+      loc: "mentorah"
+      dat: "mentoram"
+      ins: "mentorami"
+      voc: "mentori"

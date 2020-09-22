@@ -1,0 +1,22 @@
+---
+  id: "19202"
+  word: "větrilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "větrilo"
+      acc: "větrilo"
+      gen: "větrila"
+      loc: "větrilu"
+      dat: "větrilu"
+      ins: "větrilom"
+      voc: "větrilo"
+    plural: 
+      nom: "větrila"
+      acc: "větrila"
+      gen: "větril"
+      loc: "větrilah"
+      dat: "větrilam"
+      ins: "větrilami"
+      voc: "větrila"

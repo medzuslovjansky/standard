@@ -1,0 +1,22 @@
+---
+  id: "7343"
+  word: "dŕžka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dŕžka"
+      acc: "dŕžkų"
+      gen: "dŕžky"
+      loc: "dŕžkě"
+      dat: "dŕžkě"
+      ins: "dŕžkojų"
+      voc: "dŕžko"
+    plural: 
+      nom: "dŕžky"
+      acc: "dŕžky"
+      gen: "dŕžek"
+      loc: "dŕžkah"
+      dat: "dŕžkam"
+      ins: "dŕžkami"
+      voc: "dŕžky"

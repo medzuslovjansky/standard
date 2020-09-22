@@ -1,0 +1,23 @@
+---
+  id: "3129"
+  word: "prědȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědȯk"
+      acc: "prědka"
+      gen: "prědka"
+      loc: "prědku"
+      dat: "prědku"
+      ins: "prědkom"
+      voc: "prědče"
+    plural: 
+      nom: "prědki"
+      acc: "prědkov"
+      gen: "prědkov"
+      loc: "prědkah"
+      dat: "prědkam"
+      ins: "prědkami"
+      voc: "prědki"

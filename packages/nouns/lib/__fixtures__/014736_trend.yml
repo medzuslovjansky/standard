@@ -1,0 +1,22 @@
+---
+  id: "14736"
+  word: "trend"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trend"
+      acc: "trend"
+      gen: "trenda"
+      loc: "trendu"
+      dat: "trendu"
+      ins: "trendom"
+      voc: "trende"
+    plural: 
+      nom: "trendy"
+      acc: "trendy"
+      gen: "trendov"
+      loc: "trendah"
+      dat: "trendam"
+      ins: "trendami"
+      voc: "trendy"

@@ -1,0 +1,22 @@
+---
+  id: "18791"
+  word: "seběčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "seběčnosť"
+      acc: "seběčnosť"
+      gen: "seběčnosti"
+      loc: "seběčnosti"
+      dat: "seběčnosti"
+      ins: "seběčnosťjų"
+      voc: "seběčnosti"
+    plural: 
+      nom: "seběčnosti"
+      acc: "seběčnosti"
+      gen: "seběčnostij"
+      loc: "seběčnosťah"
+      dat: "seběčnosťam"
+      ins: "seběčnosťami"
+      voc: "seběčnosti"

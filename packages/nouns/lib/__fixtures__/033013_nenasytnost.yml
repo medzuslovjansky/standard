@@ -1,0 +1,22 @@
+---
+  id: "33013"
+  word: "nenasytnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nenasytnosť"
+      acc: "nenasytnosť"
+      gen: "nenasytnosti"
+      loc: "nenasytnosti"
+      dat: "nenasytnosti"
+      ins: "nenasytnosťjų"
+      voc: "nenasytnosti"
+    plural: 
+      nom: "nenasytnosti"
+      acc: "nenasytnosti"
+      gen: "nenasytnostij"
+      loc: "nenasytnosťah"
+      dat: "nenasytnosťam"
+      ins: "nenasytnosťami"
+      voc: "nenasytnosti"

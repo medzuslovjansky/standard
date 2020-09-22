@@ -1,0 +1,15 @@
+---
+  id: "19723"
+  word: "identitet"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "identitet"
+      acc: "identitet"
+      gen: "identiteta"
+      loc: "identitetu"
+      dat: "identitetu"
+      ins: "identitetom"
+      voc: "identitete"

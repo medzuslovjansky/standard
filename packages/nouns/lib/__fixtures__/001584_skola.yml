@@ -1,0 +1,22 @@
+---
+  id: "1584"
+  word: "škola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "škola"
+      acc: "školų"
+      gen: "školy"
+      loc: "školě"
+      dat: "školě"
+      ins: "školojų"
+      voc: "školo"
+    plural: 
+      nom: "školy"
+      acc: "školy"
+      gen: "škol"
+      loc: "školah"
+      dat: "školam"
+      ins: "školami"
+      voc: "školy"

@@ -1,0 +1,22 @@
+---
+  id: "28451"
+  word: "neohota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neohota"
+      acc: "neohotų"
+      gen: "neohoty"
+      loc: "neohotě"
+      dat: "neohotě"
+      ins: "neohotojų"
+      voc: "neohoto"
+    plural: 
+      nom: "neohoty"
+      acc: "neohoty"
+      gen: "neohot"
+      loc: "neohotah"
+      dat: "neohotam"
+      ins: "neohotami"
+      voc: "neohoty"

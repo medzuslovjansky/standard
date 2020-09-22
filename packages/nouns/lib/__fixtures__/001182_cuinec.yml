@@ -1,0 +1,23 @@
+---
+  id: "1182"
+  word: "ćuđinec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ćuđinec"
+      acc: "ćuđinca"
+      gen: "ćuđinca"
+      loc: "ćuđincu"
+      dat: "ćuđincu"
+      ins: "ćuđincem"
+      voc: "ćuđinče"
+    plural: 
+      nom: "ćuđinci"
+      acc: "ćuđincev"
+      gen: "ćuđincev"
+      loc: "ćuđincah"
+      dat: "ćuđincam"
+      ins: "ćuđincami"
+      voc: "ćuđinci"

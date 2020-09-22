@@ -1,0 +1,22 @@
+---
+  id: "16831"
+  word: "odglås"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odglås"
+      acc: "odglås"
+      gen: "odglåsa"
+      loc: "odglåsu"
+      dat: "odglåsu"
+      ins: "odglåsom"
+      voc: "odglåse"
+    plural: 
+      nom: "odglåsy"
+      acc: "odglåsy"
+      gen: "odglåsov"
+      loc: "odglåsah"
+      dat: "odglåsam"
+      ins: "odglåsami"
+      voc: "odglåsy"

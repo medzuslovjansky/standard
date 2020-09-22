@@ -1,0 +1,45 @@
+---
+  - 
+    id: "5158"
+    word: "rama"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "rama"
+        acc: "ramų"
+        gen: "ramy"
+        loc: "ramě"
+        dat: "ramě"
+        ins: "ramojų"
+        voc: "ramo"
+      plural: 
+        nom: "ramy"
+        acc: "ramy"
+        gen: "ram"
+        loc: "ramah"
+        dat: "ramam"
+        ins: "ramami"
+        voc: "ramy"
+  - 
+    id: "5158"
+    word: "ramka"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "ramka"
+        acc: "ramkų"
+        gen: "ramky"
+        loc: "ramkě"
+        dat: "ramkě"
+        ins: "ramkojų"
+        voc: "ramko"
+      plural: 
+        nom: "ramky"
+        acc: "ramky"
+        gen: "ramȯk"
+        loc: "ramkah"
+        dat: "ramkam"
+        ins: "ramkami"
+        voc: "ramky"

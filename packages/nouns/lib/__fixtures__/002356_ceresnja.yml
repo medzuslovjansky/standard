@@ -1,0 +1,22 @@
+---
+  id: "2356"
+  word: "čerešnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čerešnja"
+      acc: "čerešnjų"
+      gen: "čerešnje"
+      loc: "čerešnji"
+      dat: "čerešnji"
+      ins: "čerešnjejų"
+      voc: "čerešnjo"
+    plural: 
+      nom: "čerešnje"
+      acc: "čerešnje"
+      gen: "čerešnej"
+      loc: "čerešnjah"
+      dat: "čerešnjam"
+      ins: "čerešnjami"
+      voc: "čerešnje"

@@ -1,0 +1,23 @@
+---
+  id: "14565"
+  word: "garant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "garant"
+      acc: "garanta"
+      gen: "garanta"
+      loc: "garantu"
+      dat: "garantu"
+      ins: "garantom"
+      voc: "garante"
+    plural: 
+      nom: "garanti"
+      acc: "garantov"
+      gen: "garantov"
+      loc: "garantah"
+      dat: "garantam"
+      ins: "garantami"
+      voc: "garanti"

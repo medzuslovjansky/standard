@@ -1,0 +1,23 @@
+---
+  id: "305"
+  word: "diakon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "diakon"
+      acc: "diakona"
+      gen: "diakona"
+      loc: "diakonu"
+      dat: "diakonu"
+      ins: "diakonom"
+      voc: "diakone"
+    plural: 
+      nom: "diakoni"
+      acc: "diakonov"
+      gen: "diakonov"
+      loc: "diakonah"
+      dat: "diakonam"
+      ins: "diakonami"
+      voc: "diakoni"

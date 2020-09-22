@@ -1,0 +1,23 @@
+---
+  id: "20373"
+  word: "drakon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drakon"
+      acc: "drakona"
+      gen: "drakona"
+      loc: "drakonu"
+      dat: "drakonu"
+      ins: "drakonom"
+      voc: "drakone"
+    plural: 
+      nom: "drakoni"
+      acc: "drakonov"
+      gen: "drakonov"
+      loc: "drakonah"
+      dat: "drakonam"
+      ins: "drakonami"
+      voc: "drakoni"

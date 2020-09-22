@@ -1,0 +1,22 @@
+---
+  id: "16960"
+  word: "končina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "končina"
+      acc: "končinų"
+      gen: "končiny"
+      loc: "končině"
+      dat: "končině"
+      ins: "končinojų"
+      voc: "končino"
+    plural: 
+      nom: "končiny"
+      acc: "končiny"
+      gen: "končin"
+      loc: "končinah"
+      dat: "končinam"
+      ins: "končinami"
+      voc: "končiny"

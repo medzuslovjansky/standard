@@ -1,0 +1,22 @@
+---
+  id: "35316"
+  word: "pazigrafija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pazigrafija"
+      acc: "pazigrafijų"
+      gen: "pazigrafije"
+      loc: "pazigrafiji"
+      dat: "pazigrafiji"
+      ins: "pazigrafijejų"
+      voc: "pazigrafijo"
+    plural: 
+      nom: "pazigrafije"
+      acc: "pazigrafije"
+      gen: "pazigrafij"
+      loc: "pazigrafijah"
+      dat: "pazigrafijam"
+      ins: "pazigrafijami"
+      voc: "pazigrafije"

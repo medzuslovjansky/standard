@@ -1,0 +1,22 @@
+---
+  id: "27533"
+  word: "meridian"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "meridian"
+      acc: "meridian"
+      gen: "meridiana"
+      loc: "meridianu"
+      dat: "meridianu"
+      ins: "meridianom"
+      voc: "meridiane"
+    plural: 
+      nom: "meridiany"
+      acc: "meridiany"
+      gen: "meridianov"
+      loc: "meridianah"
+      dat: "meridianam"
+      ins: "meridianami"
+      voc: "meridiany"

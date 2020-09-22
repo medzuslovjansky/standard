@@ -1,0 +1,23 @@
+---
+  id: "4409"
+  word: "kabelj"
+  meta: 
+    irregularity: "(kablja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kabėlj"
+      acc: "kabėlj"
+      gen: "kablja"
+      loc: "kablju"
+      dat: "kablju"
+      ins: "kabljem"
+      voc: "kablju"
+    plural: 
+      nom: "kablje"
+      acc: "kablje"
+      gen: "kabljev"
+      loc: "kabljah"
+      dat: "kabljam"
+      ins: "kabljami"
+      voc: "kablje"

@@ -1,0 +1,22 @@
+---
+  id: "4716"
+  word: "črka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črka"
+      acc: "črkų"
+      gen: "črky"
+      loc: "črkě"
+      dat: "črkě"
+      ins: "črkojų"
+      voc: "črko"
+    plural: 
+      nom: "črky"
+      acc: "črky"
+      gen: "črȯk"
+      loc: "črkah"
+      dat: "črkam"
+      ins: "črkami"
+      voc: "črky"

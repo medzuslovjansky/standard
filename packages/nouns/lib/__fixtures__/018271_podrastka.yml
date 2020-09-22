@@ -1,0 +1,22 @@
+---
+  id: "18271"
+  word: "podråstka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podråstka"
+      acc: "podråstkų"
+      gen: "podråstky"
+      loc: "podråstkě"
+      dat: "podråstkě"
+      ins: "podråstkojų"
+      voc: "podråstko"
+    plural: 
+      nom: "podråstky"
+      acc: "podråstky"
+      gen: "podråstȯk"
+      loc: "podråstkah"
+      dat: "podråstkam"
+      ins: "podråstkami"
+      voc: "podråstky"

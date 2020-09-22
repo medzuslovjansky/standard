@@ -1,0 +1,22 @@
+---
+  id: "13110"
+  word: "turnir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "turnir"
+      acc: "turnir"
+      gen: "turnira"
+      loc: "turniru"
+      dat: "turniru"
+      ins: "turnirom"
+      voc: "turnire"
+    plural: 
+      nom: "turniry"
+      acc: "turniry"
+      gen: "turnirov"
+      loc: "turnirah"
+      dat: "turniram"
+      ins: "turnirami"
+      voc: "turniry"

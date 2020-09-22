@@ -1,0 +1,22 @@
+---
+  id: "13626"
+  word: "vinobrańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vinobrańje"
+      acc: "vinobrańje"
+      gen: "vinobrańja"
+      loc: "vinobrańju"
+      dat: "vinobrańju"
+      ins: "vinobrańjem"
+      voc: "vinobrańje"
+    plural: 
+      nom: "vinobrańja"
+      acc: "vinobrańja"
+      gen: "vinobranij"
+      loc: "vinobrańjah"
+      dat: "vinobrańjam"
+      ins: "vinobrańjami"
+      voc: "vinobrańja"

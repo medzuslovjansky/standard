@@ -1,0 +1,22 @@
+---
+  id: "35087"
+  word: "bibliografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bibliografija"
+      acc: "bibliografijų"
+      gen: "bibliografije"
+      loc: "bibliografiji"
+      dat: "bibliografiji"
+      ins: "bibliografijejų"
+      voc: "bibliografijo"
+    plural: 
+      nom: "bibliografije"
+      acc: "bibliografije"
+      gen: "bibliografij"
+      loc: "bibliografijah"
+      dat: "bibliografijam"
+      ins: "bibliografijami"
+      voc: "bibliografije"

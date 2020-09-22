@@ -1,0 +1,22 @@
+---
+  id: "36257"
+  word: "vrěća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vrěća"
+      acc: "vrěćų"
+      gen: "vrěće"
+      loc: "vrěći"
+      dat: "vrěći"
+      ins: "vrěćejų"
+      voc: "vrěćo"
+    plural: 
+      nom: "vrěće"
+      acc: "vrěće"
+      gen: "vrěć"
+      loc: "vrěćah"
+      dat: "vrěćam"
+      ins: "vrěćami"
+      voc: "vrěće"

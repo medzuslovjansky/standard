@@ -1,0 +1,22 @@
+---
+  id: "29940"
+  word: "pomnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pomnik"
+      acc: "pomnik"
+      gen: "pomnika"
+      loc: "pomniku"
+      dat: "pomniku"
+      ins: "pomnikom"
+      voc: "pomniče"
+    plural: 
+      nom: "pomniky"
+      acc: "pomniky"
+      gen: "pomnikov"
+      loc: "pomnikah"
+      dat: "pomnikam"
+      ins: "pomnikami"
+      voc: "pomniky"

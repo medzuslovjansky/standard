@@ -1,0 +1,22 @@
+---
+  id: "496"
+  word: "filozofija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "filozofija"
+      acc: "filozofijų"
+      gen: "filozofije"
+      loc: "filozofiji"
+      dat: "filozofiji"
+      ins: "filozofijejų"
+      voc: "filozofijo"
+    plural: 
+      nom: "filozofije"
+      acc: "filozofije"
+      gen: "filozofij"
+      loc: "filozofijah"
+      dat: "filozofijam"
+      ins: "filozofijami"
+      voc: "filozofije"

@@ -1,0 +1,22 @@
+---
+  id: "36571"
+  word: "televizor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "televizor"
+      acc: "televizor"
+      gen: "televizora"
+      loc: "televizoru"
+      dat: "televizoru"
+      ins: "televizorom"
+      voc: "televizore"
+    plural: 
+      nom: "televizory"
+      acc: "televizory"
+      gen: "televizorov"
+      loc: "televizorah"
+      dat: "televizoram"
+      ins: "televizorami"
+      voc: "televizory"

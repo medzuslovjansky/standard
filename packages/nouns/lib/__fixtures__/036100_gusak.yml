@@ -1,0 +1,23 @@
+---
+  id: "36100"
+  word: "gųsak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gųsak"
+      acc: "gųsaka"
+      gen: "gųsaka"
+      loc: "gųsaku"
+      dat: "gųsaku"
+      ins: "gųsakom"
+      voc: "gųsače"
+    plural: 
+      nom: "gųsaki"
+      acc: "gųsakov"
+      gen: "gųsakov"
+      loc: "gųsakah"
+      dat: "gųsakam"
+      ins: "gųsakami"
+      voc: "gųsaki"

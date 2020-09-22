@@ -1,0 +1,23 @@
+---
+  id: "32719"
+  word: "feniks"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "feniks"
+      acc: "feniksa"
+      gen: "feniksa"
+      loc: "feniksu"
+      dat: "feniksu"
+      ins: "feniksom"
+      voc: "fenikse"
+    plural: 
+      nom: "feniksi"
+      acc: "feniksov"
+      gen: "feniksov"
+      loc: "feniksah"
+      dat: "feniksam"
+      ins: "feniksami"
+      voc: "feniksi"

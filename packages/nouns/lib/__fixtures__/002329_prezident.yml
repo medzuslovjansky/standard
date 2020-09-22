@@ -1,0 +1,23 @@
+---
+  id: "2329"
+  word: "prezident"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prezident"
+      acc: "prezidenta"
+      gen: "prezidenta"
+      loc: "prezidentu"
+      dat: "prezidentu"
+      ins: "prezidentom"
+      voc: "prezidente"
+    plural: 
+      nom: "prezidenti"
+      acc: "prezidentov"
+      gen: "prezidentov"
+      loc: "prezidentah"
+      dat: "prezidentam"
+      ins: "prezidentami"
+      voc: "prezidenti"

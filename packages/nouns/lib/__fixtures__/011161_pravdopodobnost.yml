@@ -1,0 +1,22 @@
+---
+  id: "11161"
+  word: "pravdopodobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravdopodobnosť"
+      acc: "pravdopodobnosť"
+      gen: "pravdopodobnosti"
+      loc: "pravdopodobnosti"
+      dat: "pravdopodobnosti"
+      ins: "pravdopodobnosťjų"
+      voc: "pravdopodobnosti"
+    plural: 
+      nom: "pravdopodobnosti"
+      acc: "pravdopodobnosti"
+      gen: "pravdopodobnostij"
+      loc: "pravdopodobnosťah"
+      dat: "pravdopodobnosťam"
+      ins: "pravdopodobnosťami"
+      voc: "pravdopodobnosti"

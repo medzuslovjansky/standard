@@ -1,0 +1,22 @@
+---
+  id: "2193"
+  word: "cěp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cěp"
+      acc: "cěp"
+      gen: "cěpa"
+      loc: "cěpu"
+      dat: "cěpu"
+      ins: "cěpom"
+      voc: "cěpe"
+    plural: 
+      nom: "cěpy"
+      acc: "cěpy"
+      gen: "cěpov"
+      loc: "cěpah"
+      dat: "cěpam"
+      ins: "cěpami"
+      voc: "cěpy"

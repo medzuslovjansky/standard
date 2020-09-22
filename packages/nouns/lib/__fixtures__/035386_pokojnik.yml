@@ -1,0 +1,22 @@
+---
+  id: "35386"
+  word: "pokojnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pokojnik"
+      acc: "pokojnik"
+      gen: "pokojnika"
+      loc: "pokojniku"
+      dat: "pokojniku"
+      ins: "pokojnikom"
+      voc: "pokojniče"
+    plural: 
+      nom: "pokojniky"
+      acc: "pokojniky"
+      gen: "pokojnikov"
+      loc: "pokojnikah"
+      dat: "pokojnikam"
+      ins: "pokojnikami"
+      voc: "pokojniky"

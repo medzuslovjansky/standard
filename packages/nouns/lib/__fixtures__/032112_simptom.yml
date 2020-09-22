@@ -1,0 +1,22 @@
+---
+  id: "32112"
+  word: "simptom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "simptom"
+      acc: "simptom"
+      gen: "simptoma"
+      loc: "simptomu"
+      dat: "simptomu"
+      ins: "simptomom"
+      voc: "simptome"
+    plural: 
+      nom: "simptomy"
+      acc: "simptomy"
+      gen: "simptomov"
+      loc: "simptomah"
+      dat: "simptomam"
+      ins: "simptomami"
+      voc: "simptomy"

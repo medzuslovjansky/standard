@@ -1,0 +1,22 @@
+---
+  id: "21777"
+  word: "port"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "port"
+      acc: "port"
+      gen: "porta"
+      loc: "portu"
+      dat: "portu"
+      ins: "portom"
+      voc: "porte"
+    plural: 
+      nom: "porty"
+      acc: "porty"
+      gen: "portov"
+      loc: "portah"
+      dat: "portam"
+      ins: "portami"
+      voc: "porty"

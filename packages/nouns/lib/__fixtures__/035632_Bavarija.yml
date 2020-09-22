@@ -1,0 +1,15 @@
+---
+  id: "35632"
+  word: "Bavarija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bavarija"
+      acc: "Bavarijų"
+      gen: "Bavarije"
+      loc: "Bavariji"
+      dat: "Bavariji"
+      ins: "Bavarijejų"
+      voc: "Bavarijo"

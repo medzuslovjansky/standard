@@ -1,0 +1,23 @@
+---
+  id: "35934"
+  word: "križenosec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "križenosec"
+      acc: "križenosca"
+      gen: "križenosca"
+      loc: "križenoscu"
+      dat: "križenoscu"
+      ins: "križenoscem"
+      voc: "križenosče"
+    plural: 
+      nom: "križenosci"
+      acc: "križenoscev"
+      gen: "križenoscev"
+      loc: "križenoscah"
+      dat: "križenoscam"
+      ins: "križenoscami"
+      voc: "križenosci"

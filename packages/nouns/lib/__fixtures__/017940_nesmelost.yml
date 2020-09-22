@@ -1,0 +1,22 @@
+---
+  id: "17940"
+  word: "nesmělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nesmělosť"
+      acc: "nesmělosť"
+      gen: "nesmělosti"
+      loc: "nesmělosti"
+      dat: "nesmělosti"
+      ins: "nesmělosťjų"
+      voc: "nesmělosti"
+    plural: 
+      nom: "nesmělosti"
+      acc: "nesmělosti"
+      gen: "nesmělostij"
+      loc: "nesmělosťah"
+      dat: "nesmělosťam"
+      ins: "nesmělosťami"
+      voc: "nesmělosti"

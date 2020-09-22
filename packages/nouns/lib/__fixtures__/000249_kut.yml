@@ -1,0 +1,22 @@
+---
+  id: "249"
+  word: "kųt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kųt"
+      acc: "kųt"
+      gen: "kųta"
+      loc: "kųtu"
+      dat: "kųtu"
+      ins: "kųtom"
+      voc: "kųte"
+    plural: 
+      nom: "kųty"
+      acc: "kųty"
+      gen: "kųtov"
+      loc: "kųtah"
+      dat: "kųtam"
+      ins: "kųtami"
+      voc: "kųty"

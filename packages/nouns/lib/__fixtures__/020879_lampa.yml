@@ -1,0 +1,22 @@
+---
+  id: "20879"
+  word: "lampa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lampa"
+      acc: "lampų"
+      gen: "lampy"
+      loc: "lampě"
+      dat: "lampě"
+      ins: "lampojų"
+      voc: "lampo"
+    plural: 
+      nom: "lampy"
+      acc: "lampy"
+      gen: "lamp"
+      loc: "lampah"
+      dat: "lampam"
+      ins: "lampami"
+      voc: "lampy"

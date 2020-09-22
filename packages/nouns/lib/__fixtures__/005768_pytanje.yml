@@ -1,0 +1,22 @@
+---
+  id: "5768"
+  word: "pytańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pytańje"
+      acc: "pytańje"
+      gen: "pytańja"
+      loc: "pytańju"
+      dat: "pytańju"
+      ins: "pytańjem"
+      voc: "pytańje"
+    plural: 
+      nom: "pytańja"
+      acc: "pytańja"
+      gen: "pytanij"
+      loc: "pytańjah"
+      dat: "pytańjam"
+      ins: "pytańjami"
+      voc: "pytańja"

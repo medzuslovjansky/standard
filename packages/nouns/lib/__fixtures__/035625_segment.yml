@@ -1,0 +1,22 @@
+---
+  id: "35625"
+  word: "segment"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "segment"
+      acc: "segment"
+      gen: "segmenta"
+      loc: "segmentu"
+      dat: "segmentu"
+      ins: "segmentom"
+      voc: "segmente"
+    plural: 
+      nom: "segmenty"
+      acc: "segmenty"
+      gen: "segmentov"
+      loc: "segmentah"
+      dat: "segmentam"
+      ins: "segmentami"
+      voc: "segmenty"

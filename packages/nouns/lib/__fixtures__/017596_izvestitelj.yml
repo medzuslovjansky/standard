@@ -1,0 +1,23 @@
+---
+  id: "17596"
+  word: "izvěstitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izvěstitelj"
+      acc: "izvěstitelja"
+      gen: "izvěstitelja"
+      loc: "izvěstitelju"
+      dat: "izvěstitelju"
+      ins: "izvěstiteljem"
+      voc: "izvěstitelju"
+    plural: 
+      nom: "izvěstitelji"
+      acc: "izvěstiteljev"
+      gen: "izvěstiteljev"
+      loc: "izvěstiteljah"
+      dat: "izvěstiteljam"
+      ins: "izvěstiteljami"
+      voc: "izvěstitelji"

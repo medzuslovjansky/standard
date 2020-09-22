@@ -1,0 +1,22 @@
+---
+  id: "27131"
+  word: "lěpota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěpota"
+      acc: "lěpotų"
+      gen: "lěpoty"
+      loc: "lěpotě"
+      dat: "lěpotě"
+      ins: "lěpotojų"
+      voc: "lěpoto"
+    plural: 
+      nom: "lěpoty"
+      acc: "lěpoty"
+      gen: "lěpot"
+      loc: "lěpotah"
+      dat: "lěpotam"
+      ins: "lěpotami"
+      voc: "lěpoty"

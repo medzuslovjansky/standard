@@ -1,0 +1,22 @@
+---
+  id: "36008"
+  word: "marker"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "marker"
+      acc: "marker"
+      gen: "markera"
+      loc: "markeru"
+      dat: "markeru"
+      ins: "markerom"
+      voc: "markere"
+    plural: 
+      nom: "markery"
+      acc: "markery"
+      gen: "markerov"
+      loc: "markerah"
+      dat: "markeram"
+      ins: "markerami"
+      voc: "markery"

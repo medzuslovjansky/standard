@@ -1,0 +1,23 @@
+---
+  id: "35339"
+  word: "Avstrijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Avstrijec"
+      acc: "Avstrijca"
+      gen: "Avstrijca"
+      loc: "Avstrijcu"
+      dat: "Avstrijcu"
+      ins: "Avstrijcem"
+      voc: "Avstrijče"
+    plural: 
+      nom: "Avstrijci"
+      acc: "Avstrijcev"
+      gen: "Avstrijcev"
+      loc: "Avstrijcah"
+      dat: "Avstrijcam"
+      ins: "Avstrijcami"
+      voc: "Avstrijci"

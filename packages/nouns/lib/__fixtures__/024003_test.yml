@@ -1,0 +1,23 @@
+---
+  id: "24003"
+  word: "tesť"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tesť"
+      acc: "tesťa"
+      gen: "tesťa"
+      loc: "tesťu"
+      dat: "tesťu"
+      ins: "tesťem"
+      voc: "tesťu"
+    plural: 
+      nom: "testi"
+      acc: "tesťev"
+      gen: "tesťev"
+      loc: "tesťah"
+      dat: "tesťam"
+      ins: "tesťami"
+      voc: "testi"

@@ -1,0 +1,15 @@
+---
+  id: "19684"
+  word: "efektivnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "efektivnosť"
+      acc: "efektivnosť"
+      gen: "efektivnosti"
+      loc: "efektivnosti"
+      dat: "efektivnosti"
+      ins: "efektivnosťjų"
+      voc: "efektivnosti"

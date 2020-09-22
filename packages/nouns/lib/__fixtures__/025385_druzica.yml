@@ -1,0 +1,22 @@
+---
+  id: "25385"
+  word: "družica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "družica"
+      acc: "družicų"
+      gen: "družice"
+      loc: "družici"
+      dat: "družici"
+      ins: "družicejų"
+      voc: "družico"
+    plural: 
+      nom: "družice"
+      acc: "družice"
+      gen: "družic"
+      loc: "družicah"
+      dat: "družicam"
+      ins: "družicami"
+      voc: "družice"

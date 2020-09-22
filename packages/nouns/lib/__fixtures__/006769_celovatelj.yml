@@ -1,0 +1,23 @@
+---
+  id: "6769"
+  word: "cělovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "cělovatelj"
+      acc: "cělovatelja"
+      gen: "cělovatelja"
+      loc: "cělovatelju"
+      dat: "cělovatelju"
+      ins: "cělovateljem"
+      voc: "cělovatelju"
+    plural: 
+      nom: "cělovatelji"
+      acc: "cělovateljev"
+      gen: "cělovateljev"
+      loc: "cělovateljah"
+      dat: "cělovateljam"
+      ins: "cělovateljami"
+      voc: "cělovatelji"

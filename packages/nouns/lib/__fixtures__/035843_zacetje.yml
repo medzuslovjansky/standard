@@ -1,0 +1,22 @@
+---
+  id: "35843"
+  word: "začęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "začęťje"
+      acc: "začęťje"
+      gen: "začęťja"
+      loc: "začęťju"
+      dat: "začęťju"
+      ins: "začęťjem"
+      voc: "začęťje"
+    plural: 
+      nom: "začęťja"
+      acc: "začęťja"
+      gen: "začętij"
+      loc: "začęťjah"
+      dat: "začęťjam"
+      ins: "začęťjami"
+      voc: "začęťja"

@@ -1,0 +1,22 @@
+---
+  id: "26738"
+  word: "kosm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kosm"
+      acc: "kosm"
+      gen: "kosma"
+      loc: "kosmu"
+      dat: "kosmu"
+      ins: "kosmom"
+      voc: "kosme"
+    plural: 
+      nom: "kosmy"
+      acc: "kosmy"
+      gen: "kosmov"
+      loc: "kosmah"
+      dat: "kosmam"
+      ins: "kosmami"
+      voc: "kosmy"

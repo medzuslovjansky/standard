@@ -1,0 +1,22 @@
+---
+  id: "26993"
+  word: "kurgan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kurgan"
+      acc: "kurgan"
+      gen: "kurgana"
+      loc: "kurganu"
+      dat: "kurganu"
+      ins: "kurganom"
+      voc: "kurgane"
+    plural: 
+      nom: "kurgany"
+      acc: "kurgany"
+      gen: "kurganov"
+      loc: "kurganah"
+      dat: "kurganam"
+      ins: "kurganami"
+      voc: "kurgany"

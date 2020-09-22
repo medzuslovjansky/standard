@@ -1,0 +1,22 @@
+---
+  id: "3606"
+  word: "izkušenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izkušenosť"
+      acc: "izkušenosť"
+      gen: "izkušenosti"
+      loc: "izkušenosti"
+      dat: "izkušenosti"
+      ins: "izkušenosťjų"
+      voc: "izkušenosti"
+    plural: 
+      nom: "izkušenosti"
+      acc: "izkušenosti"
+      gen: "izkušenostij"
+      loc: "izkušenosťah"
+      dat: "izkušenosťam"
+      ins: "izkušenosťami"
+      voc: "izkušenosti"

@@ -1,0 +1,22 @@
+---
+  id: "32346"
+  word: "slězena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slězena"
+      acc: "slězenų"
+      gen: "slězeny"
+      loc: "slězeně"
+      dat: "slězeně"
+      ins: "slězenojų"
+      voc: "slězeno"
+    plural: 
+      nom: "slězeny"
+      acc: "slězeny"
+      gen: "slězen"
+      loc: "slězenah"
+      dat: "slězenam"
+      ins: "slězenami"
+      voc: "slězeny"

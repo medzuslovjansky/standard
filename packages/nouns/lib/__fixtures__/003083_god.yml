@@ -1,0 +1,22 @@
+---
+  id: "3083"
+  word: "god"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "god"
+      acc: "god"
+      gen: "goda"
+      loc: "godu"
+      dat: "godu"
+      ins: "godom"
+      voc: "gode"
+    plural: 
+      nom: "gody"
+      acc: "gody"
+      gen: "godov"
+      loc: "godah"
+      dat: "godam"
+      ins: "godami"
+      voc: "gody"

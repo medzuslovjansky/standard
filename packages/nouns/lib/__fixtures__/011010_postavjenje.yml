@@ -1,0 +1,22 @@
+---
+  id: "11010"
+  word: "postavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "postavjeńje"
+      acc: "postavjeńje"
+      gen: "postavjeńja"
+      loc: "postavjeńju"
+      dat: "postavjeńju"
+      ins: "postavjeńjem"
+      voc: "postavjeńje"
+    plural: 
+      nom: "postavjeńja"
+      acc: "postavjeńja"
+      gen: "postavjenij"
+      loc: "postavjeńjah"
+      dat: "postavjeńjam"
+      ins: "postavjeńjami"
+      voc: "postavjeńja"

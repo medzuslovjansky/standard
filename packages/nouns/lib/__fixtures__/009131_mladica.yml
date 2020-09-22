@@ -1,0 +1,22 @@
+---
+  id: "9131"
+  word: "mlådica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådica"
+      acc: "mlådicų"
+      gen: "mlådice"
+      loc: "mlådici"
+      dat: "mlådici"
+      ins: "mlådicejų"
+      voc: "mlådico"
+    plural: 
+      nom: "mlådice"
+      acc: "mlådice"
+      gen: "mlådic"
+      loc: "mlådicah"
+      dat: "mlådicam"
+      ins: "mlådicami"
+      voc: "mlådice"

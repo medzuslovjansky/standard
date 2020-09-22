@@ -1,0 +1,15 @@
+---
+  id: "4244"
+  word: "sestrinstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sestrinstvo"
+      acc: "sestrinstvo"
+      gen: "sestrinstva"
+      loc: "sestrinstvu"
+      dat: "sestrinstvu"
+      ins: "sestrinstvom"
+      voc: "sestrinstvo"

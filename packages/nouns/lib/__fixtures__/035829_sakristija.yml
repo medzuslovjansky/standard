@@ -1,0 +1,22 @@
+---
+  id: "35829"
+  word: "sakristija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sakristija"
+      acc: "sakristijų"
+      gen: "sakristije"
+      loc: "sakristiji"
+      dat: "sakristiji"
+      ins: "sakristijejų"
+      voc: "sakristijo"
+    plural: 
+      nom: "sakristije"
+      acc: "sakristije"
+      gen: "sakristij"
+      loc: "sakristijah"
+      dat: "sakristijam"
+      ins: "sakristijami"
+      voc: "sakristije"

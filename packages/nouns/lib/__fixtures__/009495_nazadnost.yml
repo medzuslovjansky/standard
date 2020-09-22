@@ -1,0 +1,22 @@
+---
+  id: "9495"
+  word: "nazadnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nazadnosť"
+      acc: "nazadnosť"
+      gen: "nazadnosti"
+      loc: "nazadnosti"
+      dat: "nazadnosti"
+      ins: "nazadnosťjų"
+      voc: "nazadnosti"
+    plural: 
+      nom: "nazadnosti"
+      acc: "nazadnosti"
+      gen: "nazadnostij"
+      loc: "nazadnosťah"
+      dat: "nazadnosťam"
+      ins: "nazadnosťami"
+      voc: "nazadnosti"

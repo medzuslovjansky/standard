@@ -1,0 +1,22 @@
+---
+  id: "4156"
+  word: "kontrabanda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kontrabanda"
+      acc: "kontrabandų"
+      gen: "kontrabandy"
+      loc: "kontrabandě"
+      dat: "kontrabandě"
+      ins: "kontrabandojų"
+      voc: "kontrabando"
+    plural: 
+      nom: "kontrabandy"
+      acc: "kontrabandy"
+      gen: "kontraband"
+      loc: "kontrabandah"
+      dat: "kontrabandam"
+      ins: "kontrabandami"
+      voc: "kontrabandy"

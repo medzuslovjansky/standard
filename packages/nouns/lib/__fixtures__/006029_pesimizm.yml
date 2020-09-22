@@ -1,0 +1,15 @@
+---
+  id: "6029"
+  word: "pesimizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pesimizm"
+      acc: "pesimizm"
+      gen: "pesimizma"
+      loc: "pesimizmu"
+      dat: "pesimizmu"
+      ins: "pesimizmom"
+      voc: "pesimizme"

@@ -1,0 +1,23 @@
+---
+  id: "24371"
+  word: "avtohton"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "avtohton"
+      acc: "avtohtona"
+      gen: "avtohtona"
+      loc: "avtohtonu"
+      dat: "avtohtonu"
+      ins: "avtohtonom"
+      voc: "avtohtone"
+    plural: 
+      nom: "avtohtoni"
+      acc: "avtohtonov"
+      gen: "avtohtonov"
+      loc: "avtohtonah"
+      dat: "avtohtonam"
+      ins: "avtohtonami"
+      voc: "avtohtoni"

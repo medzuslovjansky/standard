@@ -1,0 +1,22 @@
+---
+  id: "34556"
+  word: "slavistika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slavistika"
+      acc: "slavistikų"
+      gen: "slavistiky"
+      loc: "slavistikě"
+      dat: "slavistikě"
+      ins: "slavistikojų"
+      voc: "slavistiko"
+    plural: 
+      nom: "slavistiky"
+      acc: "slavistiky"
+      gen: "slavistik"
+      loc: "slavistikah"
+      dat: "slavistikam"
+      ins: "slavistikami"
+      voc: "slavistiky"

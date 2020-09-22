@@ -1,0 +1,15 @@
+---
+  id: "26940"
+  word: "krvoproliťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "krvoproliťje"
+      acc: "krvoproliťje"
+      gen: "krvoproliťja"
+      loc: "krvoproliťju"
+      dat: "krvoproliťju"
+      ins: "krvoproliťjem"
+      voc: "krvoproliťje"

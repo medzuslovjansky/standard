@@ -1,0 +1,22 @@
+---
+  id: "13056"
+  word: "stręseńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stręseńje"
+      acc: "stręseńje"
+      gen: "stręseńja"
+      loc: "stręseńju"
+      dat: "stręseńju"
+      ins: "stręseńjem"
+      voc: "stręseńje"
+    plural: 
+      nom: "stręseńja"
+      acc: "stręseńja"
+      gen: "stręsenij"
+      loc: "stręseńjah"
+      dat: "stręseńjam"
+      ins: "stręseńjami"
+      voc: "stręseńja"

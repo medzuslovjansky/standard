@@ -1,0 +1,23 @@
+---
+  id: "24131"
+  word: "agronom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "agronom"
+      acc: "agronoma"
+      gen: "agronoma"
+      loc: "agronomu"
+      dat: "agronomu"
+      ins: "agronomom"
+      voc: "agronome"
+    plural: 
+      nom: "agronomi"
+      acc: "agronomov"
+      gen: "agronomov"
+      loc: "agronomah"
+      dat: "agronomam"
+      ins: "agronomami"
+      voc: "agronomi"

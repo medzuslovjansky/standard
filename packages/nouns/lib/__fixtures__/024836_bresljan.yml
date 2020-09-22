@@ -1,0 +1,22 @@
+---
+  id: "24836"
+  word: "brešljan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brešljan"
+      acc: "brešljan"
+      gen: "brešljana"
+      loc: "brešljanu"
+      dat: "brešljanu"
+      ins: "brešljanom"
+      voc: "brešljane"
+    plural: 
+      nom: "brešljany"
+      acc: "brešljany"
+      gen: "brešljanov"
+      loc: "brešljanah"
+      dat: "brešljanam"
+      ins: "brešljanami"
+      voc: "brešljany"

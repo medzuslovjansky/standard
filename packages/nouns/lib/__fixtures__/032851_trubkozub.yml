@@ -1,0 +1,23 @@
+---
+  id: "32851"
+  word: "trųbkozųb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "trųbkozųb"
+      acc: "trųbkozųba"
+      gen: "trųbkozųba"
+      loc: "trųbkozųbu"
+      dat: "trųbkozųbu"
+      ins: "trųbkozųbom"
+      voc: "trųbkozųbe"
+    plural: 
+      nom: "trųbkozųbi"
+      acc: "trųbkozųbov"
+      gen: "trųbkozųbov"
+      loc: "trųbkozųbah"
+      dat: "trųbkozųbam"
+      ins: "trųbkozųbami"
+      voc: "trųbkozųbi"

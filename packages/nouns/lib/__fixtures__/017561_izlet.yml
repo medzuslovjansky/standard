@@ -1,0 +1,22 @@
+---
+  id: "17561"
+  word: "izlet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izlet"
+      acc: "izlet"
+      gen: "izleta"
+      loc: "izletu"
+      dat: "izletu"
+      ins: "izletom"
+      voc: "izlete"
+    plural: 
+      nom: "izlety"
+      acc: "izlety"
+      gen: "izletov"
+      loc: "izletah"
+      dat: "izletam"
+      ins: "izletami"
+      voc: "izlety"

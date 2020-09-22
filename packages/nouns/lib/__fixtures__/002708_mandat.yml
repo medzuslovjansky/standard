@@ -1,0 +1,22 @@
+---
+  id: "2708"
+  word: "mandat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mandat"
+      acc: "mandat"
+      gen: "mandata"
+      loc: "mandatu"
+      dat: "mandatu"
+      ins: "mandatom"
+      voc: "mandate"
+    plural: 
+      nom: "mandaty"
+      acc: "mandaty"
+      gen: "mandatov"
+      loc: "mandatah"
+      dat: "mandatam"
+      ins: "mandatami"
+      voc: "mandaty"

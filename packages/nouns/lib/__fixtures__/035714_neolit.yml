@@ -1,0 +1,15 @@
+---
+  id: "35714"
+  word: "neolit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neolit"
+      acc: "neolit"
+      gen: "neolita"
+      loc: "neolitu"
+      dat: "neolitu"
+      ins: "neolitom"
+      voc: "neolite"

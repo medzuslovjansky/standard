@@ -1,0 +1,15 @@
+---
+  id: "1133"
+  word: "popel"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "popel"
+      acc: "popel"
+      gen: "popela"
+      loc: "popelu"
+      dat: "popelu"
+      ins: "popelom"
+      voc: "popele"

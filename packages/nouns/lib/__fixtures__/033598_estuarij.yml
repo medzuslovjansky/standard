@@ -1,0 +1,22 @@
+---
+  id: "33598"
+  word: "estuarij"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "estuarij"
+      acc: "estuarij"
+      gen: "estuarija"
+      loc: "estuariju"
+      dat: "estuariju"
+      ins: "estuarijem"
+      voc: "estuariju"
+    plural: 
+      nom: "estuarije"
+      acc: "estuarije"
+      gen: "estuarijev"
+      loc: "estuarijah"
+      dat: "estuarijam"
+      ins: "estuarijami"
+      voc: "estuarije"

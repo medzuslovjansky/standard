@@ -1,0 +1,15 @@
+---
+  id: "507"
+  word: "Džordžija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Džordžija"
+      acc: "Džordžijų"
+      gen: "Džordžije"
+      loc: "Džordžiji"
+      dat: "Džordžiji"
+      ins: "Džordžijejų"
+      voc: "Džordžijo"

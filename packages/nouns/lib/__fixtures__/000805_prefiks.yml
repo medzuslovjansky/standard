@@ -1,0 +1,22 @@
+---
+  id: "805"
+  word: "prefiks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prefiks"
+      acc: "prefiks"
+      gen: "prefiksa"
+      loc: "prefiksu"
+      dat: "prefiksu"
+      ins: "prefiksom"
+      voc: "prefikse"
+    plural: 
+      nom: "prefiksy"
+      acc: "prefiksy"
+      gen: "prefiksov"
+      loc: "prefiksah"
+      dat: "prefiksam"
+      ins: "prefiksami"
+      voc: "prefiksy"

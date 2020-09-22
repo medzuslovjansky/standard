@@ -1,0 +1,22 @@
+---
+  id: "24544"
+  word: "baryton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baryton"
+      acc: "baryton"
+      gen: "barytona"
+      loc: "barytonu"
+      dat: "barytonu"
+      ins: "barytonom"
+      voc: "barytone"
+    plural: 
+      nom: "barytony"
+      acc: "barytony"
+      gen: "barytonov"
+      loc: "barytonah"
+      dat: "barytonam"
+      ins: "barytonami"
+      voc: "barytony"

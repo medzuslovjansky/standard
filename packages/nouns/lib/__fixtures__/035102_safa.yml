@@ -1,0 +1,22 @@
+---
+  id: "35102"
+  word: "šafa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šafa"
+      acc: "šafų"
+      gen: "šafy"
+      loc: "šafě"
+      dat: "šafě"
+      ins: "šafojų"
+      voc: "šafo"
+    plural: 
+      nom: "šafy"
+      acc: "šafy"
+      gen: "šaf"
+      loc: "šafah"
+      dat: "šafam"
+      ins: "šafami"
+      voc: "šafy"

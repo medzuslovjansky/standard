@@ -1,0 +1,22 @@
+---
+  id: "24290"
+  word: "ambicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ambicija"
+      acc: "ambicijų"
+      gen: "ambicije"
+      loc: "ambiciji"
+      dat: "ambiciji"
+      ins: "ambicijejų"
+      voc: "ambicijo"
+    plural: 
+      nom: "ambicije"
+      acc: "ambicije"
+      gen: "ambicij"
+      loc: "ambicijah"
+      dat: "ambicijam"
+      ins: "ambicijami"
+      voc: "ambicije"

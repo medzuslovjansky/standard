@@ -1,0 +1,15 @@
+---
+  id: "18414"
+  word: "prěgovory"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "prěgovory"
+      acc: "prěgovory"
+      gen: "prěgovorov"
+      loc: "prěgovorah"
+      dat: "prěgovoram"
+      ins: "prěgovorami"
+      voc: "prěgovory"

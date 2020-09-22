@@ -1,0 +1,22 @@
+---
+  id: "25921"
+  word: "harem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "harem"
+      acc: "harem"
+      gen: "harema"
+      loc: "haremu"
+      dat: "haremu"
+      ins: "haremom"
+      voc: "hareme"
+    plural: 
+      nom: "haremy"
+      acc: "haremy"
+      gen: "haremov"
+      loc: "haremah"
+      dat: "haremam"
+      ins: "haremami"
+      voc: "haremy"

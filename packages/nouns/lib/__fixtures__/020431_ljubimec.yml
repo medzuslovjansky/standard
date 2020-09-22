@@ -1,0 +1,23 @@
+---
+  id: "20431"
+  word: "ljubimec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljubimec"
+      acc: "ljubimca"
+      gen: "ljubimca"
+      loc: "ljubimcu"
+      dat: "ljubimcu"
+      ins: "ljubimcem"
+      voc: "ljubimče"
+    plural: 
+      nom: "ljubimci"
+      acc: "ljubimcev"
+      gen: "ljubimcev"
+      loc: "ljubimcah"
+      dat: "ljubimcam"
+      ins: "ljubimcami"
+      voc: "ljubimci"

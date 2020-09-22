@@ -1,0 +1,22 @@
+---
+  id: "36072"
+  word: "datulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "datulja"
+      acc: "datuljų"
+      gen: "datulje"
+      loc: "datulji"
+      dat: "datulji"
+      ins: "datuljejų"
+      voc: "datuljo"
+    plural: 
+      nom: "datulje"
+      acc: "datulje"
+      gen: "datulej"
+      loc: "datuljah"
+      dat: "datuljam"
+      ins: "datuljami"
+      voc: "datulje"

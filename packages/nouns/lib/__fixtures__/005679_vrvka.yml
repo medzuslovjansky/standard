@@ -1,0 +1,22 @@
+---
+  id: "5679"
+  word: "vŕvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vŕvka"
+      acc: "vŕvkų"
+      gen: "vŕvky"
+      loc: "vŕvkě"
+      dat: "vŕvkě"
+      ins: "vŕvkojų"
+      voc: "vŕvko"
+    plural: 
+      nom: "vŕvky"
+      acc: "vŕvky"
+      gen: "vŕvȯk"
+      loc: "vŕvkah"
+      dat: "vŕvkam"
+      ins: "vŕvkami"
+      voc: "vŕvky"

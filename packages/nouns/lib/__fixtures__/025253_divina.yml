@@ -1,0 +1,15 @@
+---
+  id: "25253"
+  word: "divina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "divina"
+      acc: "divinų"
+      gen: "diviny"
+      loc: "divině"
+      dat: "divině"
+      ins: "divinojų"
+      voc: "divino"

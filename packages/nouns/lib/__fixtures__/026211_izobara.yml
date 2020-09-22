@@ -1,0 +1,22 @@
+---
+  id: "26211"
+  word: "izobara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izobara"
+      acc: "izobarų"
+      gen: "izobary"
+      loc: "izobarě"
+      dat: "izobarě"
+      ins: "izobarojų"
+      voc: "izobaro"
+    plural: 
+      nom: "izobary"
+      acc: "izobary"
+      gen: "izobar"
+      loc: "izobarah"
+      dat: "izobaram"
+      ins: "izobarami"
+      voc: "izobary"

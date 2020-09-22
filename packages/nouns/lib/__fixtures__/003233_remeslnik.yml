@@ -1,0 +1,23 @@
+---
+  id: "3233"
+  word: "remesľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "remesľnik"
+      acc: "remesľnika"
+      gen: "remesľnika"
+      loc: "remesľniku"
+      dat: "remesľniku"
+      ins: "remesľnikom"
+      voc: "remesľniče"
+    plural: 
+      nom: "remesľniki"
+      acc: "remesľnikov"
+      gen: "remesľnikov"
+      loc: "remesľnikah"
+      dat: "remesľnikam"
+      ins: "remesľnikami"
+      voc: "remesľniki"

@@ -1,0 +1,22 @@
+---
+  id: "6108"
+  word: "lyža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lyža"
+      acc: "lyžų"
+      gen: "lyže"
+      loc: "lyži"
+      dat: "lyži"
+      ins: "lyžejų"
+      voc: "lyžo"
+    plural: 
+      nom: "lyže"
+      acc: "lyže"
+      gen: "lyž"
+      loc: "lyžah"
+      dat: "lyžam"
+      ins: "lyžami"
+      voc: "lyže"

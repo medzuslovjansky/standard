@@ -1,0 +1,22 @@
+---
+  id: "17584"
+  word: "izraznosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izraznosť"
+      acc: "izraznosť"
+      gen: "izraznosti"
+      loc: "izraznosti"
+      dat: "izraznosti"
+      ins: "izraznosťjų"
+      voc: "izraznosti"
+    plural: 
+      nom: "izraznosti"
+      acc: "izraznosti"
+      gen: "izraznostij"
+      loc: "izraznosťah"
+      dat: "izraznosťam"
+      ins: "izraznosťami"
+      voc: "izraznosti"

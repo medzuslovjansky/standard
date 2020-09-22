@@ -1,0 +1,22 @@
+---
+  id: "3042"
+  word: "jaŕmo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jaŕmo"
+      acc: "jaŕmo"
+      gen: "jaŕma"
+      loc: "jaŕmu"
+      dat: "jaŕmu"
+      ins: "jaŕmom"
+      voc: "jaŕmo"
+    plural: 
+      nom: "jaŕma"
+      acc: "jaŕma"
+      gen: "jaŕm"
+      loc: "jaŕmah"
+      dat: "jaŕmam"
+      ins: "jaŕmami"
+      voc: "jaŕma"

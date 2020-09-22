@@ -1,0 +1,15 @@
+---
+  id: "1708"
+  word: "Unikod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Unikod"
+      acc: "Unikod"
+      gen: "Unikoda"
+      loc: "Unikodu"
+      dat: "Unikodu"
+      ins: "Unikodom"
+      voc: "Unikode"

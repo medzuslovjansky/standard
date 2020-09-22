@@ -1,0 +1,15 @@
+---
+  id: "5519"
+  word: "proletariat"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "proletariat"
+      acc: "proletariat"
+      gen: "proletariata"
+      loc: "proletariatu"
+      dat: "proletariatu"
+      ins: "proletariatom"
+      voc: "proletariate"

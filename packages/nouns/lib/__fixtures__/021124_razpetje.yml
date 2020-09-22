@@ -1,0 +1,22 @@
+---
+  id: "21124"
+  word: "råzpęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzpęťje"
+      acc: "råzpęťje"
+      gen: "råzpęťja"
+      loc: "råzpęťju"
+      dat: "råzpęťju"
+      ins: "råzpęťjem"
+      voc: "råzpęťje"
+    plural: 
+      nom: "råzpęťja"
+      acc: "råzpęťja"
+      gen: "råzpętij"
+      loc: "råzpęťjah"
+      dat: "råzpęťjam"
+      ins: "råzpęťjami"
+      voc: "råzpęťja"

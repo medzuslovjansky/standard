@@ -1,0 +1,15 @@
+---
+  id: "14646"
+  word: "klienti"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "klienti"
+      acc: "klienti"
+      gen: "klientov"
+      loc: "klientah"
+      dat: "klientam"
+      ins: "klientami"
+      voc: "klienti"

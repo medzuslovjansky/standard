@@ -1,0 +1,22 @@
+---
+  id: "5100"
+  word: "råzviťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzviťje"
+      acc: "råzviťje"
+      gen: "råzviťja"
+      loc: "råzviťju"
+      dat: "råzviťju"
+      ins: "råzviťjem"
+      voc: "råzviťje"
+    plural: 
+      nom: "råzviťja"
+      acc: "råzviťja"
+      gen: "råzvitij"
+      loc: "råzviťjah"
+      dat: "råzviťjam"
+      ins: "råzviťjami"
+      voc: "råzviťja"

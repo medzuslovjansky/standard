@@ -1,0 +1,22 @@
+---
+  id: "19878"
+  word: "nalet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nalet"
+      acc: "nalet"
+      gen: "naleta"
+      loc: "naletu"
+      dat: "naletu"
+      ins: "naletom"
+      voc: "nalete"
+    plural: 
+      nom: "nalety"
+      acc: "nalety"
+      gen: "naletov"
+      loc: "naletah"
+      dat: "naletam"
+      ins: "naletami"
+      voc: "nalety"

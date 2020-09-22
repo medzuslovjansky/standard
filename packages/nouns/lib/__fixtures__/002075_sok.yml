@@ -1,0 +1,22 @@
+---
+  id: "2075"
+  word: "sok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sok"
+      acc: "sok"
+      gen: "soka"
+      loc: "soku"
+      dat: "soku"
+      ins: "sokom"
+      voc: "soče"
+    plural: 
+      nom: "soky"
+      acc: "soky"
+      gen: "sokov"
+      loc: "sokah"
+      dat: "sokam"
+      ins: "sokami"
+      voc: "soky"

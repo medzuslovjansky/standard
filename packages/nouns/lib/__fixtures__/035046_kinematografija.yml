@@ -1,0 +1,22 @@
+---
+  id: "35046"
+  word: "kinematografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kinematografija"
+      acc: "kinematografijų"
+      gen: "kinematografije"
+      loc: "kinematografiji"
+      dat: "kinematografiji"
+      ins: "kinematografijejų"
+      voc: "kinematografijo"
+    plural: 
+      nom: "kinematografije"
+      acc: "kinematografije"
+      gen: "kinematografij"
+      loc: "kinematografijah"
+      dat: "kinematografijam"
+      ins: "kinematografijami"
+      voc: "kinematografije"

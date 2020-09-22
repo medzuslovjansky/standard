@@ -1,0 +1,22 @@
+---
+  id: "35872"
+  word: "bilbord"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bilbord"
+      acc: "bilbord"
+      gen: "bilborda"
+      loc: "bilbordu"
+      dat: "bilbordu"
+      ins: "bilbordom"
+      voc: "bilborde"
+    plural: 
+      nom: "bilbordy"
+      acc: "bilbordy"
+      gen: "bilbordov"
+      loc: "bilbordah"
+      dat: "bilbordam"
+      ins: "bilbordami"
+      voc: "bilbordy"

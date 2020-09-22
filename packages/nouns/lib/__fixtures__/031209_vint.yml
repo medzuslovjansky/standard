@@ -1,0 +1,22 @@
+---
+  id: "31209"
+  word: "vint"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vint"
+      acc: "vint"
+      gen: "vinta"
+      loc: "vintu"
+      dat: "vintu"
+      ins: "vintom"
+      voc: "vinte"
+    plural: 
+      nom: "vinty"
+      acc: "vinty"
+      gen: "vintov"
+      loc: "vintah"
+      dat: "vintam"
+      ins: "vintami"
+      voc: "vinty"

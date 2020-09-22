@@ -1,0 +1,22 @@
+---
+  id: "3012"
+  word: "harta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "harta"
+      acc: "hartų"
+      gen: "harty"
+      loc: "hartě"
+      dat: "hartě"
+      ins: "hartojų"
+      voc: "harto"
+    plural: 
+      nom: "harty"
+      acc: "harty"
+      gen: "hart"
+      loc: "hartah"
+      dat: "hartam"
+      ins: "hartami"
+      voc: "harty"

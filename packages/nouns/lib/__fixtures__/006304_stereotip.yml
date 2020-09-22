@@ -1,0 +1,22 @@
+---
+  id: "6304"
+  word: "stereotip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stereotip"
+      acc: "stereotip"
+      gen: "stereotipa"
+      loc: "stereotipu"
+      dat: "stereotipu"
+      ins: "stereotipom"
+      voc: "stereotipe"
+    plural: 
+      nom: "stereotipy"
+      acc: "stereotipy"
+      gen: "stereotipov"
+      loc: "stereotipah"
+      dat: "stereotipam"
+      ins: "stereotipami"
+      voc: "stereotipy"

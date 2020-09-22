@@ -1,0 +1,15 @@
+---
+  id: "32177"
+  word: "lihvaŕstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lihvaŕstvo"
+      acc: "lihvaŕstvo"
+      gen: "lihvaŕstva"
+      loc: "lihvaŕstvu"
+      dat: "lihvaŕstvu"
+      ins: "lihvaŕstvom"
+      voc: "lihvaŕstvo"

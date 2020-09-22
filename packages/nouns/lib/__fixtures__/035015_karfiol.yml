@@ -1,0 +1,22 @@
+---
+  id: "35015"
+  word: "karfiol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "karfiol"
+      acc: "karfiol"
+      gen: "karfiola"
+      loc: "karfiolu"
+      dat: "karfiolu"
+      ins: "karfiolom"
+      voc: "karfiole"
+    plural: 
+      nom: "karfioly"
+      acc: "karfioly"
+      gen: "karfiolov"
+      loc: "karfiolah"
+      dat: "karfiolam"
+      ins: "karfiolami"
+      voc: "karfioly"

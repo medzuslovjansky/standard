@@ -1,0 +1,22 @@
+---
+  id: "35066"
+  word: "poznańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poznańje"
+      acc: "poznańje"
+      gen: "poznańja"
+      loc: "poznańju"
+      dat: "poznańju"
+      ins: "poznańjem"
+      voc: "poznańje"
+    plural: 
+      nom: "poznańja"
+      acc: "poznańja"
+      gen: "poznanij"
+      loc: "poznańjah"
+      dat: "poznańjam"
+      ins: "poznańjami"
+      voc: "poznańja"

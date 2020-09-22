@@ -1,0 +1,22 @@
+---
+  id: "36826"
+  word: "podkova"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podkova"
+      acc: "podkovų"
+      gen: "podkovy"
+      loc: "podkově"
+      dat: "podkově"
+      ins: "podkovojų"
+      voc: "podkovo"
+    plural: 
+      nom: "podkovy"
+      acc: "podkovy"
+      gen: "podkov"
+      loc: "podkovah"
+      dat: "podkovam"
+      ins: "podkovami"
+      voc: "podkovy"

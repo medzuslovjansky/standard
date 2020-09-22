@@ -1,0 +1,22 @@
+---
+  id: "35967"
+  word: "pretenzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pretenzija"
+      acc: "pretenzijų"
+      gen: "pretenzije"
+      loc: "pretenziji"
+      dat: "pretenziji"
+      ins: "pretenzijejų"
+      voc: "pretenzijo"
+    plural: 
+      nom: "pretenzije"
+      acc: "pretenzije"
+      gen: "pretenzij"
+      loc: "pretenzijah"
+      dat: "pretenzijam"
+      ins: "pretenzijami"
+      voc: "pretenzije"

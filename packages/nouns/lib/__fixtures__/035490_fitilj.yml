@@ -1,0 +1,22 @@
+---
+  id: "35490"
+  word: "fitilj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fitilj"
+      acc: "fitilj"
+      gen: "fitilja"
+      loc: "fitilju"
+      dat: "fitilju"
+      ins: "fitiljem"
+      voc: "fitilju"
+    plural: 
+      nom: "fitilje"
+      acc: "fitilje"
+      gen: "fitiljev"
+      loc: "fitiljah"
+      dat: "fitiljam"
+      ins: "fitiljami"
+      voc: "fitilje"

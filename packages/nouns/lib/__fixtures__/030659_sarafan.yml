@@ -1,0 +1,22 @@
+---
+  id: "30659"
+  word: "sarafan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sarafan"
+      acc: "sarafan"
+      gen: "sarafana"
+      loc: "sarafanu"
+      dat: "sarafanu"
+      ins: "sarafanom"
+      voc: "sarafane"
+    plural: 
+      nom: "sarafany"
+      acc: "sarafany"
+      gen: "sarafanov"
+      loc: "sarafanah"
+      dat: "sarafanam"
+      ins: "sarafanami"
+      voc: "sarafany"

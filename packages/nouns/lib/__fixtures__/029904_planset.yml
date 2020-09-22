@@ -1,0 +1,22 @@
+---
+  id: "29904"
+  word: "planšet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "planšet"
+      acc: "planšet"
+      gen: "planšeta"
+      loc: "planšetu"
+      dat: "planšetu"
+      ins: "planšetom"
+      voc: "planšete"
+    plural: 
+      nom: "planšety"
+      acc: "planšety"
+      gen: "planšetov"
+      loc: "planšetah"
+      dat: "planšetam"
+      ins: "planšetami"
+      voc: "planšety"

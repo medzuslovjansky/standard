@@ -1,0 +1,22 @@
+---
+  id: "5108"
+  word: "istinnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "istinnosť"
+      acc: "istinnosť"
+      gen: "istinnosti"
+      loc: "istinnosti"
+      dat: "istinnosti"
+      ins: "istinnosťjų"
+      voc: "istinnosti"
+    plural: 
+      nom: "istinnosti"
+      acc: "istinnosti"
+      gen: "istinnostij"
+      loc: "istinnosťah"
+      dat: "istinnosťam"
+      ins: "istinnosťami"
+      voc: "istinnosti"

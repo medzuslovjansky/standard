@@ -1,0 +1,22 @@
+---
+  id: "36093"
+  word: "tvarog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tvarog"
+      acc: "tvarog"
+      gen: "tvaroga"
+      loc: "tvarogu"
+      dat: "tvarogu"
+      ins: "tvarogom"
+      voc: "tvarože"
+    plural: 
+      nom: "tvarogy"
+      acc: "tvarogy"
+      gen: "tvarogov"
+      loc: "tvarogah"
+      dat: "tvarogam"
+      ins: "tvarogami"
+      voc: "tvarogy"

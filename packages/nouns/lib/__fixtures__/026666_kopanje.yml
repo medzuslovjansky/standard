@@ -1,0 +1,15 @@
+---
+  id: "26666"
+  word: "kopańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kopańje"
+      acc: "kopańje"
+      gen: "kopańja"
+      loc: "kopańju"
+      dat: "kopańju"
+      ins: "kopańjem"
+      voc: "kopańje"

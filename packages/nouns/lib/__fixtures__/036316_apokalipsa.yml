@@ -1,0 +1,22 @@
+---
+  id: "36316"
+  word: "apokalipsa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "apokalipsa"
+      acc: "apokalipsų"
+      gen: "apokalipsy"
+      loc: "apokalipsě"
+      dat: "apokalipsě"
+      ins: "apokalipsojų"
+      voc: "apokalipso"
+    plural: 
+      nom: "apokalipsy"
+      acc: "apokalipsy"
+      gen: "apokalips"
+      loc: "apokalipsah"
+      dat: "apokalipsam"
+      ins: "apokalipsami"
+      voc: "apokalipsy"

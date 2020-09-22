@@ -1,0 +1,22 @@
+---
+  id: "4988"
+  word: "interpretacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "interpretacija"
+      acc: "interpretacijų"
+      gen: "interpretacije"
+      loc: "interpretaciji"
+      dat: "interpretaciji"
+      ins: "interpretacijejų"
+      voc: "interpretacijo"
+    plural: 
+      nom: "interpretacije"
+      acc: "interpretacije"
+      gen: "interpretacij"
+      loc: "interpretacijah"
+      dat: "interpretacijam"
+      ins: "interpretacijami"
+      voc: "interpretacije"

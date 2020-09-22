@@ -1,0 +1,23 @@
+---
+  id: "3262"
+  word: "pioner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pioner"
+      acc: "pionera"
+      gen: "pionera"
+      loc: "pioneru"
+      dat: "pioneru"
+      ins: "pionerom"
+      voc: "pionere"
+    plural: 
+      nom: "pioneri"
+      acc: "pionerov"
+      gen: "pionerov"
+      loc: "pionerah"
+      dat: "pioneram"
+      ins: "pionerami"
+      voc: "pioneri"

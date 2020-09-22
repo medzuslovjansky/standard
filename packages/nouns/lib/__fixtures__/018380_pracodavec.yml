@@ -1,0 +1,23 @@
+---
+  id: "18380"
+  word: "pracodavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pracodavec"
+      acc: "pracodavca"
+      gen: "pracodavca"
+      loc: "pracodavcu"
+      dat: "pracodavcu"
+      ins: "pracodavcem"
+      voc: "pracodavče"
+    plural: 
+      nom: "pracodavci"
+      acc: "pracodavcev"
+      gen: "pracodavcev"
+      loc: "pracodavcah"
+      dat: "pracodavcam"
+      ins: "pracodavcami"
+      voc: "pracodavci"

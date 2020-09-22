@@ -1,0 +1,23 @@
+---
+  id: "830"
+  word: "uho"
+  meta: 
+    irregularity: "(uha/ušese; pl. uši)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uho"
+      acc: "uho"
+      gen: "uha / ušese"
+      loc: "uhu / ušesi"
+      dat: "uhu / ušesi"
+      ins: "uhom / ušesem"
+      voc: "uho"
+    plural: 
+      nom: "uši / ušesa"
+      acc: "uši / ušesa"
+      gen: "ušij / ušes"
+      loc: "ušah / ušesah"
+      dat: "ušam / ušesam"
+      ins: "ušami / ušesami"
+      voc: "uši / ušesa"

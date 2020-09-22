@@ -1,0 +1,15 @@
+---
+  id: "22000"
+  word: "osypky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "osypky"
+      acc: "osypky"
+      gen: "osypkov"
+      loc: "osypkah"
+      dat: "osypkam"
+      ins: "osypkami"
+      voc: "osypky"

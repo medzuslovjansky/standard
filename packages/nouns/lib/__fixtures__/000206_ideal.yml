@@ -1,0 +1,22 @@
+---
+  id: "206"
+  word: "ideal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ideal"
+      acc: "ideal"
+      gen: "ideala"
+      loc: "idealu"
+      dat: "idealu"
+      ins: "idealom"
+      voc: "ideale"
+    plural: 
+      nom: "idealy"
+      acc: "idealy"
+      gen: "idealov"
+      loc: "idealah"
+      dat: "idealam"
+      ins: "idealami"
+      voc: "idealy"

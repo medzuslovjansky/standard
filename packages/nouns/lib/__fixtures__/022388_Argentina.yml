@@ -1,0 +1,15 @@
+---
+  id: "22388"
+  word: "Argentina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Argentina"
+      acc: "Argentinų"
+      gen: "Argentiny"
+      loc: "Argentině"
+      dat: "Argentině"
+      ins: "Argentinojų"
+      voc: "Argentino"

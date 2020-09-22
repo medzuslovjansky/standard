@@ -1,0 +1,22 @@
+---
+  id: "8574"
+  word: "konservativnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konservativnosť"
+      acc: "konservativnosť"
+      gen: "konservativnosti"
+      loc: "konservativnosti"
+      dat: "konservativnosti"
+      ins: "konservativnosťjų"
+      voc: "konservativnosti"
+    plural: 
+      nom: "konservativnosti"
+      acc: "konservativnosti"
+      gen: "konservativnostij"
+      loc: "konservativnosťah"
+      dat: "konservativnosťam"
+      ins: "konservativnosťami"
+      voc: "konservativnosti"

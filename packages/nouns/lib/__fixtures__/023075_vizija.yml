@@ -1,0 +1,22 @@
+---
+  id: "23075"
+  word: "vizija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vizija"
+      acc: "vizijų"
+      gen: "vizije"
+      loc: "viziji"
+      dat: "viziji"
+      ins: "vizijejų"
+      voc: "vizijo"
+    plural: 
+      nom: "vizije"
+      acc: "vizije"
+      gen: "vizij"
+      loc: "vizijah"
+      dat: "vizijam"
+      ins: "vizijami"
+      voc: "vizije"

@@ -1,0 +1,22 @@
+---
+  id: "18478"
+  word: "prijemnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prijemnik"
+      acc: "prijemnik"
+      gen: "prijemnika"
+      loc: "prijemniku"
+      dat: "prijemniku"
+      ins: "prijemnikom"
+      voc: "prijemniče"
+    plural: 
+      nom: "prijemniky"
+      acc: "prijemniky"
+      gen: "prijemnikov"
+      loc: "prijemnikah"
+      dat: "prijemnikam"
+      ins: "prijemnikami"
+      voc: "prijemniky"

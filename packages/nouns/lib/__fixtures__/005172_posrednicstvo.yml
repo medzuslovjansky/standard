@@ -1,0 +1,15 @@
+---
+  id: "5172"
+  word: "posrědničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "posrědničstvo"
+      acc: "posrědničstvo"
+      gen: "posrědničstva"
+      loc: "posrědničstvu"
+      dat: "posrědničstvu"
+      ins: "posrědničstvom"
+      voc: "posrědničstvo"

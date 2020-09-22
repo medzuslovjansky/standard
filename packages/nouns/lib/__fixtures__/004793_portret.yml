@@ -1,0 +1,22 @@
+---
+  id: "4793"
+  word: "portret"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "portret"
+      acc: "portret"
+      gen: "portreta"
+      loc: "portretu"
+      dat: "portretu"
+      ins: "portretom"
+      voc: "portrete"
+    plural: 
+      nom: "portrety"
+      acc: "portrety"
+      gen: "portretov"
+      loc: "portretah"
+      dat: "portretam"
+      ins: "portretami"
+      voc: "portrety"

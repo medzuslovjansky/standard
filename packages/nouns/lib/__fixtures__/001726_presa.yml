@@ -1,0 +1,22 @@
+---
+  id: "1726"
+  word: "presa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "presa"
+      acc: "presų"
+      gen: "presy"
+      loc: "presě"
+      dat: "presě"
+      ins: "presojų"
+      voc: "preso"
+    plural: 
+      nom: "presy"
+      acc: "presy"
+      gen: "pres"
+      loc: "presah"
+      dat: "presam"
+      ins: "presami"
+      voc: "presy"

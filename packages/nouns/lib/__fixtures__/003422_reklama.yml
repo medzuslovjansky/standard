@@ -1,0 +1,22 @@
+---
+  id: "3422"
+  word: "reklama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reklama"
+      acc: "reklamų"
+      gen: "reklamy"
+      loc: "reklamě"
+      dat: "reklamě"
+      ins: "reklamojų"
+      voc: "reklamo"
+    plural: 
+      nom: "reklamy"
+      acc: "reklamy"
+      gen: "reklam"
+      loc: "reklamah"
+      dat: "reklamam"
+      ins: "reklamami"
+      voc: "reklamy"

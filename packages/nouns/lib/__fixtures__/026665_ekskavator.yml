@@ -1,0 +1,22 @@
+---
+  id: "26665"
+  word: "ekskavator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ekskavator"
+      acc: "ekskavator"
+      gen: "ekskavatora"
+      loc: "ekskavatoru"
+      dat: "ekskavatoru"
+      ins: "ekskavatorom"
+      voc: "ekskavatore"
+    plural: 
+      nom: "ekskavatory"
+      acc: "ekskavatory"
+      gen: "ekskavatorov"
+      loc: "ekskavatorah"
+      dat: "ekskavatoram"
+      ins: "ekskavatorami"
+      voc: "ekskavatory"

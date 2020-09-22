@@ -1,0 +1,22 @@
+---
+  id: "2445"
+  word: "bedro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bedro"
+      acc: "bedro"
+      gen: "bedra"
+      loc: "bedru"
+      dat: "bedru"
+      ins: "bedrom"
+      voc: "bedro"
+    plural: 
+      nom: "bedra"
+      acc: "bedra"
+      gen: "bedr"
+      loc: "bedrah"
+      dat: "bedram"
+      ins: "bedrami"
+      voc: "bedra"

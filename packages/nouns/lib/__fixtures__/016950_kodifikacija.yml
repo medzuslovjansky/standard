@@ -1,0 +1,22 @@
+---
+  id: "16950"
+  word: "kodifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kodifikacija"
+      acc: "kodifikacijų"
+      gen: "kodifikacije"
+      loc: "kodifikaciji"
+      dat: "kodifikaciji"
+      ins: "kodifikacijejų"
+      voc: "kodifikacijo"
+    plural: 
+      nom: "kodifikacije"
+      acc: "kodifikacije"
+      gen: "kodifikacij"
+      loc: "kodifikacijah"
+      dat: "kodifikacijam"
+      ins: "kodifikacijami"
+      voc: "kodifikacije"

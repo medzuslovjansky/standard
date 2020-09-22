@@ -1,0 +1,23 @@
+---
+  id: "31064"
+  word: "vegetarianec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vegetarianec"
+      acc: "vegetarianca"
+      gen: "vegetarianca"
+      loc: "vegetariancu"
+      dat: "vegetariancu"
+      ins: "vegetariancem"
+      voc: "vegetarianče"
+    plural: 
+      nom: "vegetarianci"
+      acc: "vegetariancev"
+      gen: "vegetariancev"
+      loc: "vegetariancah"
+      dat: "vegetariancam"
+      ins: "vegetariancami"
+      voc: "vegetarianci"

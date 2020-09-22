@@ -1,0 +1,23 @@
+---
+  id: "36070"
+  word: "kivi"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "kivi"
+      acc: "kivi"
+      gen: "kivi"
+      loc: "kivi"
+      dat: "kivi"
+      ins: "kivi"
+      voc: "kivi"
+    plural: 
+      nom: "kivi"
+      acc: "kivi"
+      gen: "kivi"
+      loc: "kivi"
+      dat: "kivi"
+      ins: "kivi"
+      voc: "kivi"

@@ -1,0 +1,22 @@
+---
+  id: "22644"
+  word: "vrěteno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vrěteno"
+      acc: "vrěteno"
+      gen: "vrětena"
+      loc: "vrětenu"
+      dat: "vrětenu"
+      ins: "vrětenom"
+      voc: "vrěteno"
+    plural: 
+      nom: "vrětena"
+      acc: "vrětena"
+      gen: "vrěten"
+      loc: "vrětenah"
+      dat: "vrětenam"
+      ins: "vrětenami"
+      voc: "vrětena"

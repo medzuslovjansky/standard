@@ -1,0 +1,22 @@
+---
+  id: "34755"
+  word: "limuzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "limuzina"
+      acc: "limuzinų"
+      gen: "limuziny"
+      loc: "limuzině"
+      dat: "limuzině"
+      ins: "limuzinojų"
+      voc: "limuzino"
+    plural: 
+      nom: "limuziny"
+      acc: "limuziny"
+      gen: "limuzin"
+      loc: "limuzinah"
+      dat: "limuzinam"
+      ins: "limuzinami"
+      voc: "limuziny"

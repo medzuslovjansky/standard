@@ -1,0 +1,22 @@
+---
+  id: "35187"
+  word: "bacil"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bacil"
+      acc: "bacil"
+      gen: "bacila"
+      loc: "bacilu"
+      dat: "bacilu"
+      ins: "bacilom"
+      voc: "bacile"
+    plural: 
+      nom: "bacily"
+      acc: "bacily"
+      gen: "bacilov"
+      loc: "bacilah"
+      dat: "bacilam"
+      ins: "bacilami"
+      voc: "bacily"

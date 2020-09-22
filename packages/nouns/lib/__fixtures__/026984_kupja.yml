@@ -1,0 +1,22 @@
+---
+  id: "26984"
+  word: "kupja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kupja"
+      acc: "kupjų"
+      gen: "kupje"
+      loc: "kupji"
+      dat: "kupji"
+      ins: "kupjejų"
+      voc: "kupjo"
+    plural: 
+      nom: "kupje"
+      acc: "kupje"
+      gen: "kupej"
+      loc: "kupjah"
+      dat: "kupjam"
+      ins: "kupjami"
+      voc: "kupje"

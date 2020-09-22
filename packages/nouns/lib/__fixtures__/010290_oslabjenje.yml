@@ -1,0 +1,22 @@
+---
+  id: "10290"
+  word: "oslabjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oslabjeńje"
+      acc: "oslabjeńje"
+      gen: "oslabjeńja"
+      loc: "oslabjeńju"
+      dat: "oslabjeńju"
+      ins: "oslabjeńjem"
+      voc: "oslabjeńje"
+    plural: 
+      nom: "oslabjeńja"
+      acc: "oslabjeńja"
+      gen: "oslabjenij"
+      loc: "oslabjeńjah"
+      dat: "oslabjeńjam"
+      ins: "oslabjeńjami"
+      voc: "oslabjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "22912"
+  word: "zvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zvańje"
+      acc: "zvańje"
+      gen: "zvańja"
+      loc: "zvańju"
+      dat: "zvańju"
+      ins: "zvańjem"
+      voc: "zvańje"
+    plural: 
+      nom: "zvańja"
+      acc: "zvańja"
+      gen: "zvanij"
+      loc: "zvańjah"
+      dat: "zvańjam"
+      ins: "zvańjami"
+      voc: "zvańja"

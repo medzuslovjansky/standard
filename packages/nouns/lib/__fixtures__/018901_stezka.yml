@@ -1,0 +1,22 @@
+---
+  id: "18901"
+  word: "stežka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stežka"
+      acc: "stežkų"
+      gen: "stežky"
+      loc: "stežkě"
+      dat: "stežkě"
+      ins: "stežkojų"
+      voc: "stežko"
+    plural: 
+      nom: "stežky"
+      acc: "stežky"
+      gen: "stežek"
+      loc: "stežkah"
+      dat: "stežkam"
+      ins: "stežkami"
+      voc: "stežky"

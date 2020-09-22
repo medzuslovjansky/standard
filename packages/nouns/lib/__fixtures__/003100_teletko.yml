@@ -1,0 +1,22 @@
+---
+  id: "3100"
+  word: "telętko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "telętko"
+      acc: "telętko"
+      gen: "telętka"
+      loc: "telętku"
+      dat: "telętku"
+      ins: "telętkom"
+      voc: "telętko"
+    plural: 
+      nom: "telętka"
+      acc: "telętka"
+      gen: "telętȯk"
+      loc: "telętkah"
+      dat: "telętkam"
+      ins: "telętkami"
+      voc: "telętka"

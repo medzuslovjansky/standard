@@ -1,0 +1,22 @@
+---
+  id: "33192"
+  word: "procesija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "procesija"
+      acc: "procesijų"
+      gen: "procesije"
+      loc: "procesiji"
+      dat: "procesiji"
+      ins: "procesijejų"
+      voc: "procesijo"
+    plural: 
+      nom: "procesije"
+      acc: "procesije"
+      gen: "procesij"
+      loc: "procesijah"
+      dat: "procesijam"
+      ins: "procesijami"
+      voc: "procesije"

@@ -1,0 +1,22 @@
+---
+  id: "23334"
+  word: "nadměrnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nadměrnosť"
+      acc: "nadměrnosť"
+      gen: "nadměrnosti"
+      loc: "nadměrnosti"
+      dat: "nadměrnosti"
+      ins: "nadměrnosťjų"
+      voc: "nadměrnosti"
+    plural: 
+      nom: "nadměrnosti"
+      acc: "nadměrnosti"
+      gen: "nadměrnostij"
+      loc: "nadměrnosťah"
+      dat: "nadměrnosťam"
+      ins: "nadměrnosťami"
+      voc: "nadměrnosti"

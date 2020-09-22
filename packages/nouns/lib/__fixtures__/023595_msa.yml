@@ -1,0 +1,22 @@
+---
+  id: "23595"
+  word: "mša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mša"
+      acc: "mšų"
+      gen: "mše"
+      loc: "mši"
+      dat: "mši"
+      ins: "mšejų"
+      voc: "mšo"
+    plural: 
+      nom: "mše"
+      acc: "mše"
+      gen: "meš"
+      loc: "mšah"
+      dat: "mšam"
+      ins: "mšami"
+      voc: "mše"

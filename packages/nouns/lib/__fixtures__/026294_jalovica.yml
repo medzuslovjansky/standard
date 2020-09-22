@@ -1,0 +1,22 @@
+---
+  id: "26294"
+  word: "jalovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jalovica"
+      acc: "jalovicų"
+      gen: "jalovice"
+      loc: "jalovici"
+      dat: "jalovici"
+      ins: "jalovicejų"
+      voc: "jalovico"
+    plural: 
+      nom: "jalovice"
+      acc: "jalovice"
+      gen: "jalovic"
+      loc: "jalovicah"
+      dat: "jalovicam"
+      ins: "jalovicami"
+      voc: "jalovice"

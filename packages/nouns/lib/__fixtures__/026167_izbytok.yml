@@ -1,0 +1,22 @@
+---
+  id: "26167"
+  word: "izbytȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izbytȯk"
+      acc: "izbytȯk"
+      gen: "izbytka"
+      loc: "izbytku"
+      dat: "izbytku"
+      ins: "izbytkom"
+      voc: "izbytče"
+    plural: 
+      nom: "izbytky"
+      acc: "izbytky"
+      gen: "izbytkov"
+      loc: "izbytkah"
+      dat: "izbytkam"
+      ins: "izbytkami"
+      voc: "izbytky"

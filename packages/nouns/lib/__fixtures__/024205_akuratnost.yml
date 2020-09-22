@@ -1,0 +1,22 @@
+---
+  id: "24205"
+  word: "akuratnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akuratnosť"
+      acc: "akuratnosť"
+      gen: "akuratnosti"
+      loc: "akuratnosti"
+      dat: "akuratnosti"
+      ins: "akuratnosťjų"
+      voc: "akuratnosti"
+    plural: 
+      nom: "akuratnosti"
+      acc: "akuratnosti"
+      gen: "akuratnostij"
+      loc: "akuratnosťah"
+      dat: "akuratnosťam"
+      ins: "akuratnosťami"
+      voc: "akuratnosti"

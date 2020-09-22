@@ -1,0 +1,22 @@
+---
+  id: "27767"
+  word: "motȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "motȯk"
+      acc: "motȯk"
+      gen: "motka"
+      loc: "motku"
+      dat: "motku"
+      ins: "motkom"
+      voc: "motče"
+    plural: 
+      nom: "motky"
+      acc: "motky"
+      gen: "motkov"
+      loc: "motkah"
+      dat: "motkam"
+      ins: "motkami"
+      voc: "motky"

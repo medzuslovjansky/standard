@@ -1,0 +1,15 @@
+---
+  id: "25020"
+  word: "čistosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čistosť"
+      acc: "čistosť"
+      gen: "čistosti"
+      loc: "čistosti"
+      dat: "čistosti"
+      ins: "čistosťjų"
+      voc: "čistosti"

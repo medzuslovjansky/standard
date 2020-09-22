@@ -1,0 +1,23 @@
+---
+  id: "7968"
+  word: "izbiratelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izbiratelj"
+      acc: "izbiratelja"
+      gen: "izbiratelja"
+      loc: "izbiratelju"
+      dat: "izbiratelju"
+      ins: "izbirateljem"
+      voc: "izbiratelju"
+    plural: 
+      nom: "izbiratelji"
+      acc: "izbirateljev"
+      gen: "izbirateljev"
+      loc: "izbirateljah"
+      dat: "izbirateljam"
+      ins: "izbirateljami"
+      voc: "izbiratelji"

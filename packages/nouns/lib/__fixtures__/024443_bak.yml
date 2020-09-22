@@ -1,0 +1,22 @@
+---
+  id: "24443"
+  word: "bak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bak"
+      acc: "bak"
+      gen: "baka"
+      loc: "baku"
+      dat: "baku"
+      ins: "bakom"
+      voc: "bače"
+    plural: 
+      nom: "baky"
+      acc: "baky"
+      gen: "bakov"
+      loc: "bakah"
+      dat: "bakam"
+      ins: "bakami"
+      voc: "baky"

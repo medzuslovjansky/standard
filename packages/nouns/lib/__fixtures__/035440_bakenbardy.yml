@@ -1,0 +1,15 @@
+---
+  id: "35440"
+  word: "bakenbardy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "bakenbardy"
+      acc: "bakenbardy"
+      gen: "bakenbard"
+      loc: "bakenbardah"
+      dat: "bakenbardam"
+      ins: "bakenbardami"
+      voc: "bakenbardy"

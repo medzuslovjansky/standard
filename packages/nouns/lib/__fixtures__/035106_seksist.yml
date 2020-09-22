@@ -1,0 +1,23 @@
+---
+  id: "35106"
+  word: "seksist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "seksist"
+      acc: "seksista"
+      gen: "seksista"
+      loc: "seksistu"
+      dat: "seksistu"
+      ins: "seksistom"
+      voc: "seksiste"
+    plural: 
+      nom: "seksisti"
+      acc: "seksistov"
+      gen: "seksistov"
+      loc: "seksistah"
+      dat: "seksistam"
+      ins: "seksistami"
+      voc: "seksisti"

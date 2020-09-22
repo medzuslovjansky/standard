@@ -1,0 +1,15 @@
+---
+  id: "5909"
+  word: "nespokojstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nespokojstvo"
+      acc: "nespokojstvo"
+      gen: "nespokojstva"
+      loc: "nespokojstvu"
+      dat: "nespokojstvu"
+      ins: "nespokojstvom"
+      voc: "nespokojstvo"

@@ -1,0 +1,15 @@
+---
+  id: "29676"
+  word: "ostanky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "ostanky"
+      acc: "ostanky"
+      gen: "ostankov"
+      loc: "ostankah"
+      dat: "ostankam"
+      ins: "ostankami"
+      voc: "ostanky"

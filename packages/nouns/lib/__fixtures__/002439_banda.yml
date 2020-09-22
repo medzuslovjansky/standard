@@ -1,0 +1,22 @@
+---
+  id: "2439"
+  word: "banda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "banda"
+      acc: "bandų"
+      gen: "bandy"
+      loc: "bandě"
+      dat: "bandě"
+      ins: "bandojų"
+      voc: "bando"
+    plural: 
+      nom: "bandy"
+      acc: "bandy"
+      gen: "band"
+      loc: "bandah"
+      dat: "bandam"
+      ins: "bandami"
+      voc: "bandy"

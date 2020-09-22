@@ -1,0 +1,23 @@
+---
+  id: "26941"
+  word: "krvopijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krvopijec"
+      acc: "krvopijca"
+      gen: "krvopijca"
+      loc: "krvopijcu"
+      dat: "krvopijcu"
+      ins: "krvopijcem"
+      voc: "krvopijče"
+    plural: 
+      nom: "krvopijci"
+      acc: "krvopijcev"
+      gen: "krvopijcev"
+      loc: "krvopijcah"
+      dat: "krvopijcam"
+      ins: "krvopijcami"
+      voc: "krvopijci"

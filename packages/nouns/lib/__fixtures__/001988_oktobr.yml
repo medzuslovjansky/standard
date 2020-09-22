@@ -1,0 +1,15 @@
+---
+  id: "1988"
+  word: "oktobr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "oktobr"
+      acc: "oktobr"
+      gen: "oktobra"
+      loc: "oktobru"
+      dat: "oktobru"
+      ins: "oktobrom"
+      voc: "oktobre"

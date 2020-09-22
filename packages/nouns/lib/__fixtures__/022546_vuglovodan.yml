@@ -1,0 +1,22 @@
+---
+  id: "22546"
+  word: "vųglovodan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vųglovodan"
+      acc: "vųglovodan"
+      gen: "vųglovodana"
+      loc: "vųglovodanu"
+      dat: "vųglovodanu"
+      ins: "vųglovodanom"
+      voc: "vųglovodane"
+    plural: 
+      nom: "vųglovodany"
+      acc: "vųglovodany"
+      gen: "vųglovodanov"
+      loc: "vųglovodanah"
+      dat: "vųglovodanam"
+      ins: "vųglovodanami"
+      voc: "vųglovodany"

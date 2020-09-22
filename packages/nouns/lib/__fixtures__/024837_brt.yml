@@ -1,0 +1,22 @@
+---
+  id: "24837"
+  word: "brť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brť"
+      acc: "brť"
+      gen: "brti"
+      loc: "brti"
+      dat: "brti"
+      ins: "brťjų"
+      voc: "brti"
+    plural: 
+      nom: "brti"
+      acc: "brti"
+      gen: "brtij"
+      loc: "brťah"
+      dat: "brťam"
+      ins: "brťami"
+      voc: "brti"

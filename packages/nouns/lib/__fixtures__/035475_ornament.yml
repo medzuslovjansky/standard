@@ -1,0 +1,22 @@
+---
+  id: "35475"
+  word: "ornament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ornament"
+      acc: "ornament"
+      gen: "ornamenta"
+      loc: "ornamentu"
+      dat: "ornamentu"
+      ins: "ornamentom"
+      voc: "ornamente"
+    plural: 
+      nom: "ornamenty"
+      acc: "ornamenty"
+      gen: "ornamentov"
+      loc: "ornamentah"
+      dat: "ornamentam"
+      ins: "ornamentami"
+      voc: "ornamenty"

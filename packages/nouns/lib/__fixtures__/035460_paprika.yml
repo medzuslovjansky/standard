@@ -1,0 +1,22 @@
+---
+  id: "35460"
+  word: "paprika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "paprika"
+      acc: "paprikų"
+      gen: "papriky"
+      loc: "paprikě"
+      dat: "paprikě"
+      ins: "paprikojų"
+      voc: "papriko"
+    plural: 
+      nom: "papriky"
+      acc: "papriky"
+      gen: "paprik"
+      loc: "paprikah"
+      dat: "paprikam"
+      ins: "paprikami"
+      voc: "papriky"

@@ -1,0 +1,22 @@
+---
+  id: "7337"
+  word: "družstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "družstvo"
+      acc: "družstvo"
+      gen: "družstva"
+      loc: "družstvu"
+      dat: "družstvu"
+      ins: "družstvom"
+      voc: "družstvo"
+    plural: 
+      nom: "družstva"
+      acc: "družstva"
+      gen: "družstv"
+      loc: "družstvah"
+      dat: "družstvam"
+      ins: "družstvami"
+      voc: "družstva"

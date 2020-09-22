@@ -1,0 +1,15 @@
+---
+  id: "6767"
+  word: "cělovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cělovańje"
+      acc: "cělovańje"
+      gen: "cělovańja"
+      loc: "cělovańju"
+      dat: "cělovańju"
+      ins: "cělovańjem"
+      voc: "cělovańje"

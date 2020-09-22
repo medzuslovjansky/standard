@@ -1,0 +1,22 @@
+---
+  id: "26650"
+  word: "konnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konnica"
+      acc: "konnicų"
+      gen: "konnice"
+      loc: "konnici"
+      dat: "konnici"
+      ins: "konnicejų"
+      voc: "konnico"
+    plural: 
+      nom: "konnice"
+      acc: "konnice"
+      gen: "konnic"
+      loc: "konnicah"
+      dat: "konnicam"
+      ins: "konnicami"
+      voc: "konnice"

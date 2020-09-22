@@ -1,0 +1,23 @@
+---
+  id: "14165"
+  word: "zaroditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zaroditelj"
+      acc: "zaroditelja"
+      gen: "zaroditelja"
+      loc: "zaroditelju"
+      dat: "zaroditelju"
+      ins: "zaroditeljem"
+      voc: "zaroditelju"
+    plural: 
+      nom: "zaroditelji"
+      acc: "zaroditeljev"
+      gen: "zaroditeljev"
+      loc: "zaroditeljah"
+      dat: "zaroditeljam"
+      ins: "zaroditeljami"
+      voc: "zaroditelji"

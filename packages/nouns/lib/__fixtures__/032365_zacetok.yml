@@ -1,0 +1,22 @@
+---
+  id: "32365"
+  word: "začętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "začętȯk"
+      acc: "začętȯk"
+      gen: "začętka"
+      loc: "začętku"
+      dat: "začętku"
+      ins: "začętkom"
+      voc: "začętče"
+    plural: 
+      nom: "začętky"
+      acc: "začętky"
+      gen: "začętkov"
+      loc: "začętkah"
+      dat: "začętkam"
+      ins: "začętkami"
+      voc: "začętky"

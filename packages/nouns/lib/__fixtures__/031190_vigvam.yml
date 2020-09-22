@@ -1,0 +1,22 @@
+---
+  id: "31190"
+  word: "vigvam"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vigvam"
+      acc: "vigvam"
+      gen: "vigvama"
+      loc: "vigvamu"
+      dat: "vigvamu"
+      ins: "vigvamom"
+      voc: "vigvame"
+    plural: 
+      nom: "vigvamy"
+      acc: "vigvamy"
+      gen: "vigvamov"
+      loc: "vigvamah"
+      dat: "vigvamam"
+      ins: "vigvamami"
+      voc: "vigvamy"

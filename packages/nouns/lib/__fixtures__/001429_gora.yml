@@ -1,0 +1,22 @@
+---
+  id: "1429"
+  word: "gora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gora"
+      acc: "gorų"
+      gen: "gory"
+      loc: "gorě"
+      dat: "gorě"
+      ins: "gorojų"
+      voc: "goro"
+    plural: 
+      nom: "gory"
+      acc: "gory"
+      gen: "gor"
+      loc: "gorah"
+      dat: "goram"
+      ins: "gorami"
+      voc: "gory"

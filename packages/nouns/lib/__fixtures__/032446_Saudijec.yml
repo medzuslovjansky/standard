@@ -1,0 +1,23 @@
+---
+  id: "32446"
+  word: "Saudijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Saudijec"
+      acc: "Saudijca"
+      gen: "Saudijca"
+      loc: "Saudijcu"
+      dat: "Saudijcu"
+      ins: "Saudijcem"
+      voc: "Saudijče"
+    plural: 
+      nom: "Saudijci"
+      acc: "Saudijcev"
+      gen: "Saudijcev"
+      loc: "Saudijcah"
+      dat: "Saudijcam"
+      ins: "Saudijcami"
+      voc: "Saudijci"

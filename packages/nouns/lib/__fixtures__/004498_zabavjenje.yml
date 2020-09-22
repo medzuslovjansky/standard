@@ -1,0 +1,15 @@
+---
+  id: "4498"
+  word: "zabavjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zabavjeńje"
+      acc: "zabavjeńje"
+      gen: "zabavjeńja"
+      loc: "zabavjeńju"
+      dat: "zabavjeńju"
+      ins: "zabavjeńjem"
+      voc: "zabavjeńje"

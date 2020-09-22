@@ -1,0 +1,23 @@
+---
+  id: "2447"
+  word: "Bělorus"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Bělorus"
+      acc: "Bělorusa"
+      gen: "Bělorusa"
+      loc: "Bělorusu"
+      dat: "Bělorusu"
+      ins: "Bělorusom"
+      voc: "Běloruse"
+    plural: 
+      nom: "Bělorusi"
+      acc: "Bělorusov"
+      gen: "Bělorusov"
+      loc: "Bělorusah"
+      dat: "Bělorusam"
+      ins: "Bělorusami"
+      voc: "Bělorusi"

@@ -1,0 +1,22 @@
+---
+  id: "36087"
+  word: "fjuzelaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fjuzelaž"
+      acc: "fjuzelaž"
+      gen: "fjuzelaža"
+      loc: "fjuzelažu"
+      dat: "fjuzelažu"
+      ins: "fjuzelažem"
+      voc: "fjuzelažu"
+    plural: 
+      nom: "fjuzelaže"
+      acc: "fjuzelaže"
+      gen: "fjuzelažev"
+      loc: "fjuzelažah"
+      dat: "fjuzelažam"
+      ins: "fjuzelažami"
+      voc: "fjuzelaže"

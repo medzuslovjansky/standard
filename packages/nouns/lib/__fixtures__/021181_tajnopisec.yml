@@ -1,0 +1,23 @@
+---
+  id: "21181"
+  word: "tajnopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tajnopisec"
+      acc: "tajnopisca"
+      gen: "tajnopisca"
+      loc: "tajnopiscu"
+      dat: "tajnopiscu"
+      ins: "tajnopiscem"
+      voc: "tajnopisče"
+    plural: 
+      nom: "tajnopisci"
+      acc: "tajnopiscev"
+      gen: "tajnopiscev"
+      loc: "tajnopiscah"
+      dat: "tajnopiscam"
+      ins: "tajnopiscami"
+      voc: "tajnopisci"

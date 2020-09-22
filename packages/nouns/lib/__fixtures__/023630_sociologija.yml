@@ -1,0 +1,15 @@
+---
+  id: "23630"
+  word: "sociologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sociologija"
+      acc: "sociologijų"
+      gen: "sociologije"
+      loc: "sociologiji"
+      dat: "sociologiji"
+      ins: "sociologijejų"
+      voc: "sociologijo"

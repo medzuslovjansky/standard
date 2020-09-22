@@ -1,0 +1,23 @@
+---
+  id: "20384"
+  word: "homjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "homjak"
+      acc: "homjaka"
+      gen: "homjaka"
+      loc: "homjaku"
+      dat: "homjaku"
+      ins: "homjakom"
+      voc: "homjače"
+    plural: 
+      nom: "homjaki"
+      acc: "homjakov"
+      gen: "homjakov"
+      loc: "homjakah"
+      dat: "homjakam"
+      ins: "homjakami"
+      voc: "homjaki"

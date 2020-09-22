@@ -1,0 +1,22 @@
+---
+  id: "163"
+  word: "mebelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mebelj"
+      acc: "mebelj"
+      gen: "mebelja"
+      loc: "mebelju"
+      dat: "mebelju"
+      ins: "mebeljem"
+      voc: "mebelju"
+    plural: 
+      nom: "mebelje"
+      acc: "mebelje"
+      gen: "mebeljev"
+      loc: "mebeljah"
+      dat: "mebeljam"
+      ins: "mebeljami"
+      voc: "mebelje"

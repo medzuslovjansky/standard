@@ -1,0 +1,22 @@
+---
+  id: "35230"
+  word: "očekyvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "očekyvańje"
+      acc: "očekyvańje"
+      gen: "očekyvańja"
+      loc: "očekyvańju"
+      dat: "očekyvańju"
+      ins: "očekyvańjem"
+      voc: "očekyvańje"
+    plural: 
+      nom: "očekyvańja"
+      acc: "očekyvańja"
+      gen: "očekyvanij"
+      loc: "očekyvańjah"
+      dat: "očekyvańjam"
+      ins: "očekyvańjami"
+      voc: "očekyvańja"

@@ -1,0 +1,22 @@
+---
+  id: "25037"
+  word: "čȯln"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čȯln"
+      acc: "čȯln"
+      gen: "čȯlna"
+      loc: "čȯlnu"
+      dat: "čȯlnu"
+      ins: "čȯlnom"
+      voc: "čȯlne"
+    plural: 
+      nom: "čȯlny"
+      acc: "čȯlny"
+      gen: "čȯlnov"
+      loc: "čȯlnah"
+      dat: "čȯlnam"
+      ins: "čȯlnami"
+      voc: "čȯlny"

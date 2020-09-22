@@ -1,0 +1,22 @@
+---
+  id: "20453"
+  word: "mazilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mazilo"
+      acc: "mazilo"
+      gen: "mazila"
+      loc: "mazilu"
+      dat: "mazilu"
+      ins: "mazilom"
+      voc: "mazilo"
+    plural: 
+      nom: "mazila"
+      acc: "mazila"
+      gen: "mazil"
+      loc: "mazilah"
+      dat: "mazilam"
+      ins: "mazilami"
+      voc: "mazila"

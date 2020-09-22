@@ -1,0 +1,22 @@
+---
+  id: "21826"
+  word: "vȯzstańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯzstańje"
+      acc: "vȯzstańje"
+      gen: "vȯzstańja"
+      loc: "vȯzstańju"
+      dat: "vȯzstańju"
+      ins: "vȯzstańjem"
+      voc: "vȯzstańje"
+    plural: 
+      nom: "vȯzstańja"
+      acc: "vȯzstańja"
+      gen: "vȯzstanij"
+      loc: "vȯzstańjah"
+      dat: "vȯzstańjam"
+      ins: "vȯzstańjami"
+      voc: "vȯzstańja"

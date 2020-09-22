@@ -1,0 +1,15 @@
+---
+  id: "22466"
+  word: "Salvador"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Salvador"
+      acc: "Salvador"
+      gen: "Salvadora"
+      loc: "Salvadoru"
+      dat: "Salvadoru"
+      ins: "Salvadorom"
+      voc: "Salvadore"

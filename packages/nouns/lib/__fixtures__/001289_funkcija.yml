@@ -1,0 +1,22 @@
+---
+  id: "1289"
+  word: "funkcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "funkcija"
+      acc: "funkcijų"
+      gen: "funkcije"
+      loc: "funkciji"
+      dat: "funkciji"
+      ins: "funkcijejų"
+      voc: "funkcijo"
+    plural: 
+      nom: "funkcije"
+      acc: "funkcije"
+      gen: "funkcij"
+      loc: "funkcijah"
+      dat: "funkcijam"
+      ins: "funkcijami"
+      voc: "funkcije"

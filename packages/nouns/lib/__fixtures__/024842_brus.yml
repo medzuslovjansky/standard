@@ -1,0 +1,22 @@
+---
+  id: "24842"
+  word: "brus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brus"
+      acc: "brus"
+      gen: "brusa"
+      loc: "brusu"
+      dat: "brusu"
+      ins: "brusom"
+      voc: "bruse"
+    plural: 
+      nom: "brusy"
+      acc: "brusy"
+      gen: "brusov"
+      loc: "brusah"
+      dat: "brusam"
+      ins: "brusami"
+      voc: "brusy"

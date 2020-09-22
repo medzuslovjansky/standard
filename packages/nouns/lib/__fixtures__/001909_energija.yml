@@ -1,0 +1,15 @@
+---
+  id: "1909"
+  word: "energija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "energija"
+      acc: "energijų"
+      gen: "energije"
+      loc: "energiji"
+      dat: "energiji"
+      ins: "energijejų"
+      voc: "energijo"

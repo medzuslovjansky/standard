@@ -1,0 +1,22 @@
+---
+  id: "379"
+  word: "maćeha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maćeha"
+      acc: "maćehų"
+      gen: "maćehy"
+      loc: "maćehě"
+      dat: "maćehě"
+      ins: "maćehojų"
+      voc: "maćeho"
+    plural: 
+      nom: "maćehy"
+      acc: "maćehy"
+      gen: "maćeh"
+      loc: "maćehah"
+      dat: "maćeham"
+      ins: "maćehami"
+      voc: "maćehy"

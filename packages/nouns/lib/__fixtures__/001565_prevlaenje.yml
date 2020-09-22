@@ -1,0 +1,22 @@
+---
+  id: "1565"
+  word: "prěvlađeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěvlađeńje"
+      acc: "prěvlađeńje"
+      gen: "prěvlađeńja"
+      loc: "prěvlađeńju"
+      dat: "prěvlađeńju"
+      ins: "prěvlađeńjem"
+      voc: "prěvlađeńje"
+    plural: 
+      nom: "prěvlađeńja"
+      acc: "prěvlađeńja"
+      gen: "prěvlađenij"
+      loc: "prěvlađeńjah"
+      dat: "prěvlađeńjam"
+      ins: "prěvlađeńjami"
+      voc: "prěvlađeńja"

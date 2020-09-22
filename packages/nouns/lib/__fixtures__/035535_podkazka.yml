@@ -1,0 +1,22 @@
+---
+  id: "35535"
+  word: "podkazka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podkazka"
+      acc: "podkazkų"
+      gen: "podkazky"
+      loc: "podkazkě"
+      dat: "podkazkě"
+      ins: "podkazkojų"
+      voc: "podkazko"
+    plural: 
+      nom: "podkazky"
+      acc: "podkazky"
+      gen: "podkazȯk"
+      loc: "podkazkah"
+      dat: "podkazkam"
+      ins: "podkazkami"
+      voc: "podkazky"

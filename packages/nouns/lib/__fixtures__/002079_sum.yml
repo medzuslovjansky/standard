@@ -1,0 +1,22 @@
+---
+  id: "2079"
+  word: "šum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šum"
+      acc: "šum"
+      gen: "šuma"
+      loc: "šumu"
+      dat: "šumu"
+      ins: "šumom"
+      voc: "šum"
+    plural: 
+      nom: "šuma"
+      acc: "šuma"
+      gen: "šum"
+      loc: "šumah"
+      dat: "šumam"
+      ins: "šumami"
+      voc: "šuma"

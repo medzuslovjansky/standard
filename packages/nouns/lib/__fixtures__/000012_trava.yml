@@ -1,0 +1,22 @@
+---
+  id: "12"
+  word: "trava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trava"
+      acc: "travų"
+      gen: "travy"
+      loc: "travě"
+      dat: "travě"
+      ins: "travojų"
+      voc: "travo"
+    plural: 
+      nom: "travy"
+      acc: "travy"
+      gen: "trav"
+      loc: "travah"
+      dat: "travam"
+      ins: "travami"
+      voc: "travy"

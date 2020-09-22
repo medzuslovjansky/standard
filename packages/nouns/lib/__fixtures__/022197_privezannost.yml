@@ -1,0 +1,22 @@
+---
+  id: "22197"
+  word: "privęzannosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "privęzannosť"
+      acc: "privęzannosť"
+      gen: "privęzannosti"
+      loc: "privęzannosti"
+      dat: "privęzannosti"
+      ins: "privęzannosťjų"
+      voc: "privęzannosti"
+    plural: 
+      nom: "privęzannosti"
+      acc: "privęzannosti"
+      gen: "privęzannostij"
+      loc: "privęzannosťah"
+      dat: "privęzannosťam"
+      ins: "privęzannosťami"
+      voc: "privęzannosti"

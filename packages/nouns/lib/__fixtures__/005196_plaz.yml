@@ -1,0 +1,22 @@
+---
+  id: "5196"
+  word: "plaž"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plaž"
+      acc: "plaž"
+      gen: "plaži"
+      loc: "plaži"
+      dat: "plaži"
+      ins: "plažjų"
+      voc: "plaži"
+    plural: 
+      nom: "plaži"
+      acc: "plaži"
+      gen: "plažij"
+      loc: "plažah"
+      dat: "plažam"
+      ins: "plažami"
+      voc: "plaži"

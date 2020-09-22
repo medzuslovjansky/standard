@@ -1,0 +1,23 @@
+---
+  id: "2846"
+  word: "premier-ministr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "premier-ministr"
+      acc: "premier-ministra"
+      gen: "premier-ministra"
+      loc: "premier-ministru"
+      dat: "premier-ministru"
+      ins: "premier-ministrom"
+      voc: "premier-ministre"
+    plural: 
+      nom: "premier-ministri"
+      acc: "premier-ministrov"
+      gen: "premier-ministrov"
+      loc: "premier-ministrah"
+      dat: "premier-ministram"
+      ins: "premier-ministrami"
+      voc: "premier-ministri"

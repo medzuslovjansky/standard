@@ -1,0 +1,22 @@
+---
+  id: "23307"
+  word: "proba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "proba"
+      acc: "probų"
+      gen: "proby"
+      loc: "probě"
+      dat: "probě"
+      ins: "probojų"
+      voc: "probo"
+    plural: 
+      nom: "proby"
+      acc: "proby"
+      gen: "prob"
+      loc: "probah"
+      dat: "probam"
+      ins: "probami"
+      voc: "proby"

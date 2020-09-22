@@ -1,0 +1,15 @@
+---
+  id: "16777"
+  word: "zemjeděľstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zemjeděľstvo"
+      acc: "zemjeděľstvo"
+      gen: "zemjeděľstva"
+      loc: "zemjeděľstvu"
+      dat: "zemjeděľstvu"
+      ins: "zemjeděľstvom"
+      voc: "zemjeděľstvo"

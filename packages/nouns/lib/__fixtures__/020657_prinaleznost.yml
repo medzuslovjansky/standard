@@ -1,0 +1,22 @@
+---
+  id: "20657"
+  word: "prinaležnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prinaležnosť"
+      acc: "prinaležnosť"
+      gen: "prinaležnosti"
+      loc: "prinaležnosti"
+      dat: "prinaležnosti"
+      ins: "prinaležnosťjų"
+      voc: "prinaležnosti"
+    plural: 
+      nom: "prinaležnosti"
+      acc: "prinaležnosti"
+      gen: "prinaležnostij"
+      loc: "prinaležnosťah"
+      dat: "prinaležnosťam"
+      ins: "prinaležnosťami"
+      voc: "prinaležnosti"

@@ -1,0 +1,22 @@
+---
+  id: "30841"
+  word: "šator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šator"
+      acc: "šator"
+      gen: "šatora"
+      loc: "šatoru"
+      dat: "šatoru"
+      ins: "šatorom"
+      voc: "šatore"
+    plural: 
+      nom: "šatory"
+      acc: "šatory"
+      gen: "šatorov"
+      loc: "šatorah"
+      dat: "šatoram"
+      ins: "šatorami"
+      voc: "šatory"

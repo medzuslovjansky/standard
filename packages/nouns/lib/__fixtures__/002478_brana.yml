@@ -1,0 +1,22 @@
+---
+  id: "2478"
+  word: "bråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bråna"
+      acc: "brånų"
+      gen: "bråny"
+      loc: "bråně"
+      dat: "bråně"
+      ins: "brånojų"
+      voc: "bråno"
+    plural: 
+      nom: "bråny"
+      acc: "bråny"
+      gen: "brån"
+      loc: "brånah"
+      dat: "brånam"
+      ins: "brånami"
+      voc: "bråny"

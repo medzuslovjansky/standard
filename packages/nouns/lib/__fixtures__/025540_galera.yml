@@ -1,0 +1,22 @@
+---
+  id: "25540"
+  word: "galera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galera"
+      acc: "galerų"
+      gen: "galery"
+      loc: "galerě"
+      dat: "galerě"
+      ins: "galerojų"
+      voc: "galero"
+    plural: 
+      nom: "galery"
+      acc: "galery"
+      gen: "galer"
+      loc: "galerah"
+      dat: "galeram"
+      ins: "galerami"
+      voc: "galery"

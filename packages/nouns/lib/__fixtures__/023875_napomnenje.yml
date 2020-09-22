@@ -1,0 +1,22 @@
+---
+  id: "23875"
+  word: "napomněńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "napomněńje"
+      acc: "napomněńje"
+      gen: "napomněńja"
+      loc: "napomněńju"
+      dat: "napomněńju"
+      ins: "napomněńjem"
+      voc: "napomněńje"
+    plural: 
+      nom: "napomněńja"
+      acc: "napomněńja"
+      gen: "napomněnij"
+      loc: "napomněńjah"
+      dat: "napomněńjam"
+      ins: "napomněńjami"
+      voc: "napomněńja"

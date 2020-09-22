@@ -1,0 +1,22 @@
+---
+  id: "33415"
+  word: "katalog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "katalog"
+      acc: "katalog"
+      gen: "kataloga"
+      loc: "katalogu"
+      dat: "katalogu"
+      ins: "katalogom"
+      voc: "katalože"
+    plural: 
+      nom: "katalogy"
+      acc: "katalogy"
+      gen: "katalogov"
+      loc: "katalogah"
+      dat: "katalogam"
+      ins: "katalogami"
+      voc: "katalogy"

@@ -1,0 +1,22 @@
+---
+  id: "1473"
+  word: "koža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koža"
+      acc: "kožų"
+      gen: "kože"
+      loc: "koži"
+      dat: "koži"
+      ins: "kožejų"
+      voc: "kožo"
+    plural: 
+      nom: "kože"
+      acc: "kože"
+      gen: "kož"
+      loc: "kožah"
+      dat: "kožam"
+      ins: "kožami"
+      voc: "kože"

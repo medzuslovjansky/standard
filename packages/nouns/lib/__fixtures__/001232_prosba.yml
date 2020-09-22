@@ -1,0 +1,22 @@
+---
+  id: "1232"
+  word: "prośba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prośba"
+      acc: "prośbų"
+      gen: "prośby"
+      loc: "prośbě"
+      dat: "prośbě"
+      ins: "prośbojų"
+      voc: "prośbo"
+    plural: 
+      nom: "prośby"
+      acc: "prośby"
+      gen: "prośb"
+      loc: "prośbah"
+      dat: "prośbam"
+      ins: "prośbami"
+      voc: "prośby"

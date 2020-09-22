@@ -1,0 +1,23 @@
+---
+  id: "17785"
+  word: "męsojed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "męsojed"
+      acc: "męsojeda"
+      gen: "męsojeda"
+      loc: "męsojedu"
+      dat: "męsojedu"
+      ins: "męsojedom"
+      voc: "męsojede"
+    plural: 
+      nom: "męsojedi"
+      acc: "męsojedov"
+      gen: "męsojedov"
+      loc: "męsojedah"
+      dat: "męsojedam"
+      ins: "męsojedami"
+      voc: "męsojedi"

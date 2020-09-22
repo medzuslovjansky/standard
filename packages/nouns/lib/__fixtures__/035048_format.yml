@@ -1,0 +1,22 @@
+---
+  id: "35048"
+  word: "format"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "format"
+      acc: "format"
+      gen: "formata"
+      loc: "formatu"
+      dat: "formatu"
+      ins: "formatom"
+      voc: "formate"
+    plural: 
+      nom: "formaty"
+      acc: "formaty"
+      gen: "formatov"
+      loc: "formatah"
+      dat: "formatam"
+      ins: "formatami"
+      voc: "formaty"

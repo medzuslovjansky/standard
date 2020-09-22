@@ -1,0 +1,22 @@
+---
+  id: "2868"
+  word: "karta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "karta"
+      acc: "kartų"
+      gen: "karty"
+      loc: "kartě"
+      dat: "kartě"
+      ins: "kartojų"
+      voc: "karto"
+    plural: 
+      nom: "karty"
+      acc: "karty"
+      gen: "kart"
+      loc: "kartah"
+      dat: "kartam"
+      ins: "kartami"
+      voc: "karty"

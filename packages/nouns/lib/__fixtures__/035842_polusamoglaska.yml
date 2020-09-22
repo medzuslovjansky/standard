@@ -1,0 +1,22 @@
+---
+  id: "35842"
+  word: "polusamoglåska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polusamoglåska"
+      acc: "polusamoglåskų"
+      gen: "polusamoglåsky"
+      loc: "polusamoglåskě"
+      dat: "polusamoglåskě"
+      ins: "polusamoglåskojų"
+      voc: "polusamoglåsko"
+    plural: 
+      nom: "polusamoglåsky"
+      acc: "polusamoglåsky"
+      gen: "polusamoglåsȯk"
+      loc: "polusamoglåskah"
+      dat: "polusamoglåskam"
+      ins: "polusamoglåskami"
+      voc: "polusamoglåsky"

@@ -1,0 +1,22 @@
+---
+  id: "19682"
+  word: "dvojina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvojina"
+      acc: "dvojinų"
+      gen: "dvojiny"
+      loc: "dvojině"
+      dat: "dvojině"
+      ins: "dvojinojų"
+      voc: "dvojino"
+    plural: 
+      nom: "dvojiny"
+      acc: "dvojiny"
+      gen: "dvojin"
+      loc: "dvojinah"
+      dat: "dvojinam"
+      ins: "dvojinami"
+      voc: "dvojiny"

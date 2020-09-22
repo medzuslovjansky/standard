@@ -1,0 +1,23 @@
+---
+  id: "32516"
+  word: "faraon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "faraon"
+      acc: "faraona"
+      gen: "faraona"
+      loc: "faraonu"
+      dat: "faraonu"
+      ins: "faraonom"
+      voc: "faraone"
+    plural: 
+      nom: "faraoni"
+      acc: "faraonov"
+      gen: "faraonov"
+      loc: "faraonah"
+      dat: "faraonam"
+      ins: "faraonami"
+      voc: "faraoni"

@@ -1,0 +1,22 @@
+---
+  id: "15060"
+  word: "ščęstnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ščęstnosť"
+      acc: "ščęstnosť"
+      gen: "ščęstnosti"
+      loc: "ščęstnosti"
+      dat: "ščęstnosti"
+      ins: "ščęstnosťjų"
+      voc: "ščęstnosti"
+    plural: 
+      nom: "ščęstnosti"
+      acc: "ščęstnosti"
+      gen: "ščęstnostij"
+      loc: "ščęstnosťah"
+      dat: "ščęstnosťam"
+      ins: "ščęstnosťami"
+      voc: "ščęstnosti"

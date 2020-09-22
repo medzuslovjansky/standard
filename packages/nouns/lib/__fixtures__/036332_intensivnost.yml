@@ -1,0 +1,22 @@
+---
+  id: "36332"
+  word: "intensivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "intensivnosť"
+      acc: "intensivnosť"
+      gen: "intensivnosti"
+      loc: "intensivnosti"
+      dat: "intensivnosti"
+      ins: "intensivnosťjų"
+      voc: "intensivnosti"
+    plural: 
+      nom: "intensivnosti"
+      acc: "intensivnosti"
+      gen: "intensivnostij"
+      loc: "intensivnosťah"
+      dat: "intensivnosťam"
+      ins: "intensivnosťami"
+      voc: "intensivnosti"

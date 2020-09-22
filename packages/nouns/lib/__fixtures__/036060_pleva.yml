@@ -1,0 +1,22 @@
+---
+  id: "36060"
+  word: "plěva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plěva"
+      acc: "plěvų"
+      gen: "plěvy"
+      loc: "plěvě"
+      dat: "plěvě"
+      ins: "plěvojų"
+      voc: "plěvo"
+    plural: 
+      nom: "plěvy"
+      acc: "plěvy"
+      gen: "plěv"
+      loc: "plěvah"
+      dat: "plěvam"
+      ins: "plěvami"
+      voc: "plěvy"

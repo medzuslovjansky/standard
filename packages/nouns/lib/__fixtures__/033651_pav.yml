@@ -1,0 +1,23 @@
+---
+  id: "33651"
+  word: "pav"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pav"
+      acc: "pava"
+      gen: "pava"
+      loc: "pavu"
+      dat: "pavu"
+      ins: "pavom"
+      voc: "pave"
+    plural: 
+      nom: "pavi"
+      acc: "pavov"
+      gen: "pavov"
+      loc: "pavah"
+      dat: "pavam"
+      ins: "pavami"
+      voc: "pavi"

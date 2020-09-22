@@ -1,0 +1,45 @@
+---
+  - 
+    id: "2270"
+    word: "zaimę"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "zaimę"
+        acc: "zaimę"
+        gen: "zaimene / zaimena"
+        loc: "zaimeni / zaimenu"
+        dat: "zaimeni / zaimenu"
+        ins: "zaimenem / zaimenom"
+        voc: "zaimę"
+      plural: 
+        nom: "zaimena"
+        acc: "zaimena"
+        gen: "zaimen"
+        loc: "zaimenah"
+        dat: "zaimenam"
+        ins: "zaimenami"
+        voc: "zaimena"
+  - 
+    id: "2270"
+    word: "zaimennik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "zaimennik"
+        acc: "zaimennik"
+        gen: "zaimennika"
+        loc: "zaimenniku"
+        dat: "zaimenniku"
+        ins: "zaimennikom"
+        voc: "zaimenniče"
+      plural: 
+        nom: "zaimenniky"
+        acc: "zaimenniky"
+        gen: "zaimennikov"
+        loc: "zaimennikah"
+        dat: "zaimennikam"
+        ins: "zaimennikami"
+        voc: "zaimenniky"

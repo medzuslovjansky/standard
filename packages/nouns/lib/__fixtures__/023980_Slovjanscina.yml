@@ -1,0 +1,15 @@
+---
+  id: "23980"
+  word: "Slovjanščina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Slovjanščina"
+      acc: "Slovjanščinų"
+      gen: "Slovjanščiny"
+      loc: "Slovjanščině"
+      dat: "Slovjanščině"
+      ins: "Slovjanščinojų"
+      voc: "Slovjanščino"

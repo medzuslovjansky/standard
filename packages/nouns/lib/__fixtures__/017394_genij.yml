@@ -1,0 +1,23 @@
+---
+  id: "17394"
+  word: "genij"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "genij"
+      acc: "genija"
+      gen: "genija"
+      loc: "geniju"
+      dat: "geniju"
+      ins: "genijem"
+      voc: "geniju"
+    plural: 
+      nom: "geniji"
+      acc: "genijev"
+      gen: "genijev"
+      loc: "genijah"
+      dat: "genijam"
+      ins: "genijami"
+      voc: "geniji"

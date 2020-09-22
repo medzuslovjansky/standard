@@ -1,0 +1,22 @@
+---
+  id: "36365"
+  word: "Indijka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Indijka"
+      acc: "Indijkų"
+      gen: "Indijky"
+      loc: "Indijkě"
+      dat: "Indijkě"
+      ins: "Indijkojų"
+      voc: "Indijko"
+    plural: 
+      nom: "Indijky"
+      acc: "Indijky"
+      gen: "Indijek"
+      loc: "Indijkah"
+      dat: "Indijkam"
+      ins: "Indijkami"
+      voc: "Indijky"

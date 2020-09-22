@@ -1,0 +1,22 @@
+---
+  id: "17843"
+  word: "nadglåvišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nadglåvišče"
+      acc: "nadglåvišče"
+      gen: "nadglåvišča"
+      loc: "nadglåvišču"
+      dat: "nadglåvišču"
+      ins: "nadglåviščem"
+      voc: "nadglåvišče"
+    plural: 
+      nom: "nadglåvišča"
+      acc: "nadglåvišča"
+      gen: "nadglåvišč"
+      loc: "nadglåviščah"
+      dat: "nadglåviščam"
+      ins: "nadglåviščami"
+      voc: "nadglåvišča"

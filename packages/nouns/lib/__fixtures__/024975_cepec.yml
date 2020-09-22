@@ -1,0 +1,22 @@
+---
+  id: "24975"
+  word: "čepec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čepec"
+      acc: "čepec"
+      gen: "čepca"
+      loc: "čepcu"
+      dat: "čepcu"
+      ins: "čepcem"
+      voc: "čepče"
+    plural: 
+      nom: "čepce"
+      acc: "čepce"
+      gen: "čepcev"
+      loc: "čepcah"
+      dat: "čepcam"
+      ins: "čepcami"
+      voc: "čepce"

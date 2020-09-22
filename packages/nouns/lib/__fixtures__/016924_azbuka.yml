@@ -1,0 +1,22 @@
+---
+  id: "16924"
+  word: "azbuka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "azbuka"
+      acc: "azbukų"
+      gen: "azbuky"
+      loc: "azbukě"
+      dat: "azbukě"
+      ins: "azbukojų"
+      voc: "azbuko"
+    plural: 
+      nom: "azbuky"
+      acc: "azbuky"
+      gen: "azbuk"
+      loc: "azbukah"
+      dat: "azbukam"
+      ins: "azbukami"
+      voc: "azbuky"

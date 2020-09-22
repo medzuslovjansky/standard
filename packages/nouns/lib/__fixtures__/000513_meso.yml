@@ -1,0 +1,22 @@
+---
+  id: "513"
+  word: "męso"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "męso"
+      acc: "męso"
+      gen: "męsa"
+      loc: "męsu"
+      dat: "męsu"
+      ins: "męsom"
+      voc: "męso"
+    plural: 
+      nom: "męsa"
+      acc: "męsa"
+      gen: "męs"
+      loc: "męsah"
+      dat: "męsam"
+      ins: "męsami"
+      voc: "męsa"

@@ -1,0 +1,22 @@
+---
+  id: "4972"
+  word: "kompensacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompensacija"
+      acc: "kompensacijų"
+      gen: "kompensacije"
+      loc: "kompensaciji"
+      dat: "kompensaciji"
+      ins: "kompensacijejų"
+      voc: "kompensacijo"
+    plural: 
+      nom: "kompensacije"
+      acc: "kompensacije"
+      gen: "kompensacij"
+      loc: "kompensacijah"
+      dat: "kompensacijam"
+      ins: "kompensacijami"
+      voc: "kompensacije"

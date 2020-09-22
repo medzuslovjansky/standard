@@ -1,0 +1,22 @@
+---
+  id: "35235"
+  word: "arhiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "arhiv"
+      acc: "arhiv"
+      gen: "arhiva"
+      loc: "arhivu"
+      dat: "arhivu"
+      ins: "arhivom"
+      voc: "arhive"
+    plural: 
+      nom: "arhivy"
+      acc: "arhivy"
+      gen: "arhivov"
+      loc: "arhivah"
+      dat: "arhivam"
+      ins: "arhivami"
+      voc: "arhivy"

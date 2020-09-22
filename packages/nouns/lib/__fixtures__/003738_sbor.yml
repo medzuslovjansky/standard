@@ -1,0 +1,22 @@
+---
+  id: "3738"
+  word: "sbor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sbor"
+      acc: "sbor"
+      gen: "sbora"
+      loc: "sboru"
+      dat: "sboru"
+      ins: "sborom"
+      voc: "sbore"
+    plural: 
+      nom: "sbory"
+      acc: "sbory"
+      gen: "sborov"
+      loc: "sborah"
+      dat: "sboram"
+      ins: "sborami"
+      voc: "sbory"

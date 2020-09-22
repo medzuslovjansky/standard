@@ -1,0 +1,22 @@
+---
+  id: "24279"
+  word: "allegro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "allegro"
+      acc: "allegro"
+      gen: "allegra"
+      loc: "allegru"
+      dat: "allegru"
+      ins: "allegrom"
+      voc: "allegro"
+    plural: 
+      nom: "allegra"
+      acc: "allegra"
+      gen: "allegr"
+      loc: "allegrah"
+      dat: "allegram"
+      ins: "allegrami"
+      voc: "allegra"

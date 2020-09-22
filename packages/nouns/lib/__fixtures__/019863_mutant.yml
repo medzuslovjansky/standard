@@ -1,0 +1,23 @@
+---
+  id: "19863"
+  word: "mutant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mutant"
+      acc: "mutanta"
+      gen: "mutanta"
+      loc: "mutantu"
+      dat: "mutantu"
+      ins: "mutantom"
+      voc: "mutante"
+    plural: 
+      nom: "mutanti"
+      acc: "mutantov"
+      gen: "mutantov"
+      loc: "mutantah"
+      dat: "mutantam"
+      ins: "mutantami"
+      voc: "mutanti"

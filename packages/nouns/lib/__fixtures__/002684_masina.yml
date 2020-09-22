@@ -1,0 +1,22 @@
+---
+  id: "2684"
+  word: "mašina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mašina"
+      acc: "mašinų"
+      gen: "mašiny"
+      loc: "mašině"
+      dat: "mašině"
+      ins: "mašinojų"
+      voc: "mašino"
+    plural: 
+      nom: "mašiny"
+      acc: "mašiny"
+      gen: "mašin"
+      loc: "mašinah"
+      dat: "mašinam"
+      ins: "mašinami"
+      voc: "mašiny"

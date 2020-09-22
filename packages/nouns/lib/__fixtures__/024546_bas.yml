@@ -1,0 +1,22 @@
+---
+  id: "24546"
+  word: "bas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bas"
+      acc: "bas"
+      gen: "basa"
+      loc: "basu"
+      dat: "basu"
+      ins: "basom"
+      voc: "base"
+    plural: 
+      nom: "basy"
+      acc: "basy"
+      gen: "basov"
+      loc: "basah"
+      dat: "basam"
+      ins: "basami"
+      voc: "basy"

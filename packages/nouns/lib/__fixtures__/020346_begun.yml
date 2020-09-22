@@ -1,0 +1,23 @@
+---
+  id: "20346"
+  word: "běgun"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "běgun"
+      acc: "běguna"
+      gen: "běguna"
+      loc: "běgunu"
+      dat: "běgunu"
+      ins: "běgunom"
+      voc: "běgune"
+    plural: 
+      nom: "běguni"
+      acc: "běgunov"
+      gen: "běgunov"
+      loc: "běgunah"
+      dat: "běgunam"
+      ins: "běgunami"
+      voc: "běguni"

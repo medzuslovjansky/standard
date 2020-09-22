@@ -1,0 +1,22 @@
+---
+  id: "33272"
+  word: "skok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skok"
+      acc: "skok"
+      gen: "skoka"
+      loc: "skoku"
+      dat: "skoku"
+      ins: "skokom"
+      voc: "skoče"
+    plural: 
+      nom: "skoky"
+      acc: "skoky"
+      gen: "skokov"
+      loc: "skokah"
+      dat: "skokam"
+      ins: "skokami"
+      voc: "skoky"

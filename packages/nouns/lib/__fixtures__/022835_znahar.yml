@@ -1,0 +1,23 @@
+---
+  id: "22835"
+  word: "znahaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "znahaŕ"
+      acc: "znahaŕa"
+      gen: "znahaŕa"
+      loc: "znahaŕu"
+      dat: "znahaŕu"
+      ins: "znahaŕem"
+      voc: "znahaŕu"
+    plural: 
+      nom: "znahari"
+      acc: "znahaŕev"
+      gen: "znahaŕev"
+      loc: "znahaŕah"
+      dat: "znahaŕam"
+      ins: "znahaŕami"
+      voc: "znahari"

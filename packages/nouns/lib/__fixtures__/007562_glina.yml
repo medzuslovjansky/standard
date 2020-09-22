@@ -1,0 +1,22 @@
+---
+  id: "7562"
+  word: "glina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glina"
+      acc: "glinų"
+      gen: "gliny"
+      loc: "glině"
+      dat: "glině"
+      ins: "glinojų"
+      voc: "glino"
+    plural: 
+      nom: "gliny"
+      acc: "gliny"
+      gen: "glin"
+      loc: "glinah"
+      dat: "glinam"
+      ins: "glinami"
+      voc: "gliny"

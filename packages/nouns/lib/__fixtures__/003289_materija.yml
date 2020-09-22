@@ -1,0 +1,22 @@
+---
+  id: "3289"
+  word: "materija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "materija"
+      acc: "materijų"
+      gen: "materije"
+      loc: "materiji"
+      dat: "materiji"
+      ins: "materijejų"
+      voc: "materijo"
+    plural: 
+      nom: "materije"
+      acc: "materije"
+      gen: "materij"
+      loc: "materijah"
+      dat: "materijam"
+      ins: "materijami"
+      voc: "materije"

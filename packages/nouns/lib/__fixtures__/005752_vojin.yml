@@ -1,0 +1,23 @@
+---
+  id: "5752"
+  word: "vojin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vojin"
+      acc: "vojina"
+      gen: "vojina"
+      loc: "vojinu"
+      dat: "vojinu"
+      ins: "vojinom"
+      voc: "vojine"
+    plural: 
+      nom: "vojini"
+      acc: "vojinov"
+      gen: "vojinov"
+      loc: "vojinah"
+      dat: "vojinam"
+      ins: "vojinami"
+      voc: "vojini"

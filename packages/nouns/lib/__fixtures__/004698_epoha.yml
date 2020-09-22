@@ -1,0 +1,22 @@
+---
+  id: "4698"
+  word: "epoha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "epoha"
+      acc: "epohų"
+      gen: "epohy"
+      loc: "epohě"
+      dat: "epohě"
+      ins: "epohojų"
+      voc: "epoho"
+    plural: 
+      nom: "epohy"
+      acc: "epohy"
+      gen: "epoh"
+      loc: "epohah"
+      dat: "epoham"
+      ins: "epohami"
+      voc: "epohy"

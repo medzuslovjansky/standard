@@ -1,0 +1,22 @@
+---
+  id: "20247"
+  word: "upravjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "upravjeńje"
+      acc: "upravjeńje"
+      gen: "upravjeńja"
+      loc: "upravjeńju"
+      dat: "upravjeńju"
+      ins: "upravjeńjem"
+      voc: "upravjeńje"
+    plural: 
+      nom: "upravjeńja"
+      acc: "upravjeńja"
+      gen: "upravjenij"
+      loc: "upravjeńjah"
+      dat: "upravjeńjam"
+      ins: "upravjeńjami"
+      voc: "upravjeńja"

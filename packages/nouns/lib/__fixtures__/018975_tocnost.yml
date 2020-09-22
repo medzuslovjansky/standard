@@ -1,0 +1,22 @@
+---
+  id: "18975"
+  word: "točnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "točnosť"
+      acc: "točnosť"
+      gen: "točnosti"
+      loc: "točnosti"
+      dat: "točnosti"
+      ins: "točnosťjų"
+      voc: "točnosti"
+    plural: 
+      nom: "točnosti"
+      acc: "točnosti"
+      gen: "točnostij"
+      loc: "točnosťah"
+      dat: "točnosťam"
+      ins: "točnosťami"
+      voc: "točnosti"

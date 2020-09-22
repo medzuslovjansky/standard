@@ -1,0 +1,22 @@
+---
+  id: "5974"
+  word: "mętež"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mętež"
+      acc: "mętež"
+      gen: "męteža"
+      loc: "mętežu"
+      dat: "mętežu"
+      ins: "mętežem"
+      voc: "mętežu"
+    plural: 
+      nom: "męteže"
+      acc: "męteže"
+      gen: "mętežev"
+      loc: "mętežah"
+      dat: "mętežam"
+      ins: "mętežami"
+      voc: "męteže"

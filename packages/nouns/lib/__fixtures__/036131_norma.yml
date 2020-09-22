@@ -1,0 +1,22 @@
+---
+  id: "36131"
+  word: "norma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "norma"
+      acc: "normų"
+      gen: "normy"
+      loc: "normě"
+      dat: "normě"
+      ins: "normojų"
+      voc: "normo"
+    plural: 
+      nom: "normy"
+      acc: "normy"
+      gen: "norm"
+      loc: "normah"
+      dat: "normam"
+      ins: "normami"
+      voc: "normy"

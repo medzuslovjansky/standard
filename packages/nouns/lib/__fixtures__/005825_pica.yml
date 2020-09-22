@@ -1,0 +1,22 @@
+---
+  id: "5825"
+  word: "pica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pica"
+      acc: "picų"
+      gen: "pice"
+      loc: "pici"
+      dat: "pici"
+      ins: "picejų"
+      voc: "pico"
+    plural: 
+      nom: "pice"
+      acc: "pice"
+      gen: "pic"
+      loc: "picah"
+      dat: "picam"
+      ins: "picami"
+      voc: "pice"

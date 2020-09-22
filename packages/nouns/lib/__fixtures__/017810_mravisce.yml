@@ -1,0 +1,22 @@
+---
+  id: "17810"
+  word: "mråvišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mråvišče"
+      acc: "mråvišče"
+      gen: "mråvišča"
+      loc: "mråvišču"
+      dat: "mråvišču"
+      ins: "mråviščem"
+      voc: "mråvišče"
+    plural: 
+      nom: "mråvišča"
+      acc: "mråvišča"
+      gen: "mråvišč"
+      loc: "mråviščah"
+      dat: "mråviščam"
+      ins: "mråviščami"
+      voc: "mråvišča"

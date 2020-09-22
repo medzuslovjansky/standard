@@ -1,0 +1,22 @@
+---
+  id: "13210"
+  word: "ugovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ugovor"
+      acc: "ugovor"
+      gen: "ugovora"
+      loc: "ugovoru"
+      dat: "ugovoru"
+      ins: "ugovorom"
+      voc: "ugovore"
+    plural: 
+      nom: "ugovory"
+      acc: "ugovory"
+      gen: "ugovorov"
+      loc: "ugovorah"
+      dat: "ugovoram"
+      ins: "ugovorami"
+      voc: "ugovory"

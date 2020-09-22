@@ -1,0 +1,22 @@
+---
+  id: "22074"
+  word: "edem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "edem"
+      acc: "edem"
+      gen: "edema"
+      loc: "edemu"
+      dat: "edemu"
+      ins: "edemom"
+      voc: "edeme"
+    plural: 
+      nom: "edemy"
+      acc: "edemy"
+      gen: "edemov"
+      loc: "edemah"
+      dat: "edemam"
+      ins: "edemami"
+      voc: "edemy"

@@ -1,0 +1,22 @@
+---
+  id: "36506"
+  word: "skryvališče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "skryvališče"
+      acc: "skryvališče"
+      gen: "skryvališča"
+      loc: "skryvališču"
+      dat: "skryvališču"
+      ins: "skryvališčem"
+      voc: "skryvališče"
+    plural: 
+      nom: "skryvališča"
+      acc: "skryvališča"
+      gen: "skryvališč"
+      loc: "skryvališčah"
+      dat: "skryvališčam"
+      ins: "skryvališčami"
+      voc: "skryvališča"

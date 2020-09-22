@@ -1,0 +1,22 @@
+---
+  id: "23173"
+  word: "pritęglivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pritęglivosť"
+      acc: "pritęglivosť"
+      gen: "pritęglivosti"
+      loc: "pritęglivosti"
+      dat: "pritęglivosti"
+      ins: "pritęglivosťjų"
+      voc: "pritęglivosti"
+    plural: 
+      nom: "pritęglivosti"
+      acc: "pritęglivosti"
+      gen: "pritęglivostij"
+      loc: "pritęglivosťah"
+      dat: "pritęglivosťam"
+      ins: "pritęglivosťami"
+      voc: "pritęglivosti"

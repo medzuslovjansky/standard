@@ -1,0 +1,22 @@
+---
+  id: "36752"
+  word: "anestezija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anestezija"
+      acc: "anestezijų"
+      gen: "anestezije"
+      loc: "anesteziji"
+      dat: "anesteziji"
+      ins: "anestezijejų"
+      voc: "anestezijo"
+    plural: 
+      nom: "anestezije"
+      acc: "anestezije"
+      gen: "anestezij"
+      loc: "anestezijah"
+      dat: "anestezijam"
+      ins: "anestezijami"
+      voc: "anestezije"

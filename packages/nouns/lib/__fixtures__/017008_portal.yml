@@ -1,0 +1,22 @@
+---
+  id: "17008"
+  word: "portal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "portal"
+      acc: "portal"
+      gen: "portala"
+      loc: "portalu"
+      dat: "portalu"
+      ins: "portalom"
+      voc: "portale"
+    plural: 
+      nom: "portaly"
+      acc: "portaly"
+      gen: "portalov"
+      loc: "portalah"
+      dat: "portalam"
+      ins: "portalami"
+      voc: "portaly"

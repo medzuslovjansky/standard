@@ -1,0 +1,22 @@
+---
+  id: "36281"
+  word: "granata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "granata"
+      acc: "granatų"
+      gen: "granaty"
+      loc: "granatě"
+      dat: "granatě"
+      ins: "granatojų"
+      voc: "granato"
+    plural: 
+      nom: "granaty"
+      acc: "granaty"
+      gen: "granat"
+      loc: "granatah"
+      dat: "granatam"
+      ins: "granatami"
+      voc: "granaty"

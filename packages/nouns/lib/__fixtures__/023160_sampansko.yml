@@ -1,0 +1,23 @@
+---
+  id: "23160"
+  word: "šampansko"
+  meta: 
+    irregularity: "(šampanskogo)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "šampansko"
+      acc: "šampansky"
+      gen: "šampanskogo"
+      loc: "šampanskom"
+      dat: "šampanskomu"
+      ins: "šampanskym"
+      voc: "šampansko"
+    plural: 
+      nom: "šampanske"
+      acc: "šampanske"
+      gen: "šampanskyh"
+      loc: "šampanskyh"
+      dat: "šampanskym"
+      ins: "šampanskymi"
+      voc: "šampanske"

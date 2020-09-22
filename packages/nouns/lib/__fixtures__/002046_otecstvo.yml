@@ -1,0 +1,22 @@
+---
+  id: "2046"
+  word: "otečstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "otečstvo"
+      acc: "otečstvo"
+      gen: "otečstva"
+      loc: "otečstvu"
+      dat: "otečstvu"
+      ins: "otečstvom"
+      voc: "otečstvo"
+    plural: 
+      nom: "otečstva"
+      acc: "otečstva"
+      gen: "otečstv"
+      loc: "otečstvah"
+      dat: "otečstvam"
+      ins: "otečstvami"
+      voc: "otečstva"

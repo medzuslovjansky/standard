@@ -1,0 +1,22 @@
+---
+  id: "22402"
+  word: "věće"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "věće"
+      acc: "věće"
+      gen: "věća"
+      loc: "věću"
+      dat: "věću"
+      ins: "věćem"
+      voc: "věće"
+    plural: 
+      nom: "věća"
+      acc: "věća"
+      gen: "věć"
+      loc: "věćah"
+      dat: "věćam"
+      ins: "věćami"
+      voc: "věća"

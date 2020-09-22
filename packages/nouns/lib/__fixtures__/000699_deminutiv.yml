@@ -1,0 +1,22 @@
+---
+  id: "699"
+  word: "deminutiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "deminutiv"
+      acc: "deminutiv"
+      gen: "deminutiva"
+      loc: "deminutivu"
+      dat: "deminutivu"
+      ins: "deminutivom"
+      voc: "deminutive"
+    plural: 
+      nom: "deminutivy"
+      acc: "deminutivy"
+      gen: "deminutivov"
+      loc: "deminutivah"
+      dat: "deminutivam"
+      ins: "deminutivami"
+      voc: "deminutivy"

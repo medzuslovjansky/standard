@@ -1,0 +1,22 @@
+---
+  id: "4268"
+  word: "otčina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "otčina"
+      acc: "otčinų"
+      gen: "otčiny"
+      loc: "otčině"
+      dat: "otčině"
+      ins: "otčinojų"
+      voc: "otčino"
+    plural: 
+      nom: "otčiny"
+      acc: "otčiny"
+      gen: "otčin"
+      loc: "otčinah"
+      dat: "otčinam"
+      ins: "otčinami"
+      voc: "otčiny"

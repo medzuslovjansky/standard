@@ -1,0 +1,22 @@
+---
+  id: "2071"
+  word: "smola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smola"
+      acc: "smolų"
+      gen: "smoly"
+      loc: "smolě"
+      dat: "smolě"
+      ins: "smolojų"
+      voc: "smolo"
+    plural: 
+      nom: "smoly"
+      acc: "smoly"
+      gen: "smol"
+      loc: "smolah"
+      dat: "smolam"
+      ins: "smolami"
+      voc: "smoly"

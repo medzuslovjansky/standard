@@ -1,0 +1,23 @@
+---
+  id: "20199"
+  word: "sųp"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųp"
+      acc: "sųpa"
+      gen: "sųpa"
+      loc: "sųpu"
+      dat: "sųpu"
+      ins: "sųpom"
+      voc: "sųpe"
+    plural: 
+      nom: "sųpi"
+      acc: "sųpov"
+      gen: "sųpov"
+      loc: "sųpah"
+      dat: "sųpam"
+      ins: "sųpami"
+      voc: "sųpi"

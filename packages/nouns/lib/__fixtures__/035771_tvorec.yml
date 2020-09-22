@@ -1,0 +1,23 @@
+---
+  id: "35771"
+  word: "tvorec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tvorec"
+      acc: "tvorca"
+      gen: "tvorca"
+      loc: "tvorcu"
+      dat: "tvorcu"
+      ins: "tvorcem"
+      voc: "tvorče"
+    plural: 
+      nom: "tvorci"
+      acc: "tvorcev"
+      gen: "tvorcev"
+      loc: "tvorcah"
+      dat: "tvorcam"
+      ins: "tvorcami"
+      voc: "tvorci"

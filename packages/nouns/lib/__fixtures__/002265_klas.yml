@@ -1,0 +1,22 @@
+---
+  id: "2265"
+  word: "klås"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klås"
+      acc: "klås"
+      gen: "klåsa"
+      loc: "klåsu"
+      dat: "klåsu"
+      ins: "klåsom"
+      voc: "klåse"
+    plural: 
+      nom: "klåsy"
+      acc: "klåsy"
+      gen: "klåsov"
+      loc: "klåsah"
+      dat: "klåsam"
+      ins: "klåsami"
+      voc: "klåsy"

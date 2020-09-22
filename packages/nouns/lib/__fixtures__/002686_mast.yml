@@ -1,0 +1,22 @@
+---
+  id: "2686"
+  word: "masť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "masť"
+      acc: "masť"
+      gen: "masti"
+      loc: "masti"
+      dat: "masti"
+      ins: "masťjų"
+      voc: "masti"
+    plural: 
+      nom: "masti"
+      acc: "masti"
+      gen: "mastij"
+      loc: "masťah"
+      dat: "masťam"
+      ins: "masťami"
+      voc: "masti"

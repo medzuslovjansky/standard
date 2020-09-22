@@ -1,0 +1,22 @@
+---
+  id: "2944"
+  word: "jeda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jeda"
+      acc: "jedų"
+      gen: "jedy"
+      loc: "jedě"
+      dat: "jedě"
+      ins: "jedojų"
+      voc: "jedo"
+    plural: 
+      nom: "jedy"
+      acc: "jedy"
+      gen: "jed"
+      loc: "jedah"
+      dat: "jedam"
+      ins: "jedami"
+      voc: "jedy"

@@ -1,0 +1,22 @@
+---
+  id: "19931"
+  word: "obnižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obnižeńje"
+      acc: "obnižeńje"
+      gen: "obnižeńja"
+      loc: "obnižeńju"
+      dat: "obnižeńju"
+      ins: "obnižeńjem"
+      voc: "obnižeńje"
+    plural: 
+      nom: "obnižeńja"
+      acc: "obnižeńja"
+      gen: "obniženij"
+      loc: "obnižeńjah"
+      dat: "obnižeńjam"
+      ins: "obnižeńjami"
+      voc: "obnižeńja"

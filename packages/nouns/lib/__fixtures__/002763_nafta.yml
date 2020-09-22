@@ -1,0 +1,22 @@
+---
+  id: "2763"
+  word: "nafta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nafta"
+      acc: "naftų"
+      gen: "nafty"
+      loc: "naftě"
+      dat: "naftě"
+      ins: "naftojų"
+      voc: "nafto"
+    plural: 
+      nom: "nafty"
+      acc: "nafty"
+      gen: "naft"
+      loc: "naftah"
+      dat: "naftam"
+      ins: "naftami"
+      voc: "nafty"

@@ -1,0 +1,22 @@
+---
+  id: "24461"
+  word: "balada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "balada"
+      acc: "baladų"
+      gen: "balady"
+      loc: "baladě"
+      dat: "baladě"
+      ins: "baladojų"
+      voc: "balado"
+    plural: 
+      nom: "balady"
+      acc: "balady"
+      gen: "balad"
+      loc: "baladah"
+      dat: "baladam"
+      ins: "baladami"
+      voc: "balady"

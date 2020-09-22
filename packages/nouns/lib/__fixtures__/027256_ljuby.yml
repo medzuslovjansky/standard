@@ -1,0 +1,24 @@
+---
+  id: "27256"
+  word: "ljuby"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljuby"
+      acc: "ljubogo"
+      gen: "ljubogo"
+      loc: "ljubom"
+      dat: "ljubomu"
+      ins: "ljubym"
+      voc: "ljuby"
+    plural: 
+      nom: "ljubi"
+      acc: "ljubyh"
+      gen: "ljubyh"
+      loc: "ljubyh"
+      dat: "ljubym"
+      ins: "ljubymi"
+      voc: "ljubi"

@@ -1,0 +1,23 @@
+---
+  id: "950"
+  word: "narkoman"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "narkoman"
+      acc: "narkomana"
+      gen: "narkomana"
+      loc: "narkomanu"
+      dat: "narkomanu"
+      ins: "narkomanom"
+      voc: "narkomane"
+    plural: 
+      nom: "narkomani"
+      acc: "narkomanov"
+      gen: "narkomanov"
+      loc: "narkomanah"
+      dat: "narkomanam"
+      ins: "narkomanami"
+      voc: "narkomani"

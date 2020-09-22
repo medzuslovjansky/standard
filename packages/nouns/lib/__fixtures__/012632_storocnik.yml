@@ -1,0 +1,23 @@
+---
+  id: "12632"
+  word: "storočnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "storočnik"
+      acc: "storočnika"
+      gen: "storočnika"
+      loc: "storočniku"
+      dat: "storočniku"
+      ins: "storočnikom"
+      voc: "storočniče"
+    plural: 
+      nom: "storočniki"
+      acc: "storočnikov"
+      gen: "storočnikov"
+      loc: "storočnikah"
+      dat: "storočnikam"
+      ins: "storočnikami"
+      voc: "storočniki"

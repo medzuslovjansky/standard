@@ -1,0 +1,23 @@
+---
+  id: "7895"
+  word: "informant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "informant"
+      acc: "informanta"
+      gen: "informanta"
+      loc: "informantu"
+      dat: "informantu"
+      ins: "informantom"
+      voc: "informante"
+    plural: 
+      nom: "informanti"
+      acc: "informantov"
+      gen: "informantov"
+      loc: "informantah"
+      dat: "informantam"
+      ins: "informantami"
+      voc: "informanti"

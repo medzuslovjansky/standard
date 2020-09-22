@@ -1,0 +1,22 @@
+---
+  id: "34775"
+  word: "cibulica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cibulica"
+      acc: "cibulicų"
+      gen: "cibulice"
+      loc: "cibulici"
+      dat: "cibulici"
+      ins: "cibulicejų"
+      voc: "cibulico"
+    plural: 
+      nom: "cibulice"
+      acc: "cibulice"
+      gen: "cibulic"
+      loc: "cibulicah"
+      dat: "cibulicam"
+      ins: "cibulicami"
+      voc: "cibulice"

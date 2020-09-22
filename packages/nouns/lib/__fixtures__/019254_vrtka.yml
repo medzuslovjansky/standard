@@ -1,0 +1,22 @@
+---
+  id: "19254"
+  word: "vŕtka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vŕtka"
+      acc: "vŕtkų"
+      gen: "vŕtky"
+      loc: "vŕtkě"
+      dat: "vŕtkě"
+      ins: "vŕtkojų"
+      voc: "vŕtko"
+    plural: 
+      nom: "vŕtky"
+      acc: "vŕtky"
+      gen: "vŕtȯk"
+      loc: "vŕtkah"
+      dat: "vŕtkam"
+      ins: "vŕtkami"
+      voc: "vŕtky"

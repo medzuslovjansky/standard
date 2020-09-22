@@ -1,0 +1,22 @@
+---
+  id: "5967"
+  word: "otęžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "otęžeńje"
+      acc: "otęžeńje"
+      gen: "otęžeńja"
+      loc: "otęžeńju"
+      dat: "otęžeńju"
+      ins: "otęžeńjem"
+      voc: "otęžeńje"
+    plural: 
+      nom: "otęžeńja"
+      acc: "otęžeńja"
+      gen: "otęženij"
+      loc: "otęžeńjah"
+      dat: "otęžeńjam"
+      ins: "otęžeńjami"
+      voc: "otęžeńja"

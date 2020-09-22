@@ -1,0 +1,22 @@
+---
+  id: "34969"
+  word: "pigment"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pigment"
+      acc: "pigment"
+      gen: "pigmenta"
+      loc: "pigmentu"
+      dat: "pigmentu"
+      ins: "pigmentom"
+      voc: "pigmente"
+    plural: 
+      nom: "pigmenty"
+      acc: "pigmenty"
+      gen: "pigmentov"
+      loc: "pigmentah"
+      dat: "pigmentam"
+      ins: "pigmentami"
+      voc: "pigmenty"

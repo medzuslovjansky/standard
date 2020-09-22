@@ -1,0 +1,23 @@
+---
+  id: "36681"
+  word: "kosmetik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kosmetik"
+      acc: "kosmetika"
+      gen: "kosmetika"
+      loc: "kosmetiku"
+      dat: "kosmetiku"
+      ins: "kosmetikom"
+      voc: "kosmetiče"
+    plural: 
+      nom: "kosmetiki"
+      acc: "kosmetikov"
+      gen: "kosmetikov"
+      loc: "kosmetikah"
+      dat: "kosmetikam"
+      ins: "kosmetikami"
+      voc: "kosmetiki"

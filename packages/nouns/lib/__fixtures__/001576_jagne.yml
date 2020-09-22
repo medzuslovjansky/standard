@@ -1,0 +1,22 @@
+---
+  id: "1576"
+  word: "jagnę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jagnę"
+      acc: "jagnę"
+      gen: "jagnęte / jagnęta"
+      loc: "jagnęti / jagnętu"
+      dat: "jagnęti / jagnętu"
+      ins: "jagnętem / jagnętom"
+      voc: "jagnę"
+    plural: 
+      nom: "jagnęta"
+      acc: "jagnęta"
+      gen: "jagnęt"
+      loc: "jagnętah"
+      dat: "jagnętam"
+      ins: "jagnętami"
+      voc: "jagnęta"

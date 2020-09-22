@@ -1,0 +1,15 @@
+---
+  id: "35105"
+  word: "seksizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "seksizm"
+      acc: "seksizm"
+      gen: "seksizma"
+      loc: "seksizmu"
+      dat: "seksizmu"
+      ins: "seksizmom"
+      voc: "seksizme"

@@ -1,0 +1,22 @@
+---
+  id: "5903"
+  word: "sȯvrěmennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sȯvrěmennosť"
+      acc: "sȯvrěmennosť"
+      gen: "sȯvrěmennosti"
+      loc: "sȯvrěmennosti"
+      dat: "sȯvrěmennosti"
+      ins: "sȯvrěmennosťjų"
+      voc: "sȯvrěmennosti"
+    plural: 
+      nom: "sȯvrěmennosti"
+      acc: "sȯvrěmennosti"
+      gen: "sȯvrěmennostij"
+      loc: "sȯvrěmennosťah"
+      dat: "sȯvrěmennosťam"
+      ins: "sȯvrěmennosťami"
+      voc: "sȯvrěmennosti"

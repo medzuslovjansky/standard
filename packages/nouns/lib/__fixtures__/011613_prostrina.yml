@@ -1,0 +1,22 @@
+---
+  id: "11613"
+  word: "prostrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prostrina"
+      acc: "prostrinų"
+      gen: "prostriny"
+      loc: "prostrině"
+      dat: "prostrině"
+      ins: "prostrinojų"
+      voc: "prostrino"
+    plural: 
+      nom: "prostriny"
+      acc: "prostriny"
+      gen: "prostrin"
+      loc: "prostrinah"
+      dat: "prostrinam"
+      ins: "prostrinami"
+      voc: "prostriny"

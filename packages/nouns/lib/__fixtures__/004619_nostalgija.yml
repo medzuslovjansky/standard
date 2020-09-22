@@ -1,0 +1,22 @@
+---
+  id: "4619"
+  word: "nostalgija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nostalgija"
+      acc: "nostalgijų"
+      gen: "nostalgije"
+      loc: "nostalgiji"
+      dat: "nostalgiji"
+      ins: "nostalgijejų"
+      voc: "nostalgijo"
+    plural: 
+      nom: "nostalgije"
+      acc: "nostalgije"
+      gen: "nostalgij"
+      loc: "nostalgijah"
+      dat: "nostalgijam"
+      ins: "nostalgijami"
+      voc: "nostalgije"

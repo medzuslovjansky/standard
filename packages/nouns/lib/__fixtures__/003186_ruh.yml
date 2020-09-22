@@ -1,0 +1,22 @@
+---
+  id: "3186"
+  word: "ruh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ruh"
+      acc: "ruh"
+      gen: "ruha"
+      loc: "ruhu"
+      dat: "ruhu"
+      ins: "ruhom"
+      voc: "ruše"
+    plural: 
+      nom: "ruhy"
+      acc: "ruhy"
+      gen: "ruhov"
+      loc: "ruhah"
+      dat: "ruham"
+      ins: "ruhami"
+      voc: "ruhy"

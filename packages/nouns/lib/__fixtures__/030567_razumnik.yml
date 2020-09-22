@@ -1,0 +1,23 @@
+---
+  id: "30567"
+  word: "råzumnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råzumnik"
+      acc: "råzumnika"
+      gen: "råzumnika"
+      loc: "råzumniku"
+      dat: "råzumniku"
+      ins: "råzumnikom"
+      voc: "råzumniče"
+    plural: 
+      nom: "råzumniki"
+      acc: "råzumnikov"
+      gen: "råzumnikov"
+      loc: "råzumnikah"
+      dat: "råzumnikam"
+      ins: "råzumnikami"
+      voc: "råzumniki"

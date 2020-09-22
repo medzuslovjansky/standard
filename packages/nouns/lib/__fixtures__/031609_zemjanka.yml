@@ -1,0 +1,22 @@
+---
+  id: "31609"
+  word: "zemjanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zemjanka"
+      acc: "zemjankų"
+      gen: "zemjanky"
+      loc: "zemjankě"
+      dat: "zemjankě"
+      ins: "zemjankojų"
+      voc: "zemjanko"
+    plural: 
+      nom: "zemjanky"
+      acc: "zemjanky"
+      gen: "zemjanȯk"
+      loc: "zemjankah"
+      dat: "zemjankam"
+      ins: "zemjankami"
+      voc: "zemjanky"

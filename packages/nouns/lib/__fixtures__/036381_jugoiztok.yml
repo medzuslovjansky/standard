@@ -1,0 +1,15 @@
+---
+  id: "36381"
+  word: "jugoiztok"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jugoiztok"
+      acc: "jugoiztok"
+      gen: "jugoiztoka"
+      loc: "jugoiztoku"
+      dat: "jugoiztoku"
+      ins: "jugoiztokom"
+      voc: "jugoiztoče"

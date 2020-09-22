@@ -1,0 +1,22 @@
+---
+  id: "36065"
+  word: "atut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "atut"
+      acc: "atut"
+      gen: "atuta"
+      loc: "atutu"
+      dat: "atutu"
+      ins: "atutom"
+      voc: "atute"
+    plural: 
+      nom: "atuty"
+      acc: "atuty"
+      gen: "atutov"
+      loc: "atutah"
+      dat: "atutam"
+      ins: "atutami"
+      voc: "atuty"

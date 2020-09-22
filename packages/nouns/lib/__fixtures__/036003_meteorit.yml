@@ -1,0 +1,22 @@
+---
+  id: "36003"
+  word: "meteorit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "meteorit"
+      acc: "meteorit"
+      gen: "meteorita"
+      loc: "meteoritu"
+      dat: "meteoritu"
+      ins: "meteoritom"
+      voc: "meteorite"
+    plural: 
+      nom: "meteority"
+      acc: "meteority"
+      gen: "meteoritov"
+      loc: "meteoritah"
+      dat: "meteoritam"
+      ins: "meteoritami"
+      voc: "meteority"

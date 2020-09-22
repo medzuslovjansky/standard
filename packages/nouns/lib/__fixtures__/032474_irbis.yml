@@ -1,0 +1,23 @@
+---
+  id: "32474"
+  word: "irbis"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "irbis"
+      acc: "irbisa"
+      gen: "irbisa"
+      loc: "irbisu"
+      dat: "irbisu"
+      ins: "irbisom"
+      voc: "irbise"
+    plural: 
+      nom: "irbisi"
+      acc: "irbisov"
+      gen: "irbisov"
+      loc: "irbisah"
+      dat: "irbisam"
+      ins: "irbisami"
+      voc: "irbisi"

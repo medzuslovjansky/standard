@@ -1,0 +1,22 @@
+---
+  id: "4892"
+  word: "světiľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "světiľnik"
+      acc: "světiľnik"
+      gen: "světiľnika"
+      loc: "světiľniku"
+      dat: "světiľniku"
+      ins: "světiľnikom"
+      voc: "světiľniče"
+    plural: 
+      nom: "světiľniky"
+      acc: "světiľniky"
+      gen: "světiľnikov"
+      loc: "světiľnikah"
+      dat: "světiľnikam"
+      ins: "světiľnikami"
+      voc: "světiľniky"

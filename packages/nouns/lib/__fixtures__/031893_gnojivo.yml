@@ -1,0 +1,22 @@
+---
+  id: "31893"
+  word: "gnojivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gnojivo"
+      acc: "gnojivo"
+      gen: "gnojiva"
+      loc: "gnojivu"
+      dat: "gnojivu"
+      ins: "gnojivom"
+      voc: "gnojivo"
+    plural: 
+      nom: "gnojiva"
+      acc: "gnojiva"
+      gen: "gnojiv"
+      loc: "gnojivah"
+      dat: "gnojivam"
+      ins: "gnojivami"
+      voc: "gnojiva"

@@ -1,0 +1,22 @@
+---
+  id: "4173"
+  word: "požar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "požar"
+      acc: "požar"
+      gen: "požara"
+      loc: "požaru"
+      dat: "požaru"
+      ins: "požarom"
+      voc: "požare"
+    plural: 
+      nom: "požary"
+      acc: "požary"
+      gen: "požarov"
+      loc: "požarah"
+      dat: "požaram"
+      ins: "požarami"
+      voc: "požary"

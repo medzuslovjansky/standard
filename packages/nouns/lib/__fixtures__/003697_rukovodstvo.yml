@@ -1,0 +1,22 @@
+---
+  id: "3697"
+  word: "rųkovodstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rųkovodstvo"
+      acc: "rųkovodstvo"
+      gen: "rųkovodstva"
+      loc: "rųkovodstvu"
+      dat: "rųkovodstvu"
+      ins: "rųkovodstvom"
+      voc: "rųkovodstvo"
+    plural: 
+      nom: "rųkovodstva"
+      acc: "rųkovodstva"
+      gen: "rųkovodstv"
+      loc: "rųkovodstvah"
+      dat: "rųkovodstvam"
+      ins: "rųkovodstvami"
+      voc: "rųkovodstva"

@@ -1,0 +1,22 @@
+---
+  id: "17601"
+  word: "jablånj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jablånj"
+      acc: "jablånj"
+      gen: "jablånji"
+      loc: "jablånji"
+      dat: "jablånji"
+      ins: "jablånjjų"
+      voc: "jablånji"
+    plural: 
+      nom: "jablånji"
+      acc: "jablånji"
+      gen: "jablånjij"
+      loc: "jablånjah"
+      dat: "jablånjam"
+      ins: "jablånjami"
+      voc: "jablånji"

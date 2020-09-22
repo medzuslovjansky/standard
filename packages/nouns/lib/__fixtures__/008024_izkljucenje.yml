@@ -1,0 +1,22 @@
+---
+  id: "8024"
+  word: "izključeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izključeńje"
+      acc: "izključeńje"
+      gen: "izključeńja"
+      loc: "izključeńju"
+      dat: "izključeńju"
+      ins: "izključeńjem"
+      voc: "izključeńje"
+    plural: 
+      nom: "izključeńja"
+      acc: "izključeńja"
+      gen: "izključenij"
+      loc: "izključeńjah"
+      dat: "izključeńjam"
+      ins: "izključeńjami"
+      voc: "izključeńja"

@@ -1,0 +1,23 @@
+---
+  id: "12675"
+  word: "strižik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "strižik"
+      acc: "strižika"
+      gen: "strižika"
+      loc: "strižiku"
+      dat: "strižiku"
+      ins: "strižikom"
+      voc: "strižiče"
+    plural: 
+      nom: "strižiki"
+      acc: "strižikov"
+      gen: "strižikov"
+      loc: "strižikah"
+      dat: "strižikam"
+      ins: "strižikami"
+      voc: "strižiki"

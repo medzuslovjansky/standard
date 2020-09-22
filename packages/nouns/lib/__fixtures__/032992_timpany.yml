@@ -1,0 +1,15 @@
+---
+  id: "32992"
+  word: "timpany"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "timpany"
+      acc: "timpany"
+      gen: "timpanov"
+      loc: "timpanah"
+      dat: "timpanam"
+      ins: "timpanami"
+      voc: "timpany"

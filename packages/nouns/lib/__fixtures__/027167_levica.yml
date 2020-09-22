@@ -1,0 +1,22 @@
+---
+  id: "27167"
+  word: "lěvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěvica"
+      acc: "lěvicų"
+      gen: "lěvice"
+      loc: "lěvici"
+      dat: "lěvici"
+      ins: "lěvicejų"
+      voc: "lěvico"
+    plural: 
+      nom: "lěvice"
+      acc: "lěvice"
+      gen: "lěvic"
+      loc: "lěvicah"
+      dat: "lěvicam"
+      ins: "lěvicami"
+      voc: "lěvice"

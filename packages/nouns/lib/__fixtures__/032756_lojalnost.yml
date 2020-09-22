@@ -1,0 +1,22 @@
+---
+  id: "32756"
+  word: "lojaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lojaľnosť"
+      acc: "lojaľnosť"
+      gen: "lojaľnosti"
+      loc: "lojaľnosti"
+      dat: "lojaľnosti"
+      ins: "lojaľnosťjų"
+      voc: "lojaľnosti"
+    plural: 
+      nom: "lojaľnosti"
+      acc: "lojaľnosti"
+      gen: "lojaľnostij"
+      loc: "lojaľnosťah"
+      dat: "lojaľnosťam"
+      ins: "lojaľnosťami"
+      voc: "lojaľnosti"

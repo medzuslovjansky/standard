@@ -1,0 +1,15 @@
+---
+  id: "2907"
+  word: "defenestracija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "defenestracija"
+      acc: "defenestracijų"
+      gen: "defenestracije"
+      loc: "defenestraciji"
+      dat: "defenestraciji"
+      ins: "defenestracijejų"
+      voc: "defenestracijo"

@@ -1,0 +1,22 @@
+---
+  id: "16040"
+  word: "palma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palma"
+      acc: "palmų"
+      gen: "palmy"
+      loc: "palmě"
+      dat: "palmě"
+      ins: "palmojų"
+      voc: "palmo"
+    plural: 
+      nom: "palmy"
+      acc: "palmy"
+      gen: "palm"
+      loc: "palmah"
+      dat: "palmam"
+      ins: "palmami"
+      voc: "palmy"

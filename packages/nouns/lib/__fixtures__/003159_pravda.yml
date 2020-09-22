@@ -1,0 +1,22 @@
+---
+  id: "3159"
+  word: "pravda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravda"
+      acc: "pravdų"
+      gen: "pravdy"
+      loc: "pravdě"
+      dat: "pravdě"
+      ins: "pravdojų"
+      voc: "pravdo"
+    plural: 
+      nom: "pravdy"
+      acc: "pravdy"
+      gen: "pravd"
+      loc: "pravdah"
+      dat: "pravdam"
+      ins: "pravdami"
+      voc: "pravdy"

@@ -1,0 +1,22 @@
+---
+  id: "24766"
+  word: "borovik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "borovik"
+      acc: "borovik"
+      gen: "borovika"
+      loc: "boroviku"
+      dat: "boroviku"
+      ins: "borovikom"
+      voc: "boroviče"
+    plural: 
+      nom: "boroviky"
+      acc: "boroviky"
+      gen: "borovikov"
+      loc: "borovikah"
+      dat: "borovikam"
+      ins: "borovikami"
+      voc: "boroviky"

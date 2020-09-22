@@ -1,0 +1,22 @@
+---
+  id: "22875"
+  word: "priznak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "priznak"
+      acc: "priznak"
+      gen: "priznaka"
+      loc: "priznaku"
+      dat: "priznaku"
+      ins: "priznakom"
+      voc: "priznače"
+    plural: 
+      nom: "priznaky"
+      acc: "priznaky"
+      gen: "priznakov"
+      loc: "priznakah"
+      dat: "priznakam"
+      ins: "priznakami"
+      voc: "priznaky"

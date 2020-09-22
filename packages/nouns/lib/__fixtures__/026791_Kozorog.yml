@@ -1,0 +1,23 @@
+---
+  id: "26791"
+  word: "Kozorog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Kozorog"
+      acc: "Kozoroga"
+      gen: "Kozoroga"
+      loc: "Kozorogu"
+      dat: "Kozorogu"
+      ins: "Kozorogom"
+      voc: "Kozorože"
+    plural: 
+      nom: "Kozorogi"
+      acc: "Kozorogov"
+      gen: "Kozorogov"
+      loc: "Kozorogah"
+      dat: "Kozorogam"
+      ins: "Kozorogami"
+      voc: "Kozorogi"

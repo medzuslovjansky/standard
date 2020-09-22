@@ -1,0 +1,23 @@
+---
+  id: "826"
+  word: "ogȯnj"
+  meta: 
+    irregularity: "(ognja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "og(ȯ)nj"
+      acc: "og(ȯ)nj"
+      gen: "og(ȯ)nja"
+      loc: "og(ȯ)nju"
+      dat: "og(ȯ)nju"
+      ins: "og(ȯ)njem"
+      voc: "og(ȯ)nju"
+    plural: 
+      nom: "og(ȯ)nje"
+      acc: "og(ȯ)nje"
+      gen: "og(ȯ)njev"
+      loc: "og(ȯ)njah"
+      dat: "og(ȯ)njam"
+      ins: "og(ȯ)njami"
+      voc: "og(ȯ)nje"

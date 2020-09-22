@@ -1,0 +1,22 @@
+---
+  id: "32385"
+  word: "flotilja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "flotilja"
+      acc: "flotiljų"
+      gen: "flotilje"
+      loc: "flotilji"
+      dat: "flotilji"
+      ins: "flotiljejų"
+      voc: "flotiljo"
+    plural: 
+      nom: "flotilje"
+      acc: "flotilje"
+      gen: "flotilej"
+      loc: "flotiljah"
+      dat: "flotiljam"
+      ins: "flotiljami"
+      voc: "flotilje"

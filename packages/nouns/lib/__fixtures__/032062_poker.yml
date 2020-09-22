@@ -1,0 +1,15 @@
+---
+  id: "32062"
+  word: "poker"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "poker"
+      acc: "poker"
+      gen: "pokera"
+      loc: "pokeru"
+      dat: "pokeru"
+      ins: "pokerom"
+      voc: "pokere"

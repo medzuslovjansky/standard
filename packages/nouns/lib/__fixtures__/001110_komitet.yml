@@ -1,0 +1,22 @@
+---
+  id: "1110"
+  word: "komitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komitet"
+      acc: "komitet"
+      gen: "komiteta"
+      loc: "komitetu"
+      dat: "komitetu"
+      ins: "komitetom"
+      voc: "komitete"
+    plural: 
+      nom: "komitety"
+      acc: "komitety"
+      gen: "komitetov"
+      loc: "komitetah"
+      dat: "komitetam"
+      ins: "komitetami"
+      voc: "komitety"

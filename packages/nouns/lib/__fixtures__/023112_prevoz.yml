@@ -1,0 +1,22 @@
+---
+  id: "23112"
+  word: "prěvoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěvoz"
+      acc: "prěvoz"
+      gen: "prěvoza"
+      loc: "prěvozu"
+      dat: "prěvozu"
+      ins: "prěvozom"
+      voc: "prěvoze"
+    plural: 
+      nom: "prěvozy"
+      acc: "prěvozy"
+      gen: "prěvozov"
+      loc: "prěvozah"
+      dat: "prěvozam"
+      ins: "prěvozami"
+      voc: "prěvozy"

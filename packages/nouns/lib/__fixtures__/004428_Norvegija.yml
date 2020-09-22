@@ -1,0 +1,15 @@
+---
+  id: "4428"
+  word: "Norvegija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Norvegija"
+      acc: "Norvegijų"
+      gen: "Norvegije"
+      loc: "Norvegiji"
+      dat: "Norvegiji"
+      ins: "Norvegijejų"
+      voc: "Norvegijo"

@@ -1,0 +1,15 @@
+---
+  id: "2795"
+  word: "Niderlandy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Niderlandy"
+      acc: "Niderlandy"
+      gen: "Niderlandov"
+      loc: "Niderlandah"
+      dat: "Niderlandam"
+      ins: "Niderlandami"
+      voc: "Niderlandy"

@@ -1,0 +1,22 @@
+---
+  id: "28435"
+  word: "němosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "němosť"
+      acc: "němosť"
+      gen: "němosti"
+      loc: "němosti"
+      dat: "němosti"
+      ins: "němosťjų"
+      voc: "němosti"
+    plural: 
+      nom: "němosti"
+      acc: "němosti"
+      gen: "němostij"
+      loc: "němosťah"
+      dat: "němosťam"
+      ins: "němosťami"
+      voc: "němosti"

@@ -1,0 +1,23 @@
+---
+  id: "15785"
+  word: "biznesmen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "biznesmen"
+      acc: "biznesmena"
+      gen: "biznesmena"
+      loc: "biznesmenu"
+      dat: "biznesmenu"
+      ins: "biznesmenom"
+      voc: "biznesmene"
+    plural: 
+      nom: "biznesmeni"
+      acc: "biznesmenov"
+      gen: "biznesmenov"
+      loc: "biznesmenah"
+      dat: "biznesmenam"
+      ins: "biznesmenami"
+      voc: "biznesmeni"

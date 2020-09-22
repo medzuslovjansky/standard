@@ -1,0 +1,23 @@
+---
+  id: "22826"
+  word: "separatist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "separatist"
+      acc: "separatista"
+      gen: "separatista"
+      loc: "separatistu"
+      dat: "separatistu"
+      ins: "separatistom"
+      voc: "separatiste"
+    plural: 
+      nom: "separatisti"
+      acc: "separatistov"
+      gen: "separatistov"
+      loc: "separatistah"
+      dat: "separatistam"
+      ins: "separatistami"
+      voc: "separatisti"

@@ -1,0 +1,22 @@
+---
+  id: "19794"
+  word: "kontekst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontekst"
+      acc: "kontekst"
+      gen: "konteksta"
+      loc: "kontekstu"
+      dat: "kontekstu"
+      ins: "kontekstom"
+      voc: "kontekste"
+    plural: 
+      nom: "konteksty"
+      acc: "konteksty"
+      gen: "kontekstov"
+      loc: "kontekstah"
+      dat: "kontekstam"
+      ins: "kontekstami"
+      voc: "konteksty"

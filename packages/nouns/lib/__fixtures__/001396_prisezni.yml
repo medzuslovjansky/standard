@@ -1,0 +1,16 @@
+---
+  id: "1396"
+  word: "prisęžni"
+  meta: 
+    irregularity: "(-yh)"
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "prisęžni"
+      acc: "prisęžni"
+      gen: "prisęžnyh"
+      loc: "prisęžnyh"
+      dat: "prisęžnym"
+      ins: "prisęžnymi"
+      voc: "prisęžni"

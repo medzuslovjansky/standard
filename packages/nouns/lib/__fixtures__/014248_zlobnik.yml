@@ -1,0 +1,23 @@
+---
+  id: "14248"
+  word: "zlobnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zlobnik"
+      acc: "zlobnika"
+      gen: "zlobnika"
+      loc: "zlobniku"
+      dat: "zlobniku"
+      ins: "zlobnikom"
+      voc: "zlobniče"
+    plural: 
+      nom: "zlobniki"
+      acc: "zlobnikov"
+      gen: "zlobnikov"
+      loc: "zlobnikah"
+      dat: "zlobnikam"
+      ins: "zlobnikami"
+      voc: "zlobniki"

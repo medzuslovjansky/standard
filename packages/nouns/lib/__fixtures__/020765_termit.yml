@@ -1,0 +1,23 @@
+---
+  id: "20765"
+  word: "termit"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "termit"
+      acc: "termita"
+      gen: "termita"
+      loc: "termitu"
+      dat: "termitu"
+      ins: "termitom"
+      voc: "termite"
+    plural: 
+      nom: "termiti"
+      acc: "termitov"
+      gen: "termitov"
+      loc: "termitah"
+      dat: "termitam"
+      ins: "termitami"
+      voc: "termiti"

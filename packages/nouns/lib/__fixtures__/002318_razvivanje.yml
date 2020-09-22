@@ -1,0 +1,22 @@
+---
+  id: "2318"
+  word: "råzvivańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzvivańje"
+      acc: "råzvivańje"
+      gen: "råzvivańja"
+      loc: "råzvivańju"
+      dat: "råzvivańju"
+      ins: "råzvivańjem"
+      voc: "råzvivańje"
+    plural: 
+      nom: "råzvivańja"
+      acc: "råzvivańja"
+      gen: "råzvivanij"
+      loc: "råzvivańjah"
+      dat: "råzvivańjam"
+      ins: "råzvivańjami"
+      voc: "råzvivańja"

@@ -1,0 +1,22 @@
+---
+  id: "32561"
+  word: "klika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klika"
+      acc: "klikų"
+      gen: "kliky"
+      loc: "klikě"
+      dat: "klikě"
+      ins: "klikojų"
+      voc: "kliko"
+    plural: 
+      nom: "kliky"
+      acc: "kliky"
+      gen: "klik"
+      loc: "klikah"
+      dat: "klikam"
+      ins: "klikami"
+      voc: "kliky"

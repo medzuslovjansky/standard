@@ -1,0 +1,15 @@
+---
+  id: "17617"
+  word: "jednobožstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jednobožstvo"
+      acc: "jednobožstvo"
+      gen: "jednobožstva"
+      loc: "jednobožstvu"
+      dat: "jednobožstvu"
+      ins: "jednobožstvom"
+      voc: "jednobožstvo"

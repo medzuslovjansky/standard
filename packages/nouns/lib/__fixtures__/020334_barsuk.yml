@@ -1,0 +1,23 @@
+---
+  id: "20334"
+  word: "barsuk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "barsuk"
+      acc: "barsuka"
+      gen: "barsuka"
+      loc: "barsuku"
+      dat: "barsuku"
+      ins: "barsukom"
+      voc: "barsuče"
+    plural: 
+      nom: "barsuki"
+      acc: "barsukov"
+      gen: "barsukov"
+      loc: "barsukah"
+      dat: "barsukam"
+      ins: "barsukami"
+      voc: "barsuki"

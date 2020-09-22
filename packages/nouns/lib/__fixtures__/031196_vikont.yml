@@ -1,0 +1,23 @@
+---
+  id: "31196"
+  word: "vikont"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vikont"
+      acc: "vikonta"
+      gen: "vikonta"
+      loc: "vikontu"
+      dat: "vikontu"
+      ins: "vikontom"
+      voc: "vikonte"
+    plural: 
+      nom: "vikonti"
+      acc: "vikontov"
+      gen: "vikontov"
+      loc: "vikontah"
+      dat: "vikontam"
+      ins: "vikontami"
+      voc: "vikonti"

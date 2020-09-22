@@ -1,0 +1,22 @@
+---
+  id: "14462"
+  word: "bytosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bytosť"
+      acc: "bytosť"
+      gen: "bytosti"
+      loc: "bytosti"
+      dat: "bytosti"
+      ins: "bytosťjų"
+      voc: "bytosti"
+    plural: 
+      nom: "bytosti"
+      acc: "bytosti"
+      gen: "bytostij"
+      loc: "bytosťah"
+      dat: "bytosťam"
+      ins: "bytosťami"
+      voc: "bytosti"

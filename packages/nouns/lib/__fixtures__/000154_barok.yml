@@ -1,0 +1,15 @@
+---
+  id: "154"
+  word: "barok"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "barok"
+      acc: "barok"
+      gen: "baroka"
+      loc: "baroku"
+      dat: "baroku"
+      ins: "barokom"
+      voc: "baroče"

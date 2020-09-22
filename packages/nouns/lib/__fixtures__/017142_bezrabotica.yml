@@ -1,0 +1,15 @@
+---
+  id: "17142"
+  word: "bezråbotica"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezråbotica"
+      acc: "bezråboticų"
+      gen: "bezråbotice"
+      loc: "bezråbotici"
+      dat: "bezråbotici"
+      ins: "bezråboticejų"
+      voc: "bezråbotico"

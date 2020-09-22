@@ -1,0 +1,22 @@
+---
+  id: "18521"
+  word: "prohlådnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prohlådnosť"
+      acc: "prohlådnosť"
+      gen: "prohlådnosti"
+      loc: "prohlådnosti"
+      dat: "prohlådnosti"
+      ins: "prohlådnosťjų"
+      voc: "prohlådnosti"
+    plural: 
+      nom: "prohlådnosti"
+      acc: "prohlådnosti"
+      gen: "prohlådnostij"
+      loc: "prohlådnosťah"
+      dat: "prohlådnosťam"
+      ins: "prohlådnosťami"
+      voc: "prohlådnosti"

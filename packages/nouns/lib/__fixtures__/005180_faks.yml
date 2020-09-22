@@ -1,0 +1,22 @@
+---
+  id: "5180"
+  word: "faks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "faks"
+      acc: "faks"
+      gen: "faksa"
+      loc: "faksu"
+      dat: "faksu"
+      ins: "faksom"
+      voc: "fakse"
+    plural: 
+      nom: "faksy"
+      acc: "faksy"
+      gen: "faksov"
+      loc: "faksah"
+      dat: "faksam"
+      ins: "faksami"
+      voc: "faksy"

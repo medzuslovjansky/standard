@@ -1,0 +1,22 @@
+---
+  id: "4088"
+  word: "dodatȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dodatȯk"
+      acc: "dodatȯk"
+      gen: "dodatka"
+      loc: "dodatku"
+      dat: "dodatku"
+      ins: "dodatkom"
+      voc: "dodatče"
+    plural: 
+      nom: "dodatky"
+      acc: "dodatky"
+      gen: "dodatkov"
+      loc: "dodatkah"
+      dat: "dodatkam"
+      ins: "dodatkami"
+      voc: "dodatky"

@@ -1,0 +1,23 @@
+---
+  id: "5930"
+  word: "Ujgur"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Ujgur"
+      acc: "Ujgura"
+      gen: "Ujgura"
+      loc: "Ujguru"
+      dat: "Ujguru"
+      ins: "Ujgurom"
+      voc: "Ujgure"
+    plural: 
+      nom: "Ujguri"
+      acc: "Ujgurov"
+      gen: "Ujgurov"
+      loc: "Ujgurah"
+      dat: "Ujguram"
+      ins: "Ujgurami"
+      voc: "Ujguri"

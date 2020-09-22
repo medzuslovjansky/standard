@@ -1,0 +1,15 @@
+---
+  id: "13934"
+  word: "izumirańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izumirańje"
+      acc: "izumirańje"
+      gen: "izumirańja"
+      loc: "izumirańju"
+      dat: "izumirańju"
+      ins: "izumirańjem"
+      voc: "izumirańje"

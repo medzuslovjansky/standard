@@ -1,0 +1,15 @@
+---
+  id: "16787"
+  word: "Nikaragua"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Nikaragua"
+      acc: "Nikaraguų"
+      gen: "Nikaraguy"
+      loc: "Nikaraguě"
+      dat: "Nikaraguě"
+      ins: "Nikaraguojų"
+      voc: "Nikaraguo"

@@ -1,0 +1,23 @@
+---
+  id: "15152"
+  word: "voditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "voditelj"
+      acc: "voditelja"
+      gen: "voditelja"
+      loc: "voditelju"
+      dat: "voditelju"
+      ins: "voditeljem"
+      voc: "voditelju"
+    plural: 
+      nom: "voditelji"
+      acc: "voditeljev"
+      gen: "voditeljev"
+      loc: "voditeljah"
+      dat: "voditeljam"
+      ins: "voditeljami"
+      voc: "voditelji"

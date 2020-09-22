@@ -1,0 +1,22 @@
+---
+  id: "5905"
+  word: "modernizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "modernizacija"
+      acc: "modernizacijų"
+      gen: "modernizacije"
+      loc: "modernizaciji"
+      dat: "modernizaciji"
+      ins: "modernizacijejų"
+      voc: "modernizacijo"
+    plural: 
+      nom: "modernizacije"
+      acc: "modernizacije"
+      gen: "modernizacij"
+      loc: "modernizacijah"
+      dat: "modernizacijam"
+      ins: "modernizacijami"
+      voc: "modernizacije"

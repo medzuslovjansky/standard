@@ -1,0 +1,23 @@
+---
+  id: "640"
+  word: "člen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "člen"
+      acc: "člena"
+      gen: "člena"
+      loc: "členu"
+      dat: "členu"
+      ins: "členom"
+      voc: "člene"
+    plural: 
+      nom: "členi"
+      acc: "členov"
+      gen: "členov"
+      loc: "členah"
+      dat: "členam"
+      ins: "členami"
+      voc: "členi"

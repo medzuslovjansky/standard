@@ -1,0 +1,22 @@
+---
+  id: "24545"
+  word: "barža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "barža"
+      acc: "baržų"
+      gen: "barže"
+      loc: "barži"
+      dat: "barži"
+      ins: "baržejų"
+      voc: "baržo"
+    plural: 
+      nom: "barže"
+      acc: "barže"
+      gen: "barž"
+      loc: "baržah"
+      dat: "baržam"
+      ins: "baržami"
+      voc: "barže"

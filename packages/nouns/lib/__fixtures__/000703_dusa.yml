@@ -1,0 +1,22 @@
+---
+  id: "703"
+  word: "duša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "duša"
+      acc: "dušų"
+      gen: "duše"
+      loc: "duši"
+      dat: "duši"
+      ins: "dušejų"
+      voc: "dušo"
+    plural: 
+      nom: "duše"
+      acc: "duše"
+      gen: "duš"
+      loc: "dušah"
+      dat: "dušam"
+      ins: "dušami"
+      voc: "duše"

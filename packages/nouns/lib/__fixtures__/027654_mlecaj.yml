@@ -1,0 +1,22 @@
+---
+  id: "27654"
+  word: "mlěčaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mlěčaj"
+      acc: "mlěčaj"
+      gen: "mlěčaja"
+      loc: "mlěčaju"
+      dat: "mlěčaju"
+      ins: "mlěčajem"
+      voc: "mlěčaju"
+    plural: 
+      nom: "mlěčaje"
+      acc: "mlěčaje"
+      gen: "mlěčajev"
+      loc: "mlěčajah"
+      dat: "mlěčajam"
+      ins: "mlěčajami"
+      voc: "mlěčaje"

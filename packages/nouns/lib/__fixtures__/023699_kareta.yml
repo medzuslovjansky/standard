@@ -1,0 +1,22 @@
+---
+  id: "23699"
+  word: "kareta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kareta"
+      acc: "karetų"
+      gen: "karety"
+      loc: "karetě"
+      dat: "karetě"
+      ins: "karetojų"
+      voc: "kareto"
+    plural: 
+      nom: "karety"
+      acc: "karety"
+      gen: "karet"
+      loc: "karetah"
+      dat: "karetam"
+      ins: "karetami"
+      voc: "karety"

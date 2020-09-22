@@ -1,0 +1,22 @@
+---
+  id: "32735"
+  word: "mjuzikl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mjuzikl"
+      acc: "mjuzikl"
+      gen: "mjuzikla"
+      loc: "mjuziklu"
+      dat: "mjuziklu"
+      ins: "mjuziklom"
+      voc: "mjuzikle"
+    plural: 
+      nom: "mjuzikly"
+      acc: "mjuzikly"
+      gen: "mjuziklov"
+      loc: "mjuziklah"
+      dat: "mjuziklam"
+      ins: "mjuziklami"
+      voc: "mjuzikly"

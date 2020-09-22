@@ -1,0 +1,22 @@
+---
+  id: "14022"
+  word: "zablųda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zablųda"
+      acc: "zablųdų"
+      gen: "zablųdy"
+      loc: "zablųdě"
+      dat: "zablųdě"
+      ins: "zablųdojų"
+      voc: "zablųdo"
+    plural: 
+      nom: "zablųdy"
+      acc: "zablųdy"
+      gen: "zablųd"
+      loc: "zablųdah"
+      dat: "zablųdam"
+      ins: "zablųdami"
+      voc: "zablųdy"

@@ -1,0 +1,22 @@
+---
+  id: "36101"
+  word: "zaměna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaměna"
+      acc: "zaměnų"
+      gen: "zaměny"
+      loc: "zaměně"
+      dat: "zaměně"
+      ins: "zaměnojų"
+      voc: "zaměno"
+    plural: 
+      nom: "zaměny"
+      acc: "zaměny"
+      gen: "zaměn"
+      loc: "zaměnah"
+      dat: "zaměnam"
+      ins: "zaměnami"
+      voc: "zaměny"

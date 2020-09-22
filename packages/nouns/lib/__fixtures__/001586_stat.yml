@@ -1,0 +1,22 @@
+---
+  id: "1586"
+  word: "štat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "štat"
+      acc: "štat"
+      gen: "štata"
+      loc: "štatu"
+      dat: "štatu"
+      ins: "štatom"
+      voc: "štate"
+    plural: 
+      nom: "štaty"
+      acc: "štaty"
+      gen: "štatov"
+      loc: "štatah"
+      dat: "štatam"
+      ins: "štatami"
+      voc: "štaty"

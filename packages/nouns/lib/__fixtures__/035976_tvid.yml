@@ -1,0 +1,22 @@
+---
+  id: "35976"
+  word: "tvid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tvid"
+      acc: "tvid"
+      gen: "tvida"
+      loc: "tvidu"
+      dat: "tvidu"
+      ins: "tvidom"
+      voc: "tvide"
+    plural: 
+      nom: "tvidy"
+      acc: "tvidy"
+      gen: "tvidov"
+      loc: "tvidah"
+      dat: "tvidam"
+      ins: "tvidami"
+      voc: "tvidy"

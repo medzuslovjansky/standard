@@ -1,0 +1,22 @@
+---
+  id: "36685"
+  word: "glosarij"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glosarij"
+      acc: "glosarij"
+      gen: "glosarija"
+      loc: "glosariju"
+      dat: "glosariju"
+      ins: "glosarijem"
+      voc: "glosariju"
+    plural: 
+      nom: "glosarije"
+      acc: "glosarije"
+      gen: "glosarijev"
+      loc: "glosarijah"
+      dat: "glosarijam"
+      ins: "glosarijami"
+      voc: "glosarije"

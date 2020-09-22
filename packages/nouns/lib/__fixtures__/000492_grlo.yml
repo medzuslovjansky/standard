@@ -1,0 +1,22 @@
+---
+  id: "492"
+  word: "grlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "grlo"
+      acc: "grlo"
+      gen: "grla"
+      loc: "grlu"
+      dat: "grlu"
+      ins: "grlom"
+      voc: "grlo"
+    plural: 
+      nom: "grla"
+      acc: "grla"
+      gen: "grl"
+      loc: "grlah"
+      dat: "grlam"
+      ins: "grlami"
+      voc: "grla"

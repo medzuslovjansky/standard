@@ -1,0 +1,23 @@
+---
+  id: "34426"
+  word: "orangutan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "orangutan"
+      acc: "orangutana"
+      gen: "orangutana"
+      loc: "orangutanu"
+      dat: "orangutanu"
+      ins: "orangutanom"
+      voc: "orangutane"
+    plural: 
+      nom: "orangutani"
+      acc: "orangutanov"
+      gen: "orangutanov"
+      loc: "orangutanah"
+      dat: "orangutanam"
+      ins: "orangutanami"
+      voc: "orangutani"

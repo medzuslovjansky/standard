@@ -1,0 +1,22 @@
+---
+  id: "23189"
+  word: "korȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "korȯk"
+      acc: "korȯk"
+      gen: "korka"
+      loc: "korku"
+      dat: "korku"
+      ins: "korkom"
+      voc: "korče"
+    plural: 
+      nom: "korky"
+      acc: "korky"
+      gen: "korkov"
+      loc: "korkah"
+      dat: "korkam"
+      ins: "korkami"
+      voc: "korky"

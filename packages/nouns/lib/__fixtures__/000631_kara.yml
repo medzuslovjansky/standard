@@ -1,0 +1,22 @@
+---
+  id: "631"
+  word: "kara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kara"
+      acc: "karų"
+      gen: "kary"
+      loc: "karě"
+      dat: "karě"
+      ins: "karojų"
+      voc: "karo"
+    plural: 
+      nom: "kary"
+      acc: "kary"
+      gen: "kar"
+      loc: "karah"
+      dat: "karam"
+      ins: "karami"
+      voc: "kary"

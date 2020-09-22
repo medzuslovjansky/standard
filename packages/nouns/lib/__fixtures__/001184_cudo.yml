@@ -1,0 +1,23 @@
+---
+  id: "1184"
+  word: "čudo"
+  meta: 
+    irregularity: "(čuda/čudese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čudo"
+      acc: "čudo"
+      gen: "čuda / čudese"
+      loc: "čudu / čudesi"
+      dat: "čudu / čudesi"
+      ins: "čudom / čudesem"
+      voc: "čudo"
+    plural: 
+      nom: "čuda / čudesa"
+      acc: "čuda / čudesa"
+      gen: "čud / čudes"
+      loc: "čudah / čudesah"
+      dat: "čudam / čudesam"
+      ins: "čudami / čudesami"
+      voc: "čuda / čudesa"

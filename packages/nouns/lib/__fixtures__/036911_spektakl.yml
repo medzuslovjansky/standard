@@ -1,0 +1,22 @@
+---
+  id: "36911"
+  word: "spektakl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spektakl"
+      acc: "spektakl"
+      gen: "spektakla"
+      loc: "spektaklu"
+      dat: "spektaklu"
+      ins: "spektaklom"
+      voc: "spektakle"
+    plural: 
+      nom: "spektakly"
+      acc: "spektakly"
+      gen: "spektaklov"
+      loc: "spektaklah"
+      dat: "spektaklam"
+      ins: "spektaklami"
+      voc: "spektakly"

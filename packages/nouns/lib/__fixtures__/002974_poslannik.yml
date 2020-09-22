@@ -1,0 +1,23 @@
+---
+  id: "2974"
+  word: "poslannik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poslannik"
+      acc: "poslannika"
+      gen: "poslannika"
+      loc: "poslanniku"
+      dat: "poslanniku"
+      ins: "poslannikom"
+      voc: "poslanniče"
+    plural: 
+      nom: "poslanniki"
+      acc: "poslannikov"
+      gen: "poslannikov"
+      loc: "poslannikah"
+      dat: "poslannikam"
+      ins: "poslannikami"
+      voc: "poslanniki"

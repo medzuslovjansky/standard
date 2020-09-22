@@ -1,0 +1,22 @@
+---
+  id: "30660"
+  word: "saundtrek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "saundtrek"
+      acc: "saundtrek"
+      gen: "saundtreka"
+      loc: "saundtreku"
+      dat: "saundtreku"
+      ins: "saundtrekom"
+      voc: "saundtreče"
+    plural: 
+      nom: "saundtreky"
+      acc: "saundtreky"
+      gen: "saundtrekov"
+      loc: "saundtrekah"
+      dat: "saundtrekam"
+      ins: "saundtrekami"
+      voc: "saundtreky"

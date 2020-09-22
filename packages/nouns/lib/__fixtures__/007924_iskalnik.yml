@@ -1,0 +1,22 @@
+---
+  id: "7924"
+  word: "iskaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iskaľnik"
+      acc: "iskaľnik"
+      gen: "iskaľnika"
+      loc: "iskaľniku"
+      dat: "iskaľniku"
+      ins: "iskaľnikom"
+      voc: "iskaľniče"
+    plural: 
+      nom: "iskaľniky"
+      acc: "iskaľniky"
+      gen: "iskaľnikov"
+      loc: "iskaľnikah"
+      dat: "iskaľnikam"
+      ins: "iskaľnikami"
+      voc: "iskaľniky"

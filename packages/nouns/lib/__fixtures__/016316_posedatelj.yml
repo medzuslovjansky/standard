@@ -1,0 +1,23 @@
+---
+  id: "16316"
+  word: "posědatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "posědatelj"
+      acc: "posědatelja"
+      gen: "posědatelja"
+      loc: "posědatelju"
+      dat: "posědatelju"
+      ins: "posědateljem"
+      voc: "posědatelju"
+    plural: 
+      nom: "posědatelji"
+      acc: "posědateljev"
+      gen: "posědateljev"
+      loc: "posědateljah"
+      dat: "posědateljam"
+      ins: "posědateljami"
+      voc: "posědatelji"

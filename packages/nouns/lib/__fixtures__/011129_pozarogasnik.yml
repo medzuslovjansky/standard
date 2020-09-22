@@ -1,0 +1,22 @@
+---
+  id: "11129"
+  word: "požarogasnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "požarogasnik"
+      acc: "požarogasnik"
+      gen: "požarogasnika"
+      loc: "požarogasniku"
+      dat: "požarogasniku"
+      ins: "požarogasnikom"
+      voc: "požarogasniče"
+    plural: 
+      nom: "požarogasniky"
+      acc: "požarogasniky"
+      gen: "požarogasnikov"
+      loc: "požarogasnikah"
+      dat: "požarogasnikam"
+      ins: "požarogasnikami"
+      voc: "požarogasniky"

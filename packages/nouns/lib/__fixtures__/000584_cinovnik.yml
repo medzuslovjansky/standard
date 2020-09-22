@@ -1,0 +1,23 @@
+---
+  id: "584"
+  word: "činovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "činovnik"
+      acc: "činovnika"
+      gen: "činovnika"
+      loc: "činovniku"
+      dat: "činovniku"
+      ins: "činovnikom"
+      voc: "činovniče"
+    plural: 
+      nom: "činovniki"
+      acc: "činovnikov"
+      gen: "činovnikov"
+      loc: "činovnikah"
+      dat: "činovnikam"
+      ins: "činovnikami"
+      voc: "činovniki"

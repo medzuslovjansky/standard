@@ -1,0 +1,22 @@
+---
+  id: "736"
+  word: "komunikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komunikacija"
+      acc: "komunikacijų"
+      gen: "komunikacije"
+      loc: "komunikaciji"
+      dat: "komunikaciji"
+      ins: "komunikacijejų"
+      voc: "komunikacijo"
+    plural: 
+      nom: "komunikacije"
+      acc: "komunikacije"
+      gen: "komunikacij"
+      loc: "komunikacijah"
+      dat: "komunikacijam"
+      ins: "komunikacijami"
+      voc: "komunikacije"

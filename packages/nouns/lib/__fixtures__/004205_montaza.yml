@@ -1,0 +1,22 @@
+---
+  id: "4205"
+  word: "montaža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "montaža"
+      acc: "montažų"
+      gen: "montaže"
+      loc: "montaži"
+      dat: "montaži"
+      ins: "montažejų"
+      voc: "montažo"
+    plural: 
+      nom: "montaže"
+      acc: "montaže"
+      gen: "montaž"
+      loc: "montažah"
+      dat: "montažam"
+      ins: "montažami"
+      voc: "montaže"

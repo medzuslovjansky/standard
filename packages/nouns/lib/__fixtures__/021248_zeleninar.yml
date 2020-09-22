@@ -1,0 +1,23 @@
+---
+  id: "21248"
+  word: "zeleninaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zeleninaŕ"
+      acc: "zeleninaŕa"
+      gen: "zeleninaŕa"
+      loc: "zeleninaŕu"
+      dat: "zeleninaŕu"
+      ins: "zeleninaŕem"
+      voc: "zeleninaŕu"
+    plural: 
+      nom: "zeleninari"
+      acc: "zeleninaŕev"
+      gen: "zeleninaŕev"
+      loc: "zeleninaŕah"
+      dat: "zeleninaŕam"
+      ins: "zeleninaŕami"
+      voc: "zeleninari"

@@ -1,0 +1,22 @@
+---
+  id: "3180"
+  word: "dvižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dvižeńje"
+      acc: "dvižeńje"
+      gen: "dvižeńja"
+      loc: "dvižeńju"
+      dat: "dvižeńju"
+      ins: "dvižeńjem"
+      voc: "dvižeńje"
+    plural: 
+      nom: "dvižeńja"
+      acc: "dvižeńja"
+      gen: "dviženij"
+      loc: "dvižeńjah"
+      dat: "dvižeńjam"
+      ins: "dvižeńjami"
+      voc: "dvižeńja"

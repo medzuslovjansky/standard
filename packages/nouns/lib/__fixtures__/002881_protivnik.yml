@@ -1,0 +1,23 @@
+---
+  id: "2881"
+  word: "protivnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "protivnik"
+      acc: "protivnika"
+      gen: "protivnika"
+      loc: "protivniku"
+      dat: "protivniku"
+      ins: "protivnikom"
+      voc: "protivniče"
+    plural: 
+      nom: "protivniki"
+      acc: "protivnikov"
+      gen: "protivnikov"
+      loc: "protivnikah"
+      dat: "protivnikam"
+      ins: "protivnikami"
+      voc: "protivniki"

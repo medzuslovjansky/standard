@@ -1,0 +1,22 @@
+---
+  id: "35329"
+  word: "stalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stalosť"
+      acc: "stalosť"
+      gen: "stalosti"
+      loc: "stalosti"
+      dat: "stalosti"
+      ins: "stalosťjų"
+      voc: "stalosti"
+    plural: 
+      nom: "stalosti"
+      acc: "stalosti"
+      gen: "stalostij"
+      loc: "stalosťah"
+      dat: "stalosťam"
+      ins: "stalosťami"
+      voc: "stalosti"

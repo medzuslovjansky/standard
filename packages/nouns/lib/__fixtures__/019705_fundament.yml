@@ -1,0 +1,22 @@
+---
+  id: "19705"
+  word: "fundament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fundament"
+      acc: "fundament"
+      gen: "fundamenta"
+      loc: "fundamentu"
+      dat: "fundamentu"
+      ins: "fundamentom"
+      voc: "fundamente"
+    plural: 
+      nom: "fundamenty"
+      acc: "fundamenty"
+      gen: "fundamentov"
+      loc: "fundamentah"
+      dat: "fundamentam"
+      ins: "fundamentami"
+      voc: "fundamenty"

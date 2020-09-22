@@ -1,0 +1,22 @@
+---
+  id: "36833"
+  word: "kornet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kornet"
+      acc: "kornet"
+      gen: "korneta"
+      loc: "kornetu"
+      dat: "kornetu"
+      ins: "kornetom"
+      voc: "kornete"
+    plural: 
+      nom: "kornety"
+      acc: "kornety"
+      gen: "kornetov"
+      loc: "kornetah"
+      dat: "kornetam"
+      ins: "kornetami"
+      voc: "kornety"

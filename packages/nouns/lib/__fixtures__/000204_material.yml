@@ -1,0 +1,22 @@
+---
+  id: "204"
+  word: "material"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "material"
+      acc: "material"
+      gen: "materiala"
+      loc: "materialu"
+      dat: "materialu"
+      ins: "materialom"
+      voc: "materiale"
+    plural: 
+      nom: "materialy"
+      acc: "materialy"
+      gen: "materialov"
+      loc: "materialah"
+      dat: "materialam"
+      ins: "materialami"
+      voc: "materialy"

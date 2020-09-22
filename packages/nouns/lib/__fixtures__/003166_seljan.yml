@@ -1,0 +1,47 @@
+---
+  - 
+    id: "3166"
+    word: "seljan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "seljan"
+        acc: "seljana"
+        gen: "seljana"
+        loc: "seljanu"
+        dat: "seljanu"
+        ins: "seljanom"
+        voc: "seljane"
+      plural: 
+        nom: "seljani"
+        acc: "seljanov"
+        gen: "seljanov"
+        loc: "seljanah"
+        dat: "seljanam"
+        ins: "seljanami"
+        voc: "seljani"
+  - 
+    id: "3166"
+    word: "seljanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "seljanin"
+        acc: "seljanina"
+        gen: "seljanina"
+        loc: "seljaninu"
+        dat: "seljaninu"
+        ins: "seljaninom"
+        voc: "seljanine"
+      plural: 
+        nom: "seljani"
+        acc: "seljanov"
+        gen: "seljanov"
+        loc: "seljanah"
+        dat: "seljanam"
+        ins: "seljanami"
+        voc: "seljani"

@@ -1,0 +1,23 @@
+---
+  id: "35508"
+  word: "råstlinovod"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råstlinovod"
+      acc: "råstlinovoda"
+      gen: "råstlinovoda"
+      loc: "råstlinovodu"
+      dat: "råstlinovodu"
+      ins: "råstlinovodom"
+      voc: "råstlinovode"
+    plural: 
+      nom: "råstlinovodi"
+      acc: "råstlinovodov"
+      gen: "råstlinovodov"
+      loc: "råstlinovodah"
+      dat: "råstlinovodam"
+      ins: "råstlinovodami"
+      voc: "råstlinovodi"

@@ -1,0 +1,22 @@
+---
+  id: "26596"
+  word: "kokoška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kokoška"
+      acc: "kokoškų"
+      gen: "kokošky"
+      loc: "kokoškě"
+      dat: "kokoškě"
+      ins: "kokoškojų"
+      voc: "kokoško"
+    plural: 
+      nom: "kokošky"
+      acc: "kokošky"
+      gen: "kokošek"
+      loc: "kokoškah"
+      dat: "kokoškam"
+      ins: "kokoškami"
+      voc: "kokošky"

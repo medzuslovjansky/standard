@@ -1,0 +1,22 @@
+---
+  id: "548"
+  word: "sȯlza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sȯlza"
+      acc: "sȯlzų"
+      gen: "sȯlzy"
+      loc: "sȯlzě"
+      dat: "sȯlzě"
+      ins: "sȯlzojų"
+      voc: "sȯlzo"
+    plural: 
+      nom: "sȯlzy"
+      acc: "sȯlzy"
+      gen: "sȯlz"
+      loc: "sȯlzah"
+      dat: "sȯlzam"
+      ins: "sȯlzami"
+      voc: "sȯlzy"

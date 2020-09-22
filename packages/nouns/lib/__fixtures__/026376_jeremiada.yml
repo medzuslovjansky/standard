@@ -1,0 +1,22 @@
+---
+  id: "26376"
+  word: "jeremiada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jeremiada"
+      acc: "jeremiadų"
+      gen: "jeremiady"
+      loc: "jeremiadě"
+      dat: "jeremiadě"
+      ins: "jeremiadojų"
+      voc: "jeremiado"
+    plural: 
+      nom: "jeremiady"
+      acc: "jeremiady"
+      gen: "jeremiad"
+      loc: "jeremiadah"
+      dat: "jeremiadam"
+      ins: "jeremiadami"
+      voc: "jeremiady"

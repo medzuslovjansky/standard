@@ -1,0 +1,22 @@
+---
+  id: "3396"
+  word: "okazija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okazija"
+      acc: "okazijų"
+      gen: "okazije"
+      loc: "okaziji"
+      dat: "okaziji"
+      ins: "okazijejų"
+      voc: "okazijo"
+    plural: 
+      nom: "okazije"
+      acc: "okazije"
+      gen: "okazij"
+      loc: "okazijah"
+      dat: "okazijam"
+      ins: "okazijami"
+      voc: "okazije"

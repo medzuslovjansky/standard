@@ -1,0 +1,22 @@
+---
+  id: "21434"
+  word: "porok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "porok"
+      acc: "porok"
+      gen: "poroka"
+      loc: "poroku"
+      dat: "poroku"
+      ins: "porokom"
+      voc: "poroče"
+    plural: 
+      nom: "poroky"
+      acc: "poroky"
+      gen: "porokov"
+      loc: "porokah"
+      dat: "porokam"
+      ins: "porokami"
+      voc: "poroky"

@@ -1,0 +1,22 @@
+---
+  id: "26051"
+  word: "hvošč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hvošč"
+      acc: "hvošč"
+      gen: "hvošča"
+      loc: "hvošču"
+      dat: "hvošču"
+      ins: "hvoščem"
+      voc: "hvošču"
+    plural: 
+      nom: "hvošče"
+      acc: "hvošče"
+      gen: "hvoščev"
+      loc: "hvoščah"
+      dat: "hvoščam"
+      ins: "hvoščami"
+      voc: "hvošče"

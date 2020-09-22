@@ -1,0 +1,22 @@
+---
+  id: "32086"
+  word: "supa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "supa"
+      acc: "supų"
+      gen: "supy"
+      loc: "supě"
+      dat: "supě"
+      ins: "supojų"
+      voc: "supo"
+    plural: 
+      nom: "supy"
+      acc: "supy"
+      gen: "sup"
+      loc: "supah"
+      dat: "supam"
+      ins: "supami"
+      voc: "supy"

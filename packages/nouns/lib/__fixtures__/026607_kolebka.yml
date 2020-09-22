@@ -1,0 +1,22 @@
+---
+  id: "26607"
+  word: "kolěbka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolěbka"
+      acc: "kolěbkų"
+      gen: "kolěbky"
+      loc: "kolěbkě"
+      dat: "kolěbkě"
+      ins: "kolěbkojų"
+      voc: "kolěbko"
+    plural: 
+      nom: "kolěbky"
+      acc: "kolěbky"
+      gen: "kolěbȯk"
+      loc: "kolěbkah"
+      dat: "kolěbkam"
+      ins: "kolěbkami"
+      voc: "kolěbky"

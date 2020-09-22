@@ -1,0 +1,22 @@
+---
+  id: "18598"
+  word: "råzgovornik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzgovornik"
+      acc: "råzgovornik"
+      gen: "råzgovornika"
+      loc: "råzgovorniku"
+      dat: "råzgovorniku"
+      ins: "råzgovornikom"
+      voc: "råzgovorniče"
+    plural: 
+      nom: "råzgovorniky"
+      acc: "råzgovorniky"
+      gen: "råzgovornikov"
+      loc: "råzgovornikah"
+      dat: "råzgovornikam"
+      ins: "råzgovornikami"
+      voc: "råzgovorniky"

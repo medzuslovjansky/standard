@@ -1,0 +1,22 @@
+---
+  id: "89"
+  word: "hlěb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hlěb"
+      acc: "hlěb"
+      gen: "hlěba"
+      loc: "hlěbu"
+      dat: "hlěbu"
+      ins: "hlěbom"
+      voc: "hlěbe"
+    plural: 
+      nom: "hlěby"
+      acc: "hlěby"
+      gen: "hlěbov"
+      loc: "hlěbah"
+      dat: "hlěbam"
+      ins: "hlěbami"
+      voc: "hlěby"

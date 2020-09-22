@@ -1,0 +1,15 @@
+---
+  id: "129"
+  word: "Jugoslavija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Jugoslavija"
+      acc: "Jugoslavijų"
+      gen: "Jugoslavije"
+      loc: "Jugoslaviji"
+      dat: "Jugoslaviji"
+      ins: "Jugoslavijejų"
+      voc: "Jugoslavijo"

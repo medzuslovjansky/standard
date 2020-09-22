@@ -1,0 +1,22 @@
+---
+  id: "23074"
+  word: "vid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vid"
+      acc: "vid"
+      gen: "vida"
+      loc: "vidu"
+      dat: "vidu"
+      ins: "vidom"
+      voc: "vide"
+    plural: 
+      nom: "vidy"
+      acc: "vidy"
+      gen: "vidov"
+      loc: "vidah"
+      dat: "vidam"
+      ins: "vidami"
+      voc: "vidy"

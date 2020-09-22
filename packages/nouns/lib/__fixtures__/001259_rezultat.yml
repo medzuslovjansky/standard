@@ -1,0 +1,22 @@
+---
+  id: "1259"
+  word: "rezultat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rezultat"
+      acc: "rezultat"
+      gen: "rezultata"
+      loc: "rezultatu"
+      dat: "rezultatu"
+      ins: "rezultatom"
+      voc: "rezultate"
+    plural: 
+      nom: "rezultaty"
+      acc: "rezultaty"
+      gen: "rezultatov"
+      loc: "rezultatah"
+      dat: "rezultatam"
+      ins: "rezultatami"
+      voc: "rezultaty"

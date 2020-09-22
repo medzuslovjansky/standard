@@ -1,0 +1,22 @@
+---
+  id: "19161"
+  word: "važnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "važnosť"
+      acc: "važnosť"
+      gen: "važnosti"
+      loc: "važnosti"
+      dat: "važnosti"
+      ins: "važnosťjų"
+      voc: "važnosti"
+    plural: 
+      nom: "važnosti"
+      acc: "važnosti"
+      gen: "važnostij"
+      loc: "važnosťah"
+      dat: "važnosťam"
+      ins: "važnosťami"
+      voc: "važnosti"

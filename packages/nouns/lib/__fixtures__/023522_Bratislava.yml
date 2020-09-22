@@ -1,0 +1,15 @@
+---
+  id: "23522"
+  word: "Bratislava"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bratislava"
+      acc: "Bratislavų"
+      gen: "Bratislavy"
+      loc: "Bratislavě"
+      dat: "Bratislavě"
+      ins: "Bratislavojų"
+      voc: "Bratislavo"

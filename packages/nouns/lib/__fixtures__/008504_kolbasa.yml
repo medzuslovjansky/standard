@@ -1,0 +1,22 @@
+---
+  id: "8504"
+  word: "kȯlbasa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kȯlbasa"
+      acc: "kȯlbasų"
+      gen: "kȯlbasy"
+      loc: "kȯlbasě"
+      dat: "kȯlbasě"
+      ins: "kȯlbasojų"
+      voc: "kȯlbaso"
+    plural: 
+      nom: "kȯlbasy"
+      acc: "kȯlbasy"
+      gen: "kȯlbas"
+      loc: "kȯlbasah"
+      dat: "kȯlbasam"
+      ins: "kȯlbasami"
+      voc: "kȯlbasy"

@@ -1,0 +1,22 @@
+---
+  id: "33597"
+  word: "usťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "usťje"
+      acc: "usťje"
+      gen: "usťja"
+      loc: "usťju"
+      dat: "usťju"
+      ins: "usťjem"
+      voc: "usťje"
+    plural: 
+      nom: "usťja"
+      acc: "usťja"
+      gen: "ustij"
+      loc: "usťjah"
+      dat: "usťjam"
+      ins: "usťjami"
+      voc: "usťja"

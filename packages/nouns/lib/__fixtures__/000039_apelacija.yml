@@ -1,0 +1,22 @@
+---
+  id: "39"
+  word: "apelacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "apelacija"
+      acc: "apelacijų"
+      gen: "apelacije"
+      loc: "apelaciji"
+      dat: "apelaciji"
+      ins: "apelacijejų"
+      voc: "apelacijo"
+    plural: 
+      nom: "apelacije"
+      acc: "apelacije"
+      gen: "apelacij"
+      loc: "apelacijah"
+      dat: "apelacijam"
+      ins: "apelacijami"
+      voc: "apelacije"

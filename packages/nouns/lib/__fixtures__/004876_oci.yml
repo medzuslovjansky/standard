@@ -1,0 +1,15 @@
+---
+  id: "4876"
+  word: "oči"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "oči"
+      acc: "oči"
+      gen: "očij"
+      loc: "očjah"
+      dat: "očjam"
+      ins: "očjami"
+      voc: "oči"

@@ -1,0 +1,23 @@
+---
+  id: "23051"
+  word: "vȯzråstla"
+  meta: 
+    irregularity: "(vȯzråstloj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯzråstla"
+      acc: "vȯzråstlų"
+      gen: "vȯzråstloj"
+      loc: "vȯzråstloj"
+      dat: "vȯzråstloj"
+      ins: "vȯzråstlojų"
+      voc: "vȯzråstla"
+    plural: 
+      nom: "vȯzråstle"
+      acc: "vȯzråstle"
+      gen: "vȯzråstlyh"
+      loc: "vȯzråstlyh"
+      dat: "vȯzråstlym"
+      ins: "vȯzråstlymi"
+      voc: "vȯzråstle"

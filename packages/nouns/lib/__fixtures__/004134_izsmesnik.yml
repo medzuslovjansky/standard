@@ -1,0 +1,23 @@
+---
+  id: "4134"
+  word: "izsměšnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izsměšnik"
+      acc: "izsměšnika"
+      gen: "izsměšnika"
+      loc: "izsměšniku"
+      dat: "izsměšniku"
+      ins: "izsměšnikom"
+      voc: "izsměšniče"
+    plural: 
+      nom: "izsměšniki"
+      acc: "izsměšnikov"
+      gen: "izsměšnikov"
+      loc: "izsměšnikah"
+      dat: "izsměšnikam"
+      ins: "izsměšnikami"
+      voc: "izsměšniki"

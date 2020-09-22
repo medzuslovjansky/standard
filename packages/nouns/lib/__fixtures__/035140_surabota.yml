@@ -1,0 +1,22 @@
+---
+  id: "35140"
+  word: "sųråbota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųråbota"
+      acc: "sųråbotų"
+      gen: "sųråboty"
+      loc: "sųråbotě"
+      dat: "sųråbotě"
+      ins: "sųråbotojų"
+      voc: "sųråboto"
+    plural: 
+      nom: "sųråboty"
+      acc: "sųråboty"
+      gen: "sųråbot"
+      loc: "sųråbotah"
+      dat: "sųråbotam"
+      ins: "sųråbotami"
+      voc: "sųråboty"

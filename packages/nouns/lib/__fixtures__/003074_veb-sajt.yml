@@ -1,0 +1,45 @@
+---
+  - 
+    id: "3074"
+    word: "veb-sajt"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "veb-sajt"
+        acc: "veb-sajt"
+        gen: "veb-sajta"
+        loc: "veb-sajtu"
+        dat: "veb-sajtu"
+        ins: "veb-sajtom"
+        voc: "veb-sajte"
+      plural: 
+        nom: "veb-sajty"
+        acc: "veb-sajty"
+        gen: "veb-sajtov"
+        loc: "veb-sajtah"
+        dat: "veb-sajtam"
+        ins: "veb-sajtami"
+        voc: "veb-sajty"
+  - 
+    id: "3074"
+    word: "vebsajt"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "vebsajt"
+        acc: "vebsajt"
+        gen: "vebsajta"
+        loc: "vebsajtu"
+        dat: "vebsajtu"
+        ins: "vebsajtom"
+        voc: "vebsajte"
+      plural: 
+        nom: "vebsajty"
+        acc: "vebsajty"
+        gen: "vebsajtov"
+        loc: "vebsajtah"
+        dat: "vebsajtam"
+        ins: "vebsajtami"
+        voc: "vebsajty"

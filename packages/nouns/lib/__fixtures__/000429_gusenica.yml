@@ -1,0 +1,22 @@
+---
+  id: "429"
+  word: "gųsenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gųsenica"
+      acc: "gųsenicų"
+      gen: "gųsenice"
+      loc: "gųsenici"
+      dat: "gųsenici"
+      ins: "gųsenicejų"
+      voc: "gųsenico"
+    plural: 
+      nom: "gųsenice"
+      acc: "gųsenice"
+      gen: "gųsenic"
+      loc: "gųsenicah"
+      dat: "gųsenicam"
+      ins: "gųsenicami"
+      voc: "gųsenice"

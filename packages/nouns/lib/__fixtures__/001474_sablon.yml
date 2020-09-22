@@ -1,0 +1,22 @@
+---
+  id: "1474"
+  word: "šablon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šablon"
+      acc: "šablon"
+      gen: "šablona"
+      loc: "šablonu"
+      dat: "šablonu"
+      ins: "šablonom"
+      voc: "šablone"
+    plural: 
+      nom: "šablony"
+      acc: "šablony"
+      gen: "šablonov"
+      loc: "šablonah"
+      dat: "šablonam"
+      ins: "šablonami"
+      voc: "šablony"

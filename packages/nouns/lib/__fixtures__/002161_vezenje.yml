@@ -1,0 +1,22 @@
+---
+  id: "2161"
+  word: "vęzeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vęzeńje"
+      acc: "vęzeńje"
+      gen: "vęzeńja"
+      loc: "vęzeńju"
+      dat: "vęzeńju"
+      ins: "vęzeńjem"
+      voc: "vęzeńje"
+    plural: 
+      nom: "vęzeńja"
+      acc: "vęzeńja"
+      gen: "vęzenij"
+      loc: "vęzeńjah"
+      dat: "vęzeńjam"
+      ins: "vęzeńjami"
+      voc: "vęzeńja"

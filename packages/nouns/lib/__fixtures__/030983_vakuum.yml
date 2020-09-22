@@ -1,0 +1,22 @@
+---
+  id: "30983"
+  word: "vakuum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vakuum"
+      acc: "vakuum"
+      gen: "vakuuma"
+      loc: "vakuumu"
+      dat: "vakuumu"
+      ins: "vakuumom"
+      voc: "vakuum"
+    plural: 
+      nom: "vakuuma"
+      acc: "vakuuma"
+      gen: "vakuum"
+      loc: "vakuumah"
+      dat: "vakuumam"
+      ins: "vakuumami"
+      voc: "vakuuma"

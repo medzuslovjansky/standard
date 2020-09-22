@@ -1,0 +1,22 @@
+---
+  id: "18816"
+  word: "signal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "signal"
+      acc: "signal"
+      gen: "signala"
+      loc: "signalu"
+      dat: "signalu"
+      ins: "signalom"
+      voc: "signale"
+    plural: 
+      nom: "signaly"
+      acc: "signaly"
+      gen: "signalov"
+      loc: "signalah"
+      dat: "signalam"
+      ins: "signalami"
+      voc: "signaly"

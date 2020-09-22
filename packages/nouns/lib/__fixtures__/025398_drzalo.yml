@@ -1,0 +1,22 @@
+---
+  id: "25398"
+  word: "držalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "držalo"
+      acc: "držalo"
+      gen: "držala"
+      loc: "držalu"
+      dat: "držalu"
+      ins: "držalom"
+      voc: "držalo"
+    plural: 
+      nom: "držala"
+      acc: "držala"
+      gen: "držal"
+      loc: "držalah"
+      dat: "držalam"
+      ins: "držalami"
+      voc: "držala"

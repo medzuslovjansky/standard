@@ -1,0 +1,15 @@
+---
+  id: "17347"
+  word: "dudy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "dudy"
+      acc: "dudy"
+      gen: "dud"
+      loc: "dudah"
+      dat: "dudam"
+      ins: "dudami"
+      voc: "dudy"

@@ -1,0 +1,22 @@
+---
+  id: "35285"
+  word: "ekvivalent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ekvivalent"
+      acc: "ekvivalent"
+      gen: "ekvivalenta"
+      loc: "ekvivalentu"
+      dat: "ekvivalentu"
+      ins: "ekvivalentom"
+      voc: "ekvivalente"
+    plural: 
+      nom: "ekvivalenty"
+      acc: "ekvivalenty"
+      gen: "ekvivalentov"
+      loc: "ekvivalentah"
+      dat: "ekvivalentam"
+      ins: "ekvivalentami"
+      voc: "ekvivalenty"

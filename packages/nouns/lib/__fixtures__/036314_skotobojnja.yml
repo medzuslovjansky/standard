@@ -1,0 +1,22 @@
+---
+  id: "36314"
+  word: "skotobojnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skotobojnja"
+      acc: "skotobojnjų"
+      gen: "skotobojnje"
+      loc: "skotobojnji"
+      dat: "skotobojnji"
+      ins: "skotobojnjejų"
+      voc: "skotobojnjo"
+    plural: 
+      nom: "skotobojnje"
+      acc: "skotobojnje"
+      gen: "skotobojnej"
+      loc: "skotobojnjah"
+      dat: "skotobojnjam"
+      ins: "skotobojnjami"
+      voc: "skotobojnje"

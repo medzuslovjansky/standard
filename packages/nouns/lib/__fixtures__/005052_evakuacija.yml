@@ -1,0 +1,22 @@
+---
+  id: "5052"
+  word: "evakuacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "evakuacija"
+      acc: "evakuacijų"
+      gen: "evakuacije"
+      loc: "evakuaciji"
+      dat: "evakuaciji"
+      ins: "evakuacijejų"
+      voc: "evakuacijo"
+    plural: 
+      nom: "evakuacije"
+      acc: "evakuacije"
+      gen: "evakuacij"
+      loc: "evakuacijah"
+      dat: "evakuacijam"
+      ins: "evakuacijami"
+      voc: "evakuacije"

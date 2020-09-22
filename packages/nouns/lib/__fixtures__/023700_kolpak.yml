@@ -1,0 +1,22 @@
+---
+  id: "23700"
+  word: "kolpak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolpak"
+      acc: "kolpak"
+      gen: "kolpaka"
+      loc: "kolpaku"
+      dat: "kolpaku"
+      ins: "kolpakom"
+      voc: "kolpače"
+    plural: 
+      nom: "kolpaky"
+      acc: "kolpaky"
+      gen: "kolpakov"
+      loc: "kolpakah"
+      dat: "kolpakam"
+      ins: "kolpakami"
+      voc: "kolpaky"

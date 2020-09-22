@@ -1,0 +1,23 @@
+---
+  id: "15593"
+  word: "škoľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "škoľnik"
+      acc: "škoľnika"
+      gen: "škoľnika"
+      loc: "škoľniku"
+      dat: "škoľniku"
+      ins: "škoľnikom"
+      voc: "škoľniče"
+    plural: 
+      nom: "škoľniki"
+      acc: "škoľnikov"
+      gen: "škoľnikov"
+      loc: "škoľnikah"
+      dat: "škoľnikam"
+      ins: "škoľnikami"
+      voc: "škoľniki"

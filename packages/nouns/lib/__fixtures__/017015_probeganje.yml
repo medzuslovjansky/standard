@@ -1,0 +1,22 @@
+---
+  id: "17015"
+  word: "proběgańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proběgańje"
+      acc: "proběgańje"
+      gen: "proběgańja"
+      loc: "proběgańju"
+      dat: "proběgańju"
+      ins: "proběgańjem"
+      voc: "proběgańje"
+    plural: 
+      nom: "proběgańja"
+      acc: "proběgańja"
+      gen: "proběganij"
+      loc: "proběgańjah"
+      dat: "proběgańjam"
+      ins: "proběgańjami"
+      voc: "proběgańja"

@@ -1,0 +1,22 @@
+---
+  id: "3510"
+  word: "sråvnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sråvnjeńje"
+      acc: "sråvnjeńje"
+      gen: "sråvnjeńja"
+      loc: "sråvnjeńju"
+      dat: "sråvnjeńju"
+      ins: "sråvnjeńjem"
+      voc: "sråvnjeńje"
+    plural: 
+      nom: "sråvnjeńja"
+      acc: "sråvnjeńja"
+      gen: "sråvnjenij"
+      loc: "sråvnjeńjah"
+      dat: "sråvnjeńjam"
+      ins: "sråvnjeńjami"
+      voc: "sråvnjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "1978"
+  word: "sbože"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sbože"
+      acc: "sbože"
+      gen: "sboža"
+      loc: "sbožu"
+      dat: "sbožu"
+      ins: "sbožem"
+      voc: "sbože"
+    plural: 
+      nom: "sboža"
+      acc: "sboža"
+      gen: "sbož"
+      loc: "sbožah"
+      dat: "sbožam"
+      ins: "sbožami"
+      voc: "sboža"

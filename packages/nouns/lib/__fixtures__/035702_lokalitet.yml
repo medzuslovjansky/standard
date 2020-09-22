@@ -1,0 +1,22 @@
+---
+  id: "35702"
+  word: "lokalitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lokalitet"
+      acc: "lokalitet"
+      gen: "lokaliteta"
+      loc: "lokalitetu"
+      dat: "lokalitetu"
+      ins: "lokalitetom"
+      voc: "lokalitete"
+    plural: 
+      nom: "lokalitety"
+      acc: "lokalitety"
+      gen: "lokalitetov"
+      loc: "lokalitetah"
+      dat: "lokalitetam"
+      ins: "lokalitetami"
+      voc: "lokalitety"

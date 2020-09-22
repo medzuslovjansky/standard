@@ -1,0 +1,22 @@
+---
+  id: "35258"
+  word: "digraf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "digraf"
+      acc: "digraf"
+      gen: "digrafa"
+      loc: "digrafu"
+      dat: "digrafu"
+      ins: "digrafom"
+      voc: "digrafe"
+    plural: 
+      nom: "digrafy"
+      acc: "digrafy"
+      gen: "digrafov"
+      loc: "digrafah"
+      dat: "digrafam"
+      ins: "digrafami"
+      voc: "digrafy"

@@ -1,0 +1,22 @@
+---
+  id: "23606"
+  word: "polarizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polarizacija"
+      acc: "polarizacijų"
+      gen: "polarizacije"
+      loc: "polarizaciji"
+      dat: "polarizaciji"
+      ins: "polarizacijejų"
+      voc: "polarizacijo"
+    plural: 
+      nom: "polarizacije"
+      acc: "polarizacije"
+      gen: "polarizacij"
+      loc: "polarizacijah"
+      dat: "polarizacijam"
+      ins: "polarizacijami"
+      voc: "polarizacije"

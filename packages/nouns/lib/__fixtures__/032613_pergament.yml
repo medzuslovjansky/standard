@@ -1,0 +1,22 @@
+---
+  id: "32613"
+  word: "pergament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pergament"
+      acc: "pergament"
+      gen: "pergamenta"
+      loc: "pergamentu"
+      dat: "pergamentu"
+      ins: "pergamentom"
+      voc: "pergamente"
+    plural: 
+      nom: "pergamenty"
+      acc: "pergamenty"
+      gen: "pergamentov"
+      loc: "pergamentah"
+      dat: "pergamentam"
+      ins: "pergamentami"
+      voc: "pergamenty"

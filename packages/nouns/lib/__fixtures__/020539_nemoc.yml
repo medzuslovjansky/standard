@@ -1,0 +1,22 @@
+---
+  id: "20539"
+  word: "nemoć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nemoć"
+      acc: "nemoć"
+      gen: "nemoći"
+      loc: "nemoći"
+      dat: "nemoći"
+      ins: "nemoćjų"
+      voc: "nemoći"
+    plural: 
+      nom: "nemoći"
+      acc: "nemoći"
+      gen: "nemoćij"
+      loc: "nemoćah"
+      dat: "nemoćam"
+      ins: "nemoćami"
+      voc: "nemoći"

@@ -1,0 +1,22 @@
+---
+  id: "36744"
+  word: "azbest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "azbest"
+      acc: "azbest"
+      gen: "azbesta"
+      loc: "azbestu"
+      dat: "azbestu"
+      ins: "azbestom"
+      voc: "azbeste"
+    plural: 
+      nom: "azbesty"
+      acc: "azbesty"
+      gen: "azbestov"
+      loc: "azbestah"
+      dat: "azbestam"
+      ins: "azbestami"
+      voc: "azbesty"

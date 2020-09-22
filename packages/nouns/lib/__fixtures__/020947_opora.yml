@@ -1,0 +1,22 @@
+---
+  id: "20947"
+  word: "opora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opora"
+      acc: "oporų"
+      gen: "opory"
+      loc: "oporě"
+      dat: "oporě"
+      ins: "oporojų"
+      voc: "oporo"
+    plural: 
+      nom: "opory"
+      acc: "opory"
+      gen: "opor"
+      loc: "oporah"
+      dat: "oporam"
+      ins: "oporami"
+      voc: "opory"

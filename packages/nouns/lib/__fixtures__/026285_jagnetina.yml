@@ -1,0 +1,22 @@
+---
+  id: "26285"
+  word: "jagnętina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jagnętina"
+      acc: "jagnętinų"
+      gen: "jagnętiny"
+      loc: "jagnętině"
+      dat: "jagnętině"
+      ins: "jagnętinojų"
+      voc: "jagnętino"
+    plural: 
+      nom: "jagnętiny"
+      acc: "jagnętiny"
+      gen: "jagnętin"
+      loc: "jagnętinah"
+      dat: "jagnętinam"
+      ins: "jagnętinami"
+      voc: "jagnętiny"

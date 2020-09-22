@@ -1,0 +1,22 @@
+---
+  id: "17661"
+  word: "kmotra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kmotra"
+      acc: "kmotrų"
+      gen: "kmotry"
+      loc: "kmotrě"
+      dat: "kmotrě"
+      ins: "kmotrojų"
+      voc: "kmotro"
+    plural: 
+      nom: "kmotry"
+      acc: "kmotry"
+      gen: "kmotr"
+      loc: "kmotrah"
+      dat: "kmotram"
+      ins: "kmotrami"
+      voc: "kmotry"

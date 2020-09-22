@@ -1,0 +1,22 @@
+---
+  id: "4952"
+  word: "anulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anulacija"
+      acc: "anulacijų"
+      gen: "anulacije"
+      loc: "anulaciji"
+      dat: "anulaciji"
+      ins: "anulacijejų"
+      voc: "anulacijo"
+    plural: 
+      nom: "anulacije"
+      acc: "anulacije"
+      gen: "anulacij"
+      loc: "anulacijah"
+      dat: "anulacijam"
+      ins: "anulacijami"
+      voc: "anulacije"

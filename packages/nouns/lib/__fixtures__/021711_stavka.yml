@@ -1,0 +1,22 @@
+---
+  id: "21711"
+  word: "stavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stavka"
+      acc: "stavkų"
+      gen: "stavky"
+      loc: "stavkě"
+      dat: "stavkě"
+      ins: "stavkojų"
+      voc: "stavko"
+    plural: 
+      nom: "stavky"
+      acc: "stavky"
+      gen: "stavȯk"
+      loc: "stavkah"
+      dat: "stavkam"
+      ins: "stavkami"
+      voc: "stavky"

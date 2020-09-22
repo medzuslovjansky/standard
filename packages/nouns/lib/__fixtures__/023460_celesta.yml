@@ -1,0 +1,22 @@
+---
+  id: "23460"
+  word: "čelesta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čelesta"
+      acc: "čelestų"
+      gen: "čelesty"
+      loc: "čelestě"
+      dat: "čelestě"
+      ins: "čelestojų"
+      voc: "čelesto"
+    plural: 
+      nom: "čelesty"
+      acc: "čelesty"
+      gen: "čelest"
+      loc: "čelestah"
+      dat: "čelestam"
+      ins: "čelestami"
+      voc: "čelesty"

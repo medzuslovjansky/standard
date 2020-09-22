@@ -1,0 +1,22 @@
+---
+  id: "14831"
+  word: "perun"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "perun"
+      acc: "perun"
+      gen: "peruna"
+      loc: "perunu"
+      dat: "perunu"
+      ins: "perunom"
+      voc: "perune"
+    plural: 
+      nom: "peruny"
+      acc: "peruny"
+      gen: "perunov"
+      loc: "perunah"
+      dat: "perunam"
+      ins: "perunami"
+      voc: "peruny"

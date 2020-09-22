@@ -1,0 +1,23 @@
+---
+  id: "4232"
+  word: "gasitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gasitelj"
+      acc: "gasitelja"
+      gen: "gasitelja"
+      loc: "gasitelju"
+      dat: "gasitelju"
+      ins: "gasiteljem"
+      voc: "gasitelju"
+    plural: 
+      nom: "gasitelji"
+      acc: "gasiteljev"
+      gen: "gasiteljev"
+      loc: "gasiteljah"
+      dat: "gasiteljam"
+      ins: "gasiteljami"
+      voc: "gasitelji"

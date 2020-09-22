@@ -1,0 +1,23 @@
+---
+  id: "32477"
+  word: "tiran"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tiran"
+      acc: "tirana"
+      gen: "tirana"
+      loc: "tiranu"
+      dat: "tiranu"
+      ins: "tiranom"
+      voc: "tirane"
+    plural: 
+      nom: "tirani"
+      acc: "tiranov"
+      gen: "tiranov"
+      loc: "tiranah"
+      dat: "tiranam"
+      ins: "tiranami"
+      voc: "tirani"

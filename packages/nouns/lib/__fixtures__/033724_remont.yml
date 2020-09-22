@@ -1,0 +1,22 @@
+---
+  id: "33724"
+  word: "remont"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "remont"
+      acc: "remont"
+      gen: "remonta"
+      loc: "remontu"
+      dat: "remontu"
+      ins: "remontom"
+      voc: "remonte"
+    plural: 
+      nom: "remonty"
+      acc: "remonty"
+      gen: "remontov"
+      loc: "remontah"
+      dat: "remontam"
+      ins: "remontami"
+      voc: "remonty"

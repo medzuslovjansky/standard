@@ -1,0 +1,22 @@
+---
+  id: "27597"
+  word: "mikrobus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mikrobus"
+      acc: "mikrobus"
+      gen: "mikrobusa"
+      loc: "mikrobusu"
+      dat: "mikrobusu"
+      ins: "mikrobusom"
+      voc: "mikrobuse"
+    plural: 
+      nom: "mikrobusy"
+      acc: "mikrobusy"
+      gen: "mikrobusov"
+      loc: "mikrobusah"
+      dat: "mikrobusam"
+      ins: "mikrobusami"
+      voc: "mikrobusy"

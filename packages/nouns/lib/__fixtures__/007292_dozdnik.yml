@@ -1,0 +1,22 @@
+---
+  id: "7292"
+  word: "dȯždnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dȯždnik"
+      acc: "dȯždnik"
+      gen: "dȯždnika"
+      loc: "dȯždniku"
+      dat: "dȯždniku"
+      ins: "dȯždnikom"
+      voc: "dȯždniče"
+    plural: 
+      nom: "dȯždniky"
+      acc: "dȯždniky"
+      gen: "dȯždnikov"
+      loc: "dȯždnikah"
+      dat: "dȯždnikam"
+      ins: "dȯždnikami"
+      voc: "dȯždniky"

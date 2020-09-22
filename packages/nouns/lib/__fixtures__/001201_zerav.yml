@@ -1,0 +1,23 @@
+---
+  id: "1201"
+  word: "žerav"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žerav"
+      acc: "žerava"
+      gen: "žerava"
+      loc: "žeravu"
+      dat: "žeravu"
+      ins: "žeravom"
+      voc: "žerave"
+    plural: 
+      nom: "žeravi"
+      acc: "žeravov"
+      gen: "žeravov"
+      loc: "žeravah"
+      dat: "žeravam"
+      ins: "žeravami"
+      voc: "žeravi"

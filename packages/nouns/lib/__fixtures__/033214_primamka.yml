@@ -1,0 +1,22 @@
+---
+  id: "33214"
+  word: "primamka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "primamka"
+      acc: "primamkų"
+      gen: "primamky"
+      loc: "primamkě"
+      dat: "primamkě"
+      ins: "primamkojų"
+      voc: "primamko"
+    plural: 
+      nom: "primamky"
+      acc: "primamky"
+      gen: "primamȯk"
+      loc: "primamkah"
+      dat: "primamkam"
+      ins: "primamkami"
+      voc: "primamky"

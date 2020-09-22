@@ -1,0 +1,47 @@
+---
+  - 
+    id: "922"
+    word: "musliman"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "musliman"
+        acc: "muslimana"
+        gen: "muslimana"
+        loc: "muslimanu"
+        dat: "muslimanu"
+        ins: "muslimanom"
+        voc: "muslimane"
+      plural: 
+        nom: "muslimani"
+        acc: "muslimanov"
+        gen: "muslimanov"
+        loc: "muslimanah"
+        dat: "muslimanam"
+        ins: "muslimanami"
+        voc: "muslimani"
+  - 
+    id: "922"
+    word: "muslimanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "muslimanin"
+        acc: "muslimanina"
+        gen: "muslimanina"
+        loc: "muslimaninu"
+        dat: "muslimaninu"
+        ins: "muslimaninom"
+        voc: "muslimanine"
+      plural: 
+        nom: "muslimani"
+        acc: "muslimanov"
+        gen: "muslimanov"
+        loc: "muslimanah"
+        dat: "muslimanam"
+        ins: "muslimanami"
+        voc: "muslimani"

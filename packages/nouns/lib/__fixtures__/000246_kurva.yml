@@ -1,0 +1,22 @@
+---
+  id: "246"
+  word: "kurva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kurva"
+      acc: "kurvų"
+      gen: "kurvy"
+      loc: "kurvě"
+      dat: "kurvě"
+      ins: "kurvojų"
+      voc: "kurvo"
+    plural: 
+      nom: "kurvy"
+      acc: "kurvy"
+      gen: "kurv"
+      loc: "kurvah"
+      dat: "kurvam"
+      ins: "kurvami"
+      voc: "kurvy"

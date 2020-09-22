@@ -1,0 +1,23 @@
+---
+  id: "31216"
+  word: "virtuoz"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "virtuoz"
+      acc: "virtuoza"
+      gen: "virtuoza"
+      loc: "virtuozu"
+      dat: "virtuozu"
+      ins: "virtuozom"
+      voc: "virtuoze"
+    plural: 
+      nom: "virtuozi"
+      acc: "virtuozov"
+      gen: "virtuozov"
+      loc: "virtuozah"
+      dat: "virtuozam"
+      ins: "virtuozami"
+      voc: "virtuozi"

@@ -1,0 +1,22 @@
+---
+  id: "32722"
+  word: "anketa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anketa"
+      acc: "anketų"
+      gen: "ankety"
+      loc: "anketě"
+      dat: "anketě"
+      ins: "anketojų"
+      voc: "anketo"
+    plural: 
+      nom: "ankety"
+      acc: "ankety"
+      gen: "anket"
+      loc: "anketah"
+      dat: "anketam"
+      ins: "anketami"
+      voc: "ankety"

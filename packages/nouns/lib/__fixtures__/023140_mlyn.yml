@@ -1,0 +1,22 @@
+---
+  id: "23140"
+  word: "mlyn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mlyn"
+      acc: "mlyn"
+      gen: "mlyna"
+      loc: "mlynu"
+      dat: "mlynu"
+      ins: "mlynom"
+      voc: "mlyne"
+    plural: 
+      nom: "mlyny"
+      acc: "mlyny"
+      gen: "mlynov"
+      loc: "mlynah"
+      dat: "mlynam"
+      ins: "mlynami"
+      voc: "mlyny"

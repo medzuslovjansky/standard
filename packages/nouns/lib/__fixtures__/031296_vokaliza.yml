@@ -1,0 +1,22 @@
+---
+  id: "31296"
+  word: "vokaliza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vokaliza"
+      acc: "vokalizų"
+      gen: "vokalizy"
+      loc: "vokalizě"
+      dat: "vokalizě"
+      ins: "vokalizojų"
+      voc: "vokalizo"
+    plural: 
+      nom: "vokalizy"
+      acc: "vokalizy"
+      gen: "vokaliz"
+      loc: "vokalizah"
+      dat: "vokalizam"
+      ins: "vokalizami"
+      voc: "vokalizy"

@@ -1,0 +1,23 @@
+---
+  id: "35608"
+  word: "prědavnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědavnik"
+      acc: "prědavnika"
+      gen: "prědavnika"
+      loc: "prědavniku"
+      dat: "prědavniku"
+      ins: "prědavnikom"
+      voc: "prědavniče"
+    plural: 
+      nom: "prědavniki"
+      acc: "prědavnikov"
+      gen: "prědavnikov"
+      loc: "prědavnikah"
+      dat: "prědavnikam"
+      ins: "prědavnikami"
+      voc: "prědavniki"

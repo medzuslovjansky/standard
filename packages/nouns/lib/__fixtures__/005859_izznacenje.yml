@@ -1,0 +1,22 @@
+---
+  id: "5859"
+  word: "izznačeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izznačeńje"
+      acc: "izznačeńje"
+      gen: "izznačeńja"
+      loc: "izznačeńju"
+      dat: "izznačeńju"
+      ins: "izznačeńjem"
+      voc: "izznačeńje"
+    plural: 
+      nom: "izznačeńja"
+      acc: "izznačeńja"
+      gen: "izznačenij"
+      loc: "izznačeńjah"
+      dat: "izznačeńjam"
+      ins: "izznačeńjami"
+      voc: "izznačeńja"

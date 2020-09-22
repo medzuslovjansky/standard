@@ -1,0 +1,22 @@
+---
+  id: "21898"
+  word: "sųstradańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųstradańje"
+      acc: "sųstradańje"
+      gen: "sųstradańja"
+      loc: "sųstradańju"
+      dat: "sųstradańju"
+      ins: "sųstradańjem"
+      voc: "sųstradańje"
+    plural: 
+      nom: "sųstradańja"
+      acc: "sųstradańja"
+      gen: "sųstradanij"
+      loc: "sųstradańjah"
+      dat: "sųstradańjam"
+      ins: "sųstradańjami"
+      voc: "sųstradańja"

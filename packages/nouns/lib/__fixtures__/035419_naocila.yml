@@ -1,0 +1,15 @@
+---
+  id: "35419"
+  word: "naočila"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "naočila"
+      acc: "naočila"
+      gen: "naočil"
+      loc: "naočilah"
+      dat: "naočilam"
+      ins: "naočilami"
+      voc: "naočila"

@@ -1,0 +1,22 @@
+---
+  id: "31282"
+  word: "vođa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vođa"
+      acc: "vođų"
+      gen: "vođy"
+      loc: "vođě"
+      dat: "vođě"
+      ins: "vođojų"
+      voc: "vođo"
+    plural: 
+      nom: "vođy"
+      acc: "vođy"
+      gen: "vođ"
+      loc: "vođah"
+      dat: "vođam"
+      ins: "vođami"
+      voc: "vođy"

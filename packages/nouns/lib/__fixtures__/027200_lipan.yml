@@ -1,0 +1,23 @@
+---
+  id: "27200"
+  word: "lipan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lipan"
+      acc: "lipana"
+      gen: "lipana"
+      loc: "lipanu"
+      dat: "lipanu"
+      ins: "lipanom"
+      voc: "lipane"
+    plural: 
+      nom: "lipani"
+      acc: "lipanov"
+      gen: "lipanov"
+      loc: "lipanah"
+      dat: "lipanam"
+      ins: "lipanami"
+      voc: "lipani"

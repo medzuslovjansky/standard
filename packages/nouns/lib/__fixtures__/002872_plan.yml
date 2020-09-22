@@ -1,0 +1,22 @@
+---
+  id: "2872"
+  word: "plan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plan"
+      acc: "plan"
+      gen: "plana"
+      loc: "planu"
+      dat: "planu"
+      ins: "planom"
+      voc: "plane"
+    plural: 
+      nom: "plany"
+      acc: "plany"
+      gen: "planov"
+      loc: "planah"
+      dat: "planam"
+      ins: "planami"
+      voc: "plany"

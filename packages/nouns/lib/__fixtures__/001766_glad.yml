@@ -1,0 +1,22 @@
+---
+  id: "1766"
+  word: "glåd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glåd"
+      acc: "glåd"
+      gen: "glåda"
+      loc: "glådu"
+      dat: "glådu"
+      ins: "glådom"
+      voc: "glåde"
+    plural: 
+      nom: "glådy"
+      acc: "glådy"
+      gen: "glådov"
+      loc: "glådah"
+      dat: "glådam"
+      ins: "glådami"
+      voc: "glådy"

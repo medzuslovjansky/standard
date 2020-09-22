@@ -1,0 +1,22 @@
+---
+  id: "815"
+  word: "komnata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komnata"
+      acc: "komnatų"
+      gen: "komnaty"
+      loc: "komnatě"
+      dat: "komnatě"
+      ins: "komnatojų"
+      voc: "komnato"
+    plural: 
+      nom: "komnaty"
+      acc: "komnaty"
+      gen: "komnat"
+      loc: "komnatah"
+      dat: "komnatam"
+      ins: "komnatami"
+      voc: "komnaty"

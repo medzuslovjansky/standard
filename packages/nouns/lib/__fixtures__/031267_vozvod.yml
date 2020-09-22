@@ -1,0 +1,22 @@
+---
+  id: "31267"
+  word: "vȯzvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzvod"
+      acc: "vȯzvod"
+      gen: "vȯzvoda"
+      loc: "vȯzvodu"
+      dat: "vȯzvodu"
+      ins: "vȯzvodom"
+      voc: "vȯzvode"
+    plural: 
+      nom: "vȯzvody"
+      acc: "vȯzvody"
+      gen: "vȯzvodov"
+      loc: "vȯzvodah"
+      dat: "vȯzvodam"
+      ins: "vȯzvodami"
+      voc: "vȯzvody"

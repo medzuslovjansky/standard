@@ -1,0 +1,23 @@
+---
+  id: "21024"
+  word: "poštaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poštaŕ"
+      acc: "poštaŕa"
+      gen: "poštaŕa"
+      loc: "poštaŕu"
+      dat: "poštaŕu"
+      ins: "poštaŕem"
+      voc: "poštaŕu"
+    plural: 
+      nom: "poštari"
+      acc: "poštaŕev"
+      gen: "poštaŕev"
+      loc: "poštaŕah"
+      dat: "poštaŕam"
+      ins: "poštaŕami"
+      voc: "poštari"

@@ -1,0 +1,23 @@
+---
+  id: "35526"
+  word: "prěměnna"
+  meta: 
+    irregularity: "(-oj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěměnna"
+      acc: "prěměnnų"
+      gen: "prěměnnoj"
+      loc: "prěměnnoj"
+      dat: "prěměnnoj"
+      ins: "prěměnnojų"
+      voc: "prěměnna"
+    plural: 
+      nom: "prěměnne"
+      acc: "prěměnne"
+      gen: "prěměnnyh"
+      loc: "prěměnnyh"
+      dat: "prěměnnym"
+      ins: "prěměnnymi"
+      voc: "prěměnne"

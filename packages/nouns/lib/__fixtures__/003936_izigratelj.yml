@@ -1,0 +1,23 @@
+---
+  id: "3936"
+  word: "izigratelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izigratelj"
+      acc: "izigratelja"
+      gen: "izigratelja"
+      loc: "izigratelju"
+      dat: "izigratelju"
+      ins: "izigrateljem"
+      voc: "izigratelju"
+    plural: 
+      nom: "izigratelji"
+      acc: "izigrateljev"
+      gen: "izigrateljev"
+      loc: "izigrateljah"
+      dat: "izigrateljam"
+      ins: "izigrateljami"
+      voc: "izigratelji"

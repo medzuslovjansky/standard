@@ -1,0 +1,47 @@
+---
+  - 
+    id: "26407"
+    word: "junoš"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "junoš"
+        acc: "junoša"
+        gen: "junoša"
+        loc: "junošu"
+        dat: "junošu"
+        ins: "junošem"
+        voc: "junošu"
+      plural: 
+        nom: "junoši"
+        acc: "junošev"
+        gen: "junošev"
+        loc: "junošah"
+        dat: "junošam"
+        ins: "junošami"
+        voc: "junoši"
+  - 
+    id: "26407"
+    word: "junoša"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "junoša"
+        acc: "junošų"
+        gen: "junoše"
+        loc: "junoši"
+        dat: "junoši"
+        ins: "junošejų"
+        voc: "junošo"
+      plural: 
+        nom: "junoši"
+        acc: "junošev"
+        gen: "junošev"
+        loc: "junošah"
+        dat: "junošam"
+        ins: "junošami"
+        voc: "junoši"

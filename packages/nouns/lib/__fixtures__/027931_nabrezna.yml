@@ -1,0 +1,22 @@
+---
+  id: "27931"
+  word: "nabrěžna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nabrěžna"
+      acc: "nabrěžnų"
+      gen: "nabrěžny"
+      loc: "nabrěžně"
+      dat: "nabrěžně"
+      ins: "nabrěžnojų"
+      voc: "nabrěžno"
+    plural: 
+      nom: "nabrěžny"
+      acc: "nabrěžny"
+      gen: "nabrěžen"
+      loc: "nabrěžnah"
+      dat: "nabrěžnam"
+      ins: "nabrěžnami"
+      voc: "nabrěžny"

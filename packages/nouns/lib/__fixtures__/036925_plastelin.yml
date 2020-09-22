@@ -1,0 +1,22 @@
+---
+  id: "36925"
+  word: "plastelin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plastelin"
+      acc: "plastelin"
+      gen: "plastelina"
+      loc: "plastelinu"
+      dat: "plastelinu"
+      ins: "plastelinom"
+      voc: "plasteline"
+    plural: 
+      nom: "plasteliny"
+      acc: "plasteliny"
+      gen: "plastelinov"
+      loc: "plastelinah"
+      dat: "plastelinam"
+      ins: "plastelinami"
+      voc: "plasteliny"

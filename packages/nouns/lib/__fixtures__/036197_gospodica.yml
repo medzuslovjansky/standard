@@ -1,0 +1,22 @@
+---
+  id: "36197"
+  word: "gospodica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gospodica"
+      acc: "gospodicų"
+      gen: "gospodice"
+      loc: "gospodici"
+      dat: "gospodici"
+      ins: "gospodicejų"
+      voc: "gospodico"
+    plural: 
+      nom: "gospodice"
+      acc: "gospodice"
+      gen: "gospodic"
+      loc: "gospodicah"
+      dat: "gospodicam"
+      ins: "gospodicami"
+      voc: "gospodice"

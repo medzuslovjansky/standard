@@ -1,0 +1,22 @@
+---
+  id: "149"
+  word: "roza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "roza"
+      acc: "rozų"
+      gen: "rozy"
+      loc: "rozě"
+      dat: "rozě"
+      ins: "rozojų"
+      voc: "rozo"
+    plural: 
+      nom: "rozy"
+      acc: "rozy"
+      gen: "roz"
+      loc: "rozah"
+      dat: "rozam"
+      ins: "rozami"
+      voc: "rozy"

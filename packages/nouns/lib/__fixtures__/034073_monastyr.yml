@@ -1,0 +1,22 @@
+---
+  id: "34073"
+  word: "monastyr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monastyr"
+      acc: "monastyr"
+      gen: "monastyra"
+      loc: "monastyru"
+      dat: "monastyru"
+      ins: "monastyrom"
+      voc: "monastyre"
+    plural: 
+      nom: "monastyry"
+      acc: "monastyry"
+      gen: "monastyrov"
+      loc: "monastyrah"
+      dat: "monastyram"
+      ins: "monastyrami"
+      voc: "monastyry"

@@ -1,0 +1,15 @@
+---
+  id: "16998"
+  word: "panslavizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "panslavizm"
+      acc: "panslavizm"
+      gen: "panslavizma"
+      loc: "panslavizmu"
+      dat: "panslavizmu"
+      ins: "panslavizmom"
+      voc: "panslavizme"

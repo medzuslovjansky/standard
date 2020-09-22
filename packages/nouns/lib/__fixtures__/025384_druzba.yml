@@ -1,0 +1,23 @@
+---
+  id: "25384"
+  word: "družba"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "družba"
+      acc: "družbų"
+      gen: "družby"
+      loc: "družbě"
+      dat: "družbě"
+      ins: "družbojų"
+      voc: "družbo"
+    plural: 
+      nom: "družbi"
+      acc: "družbov"
+      gen: "družbov"
+      loc: "družbah"
+      dat: "družbam"
+      ins: "družbami"
+      voc: "družbi"

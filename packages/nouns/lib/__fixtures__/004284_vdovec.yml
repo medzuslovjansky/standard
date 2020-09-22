@@ -1,0 +1,23 @@
+---
+  id: "4284"
+  word: "vdovec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vdovec"
+      acc: "vdovca"
+      gen: "vdovca"
+      loc: "vdovcu"
+      dat: "vdovcu"
+      ins: "vdovcem"
+      voc: "vdovče"
+    plural: 
+      nom: "vdovci"
+      acc: "vdovcev"
+      gen: "vdovcev"
+      loc: "vdovcah"
+      dat: "vdovcam"
+      ins: "vdovcami"
+      voc: "vdovci"

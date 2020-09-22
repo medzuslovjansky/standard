@@ -1,0 +1,24 @@
+---
+  id: "35335"
+  word: "počętkujųći"
+  meta: 
+    irregularity: "(-ego)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "počętkujųći"
+      acc: "počętkujųćego"
+      gen: "počętkujųćego"
+      loc: "počętkujųćem"
+      dat: "počętkujųćemu"
+      ins: "počętkujųćim"
+      voc: "počętkujųći"
+    plural: 
+      nom: "počętkujųći"
+      acc: "počętkujųćih"
+      gen: "počętkujųćih"
+      loc: "počętkujųćih"
+      dat: "počętkujųćim"
+      ins: "počętkujųćimi"
+      voc: "počętkujųći"

@@ -1,0 +1,22 @@
+---
+  id: "13421"
+  word: "utvŕđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "utvŕđeńje"
+      acc: "utvŕđeńje"
+      gen: "utvŕđeńja"
+      loc: "utvŕđeńju"
+      dat: "utvŕđeńju"
+      ins: "utvŕđeńjem"
+      voc: "utvŕđeńje"
+    plural: 
+      nom: "utvŕđeńja"
+      acc: "utvŕđeńja"
+      gen: "utvŕđenij"
+      loc: "utvŕđeńjah"
+      dat: "utvŕđeńjam"
+      ins: "utvŕđeńjami"
+      voc: "utvŕđeńja"

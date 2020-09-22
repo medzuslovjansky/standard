@@ -1,0 +1,22 @@
+---
+  id: "36814"
+  word: "Stokholm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Stokholm"
+      acc: "Stokholm"
+      gen: "Stokholma"
+      loc: "Stokholmu"
+      dat: "Stokholmu"
+      ins: "Stokholmom"
+      voc: "Stokholme"
+    plural: 
+      nom: "Stokholmy"
+      acc: "Stokholmy"
+      gen: "Stokholmov"
+      loc: "Stokholmah"
+      dat: "Stokholmam"
+      ins: "Stokholmami"
+      voc: "Stokholmy"

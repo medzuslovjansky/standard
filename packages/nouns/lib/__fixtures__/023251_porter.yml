@@ -1,0 +1,22 @@
+---
+  id: "23251"
+  word: "porter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "porter"
+      acc: "porter"
+      gen: "portera"
+      loc: "porteru"
+      dat: "porteru"
+      ins: "porterom"
+      voc: "portere"
+    plural: 
+      nom: "portery"
+      acc: "portery"
+      gen: "porterov"
+      loc: "porterah"
+      dat: "porteram"
+      ins: "porterami"
+      voc: "portery"

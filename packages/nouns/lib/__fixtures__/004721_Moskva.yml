@@ -1,0 +1,15 @@
+---
+  id: "4721"
+  word: "Moskva"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Moskva"
+      acc: "Moskvų"
+      gen: "Moskvy"
+      loc: "Moskvě"
+      dat: "Moskvě"
+      ins: "Moskvojų"
+      voc: "Moskvo"

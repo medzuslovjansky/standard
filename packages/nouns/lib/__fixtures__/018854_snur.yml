@@ -1,0 +1,22 @@
+---
+  id: "18854"
+  word: "šnur"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šnur"
+      acc: "šnur"
+      gen: "šnura"
+      loc: "šnuru"
+      dat: "šnuru"
+      ins: "šnurom"
+      voc: "šnure"
+    plural: 
+      nom: "šnury"
+      acc: "šnury"
+      gen: "šnurov"
+      loc: "šnurah"
+      dat: "šnuram"
+      ins: "šnurami"
+      voc: "šnury"

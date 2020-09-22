@@ -1,0 +1,22 @@
+---
+  id: "5908"
+  word: "ledolomač"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ledolomač"
+      acc: "ledolomač"
+      gen: "ledolomača"
+      loc: "ledolomaču"
+      dat: "ledolomaču"
+      ins: "ledolomačem"
+      voc: "ledolomaču"
+    plural: 
+      nom: "ledolomače"
+      acc: "ledolomače"
+      gen: "ledolomačev"
+      loc: "ledolomačah"
+      dat: "ledolomačam"
+      ins: "ledolomačami"
+      voc: "ledolomače"

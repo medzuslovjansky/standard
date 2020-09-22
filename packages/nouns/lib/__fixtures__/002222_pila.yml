@@ -1,0 +1,22 @@
+---
+  id: "2222"
+  word: "pila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pila"
+      acc: "pilų"
+      gen: "pily"
+      loc: "pilě"
+      dat: "pilě"
+      ins: "pilojų"
+      voc: "pilo"
+    plural: 
+      nom: "pily"
+      acc: "pily"
+      gen: "pil"
+      loc: "pilah"
+      dat: "pilam"
+      ins: "pilami"
+      voc: "pily"

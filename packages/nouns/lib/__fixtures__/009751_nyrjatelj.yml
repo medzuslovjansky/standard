@@ -1,0 +1,23 @@
+---
+  id: "9751"
+  word: "nyrjatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nyrjatelj"
+      acc: "nyrjatelja"
+      gen: "nyrjatelja"
+      loc: "nyrjatelju"
+      dat: "nyrjatelju"
+      ins: "nyrjateljem"
+      voc: "nyrjatelju"
+    plural: 
+      nom: "nyrjatelji"
+      acc: "nyrjateljev"
+      gen: "nyrjateljev"
+      loc: "nyrjateljah"
+      dat: "nyrjateljam"
+      ins: "nyrjateljami"
+      voc: "nyrjatelji"

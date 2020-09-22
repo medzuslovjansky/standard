@@ -1,0 +1,22 @@
+---
+  id: "32775"
+  word: "upręž"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "upręž"
+      acc: "upręž"
+      gen: "upręži"
+      loc: "upręži"
+      dat: "upręži"
+      ins: "upręžjų"
+      voc: "upręži"
+    plural: 
+      nom: "upręži"
+      acc: "upręži"
+      gen: "upręžij"
+      loc: "upręžah"
+      dat: "upręžam"
+      ins: "upręžami"
+      voc: "upręži"

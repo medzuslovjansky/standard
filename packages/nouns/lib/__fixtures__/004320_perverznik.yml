@@ -1,0 +1,23 @@
+---
+  id: "4320"
+  word: "perverznik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "perverznik"
+      acc: "perverznika"
+      gen: "perverznika"
+      loc: "perverzniku"
+      dat: "perverzniku"
+      ins: "perverznikom"
+      voc: "perverzniče"
+    plural: 
+      nom: "perverzniki"
+      acc: "perverznikov"
+      gen: "perverznikov"
+      loc: "perverznikah"
+      dat: "perverznikam"
+      ins: "perverznikami"
+      voc: "perverzniki"

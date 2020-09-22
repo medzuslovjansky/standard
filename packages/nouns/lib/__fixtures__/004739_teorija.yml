@@ -1,0 +1,22 @@
+---
+  id: "4739"
+  word: "teorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "teorija"
+      acc: "teorijų"
+      gen: "teorije"
+      loc: "teoriji"
+      dat: "teoriji"
+      ins: "teorijejų"
+      voc: "teorijo"
+    plural: 
+      nom: "teorije"
+      acc: "teorije"
+      gen: "teorij"
+      loc: "teorijah"
+      dat: "teorijam"
+      ins: "teorijami"
+      voc: "teorije"

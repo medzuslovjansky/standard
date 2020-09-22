@@ -1,0 +1,22 @@
+---
+  id: "1893"
+  word: "lȯžica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lȯžica"
+      acc: "lȯžicų"
+      gen: "lȯžice"
+      loc: "lȯžici"
+      dat: "lȯžici"
+      ins: "lȯžicejų"
+      voc: "lȯžico"
+    plural: 
+      nom: "lȯžice"
+      acc: "lȯžice"
+      gen: "lȯžic"
+      loc: "lȯžicah"
+      dat: "lȯžicam"
+      ins: "lȯžicami"
+      voc: "lȯžice"

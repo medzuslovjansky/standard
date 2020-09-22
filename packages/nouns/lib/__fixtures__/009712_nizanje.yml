@@ -1,0 +1,15 @@
+---
+  id: "9712"
+  word: "nizańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nizańje"
+      acc: "nizańje"
+      gen: "nizańja"
+      loc: "nizańju"
+      dat: "nizańju"
+      ins: "nizańjem"
+      voc: "nizańje"

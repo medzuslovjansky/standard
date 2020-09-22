@@ -1,0 +1,16 @@
+---
+  id: "306"
+  word: "len"
+  meta: 
+    irregularity: "(ljna)"
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "len"
+      acc: "len"
+      gen: "lena"
+      loc: "lenu"
+      dat: "lenu"
+      ins: "lenom"
+      voc: "lene"

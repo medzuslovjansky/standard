@@ -1,0 +1,22 @@
+---
+  id: "29842"
+  word: "parada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "parada"
+      acc: "paradų"
+      gen: "parady"
+      loc: "paradě"
+      dat: "paradě"
+      ins: "paradojų"
+      voc: "parado"
+    plural: 
+      nom: "parady"
+      acc: "parady"
+      gen: "parad"
+      loc: "paradah"
+      dat: "paradam"
+      ins: "paradami"
+      voc: "parady"

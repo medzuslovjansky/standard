@@ -1,0 +1,23 @@
+---
+  id: "287"
+  word: "šofer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šofer"
+      acc: "šofera"
+      gen: "šofera"
+      loc: "šoferu"
+      dat: "šoferu"
+      ins: "šoferom"
+      voc: "šofere"
+    plural: 
+      nom: "šoferi"
+      acc: "šoferov"
+      gen: "šoferov"
+      loc: "šoferah"
+      dat: "šoferam"
+      ins: "šoferami"
+      voc: "šoferi"

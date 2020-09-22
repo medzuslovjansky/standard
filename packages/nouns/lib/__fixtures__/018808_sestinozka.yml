@@ -1,0 +1,22 @@
+---
+  id: "18808"
+  word: "šestinožka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šestinožka"
+      acc: "šestinožkų"
+      gen: "šestinožky"
+      loc: "šestinožkě"
+      dat: "šestinožkě"
+      ins: "šestinožkojų"
+      voc: "šestinožko"
+    plural: 
+      nom: "šestinožky"
+      acc: "šestinožky"
+      gen: "šestinožek"
+      loc: "šestinožkah"
+      dat: "šestinožkam"
+      ins: "šestinožkami"
+      voc: "šestinožky"

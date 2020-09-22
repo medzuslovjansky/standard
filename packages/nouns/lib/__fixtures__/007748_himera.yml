@@ -1,0 +1,22 @@
+---
+  id: "7748"
+  word: "himera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "himera"
+      acc: "himerų"
+      gen: "himery"
+      loc: "himerě"
+      dat: "himerě"
+      ins: "himerojų"
+      voc: "himero"
+    plural: 
+      nom: "himery"
+      acc: "himery"
+      gen: "himer"
+      loc: "himerah"
+      dat: "himeram"
+      ins: "himerami"
+      voc: "himery"

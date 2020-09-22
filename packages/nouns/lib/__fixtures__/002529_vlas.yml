@@ -1,0 +1,22 @@
+---
+  id: "2529"
+  word: "vlås"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vlås"
+      acc: "vlås"
+      gen: "vlåsa"
+      loc: "vlåsu"
+      dat: "vlåsu"
+      ins: "vlåsom"
+      voc: "vlåse"
+    plural: 
+      nom: "vlåsy"
+      acc: "vlåsy"
+      gen: "vlåsov"
+      loc: "vlåsah"
+      dat: "vlåsam"
+      ins: "vlåsami"
+      voc: "vlåsy"

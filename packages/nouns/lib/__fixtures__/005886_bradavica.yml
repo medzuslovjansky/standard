@@ -1,0 +1,22 @@
+---
+  id: "5886"
+  word: "brådavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brådavica"
+      acc: "brådavicų"
+      gen: "brådavice"
+      loc: "brådavici"
+      dat: "brådavici"
+      ins: "brådavicejų"
+      voc: "brådavico"
+    plural: 
+      nom: "brådavice"
+      acc: "brådavice"
+      gen: "brådavic"
+      loc: "brådavicah"
+      dat: "brådavicam"
+      ins: "brådavicami"
+      voc: "brådavice"

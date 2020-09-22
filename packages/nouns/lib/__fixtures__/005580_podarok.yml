@@ -1,0 +1,22 @@
+---
+  id: "5580"
+  word: "podarȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podarȯk"
+      acc: "podarȯk"
+      gen: "podarka"
+      loc: "podarku"
+      dat: "podarku"
+      ins: "podarkom"
+      voc: "podarče"
+    plural: 
+      nom: "podarky"
+      acc: "podarky"
+      gen: "podarkov"
+      loc: "podarkah"
+      dat: "podarkam"
+      ins: "podarkami"
+      voc: "podarky"

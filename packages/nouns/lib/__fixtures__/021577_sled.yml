@@ -1,0 +1,22 @@
+---
+  id: "21577"
+  word: "slěd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slěd"
+      acc: "slěd"
+      gen: "slěda"
+      loc: "slědu"
+      dat: "slědu"
+      ins: "slědom"
+      voc: "slěde"
+    plural: 
+      nom: "slědy"
+      acc: "slědy"
+      gen: "slědov"
+      loc: "slědah"
+      dat: "slědam"
+      ins: "slědami"
+      voc: "slědy"

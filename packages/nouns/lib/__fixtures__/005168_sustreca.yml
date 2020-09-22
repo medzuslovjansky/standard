@@ -1,0 +1,22 @@
+---
+  id: "5168"
+  word: "sųstrěća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųstrěća"
+      acc: "sųstrěćų"
+      gen: "sųstrěće"
+      loc: "sųstrěći"
+      dat: "sųstrěći"
+      ins: "sųstrěćejų"
+      voc: "sųstrěćo"
+    plural: 
+      nom: "sųstrěće"
+      acc: "sųstrěće"
+      gen: "sųstrěć"
+      loc: "sųstrěćah"
+      dat: "sųstrěćam"
+      ins: "sųstrěćami"
+      voc: "sųstrěće"

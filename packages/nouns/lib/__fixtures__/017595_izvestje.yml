@@ -1,0 +1,22 @@
+---
+  id: "17595"
+  word: "izvěsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izvěsťje"
+      acc: "izvěsťje"
+      gen: "izvěsťja"
+      loc: "izvěsťju"
+      dat: "izvěsťju"
+      ins: "izvěsťjem"
+      voc: "izvěsťje"
+    plural: 
+      nom: "izvěsťja"
+      acc: "izvěsťja"
+      gen: "izvěstij"
+      loc: "izvěsťjah"
+      dat: "izvěsťjam"
+      ins: "izvěsťjami"
+      voc: "izvěsťja"

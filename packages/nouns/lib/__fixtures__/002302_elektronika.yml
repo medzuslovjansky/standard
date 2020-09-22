@@ -1,0 +1,15 @@
+---
+  id: "2302"
+  word: "elektronika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "elektronika"
+      acc: "elektronikų"
+      gen: "elektroniky"
+      loc: "elektronikě"
+      dat: "elektronikě"
+      ins: "elektronikojų"
+      voc: "elektroniko"

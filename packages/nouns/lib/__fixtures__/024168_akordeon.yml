@@ -1,0 +1,22 @@
+---
+  id: "24168"
+  word: "akordeon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akordeon"
+      acc: "akordeon"
+      gen: "akordeona"
+      loc: "akordeonu"
+      dat: "akordeonu"
+      ins: "akordeonom"
+      voc: "akordeone"
+    plural: 
+      nom: "akordeony"
+      acc: "akordeony"
+      gen: "akordeonov"
+      loc: "akordeonah"
+      dat: "akordeonam"
+      ins: "akordeonami"
+      voc: "akordeony"

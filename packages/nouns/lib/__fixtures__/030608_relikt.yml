@@ -1,0 +1,22 @@
+---
+  id: "30608"
+  word: "relikt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "relikt"
+      acc: "relikt"
+      gen: "relikta"
+      loc: "reliktu"
+      dat: "reliktu"
+      ins: "reliktom"
+      voc: "relikte"
+    plural: 
+      nom: "relikty"
+      acc: "relikty"
+      gen: "reliktov"
+      loc: "reliktah"
+      dat: "reliktam"
+      ins: "reliktami"
+      voc: "relikty"

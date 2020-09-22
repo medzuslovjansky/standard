@@ -1,0 +1,22 @@
+---
+  id: "198"
+  word: "muzika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "muzika"
+      acc: "muzikų"
+      gen: "muziky"
+      loc: "muzikě"
+      dat: "muzikě"
+      ins: "muzikojų"
+      voc: "muziko"
+    plural: 
+      nom: "muziky"
+      acc: "muziky"
+      gen: "muzik"
+      loc: "muzikah"
+      dat: "muzikam"
+      ins: "muzikami"
+      voc: "muziky"

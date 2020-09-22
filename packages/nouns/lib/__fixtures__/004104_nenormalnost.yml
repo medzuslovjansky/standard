@@ -1,0 +1,22 @@
+---
+  id: "4104"
+  word: "nenormaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nenormaľnosť"
+      acc: "nenormaľnosť"
+      gen: "nenormaľnosti"
+      loc: "nenormaľnosti"
+      dat: "nenormaľnosti"
+      ins: "nenormaľnosťjų"
+      voc: "nenormaľnosti"
+    plural: 
+      nom: "nenormaľnosti"
+      acc: "nenormaľnosti"
+      gen: "nenormaľnostij"
+      loc: "nenormaľnosťah"
+      dat: "nenormaľnosťam"
+      ins: "nenormaľnosťami"
+      voc: "nenormaľnosti"

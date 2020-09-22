@@ -1,0 +1,22 @@
+---
+  id: "17716"
+  word: "kuma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuma"
+      acc: "kumų"
+      gen: "kumy"
+      loc: "kumě"
+      dat: "kumě"
+      ins: "kumojų"
+      voc: "kumo"
+    plural: 
+      nom: "kumy"
+      acc: "kumy"
+      gen: "kum"
+      loc: "kumah"
+      dat: "kumam"
+      ins: "kumami"
+      voc: "kumy"

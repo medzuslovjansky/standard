@@ -1,0 +1,22 @@
+---
+  id: "33540"
+  word: "gigabajt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gigabajt"
+      acc: "gigabajt"
+      gen: "gigabajta"
+      loc: "gigabajtu"
+      dat: "gigabajtu"
+      ins: "gigabajtom"
+      voc: "gigabajte"
+    plural: 
+      nom: "gigabajty"
+      acc: "gigabajty"
+      gen: "gigabajtov"
+      loc: "gigabajtah"
+      dat: "gigabajtam"
+      ins: "gigabajtami"
+      voc: "gigabajty"

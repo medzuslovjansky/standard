@@ -1,0 +1,23 @@
+---
+  id: "17165"
+  word: "borec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "borec"
+      acc: "borca"
+      gen: "borca"
+      loc: "borcu"
+      dat: "borcu"
+      ins: "borcem"
+      voc: "borče"
+    plural: 
+      nom: "borci"
+      acc: "borcev"
+      gen: "borcev"
+      loc: "borcah"
+      dat: "borcam"
+      ins: "borcami"
+      voc: "borci"

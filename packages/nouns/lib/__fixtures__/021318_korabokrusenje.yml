@@ -1,0 +1,22 @@
+---
+  id: "21318"
+  word: "korabokrušeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "korabokrušeńje"
+      acc: "korabokrušeńje"
+      gen: "korabokrušeńja"
+      loc: "korabokrušeńju"
+      dat: "korabokrušeńju"
+      ins: "korabokrušeńjem"
+      voc: "korabokrušeńje"
+    plural: 
+      nom: "korabokrušeńja"
+      acc: "korabokrušeńja"
+      gen: "korabokrušenij"
+      loc: "korabokrušeńjah"
+      dat: "korabokrušeńjam"
+      ins: "korabokrušeńjami"
+      voc: "korabokrušeńja"

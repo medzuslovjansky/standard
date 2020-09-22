@@ -1,0 +1,22 @@
+---
+  id: "26694"
+  word: "korekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korekcija"
+      acc: "korekcijų"
+      gen: "korekcije"
+      loc: "korekciji"
+      dat: "korekciji"
+      ins: "korekcijejų"
+      voc: "korekcijo"
+    plural: 
+      nom: "korekcije"
+      acc: "korekcije"
+      gen: "korekcij"
+      loc: "korekcijah"
+      dat: "korekcijam"
+      ins: "korekcijami"
+      voc: "korekcije"

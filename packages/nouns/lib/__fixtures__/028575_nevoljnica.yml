@@ -1,0 +1,22 @@
+---
+  id: "28575"
+  word: "nevoljnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevoljnica"
+      acc: "nevoljnicų"
+      gen: "nevoljnice"
+      loc: "nevoljnici"
+      dat: "nevoljnici"
+      ins: "nevoljnicejų"
+      voc: "nevoljnico"
+    plural: 
+      nom: "nevoljnice"
+      acc: "nevoljnice"
+      gen: "nevoljnic"
+      loc: "nevoljnicah"
+      dat: "nevoljnicam"
+      ins: "nevoljnicami"
+      voc: "nevoljnice"

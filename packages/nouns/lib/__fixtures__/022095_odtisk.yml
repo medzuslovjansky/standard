@@ -1,0 +1,22 @@
+---
+  id: "22095"
+  word: "odtisk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odtisk"
+      acc: "odtisk"
+      gen: "odtiska"
+      loc: "odtisku"
+      dat: "odtisku"
+      ins: "odtiskom"
+      voc: "odtisče"
+    plural: 
+      nom: "odtisky"
+      acc: "odtisky"
+      gen: "odtiskov"
+      loc: "odtiskah"
+      dat: "odtiskam"
+      ins: "odtiskami"
+      voc: "odtisky"

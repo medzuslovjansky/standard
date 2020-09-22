@@ -1,0 +1,23 @@
+---
+  id: "24239"
+  word: "alhimik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "alhimik"
+      acc: "alhimika"
+      gen: "alhimika"
+      loc: "alhimiku"
+      dat: "alhimiku"
+      ins: "alhimikom"
+      voc: "alhimiče"
+    plural: 
+      nom: "alhimiki"
+      acc: "alhimikov"
+      gen: "alhimikov"
+      loc: "alhimikah"
+      dat: "alhimikam"
+      ins: "alhimikami"
+      voc: "alhimiki"

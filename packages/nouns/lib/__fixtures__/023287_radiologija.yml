@@ -1,0 +1,15 @@
+---
+  id: "23287"
+  word: "radiologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "radiologija"
+      acc: "radiologijų"
+      gen: "radiologije"
+      loc: "radiologiji"
+      dat: "radiologiji"
+      ins: "radiologijejų"
+      voc: "radiologijo"

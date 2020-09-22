@@ -1,0 +1,22 @@
+---
+  id: "27118"
+  word: "lěnivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěnivosť"
+      acc: "lěnivosť"
+      gen: "lěnivosti"
+      loc: "lěnivosti"
+      dat: "lěnivosti"
+      ins: "lěnivosťjų"
+      voc: "lěnivosti"
+    plural: 
+      nom: "lěnivosti"
+      acc: "lěnivosti"
+      gen: "lěnivostij"
+      loc: "lěnivosťah"
+      dat: "lěnivosťam"
+      ins: "lěnivosťami"
+      voc: "lěnivosti"

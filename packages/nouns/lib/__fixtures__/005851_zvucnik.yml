@@ -1,0 +1,22 @@
+---
+  id: "5851"
+  word: "zvųčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvųčnik"
+      acc: "zvųčnik"
+      gen: "zvųčnika"
+      loc: "zvųčniku"
+      dat: "zvųčniku"
+      ins: "zvųčnikom"
+      voc: "zvųčniče"
+    plural: 
+      nom: "zvųčniky"
+      acc: "zvųčniky"
+      gen: "zvųčnikov"
+      loc: "zvųčnikah"
+      dat: "zvųčnikam"
+      ins: "zvųčnikami"
+      voc: "zvųčniky"

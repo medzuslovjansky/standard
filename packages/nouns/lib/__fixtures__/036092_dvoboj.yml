@@ -1,0 +1,22 @@
+---
+  id: "36092"
+  word: "dvoboj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dvoboj"
+      acc: "dvoboj"
+      gen: "dvoboja"
+      loc: "dvoboju"
+      dat: "dvoboju"
+      ins: "dvobojem"
+      voc: "dvoboju"
+    plural: 
+      nom: "dvoboje"
+      acc: "dvoboje"
+      gen: "dvobojev"
+      loc: "dvobojah"
+      dat: "dvobojam"
+      ins: "dvobojami"
+      voc: "dvoboje"

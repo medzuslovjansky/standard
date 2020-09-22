@@ -1,0 +1,23 @@
+---
+  id: "2519"
+  word: "ekolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ekolog"
+      acc: "ekologa"
+      gen: "ekologa"
+      loc: "ekologu"
+      dat: "ekologu"
+      ins: "ekologom"
+      voc: "ekolože"
+    plural: 
+      nom: "ekologi"
+      acc: "ekologov"
+      gen: "ekologov"
+      loc: "ekologah"
+      dat: "ekologam"
+      ins: "ekologami"
+      voc: "ekologi"

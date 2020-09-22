@@ -1,0 +1,23 @@
+---
+  id: "35703"
+  word: "žrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žrec"
+      acc: "žreca"
+      gen: "žreca"
+      loc: "žrecu"
+      dat: "žrecu"
+      ins: "žrecem"
+      voc: "žreče"
+    plural: 
+      nom: "žreci"
+      acc: "žrecev"
+      gen: "žrecev"
+      loc: "žrecah"
+      dat: "žrecam"
+      ins: "žrecami"
+      voc: "žreci"

@@ -1,0 +1,22 @@
+---
+  id: "2087"
+  word: "pistolet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pistolet"
+      acc: "pistolet"
+      gen: "pistoleta"
+      loc: "pistoletu"
+      dat: "pistoletu"
+      ins: "pistoletom"
+      voc: "pistolete"
+    plural: 
+      nom: "pistolety"
+      acc: "pistolety"
+      gen: "pistoletov"
+      loc: "pistoletah"
+      dat: "pistoletam"
+      ins: "pistoletami"
+      voc: "pistolety"

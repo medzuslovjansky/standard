@@ -1,0 +1,22 @@
+---
+  id: "15306"
+  word: "dvojčę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dvojčę"
+      acc: "dvojčę"
+      gen: "dvojčęte / dvojčęta"
+      loc: "dvojčęti / dvojčętu"
+      dat: "dvojčęti / dvojčętu"
+      ins: "dvojčętem / dvojčętom"
+      voc: "dvojčę"
+    plural: 
+      nom: "dvojčęta"
+      acc: "dvojčęta"
+      gen: "dvojčęt"
+      loc: "dvojčętah"
+      dat: "dvojčętam"
+      ins: "dvojčętami"
+      voc: "dvojčęta"

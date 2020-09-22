@@ -1,0 +1,22 @@
+---
+  id: "32170"
+  word: "lihva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lihva"
+      acc: "lihvų"
+      gen: "lihvy"
+      loc: "lihvě"
+      dat: "lihvě"
+      ins: "lihvojų"
+      voc: "lihvo"
+    plural: 
+      nom: "lihvy"
+      acc: "lihvy"
+      gen: "lihv"
+      loc: "lihvah"
+      dat: "lihvam"
+      ins: "lihvami"
+      voc: "lihvy"

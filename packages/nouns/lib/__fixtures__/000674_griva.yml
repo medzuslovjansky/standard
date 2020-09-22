@@ -1,0 +1,22 @@
+---
+  id: "674"
+  word: "griva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "griva"
+      acc: "grivų"
+      gen: "grivy"
+      loc: "grivě"
+      dat: "grivě"
+      ins: "grivojų"
+      voc: "grivo"
+    plural: 
+      nom: "grivy"
+      acc: "grivy"
+      gen: "griv"
+      loc: "grivah"
+      dat: "grivam"
+      ins: "grivami"
+      voc: "grivy"

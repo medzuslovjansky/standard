@@ -1,0 +1,22 @@
+---
+  id: "33584"
+  word: "gargulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gargulja"
+      acc: "garguljų"
+      gen: "gargulje"
+      loc: "gargulji"
+      dat: "gargulji"
+      ins: "garguljejų"
+      voc: "garguljo"
+    plural: 
+      nom: "gargulje"
+      acc: "gargulje"
+      gen: "gargulej"
+      loc: "garguljah"
+      dat: "garguljam"
+      ins: "garguljami"
+      voc: "gargulje"

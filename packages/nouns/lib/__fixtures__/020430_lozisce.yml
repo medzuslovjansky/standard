@@ -1,0 +1,22 @@
+---
+  id: "20430"
+  word: "ložišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ložišče"
+      acc: "ložišče"
+      gen: "ložišča"
+      loc: "ložišču"
+      dat: "ložišču"
+      ins: "ložiščem"
+      voc: "ložišče"
+    plural: 
+      nom: "ložišča"
+      acc: "ložišča"
+      gen: "ložišč"
+      loc: "ložiščah"
+      dat: "ložiščam"
+      ins: "ložiščami"
+      voc: "ložišča"

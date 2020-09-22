@@ -1,0 +1,22 @@
+---
+  id: "20741"
+  word: "smalec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smalec"
+      acc: "smalec"
+      gen: "smalca"
+      loc: "smalcu"
+      dat: "smalcu"
+      ins: "smalcem"
+      voc: "smalče"
+    plural: 
+      nom: "smalce"
+      acc: "smalce"
+      gen: "smalcev"
+      loc: "smalcah"
+      dat: "smalcam"
+      ins: "smalcami"
+      voc: "smalce"

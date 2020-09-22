@@ -1,0 +1,22 @@
+---
+  id: "5171"
+  word: "prědstaviteljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědstaviteljstvo"
+      acc: "prědstaviteljstvo"
+      gen: "prědstaviteljstva"
+      loc: "prědstaviteljstvu"
+      dat: "prědstaviteljstvu"
+      ins: "prědstaviteljstvom"
+      voc: "prědstaviteljstvo"
+    plural: 
+      nom: "prědstaviteljstva"
+      acc: "prědstaviteljstva"
+      gen: "prědstaviteljstv"
+      loc: "prědstaviteljstvah"
+      dat: "prědstaviteljstvam"
+      ins: "prědstaviteljstvami"
+      voc: "prědstaviteljstva"

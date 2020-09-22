@@ -1,0 +1,22 @@
+---
+  id: "36753"
+  word: "antibiotik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "antibiotik"
+      acc: "antibiotik"
+      gen: "antibiotika"
+      loc: "antibiotiku"
+      dat: "antibiotiku"
+      ins: "antibiotikom"
+      voc: "antibiotiče"
+    plural: 
+      nom: "antibiotiky"
+      acc: "antibiotiky"
+      gen: "antibiotikov"
+      loc: "antibiotikah"
+      dat: "antibiotikam"
+      ins: "antibiotikami"
+      voc: "antibiotiky"

@@ -1,0 +1,15 @@
+---
+  id: "1340"
+  word: "slavjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "slavjeńje"
+      acc: "slavjeńje"
+      gen: "slavjeńja"
+      loc: "slavjeńju"
+      dat: "slavjeńju"
+      ins: "slavjeńjem"
+      voc: "slavjeńje"

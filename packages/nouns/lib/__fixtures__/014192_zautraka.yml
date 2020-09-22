@@ -1,0 +1,22 @@
+---
+  id: "14192"
+  word: "zautraka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zautraka"
+      acc: "zautrakų"
+      gen: "zautraky"
+      loc: "zautrakě"
+      dat: "zautrakě"
+      ins: "zautrakojų"
+      voc: "zautrako"
+    plural: 
+      nom: "zautraky"
+      acc: "zautraky"
+      gen: "zautrak"
+      loc: "zautrakah"
+      dat: "zautrakam"
+      ins: "zautrakami"
+      voc: "zautraky"

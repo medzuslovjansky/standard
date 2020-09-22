@@ -1,0 +1,22 @@
+---
+  id: "4982"
+  word: "registracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "registracija"
+      acc: "registracijų"
+      gen: "registracije"
+      loc: "registraciji"
+      dat: "registraciji"
+      ins: "registracijejų"
+      voc: "registracijo"
+    plural: 
+      nom: "registracije"
+      acc: "registracije"
+      gen: "registracij"
+      loc: "registracijah"
+      dat: "registracijam"
+      ins: "registracijami"
+      voc: "registracije"

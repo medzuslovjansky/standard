@@ -1,0 +1,22 @@
+---
+  id: "1337"
+  word: "bŕlog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bŕlog"
+      acc: "bŕlog"
+      gen: "bŕloga"
+      loc: "bŕlogu"
+      dat: "bŕlogu"
+      ins: "bŕlogom"
+      voc: "bŕlože"
+    plural: 
+      nom: "bŕlogy"
+      acc: "bŕlogy"
+      gen: "bŕlogov"
+      loc: "bŕlogah"
+      dat: "bŕlogam"
+      ins: "bŕlogami"
+      voc: "bŕlogy"

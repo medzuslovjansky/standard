@@ -1,0 +1,22 @@
+---
+  id: "25363"
+  word: "drěn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "drěn"
+      acc: "drěn"
+      gen: "drěna"
+      loc: "drěnu"
+      dat: "drěnu"
+      ins: "drěnom"
+      voc: "drěne"
+    plural: 
+      nom: "drěny"
+      acc: "drěny"
+      gen: "drěnov"
+      loc: "drěnah"
+      dat: "drěnam"
+      ins: "drěnami"
+      voc: "drěny"

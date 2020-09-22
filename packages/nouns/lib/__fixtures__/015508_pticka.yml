@@ -1,0 +1,22 @@
+---
+  id: "15508"
+  word: "ptička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ptička"
+      acc: "ptičkų"
+      gen: "ptičky"
+      loc: "ptičkě"
+      dat: "ptičkě"
+      ins: "ptičkojų"
+      voc: "ptičko"
+    plural: 
+      nom: "ptičky"
+      acc: "ptičky"
+      gen: "ptiček"
+      loc: "ptičkah"
+      dat: "ptičkam"
+      ins: "ptičkami"
+      voc: "ptičky"

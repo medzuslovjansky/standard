@@ -1,0 +1,22 @@
+---
+  id: "19780"
+  word: "klon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klon"
+      acc: "klon"
+      gen: "klona"
+      loc: "klonu"
+      dat: "klonu"
+      ins: "klonom"
+      voc: "klone"
+    plural: 
+      nom: "klony"
+      acc: "klony"
+      gen: "klonov"
+      loc: "klonah"
+      dat: "klonam"
+      ins: "klonami"
+      voc: "klony"

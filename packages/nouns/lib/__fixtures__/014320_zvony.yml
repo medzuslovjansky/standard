@@ -1,0 +1,15 @@
+---
+  id: "14320"
+  word: "zvony"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "zvony"
+      acc: "zvony"
+      gen: "zvonov"
+      loc: "zvonah"
+      dat: "zvonam"
+      ins: "zvonami"
+      voc: "zvony"

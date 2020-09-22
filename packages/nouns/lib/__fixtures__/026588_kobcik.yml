@@ -1,0 +1,23 @@
+---
+  id: "26588"
+  word: "kobčik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kobčik"
+      acc: "kobčika"
+      gen: "kobčika"
+      loc: "kobčiku"
+      dat: "kobčiku"
+      ins: "kobčikom"
+      voc: "kobčiče"
+    plural: 
+      nom: "kobčiki"
+      acc: "kobčikov"
+      gen: "kobčikov"
+      loc: "kobčikah"
+      dat: "kobčikam"
+      ins: "kobčikami"
+      voc: "kobčiki"

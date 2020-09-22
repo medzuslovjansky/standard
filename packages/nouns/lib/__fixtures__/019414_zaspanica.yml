@@ -1,0 +1,22 @@
+---
+  id: "19414"
+  word: "zaspanica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaspanica"
+      acc: "zaspanicų"
+      gen: "zaspanice"
+      loc: "zaspanici"
+      dat: "zaspanici"
+      ins: "zaspanicejų"
+      voc: "zaspanico"
+    plural: 
+      nom: "zaspanice"
+      acc: "zaspanice"
+      gen: "zaspanic"
+      loc: "zaspanicah"
+      dat: "zaspanicam"
+      ins: "zaspanicami"
+      voc: "zaspanice"

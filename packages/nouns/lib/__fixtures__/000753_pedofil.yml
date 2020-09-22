@@ -1,0 +1,23 @@
+---
+  id: "753"
+  word: "pedofil"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pedofil"
+      acc: "pedofila"
+      gen: "pedofila"
+      loc: "pedofilu"
+      dat: "pedofilu"
+      ins: "pedofilom"
+      voc: "pedofile"
+    plural: 
+      nom: "pedofili"
+      acc: "pedofilov"
+      gen: "pedofilov"
+      loc: "pedofilah"
+      dat: "pedofilam"
+      ins: "pedofilami"
+      voc: "pedofili"

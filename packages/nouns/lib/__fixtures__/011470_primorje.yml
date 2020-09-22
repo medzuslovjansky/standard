@@ -1,0 +1,22 @@
+---
+  id: "11470"
+  word: "primoŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "primoŕje"
+      acc: "primoŕje"
+      gen: "primoŕja"
+      loc: "primoŕju"
+      dat: "primoŕju"
+      ins: "primoŕjem"
+      voc: "primoŕje"
+    plural: 
+      nom: "primoŕja"
+      acc: "primoŕja"
+      gen: "primorij"
+      loc: "primoŕjah"
+      dat: "primoŕjam"
+      ins: "primoŕjami"
+      voc: "primoŕja"

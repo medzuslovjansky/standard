@@ -1,0 +1,23 @@
+---
+  id: "1926"
+  word: "vȯš"
+  meta: 
+    irregularity: "(vši)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "v(ȯ)š"
+      acc: "v(ȯ)š"
+      gen: "v(ȯ)ši"
+      loc: "v(ȯ)ši"
+      dat: "v(ȯ)ši"
+      ins: "v(ȯ)šjų"
+      voc: "v(ȯ)ši"
+    plural: 
+      nom: "v(ȯ)ši"
+      acc: "v(ȯ)ši"
+      gen: "v(ȯ)šij"
+      loc: "v(ȯ)šah"
+      dat: "v(ȯ)šam"
+      ins: "v(ȯ)šami"
+      voc: "v(ȯ)ši"

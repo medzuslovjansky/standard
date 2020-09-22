@@ -1,0 +1,22 @@
+---
+  id: "26862"
+  word: "krěpkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krěpkosť"
+      acc: "krěpkosť"
+      gen: "krěpkosti"
+      loc: "krěpkosti"
+      dat: "krěpkosti"
+      ins: "krěpkosťjų"
+      voc: "krěpkosti"
+    plural: 
+      nom: "krěpkosti"
+      acc: "krěpkosti"
+      gen: "krěpkostij"
+      loc: "krěpkosťah"
+      dat: "krěpkosťam"
+      ins: "krěpkosťami"
+      voc: "krěpkosti"

@@ -1,0 +1,23 @@
+---
+  id: "26560"
+  word: "ključaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ključaŕ"
+      acc: "ključaŕa"
+      gen: "ključaŕa"
+      loc: "ključaŕu"
+      dat: "ključaŕu"
+      ins: "ključaŕem"
+      voc: "ključaŕu"
+    plural: 
+      nom: "ključari"
+      acc: "ključaŕev"
+      gen: "ključaŕev"
+      loc: "ključaŕah"
+      dat: "ključaŕam"
+      ins: "ključaŕami"
+      voc: "ključari"

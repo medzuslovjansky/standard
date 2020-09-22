@@ -1,0 +1,22 @@
+---
+  id: "31155"
+  word: "vestibulj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vestibulj"
+      acc: "vestibulj"
+      gen: "vestibulja"
+      loc: "vestibulju"
+      dat: "vestibulju"
+      ins: "vestibuljem"
+      voc: "vestibulju"
+    plural: 
+      nom: "vestibulje"
+      acc: "vestibulje"
+      gen: "vestibuljev"
+      loc: "vestibuljah"
+      dat: "vestibuljam"
+      ins: "vestibuljami"
+      voc: "vestibulje"

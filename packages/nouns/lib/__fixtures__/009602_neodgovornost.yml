@@ -1,0 +1,22 @@
+---
+  id: "9602"
+  word: "neodgovornosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neodgovornosť"
+      acc: "neodgovornosť"
+      gen: "neodgovornosti"
+      loc: "neodgovornosti"
+      dat: "neodgovornosti"
+      ins: "neodgovornosťjų"
+      voc: "neodgovornosti"
+    plural: 
+      nom: "neodgovornosti"
+      acc: "neodgovornosti"
+      gen: "neodgovornostij"
+      loc: "neodgovornosťah"
+      dat: "neodgovornosťam"
+      ins: "neodgovornosťami"
+      voc: "neodgovornosti"

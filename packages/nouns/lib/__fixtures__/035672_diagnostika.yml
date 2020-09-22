@@ -1,0 +1,15 @@
+---
+  id: "35672"
+  word: "diagnostika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "diagnostika"
+      acc: "diagnostikų"
+      gen: "diagnostiky"
+      loc: "diagnostikě"
+      dat: "diagnostikě"
+      ins: "diagnostikojų"
+      voc: "diagnostiko"

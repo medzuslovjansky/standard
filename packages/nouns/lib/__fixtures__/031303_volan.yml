@@ -1,0 +1,22 @@
+---
+  id: "31303"
+  word: "volan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "volan"
+      acc: "volan"
+      gen: "volana"
+      loc: "volanu"
+      dat: "volanu"
+      ins: "volanom"
+      voc: "volane"
+    plural: 
+      nom: "volany"
+      acc: "volany"
+      gen: "volanov"
+      loc: "volanah"
+      dat: "volanam"
+      ins: "volanami"
+      voc: "volany"

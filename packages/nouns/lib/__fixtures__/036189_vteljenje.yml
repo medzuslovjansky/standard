@@ -1,0 +1,22 @@
+---
+  id: "36189"
+  word: "vtěljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vtěljeńje"
+      acc: "vtěljeńje"
+      gen: "vtěljeńja"
+      loc: "vtěljeńju"
+      dat: "vtěljeńju"
+      ins: "vtěljeńjem"
+      voc: "vtěljeńje"
+    plural: 
+      nom: "vtěljeńja"
+      acc: "vtěljeńja"
+      gen: "vtěljenij"
+      loc: "vtěljeńjah"
+      dat: "vtěljeńjam"
+      ins: "vtěljeńjami"
+      voc: "vtěljeńja"

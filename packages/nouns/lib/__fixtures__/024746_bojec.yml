@@ -1,0 +1,23 @@
+---
+  id: "24746"
+  word: "bojec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bojec"
+      acc: "bojca"
+      gen: "bojca"
+      loc: "bojcu"
+      dat: "bojcu"
+      ins: "bojcem"
+      voc: "bojče"
+    plural: 
+      nom: "bojci"
+      acc: "bojcev"
+      gen: "bojcev"
+      loc: "bojcah"
+      dat: "bojcam"
+      ins: "bojcami"
+      voc: "bojci"

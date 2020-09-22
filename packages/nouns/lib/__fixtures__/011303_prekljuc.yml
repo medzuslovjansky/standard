@@ -1,0 +1,22 @@
+---
+  id: "11303"
+  word: "prěključ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěključ"
+      acc: "prěključ"
+      gen: "prěključa"
+      loc: "prěključu"
+      dat: "prěključu"
+      ins: "prěključem"
+      voc: "prěključu"
+    plural: 
+      nom: "prěključe"
+      acc: "prěključe"
+      gen: "prěključev"
+      loc: "prěključah"
+      dat: "prěključam"
+      ins: "prěključami"
+      voc: "prěključe"

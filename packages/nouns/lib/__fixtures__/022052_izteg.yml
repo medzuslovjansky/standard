@@ -1,0 +1,22 @@
+---
+  id: "22052"
+  word: "iztęg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iztęg"
+      acc: "iztęg"
+      gen: "iztęga"
+      loc: "iztęgu"
+      dat: "iztęgu"
+      ins: "iztęgom"
+      voc: "iztęže"
+    plural: 
+      nom: "iztęgy"
+      acc: "iztęgy"
+      gen: "iztęgov"
+      loc: "iztęgah"
+      dat: "iztęgam"
+      ins: "iztęgami"
+      voc: "iztęgy"

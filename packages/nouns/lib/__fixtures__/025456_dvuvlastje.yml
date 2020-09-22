@@ -1,0 +1,15 @@
+---
+  id: "25456"
+  word: "dvuvlasťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dvuvlasťje"
+      acc: "dvuvlasťje"
+      gen: "dvuvlasťja"
+      loc: "dvuvlasťju"
+      dat: "dvuvlasťju"
+      ins: "dvuvlasťjem"
+      voc: "dvuvlasťje"

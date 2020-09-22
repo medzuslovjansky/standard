@@ -1,0 +1,22 @@
+---
+  id: "3132"
+  word: "naděja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naděja"
+      acc: "nadějų"
+      gen: "naděje"
+      loc: "naději"
+      dat: "naději"
+      ins: "nadějejų"
+      voc: "nadějo"
+    plural: 
+      nom: "naděje"
+      acc: "naděje"
+      gen: "naděj"
+      loc: "nadějah"
+      dat: "nadějam"
+      ins: "nadějami"
+      voc: "naděje"

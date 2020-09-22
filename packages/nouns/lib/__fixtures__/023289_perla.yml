@@ -1,0 +1,22 @@
+---
+  id: "23289"
+  word: "perla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "perla"
+      acc: "perlų"
+      gen: "perly"
+      loc: "perlě"
+      dat: "perlě"
+      ins: "perlojų"
+      voc: "perlo"
+    plural: 
+      nom: "perly"
+      acc: "perly"
+      gen: "perl"
+      loc: "perlah"
+      dat: "perlam"
+      ins: "perlami"
+      voc: "perly"

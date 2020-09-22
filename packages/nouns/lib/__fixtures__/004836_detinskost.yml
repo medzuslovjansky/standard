@@ -1,0 +1,15 @@
+---
+  id: "4836"
+  word: "dětinskosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dětinskosť"
+      acc: "dětinskosť"
+      gen: "dětinskosti"
+      loc: "dětinskosti"
+      dat: "dětinskosti"
+      ins: "dětinskosťjų"
+      voc: "dětinskosti"

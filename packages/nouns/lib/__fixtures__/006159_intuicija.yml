@@ -1,0 +1,22 @@
+---
+  id: "6159"
+  word: "intuicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "intuicija"
+      acc: "intuicijų"
+      gen: "intuicije"
+      loc: "intuiciji"
+      dat: "intuiciji"
+      ins: "intuicijejų"
+      voc: "intuicijo"
+    plural: 
+      nom: "intuicije"
+      acc: "intuicije"
+      gen: "intuicij"
+      loc: "intuicijah"
+      dat: "intuicijam"
+      ins: "intuicijami"
+      voc: "intuicije"

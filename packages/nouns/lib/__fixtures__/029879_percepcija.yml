@@ -1,0 +1,22 @@
+---
+  id: "29879"
+  word: "percepcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "percepcija"
+      acc: "percepcijų"
+      gen: "percepcije"
+      loc: "percepciji"
+      dat: "percepciji"
+      ins: "percepcijejų"
+      voc: "percepcijo"
+    plural: 
+      nom: "percepcije"
+      acc: "percepcije"
+      gen: "percepcij"
+      loc: "percepcijah"
+      dat: "percepcijam"
+      ins: "percepcijami"
+      voc: "percepcije"

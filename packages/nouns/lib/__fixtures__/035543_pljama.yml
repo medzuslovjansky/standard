@@ -1,0 +1,22 @@
+---
+  id: "35543"
+  word: "pljama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pljama"
+      acc: "pljamų"
+      gen: "pljamy"
+      loc: "pljamě"
+      dat: "pljamě"
+      ins: "pljamojų"
+      voc: "pljamo"
+    plural: 
+      nom: "pljamy"
+      acc: "pljamy"
+      gen: "pljam"
+      loc: "pljamah"
+      dat: "pljamam"
+      ins: "pljamami"
+      voc: "pljamy"

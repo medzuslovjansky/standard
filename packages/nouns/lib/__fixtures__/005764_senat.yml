@@ -1,0 +1,22 @@
+---
+  id: "5764"
+  word: "senat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "senat"
+      acc: "senat"
+      gen: "senata"
+      loc: "senatu"
+      dat: "senatu"
+      ins: "senatom"
+      voc: "senate"
+    plural: 
+      nom: "senaty"
+      acc: "senaty"
+      gen: "senatov"
+      loc: "senatah"
+      dat: "senatam"
+      ins: "senatami"
+      voc: "senaty"

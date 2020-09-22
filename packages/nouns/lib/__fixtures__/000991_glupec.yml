@@ -1,0 +1,23 @@
+---
+  id: "991"
+  word: "glupec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glupec"
+      acc: "glupca"
+      gen: "glupca"
+      loc: "glupcu"
+      dat: "glupcu"
+      ins: "glupcem"
+      voc: "glupče"
+    plural: 
+      nom: "glupci"
+      acc: "glupcev"
+      gen: "glupcev"
+      loc: "glupcah"
+      dat: "glupcam"
+      ins: "glupcami"
+      voc: "glupci"

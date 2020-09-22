@@ -1,0 +1,23 @@
+---
+  id: "4730"
+  word: "Čeh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Čeh"
+      acc: "Čeha"
+      gen: "Čeha"
+      loc: "Čehu"
+      dat: "Čehu"
+      ins: "Čehom"
+      voc: "Češe"
+    plural: 
+      nom: "Čehi"
+      acc: "Čehov"
+      gen: "Čehov"
+      loc: "Čehah"
+      dat: "Čeham"
+      ins: "Čehami"
+      voc: "Čehi"

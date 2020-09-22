@@ -1,0 +1,22 @@
+---
+  id: "32616"
+  word: "stonožka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stonožka"
+      acc: "stonožkų"
+      gen: "stonožky"
+      loc: "stonožkě"
+      dat: "stonožkě"
+      ins: "stonožkojų"
+      voc: "stonožko"
+    plural: 
+      nom: "stonožky"
+      acc: "stonožky"
+      gen: "stonožek"
+      loc: "stonožkah"
+      dat: "stonožkam"
+      ins: "stonožkami"
+      voc: "stonožky"

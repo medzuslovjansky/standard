@@ -1,0 +1,22 @@
+---
+  id: "23848"
+  word: "improvizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "improvizacija"
+      acc: "improvizacijų"
+      gen: "improvizacije"
+      loc: "improvizaciji"
+      dat: "improvizaciji"
+      ins: "improvizacijejų"
+      voc: "improvizacijo"
+    plural: 
+      nom: "improvizacije"
+      acc: "improvizacije"
+      gen: "improvizacij"
+      loc: "improvizacijah"
+      dat: "improvizacijam"
+      ins: "improvizacijami"
+      voc: "improvizacije"

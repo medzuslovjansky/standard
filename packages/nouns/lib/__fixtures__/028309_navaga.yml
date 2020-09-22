@@ -1,0 +1,22 @@
+---
+  id: "28309"
+  word: "navaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "navaga"
+      acc: "navagų"
+      gen: "navagy"
+      loc: "navagě"
+      dat: "navagě"
+      ins: "navagojų"
+      voc: "navago"
+    plural: 
+      nom: "navagy"
+      acc: "navagy"
+      gen: "navag"
+      loc: "navagah"
+      dat: "navagam"
+      ins: "navagami"
+      voc: "navagy"

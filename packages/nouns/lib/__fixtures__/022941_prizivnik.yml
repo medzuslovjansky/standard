@@ -1,0 +1,23 @@
+---
+  id: "22941"
+  word: "priživnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "priživnik"
+      acc: "priživnika"
+      gen: "priživnika"
+      loc: "priživniku"
+      dat: "priživniku"
+      ins: "priživnikom"
+      voc: "priživniče"
+    plural: 
+      nom: "priživniki"
+      acc: "priživnikov"
+      gen: "priživnikov"
+      loc: "priživnikah"
+      dat: "priživnikam"
+      ins: "priživnikami"
+      voc: "priživniki"

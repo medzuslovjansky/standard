@@ -1,0 +1,23 @@
+---
+  id: "7279"
+  word: "dovoznik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dovoznik"
+      acc: "dovoznika"
+      gen: "dovoznika"
+      loc: "dovozniku"
+      dat: "dovozniku"
+      ins: "dovoznikom"
+      voc: "dovozniče"
+    plural: 
+      nom: "dovozniki"
+      acc: "dovoznikov"
+      gen: "dovoznikov"
+      loc: "dovoznikah"
+      dat: "dovoznikam"
+      ins: "dovoznikami"
+      voc: "dovozniki"

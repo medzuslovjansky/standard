@@ -1,0 +1,23 @@
+---
+  id: "35694"
+  word: "kardinal"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kardinal"
+      acc: "kardinala"
+      gen: "kardinala"
+      loc: "kardinalu"
+      dat: "kardinalu"
+      ins: "kardinalom"
+      voc: "kardinale"
+    plural: 
+      nom: "kardinali"
+      acc: "kardinalov"
+      gen: "kardinalov"
+      loc: "kardinalah"
+      dat: "kardinalam"
+      ins: "kardinalami"
+      voc: "kardinali"

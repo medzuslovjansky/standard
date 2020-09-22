@@ -1,0 +1,22 @@
+---
+  id: "2248"
+  word: "råvnina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnina"
+      acc: "råvninų"
+      gen: "råvniny"
+      loc: "råvnině"
+      dat: "råvnině"
+      ins: "råvninojų"
+      voc: "råvnino"
+    plural: 
+      nom: "råvniny"
+      acc: "råvniny"
+      gen: "råvnin"
+      loc: "råvninah"
+      dat: "råvninam"
+      ins: "råvninami"
+      voc: "råvniny"

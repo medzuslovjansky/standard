@@ -1,0 +1,22 @@
+---
+  id: "1868"
+  word: "barva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "barva"
+      acc: "barvų"
+      gen: "barvy"
+      loc: "barvě"
+      dat: "barvě"
+      ins: "barvojų"
+      voc: "barvo"
+    plural: 
+      nom: "barvy"
+      acc: "barvy"
+      gen: "barv"
+      loc: "barvah"
+      dat: "barvam"
+      ins: "barvami"
+      voc: "barvy"

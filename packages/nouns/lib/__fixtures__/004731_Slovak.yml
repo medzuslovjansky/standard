@@ -1,0 +1,23 @@
+---
+  id: "4731"
+  word: "Slovak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Slovak"
+      acc: "Slovaka"
+      gen: "Slovaka"
+      loc: "Slovaku"
+      dat: "Slovaku"
+      ins: "Slovakom"
+      voc: "Slovače"
+    plural: 
+      nom: "Slovaki"
+      acc: "Slovakov"
+      gen: "Slovakov"
+      loc: "Slovakah"
+      dat: "Slovakam"
+      ins: "Slovakami"
+      voc: "Slovaki"

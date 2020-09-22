@@ -1,0 +1,23 @@
+---
+  id: "25457"
+  word: "dvuženec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dvuženec"
+      acc: "dvuženca"
+      gen: "dvuženca"
+      loc: "dvužencu"
+      dat: "dvužencu"
+      ins: "dvužencem"
+      voc: "dvuženče"
+    plural: 
+      nom: "dvuženci"
+      acc: "dvužencev"
+      gen: "dvužencev"
+      loc: "dvužencah"
+      dat: "dvužencam"
+      ins: "dvužencami"
+      voc: "dvuženci"

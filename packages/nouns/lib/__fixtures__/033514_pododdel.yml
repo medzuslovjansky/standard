@@ -1,0 +1,22 @@
+---
+  id: "33514"
+  word: "pododděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pododděl"
+      acc: "pododděl"
+      gen: "pododděla"
+      loc: "pododdělu"
+      dat: "pododdělu"
+      ins: "pododdělom"
+      voc: "pododděle"
+    plural: 
+      nom: "pododděly"
+      acc: "pododděly"
+      gen: "pododdělov"
+      loc: "pododdělah"
+      dat: "pododdělam"
+      ins: "pododdělami"
+      voc: "pododděly"

@@ -1,0 +1,22 @@
+---
+  id: "1132"
+  word: "bolj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bolj"
+      acc: "bolj"
+      gen: "bolja"
+      loc: "bolju"
+      dat: "bolju"
+      ins: "boljem"
+      voc: "bolju"
+    plural: 
+      nom: "bolje"
+      acc: "bolje"
+      gen: "boljev"
+      loc: "boljah"
+      dat: "boljam"
+      ins: "boljami"
+      voc: "bolje"

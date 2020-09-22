@@ -1,0 +1,22 @@
+---
+  id: "26368"
+  word: "jelenina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jelenina"
+      acc: "jeleninų"
+      gen: "jeleniny"
+      loc: "jelenině"
+      dat: "jelenině"
+      ins: "jeleninojų"
+      voc: "jelenino"
+    plural: 
+      nom: "jeleniny"
+      acc: "jeleniny"
+      gen: "jelenin"
+      loc: "jeleninah"
+      dat: "jeleninam"
+      ins: "jeleninami"
+      voc: "jeleniny"

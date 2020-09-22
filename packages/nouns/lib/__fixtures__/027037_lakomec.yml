@@ -1,0 +1,23 @@
+---
+  id: "27037"
+  word: "lakomec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lakomec"
+      acc: "lakomca"
+      gen: "lakomca"
+      loc: "lakomcu"
+      dat: "lakomcu"
+      ins: "lakomcem"
+      voc: "lakomče"
+    plural: 
+      nom: "lakomci"
+      acc: "lakomcev"
+      gen: "lakomcev"
+      loc: "lakomcah"
+      dat: "lakomcam"
+      ins: "lakomcami"
+      voc: "lakomci"

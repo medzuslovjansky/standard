@@ -1,0 +1,22 @@
+---
+  id: "35244"
+  word: "seksuaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "seksuaľnosť"
+      acc: "seksuaľnosť"
+      gen: "seksuaľnosti"
+      loc: "seksuaľnosti"
+      dat: "seksuaľnosti"
+      ins: "seksuaľnosťjų"
+      voc: "seksuaľnosti"
+    plural: 
+      nom: "seksuaľnosti"
+      acc: "seksuaľnosti"
+      gen: "seksuaľnostij"
+      loc: "seksuaľnosťah"
+      dat: "seksuaľnosťam"
+      ins: "seksuaľnosťami"
+      voc: "seksuaľnosti"

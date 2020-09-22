@@ -1,0 +1,22 @@
+---
+  id: "5187"
+  word: "odděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odděl"
+      acc: "odděl"
+      gen: "odděla"
+      loc: "oddělu"
+      dat: "oddělu"
+      ins: "oddělom"
+      voc: "odděle"
+    plural: 
+      nom: "odděly"
+      acc: "odděly"
+      gen: "oddělov"
+      loc: "oddělah"
+      dat: "oddělam"
+      ins: "oddělami"
+      voc: "odděly"

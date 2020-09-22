@@ -1,0 +1,22 @@
+---
+  id: "1145"
+  word: "dobytȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dobytȯk"
+      acc: "dobytȯk"
+      gen: "dobytka"
+      loc: "dobytku"
+      dat: "dobytku"
+      ins: "dobytkom"
+      voc: "dobytče"
+    plural: 
+      nom: "dobytky"
+      acc: "dobytky"
+      gen: "dobytkov"
+      loc: "dobytkah"
+      dat: "dobytkam"
+      ins: "dobytkami"
+      voc: "dobytky"

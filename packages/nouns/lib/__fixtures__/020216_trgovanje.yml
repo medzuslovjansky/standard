@@ -1,0 +1,22 @@
+---
+  id: "20216"
+  word: "trgovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "trgovańje"
+      acc: "trgovańje"
+      gen: "trgovańja"
+      loc: "trgovańju"
+      dat: "trgovańju"
+      ins: "trgovańjem"
+      voc: "trgovańje"
+    plural: 
+      nom: "trgovańja"
+      acc: "trgovańja"
+      gen: "trgovanij"
+      loc: "trgovańjah"
+      dat: "trgovańjam"
+      ins: "trgovańjami"
+      voc: "trgovańja"

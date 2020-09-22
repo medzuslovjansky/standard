@@ -1,0 +1,22 @@
+---
+  id: "18580"
+  word: "rak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rak"
+      acc: "rak"
+      gen: "raka"
+      loc: "raku"
+      dat: "raku"
+      ins: "rakom"
+      voc: "rače"
+    plural: 
+      nom: "raky"
+      acc: "raky"
+      gen: "rakov"
+      loc: "rakah"
+      dat: "rakam"
+      ins: "rakami"
+      voc: "raky"

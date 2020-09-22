@@ -1,0 +1,22 @@
+---
+  id: "19404"
+  word: "žarovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žarovka"
+      acc: "žarovkų"
+      gen: "žarovky"
+      loc: "žarovkě"
+      dat: "žarovkě"
+      ins: "žarovkojų"
+      voc: "žarovko"
+    plural: 
+      nom: "žarovky"
+      acc: "žarovky"
+      gen: "žarovȯk"
+      loc: "žarovkah"
+      dat: "žarovkam"
+      ins: "žarovkami"
+      voc: "žarovky"

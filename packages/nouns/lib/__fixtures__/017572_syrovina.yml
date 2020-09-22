@@ -1,0 +1,22 @@
+---
+  id: "17572"
+  word: "syrovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "syrovina"
+      acc: "syrovinų"
+      gen: "syroviny"
+      loc: "syrovině"
+      dat: "syrovině"
+      ins: "syrovinojų"
+      voc: "syrovino"
+    plural: 
+      nom: "syroviny"
+      acc: "syroviny"
+      gen: "syrovin"
+      loc: "syrovinah"
+      dat: "syrovinam"
+      ins: "syrovinami"
+      voc: "syroviny"

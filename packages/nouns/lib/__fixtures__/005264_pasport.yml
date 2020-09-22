@@ -1,0 +1,22 @@
+---
+  id: "5264"
+  word: "pasport"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pasport"
+      acc: "pasport"
+      gen: "pasporta"
+      loc: "pasportu"
+      dat: "pasportu"
+      ins: "pasportom"
+      voc: "pasporte"
+    plural: 
+      nom: "pasporty"
+      acc: "pasporty"
+      gen: "pasportov"
+      loc: "pasportah"
+      dat: "pasportam"
+      ins: "pasportami"
+      voc: "pasporty"

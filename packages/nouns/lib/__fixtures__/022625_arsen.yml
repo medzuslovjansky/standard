@@ -1,0 +1,15 @@
+---
+  id: "22625"
+  word: "arsen"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "arsen"
+      acc: "arsen"
+      gen: "arsena"
+      loc: "arsenu"
+      dat: "arsenu"
+      ins: "arsenom"
+      voc: "arsene"

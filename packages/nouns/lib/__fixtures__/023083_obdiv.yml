@@ -1,0 +1,15 @@
+---
+  id: "23083"
+  word: "obdiv"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "obdiv"
+      acc: "obdiv"
+      gen: "obdiva"
+      loc: "obdivu"
+      dat: "obdivu"
+      ins: "obdivom"
+      voc: "obdive"

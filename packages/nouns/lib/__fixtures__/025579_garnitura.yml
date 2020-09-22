@@ -1,0 +1,22 @@
+---
+  id: "25579"
+  word: "garnitura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "garnitura"
+      acc: "garniturų"
+      gen: "garnitury"
+      loc: "garniturě"
+      dat: "garniturě"
+      ins: "garniturojų"
+      voc: "garnituro"
+    plural: 
+      nom: "garnitury"
+      acc: "garnitury"
+      gen: "garnitur"
+      loc: "garniturah"
+      dat: "garnituram"
+      ins: "garniturami"
+      voc: "garnitury"

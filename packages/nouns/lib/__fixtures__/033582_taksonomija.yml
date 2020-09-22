@@ -1,0 +1,22 @@
+---
+  id: "33582"
+  word: "taksonomija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "taksonomija"
+      acc: "taksonomijų"
+      gen: "taksonomije"
+      loc: "taksonomiji"
+      dat: "taksonomiji"
+      ins: "taksonomijejų"
+      voc: "taksonomijo"
+    plural: 
+      nom: "taksonomije"
+      acc: "taksonomije"
+      gen: "taksonomij"
+      loc: "taksonomijah"
+      dat: "taksonomijam"
+      ins: "taksonomijami"
+      voc: "taksonomije"

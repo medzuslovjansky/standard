@@ -1,0 +1,23 @@
+---
+  id: "25026"
+  word: "čiž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čiž"
+      acc: "čiža"
+      gen: "čiža"
+      loc: "čižu"
+      dat: "čižu"
+      ins: "čižem"
+      voc: "čižu"
+    plural: 
+      nom: "čiži"
+      acc: "čižev"
+      gen: "čižev"
+      loc: "čižah"
+      dat: "čižam"
+      ins: "čižami"
+      voc: "čiži"

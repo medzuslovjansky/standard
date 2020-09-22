@@ -1,0 +1,22 @@
+---
+  id: "26513"
+  word: "kita"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kita"
+      acc: "kitų"
+      gen: "kity"
+      loc: "kitě"
+      dat: "kitě"
+      ins: "kitojų"
+      voc: "kito"
+    plural: 
+      nom: "kity"
+      acc: "kity"
+      gen: "kit"
+      loc: "kitah"
+      dat: "kitam"
+      ins: "kitami"
+      voc: "kity"

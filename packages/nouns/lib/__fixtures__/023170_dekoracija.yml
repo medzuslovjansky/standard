@@ -1,0 +1,22 @@
+---
+  id: "23170"
+  word: "dekoracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dekoracija"
+      acc: "dekoracijų"
+      gen: "dekoracije"
+      loc: "dekoraciji"
+      dat: "dekoraciji"
+      ins: "dekoracijejų"
+      voc: "dekoracijo"
+    plural: 
+      nom: "dekoracije"
+      acc: "dekoracije"
+      gen: "dekoracij"
+      loc: "dekoracijah"
+      dat: "dekoracijam"
+      ins: "dekoracijami"
+      voc: "dekoracije"

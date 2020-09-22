@@ -1,0 +1,22 @@
+---
+  id: "702"
+  word: "žęlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žęlo"
+      acc: "žęlo"
+      gen: "žęla"
+      loc: "žęlu"
+      dat: "žęlu"
+      ins: "žęlom"
+      voc: "žęlo"
+    plural: 
+      nom: "žęla"
+      acc: "žęla"
+      gen: "žęl"
+      loc: "žęlah"
+      dat: "žęlam"
+      ins: "žęlami"
+      voc: "žęla"

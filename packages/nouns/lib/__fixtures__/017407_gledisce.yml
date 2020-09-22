@@ -1,0 +1,22 @@
+---
+  id: "17407"
+  word: "ględišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ględišče"
+      acc: "ględišče"
+      gen: "ględišča"
+      loc: "ględišču"
+      dat: "ględišču"
+      ins: "ględiščem"
+      voc: "ględišče"
+    plural: 
+      nom: "ględišča"
+      acc: "ględišča"
+      gen: "ględišč"
+      loc: "ględiščah"
+      dat: "ględiščam"
+      ins: "ględiščami"
+      voc: "ględišča"

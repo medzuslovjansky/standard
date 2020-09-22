@@ -1,0 +1,22 @@
+---
+  id: "22231"
+  word: "prědvěsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědvěsťje"
+      acc: "prědvěsťje"
+      gen: "prědvěsťja"
+      loc: "prědvěsťju"
+      dat: "prědvěsťju"
+      ins: "prědvěsťjem"
+      voc: "prědvěsťje"
+    plural: 
+      nom: "prědvěsťja"
+      acc: "prědvěsťja"
+      gen: "prědvěstij"
+      loc: "prědvěsťjah"
+      dat: "prědvěsťjam"
+      ins: "prědvěsťjami"
+      voc: "prědvěsťja"

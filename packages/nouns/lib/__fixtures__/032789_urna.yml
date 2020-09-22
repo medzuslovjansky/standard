@@ -1,0 +1,22 @@
+---
+  id: "32789"
+  word: "urna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "urna"
+      acc: "urnų"
+      gen: "urny"
+      loc: "urně"
+      dat: "urně"
+      ins: "urnojų"
+      voc: "urno"
+    plural: 
+      nom: "urny"
+      acc: "urny"
+      gen: "urn"
+      loc: "urnah"
+      dat: "urnam"
+      ins: "urnami"
+      voc: "urny"

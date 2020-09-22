@@ -1,0 +1,23 @@
+---
+  id: "35622"
+  word: "diler"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "diler"
+      acc: "dilera"
+      gen: "dilera"
+      loc: "dileru"
+      dat: "dileru"
+      ins: "dilerom"
+      voc: "dilere"
+    plural: 
+      nom: "dileri"
+      acc: "dilerov"
+      gen: "dilerov"
+      loc: "dilerah"
+      dat: "dileram"
+      ins: "dilerami"
+      voc: "dileri"

@@ -1,0 +1,22 @@
+---
+  id: "2467"
+  word: "bolinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bolinka"
+      acc: "bolinkų"
+      gen: "bolinky"
+      loc: "bolinkě"
+      dat: "bolinkě"
+      ins: "bolinkojų"
+      voc: "bolinko"
+    plural: 
+      nom: "bolinky"
+      acc: "bolinky"
+      gen: "bolinȯk"
+      loc: "bolinkah"
+      dat: "bolinkam"
+      ins: "bolinkami"
+      voc: "bolinky"

@@ -1,0 +1,23 @@
+---
+  id: "22973"
+  word: "astrolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "astrolog"
+      acc: "astrologa"
+      gen: "astrologa"
+      loc: "astrologu"
+      dat: "astrologu"
+      ins: "astrologom"
+      voc: "astrolože"
+    plural: 
+      nom: "astrologi"
+      acc: "astrologov"
+      gen: "astrologov"
+      loc: "astrologah"
+      dat: "astrologam"
+      ins: "astrologami"
+      voc: "astrologi"

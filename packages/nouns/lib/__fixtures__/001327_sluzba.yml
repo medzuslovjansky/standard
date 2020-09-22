@@ -1,0 +1,22 @@
+---
+  id: "1327"
+  word: "služba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "služba"
+      acc: "službų"
+      gen: "služby"
+      loc: "službě"
+      dat: "službě"
+      ins: "službojų"
+      voc: "službo"
+    plural: 
+      nom: "služby"
+      acc: "služby"
+      gen: "služb"
+      loc: "službah"
+      dat: "službam"
+      ins: "službami"
+      voc: "služby"

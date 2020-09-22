@@ -1,0 +1,22 @@
+---
+  id: "1714"
+  word: "čaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čaj"
+      acc: "čaj"
+      gen: "čaja"
+      loc: "čaju"
+      dat: "čaju"
+      ins: "čajem"
+      voc: "čaju"
+    plural: 
+      nom: "čaje"
+      acc: "čaje"
+      gen: "čajev"
+      loc: "čajah"
+      dat: "čajam"
+      ins: "čajami"
+      voc: "čaje"

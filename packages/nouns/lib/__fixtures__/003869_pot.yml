@@ -1,0 +1,15 @@
+---
+  id: "3869"
+  word: "pot"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pot"
+      acc: "pot"
+      gen: "pota"
+      loc: "potu"
+      dat: "potu"
+      ins: "potom"
+      voc: "pote"

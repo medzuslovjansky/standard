@@ -1,0 +1,22 @@
+---
+  id: "35496"
+  word: "podval"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podval"
+      acc: "podval"
+      gen: "podvala"
+      loc: "podvalu"
+      dat: "podvalu"
+      ins: "podvalom"
+      voc: "podvale"
+    plural: 
+      nom: "podvaly"
+      acc: "podvaly"
+      gen: "podvalov"
+      loc: "podvalah"
+      dat: "podvalam"
+      ins: "podvalami"
+      voc: "podvaly"

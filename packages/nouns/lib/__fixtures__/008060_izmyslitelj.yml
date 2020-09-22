@@ -1,0 +1,23 @@
+---
+  id: "8060"
+  word: "izmyslitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izmyslitelj"
+      acc: "izmyslitelja"
+      gen: "izmyslitelja"
+      loc: "izmyslitelju"
+      dat: "izmyslitelju"
+      ins: "izmysliteljem"
+      voc: "izmyslitelju"
+    plural: 
+      nom: "izmyslitelji"
+      acc: "izmysliteljev"
+      gen: "izmysliteljev"
+      loc: "izmysliteljah"
+      dat: "izmysliteljam"
+      ins: "izmysliteljami"
+      voc: "izmyslitelji"

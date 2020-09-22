@@ -1,0 +1,15 @@
+---
+  id: "23622"
+  word: "rasizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "rasizm"
+      acc: "rasizm"
+      gen: "rasizma"
+      loc: "rasizmu"
+      dat: "rasizmu"
+      ins: "rasizmom"
+      voc: "rasizme"

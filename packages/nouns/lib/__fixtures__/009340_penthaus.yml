@@ -1,0 +1,22 @@
+---
+  id: "9340"
+  word: "penthaus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "penthaus"
+      acc: "penthaus"
+      gen: "penthausa"
+      loc: "penthausu"
+      dat: "penthausu"
+      ins: "penthausom"
+      voc: "penthause"
+    plural: 
+      nom: "penthausy"
+      acc: "penthausy"
+      gen: "penthausov"
+      loc: "penthausah"
+      dat: "penthausam"
+      ins: "penthausami"
+      voc: "penthausy"

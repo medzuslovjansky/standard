@@ -1,0 +1,22 @@
+---
+  id: "23430"
+  word: "fortepiano"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "fortepiano"
+      acc: "fortepiano"
+      gen: "fortepiana"
+      loc: "fortepianu"
+      dat: "fortepianu"
+      ins: "fortepianom"
+      voc: "fortepiano"
+    plural: 
+      nom: "fortepiana"
+      acc: "fortepiana"
+      gen: "fortepian"
+      loc: "fortepianah"
+      dat: "fortepianam"
+      ins: "fortepianami"
+      voc: "fortepiana"

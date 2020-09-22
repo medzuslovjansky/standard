@@ -1,0 +1,22 @@
+---
+  id: "35091"
+  word: "kriket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kriket"
+      acc: "kriket"
+      gen: "kriketa"
+      loc: "kriketu"
+      dat: "kriketu"
+      ins: "kriketom"
+      voc: "krikete"
+    plural: 
+      nom: "krikety"
+      acc: "krikety"
+      gen: "kriketov"
+      loc: "kriketah"
+      dat: "kriketam"
+      ins: "kriketami"
+      voc: "krikety"

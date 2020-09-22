@@ -1,0 +1,22 @@
+---
+  id: "35643"
+  word: "propust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "propust"
+      acc: "propust"
+      gen: "propusta"
+      loc: "propustu"
+      dat: "propustu"
+      ins: "propustom"
+      voc: "propuste"
+    plural: 
+      nom: "propusty"
+      acc: "propusty"
+      gen: "propustov"
+      loc: "propustah"
+      dat: "propustam"
+      ins: "propustami"
+      voc: "propusty"

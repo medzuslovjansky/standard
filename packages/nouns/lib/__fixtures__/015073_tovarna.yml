@@ -1,0 +1,22 @@
+---
+  id: "15073"
+  word: "tovarna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tovarna"
+      acc: "tovarnų"
+      gen: "tovarny"
+      loc: "tovarně"
+      dat: "tovarně"
+      ins: "tovarnojų"
+      voc: "tovarno"
+    plural: 
+      nom: "tovarny"
+      acc: "tovarny"
+      gen: "tovarn"
+      loc: "tovarnah"
+      dat: "tovarnam"
+      ins: "tovarnami"
+      voc: "tovarny"

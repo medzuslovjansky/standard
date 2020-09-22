@@ -1,0 +1,22 @@
+---
+  id: "1423"
+  word: "odvaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odvaga"
+      acc: "odvagų"
+      gen: "odvagy"
+      loc: "odvagě"
+      dat: "odvagě"
+      ins: "odvagojų"
+      voc: "odvago"
+    plural: 
+      nom: "odvagy"
+      acc: "odvagy"
+      gen: "odvag"
+      loc: "odvagah"
+      dat: "odvagam"
+      ins: "odvagami"
+      voc: "odvagy"

@@ -1,0 +1,22 @@
+---
+  id: "2525"
+  word: "fakt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fakt"
+      acc: "fakt"
+      gen: "fakta"
+      loc: "faktu"
+      dat: "faktu"
+      ins: "faktom"
+      voc: "fakte"
+    plural: 
+      nom: "fakty"
+      acc: "fakty"
+      gen: "faktov"
+      loc: "faktah"
+      dat: "faktam"
+      ins: "faktami"
+      voc: "fakty"

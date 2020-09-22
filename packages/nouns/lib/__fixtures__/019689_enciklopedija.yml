@@ -1,0 +1,22 @@
+---
+  id: "19689"
+  word: "enciklopedija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "enciklopedija"
+      acc: "enciklopedijų"
+      gen: "enciklopedije"
+      loc: "enciklopediji"
+      dat: "enciklopediji"
+      ins: "enciklopedijejų"
+      voc: "enciklopedijo"
+    plural: 
+      nom: "enciklopedije"
+      acc: "enciklopedije"
+      gen: "enciklopedij"
+      loc: "enciklopedijah"
+      dat: "enciklopedijam"
+      ins: "enciklopedijami"
+      voc: "enciklopedije"

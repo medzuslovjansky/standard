@@ -1,0 +1,22 @@
+---
+  id: "16094"
+  word: "satelit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "satelit"
+      acc: "satelit"
+      gen: "satelita"
+      loc: "satelitu"
+      dat: "satelitu"
+      ins: "satelitom"
+      voc: "satelite"
+    plural: 
+      nom: "satelity"
+      acc: "satelity"
+      gen: "satelitov"
+      loc: "satelitah"
+      dat: "satelitam"
+      ins: "satelitami"
+      voc: "satelity"

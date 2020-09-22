@@ -1,0 +1,23 @@
+---
+  id: "11087"
+  word: "povstanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "povstanec"
+      acc: "povstanca"
+      gen: "povstanca"
+      loc: "povstancu"
+      dat: "povstancu"
+      ins: "povstancem"
+      voc: "povstanče"
+    plural: 
+      nom: "povstanci"
+      acc: "povstancev"
+      gen: "povstancev"
+      loc: "povstancah"
+      dat: "povstancam"
+      ins: "povstancami"
+      voc: "povstanci"

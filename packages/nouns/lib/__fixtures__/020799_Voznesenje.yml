@@ -1,0 +1,15 @@
+---
+  id: "20799"
+  word: "Vȯzneseńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Vȯzneseńje"
+      acc: "Vȯzneseńje"
+      gen: "Vȯzneseńja"
+      loc: "Vȯzneseńju"
+      dat: "Vȯzneseńju"
+      ins: "Vȯzneseńjem"
+      voc: "Vȯzneseńje"

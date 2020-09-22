@@ -1,0 +1,15 @@
+---
+  id: "17907"
+  word: "negodovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "negodovańje"
+      acc: "negodovańje"
+      gen: "negodovańja"
+      loc: "negodovańju"
+      dat: "negodovańju"
+      ins: "negodovańjem"
+      voc: "negodovańje"

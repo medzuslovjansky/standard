@@ -1,0 +1,23 @@
+---
+  id: "2394"
+  word: "medvěď"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medvěď"
+      acc: "medvěďa"
+      gen: "medvěďa"
+      loc: "medvěďu"
+      dat: "medvěďu"
+      ins: "medvěďem"
+      voc: "medvěďu"
+    plural: 
+      nom: "medvědi"
+      acc: "medvěďev"
+      gen: "medvěďev"
+      loc: "medvěďah"
+      dat: "medvěďam"
+      ins: "medvěďami"
+      voc: "medvědi"

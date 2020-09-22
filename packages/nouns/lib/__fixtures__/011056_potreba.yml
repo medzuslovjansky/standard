@@ -1,0 +1,22 @@
+---
+  id: "11056"
+  word: "potrěba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "potrěba"
+      acc: "potrěbų"
+      gen: "potrěby"
+      loc: "potrěbě"
+      dat: "potrěbě"
+      ins: "potrěbojų"
+      voc: "potrěbo"
+    plural: 
+      nom: "potrěby"
+      acc: "potrěby"
+      gen: "potrěb"
+      loc: "potrěbah"
+      dat: "potrěbam"
+      ins: "potrěbami"
+      voc: "potrěby"

@@ -1,0 +1,23 @@
+---
+  id: "33659"
+  word: "smrkač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "smrkač"
+      acc: "smrkača"
+      gen: "smrkača"
+      loc: "smrkaču"
+      dat: "smrkaču"
+      ins: "smrkačem"
+      voc: "smrkaču"
+    plural: 
+      nom: "smrkači"
+      acc: "smrkačev"
+      gen: "smrkačev"
+      loc: "smrkačah"
+      dat: "smrkačam"
+      ins: "smrkačami"
+      voc: "smrkači"

@@ -1,0 +1,15 @@
+---
+  id: "32224"
+  word: "sŕdca"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "sŕdca"
+      acc: "sŕdca"
+      gen: "sŕdc"
+      loc: "sŕdcah"
+      dat: "sŕdcam"
+      ins: "sŕdcami"
+      voc: "sŕdca"

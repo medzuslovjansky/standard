@@ -1,0 +1,22 @@
+---
+  id: "17075"
+  word: "žargon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žargon"
+      acc: "žargon"
+      gen: "žargona"
+      loc: "žargonu"
+      dat: "žargonu"
+      ins: "žargonom"
+      voc: "žargone"
+    plural: 
+      nom: "žargony"
+      acc: "žargony"
+      gen: "žargonov"
+      loc: "žargonah"
+      dat: "žargonam"
+      ins: "žargonami"
+      voc: "žargony"

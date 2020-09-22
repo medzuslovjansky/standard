@@ -1,0 +1,22 @@
+---
+  id: "376"
+  word: "lųka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lųka"
+      acc: "lųkų"
+      gen: "lųky"
+      loc: "lųkě"
+      dat: "lųkě"
+      ins: "lųkojų"
+      voc: "lųko"
+    plural: 
+      nom: "lųky"
+      acc: "lųky"
+      gen: "lųk"
+      loc: "lųkah"
+      dat: "lųkam"
+      ins: "lųkami"
+      voc: "lųky"

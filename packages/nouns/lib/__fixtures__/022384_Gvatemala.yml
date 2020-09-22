@@ -1,0 +1,15 @@
+---
+  id: "22384"
+  word: "Gvatemala"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Gvatemala"
+      acc: "Gvatemalų"
+      gen: "Gvatemaly"
+      loc: "Gvatemalě"
+      dat: "Gvatemalě"
+      ins: "Gvatemalojų"
+      voc: "Gvatemalo"

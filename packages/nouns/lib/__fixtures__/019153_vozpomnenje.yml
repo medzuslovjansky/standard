@@ -1,0 +1,22 @@
+---
+  id: "19153"
+  word: "vȯzpomněńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯzpomněńje"
+      acc: "vȯzpomněńje"
+      gen: "vȯzpomněńja"
+      loc: "vȯzpomněńju"
+      dat: "vȯzpomněńju"
+      ins: "vȯzpomněńjem"
+      voc: "vȯzpomněńje"
+    plural: 
+      nom: "vȯzpomněńja"
+      acc: "vȯzpomněńja"
+      gen: "vȯzpomněnij"
+      loc: "vȯzpomněńjah"
+      dat: "vȯzpomněńjam"
+      ins: "vȯzpomněńjami"
+      voc: "vȯzpomněńja"

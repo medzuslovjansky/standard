@@ -1,0 +1,23 @@
+---
+  id: "8502"
+  word: "knęź"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "knęź"
+      acc: "knęźa"
+      gen: "knęźa"
+      loc: "knęźu"
+      dat: "knęźu"
+      ins: "knęźem"
+      voc: "knęźu"
+    plural: 
+      nom: "knęzi"
+      acc: "knęźev"
+      gen: "knęźev"
+      loc: "knęźah"
+      dat: "knęźam"
+      ins: "knęźami"
+      voc: "knęzi"

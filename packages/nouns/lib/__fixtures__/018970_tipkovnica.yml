@@ -1,0 +1,22 @@
+---
+  id: "18970"
+  word: "tipkovnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tipkovnica"
+      acc: "tipkovnicų"
+      gen: "tipkovnice"
+      loc: "tipkovnici"
+      dat: "tipkovnici"
+      ins: "tipkovnicejų"
+      voc: "tipkovnico"
+    plural: 
+      nom: "tipkovnice"
+      acc: "tipkovnice"
+      gen: "tipkovnic"
+      loc: "tipkovnicah"
+      dat: "tipkovnicam"
+      ins: "tipkovnicami"
+      voc: "tipkovnice"

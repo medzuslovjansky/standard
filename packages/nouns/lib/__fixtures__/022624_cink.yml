@@ -1,0 +1,15 @@
+---
+  id: "22624"
+  word: "cink"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cink"
+      acc: "cink"
+      gen: "cinka"
+      loc: "cinku"
+      dat: "cinku"
+      ins: "cinkom"
+      voc: "cinče"

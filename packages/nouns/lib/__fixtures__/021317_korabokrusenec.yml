@@ -1,0 +1,23 @@
+---
+  id: "21317"
+  word: "korabokrušenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "korabokrušenec"
+      acc: "korabokrušenca"
+      gen: "korabokrušenca"
+      loc: "korabokrušencu"
+      dat: "korabokrušencu"
+      ins: "korabokrušencem"
+      voc: "korabokrušenče"
+    plural: 
+      nom: "korabokrušenci"
+      acc: "korabokrušencev"
+      gen: "korabokrušencev"
+      loc: "korabokrušencah"
+      dat: "korabokrušencam"
+      ins: "korabokrušencami"
+      voc: "korabokrušenci"

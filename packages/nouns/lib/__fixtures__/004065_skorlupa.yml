@@ -1,0 +1,22 @@
+---
+  id: "4065"
+  word: "skorlupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skorlupa"
+      acc: "skorlupų"
+      gen: "skorlupy"
+      loc: "skorlupě"
+      dat: "skorlupě"
+      ins: "skorlupojų"
+      voc: "skorlupo"
+    plural: 
+      nom: "skorlupy"
+      acc: "skorlupy"
+      gen: "skorlup"
+      loc: "skorlupah"
+      dat: "skorlupam"
+      ins: "skorlupami"
+      voc: "skorlupy"

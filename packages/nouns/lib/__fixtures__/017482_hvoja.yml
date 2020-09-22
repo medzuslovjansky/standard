@@ -1,0 +1,22 @@
+---
+  id: "17482"
+  word: "hvoja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hvoja"
+      acc: "hvojų"
+      gen: "hvoje"
+      loc: "hvoji"
+      dat: "hvoji"
+      ins: "hvojejų"
+      voc: "hvojo"
+    plural: 
+      nom: "hvoje"
+      acc: "hvoje"
+      gen: "hvoj"
+      loc: "hvojah"
+      dat: "hvojam"
+      ins: "hvojami"
+      voc: "hvoje"

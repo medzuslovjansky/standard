@@ -1,0 +1,23 @@
+---
+  id: "25276"
+  word: "dobrovoljec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dobrovoljec"
+      acc: "dobrovoljca"
+      gen: "dobrovoljca"
+      loc: "dobrovoljcu"
+      dat: "dobrovoljcu"
+      ins: "dobrovoljcem"
+      voc: "dobrovoljče"
+    plural: 
+      nom: "dobrovoljci"
+      acc: "dobrovoljcev"
+      gen: "dobrovoljcev"
+      loc: "dobrovoljcah"
+      dat: "dobrovoljcam"
+      ins: "dobrovoljcami"
+      voc: "dobrovoljci"

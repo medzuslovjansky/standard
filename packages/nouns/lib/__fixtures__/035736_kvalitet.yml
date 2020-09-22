@@ -1,0 +1,22 @@
+---
+  id: "35736"
+  word: "kvalitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kvalitet"
+      acc: "kvalitet"
+      gen: "kvaliteta"
+      loc: "kvalitetu"
+      dat: "kvalitetu"
+      ins: "kvalitetom"
+      voc: "kvalitete"
+    plural: 
+      nom: "kvalitety"
+      acc: "kvalitety"
+      gen: "kvalitetov"
+      loc: "kvalitetah"
+      dat: "kvalitetam"
+      ins: "kvalitetami"
+      voc: "kvalitety"

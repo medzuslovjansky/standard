@@ -1,0 +1,15 @@
+---
+  id: "16485"
+  word: "milosŕďje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "milosŕďje"
+      acc: "milosŕďje"
+      gen: "milosŕďja"
+      loc: "milosŕďju"
+      dat: "milosŕďju"
+      ins: "milosŕďjem"
+      voc: "milosŕďje"

@@ -1,0 +1,22 @@
+---
+  id: "6062"
+  word: "dopisyvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dopisyvańje"
+      acc: "dopisyvańje"
+      gen: "dopisyvańja"
+      loc: "dopisyvańju"
+      dat: "dopisyvańju"
+      ins: "dopisyvańjem"
+      voc: "dopisyvańje"
+    plural: 
+      nom: "dopisyvańja"
+      acc: "dopisyvańja"
+      gen: "dopisyvanij"
+      loc: "dopisyvańjah"
+      dat: "dopisyvańjam"
+      ins: "dopisyvańjami"
+      voc: "dopisyvańja"

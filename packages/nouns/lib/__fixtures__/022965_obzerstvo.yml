@@ -1,0 +1,15 @@
+---
+  id: "22965"
+  word: "obžerstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "obžerstvo"
+      acc: "obžerstvo"
+      gen: "obžerstva"
+      loc: "obžerstvu"
+      dat: "obžerstvu"
+      ins: "obžerstvom"
+      voc: "obžerstvo"

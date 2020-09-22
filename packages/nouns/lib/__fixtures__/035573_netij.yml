@@ -1,0 +1,23 @@
+---
+  id: "35573"
+  word: "netij"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "netij"
+      acc: "netija"
+      gen: "netija"
+      loc: "netiju"
+      dat: "netiju"
+      ins: "netijem"
+      voc: "netiju"
+    plural: 
+      nom: "netiji"
+      acc: "netijev"
+      gen: "netijev"
+      loc: "netijah"
+      dat: "netijam"
+      ins: "netijami"
+      voc: "netiji"

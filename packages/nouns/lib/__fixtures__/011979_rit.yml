@@ -1,0 +1,22 @@
+---
+  id: "11979"
+  word: "riť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "riť"
+      acc: "riť"
+      gen: "riti"
+      loc: "riti"
+      dat: "riti"
+      ins: "riťjų"
+      voc: "riti"
+    plural: 
+      nom: "riti"
+      acc: "riti"
+      gen: "ritij"
+      loc: "riťah"
+      dat: "riťam"
+      ins: "riťami"
+      voc: "riti"

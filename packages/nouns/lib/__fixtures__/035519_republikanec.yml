@@ -1,0 +1,23 @@
+---
+  id: "35519"
+  word: "republikanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "republikanec"
+      acc: "republikanca"
+      gen: "republikanca"
+      loc: "republikancu"
+      dat: "republikancu"
+      ins: "republikancem"
+      voc: "republikanče"
+    plural: 
+      nom: "republikanci"
+      acc: "republikancev"
+      gen: "republikancev"
+      loc: "republikancah"
+      dat: "republikancam"
+      ins: "republikancami"
+      voc: "republikanci"

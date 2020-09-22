@@ -1,0 +1,23 @@
+---
+  id: "21725"
+  word: "dostojnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dostojnik"
+      acc: "dostojnika"
+      gen: "dostojnika"
+      loc: "dostojniku"
+      dat: "dostojniku"
+      ins: "dostojnikom"
+      voc: "dostojniče"
+    plural: 
+      nom: "dostojniki"
+      acc: "dostojnikov"
+      gen: "dostojnikov"
+      loc: "dostojnikah"
+      dat: "dostojnikam"
+      ins: "dostojnikami"
+      voc: "dostojniki"

@@ -1,0 +1,22 @@
+---
+  id: "36073"
+  word: "finik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "finik"
+      acc: "finik"
+      gen: "finika"
+      loc: "finiku"
+      dat: "finiku"
+      ins: "finikom"
+      voc: "finiče"
+    plural: 
+      nom: "finiky"
+      acc: "finiky"
+      gen: "finikov"
+      loc: "finikah"
+      dat: "finikam"
+      ins: "finikami"
+      voc: "finiky"

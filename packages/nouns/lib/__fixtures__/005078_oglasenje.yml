@@ -1,0 +1,22 @@
+---
+  id: "5078"
+  word: "oglåšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oglåšeńje"
+      acc: "oglåšeńje"
+      gen: "oglåšeńja"
+      loc: "oglåšeńju"
+      dat: "oglåšeńju"
+      ins: "oglåšeńjem"
+      voc: "oglåšeńje"
+    plural: 
+      nom: "oglåšeńja"
+      acc: "oglåšeńja"
+      gen: "oglåšenij"
+      loc: "oglåšeńjah"
+      dat: "oglåšeńjam"
+      ins: "oglåšeńjami"
+      voc: "oglåšeńja"

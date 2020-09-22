@@ -1,0 +1,22 @@
+---
+  id: "23438"
+  word: "uvertura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uvertura"
+      acc: "uverturų"
+      gen: "uvertury"
+      loc: "uverturě"
+      dat: "uverturě"
+      ins: "uverturojų"
+      voc: "uverturo"
+    plural: 
+      nom: "uvertury"
+      acc: "uvertury"
+      gen: "uvertur"
+      loc: "uverturah"
+      dat: "uverturam"
+      ins: "uverturami"
+      voc: "uvertury"

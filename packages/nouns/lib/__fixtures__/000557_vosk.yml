@@ -1,0 +1,22 @@
+---
+  id: "557"
+  word: "vosk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vosk"
+      acc: "vosk"
+      gen: "voska"
+      loc: "vosku"
+      dat: "vosku"
+      ins: "voskom"
+      voc: "vosče"
+    plural: 
+      nom: "vosky"
+      acc: "vosky"
+      gen: "voskov"
+      loc: "voskah"
+      dat: "voskam"
+      ins: "voskami"
+      voc: "vosky"

@@ -1,0 +1,22 @@
+---
+  id: "26836"
+  word: "kråtkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråtkosť"
+      acc: "kråtkosť"
+      gen: "kråtkosti"
+      loc: "kråtkosti"
+      dat: "kråtkosti"
+      ins: "kråtkosťjų"
+      voc: "kråtkosti"
+    plural: 
+      nom: "kråtkosti"
+      acc: "kråtkosti"
+      gen: "kråtkostij"
+      loc: "kråtkosťah"
+      dat: "kråtkosťam"
+      ins: "kråtkosťami"
+      voc: "kråtkosti"

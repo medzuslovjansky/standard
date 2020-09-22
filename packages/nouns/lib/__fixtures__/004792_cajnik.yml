@@ -1,0 +1,22 @@
+---
+  id: "4792"
+  word: "čajnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čajnik"
+      acc: "čajnik"
+      gen: "čajnika"
+      loc: "čajniku"
+      dat: "čajniku"
+      ins: "čajnikom"
+      voc: "čajniče"
+    plural: 
+      nom: "čajniky"
+      acc: "čajniky"
+      gen: "čajnikov"
+      loc: "čajnikah"
+      dat: "čajnikam"
+      ins: "čajnikami"
+      voc: "čajniky"

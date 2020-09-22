@@ -1,0 +1,23 @@
+---
+  id: "13238"
+  word: "ukryvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ukryvatelj"
+      acc: "ukryvatelja"
+      gen: "ukryvatelja"
+      loc: "ukryvatelju"
+      dat: "ukryvatelju"
+      ins: "ukryvateljem"
+      voc: "ukryvatelju"
+    plural: 
+      nom: "ukryvatelji"
+      acc: "ukryvateljev"
+      gen: "ukryvateljev"
+      loc: "ukryvateljah"
+      dat: "ukryvateljam"
+      ins: "ukryvateljami"
+      voc: "ukryvatelji"

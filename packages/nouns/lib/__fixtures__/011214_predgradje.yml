@@ -1,0 +1,22 @@
+---
+  id: "11214"
+  word: "prědgråďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědgråďje"
+      acc: "prědgråďje"
+      gen: "prědgråďja"
+      loc: "prědgråďju"
+      dat: "prědgråďju"
+      ins: "prědgråďjem"
+      voc: "prědgråďje"
+    plural: 
+      nom: "prědgråďja"
+      acc: "prědgråďja"
+      gen: "prědgrådij"
+      loc: "prědgråďjah"
+      dat: "prědgråďjam"
+      ins: "prědgråďjami"
+      voc: "prědgråďja"

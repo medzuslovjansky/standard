@@ -1,0 +1,15 @@
+---
+  id: "6165"
+  word: "Abhazija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Abhazija"
+      acc: "Abhazijų"
+      gen: "Abhazije"
+      loc: "Abhaziji"
+      dat: "Abhaziji"
+      ins: "Abhazijejų"
+      voc: "Abhazijo"

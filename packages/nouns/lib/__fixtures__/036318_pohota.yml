@@ -1,0 +1,22 @@
+---
+  id: "36318"
+  word: "pohota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pohota"
+      acc: "pohotų"
+      gen: "pohoty"
+      loc: "pohotě"
+      dat: "pohotě"
+      ins: "pohotojų"
+      voc: "pohoto"
+    plural: 
+      nom: "pohoty"
+      acc: "pohoty"
+      gen: "pohot"
+      loc: "pohotah"
+      dat: "pohotam"
+      ins: "pohotami"
+      voc: "pohoty"

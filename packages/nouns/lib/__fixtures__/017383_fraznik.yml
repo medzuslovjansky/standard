@@ -1,0 +1,22 @@
+---
+  id: "17383"
+  word: "fraznik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fraznik"
+      acc: "fraznik"
+      gen: "fraznika"
+      loc: "frazniku"
+      dat: "frazniku"
+      ins: "fraznikom"
+      voc: "frazniče"
+    plural: 
+      nom: "frazniky"
+      acc: "frazniky"
+      gen: "fraznikov"
+      loc: "fraznikah"
+      dat: "fraznikam"
+      ins: "fraznikami"
+      voc: "frazniky"

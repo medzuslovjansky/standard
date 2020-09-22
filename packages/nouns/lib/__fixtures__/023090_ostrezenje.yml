@@ -1,0 +1,22 @@
+---
+  id: "23090"
+  word: "ostrěžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ostrěžeńje"
+      acc: "ostrěžeńje"
+      gen: "ostrěžeńja"
+      loc: "ostrěžeńju"
+      dat: "ostrěžeńju"
+      ins: "ostrěžeńjem"
+      voc: "ostrěžeńje"
+    plural: 
+      nom: "ostrěžeńja"
+      acc: "ostrěžeńja"
+      gen: "ostrěženij"
+      loc: "ostrěžeńjah"
+      dat: "ostrěžeńjam"
+      ins: "ostrěžeńjami"
+      voc: "ostrěžeńja"

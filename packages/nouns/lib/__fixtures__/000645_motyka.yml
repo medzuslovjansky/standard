@@ -1,0 +1,22 @@
+---
+  id: "645"
+  word: "motyka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "motyka"
+      acc: "motykų"
+      gen: "motyky"
+      loc: "motykě"
+      dat: "motykě"
+      ins: "motykojų"
+      voc: "motyko"
+    plural: 
+      nom: "motyky"
+      acc: "motyky"
+      gen: "motyk"
+      loc: "motykah"
+      dat: "motykam"
+      ins: "motykami"
+      voc: "motyky"

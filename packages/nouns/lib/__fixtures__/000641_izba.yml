@@ -1,0 +1,22 @@
+---
+  id: "641"
+  word: "izba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izba"
+      acc: "izbų"
+      gen: "izby"
+      loc: "izbě"
+      dat: "izbě"
+      ins: "izbojų"
+      voc: "izbo"
+    plural: 
+      nom: "izby"
+      acc: "izby"
+      gen: "izb"
+      loc: "izbah"
+      dat: "izbam"
+      ins: "izbami"
+      voc: "izby"

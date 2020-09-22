@@ -1,0 +1,23 @@
+---
+  id: "11140"
+  word: "pracovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pracovnik"
+      acc: "pracovnika"
+      gen: "pracovnika"
+      loc: "pracovniku"
+      dat: "pracovniku"
+      ins: "pracovnikom"
+      voc: "pracovniče"
+    plural: 
+      nom: "pracovniki"
+      acc: "pracovnikov"
+      gen: "pracovnikov"
+      loc: "pracovnikah"
+      dat: "pracovnikam"
+      ins: "pracovnikami"
+      voc: "pracovniki"

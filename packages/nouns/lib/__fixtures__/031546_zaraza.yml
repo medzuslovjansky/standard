@@ -1,0 +1,22 @@
+---
+  id: "31546"
+  word: "zaraza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaraza"
+      acc: "zarazų"
+      gen: "zarazy"
+      loc: "zarazě"
+      dat: "zarazě"
+      ins: "zarazojų"
+      voc: "zarazo"
+    plural: 
+      nom: "zarazy"
+      acc: "zarazy"
+      gen: "zaraz"
+      loc: "zarazah"
+      dat: "zarazam"
+      ins: "zarazami"
+      voc: "zarazy"

@@ -1,0 +1,23 @@
+---
+  id: "15453"
+  word: "podpaljač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podpaljač"
+      acc: "podpaljača"
+      gen: "podpaljača"
+      loc: "podpaljaču"
+      dat: "podpaljaču"
+      ins: "podpaljačem"
+      voc: "podpaljaču"
+    plural: 
+      nom: "podpaljači"
+      acc: "podpaljačev"
+      gen: "podpaljačev"
+      loc: "podpaljačah"
+      dat: "podpaljačam"
+      ins: "podpaljačami"
+      voc: "podpaljači"

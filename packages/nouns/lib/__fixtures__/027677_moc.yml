@@ -1,0 +1,22 @@
+---
+  id: "27677"
+  word: "moč"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moč"
+      acc: "moč"
+      gen: "moči"
+      loc: "moči"
+      dat: "moči"
+      ins: "močjų"
+      voc: "moči"
+    plural: 
+      nom: "moči"
+      acc: "moči"
+      gen: "močij"
+      loc: "močah"
+      dat: "močam"
+      ins: "močami"
+      voc: "moči"

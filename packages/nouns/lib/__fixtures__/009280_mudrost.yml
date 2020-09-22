@@ -1,0 +1,22 @@
+---
+  id: "9280"
+  word: "mųdrosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųdrosť"
+      acc: "mųdrosť"
+      gen: "mųdrosti"
+      loc: "mųdrosti"
+      dat: "mųdrosti"
+      ins: "mųdrosťjų"
+      voc: "mųdrosti"
+    plural: 
+      nom: "mųdrosti"
+      acc: "mųdrosti"
+      gen: "mųdrostij"
+      loc: "mųdrosťah"
+      dat: "mųdrosťam"
+      ins: "mųdrosťami"
+      voc: "mųdrosti"

@@ -1,0 +1,23 @@
+---
+  id: "4846"
+  word: "inženjer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "inženjer"
+      acc: "inženjera"
+      gen: "inženjera"
+      loc: "inženjeru"
+      dat: "inženjeru"
+      ins: "inženjerom"
+      voc: "inženjere"
+    plural: 
+      nom: "inženjeri"
+      acc: "inženjerov"
+      gen: "inženjerov"
+      loc: "inženjerah"
+      dat: "inženjeram"
+      ins: "inženjerami"
+      voc: "inženjeri"

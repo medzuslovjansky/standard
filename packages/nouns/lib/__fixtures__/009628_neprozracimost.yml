@@ -1,0 +1,22 @@
+---
+  id: "9628"
+  word: "neprozråčimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neprozråčimosť"
+      acc: "neprozråčimosť"
+      gen: "neprozråčimosti"
+      loc: "neprozråčimosti"
+      dat: "neprozråčimosti"
+      ins: "neprozråčimosťjų"
+      voc: "neprozråčimosti"
+    plural: 
+      nom: "neprozråčimosti"
+      acc: "neprozråčimosti"
+      gen: "neprozråčimostij"
+      loc: "neprozråčimosťah"
+      dat: "neprozråčimosťam"
+      ins: "neprozråčimosťami"
+      voc: "neprozråčimosti"

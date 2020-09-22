@@ -1,0 +1,22 @@
+---
+  id: "25252"
+  word: "divan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "divan"
+      acc: "divan"
+      gen: "divana"
+      loc: "divanu"
+      dat: "divanu"
+      ins: "divanom"
+      voc: "divane"
+    plural: 
+      nom: "divany"
+      acc: "divany"
+      gen: "divanov"
+      loc: "divanah"
+      dat: "divanam"
+      ins: "divanami"
+      voc: "divany"

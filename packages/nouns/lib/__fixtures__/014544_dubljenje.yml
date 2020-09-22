@@ -1,0 +1,22 @@
+---
+  id: "14544"
+  word: "dubljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dubljeńje"
+      acc: "dubljeńje"
+      gen: "dubljeńja"
+      loc: "dubljeńju"
+      dat: "dubljeńju"
+      ins: "dubljeńjem"
+      voc: "dubljeńje"
+    plural: 
+      nom: "dubljeńja"
+      acc: "dubljeńja"
+      gen: "dubljenij"
+      loc: "dubljeńjah"
+      dat: "dubljeńjam"
+      ins: "dubljeńjami"
+      voc: "dubljeńja"

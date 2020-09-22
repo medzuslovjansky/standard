@@ -1,0 +1,22 @@
+---
+  id: "4406"
+  word: "mųžstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mųžstvo"
+      acc: "mųžstvo"
+      gen: "mųžstva"
+      loc: "mųžstvu"
+      dat: "mųžstvu"
+      ins: "mųžstvom"
+      voc: "mųžstvo"
+    plural: 
+      nom: "mųžstva"
+      acc: "mųžstva"
+      gen: "mųžstv"
+      loc: "mųžstvah"
+      dat: "mųžstvam"
+      ins: "mųžstvami"
+      voc: "mųžstva"

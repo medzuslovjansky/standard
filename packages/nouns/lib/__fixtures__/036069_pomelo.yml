@@ -1,0 +1,22 @@
+---
+  id: "36069"
+  word: "pomelo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pomelo"
+      acc: "pomelo"
+      gen: "pomela"
+      loc: "pomelu"
+      dat: "pomelu"
+      ins: "pomelom"
+      voc: "pomelo"
+    plural: 
+      nom: "pomela"
+      acc: "pomela"
+      gen: "pomel"
+      loc: "pomelah"
+      dat: "pomelam"
+      ins: "pomelami"
+      voc: "pomela"

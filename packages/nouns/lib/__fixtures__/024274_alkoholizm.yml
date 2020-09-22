@@ -1,0 +1,15 @@
+---
+  id: "24274"
+  word: "alkoholizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "alkoholizm"
+      acc: "alkoholizm"
+      gen: "alkoholizma"
+      loc: "alkoholizmu"
+      dat: "alkoholizmu"
+      ins: "alkoholizmom"
+      voc: "alkoholizme"

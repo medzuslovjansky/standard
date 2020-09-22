@@ -1,0 +1,22 @@
+---
+  id: "19034"
+  word: "udobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "udobnosť"
+      acc: "udobnosť"
+      gen: "udobnosti"
+      loc: "udobnosti"
+      dat: "udobnosti"
+      ins: "udobnosťjų"
+      voc: "udobnosti"
+    plural: 
+      nom: "udobnosti"
+      acc: "udobnosti"
+      gen: "udobnostij"
+      loc: "udobnosťah"
+      dat: "udobnosťam"
+      ins: "udobnosťami"
+      voc: "udobnosti"

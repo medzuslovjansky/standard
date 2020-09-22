@@ -1,0 +1,22 @@
+---
+  id: "1087"
+  word: "tvŕđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tvŕđeńje"
+      acc: "tvŕđeńje"
+      gen: "tvŕđeńja"
+      loc: "tvŕđeńju"
+      dat: "tvŕđeńju"
+      ins: "tvŕđeńjem"
+      voc: "tvŕđeńje"
+    plural: 
+      nom: "tvŕđeńja"
+      acc: "tvŕđeńja"
+      gen: "tvŕđenij"
+      loc: "tvŕđeńjah"
+      dat: "tvŕđeńjam"
+      ins: "tvŕđeńjami"
+      voc: "tvŕđeńja"

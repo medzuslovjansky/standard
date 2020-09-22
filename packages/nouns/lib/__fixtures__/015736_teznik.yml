@@ -1,0 +1,23 @@
+---
+  id: "15736"
+  word: "tęžnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tęžnik"
+      acc: "tęžnika"
+      gen: "tęžnika"
+      loc: "tęžniku"
+      dat: "tęžniku"
+      ins: "tęžnikom"
+      voc: "tęžniče"
+    plural: 
+      nom: "tęžniki"
+      acc: "tęžnikov"
+      gen: "tęžnikov"
+      loc: "tęžnikah"
+      dat: "tęžnikam"
+      ins: "tęžnikami"
+      voc: "tęžniki"

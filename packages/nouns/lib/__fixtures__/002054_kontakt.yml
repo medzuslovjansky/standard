@@ -1,0 +1,22 @@
+---
+  id: "2054"
+  word: "kontakt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontakt"
+      acc: "kontakt"
+      gen: "kontakta"
+      loc: "kontaktu"
+      dat: "kontaktu"
+      ins: "kontaktom"
+      voc: "kontakte"
+    plural: 
+      nom: "kontakty"
+      acc: "kontakty"
+      gen: "kontaktov"
+      loc: "kontaktah"
+      dat: "kontaktam"
+      ins: "kontaktami"
+      voc: "kontakty"

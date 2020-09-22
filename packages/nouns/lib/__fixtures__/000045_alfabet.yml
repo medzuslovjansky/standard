@@ -1,0 +1,22 @@
+---
+  id: "45"
+  word: "alfabet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alfabet"
+      acc: "alfabet"
+      gen: "alfabeta"
+      loc: "alfabetu"
+      dat: "alfabetu"
+      ins: "alfabetom"
+      voc: "alfabete"
+    plural: 
+      nom: "alfabety"
+      acc: "alfabety"
+      gen: "alfabetov"
+      loc: "alfabetah"
+      dat: "alfabetam"
+      ins: "alfabetami"
+      voc: "alfabety"

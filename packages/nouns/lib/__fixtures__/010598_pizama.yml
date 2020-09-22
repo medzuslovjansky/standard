@@ -1,0 +1,22 @@
+---
+  id: "10598"
+  word: "pižama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pižama"
+      acc: "pižamų"
+      gen: "pižamy"
+      loc: "pižamě"
+      dat: "pižamě"
+      ins: "pižamojų"
+      voc: "pižamo"
+    plural: 
+      nom: "pižamy"
+      acc: "pižamy"
+      gen: "pižam"
+      loc: "pižamah"
+      dat: "pižamam"
+      ins: "pižamami"
+      voc: "pižamy"

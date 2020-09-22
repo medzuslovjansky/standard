@@ -1,0 +1,22 @@
+---
+  id: "22429"
+  word: "zavisť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zavisť"
+      acc: "zavisť"
+      gen: "zavisti"
+      loc: "zavisti"
+      dat: "zavisti"
+      ins: "zavisťjų"
+      voc: "zavisti"
+    plural: 
+      nom: "zavisti"
+      acc: "zavisti"
+      gen: "zavistij"
+      loc: "zavisťah"
+      dat: "zavisťam"
+      ins: "zavisťami"
+      voc: "zavisti"

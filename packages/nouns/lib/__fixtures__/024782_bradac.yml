@@ -1,0 +1,23 @@
+---
+  id: "24782"
+  word: "brådač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "brådač"
+      acc: "brådača"
+      gen: "brådača"
+      loc: "brådaču"
+      dat: "brådaču"
+      ins: "brådačem"
+      voc: "brådaču"
+    plural: 
+      nom: "brådači"
+      acc: "brådačev"
+      gen: "brådačev"
+      loc: "brådačah"
+      dat: "brådačam"
+      ins: "brådačami"
+      voc: "brådači"

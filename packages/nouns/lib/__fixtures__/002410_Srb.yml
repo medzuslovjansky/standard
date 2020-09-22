@@ -1,0 +1,23 @@
+---
+  id: "2410"
+  word: "Sŕb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Sŕb"
+      acc: "Sŕba"
+      gen: "Sŕba"
+      loc: "Sŕbu"
+      dat: "Sŕbu"
+      ins: "Sŕbom"
+      voc: "Sŕbe"
+    plural: 
+      nom: "Sŕbi"
+      acc: "Sŕbov"
+      gen: "Sŕbov"
+      loc: "Sŕbah"
+      dat: "Sŕbam"
+      ins: "Sŕbami"
+      voc: "Sŕbi"

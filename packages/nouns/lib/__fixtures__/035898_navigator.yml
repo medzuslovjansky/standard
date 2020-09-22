@@ -1,0 +1,23 @@
+---
+  id: "35898"
+  word: "navigator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "navigator"
+      acc: "navigatora"
+      gen: "navigatora"
+      loc: "navigatoru"
+      dat: "navigatoru"
+      ins: "navigatorom"
+      voc: "navigatore"
+    plural: 
+      nom: "navigatori"
+      acc: "navigatorov"
+      gen: "navigatorov"
+      loc: "navigatorah"
+      dat: "navigatoram"
+      ins: "navigatorami"
+      voc: "navigatori"

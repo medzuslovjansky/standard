@@ -1,0 +1,22 @@
+---
+  id: "33599"
+  word: "izstrěl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izstrěl"
+      acc: "izstrěl"
+      gen: "izstrěla"
+      loc: "izstrělu"
+      dat: "izstrělu"
+      ins: "izstrělom"
+      voc: "izstrěle"
+    plural: 
+      nom: "izstrěly"
+      acc: "izstrěly"
+      gen: "izstrělov"
+      loc: "izstrělah"
+      dat: "izstrělam"
+      ins: "izstrělami"
+      voc: "izstrěly"

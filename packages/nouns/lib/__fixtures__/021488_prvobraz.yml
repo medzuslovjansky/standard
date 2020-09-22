@@ -1,0 +1,22 @@
+---
+  id: "21488"
+  word: "pŕvobraz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕvobraz"
+      acc: "pŕvobraz"
+      gen: "pŕvobraza"
+      loc: "pŕvobrazu"
+      dat: "pŕvobrazu"
+      ins: "pŕvobrazom"
+      voc: "pŕvobraze"
+    plural: 
+      nom: "pŕvobrazy"
+      acc: "pŕvobrazy"
+      gen: "pŕvobrazov"
+      loc: "pŕvobrazah"
+      dat: "pŕvobrazam"
+      ins: "pŕvobrazami"
+      voc: "pŕvobrazy"

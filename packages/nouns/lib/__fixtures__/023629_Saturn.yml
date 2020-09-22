@@ -1,0 +1,15 @@
+---
+  id: "23629"
+  word: "Saturn"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Saturn"
+      acc: "Saturn"
+      gen: "Saturna"
+      loc: "Saturnu"
+      dat: "Saturnu"
+      ins: "Saturnom"
+      voc: "Saturne"

@@ -1,0 +1,22 @@
+---
+  id: "5497"
+  word: "izjezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izjezd"
+      acc: "izjezd"
+      gen: "izjezda"
+      loc: "izjezdu"
+      dat: "izjezdu"
+      ins: "izjezdom"
+      voc: "izjezde"
+    plural: 
+      nom: "izjezdy"
+      acc: "izjezdy"
+      gen: "izjezdov"
+      loc: "izjezdah"
+      dat: "izjezdam"
+      ins: "izjezdami"
+      voc: "izjezdy"

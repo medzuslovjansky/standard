@@ -1,0 +1,15 @@
+---
+  id: "22554"
+  word: "verigy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "verigy"
+      acc: "verigy"
+      gen: "verig"
+      loc: "verigah"
+      dat: "verigam"
+      ins: "verigami"
+      voc: "verigy"

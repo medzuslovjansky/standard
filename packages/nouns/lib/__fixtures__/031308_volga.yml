@@ -1,0 +1,22 @@
+---
+  id: "31308"
+  word: "vȯlga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯlga"
+      acc: "vȯlgų"
+      gen: "vȯlgy"
+      loc: "vȯlgě"
+      dat: "vȯlgě"
+      ins: "vȯlgojų"
+      voc: "vȯlgo"
+    plural: 
+      nom: "vȯlgy"
+      acc: "vȯlgy"
+      gen: "vȯlg"
+      loc: "vȯlgah"
+      dat: "vȯlgam"
+      ins: "vȯlgami"
+      voc: "vȯlgy"

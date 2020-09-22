@@ -1,0 +1,22 @@
+---
+  id: "1014"
+  word: "nož"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nož"
+      acc: "nož"
+      gen: "noža"
+      loc: "nožu"
+      dat: "nožu"
+      ins: "nožem"
+      voc: "nožu"
+    plural: 
+      nom: "nože"
+      acc: "nože"
+      gen: "nožev"
+      loc: "nožah"
+      dat: "nožam"
+      ins: "nožami"
+      voc: "nože"

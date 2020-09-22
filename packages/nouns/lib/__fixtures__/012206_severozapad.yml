@@ -1,0 +1,15 @@
+---
+  id: "12206"
+  word: "sěverozapad"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sěverozapad"
+      acc: "sěverozapad"
+      gen: "sěverozapada"
+      loc: "sěverozapadu"
+      dat: "sěverozapadu"
+      ins: "sěverozapadom"
+      voc: "sěverozapade"

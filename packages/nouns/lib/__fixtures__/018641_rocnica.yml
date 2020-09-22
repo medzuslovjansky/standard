@@ -1,0 +1,22 @@
+---
+  id: "18641"
+  word: "ročnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ročnica"
+      acc: "ročnicų"
+      gen: "ročnice"
+      loc: "ročnici"
+      dat: "ročnici"
+      ins: "ročnicejų"
+      voc: "ročnico"
+    plural: 
+      nom: "ročnice"
+      acc: "ročnice"
+      gen: "ročnic"
+      loc: "ročnicah"
+      dat: "ročnicam"
+      ins: "ročnicami"
+      voc: "ročnice"

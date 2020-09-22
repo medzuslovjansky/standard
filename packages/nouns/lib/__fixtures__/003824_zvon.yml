@@ -1,0 +1,22 @@
+---
+  id: "3824"
+  word: "zvon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvon"
+      acc: "zvon"
+      gen: "zvona"
+      loc: "zvonu"
+      dat: "zvonu"
+      ins: "zvonom"
+      voc: "zvone"
+    plural: 
+      nom: "zvony"
+      acc: "zvony"
+      gen: "zvonov"
+      loc: "zvonah"
+      dat: "zvonam"
+      ins: "zvonami"
+      voc: "zvony"

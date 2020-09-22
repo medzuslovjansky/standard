@@ -1,0 +1,22 @@
+---
+  id: "1446"
+  word: "surpriz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "surpriz"
+      acc: "surpriz"
+      gen: "surpriza"
+      loc: "surprizu"
+      dat: "surprizu"
+      ins: "surprizom"
+      voc: "surprize"
+    plural: 
+      nom: "surprizy"
+      acc: "surprizy"
+      gen: "surprizov"
+      loc: "surprizah"
+      dat: "surprizam"
+      ins: "surprizami"
+      voc: "surprizy"

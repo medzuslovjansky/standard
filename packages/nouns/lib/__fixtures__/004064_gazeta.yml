@@ -1,0 +1,22 @@
+---
+  id: "4064"
+  word: "gazeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gazeta"
+      acc: "gazetų"
+      gen: "gazety"
+      loc: "gazetě"
+      dat: "gazetě"
+      ins: "gazetojų"
+      voc: "gazeto"
+    plural: 
+      nom: "gazety"
+      acc: "gazety"
+      gen: "gazet"
+      loc: "gazetah"
+      dat: "gazetam"
+      ins: "gazetami"
+      voc: "gazety"

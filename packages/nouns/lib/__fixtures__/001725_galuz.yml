@@ -1,0 +1,22 @@
+---
+  id: "1725"
+  word: "galųź"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galųź"
+      acc: "galųź"
+      gen: "galųzi"
+      loc: "galųzi"
+      dat: "galųzi"
+      ins: "galųźjų"
+      voc: "galųzi"
+    plural: 
+      nom: "galųzi"
+      acc: "galųzi"
+      gen: "galųzij"
+      loc: "galųźah"
+      dat: "galųźam"
+      ins: "galųźami"
+      voc: "galųzi"

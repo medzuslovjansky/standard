@@ -1,0 +1,15 @@
+---
+  id: "30761"
+  word: "spěvańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "spěvańje"
+      acc: "spěvańje"
+      gen: "spěvańja"
+      loc: "spěvańju"
+      dat: "spěvańju"
+      ins: "spěvańjem"
+      voc: "spěvańje"

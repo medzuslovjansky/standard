@@ -1,0 +1,22 @@
+---
+  id: "9878"
+  word: "obrězańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obrězańje"
+      acc: "obrězańje"
+      gen: "obrězańja"
+      loc: "obrězańju"
+      dat: "obrězańju"
+      ins: "obrězańjem"
+      voc: "obrězańje"
+    plural: 
+      nom: "obrězańja"
+      acc: "obrězańja"
+      gen: "obrězanij"
+      loc: "obrězańjah"
+      dat: "obrězańjam"
+      ins: "obrězańjami"
+      voc: "obrězańja"

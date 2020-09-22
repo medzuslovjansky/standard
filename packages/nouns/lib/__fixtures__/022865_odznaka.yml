@@ -1,0 +1,22 @@
+---
+  id: "22865"
+  word: "odznaka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odznaka"
+      acc: "odznakų"
+      gen: "odznaky"
+      loc: "odznakě"
+      dat: "odznakě"
+      ins: "odznakojų"
+      voc: "odznako"
+    plural: 
+      nom: "odznaky"
+      acc: "odznaky"
+      gen: "odznak"
+      loc: "odznakah"
+      dat: "odznakam"
+      ins: "odznakami"
+      voc: "odznaky"

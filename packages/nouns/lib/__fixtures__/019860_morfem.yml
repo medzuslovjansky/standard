@@ -1,0 +1,22 @@
+---
+  id: "19860"
+  word: "morfem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "morfem"
+      acc: "morfem"
+      gen: "morfema"
+      loc: "morfemu"
+      dat: "morfemu"
+      ins: "morfemom"
+      voc: "morfeme"
+    plural: 
+      nom: "morfemy"
+      acc: "morfemy"
+      gen: "morfemov"
+      loc: "morfemah"
+      dat: "morfemam"
+      ins: "morfemami"
+      voc: "morfemy"

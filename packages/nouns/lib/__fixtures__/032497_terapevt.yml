@@ -1,0 +1,23 @@
+---
+  id: "32497"
+  word: "terapevt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "terapevt"
+      acc: "terapevta"
+      gen: "terapevta"
+      loc: "terapevtu"
+      dat: "terapevtu"
+      ins: "terapevtom"
+      voc: "terapevte"
+    plural: 
+      nom: "terapevti"
+      acc: "terapevtov"
+      gen: "terapevtov"
+      loc: "terapevtah"
+      dat: "terapevtam"
+      ins: "terapevtami"
+      voc: "terapevti"

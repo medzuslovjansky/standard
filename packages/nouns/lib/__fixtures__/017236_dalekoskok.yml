@@ -1,0 +1,22 @@
+---
+  id: "17236"
+  word: "dalekoskok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dalekoskok"
+      acc: "dalekoskok"
+      gen: "dalekoskoka"
+      loc: "dalekoskoku"
+      dat: "dalekoskoku"
+      ins: "dalekoskokom"
+      voc: "dalekoskoče"
+    plural: 
+      nom: "dalekoskoky"
+      acc: "dalekoskoky"
+      gen: "dalekoskokov"
+      loc: "dalekoskokah"
+      dat: "dalekoskokam"
+      ins: "dalekoskokami"
+      voc: "dalekoskoky"

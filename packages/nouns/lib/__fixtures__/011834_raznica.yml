@@ -1,0 +1,22 @@
+---
+  id: "11834"
+  word: "råznica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råznica"
+      acc: "råznicų"
+      gen: "råznice"
+      loc: "råznici"
+      dat: "råznici"
+      ins: "råznicejų"
+      voc: "råznico"
+    plural: 
+      nom: "råznice"
+      acc: "råznice"
+      gen: "råznic"
+      loc: "råznicah"
+      dat: "råznicam"
+      ins: "råznicami"
+      voc: "råznice"

@@ -1,0 +1,22 @@
+---
+  id: "19253"
+  word: "vråžka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vråžka"
+      acc: "vråžkų"
+      gen: "vråžky"
+      loc: "vråžkě"
+      dat: "vråžkě"
+      ins: "vråžkojų"
+      voc: "vråžko"
+    plural: 
+      nom: "vråžky"
+      acc: "vråžky"
+      gen: "vråžek"
+      loc: "vråžkah"
+      dat: "vråžkam"
+      ins: "vråžkami"
+      voc: "vråžky"

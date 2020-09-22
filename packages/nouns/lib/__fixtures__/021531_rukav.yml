@@ -1,0 +1,22 @@
+---
+  id: "21531"
+  word: "rųkav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rųkav"
+      acc: "rųkav"
+      gen: "rųkava"
+      loc: "rųkavu"
+      dat: "rųkavu"
+      ins: "rųkavom"
+      voc: "rųkave"
+    plural: 
+      nom: "rųkavy"
+      acc: "rųkavy"
+      gen: "rųkavov"
+      loc: "rųkavah"
+      dat: "rųkavam"
+      ins: "rųkavami"
+      voc: "rųkavy"

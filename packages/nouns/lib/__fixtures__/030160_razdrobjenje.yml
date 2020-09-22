@@ -1,0 +1,22 @@
+---
+  id: "30160"
+  word: "råzdrobjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzdrobjeńje"
+      acc: "råzdrobjeńje"
+      gen: "råzdrobjeńja"
+      loc: "råzdrobjeńju"
+      dat: "råzdrobjeńju"
+      ins: "råzdrobjeńjem"
+      voc: "råzdrobjeńje"
+    plural: 
+      nom: "råzdrobjeńja"
+      acc: "råzdrobjeńja"
+      gen: "råzdrobjenij"
+      loc: "råzdrobjeńjah"
+      dat: "råzdrobjeńjam"
+      ins: "råzdrobjeńjami"
+      voc: "råzdrobjeńja"

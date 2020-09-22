@@ -1,0 +1,22 @@
+---
+  id: "34788"
+  word: "orěšarka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "orěšarka"
+      acc: "orěšarkų"
+      gen: "orěšarky"
+      loc: "orěšarkě"
+      dat: "orěšarkě"
+      ins: "orěšarkojų"
+      voc: "orěšarko"
+    plural: 
+      nom: "orěšarky"
+      acc: "orěšarky"
+      gen: "orěšarȯk"
+      loc: "orěšarkah"
+      dat: "orěšarkam"
+      ins: "orěšarkami"
+      voc: "orěšarky"

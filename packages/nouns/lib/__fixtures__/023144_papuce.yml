@@ -1,0 +1,15 @@
+---
+  id: "23144"
+  word: "papuče"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "papuče"
+      acc: "papuče"
+      gen: "papuč"
+      loc: "papučah"
+      dat: "papučam"
+      ins: "papučami"
+      voc: "papuče"

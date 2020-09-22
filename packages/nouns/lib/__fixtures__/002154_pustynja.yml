@@ -1,0 +1,22 @@
+---
+  id: "2154"
+  word: "pustynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pustynja"
+      acc: "pustynjų"
+      gen: "pustynje"
+      loc: "pustynji"
+      dat: "pustynji"
+      ins: "pustynjejų"
+      voc: "pustynjo"
+    plural: 
+      nom: "pustynje"
+      acc: "pustynje"
+      gen: "pustynej"
+      loc: "pustynjah"
+      dat: "pustynjam"
+      ins: "pustynjami"
+      voc: "pustynje"

@@ -1,0 +1,22 @@
+---
+  id: "6928"
+  word: "ćuđinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ćuđinka"
+      acc: "ćuđinkų"
+      gen: "ćuđinky"
+      loc: "ćuđinkě"
+      dat: "ćuđinkě"
+      ins: "ćuđinkojų"
+      voc: "ćuđinko"
+    plural: 
+      nom: "ćuđinky"
+      acc: "ćuđinky"
+      gen: "ćuđinȯk"
+      loc: "ćuđinkah"
+      dat: "ćuđinkam"
+      ins: "ćuđinkami"
+      voc: "ćuđinky"

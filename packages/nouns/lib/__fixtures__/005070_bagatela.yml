@@ -1,0 +1,22 @@
+---
+  id: "5070"
+  word: "bagatela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bagatela"
+      acc: "bagatelų"
+      gen: "bagately"
+      loc: "bagatelě"
+      dat: "bagatelě"
+      ins: "bagatelojų"
+      voc: "bagatelo"
+    plural: 
+      nom: "bagately"
+      acc: "bagately"
+      gen: "bagatel"
+      loc: "bagatelah"
+      dat: "bagatelam"
+      ins: "bagatelami"
+      voc: "bagately"

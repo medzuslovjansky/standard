@@ -1,0 +1,22 @@
+---
+  id: "3806"
+  word: "zapis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapis"
+      acc: "zapis"
+      gen: "zapisa"
+      loc: "zapisu"
+      dat: "zapisu"
+      ins: "zapisom"
+      voc: "zapise"
+    plural: 
+      nom: "zapisy"
+      acc: "zapisy"
+      gen: "zapisov"
+      loc: "zapisah"
+      dat: "zapisam"
+      ins: "zapisami"
+      voc: "zapisy"

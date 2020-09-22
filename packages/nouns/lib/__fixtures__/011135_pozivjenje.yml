@@ -1,0 +1,22 @@
+---
+  id: "11135"
+  word: "poživjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poživjeńje"
+      acc: "poživjeńje"
+      gen: "poživjeńja"
+      loc: "poživjeńju"
+      dat: "poživjeńju"
+      ins: "poživjeńjem"
+      voc: "poživjeńje"
+    plural: 
+      nom: "poživjeńja"
+      acc: "poživjeńja"
+      gen: "poživjenij"
+      loc: "poživjeńjah"
+      dat: "poživjeńjam"
+      ins: "poživjeńjami"
+      voc: "poživjeńja"

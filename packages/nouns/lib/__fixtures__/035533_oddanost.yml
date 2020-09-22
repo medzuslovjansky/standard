@@ -1,0 +1,22 @@
+---
+  id: "35533"
+  word: "oddanosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oddanosť"
+      acc: "oddanosť"
+      gen: "oddanosti"
+      loc: "oddanosti"
+      dat: "oddanosti"
+      ins: "oddanosťjų"
+      voc: "oddanosti"
+    plural: 
+      nom: "oddanosti"
+      acc: "oddanosti"
+      gen: "oddanostij"
+      loc: "oddanosťah"
+      dat: "oddanosťam"
+      ins: "oddanosťami"
+      voc: "oddanosti"

@@ -1,0 +1,22 @@
+---
+  id: "1822"
+  word: "syr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "syr"
+      acc: "syr"
+      gen: "syra"
+      loc: "syru"
+      dat: "syru"
+      ins: "syrom"
+      voc: "syre"
+    plural: 
+      nom: "syry"
+      acc: "syry"
+      gen: "syrov"
+      loc: "syrah"
+      dat: "syram"
+      ins: "syrami"
+      voc: "syry"

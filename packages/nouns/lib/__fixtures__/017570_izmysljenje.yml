@@ -1,0 +1,22 @@
+---
+  id: "17570"
+  word: "izmysljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izmysljeńje"
+      acc: "izmysljeńje"
+      gen: "izmysljeńja"
+      loc: "izmysljeńju"
+      dat: "izmysljeńju"
+      ins: "izmysljeńjem"
+      voc: "izmysljeńje"
+    plural: 
+      nom: "izmysljeńja"
+      acc: "izmysljeńja"
+      gen: "izmysljenij"
+      loc: "izmysljeńjah"
+      dat: "izmysljeńjam"
+      ins: "izmysljeńjami"
+      voc: "izmysljeńja"

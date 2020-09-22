@@ -1,0 +1,15 @@
+---
+  id: "2448"
+  word: "Běloruś"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Běloruś"
+      acc: "Běloruś"
+      gen: "Bělorusi"
+      loc: "Bělorusi"
+      dat: "Bělorusi"
+      ins: "Běloruśjų"
+      voc: "Bělorusi"

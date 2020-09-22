@@ -1,0 +1,22 @@
+---
+  id: "35512"
+  word: "intriga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "intriga"
+      acc: "intrigų"
+      gen: "intrigy"
+      loc: "intrigě"
+      dat: "intrigě"
+      ins: "intrigojų"
+      voc: "intrigo"
+    plural: 
+      nom: "intrigy"
+      acc: "intrigy"
+      gen: "intrig"
+      loc: "intrigah"
+      dat: "intrigam"
+      ins: "intrigami"
+      voc: "intrigy"

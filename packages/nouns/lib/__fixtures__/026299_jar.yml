@@ -1,0 +1,22 @@
+---
+  id: "26299"
+  word: "jar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jar"
+      acc: "jar"
+      gen: "jara"
+      loc: "jaru"
+      dat: "jaru"
+      ins: "jarom"
+      voc: "jare"
+    plural: 
+      nom: "jary"
+      acc: "jary"
+      gen: "jarov"
+      loc: "jarah"
+      dat: "jaram"
+      ins: "jarami"
+      voc: "jary"

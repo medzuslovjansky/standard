@@ -1,0 +1,22 @@
+---
+  id: "28669"
+  word: "novina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "novina"
+      acc: "novinų"
+      gen: "noviny"
+      loc: "novině"
+      dat: "novině"
+      ins: "novinojų"
+      voc: "novino"
+    plural: 
+      nom: "noviny"
+      acc: "noviny"
+      gen: "novin"
+      loc: "novinah"
+      dat: "novinam"
+      ins: "novinami"
+      voc: "noviny"

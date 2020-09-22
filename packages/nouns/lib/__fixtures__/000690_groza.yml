@@ -1,0 +1,22 @@
+---
+  id: "690"
+  word: "groza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "groza"
+      acc: "grozų"
+      gen: "grozy"
+      loc: "grozě"
+      dat: "grozě"
+      ins: "grozojų"
+      voc: "grozo"
+    plural: 
+      nom: "grozy"
+      acc: "grozy"
+      gen: "groz"
+      loc: "grozah"
+      dat: "grozam"
+      ins: "grozami"
+      voc: "grozy"

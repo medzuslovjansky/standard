@@ -1,0 +1,22 @@
+---
+  id: "25518"
+  word: "furgon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "furgon"
+      acc: "furgon"
+      gen: "furgona"
+      loc: "furgonu"
+      dat: "furgonu"
+      ins: "furgonom"
+      voc: "furgone"
+    plural: 
+      nom: "furgony"
+      acc: "furgony"
+      gen: "furgonov"
+      loc: "furgonah"
+      dat: "furgonam"
+      ins: "furgonami"
+      voc: "furgony"

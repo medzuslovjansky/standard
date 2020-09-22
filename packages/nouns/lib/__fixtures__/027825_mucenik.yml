@@ -1,0 +1,23 @@
+---
+  id: "27825"
+  word: "mųčenik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mųčenik"
+      acc: "mųčenika"
+      gen: "mųčenika"
+      loc: "mųčeniku"
+      dat: "mųčeniku"
+      ins: "mųčenikom"
+      voc: "mųčeniče"
+    plural: 
+      nom: "mųčeniki"
+      acc: "mųčenikov"
+      gen: "mųčenikov"
+      loc: "mųčenikah"
+      dat: "mųčenikam"
+      ins: "mųčenikami"
+      voc: "mųčeniki"

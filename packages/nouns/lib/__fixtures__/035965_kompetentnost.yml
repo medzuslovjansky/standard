@@ -1,0 +1,22 @@
+---
+  id: "35965"
+  word: "kompetentnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompetentnosť"
+      acc: "kompetentnosť"
+      gen: "kompetentnosti"
+      loc: "kompetentnosti"
+      dat: "kompetentnosti"
+      ins: "kompetentnosťjų"
+      voc: "kompetentnosti"
+    plural: 
+      nom: "kompetentnosti"
+      acc: "kompetentnosti"
+      gen: "kompetentnostij"
+      loc: "kompetentnosťah"
+      dat: "kompetentnosťam"
+      ins: "kompetentnosťami"
+      voc: "kompetentnosti"

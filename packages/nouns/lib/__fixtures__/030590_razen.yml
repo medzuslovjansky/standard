@@ -1,0 +1,23 @@
+---
+  id: "30590"
+  word: "råžen"
+  meta: 
+    irregularity: "(råzna)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råžen"
+      acc: "råžen"
+      gen: "råžena"
+      loc: "råženu"
+      dat: "råženu"
+      ins: "råženom"
+      voc: "råžene"
+    plural: 
+      nom: "råženy"
+      acc: "råženy"
+      gen: "råženov"
+      loc: "råženah"
+      dat: "råženam"
+      ins: "råženami"
+      voc: "råženy"

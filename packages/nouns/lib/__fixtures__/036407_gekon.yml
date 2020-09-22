@@ -1,0 +1,23 @@
+---
+  id: "36407"
+  word: "gekon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gekon"
+      acc: "gekona"
+      gen: "gekona"
+      loc: "gekonu"
+      dat: "gekonu"
+      ins: "gekonom"
+      voc: "gekone"
+    plural: 
+      nom: "gekoni"
+      acc: "gekonov"
+      gen: "gekonov"
+      loc: "gekonah"
+      dat: "gekonam"
+      ins: "gekonami"
+      voc: "gekoni"

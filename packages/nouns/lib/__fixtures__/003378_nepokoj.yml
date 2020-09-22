@@ -1,0 +1,15 @@
+---
+  id: "3378"
+  word: "nepokoj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nepokoj"
+      acc: "nepokoj"
+      gen: "nepokoja"
+      loc: "nepokoju"
+      dat: "nepokoju"
+      ins: "nepokojem"
+      voc: "nepokoju"

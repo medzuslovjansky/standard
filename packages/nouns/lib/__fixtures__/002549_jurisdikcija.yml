@@ -1,0 +1,22 @@
+---
+  id: "2549"
+  word: "jurisdikcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jurisdikcija"
+      acc: "jurisdikcijų"
+      gen: "jurisdikcije"
+      loc: "jurisdikciji"
+      dat: "jurisdikciji"
+      ins: "jurisdikcijejų"
+      voc: "jurisdikcijo"
+    plural: 
+      nom: "jurisdikcije"
+      acc: "jurisdikcije"
+      gen: "jurisdikcij"
+      loc: "jurisdikcijah"
+      dat: "jurisdikcijam"
+      ins: "jurisdikcijami"
+      voc: "jurisdikcije"

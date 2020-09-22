@@ -1,0 +1,23 @@
+---
+  id: "12727"
+  word: "surfist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "surfist"
+      acc: "surfista"
+      gen: "surfista"
+      loc: "surfistu"
+      dat: "surfistu"
+      ins: "surfistom"
+      voc: "surfiste"
+    plural: 
+      nom: "surfisti"
+      acc: "surfistov"
+      gen: "surfistov"
+      loc: "surfistah"
+      dat: "surfistam"
+      ins: "surfistami"
+      voc: "surfisti"

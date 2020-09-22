@@ -1,0 +1,22 @@
+---
+  id: "3441"
+  word: "napad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napad"
+      acc: "napad"
+      gen: "napada"
+      loc: "napadu"
+      dat: "napadu"
+      ins: "napadom"
+      voc: "napade"
+    plural: 
+      nom: "napady"
+      acc: "napady"
+      gen: "napadov"
+      loc: "napadah"
+      dat: "napadam"
+      ins: "napadami"
+      voc: "napady"

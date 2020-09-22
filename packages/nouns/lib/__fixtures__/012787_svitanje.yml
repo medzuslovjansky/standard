@@ -1,0 +1,22 @@
+---
+  id: "12787"
+  word: "svitańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svitańje"
+      acc: "svitańje"
+      gen: "svitańja"
+      loc: "svitańju"
+      dat: "svitańju"
+      ins: "svitańjem"
+      voc: "svitańje"
+    plural: 
+      nom: "svitańja"
+      acc: "svitańja"
+      gen: "svitanij"
+      loc: "svitańjah"
+      dat: "svitańjam"
+      ins: "svitańjami"
+      voc: "svitańja"

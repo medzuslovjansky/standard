@@ -1,0 +1,22 @@
+---
+  id: "28627"
+  word: "njuans"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "njuans"
+      acc: "njuans"
+      gen: "njuansa"
+      loc: "njuansu"
+      dat: "njuansu"
+      ins: "njuansom"
+      voc: "njuanse"
+    plural: 
+      nom: "njuansy"
+      acc: "njuansy"
+      gen: "njuansov"
+      loc: "njuansah"
+      dat: "njuansam"
+      ins: "njuansami"
+      voc: "njuansy"

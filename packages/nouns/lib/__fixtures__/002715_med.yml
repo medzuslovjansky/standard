@@ -1,0 +1,45 @@
+---
+  - 
+    id: "2715"
+    word: "měď"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "měď"
+        acc: "měď"
+        gen: "měďa"
+        loc: "měďu"
+        dat: "měďu"
+        ins: "měďem"
+        voc: "měďu"
+      plural: 
+        nom: "měďe"
+        acc: "měďe"
+        gen: "měďev"
+        loc: "měďah"
+        dat: "měďam"
+        ins: "měďami"
+        voc: "měďe"
+  - 
+    id: "2715"
+    word: "měď"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "měď"
+        acc: "měď"
+        gen: "mědi"
+        loc: "mědi"
+        dat: "mědi"
+        ins: "měďjų"
+        voc: "mědi"
+      plural: 
+        nom: "mědi"
+        acc: "mědi"
+        gen: "mědij"
+        loc: "měďah"
+        dat: "měďam"
+        ins: "měďami"
+        voc: "mědi"

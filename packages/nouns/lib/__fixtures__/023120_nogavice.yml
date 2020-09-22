@@ -1,0 +1,15 @@
+---
+  id: "23120"
+  word: "nogavice"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nogavice"
+      acc: "nogavice"
+      gen: "nogavic"
+      loc: "nogavicah"
+      dat: "nogavicam"
+      ins: "nogavicami"
+      voc: "nogavice"

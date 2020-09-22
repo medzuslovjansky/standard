@@ -1,0 +1,15 @@
+---
+  id: "34785"
+  word: "makijaž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "makijaž"
+      acc: "makijaž"
+      gen: "makijaža"
+      loc: "makijažu"
+      dat: "makijažu"
+      ins: "makijažem"
+      voc: "makijažu"

@@ -1,0 +1,15 @@
+---
+  id: "36589"
+  word: "zaležnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zaležnosť"
+      acc: "zaležnosť"
+      gen: "zaležnosti"
+      loc: "zaležnosti"
+      dat: "zaležnosti"
+      ins: "zaležnosťjų"
+      voc: "zaležnosti"

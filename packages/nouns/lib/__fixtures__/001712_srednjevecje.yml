@@ -1,0 +1,15 @@
+---
+  id: "1712"
+  word: "srědnjevěčje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "srědnjevěčje"
+      acc: "srědnjevěčje"
+      gen: "srědnjevěčja"
+      loc: "srědnjevěčju"
+      dat: "srědnjevěčju"
+      ins: "srědnjevěčjem"
+      voc: "srědnjevěčje"

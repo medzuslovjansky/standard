@@ -1,0 +1,22 @@
+---
+  id: "18366"
+  word: "povŕhnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povŕhnosť"
+      acc: "povŕhnosť"
+      gen: "povŕhnosti"
+      loc: "povŕhnosti"
+      dat: "povŕhnosti"
+      ins: "povŕhnosťjų"
+      voc: "povŕhnosti"
+    plural: 
+      nom: "povŕhnosti"
+      acc: "povŕhnosti"
+      gen: "povŕhnostij"
+      loc: "povŕhnosťah"
+      dat: "povŕhnosťam"
+      ins: "povŕhnosťami"
+      voc: "povŕhnosti"

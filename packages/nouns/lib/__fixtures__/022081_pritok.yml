@@ -1,0 +1,22 @@
+---
+  id: "22081"
+  word: "pritok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pritok"
+      acc: "pritok"
+      gen: "pritoka"
+      loc: "pritoku"
+      dat: "pritoku"
+      ins: "pritokom"
+      voc: "pritoče"
+    plural: 
+      nom: "pritoky"
+      acc: "pritoky"
+      gen: "pritokov"
+      loc: "pritokah"
+      dat: "pritokam"
+      ins: "pritokami"
+      voc: "pritoky"

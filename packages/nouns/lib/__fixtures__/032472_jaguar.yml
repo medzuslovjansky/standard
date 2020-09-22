@@ -1,0 +1,23 @@
+---
+  id: "32472"
+  word: "jaguar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jaguar"
+      acc: "jaguara"
+      gen: "jaguara"
+      loc: "jaguaru"
+      dat: "jaguaru"
+      ins: "jaguarom"
+      voc: "jaguare"
+    plural: 
+      nom: "jaguari"
+      acc: "jaguarov"
+      gen: "jaguarov"
+      loc: "jaguarah"
+      dat: "jaguaram"
+      ins: "jaguarami"
+      voc: "jaguari"

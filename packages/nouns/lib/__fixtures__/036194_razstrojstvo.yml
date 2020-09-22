@@ -1,0 +1,22 @@
+---
+  id: "36194"
+  word: "råzstrojstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzstrojstvo"
+      acc: "råzstrojstvo"
+      gen: "råzstrojstva"
+      loc: "råzstrojstvu"
+      dat: "råzstrojstvu"
+      ins: "råzstrojstvom"
+      voc: "råzstrojstvo"
+    plural: 
+      nom: "råzstrojstva"
+      acc: "råzstrojstva"
+      gen: "råzstrojstv"
+      loc: "råzstrojstvah"
+      dat: "råzstrojstvam"
+      ins: "råzstrojstvami"
+      voc: "råzstrojstva"

@@ -1,0 +1,23 @@
+---
+  id: "32499"
+  word: "fizioterapist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fizioterapist"
+      acc: "fizioterapista"
+      gen: "fizioterapista"
+      loc: "fizioterapistu"
+      dat: "fizioterapistu"
+      ins: "fizioterapistom"
+      voc: "fizioterapiste"
+    plural: 
+      nom: "fizioterapisti"
+      acc: "fizioterapistov"
+      gen: "fizioterapistov"
+      loc: "fizioterapistah"
+      dat: "fizioterapistam"
+      ins: "fizioterapistami"
+      voc: "fizioterapisti"

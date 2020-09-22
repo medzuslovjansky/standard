@@ -1,0 +1,22 @@
+---
+  id: "34947"
+  word: "integracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "integracija"
+      acc: "integracijų"
+      gen: "integracije"
+      loc: "integraciji"
+      dat: "integraciji"
+      ins: "integracijejų"
+      voc: "integracijo"
+    plural: 
+      nom: "integracije"
+      acc: "integracije"
+      gen: "integracij"
+      loc: "integracijah"
+      dat: "integracijam"
+      ins: "integracijami"
+      voc: "integracije"

@@ -1,0 +1,22 @@
+---
+  id: "35958"
+  word: "sråst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sråst"
+      acc: "sråst"
+      gen: "sråsta"
+      loc: "sråstu"
+      dat: "sråstu"
+      ins: "sråstom"
+      voc: "sråste"
+    plural: 
+      nom: "sråsty"
+      acc: "sråsty"
+      gen: "sråstov"
+      loc: "sråstah"
+      dat: "sråstam"
+      ins: "sråstami"
+      voc: "sråsty"

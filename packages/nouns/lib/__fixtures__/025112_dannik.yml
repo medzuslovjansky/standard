@@ -1,0 +1,23 @@
+---
+  id: "25112"
+  word: "dannik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dannik"
+      acc: "dannika"
+      gen: "dannika"
+      loc: "danniku"
+      dat: "danniku"
+      ins: "dannikom"
+      voc: "danniče"
+    plural: 
+      nom: "danniki"
+      acc: "dannikov"
+      gen: "dannikov"
+      loc: "dannikah"
+      dat: "dannikam"
+      ins: "dannikami"
+      voc: "danniki"

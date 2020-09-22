@@ -1,0 +1,22 @@
+---
+  id: "544"
+  word: "hȯlm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hȯlm"
+      acc: "hȯlm"
+      gen: "hȯlma"
+      loc: "hȯlmu"
+      dat: "hȯlmu"
+      ins: "hȯlmom"
+      voc: "hȯlme"
+    plural: 
+      nom: "hȯlmy"
+      acc: "hȯlmy"
+      gen: "hȯlmov"
+      loc: "hȯlmah"
+      dat: "hȯlmam"
+      ins: "hȯlmami"
+      voc: "hȯlmy"

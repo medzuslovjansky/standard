@@ -1,0 +1,22 @@
+---
+  id: "1045"
+  word: "rebro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rebro"
+      acc: "rebro"
+      gen: "rebra"
+      loc: "rebru"
+      dat: "rebru"
+      ins: "rebrom"
+      voc: "rebro"
+    plural: 
+      nom: "rebra"
+      acc: "rebra"
+      gen: "rebr"
+      loc: "rebrah"
+      dat: "rebram"
+      ins: "rebrami"
+      voc: "rebra"

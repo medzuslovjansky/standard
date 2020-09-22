@@ -1,0 +1,22 @@
+---
+  id: "5269"
+  word: "trųba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trųba"
+      acc: "trųbų"
+      gen: "trųby"
+      loc: "trųbě"
+      dat: "trųbě"
+      ins: "trųbojų"
+      voc: "trųbo"
+    plural: 
+      nom: "trųby"
+      acc: "trųby"
+      gen: "trųb"
+      loc: "trųbah"
+      dat: "trųbam"
+      ins: "trųbami"
+      voc: "trųby"

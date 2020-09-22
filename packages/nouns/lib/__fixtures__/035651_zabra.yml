@@ -1,0 +1,22 @@
+---
+  id: "35651"
+  word: "žabra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žabra"
+      acc: "žabrų"
+      gen: "žabry"
+      loc: "žabrě"
+      dat: "žabrě"
+      ins: "žabrojų"
+      voc: "žabro"
+    plural: 
+      nom: "žabry"
+      acc: "žabry"
+      gen: "žabr"
+      loc: "žabrah"
+      dat: "žabram"
+      ins: "žabrami"
+      voc: "žabry"

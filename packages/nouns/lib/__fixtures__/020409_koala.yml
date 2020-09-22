@@ -1,0 +1,22 @@
+---
+  id: "20409"
+  word: "koala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koala"
+      acc: "koalų"
+      gen: "koaly"
+      loc: "koalě"
+      dat: "koalě"
+      ins: "koalojų"
+      voc: "koalo"
+    plural: 
+      nom: "koaly"
+      acc: "koaly"
+      gen: "koal"
+      loc: "koalah"
+      dat: "koalam"
+      ins: "koalami"
+      voc: "koaly"

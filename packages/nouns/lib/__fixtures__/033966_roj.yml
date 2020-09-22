@@ -1,0 +1,22 @@
+---
+  id: "33966"
+  word: "roj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "roj"
+      acc: "roj"
+      gen: "roja"
+      loc: "roju"
+      dat: "roju"
+      ins: "rojem"
+      voc: "roju"
+    plural: 
+      nom: "roje"
+      acc: "roje"
+      gen: "rojev"
+      loc: "rojah"
+      dat: "rojam"
+      ins: "rojami"
+      voc: "roje"

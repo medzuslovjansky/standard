@@ -1,0 +1,22 @@
+---
+  id: "23011"
+  word: "horoskop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "horoskop"
+      acc: "horoskop"
+      gen: "horoskopa"
+      loc: "horoskopu"
+      dat: "horoskopu"
+      ins: "horoskopom"
+      voc: "horoskope"
+    plural: 
+      nom: "horoskopy"
+      acc: "horoskopy"
+      gen: "horoskopov"
+      loc: "horoskopah"
+      dat: "horoskopam"
+      ins: "horoskopami"
+      voc: "horoskopy"

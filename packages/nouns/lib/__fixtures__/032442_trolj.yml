@@ -1,0 +1,23 @@
+---
+  id: "32442"
+  word: "trolj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "trolj"
+      acc: "trolja"
+      gen: "trolja"
+      loc: "trolju"
+      dat: "trolju"
+      ins: "troljem"
+      voc: "trolju"
+    plural: 
+      nom: "trolji"
+      acc: "troljev"
+      gen: "troljev"
+      loc: "troljah"
+      dat: "troljam"
+      ins: "troljami"
+      voc: "trolji"

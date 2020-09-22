@@ -1,0 +1,23 @@
+---
+  id: "456"
+  word: "vȯlk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vȯlk"
+      acc: "vȯlka"
+      gen: "vȯlka"
+      loc: "vȯlku"
+      dat: "vȯlku"
+      ins: "vȯlkom"
+      voc: "vȯlče"
+    plural: 
+      nom: "vȯlki"
+      acc: "vȯlkov"
+      gen: "vȯlkov"
+      loc: "vȯlkah"
+      dat: "vȯlkam"
+      ins: "vȯlkami"
+      voc: "vȯlki"

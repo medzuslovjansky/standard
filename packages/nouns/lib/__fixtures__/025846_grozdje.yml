@@ -1,0 +1,22 @@
+---
+  id: "25846"
+  word: "grozďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "grozďje"
+      acc: "grozďje"
+      gen: "grozďja"
+      loc: "grozďju"
+      dat: "grozďju"
+      ins: "grozďjem"
+      voc: "grozďje"
+    plural: 
+      nom: "grozďja"
+      acc: "grozďja"
+      gen: "grozdij"
+      loc: "grozďjah"
+      dat: "grozďjam"
+      ins: "grozďjami"
+      voc: "grozďja"

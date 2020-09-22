@@ -1,0 +1,23 @@
+---
+  id: "26058"
+  word: "idealist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "idealist"
+      acc: "idealista"
+      gen: "idealista"
+      loc: "idealistu"
+      dat: "idealistu"
+      ins: "idealistom"
+      voc: "idealiste"
+    plural: 
+      nom: "idealisti"
+      acc: "idealistov"
+      gen: "idealistov"
+      loc: "idealistah"
+      dat: "idealistam"
+      ins: "idealistami"
+      voc: "idealisti"

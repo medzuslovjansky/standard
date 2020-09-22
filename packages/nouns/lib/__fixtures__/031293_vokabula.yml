@@ -1,0 +1,22 @@
+---
+  id: "31293"
+  word: "vokabula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vokabula"
+      acc: "vokabulų"
+      gen: "vokabuly"
+      loc: "vokabulě"
+      dat: "vokabulě"
+      ins: "vokabulojų"
+      voc: "vokabulo"
+    plural: 
+      nom: "vokabuly"
+      acc: "vokabuly"
+      gen: "vokabul"
+      loc: "vokabulah"
+      dat: "vokabulam"
+      ins: "vokabulami"
+      voc: "vokabuly"

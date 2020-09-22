@@ -1,0 +1,23 @@
+---
+  id: "3269"
+  word: "špion"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "špion"
+      acc: "špiona"
+      gen: "špiona"
+      loc: "špionu"
+      dat: "špionu"
+      ins: "špionom"
+      voc: "špione"
+    plural: 
+      nom: "špioni"
+      acc: "špionov"
+      gen: "špionov"
+      loc: "špionah"
+      dat: "špionam"
+      ins: "špionami"
+      voc: "špioni"

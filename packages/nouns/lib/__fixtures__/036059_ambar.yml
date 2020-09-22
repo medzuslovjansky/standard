@@ -1,0 +1,22 @@
+---
+  id: "36059"
+  word: "ambar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ambar"
+      acc: "ambar"
+      gen: "ambara"
+      loc: "ambaru"
+      dat: "ambaru"
+      ins: "ambarom"
+      voc: "ambare"
+    plural: 
+      nom: "ambary"
+      acc: "ambary"
+      gen: "ambarov"
+      loc: "ambarah"
+      dat: "ambaram"
+      ins: "ambarami"
+      voc: "ambary"

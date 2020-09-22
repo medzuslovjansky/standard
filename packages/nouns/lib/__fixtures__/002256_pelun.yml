@@ -1,0 +1,22 @@
+---
+  id: "2256"
+  word: "pelun"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pelun"
+      acc: "pelun"
+      gen: "peluna"
+      loc: "pelunu"
+      dat: "pelunu"
+      ins: "pelunom"
+      voc: "pelune"
+    plural: 
+      nom: "peluny"
+      acc: "peluny"
+      gen: "pelunov"
+      loc: "pelunah"
+      dat: "pelunam"
+      ins: "pelunami"
+      voc: "peluny"

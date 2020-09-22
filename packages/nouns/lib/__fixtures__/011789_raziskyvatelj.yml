@@ -1,0 +1,23 @@
+---
+  id: "11789"
+  word: "råziskyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råziskyvatelj"
+      acc: "råziskyvatelja"
+      gen: "råziskyvatelja"
+      loc: "råziskyvatelju"
+      dat: "råziskyvatelju"
+      ins: "råziskyvateljem"
+      voc: "råziskyvatelju"
+    plural: 
+      nom: "råziskyvatelji"
+      acc: "råziskyvateljev"
+      gen: "råziskyvateljev"
+      loc: "råziskyvateljah"
+      dat: "råziskyvateljam"
+      ins: "råziskyvateljami"
+      voc: "råziskyvatelji"

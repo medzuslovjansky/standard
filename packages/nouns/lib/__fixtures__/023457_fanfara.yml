@@ -1,0 +1,22 @@
+---
+  id: "23457"
+  word: "fanfara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fanfara"
+      acc: "fanfarų"
+      gen: "fanfary"
+      loc: "fanfarě"
+      dat: "fanfarě"
+      ins: "fanfarojų"
+      voc: "fanfaro"
+    plural: 
+      nom: "fanfary"
+      acc: "fanfary"
+      gen: "fanfar"
+      loc: "fanfarah"
+      dat: "fanfaram"
+      ins: "fanfarami"
+      voc: "fanfary"

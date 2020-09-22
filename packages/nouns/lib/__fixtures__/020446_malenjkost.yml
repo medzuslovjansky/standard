@@ -1,0 +1,22 @@
+---
+  id: "20446"
+  word: "malenjkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "malenjkosť"
+      acc: "malenjkosť"
+      gen: "malenjkosti"
+      loc: "malenjkosti"
+      dat: "malenjkosti"
+      ins: "malenjkosťjų"
+      voc: "malenjkosti"
+    plural: 
+      nom: "malenjkosti"
+      acc: "malenjkosti"
+      gen: "malenjkostij"
+      loc: "malenjkosťah"
+      dat: "malenjkosťam"
+      ins: "malenjkosťami"
+      voc: "malenjkosti"

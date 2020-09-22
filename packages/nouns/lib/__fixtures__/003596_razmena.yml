@@ -1,0 +1,22 @@
+---
+  id: "3596"
+  word: "råzměna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzměna"
+      acc: "råzměnų"
+      gen: "råzměny"
+      loc: "råzměně"
+      dat: "råzměně"
+      ins: "råzměnojų"
+      voc: "råzměno"
+    plural: 
+      nom: "råzměny"
+      acc: "råzměny"
+      gen: "råzměn"
+      loc: "råzměnah"
+      dat: "råzměnam"
+      ins: "råzměnami"
+      voc: "råzměny"

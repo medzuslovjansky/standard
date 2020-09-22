@@ -1,0 +1,22 @@
+---
+  id: "32805"
+  word: "instinkt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "instinkt"
+      acc: "instinkt"
+      gen: "instinkta"
+      loc: "instinktu"
+      dat: "instinktu"
+      ins: "instinktom"
+      voc: "instinkte"
+    plural: 
+      nom: "instinkty"
+      acc: "instinkty"
+      gen: "instinktov"
+      loc: "instinktah"
+      dat: "instinktam"
+      ins: "instinktami"
+      voc: "instinkty"

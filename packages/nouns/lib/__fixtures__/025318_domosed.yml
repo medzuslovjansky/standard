@@ -1,0 +1,23 @@
+---
+  id: "25318"
+  word: "domosěd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "domosěd"
+      acc: "domosěda"
+      gen: "domosěda"
+      loc: "domosědu"
+      dat: "domosědu"
+      ins: "domosědom"
+      voc: "domosěde"
+    plural: 
+      nom: "domosědi"
+      acc: "domosědov"
+      gen: "domosědov"
+      loc: "domosědah"
+      dat: "domosědam"
+      ins: "domosědami"
+      voc: "domosědi"

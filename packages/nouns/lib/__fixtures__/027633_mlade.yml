@@ -1,0 +1,22 @@
+---
+  id: "27633"
+  word: "mlådę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mlådę"
+      acc: "mlådę"
+      gen: "mlådęte / mlådęta"
+      loc: "mlådęti / mlådętu"
+      dat: "mlådęti / mlådętu"
+      ins: "mlådętem / mlådętom"
+      voc: "mlådę"
+    plural: 
+      nom: "mlådęta"
+      acc: "mlådęta"
+      gen: "mlådęt"
+      loc: "mlådętah"
+      dat: "mlådętam"
+      ins: "mlådętami"
+      voc: "mlådęta"

@@ -1,0 +1,22 @@
+---
+  id: "20978"
+  word: "pastva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pastva"
+      acc: "pastvų"
+      gen: "pastvy"
+      loc: "pastvě"
+      dat: "pastvě"
+      ins: "pastvojų"
+      voc: "pastvo"
+    plural: 
+      nom: "pastvy"
+      acc: "pastvy"
+      gen: "pastv"
+      loc: "pastvah"
+      dat: "pastvam"
+      ins: "pastvami"
+      voc: "pastvy"

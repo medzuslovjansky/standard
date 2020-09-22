@@ -1,0 +1,23 @@
+---
+  id: "24173"
+  word: "akrobat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "akrobat"
+      acc: "akrobata"
+      gen: "akrobata"
+      loc: "akrobatu"
+      dat: "akrobatu"
+      ins: "akrobatom"
+      voc: "akrobate"
+    plural: 
+      nom: "akrobati"
+      acc: "akrobatov"
+      gen: "akrobatov"
+      loc: "akrobatah"
+      dat: "akrobatam"
+      ins: "akrobatami"
+      voc: "akrobati"

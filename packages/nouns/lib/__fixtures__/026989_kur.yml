@@ -1,0 +1,23 @@
+---
+  id: "26989"
+  word: "kur"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kur"
+      acc: "kura"
+      gen: "kura"
+      loc: "kuru"
+      dat: "kuru"
+      ins: "kurom"
+      voc: "kure"
+    plural: 
+      nom: "kuri"
+      acc: "kurov"
+      gen: "kurov"
+      loc: "kurah"
+      dat: "kuram"
+      ins: "kurami"
+      voc: "kuri"

@@ -1,0 +1,15 @@
+---
+  id: "3011"
+  word: "liceměŕje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "liceměŕje"
+      acc: "liceměŕje"
+      gen: "liceměŕja"
+      loc: "liceměŕju"
+      dat: "liceměŕju"
+      ins: "liceměŕjem"
+      voc: "liceměŕje"

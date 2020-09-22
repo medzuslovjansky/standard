@@ -1,0 +1,22 @@
+---
+  id: "15532"
+  word: "sědiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sědiljnja"
+      acc: "sědiljnjų"
+      gen: "sědiljnje"
+      loc: "sědiljnji"
+      dat: "sědiljnji"
+      ins: "sědiljnjejų"
+      voc: "sědiljnjo"
+    plural: 
+      nom: "sědiljnje"
+      acc: "sědiljnje"
+      gen: "sědiljnej"
+      loc: "sědiljnjah"
+      dat: "sědiljnjam"
+      ins: "sědiljnjami"
+      voc: "sědiljnje"

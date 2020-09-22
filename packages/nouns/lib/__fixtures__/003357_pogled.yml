@@ -1,0 +1,22 @@
+---
+  id: "3357"
+  word: "poględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poględ"
+      acc: "poględ"
+      gen: "poględa"
+      loc: "poględu"
+      dat: "poględu"
+      ins: "poględom"
+      voc: "poględe"
+    plural: 
+      nom: "poględy"
+      acc: "poględy"
+      gen: "poględov"
+      loc: "poględah"
+      dat: "poględam"
+      ins: "poględami"
+      voc: "poględy"

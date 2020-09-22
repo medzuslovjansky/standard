@@ -1,0 +1,23 @@
+---
+  id: "835"
+  word: "koordinator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "koordinator"
+      acc: "koordinatora"
+      gen: "koordinatora"
+      loc: "koordinatoru"
+      dat: "koordinatoru"
+      ins: "koordinatorom"
+      voc: "koordinatore"
+    plural: 
+      nom: "koordinatori"
+      acc: "koordinatorov"
+      gen: "koordinatorov"
+      loc: "koordinatorah"
+      dat: "koordinatoram"
+      ins: "koordinatorami"
+      voc: "koordinatori"

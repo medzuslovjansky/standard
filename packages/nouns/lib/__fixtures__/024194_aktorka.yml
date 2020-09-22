@@ -1,0 +1,22 @@
+---
+  id: "24194"
+  word: "aktorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktorka"
+      acc: "aktorkų"
+      gen: "aktorky"
+      loc: "aktorkě"
+      dat: "aktorkě"
+      ins: "aktorkojų"
+      voc: "aktorko"
+    plural: 
+      nom: "aktorky"
+      acc: "aktorky"
+      gen: "aktorȯk"
+      loc: "aktorkah"
+      dat: "aktorkam"
+      ins: "aktorkami"
+      voc: "aktorky"

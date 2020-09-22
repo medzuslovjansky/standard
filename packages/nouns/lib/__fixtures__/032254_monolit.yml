@@ -1,0 +1,22 @@
+---
+  id: "32254"
+  word: "monolit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monolit"
+      acc: "monolit"
+      gen: "monolita"
+      loc: "monolitu"
+      dat: "monolitu"
+      ins: "monolitom"
+      voc: "monolite"
+    plural: 
+      nom: "monolity"
+      acc: "monolity"
+      gen: "monolitov"
+      loc: "monolitah"
+      dat: "monolitam"
+      ins: "monolitami"
+      voc: "monolity"

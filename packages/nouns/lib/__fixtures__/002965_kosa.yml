@@ -1,0 +1,22 @@
+---
+  id: "2965"
+  word: "kosa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kosa"
+      acc: "kosų"
+      gen: "kosy"
+      loc: "kosě"
+      dat: "kosě"
+      ins: "kosojų"
+      voc: "koso"
+    plural: 
+      nom: "kosy"
+      acc: "kosy"
+      gen: "kos"
+      loc: "kosah"
+      dat: "kosam"
+      ins: "kosami"
+      voc: "kosy"

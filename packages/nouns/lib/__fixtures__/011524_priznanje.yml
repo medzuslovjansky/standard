@@ -1,0 +1,22 @@
+---
+  id: "11524"
+  word: "priznańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "priznańje"
+      acc: "priznańje"
+      gen: "priznańja"
+      loc: "priznańju"
+      dat: "priznańju"
+      ins: "priznańjem"
+      voc: "priznańje"
+    plural: 
+      nom: "priznańja"
+      acc: "priznańja"
+      gen: "priznanij"
+      loc: "priznańjah"
+      dat: "priznańjam"
+      ins: "priznańjami"
+      voc: "priznańja"

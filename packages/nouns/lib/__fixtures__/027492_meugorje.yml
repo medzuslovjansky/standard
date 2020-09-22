@@ -1,0 +1,22 @@
+---
+  id: "27492"
+  word: "međugoŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "međugoŕje"
+      acc: "međugoŕje"
+      gen: "međugoŕja"
+      loc: "međugoŕju"
+      dat: "međugoŕju"
+      ins: "međugoŕjem"
+      voc: "međugoŕje"
+    plural: 
+      nom: "međugoŕja"
+      acc: "međugoŕja"
+      gen: "međugorij"
+      loc: "međugoŕjah"
+      dat: "međugoŕjam"
+      ins: "međugoŕjami"
+      voc: "međugoŕja"

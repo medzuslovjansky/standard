@@ -1,0 +1,15 @@
+---
+  id: "5958"
+  word: "děvičstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "děvičstvo"
+      acc: "děvičstvo"
+      gen: "děvičstva"
+      loc: "děvičstvu"
+      dat: "děvičstvu"
+      ins: "děvičstvom"
+      voc: "děvičstvo"

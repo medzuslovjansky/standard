@@ -1,0 +1,23 @@
+---
+  id: "359"
+  word: "Madjar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Madjar"
+      acc: "Madjara"
+      gen: "Madjara"
+      loc: "Madjaru"
+      dat: "Madjaru"
+      ins: "Madjarom"
+      voc: "Madjare"
+    plural: 
+      nom: "Madjari"
+      acc: "Madjarov"
+      gen: "Madjarov"
+      loc: "Madjarah"
+      dat: "Madjaram"
+      ins: "Madjarami"
+      voc: "Madjari"

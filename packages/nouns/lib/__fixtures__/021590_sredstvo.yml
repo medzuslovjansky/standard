@@ -1,0 +1,22 @@
+---
+  id: "21590"
+  word: "srědstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "srědstvo"
+      acc: "srědstvo"
+      gen: "srědstva"
+      loc: "srědstvu"
+      dat: "srědstvu"
+      ins: "srědstvom"
+      voc: "srědstvo"
+    plural: 
+      nom: "srědstva"
+      acc: "srědstva"
+      gen: "srědstv"
+      loc: "srědstvah"
+      dat: "srědstvam"
+      ins: "srědstvami"
+      voc: "srědstva"

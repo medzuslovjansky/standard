@@ -1,0 +1,22 @@
+---
+  id: "25933"
+  word: "helikopter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "helikopter"
+      acc: "helikopter"
+      gen: "helikoptera"
+      loc: "helikopteru"
+      dat: "helikopteru"
+      ins: "helikopterom"
+      voc: "helikoptere"
+    plural: 
+      nom: "helikoptery"
+      acc: "helikoptery"
+      gen: "helikopterov"
+      loc: "helikopterah"
+      dat: "helikopteram"
+      ins: "helikopterami"
+      voc: "helikoptery"

@@ -1,0 +1,22 @@
+---
+  id: "8933"
+  word: "logika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "logika"
+      acc: "logikų"
+      gen: "logiky"
+      loc: "logikě"
+      dat: "logikě"
+      ins: "logikojų"
+      voc: "logiko"
+    plural: 
+      nom: "logiky"
+      acc: "logiky"
+      gen: "logik"
+      loc: "logikah"
+      dat: "logikam"
+      ins: "logikami"
+      voc: "logiky"

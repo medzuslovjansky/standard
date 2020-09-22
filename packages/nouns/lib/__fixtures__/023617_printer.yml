@@ -1,0 +1,22 @@
+---
+  id: "23617"
+  word: "printer"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "printer"
+      acc: "printer"
+      gen: "printera"
+      loc: "printeru"
+      dat: "printeru"
+      ins: "printerom"
+      voc: "printere"
+    plural: 
+      nom: "printery"
+      acc: "printery"
+      gen: "printerov"
+      loc: "printerah"
+      dat: "printeram"
+      ins: "printerami"
+      voc: "printery"

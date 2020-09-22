@@ -1,0 +1,22 @@
+---
+  id: "29328"
+  word: "ogråđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ogråđeńje"
+      acc: "ogråđeńje"
+      gen: "ogråđeńja"
+      loc: "ogråđeńju"
+      dat: "ogråđeńju"
+      ins: "ogråđeńjem"
+      voc: "ogråđeńje"
+    plural: 
+      nom: "ogråđeńja"
+      acc: "ogråđeńja"
+      gen: "ogråđenij"
+      loc: "ogråđeńjah"
+      dat: "ogråđeńjam"
+      ins: "ogråđeńjami"
+      voc: "ogråđeńja"

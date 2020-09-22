@@ -1,0 +1,23 @@
+---
+  id: "27888"
+  word: "myslitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "myslitelj"
+      acc: "myslitelja"
+      gen: "myslitelja"
+      loc: "myslitelju"
+      dat: "myslitelju"
+      ins: "mysliteljem"
+      voc: "myslitelju"
+    plural: 
+      nom: "myslitelji"
+      acc: "mysliteljev"
+      gen: "mysliteljev"
+      loc: "mysliteljah"
+      dat: "mysliteljam"
+      ins: "mysliteljami"
+      voc: "myslitelji"

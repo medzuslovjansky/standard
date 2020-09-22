@@ -1,0 +1,15 @@
+---
+  id: "19683"
+  word: "džinsy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "džinsy"
+      acc: "džinsy"
+      gen: "džinsov"
+      loc: "džinsah"
+      dat: "džinsam"
+      ins: "džinsami"
+      voc: "džinsy"

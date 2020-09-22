@@ -1,0 +1,15 @@
+---
+  id: "220"
+  word: "Malta"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Malta"
+      acc: "Maltų"
+      gen: "Malty"
+      loc: "Maltě"
+      dat: "Maltě"
+      ins: "Maltojų"
+      voc: "Malto"

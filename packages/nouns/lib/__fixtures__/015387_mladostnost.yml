@@ -1,0 +1,22 @@
+---
+  id: "15387"
+  word: "mlådostnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådostnosť"
+      acc: "mlådostnosť"
+      gen: "mlådostnosti"
+      loc: "mlådostnosti"
+      dat: "mlådostnosti"
+      ins: "mlådostnosťjų"
+      voc: "mlådostnosti"
+    plural: 
+      nom: "mlådostnosti"
+      acc: "mlådostnosti"
+      gen: "mlådostnostij"
+      loc: "mlådostnosťah"
+      dat: "mlådostnosťam"
+      ins: "mlådostnosťami"
+      voc: "mlådostnosti"

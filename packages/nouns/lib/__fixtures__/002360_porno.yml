@@ -1,0 +1,15 @@
+---
+  id: "2360"
+  word: "porno"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "porno"
+      acc: "porno"
+      gen: "porna"
+      loc: "pornu"
+      dat: "pornu"
+      ins: "pornom"
+      voc: "porno"

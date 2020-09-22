@@ -1,0 +1,22 @@
+---
+  id: "10138"
+  word: "ogrožeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ogrožeńje"
+      acc: "ogrožeńje"
+      gen: "ogrožeńja"
+      loc: "ogrožeńju"
+      dat: "ogrožeńju"
+      ins: "ogrožeńjem"
+      voc: "ogrožeńje"
+    plural: 
+      nom: "ogrožeńja"
+      acc: "ogrožeńja"
+      gen: "ogroženij"
+      loc: "ogrožeńjah"
+      dat: "ogrožeńjam"
+      ins: "ogrožeńjami"
+      voc: "ogrožeńja"

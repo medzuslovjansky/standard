@@ -1,0 +1,23 @@
+---
+  id: "5762"
+  word: "kolega"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kolega"
+      acc: "kolegų"
+      gen: "kolegy"
+      loc: "kolegě"
+      dat: "kolegě"
+      ins: "kolegojų"
+      voc: "kolego"
+    plural: 
+      nom: "kolegi"
+      acc: "kolegov"
+      gen: "kolegov"
+      loc: "kolegah"
+      dat: "kolegam"
+      ins: "kolegami"
+      voc: "kolegi"

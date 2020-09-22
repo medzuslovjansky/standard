@@ -1,0 +1,22 @@
+---
+  id: "19997"
+  word: "okrųg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "okrųg"
+      acc: "okrųg"
+      gen: "okrųga"
+      loc: "okrųgu"
+      dat: "okrųgu"
+      ins: "okrųgom"
+      voc: "okrųže"
+    plural: 
+      nom: "okrųgy"
+      acc: "okrųgy"
+      gen: "okrųgov"
+      loc: "okrųgah"
+      dat: "okrųgam"
+      ins: "okrųgami"
+      voc: "okrųgy"

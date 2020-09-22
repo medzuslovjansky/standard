@@ -1,0 +1,22 @@
+---
+  id: "4281"
+  word: "širokosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "širokosť"
+      acc: "širokosť"
+      gen: "širokosti"
+      loc: "širokosti"
+      dat: "širokosti"
+      ins: "širokosťjų"
+      voc: "širokosti"
+    plural: 
+      nom: "širokosti"
+      acc: "širokosti"
+      gen: "širokostij"
+      loc: "širokosťah"
+      dat: "širokosťam"
+      ins: "širokosťami"
+      voc: "širokosti"

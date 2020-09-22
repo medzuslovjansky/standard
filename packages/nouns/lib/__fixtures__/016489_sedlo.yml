@@ -1,0 +1,22 @@
+---
+  id: "16489"
+  word: "sedlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sedlo"
+      acc: "sedlo"
+      gen: "sedla"
+      loc: "sedlu"
+      dat: "sedlu"
+      ins: "sedlom"
+      voc: "sedlo"
+    plural: 
+      nom: "sedla"
+      acc: "sedla"
+      gen: "sedl"
+      loc: "sedlah"
+      dat: "sedlam"
+      ins: "sedlami"
+      voc: "sedla"

@@ -1,0 +1,15 @@
+---
+  id: "31863"
+  word: "rokenrol"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "rokenrol"
+      acc: "rokenrol"
+      gen: "rokenrola"
+      loc: "rokenrolu"
+      dat: "rokenrolu"
+      ins: "rokenrolom"
+      voc: "rokenrole"

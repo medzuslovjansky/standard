@@ -1,0 +1,23 @@
+---
+  id: "36801"
+  word: "tablo"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "tablo"
+      acc: "tablo"
+      gen: "tablo"
+      loc: "tablo"
+      dat: "tablo"
+      ins: "tablo"
+      voc: "tablo"
+    plural: 
+      nom: "tablo"
+      acc: "tablo"
+      gen: "tablo"
+      loc: "tablo"
+      dat: "tablo"
+      ins: "tablo"
+      voc: "tablo"

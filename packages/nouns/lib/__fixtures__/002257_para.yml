@@ -1,0 +1,22 @@
+---
+  id: "2257"
+  word: "para"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "para"
+      acc: "parų"
+      gen: "pary"
+      loc: "parě"
+      dat: "parě"
+      ins: "parojų"
+      voc: "paro"
+    plural: 
+      nom: "pary"
+      acc: "pary"
+      gen: "par"
+      loc: "parah"
+      dat: "param"
+      ins: "parami"
+      voc: "pary"

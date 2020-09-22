@@ -1,0 +1,22 @@
+---
+  id: "15675"
+  word: "znamę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "znamę"
+      acc: "znamę"
+      gen: "znamene / znamena"
+      loc: "znameni / znamenu"
+      dat: "znameni / znamenu"
+      ins: "znamenem / znamenom"
+      voc: "znamę"
+    plural: 
+      nom: "znamena"
+      acc: "znamena"
+      gen: "znamen"
+      loc: "znamenah"
+      dat: "znamenam"
+      ins: "znamenami"
+      voc: "znamena"

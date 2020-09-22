@@ -1,0 +1,22 @@
+---
+  id: "19876"
+  word: "naklonnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naklonnosť"
+      acc: "naklonnosť"
+      gen: "naklonnosti"
+      loc: "naklonnosti"
+      dat: "naklonnosti"
+      ins: "naklonnosťjų"
+      voc: "naklonnosti"
+    plural: 
+      nom: "naklonnosti"
+      acc: "naklonnosti"
+      gen: "naklonnostij"
+      loc: "naklonnosťah"
+      dat: "naklonnosťam"
+      ins: "naklonnosťami"
+      voc: "naklonnosti"

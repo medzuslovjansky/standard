@@ -1,0 +1,22 @@
+---
+  id: "12688"
+  word: "stvår"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stvår"
+      acc: "stvår"
+      gen: "stvåra"
+      loc: "stvåru"
+      dat: "stvåru"
+      ins: "stvårom"
+      voc: "stvåre"
+    plural: 
+      nom: "stvåry"
+      acc: "stvåry"
+      gen: "stvårov"
+      loc: "stvårah"
+      dat: "stvåram"
+      ins: "stvårami"
+      voc: "stvåry"

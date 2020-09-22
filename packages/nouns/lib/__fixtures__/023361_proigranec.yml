@@ -1,0 +1,23 @@
+---
+  id: "23361"
+  word: "proigranec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "proigranec"
+      acc: "proigranca"
+      gen: "proigranca"
+      loc: "proigrancu"
+      dat: "proigrancu"
+      ins: "proigrancem"
+      voc: "proigranče"
+    plural: 
+      nom: "proigranci"
+      acc: "proigrancev"
+      gen: "proigrancev"
+      loc: "proigrancah"
+      dat: "proigrancam"
+      ins: "proigrancami"
+      voc: "proigranci"

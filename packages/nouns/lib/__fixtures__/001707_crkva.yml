@@ -1,0 +1,22 @@
+---
+  id: "1707"
+  word: "crkva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "crkva"
+      acc: "crkvų"
+      gen: "crkvy"
+      loc: "crkvě"
+      dat: "crkvě"
+      ins: "crkvojų"
+      voc: "crkvo"
+    plural: 
+      nom: "crkvy"
+      acc: "crkvy"
+      gen: "crkv"
+      loc: "crkvah"
+      dat: "crkvam"
+      ins: "crkvami"
+      voc: "crkvy"

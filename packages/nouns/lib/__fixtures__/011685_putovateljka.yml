@@ -1,0 +1,22 @@
+---
+  id: "11685"
+  word: "pųtovateljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pųtovateljka"
+      acc: "pųtovateljkų"
+      gen: "pųtovateljky"
+      loc: "pųtovateljkě"
+      dat: "pųtovateljkě"
+      ins: "pųtovateljkojų"
+      voc: "pųtovateljko"
+    plural: 
+      nom: "pųtovateljky"
+      acc: "pųtovateljky"
+      gen: "pųtovateljek"
+      loc: "pųtovateljkah"
+      dat: "pųtovateljkam"
+      ins: "pųtovateljkami"
+      voc: "pųtovateljky"

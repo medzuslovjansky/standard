@@ -1,0 +1,22 @@
+---
+  id: "23015"
+  word: "gram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gram"
+      acc: "gram"
+      gen: "grama"
+      loc: "gramu"
+      dat: "gramu"
+      ins: "gramom"
+      voc: "grame"
+    plural: 
+      nom: "gramy"
+      acc: "gramy"
+      gen: "gramov"
+      loc: "gramah"
+      dat: "gramam"
+      ins: "gramami"
+      voc: "gramy"

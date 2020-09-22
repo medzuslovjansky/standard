@@ -1,0 +1,22 @@
+---
+  id: "17468"
+  word: "hristijanizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hristijanizacija"
+      acc: "hristijanizacijų"
+      gen: "hristijanizacije"
+      loc: "hristijanizaciji"
+      dat: "hristijanizaciji"
+      ins: "hristijanizacijejų"
+      voc: "hristijanizacijo"
+    plural: 
+      nom: "hristijanizacije"
+      acc: "hristijanizacije"
+      gen: "hristijanizacij"
+      loc: "hristijanizacijah"
+      dat: "hristijanizacijam"
+      ins: "hristijanizacijami"
+      voc: "hristijanizacije"

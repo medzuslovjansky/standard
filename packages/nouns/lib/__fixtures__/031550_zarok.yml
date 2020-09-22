@@ -1,0 +1,22 @@
+---
+  id: "31550"
+  word: "zarok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zarok"
+      acc: "zarok"
+      gen: "zaroka"
+      loc: "zaroku"
+      dat: "zaroku"
+      ins: "zarokom"
+      voc: "zaroče"
+    plural: 
+      nom: "zaroky"
+      acc: "zaroky"
+      gen: "zarokov"
+      loc: "zarokah"
+      dat: "zarokam"
+      ins: "zarokami"
+      voc: "zaroky"

@@ -1,0 +1,23 @@
+---
+  id: "25566"
+  word: "gangster"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gangster"
+      acc: "gangstera"
+      gen: "gangstera"
+      loc: "gangsteru"
+      dat: "gangsteru"
+      ins: "gangsterom"
+      voc: "gangstere"
+    plural: 
+      nom: "gangsteri"
+      acc: "gangsterov"
+      gen: "gangsterov"
+      loc: "gangsterah"
+      dat: "gangsteram"
+      ins: "gangsterami"
+      voc: "gangsteri"

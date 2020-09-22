@@ -1,0 +1,15 @@
+---
+  id: "17462"
+  word: "holesterol"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "holesterol"
+      acc: "holesterol"
+      gen: "holesterola"
+      loc: "holesterolu"
+      dat: "holesterolu"
+      ins: "holesterolom"
+      voc: "holesterole"

@@ -1,0 +1,22 @@
+---
+  id: "4471"
+  word: "strahlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strahlivosť"
+      acc: "strahlivosť"
+      gen: "strahlivosti"
+      loc: "strahlivosti"
+      dat: "strahlivosti"
+      ins: "strahlivosťjų"
+      voc: "strahlivosti"
+    plural: 
+      nom: "strahlivosti"
+      acc: "strahlivosti"
+      gen: "strahlivostij"
+      loc: "strahlivosťah"
+      dat: "strahlivosťam"
+      ins: "strahlivosťami"
+      voc: "strahlivosti"

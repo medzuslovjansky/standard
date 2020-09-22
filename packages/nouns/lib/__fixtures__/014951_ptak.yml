@@ -1,0 +1,23 @@
+---
+  id: "14951"
+  word: "ptak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ptak"
+      acc: "ptaka"
+      gen: "ptaka"
+      loc: "ptaku"
+      dat: "ptaku"
+      ins: "ptakom"
+      voc: "ptače"
+    plural: 
+      nom: "ptaki"
+      acc: "ptakov"
+      gen: "ptakov"
+      loc: "ptakah"
+      dat: "ptakam"
+      ins: "ptakami"
+      voc: "ptaki"

@@ -1,0 +1,22 @@
+---
+  id: "36536"
+  word: "gimnastika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gimnastika"
+      acc: "gimnastikų"
+      gen: "gimnastiky"
+      loc: "gimnastikě"
+      dat: "gimnastikě"
+      ins: "gimnastikojų"
+      voc: "gimnastiko"
+    plural: 
+      nom: "gimnastiky"
+      acc: "gimnastiky"
+      gen: "gimnastik"
+      loc: "gimnastikah"
+      dat: "gimnastikam"
+      ins: "gimnastikami"
+      voc: "gimnastiky"

@@ -1,0 +1,15 @@
+---
+  id: "35816"
+  word: "metabolizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "metabolizm"
+      acc: "metabolizm"
+      gen: "metabolizma"
+      loc: "metabolizmu"
+      dat: "metabolizmu"
+      ins: "metabolizmom"
+      voc: "metabolizme"

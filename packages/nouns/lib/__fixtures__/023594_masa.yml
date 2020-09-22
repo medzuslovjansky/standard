@@ -1,0 +1,22 @@
+---
+  id: "23594"
+  word: "masa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "masa"
+      acc: "masų"
+      gen: "masy"
+      loc: "masě"
+      dat: "masě"
+      ins: "masojų"
+      voc: "maso"
+    plural: 
+      nom: "masy"
+      acc: "masy"
+      gen: "mas"
+      loc: "masah"
+      dat: "masam"
+      ins: "masami"
+      voc: "masy"

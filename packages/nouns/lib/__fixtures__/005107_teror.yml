@@ -1,0 +1,22 @@
+---
+  id: "5107"
+  word: "teror"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "teror"
+      acc: "teror"
+      gen: "terora"
+      loc: "teroru"
+      dat: "teroru"
+      ins: "terorom"
+      voc: "terore"
+    plural: 
+      nom: "terory"
+      acc: "terory"
+      gen: "terorov"
+      loc: "terorah"
+      dat: "teroram"
+      ins: "terorami"
+      voc: "terory"

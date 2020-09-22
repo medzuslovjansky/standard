@@ -1,0 +1,22 @@
+---
+  id: "18986"
+  word: "transport"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "transport"
+      acc: "transport"
+      gen: "transporta"
+      loc: "transportu"
+      dat: "transportu"
+      ins: "transportom"
+      voc: "transporte"
+    plural: 
+      nom: "transporty"
+      acc: "transporty"
+      gen: "transportov"
+      loc: "transportah"
+      dat: "transportam"
+      ins: "transportami"
+      voc: "transporty"

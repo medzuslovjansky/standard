@@ -1,0 +1,15 @@
+---
+  id: "3504"
+  word: "il"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "il"
+      acc: "il"
+      gen: "ila"
+      loc: "ilu"
+      dat: "ilu"
+      ins: "ilom"
+      voc: "ile"

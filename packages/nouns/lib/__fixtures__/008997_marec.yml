@@ -1,0 +1,15 @@
+---
+  id: "8997"
+  word: "marec"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "marec"
+      acc: "marec"
+      gen: "marca"
+      loc: "marcu"
+      dat: "marcu"
+      ins: "marcem"
+      voc: "marče"

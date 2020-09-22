@@ -1,0 +1,22 @@
+---
+  id: "35160"
+  word: "nepraktičnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepraktičnosť"
+      acc: "nepraktičnosť"
+      gen: "nepraktičnosti"
+      loc: "nepraktičnosti"
+      dat: "nepraktičnosti"
+      ins: "nepraktičnosťjų"
+      voc: "nepraktičnosti"
+    plural: 
+      nom: "nepraktičnosti"
+      acc: "nepraktičnosti"
+      gen: "nepraktičnostij"
+      loc: "nepraktičnosťah"
+      dat: "nepraktičnosťam"
+      ins: "nepraktičnosťami"
+      voc: "nepraktičnosti"

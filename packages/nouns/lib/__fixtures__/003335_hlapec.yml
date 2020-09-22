@@ -1,0 +1,23 @@
+---
+  id: "3335"
+  word: "hlåpec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hlåpec"
+      acc: "hlåpca"
+      gen: "hlåpca"
+      loc: "hlåpcu"
+      dat: "hlåpcu"
+      ins: "hlåpcem"
+      voc: "hlåpče"
+    plural: 
+      nom: "hlåpci"
+      acc: "hlåpcev"
+      gen: "hlåpcev"
+      loc: "hlåpcah"
+      dat: "hlåpcam"
+      ins: "hlåpcami"
+      voc: "hlåpci"

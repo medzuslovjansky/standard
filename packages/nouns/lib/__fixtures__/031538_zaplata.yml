@@ -1,0 +1,22 @@
+---
+  id: "31538"
+  word: "zaplata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaplata"
+      acc: "zaplatų"
+      gen: "zaplaty"
+      loc: "zaplatě"
+      dat: "zaplatě"
+      ins: "zaplatojų"
+      voc: "zaplato"
+    plural: 
+      nom: "zaplaty"
+      acc: "zaplaty"
+      gen: "zaplat"
+      loc: "zaplatah"
+      dat: "zaplatam"
+      ins: "zaplatami"
+      voc: "zaplaty"

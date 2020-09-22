@@ -1,0 +1,22 @@
+---
+  id: "32348"
+  word: "oranžerija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oranžerija"
+      acc: "oranžerijų"
+      gen: "oranžerije"
+      loc: "oranžeriji"
+      dat: "oranžeriji"
+      ins: "oranžerijejų"
+      voc: "oranžerijo"
+    plural: 
+      nom: "oranžerije"
+      acc: "oranžerije"
+      gen: "oranžerij"
+      loc: "oranžerijah"
+      dat: "oranžerijam"
+      ins: "oranžerijami"
+      voc: "oranžerije"

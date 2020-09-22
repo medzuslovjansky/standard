@@ -1,0 +1,22 @@
+---
+  id: "15605"
+  word: "trivųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trivųgȯľnik"
+      acc: "trivųgȯľnik"
+      gen: "trivųgȯľnika"
+      loc: "trivųgȯľniku"
+      dat: "trivųgȯľniku"
+      ins: "trivųgȯľnikom"
+      voc: "trivųgȯľniče"
+    plural: 
+      nom: "trivųgȯľniky"
+      acc: "trivųgȯľniky"
+      gen: "trivųgȯľnikov"
+      loc: "trivųgȯľnikah"
+      dat: "trivųgȯľnikam"
+      ins: "trivųgȯľnikami"
+      voc: "trivųgȯľniky"

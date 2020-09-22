@@ -1,0 +1,15 @@
+---
+  id: "33357"
+  word: "izmagateljstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izmagateljstvo"
+      acc: "izmagateljstvo"
+      gen: "izmagateljstva"
+      loc: "izmagateljstvu"
+      dat: "izmagateljstvu"
+      ins: "izmagateljstvom"
+      voc: "izmagateljstvo"

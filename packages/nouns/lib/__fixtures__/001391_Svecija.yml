@@ -1,0 +1,15 @@
+---
+  id: "1391"
+  word: "Švecija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Švecija"
+      acc: "Švecijų"
+      gen: "Švecije"
+      loc: "Šveciji"
+      dat: "Šveciji"
+      ins: "Švecijejų"
+      voc: "Švecijo"

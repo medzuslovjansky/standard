@@ -1,0 +1,22 @@
+---
+  id: "8366"
+  word: "jutro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jutro"
+      acc: "jutro"
+      gen: "jutra"
+      loc: "jutru"
+      dat: "jutru"
+      ins: "jutrom"
+      voc: "jutro"
+    plural: 
+      nom: "jutra"
+      acc: "jutra"
+      gen: "jutr"
+      loc: "jutrah"
+      dat: "jutram"
+      ins: "jutrami"
+      voc: "jutra"

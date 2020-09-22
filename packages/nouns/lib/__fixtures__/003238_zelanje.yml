@@ -1,0 +1,22 @@
+---
+  id: "3238"
+  word: "želańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "želańje"
+      acc: "želańje"
+      gen: "želańja"
+      loc: "želańju"
+      dat: "želańju"
+      ins: "želańjem"
+      voc: "želańje"
+    plural: 
+      nom: "želańja"
+      acc: "želańja"
+      gen: "želanij"
+      loc: "želańjah"
+      dat: "želańjam"
+      ins: "želańjami"
+      voc: "želańja"

@@ -1,0 +1,22 @@
+---
+  id: "18141"
+  word: "oplođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oplođeńje"
+      acc: "oplođeńje"
+      gen: "oplođeńja"
+      loc: "oplođeńju"
+      dat: "oplođeńju"
+      ins: "oplođeńjem"
+      voc: "oplođeńje"
+    plural: 
+      nom: "oplođeńja"
+      acc: "oplođeńja"
+      gen: "oplođenij"
+      loc: "oplođeńjah"
+      dat: "oplođeńjam"
+      ins: "oplođeńjami"
+      voc: "oplođeńja"

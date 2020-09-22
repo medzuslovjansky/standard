@@ -1,0 +1,22 @@
+---
+  id: "28969"
+  word: "obuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obuh"
+      acc: "obuh"
+      gen: "obuha"
+      loc: "obuhu"
+      dat: "obuhu"
+      ins: "obuhom"
+      voc: "obuše"
+    plural: 
+      nom: "obuhy"
+      acc: "obuhy"
+      gen: "obuhov"
+      loc: "obuhah"
+      dat: "obuham"
+      ins: "obuhami"
+      voc: "obuhy"

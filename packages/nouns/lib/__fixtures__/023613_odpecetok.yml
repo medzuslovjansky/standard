@@ -1,0 +1,22 @@
+---
+  id: "23613"
+  word: "odpečętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpečętȯk"
+      acc: "odpečętȯk"
+      gen: "odpečętka"
+      loc: "odpečętku"
+      dat: "odpečętku"
+      ins: "odpečętkom"
+      voc: "odpečętče"
+    plural: 
+      nom: "odpečętky"
+      acc: "odpečętky"
+      gen: "odpečętkov"
+      loc: "odpečętkah"
+      dat: "odpečętkam"
+      ins: "odpečętkami"
+      voc: "odpečętky"

@@ -1,0 +1,45 @@
+---
+  - 
+    id: "8126"
+    word: "izstava"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "izstava"
+        acc: "izstavų"
+        gen: "izstavy"
+        loc: "izstavě"
+        dat: "izstavě"
+        ins: "izstavojų"
+        voc: "izstavo"
+      plural: 
+        nom: "izstavy"
+        acc: "izstavy"
+        gen: "izstav"
+        loc: "izstavah"
+        dat: "izstavam"
+        ins: "izstavami"
+        voc: "izstavy"
+  - 
+    id: "8126"
+    word: "izstavka"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "izstavka"
+        acc: "izstavkų"
+        gen: "izstavky"
+        loc: "izstavkě"
+        dat: "izstavkě"
+        ins: "izstavkojų"
+        voc: "izstavko"
+      plural: 
+        nom: "izstavky"
+        acc: "izstavky"
+        gen: "izstavȯk"
+        loc: "izstavkah"
+        dat: "izstavkam"
+        ins: "izstavkami"
+        voc: "izstavky"

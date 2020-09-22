@@ -1,0 +1,22 @@
+---
+  id: "6711"
+  word: "brusnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brusnica"
+      acc: "brusnicų"
+      gen: "brusnice"
+      loc: "brusnici"
+      dat: "brusnici"
+      ins: "brusnicejų"
+      voc: "brusnico"
+    plural: 
+      nom: "brusnice"
+      acc: "brusnice"
+      gen: "brusnic"
+      loc: "brusnicah"
+      dat: "brusnicam"
+      ins: "brusnicami"
+      voc: "brusnice"

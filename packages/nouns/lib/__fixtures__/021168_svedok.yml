@@ -1,0 +1,23 @@
+---
+  id: "21168"
+  word: "svědȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svědȯk"
+      acc: "svědka"
+      gen: "svědka"
+      loc: "svědku"
+      dat: "svědku"
+      ins: "svědkom"
+      voc: "svědče"
+    plural: 
+      nom: "svědki"
+      acc: "svědkov"
+      gen: "svědkov"
+      loc: "svědkah"
+      dat: "svědkam"
+      ins: "svědkami"
+      voc: "svědki"

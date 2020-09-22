@@ -1,0 +1,22 @@
+---
+  id: "3686"
+  word: "povyšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "povyšeńje"
+      acc: "povyšeńje"
+      gen: "povyšeńja"
+      loc: "povyšeńju"
+      dat: "povyšeńju"
+      ins: "povyšeńjem"
+      voc: "povyšeńje"
+    plural: 
+      nom: "povyšeńja"
+      acc: "povyšeńja"
+      gen: "povyšenij"
+      loc: "povyšeńjah"
+      dat: "povyšeńjam"
+      ins: "povyšeńjami"
+      voc: "povyšeńja"

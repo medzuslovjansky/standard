@@ -1,0 +1,22 @@
+---
+  id: "19228"
+  word: "vlåžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlåžnosť"
+      acc: "vlåžnosť"
+      gen: "vlåžnosti"
+      loc: "vlåžnosti"
+      dat: "vlåžnosti"
+      ins: "vlåžnosťjų"
+      voc: "vlåžnosti"
+    plural: 
+      nom: "vlåžnosti"
+      acc: "vlåžnosti"
+      gen: "vlåžnostij"
+      loc: "vlåžnosťah"
+      dat: "vlåžnosťam"
+      ins: "vlåžnosťami"
+      voc: "vlåžnosti"

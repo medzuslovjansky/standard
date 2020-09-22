@@ -1,0 +1,23 @@
+---
+  id: "3000"
+  word: "katolik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "katolik"
+      acc: "katolika"
+      gen: "katolika"
+      loc: "katoliku"
+      dat: "katoliku"
+      ins: "katolikom"
+      voc: "katoliče"
+    plural: 
+      nom: "katoliki"
+      acc: "katolikov"
+      gen: "katolikov"
+      loc: "katolikah"
+      dat: "katolikam"
+      ins: "katolikami"
+      voc: "katoliki"

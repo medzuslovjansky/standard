@@ -1,0 +1,22 @@
+---
+  id: "21796"
+  word: "sųstav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sųstav"
+      acc: "sųstav"
+      gen: "sųstava"
+      loc: "sųstavu"
+      dat: "sųstavu"
+      ins: "sųstavom"
+      voc: "sųstave"
+    plural: 
+      nom: "sųstavy"
+      acc: "sųstavy"
+      gen: "sųstavov"
+      loc: "sųstavah"
+      dat: "sųstavam"
+      ins: "sųstavami"
+      voc: "sųstavy"

@@ -1,0 +1,22 @@
+---
+  id: "4949"
+  word: "filtr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "filtr"
+      acc: "filtr"
+      gen: "filtra"
+      loc: "filtru"
+      dat: "filtru"
+      ins: "filtrom"
+      voc: "filtre"
+    plural: 
+      nom: "filtry"
+      acc: "filtry"
+      gen: "filtrov"
+      loc: "filtrah"
+      dat: "filtram"
+      ins: "filtrami"
+      voc: "filtry"

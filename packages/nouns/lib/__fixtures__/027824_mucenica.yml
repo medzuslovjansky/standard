@@ -1,0 +1,22 @@
+---
+  id: "27824"
+  word: "mųčenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųčenica"
+      acc: "mųčenicų"
+      gen: "mųčenice"
+      loc: "mųčenici"
+      dat: "mųčenici"
+      ins: "mųčenicejų"
+      voc: "mųčenico"
+    plural: 
+      nom: "mųčenice"
+      acc: "mųčenice"
+      gen: "mųčenic"
+      loc: "mųčenicah"
+      dat: "mųčenicam"
+      ins: "mųčenicami"
+      voc: "mųčenice"

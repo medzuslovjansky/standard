@@ -1,0 +1,23 @@
+---
+  id: "6805"
+  word: "čarovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čarovnik"
+      acc: "čarovnika"
+      gen: "čarovnika"
+      loc: "čarovniku"
+      dat: "čarovniku"
+      ins: "čarovnikom"
+      voc: "čarovniče"
+    plural: 
+      nom: "čarovniki"
+      acc: "čarovnikov"
+      gen: "čarovnikov"
+      loc: "čarovnikah"
+      dat: "čarovnikam"
+      ins: "čarovnikami"
+      voc: "čarovniki"

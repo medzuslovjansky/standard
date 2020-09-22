@@ -1,0 +1,22 @@
+---
+  id: "23226"
+  word: "nervoznosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nervoznosť"
+      acc: "nervoznosť"
+      gen: "nervoznosti"
+      loc: "nervoznosti"
+      dat: "nervoznosti"
+      ins: "nervoznosťjų"
+      voc: "nervoznosti"
+    plural: 
+      nom: "nervoznosti"
+      acc: "nervoznosti"
+      gen: "nervoznostij"
+      loc: "nervoznosťah"
+      dat: "nervoznosťam"
+      ins: "nervoznosťami"
+      voc: "nervoznosti"

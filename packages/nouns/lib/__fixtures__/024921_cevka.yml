@@ -1,0 +1,22 @@
+---
+  id: "24921"
+  word: "cěvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cěvka"
+      acc: "cěvkų"
+      gen: "cěvky"
+      loc: "cěvkě"
+      dat: "cěvkě"
+      ins: "cěvkojų"
+      voc: "cěvko"
+    plural: 
+      nom: "cěvky"
+      acc: "cěvky"
+      gen: "cěvȯk"
+      loc: "cěvkah"
+      dat: "cěvkam"
+      ins: "cěvkami"
+      voc: "cěvky"

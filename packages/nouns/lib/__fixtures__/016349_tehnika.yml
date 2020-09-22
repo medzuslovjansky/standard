@@ -1,0 +1,22 @@
+---
+  id: "16349"
+  word: "tehnika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tehnika"
+      acc: "tehnikų"
+      gen: "tehniky"
+      loc: "tehnikě"
+      dat: "tehnikě"
+      ins: "tehnikojų"
+      voc: "tehniko"
+    plural: 
+      nom: "tehniky"
+      acc: "tehniky"
+      gen: "tehnik"
+      loc: "tehnikah"
+      dat: "tehnikam"
+      ins: "tehnikami"
+      voc: "tehniky"

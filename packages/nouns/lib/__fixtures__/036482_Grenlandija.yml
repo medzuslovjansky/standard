@@ -1,0 +1,15 @@
+---
+  id: "36482"
+  word: "Grenlandija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Grenlandija"
+      acc: "Grenlandijų"
+      gen: "Grenlandije"
+      loc: "Grenlandiji"
+      dat: "Grenlandiji"
+      ins: "Grenlandijejų"
+      voc: "Grenlandijo"

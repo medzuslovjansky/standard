@@ -1,0 +1,23 @@
+---
+  id: "14314"
+  word: "izvěstnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izvěstnik"
+      acc: "izvěstnika"
+      gen: "izvěstnika"
+      loc: "izvěstniku"
+      dat: "izvěstniku"
+      ins: "izvěstnikom"
+      voc: "izvěstniče"
+    plural: 
+      nom: "izvěstniki"
+      acc: "izvěstnikov"
+      gen: "izvěstnikov"
+      loc: "izvěstnikah"
+      dat: "izvěstnikam"
+      ins: "izvěstnikami"
+      voc: "izvěstniki"

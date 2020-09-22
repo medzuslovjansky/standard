@@ -1,0 +1,22 @@
+---
+  id: "21059"
+  word: "pręžka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pręžka"
+      acc: "pręžkų"
+      gen: "pręžky"
+      loc: "pręžkě"
+      dat: "pręžkě"
+      ins: "pręžkojų"
+      voc: "pręžko"
+    plural: 
+      nom: "pręžky"
+      acc: "pręžky"
+      gen: "pręžek"
+      loc: "pręžkah"
+      dat: "pręžkam"
+      ins: "pręžkami"
+      voc: "pręžky"

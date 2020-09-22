@@ -1,0 +1,23 @@
+---
+  id: "22247"
+  word: "vojevoda"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vojevoda"
+      acc: "vojevodų"
+      gen: "vojevody"
+      loc: "vojevodě"
+      dat: "vojevodě"
+      ins: "vojevodojų"
+      voc: "vojevodo"
+    plural: 
+      nom: "vojevodi"
+      acc: "vojevodov"
+      gen: "vojevodov"
+      loc: "vojevodah"
+      dat: "vojevodam"
+      ins: "vojevodami"
+      voc: "vojevodi"

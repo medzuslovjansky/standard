@@ -1,0 +1,22 @@
+---
+  id: "36231"
+  word: "interier"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "interier"
+      acc: "interier"
+      gen: "interiera"
+      loc: "interieru"
+      dat: "interieru"
+      ins: "interierom"
+      voc: "interiere"
+    plural: 
+      nom: "interiery"
+      acc: "interiery"
+      gen: "interierov"
+      loc: "interierah"
+      dat: "interieram"
+      ins: "interierami"
+      voc: "interiery"

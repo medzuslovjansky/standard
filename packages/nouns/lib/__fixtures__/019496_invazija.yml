@@ -1,0 +1,22 @@
+---
+  id: "19496"
+  word: "invazija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "invazija"
+      acc: "invazijų"
+      gen: "invazije"
+      loc: "invaziji"
+      dat: "invaziji"
+      ins: "invazijejų"
+      voc: "invazijo"
+    plural: 
+      nom: "invazije"
+      acc: "invazije"
+      gen: "invazij"
+      loc: "invazijah"
+      dat: "invazijam"
+      ins: "invazijami"
+      voc: "invazije"

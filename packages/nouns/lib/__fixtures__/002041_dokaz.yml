@@ -1,0 +1,22 @@
+---
+  id: "2041"
+  word: "dokaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dokaz"
+      acc: "dokaz"
+      gen: "dokaza"
+      loc: "dokazu"
+      dat: "dokazu"
+      ins: "dokazom"
+      voc: "dokaze"
+    plural: 
+      nom: "dokazy"
+      acc: "dokazy"
+      gen: "dokazov"
+      loc: "dokazah"
+      dat: "dokazam"
+      ins: "dokazami"
+      voc: "dokazy"

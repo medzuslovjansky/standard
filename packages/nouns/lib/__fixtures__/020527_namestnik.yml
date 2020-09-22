@@ -1,0 +1,23 @@
+---
+  id: "20527"
+  word: "naměstnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "naměstnik"
+      acc: "naměstnika"
+      gen: "naměstnika"
+      loc: "naměstniku"
+      dat: "naměstniku"
+      ins: "naměstnikom"
+      voc: "naměstniče"
+    plural: 
+      nom: "naměstniki"
+      acc: "naměstnikov"
+      gen: "naměstnikov"
+      loc: "naměstnikah"
+      dat: "naměstnikam"
+      ins: "naměstnikami"
+      voc: "naměstniki"

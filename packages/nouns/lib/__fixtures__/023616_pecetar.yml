@@ -1,0 +1,23 @@
+---
+  id: "23616"
+  word: "pečętaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pečętaŕ"
+      acc: "pečętaŕa"
+      gen: "pečętaŕa"
+      loc: "pečętaŕu"
+      dat: "pečętaŕu"
+      ins: "pečętaŕem"
+      voc: "pečętaŕu"
+    plural: 
+      nom: "pečętari"
+      acc: "pečętaŕev"
+      gen: "pečętaŕev"
+      loc: "pečętaŕah"
+      dat: "pečętaŕam"
+      ins: "pečętaŕami"
+      voc: "pečętari"

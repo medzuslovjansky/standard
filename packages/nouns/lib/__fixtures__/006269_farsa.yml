@@ -1,0 +1,22 @@
+---
+  id: "6269"
+  word: "farsa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "farsa"
+      acc: "farsų"
+      gen: "farsy"
+      loc: "farsě"
+      dat: "farsě"
+      ins: "farsojų"
+      voc: "farso"
+    plural: 
+      nom: "farsy"
+      acc: "farsy"
+      gen: "fars"
+      loc: "farsah"
+      dat: "farsam"
+      ins: "farsami"
+      voc: "farsy"

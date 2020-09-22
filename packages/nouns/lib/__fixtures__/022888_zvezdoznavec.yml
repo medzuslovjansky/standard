@@ -1,0 +1,23 @@
+---
+  id: "22888"
+  word: "zvězdoznavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zvězdoznavec"
+      acc: "zvězdoznavca"
+      gen: "zvězdoznavca"
+      loc: "zvězdoznavcu"
+      dat: "zvězdoznavcu"
+      ins: "zvězdoznavcem"
+      voc: "zvězdoznavče"
+    plural: 
+      nom: "zvězdoznavci"
+      acc: "zvězdoznavcev"
+      gen: "zvězdoznavcev"
+      loc: "zvězdoznavcah"
+      dat: "zvězdoznavcam"
+      ins: "zvězdoznavcami"
+      voc: "zvězdoznavci"

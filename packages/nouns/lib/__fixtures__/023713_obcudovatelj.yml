@@ -1,0 +1,23 @@
+---
+  id: "23713"
+  word: "občudovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "občudovatelj"
+      acc: "občudovatelja"
+      gen: "občudovatelja"
+      loc: "občudovatelju"
+      dat: "občudovatelju"
+      ins: "občudovateljem"
+      voc: "občudovatelju"
+    plural: 
+      nom: "občudovatelji"
+      acc: "občudovateljev"
+      gen: "občudovateljev"
+      loc: "občudovateljah"
+      dat: "občudovateljam"
+      ins: "občudovateljami"
+      voc: "občudovatelji"

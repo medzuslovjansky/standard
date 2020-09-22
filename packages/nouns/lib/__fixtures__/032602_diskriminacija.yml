@@ -1,0 +1,15 @@
+---
+  id: "32602"
+  word: "diskriminacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "diskriminacija"
+      acc: "diskriminacijų"
+      gen: "diskriminacije"
+      loc: "diskriminaciji"
+      dat: "diskriminaciji"
+      ins: "diskriminacijejų"
+      voc: "diskriminacijo"

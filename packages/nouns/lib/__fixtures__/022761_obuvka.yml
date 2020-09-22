@@ -1,0 +1,22 @@
+---
+  id: "22761"
+  word: "obuvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obuvka"
+      acc: "obuvkų"
+      gen: "obuvky"
+      loc: "obuvkě"
+      dat: "obuvkě"
+      ins: "obuvkojų"
+      voc: "obuvko"
+    plural: 
+      nom: "obuvky"
+      acc: "obuvky"
+      gen: "obuvȯk"
+      loc: "obuvkah"
+      dat: "obuvkam"
+      ins: "obuvkami"
+      voc: "obuvky"

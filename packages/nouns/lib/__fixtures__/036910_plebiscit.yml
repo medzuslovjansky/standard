@@ -1,0 +1,22 @@
+---
+  id: "36910"
+  word: "plebiscit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plebiscit"
+      acc: "plebiscit"
+      gen: "plebiscita"
+      loc: "plebiscitu"
+      dat: "plebiscitu"
+      ins: "plebiscitom"
+      voc: "plebiscite"
+    plural: 
+      nom: "plebiscity"
+      acc: "plebiscity"
+      gen: "plebiscitov"
+      loc: "plebiscitah"
+      dat: "plebiscitam"
+      ins: "plebiscitami"
+      voc: "plebiscity"

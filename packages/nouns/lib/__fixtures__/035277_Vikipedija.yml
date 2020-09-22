@@ -1,0 +1,22 @@
+---
+  id: "35277"
+  word: "Vikipedija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Vikipedija"
+      acc: "Vikipedijų"
+      gen: "Vikipedije"
+      loc: "Vikipediji"
+      dat: "Vikipediji"
+      ins: "Vikipedijejų"
+      voc: "Vikipedijo"
+    plural: 
+      nom: "Vikipedije"
+      acc: "Vikipedije"
+      gen: "Vikipedij"
+      loc: "Vikipedijah"
+      dat: "Vikipedijam"
+      ins: "Vikipedijami"
+      voc: "Vikipedije"

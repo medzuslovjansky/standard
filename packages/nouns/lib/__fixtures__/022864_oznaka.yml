@@ -1,0 +1,22 @@
+---
+  id: "22864"
+  word: "oznaka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oznaka"
+      acc: "oznakų"
+      gen: "oznaky"
+      loc: "oznakě"
+      dat: "oznakě"
+      ins: "oznakojų"
+      voc: "oznako"
+    plural: 
+      nom: "oznaky"
+      acc: "oznaky"
+      gen: "oznak"
+      loc: "oznakah"
+      dat: "oznakam"
+      ins: "oznakami"
+      voc: "oznaky"

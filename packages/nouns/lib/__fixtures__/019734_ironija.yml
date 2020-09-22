@@ -1,0 +1,22 @@
+---
+  id: "19734"
+  word: "ironija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ironija"
+      acc: "ironijų"
+      gen: "ironije"
+      loc: "ironiji"
+      dat: "ironiji"
+      ins: "ironijejų"
+      voc: "ironijo"
+    plural: 
+      nom: "ironije"
+      acc: "ironije"
+      gen: "ironij"
+      loc: "ironijah"
+      dat: "ironijam"
+      ins: "ironijami"
+      voc: "ironije"

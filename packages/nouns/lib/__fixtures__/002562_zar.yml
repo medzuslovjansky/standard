@@ -1,0 +1,22 @@
+---
+  id: "2562"
+  word: "žar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žar"
+      acc: "žar"
+      gen: "žara"
+      loc: "žaru"
+      dat: "žaru"
+      ins: "žarom"
+      voc: "žare"
+    plural: 
+      nom: "žary"
+      acc: "žary"
+      gen: "žarov"
+      loc: "žarah"
+      dat: "žaram"
+      ins: "žarami"
+      voc: "žary"

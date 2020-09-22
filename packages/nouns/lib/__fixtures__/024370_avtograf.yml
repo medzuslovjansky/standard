@@ -1,0 +1,22 @@
+---
+  id: "24370"
+  word: "avtograf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtograf"
+      acc: "avtograf"
+      gen: "avtografa"
+      loc: "avtografu"
+      dat: "avtografu"
+      ins: "avtografom"
+      voc: "avtografe"
+    plural: 
+      nom: "avtografy"
+      acc: "avtografy"
+      gen: "avtografov"
+      loc: "avtografah"
+      dat: "avtografam"
+      ins: "avtografami"
+      voc: "avtografy"

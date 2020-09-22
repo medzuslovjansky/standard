@@ -1,0 +1,22 @@
+---
+  id: "32739"
+  word: "kolektiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolektiv"
+      acc: "kolektiv"
+      gen: "kolektiva"
+      loc: "kolektivu"
+      dat: "kolektivu"
+      ins: "kolektivom"
+      voc: "kolektive"
+    plural: 
+      nom: "kolektivy"
+      acc: "kolektivy"
+      gen: "kolektivov"
+      loc: "kolektivah"
+      dat: "kolektivam"
+      ins: "kolektivami"
+      voc: "kolektivy"

@@ -1,0 +1,22 @@
+---
+  id: "448"
+  word: "kaluža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaluža"
+      acc: "kalužų"
+      gen: "kaluže"
+      loc: "kaluži"
+      dat: "kaluži"
+      ins: "kalužejų"
+      voc: "kalužo"
+    plural: 
+      nom: "kaluže"
+      acc: "kaluže"
+      gen: "kaluž"
+      loc: "kalužah"
+      dat: "kalužam"
+      ins: "kalužami"
+      voc: "kaluže"

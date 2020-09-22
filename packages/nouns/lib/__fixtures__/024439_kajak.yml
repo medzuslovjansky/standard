@@ -1,0 +1,22 @@
+---
+  id: "24439"
+  word: "kajak"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kajak"
+      acc: "kajak"
+      gen: "kajaki"
+      loc: "kajaki"
+      dat: "kajaki"
+      ins: "kajakjų"
+      voc: "kajaki"
+    plural: 
+      nom: "kajaki"
+      acc: "kajaki"
+      gen: "kajakij"
+      loc: "kajakah"
+      dat: "kajakam"
+      ins: "kajakami"
+      voc: "kajaki"

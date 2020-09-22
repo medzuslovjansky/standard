@@ -1,0 +1,22 @@
+---
+  id: "2373"
+  word: "plast"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plast"
+      acc: "plast"
+      gen: "plasta"
+      loc: "plastu"
+      dat: "plastu"
+      ins: "plastom"
+      voc: "plaste"
+    plural: 
+      nom: "plasty"
+      acc: "plasty"
+      gen: "plastov"
+      loc: "plastah"
+      dat: "plastam"
+      ins: "plastami"
+      voc: "plasty"

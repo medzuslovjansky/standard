@@ -1,0 +1,23 @@
+---
+  id: "24129"
+  word: "agresor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "agresor"
+      acc: "agresora"
+      gen: "agresora"
+      loc: "agresoru"
+      dat: "agresoru"
+      ins: "agresorom"
+      voc: "agresore"
+    plural: 
+      nom: "agresori"
+      acc: "agresorov"
+      gen: "agresorov"
+      loc: "agresorah"
+      dat: "agresoram"
+      ins: "agresorami"
+      voc: "agresori"

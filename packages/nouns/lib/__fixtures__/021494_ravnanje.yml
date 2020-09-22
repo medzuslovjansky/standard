@@ -1,0 +1,22 @@
+---
+  id: "21494"
+  word: "råvnańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råvnańje"
+      acc: "råvnańje"
+      gen: "råvnańja"
+      loc: "råvnańju"
+      dat: "råvnańju"
+      ins: "råvnańjem"
+      voc: "råvnańje"
+    plural: 
+      nom: "råvnańja"
+      acc: "råvnańja"
+      gen: "råvnanij"
+      loc: "råvnańjah"
+      dat: "råvnańjam"
+      ins: "råvnańjami"
+      voc: "råvnańja"

@@ -1,0 +1,22 @@
+---
+  id: "21251"
+  word: "živopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "živopis"
+      acc: "živopis"
+      gen: "živopisa"
+      loc: "živopisu"
+      dat: "živopisu"
+      ins: "živopisom"
+      voc: "živopise"
+    plural: 
+      nom: "živopisy"
+      acc: "živopisy"
+      gen: "živopisov"
+      loc: "živopisah"
+      dat: "živopisam"
+      ins: "živopisami"
+      voc: "živopisy"

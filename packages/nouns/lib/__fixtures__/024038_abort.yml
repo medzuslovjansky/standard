@@ -1,0 +1,22 @@
+---
+  id: "24038"
+  word: "abort"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abort"
+      acc: "abort"
+      gen: "aborta"
+      loc: "abortu"
+      dat: "abortu"
+      ins: "abortom"
+      voc: "aborte"
+    plural: 
+      nom: "aborty"
+      acc: "aborty"
+      gen: "abortov"
+      loc: "abortah"
+      dat: "abortam"
+      ins: "abortami"
+      voc: "aborty"

@@ -1,0 +1,15 @@
+---
+  id: "5712"
+  word: "izseljeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izseljeńje"
+      acc: "izseljeńje"
+      gen: "izseljeńja"
+      loc: "izseljeńju"
+      dat: "izseljeńju"
+      ins: "izseljeńjem"
+      voc: "izseljeńje"

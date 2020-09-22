@@ -1,0 +1,15 @@
+---
+  id: "3821"
+  word: "ryž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ryž"
+      acc: "ryž"
+      gen: "ryža"
+      loc: "ryžu"
+      dat: "ryžu"
+      ins: "ryžem"
+      voc: "ryžu"

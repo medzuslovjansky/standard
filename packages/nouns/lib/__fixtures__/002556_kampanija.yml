@@ -1,0 +1,22 @@
+---
+  id: "2556"
+  word: "kampanija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kampanija"
+      acc: "kampanijų"
+      gen: "kampanije"
+      loc: "kampaniji"
+      dat: "kampaniji"
+      ins: "kampanijejų"
+      voc: "kampanijo"
+    plural: 
+      nom: "kampanije"
+      acc: "kampanije"
+      gen: "kampanij"
+      loc: "kampanijah"
+      dat: "kampanijam"
+      ins: "kampanijami"
+      voc: "kampanije"

@@ -1,0 +1,22 @@
+---
+  id: "1228"
+  word: "pråsętko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pråsętko"
+      acc: "pråsętko"
+      gen: "pråsętka"
+      loc: "pråsętku"
+      dat: "pråsętku"
+      ins: "pråsętkom"
+      voc: "pråsętko"
+    plural: 
+      nom: "pråsętka"
+      acc: "pråsętka"
+      gen: "pråsętȯk"
+      loc: "pråsętkah"
+      dat: "pråsętkam"
+      ins: "pråsętkami"
+      voc: "pråsętka"

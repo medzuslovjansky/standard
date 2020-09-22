@@ -1,0 +1,15 @@
+---
+  id: "16824"
+  word: "Balkany"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Balkany"
+      acc: "Balkany"
+      gen: "Balkanov"
+      loc: "Balkanah"
+      dat: "Balkanam"
+      ins: "Balkanami"
+      voc: "Balkany"

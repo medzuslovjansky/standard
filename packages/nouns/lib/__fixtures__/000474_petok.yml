@@ -1,0 +1,22 @@
+---
+  id: "474"
+  word: "pętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pętȯk"
+      acc: "pętȯk"
+      gen: "pętka"
+      loc: "pętku"
+      dat: "pętku"
+      ins: "pętkom"
+      voc: "pętče"
+    plural: 
+      nom: "pętky"
+      acc: "pętky"
+      gen: "pętkov"
+      loc: "pętkah"
+      dat: "pętkam"
+      ins: "pętkami"
+      voc: "pętky"

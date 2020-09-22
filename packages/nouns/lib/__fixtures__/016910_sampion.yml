@@ -1,0 +1,23 @@
+---
+  id: "16910"
+  word: "šampion"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šampion"
+      acc: "šampiona"
+      gen: "šampiona"
+      loc: "šampionu"
+      dat: "šampionu"
+      ins: "šampionom"
+      voc: "šampione"
+    plural: 
+      nom: "šampioni"
+      acc: "šampionov"
+      gen: "šampionov"
+      loc: "šampionah"
+      dat: "šampionam"
+      ins: "šampionami"
+      voc: "šampioni"

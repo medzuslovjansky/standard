@@ -1,0 +1,22 @@
+---
+  id: "19844"
+  word: "mentaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mentaľnosť"
+      acc: "mentaľnosť"
+      gen: "mentaľnosti"
+      loc: "mentaľnosti"
+      dat: "mentaľnosti"
+      ins: "mentaľnosťjų"
+      voc: "mentaľnosti"
+    plural: 
+      nom: "mentaľnosti"
+      acc: "mentaľnosti"
+      gen: "mentaľnostij"
+      loc: "mentaľnosťah"
+      dat: "mentaľnosťam"
+      ins: "mentaľnosťami"
+      voc: "mentaľnosti"

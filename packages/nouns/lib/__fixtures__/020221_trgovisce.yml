@@ -1,0 +1,22 @@
+---
+  id: "20221"
+  word: "trgovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "trgovišče"
+      acc: "trgovišče"
+      gen: "trgovišča"
+      loc: "trgovišču"
+      dat: "trgovišču"
+      ins: "trgoviščem"
+      voc: "trgovišče"
+    plural: 
+      nom: "trgovišča"
+      acc: "trgovišča"
+      gen: "trgovišč"
+      loc: "trgoviščah"
+      dat: "trgoviščam"
+      ins: "trgoviščami"
+      voc: "trgovišča"

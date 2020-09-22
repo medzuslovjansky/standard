@@ -1,0 +1,22 @@
+---
+  id: "4957"
+  word: "emigracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "emigracija"
+      acc: "emigracijų"
+      gen: "emigracije"
+      loc: "emigraciji"
+      dat: "emigraciji"
+      ins: "emigracijejų"
+      voc: "emigracijo"
+    plural: 
+      nom: "emigracije"
+      acc: "emigracije"
+      gen: "emigracij"
+      loc: "emigracijah"
+      dat: "emigracijam"
+      ins: "emigracijami"
+      voc: "emigracije"

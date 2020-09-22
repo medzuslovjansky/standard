@@ -1,0 +1,15 @@
+---
+  id: "484"
+  word: "dostojnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dostojnosť"
+      acc: "dostojnosť"
+      gen: "dostojnosti"
+      loc: "dostojnosti"
+      dat: "dostojnosti"
+      ins: "dostojnosťjų"
+      voc: "dostojnosti"

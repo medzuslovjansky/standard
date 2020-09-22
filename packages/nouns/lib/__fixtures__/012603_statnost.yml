@@ -1,0 +1,22 @@
+---
+  id: "12603"
+  word: "statnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "statnosť"
+      acc: "statnosť"
+      gen: "statnosti"
+      loc: "statnosti"
+      dat: "statnosti"
+      ins: "statnosťjų"
+      voc: "statnosti"
+    plural: 
+      nom: "statnosti"
+      acc: "statnosti"
+      gen: "statnostij"
+      loc: "statnosťah"
+      dat: "statnosťam"
+      ins: "statnosťami"
+      voc: "statnosti"

@@ -1,0 +1,22 @@
+---
+  id: "33075"
+  word: "srastańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "srastańje"
+      acc: "srastańje"
+      gen: "srastańja"
+      loc: "srastańju"
+      dat: "srastańju"
+      ins: "srastańjem"
+      voc: "srastańje"
+    plural: 
+      nom: "srastańja"
+      acc: "srastańja"
+      gen: "srastanij"
+      loc: "srastańjah"
+      dat: "srastańjam"
+      ins: "srastańjami"
+      voc: "srastańja"

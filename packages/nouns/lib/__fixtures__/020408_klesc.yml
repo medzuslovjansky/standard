@@ -1,0 +1,23 @@
+---
+  id: "20408"
+  word: "klěšč"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "klěšč"
+      acc: "klěšča"
+      gen: "klěšča"
+      loc: "klěšču"
+      dat: "klěšču"
+      ins: "klěščem"
+      voc: "klěšču"
+    plural: 
+      nom: "klěšči"
+      acc: "klěščev"
+      gen: "klěščev"
+      loc: "klěščah"
+      dat: "klěščam"
+      ins: "klěščami"
+      voc: "klěšči"

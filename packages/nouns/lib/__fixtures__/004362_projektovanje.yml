@@ -1,0 +1,22 @@
+---
+  id: "4362"
+  word: "projektovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "projektovańje"
+      acc: "projektovańje"
+      gen: "projektovańja"
+      loc: "projektovańju"
+      dat: "projektovańju"
+      ins: "projektovańjem"
+      voc: "projektovańje"
+    plural: 
+      nom: "projektovańja"
+      acc: "projektovańja"
+      gen: "projektovanij"
+      loc: "projektovańjah"
+      dat: "projektovańjam"
+      ins: "projektovańjami"
+      voc: "projektovańja"

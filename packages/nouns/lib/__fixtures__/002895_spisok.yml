@@ -1,0 +1,22 @@
+---
+  id: "2895"
+  word: "spisȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spisȯk"
+      acc: "spisȯk"
+      gen: "spiska"
+      loc: "spisku"
+      dat: "spisku"
+      ins: "spiskom"
+      voc: "spisče"
+    plural: 
+      nom: "spisky"
+      acc: "spisky"
+      gen: "spiskov"
+      loc: "spiskah"
+      dat: "spiskam"
+      ins: "spiskami"
+      voc: "spisky"

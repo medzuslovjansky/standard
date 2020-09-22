@@ -1,0 +1,22 @@
+---
+  id: "23859"
+  word: "listȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "listȯk"
+      acc: "listȯk"
+      gen: "listka"
+      loc: "listku"
+      dat: "listku"
+      ins: "listkom"
+      voc: "listče"
+    plural: 
+      nom: "listky"
+      acc: "listky"
+      gen: "listkov"
+      loc: "listkah"
+      dat: "listkam"
+      ins: "listkami"
+      voc: "listky"

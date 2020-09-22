@@ -1,0 +1,22 @@
+---
+  id: "17711"
+  word: "krysa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krysa"
+      acc: "krysų"
+      gen: "krysy"
+      loc: "krysě"
+      dat: "krysě"
+      ins: "krysojų"
+      voc: "kryso"
+    plural: 
+      nom: "krysy"
+      acc: "krysy"
+      gen: "krys"
+      loc: "krysah"
+      dat: "krysam"
+      ins: "krysami"
+      voc: "krysy"

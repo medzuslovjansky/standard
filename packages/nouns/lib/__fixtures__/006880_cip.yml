@@ -1,0 +1,22 @@
+---
+  id: "6880"
+  word: "čip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čip"
+      acc: "čip"
+      gen: "čipa"
+      loc: "čipu"
+      dat: "čipu"
+      ins: "čipom"
+      voc: "čipe"
+    plural: 
+      nom: "čipy"
+      acc: "čipy"
+      gen: "čipov"
+      loc: "čipah"
+      dat: "čipam"
+      ins: "čipami"
+      voc: "čipy"

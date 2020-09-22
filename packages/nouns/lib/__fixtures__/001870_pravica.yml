@@ -1,0 +1,22 @@
+---
+  id: "1870"
+  word: "pravica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravica"
+      acc: "pravicų"
+      gen: "pravice"
+      loc: "pravici"
+      dat: "pravici"
+      ins: "pravicejų"
+      voc: "pravico"
+    plural: 
+      nom: "pravice"
+      acc: "pravice"
+      gen: "pravic"
+      loc: "pravicah"
+      dat: "pravicam"
+      ins: "pravicami"
+      voc: "pravice"

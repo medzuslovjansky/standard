@@ -1,0 +1,23 @@
+---
+  id: "2042"
+  word: "doktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "doktor"
+      acc: "doktora"
+      gen: "doktora"
+      loc: "doktoru"
+      dat: "doktoru"
+      ins: "doktorom"
+      voc: "doktore"
+    plural: 
+      nom: "doktori"
+      acc: "doktorov"
+      gen: "doktorov"
+      loc: "doktorah"
+      dat: "doktoram"
+      ins: "doktorami"
+      voc: "doktori"

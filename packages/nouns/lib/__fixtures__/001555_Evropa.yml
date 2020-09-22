@@ -1,0 +1,15 @@
+---
+  id: "1555"
+  word: "Evropa"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Evropa"
+      acc: "Evropų"
+      gen: "Evropy"
+      loc: "Evropě"
+      dat: "Evropě"
+      ins: "Evropojų"
+      voc: "Evropo"

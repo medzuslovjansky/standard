@@ -1,0 +1,22 @@
+---
+  id: "279"
+  word: "ubijstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ubijstvo"
+      acc: "ubijstvo"
+      gen: "ubijstva"
+      loc: "ubijstvu"
+      dat: "ubijstvu"
+      ins: "ubijstvom"
+      voc: "ubijstvo"
+    plural: 
+      nom: "ubijstva"
+      acc: "ubijstva"
+      gen: "ubijstv"
+      loc: "ubijstvah"
+      dat: "ubijstvam"
+      ins: "ubijstvami"
+      voc: "ubijstva"

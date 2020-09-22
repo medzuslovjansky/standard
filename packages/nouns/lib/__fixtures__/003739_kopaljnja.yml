@@ -1,0 +1,22 @@
+---
+  id: "3739"
+  word: "kopaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kopaljnja"
+      acc: "kopaljnjų"
+      gen: "kopaljnje"
+      loc: "kopaljnji"
+      dat: "kopaljnji"
+      ins: "kopaljnjejų"
+      voc: "kopaljnjo"
+    plural: 
+      nom: "kopaljnje"
+      acc: "kopaljnje"
+      gen: "kopaljnej"
+      loc: "kopaljnjah"
+      dat: "kopaljnjam"
+      ins: "kopaljnjami"
+      voc: "kopaljnje"

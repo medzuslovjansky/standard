@@ -1,0 +1,22 @@
+---
+  id: "12221"
+  word: "simbol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "simbol"
+      acc: "simbol"
+      gen: "simbola"
+      loc: "simbolu"
+      dat: "simbolu"
+      ins: "simbolom"
+      voc: "simbole"
+    plural: 
+      nom: "simboly"
+      acc: "simboly"
+      gen: "simbolov"
+      loc: "simbolah"
+      dat: "simbolam"
+      ins: "simbolami"
+      voc: "simboly"

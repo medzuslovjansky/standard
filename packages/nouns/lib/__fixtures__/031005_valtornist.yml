@@ -1,0 +1,23 @@
+---
+  id: "31005"
+  word: "valtornist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "valtornist"
+      acc: "valtornista"
+      gen: "valtornista"
+      loc: "valtornistu"
+      dat: "valtornistu"
+      ins: "valtornistom"
+      voc: "valtorniste"
+    plural: 
+      nom: "valtornisti"
+      acc: "valtornistov"
+      gen: "valtornistov"
+      loc: "valtornistah"
+      dat: "valtornistam"
+      ins: "valtornistami"
+      voc: "valtornisti"

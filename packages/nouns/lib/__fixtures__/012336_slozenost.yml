@@ -1,0 +1,22 @@
+---
+  id: "12336"
+  word: "složenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "složenosť"
+      acc: "složenosť"
+      gen: "složenosti"
+      loc: "složenosti"
+      dat: "složenosti"
+      ins: "složenosťjų"
+      voc: "složenosti"
+    plural: 
+      nom: "složenosti"
+      acc: "složenosti"
+      gen: "složenostij"
+      loc: "složenosťah"
+      dat: "složenosťam"
+      ins: "složenosťami"
+      voc: "složenosti"

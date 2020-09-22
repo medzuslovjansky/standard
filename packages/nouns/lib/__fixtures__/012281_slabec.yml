@@ -1,0 +1,23 @@
+---
+  id: "12281"
+  word: "slabec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slabec"
+      acc: "slabca"
+      gen: "slabca"
+      loc: "slabcu"
+      dat: "slabcu"
+      ins: "slabcem"
+      voc: "slabče"
+    plural: 
+      nom: "slabci"
+      acc: "slabcev"
+      gen: "slabcev"
+      loc: "slabcah"
+      dat: "slabcam"
+      ins: "slabcami"
+      voc: "slabci"

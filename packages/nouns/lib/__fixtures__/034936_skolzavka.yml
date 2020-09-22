@@ -1,0 +1,22 @@
+---
+  id: "34936"
+  word: "skȯlzavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skȯlzavka"
+      acc: "skȯlzavkų"
+      gen: "skȯlzavky"
+      loc: "skȯlzavkě"
+      dat: "skȯlzavkě"
+      ins: "skȯlzavkojų"
+      voc: "skȯlzavko"
+    plural: 
+      nom: "skȯlzavky"
+      acc: "skȯlzavky"
+      gen: "skȯlzavȯk"
+      loc: "skȯlzavkah"
+      dat: "skȯlzavkam"
+      ins: "skȯlzavkami"
+      voc: "skȯlzavky"

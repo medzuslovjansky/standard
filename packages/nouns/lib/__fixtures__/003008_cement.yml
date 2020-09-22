@@ -1,0 +1,22 @@
+---
+  id: "3008"
+  word: "cement"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cement"
+      acc: "cement"
+      gen: "cementa"
+      loc: "cementu"
+      dat: "cementu"
+      ins: "cementom"
+      voc: "cemente"
+    plural: 
+      nom: "cementy"
+      acc: "cementy"
+      gen: "cementov"
+      loc: "cementah"
+      dat: "cementam"
+      ins: "cementami"
+      voc: "cementy"

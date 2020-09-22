@@ -1,0 +1,23 @@
+---
+  id: "26417"
+  word: "kabaček"
+  meta: 
+    irregularity: "(kabačka)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kabačėk"
+      acc: "kabačėk"
+      gen: "kabačka"
+      loc: "kabačku"
+      dat: "kabačku"
+      ins: "kabačkom"
+      voc: "kabačče"
+    plural: 
+      nom: "kabačky"
+      acc: "kabačky"
+      gen: "kabačkov"
+      loc: "kabačkah"
+      dat: "kabačkam"
+      ins: "kabačkami"
+      voc: "kabačky"

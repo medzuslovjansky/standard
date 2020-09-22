@@ -1,0 +1,22 @@
+---
+  id: "10615"
+  word: "plaťba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plaťba"
+      acc: "plaťbų"
+      gen: "plaťby"
+      loc: "plaťbě"
+      dat: "plaťbě"
+      ins: "plaťbojų"
+      voc: "plaťbo"
+    plural: 
+      nom: "plaťby"
+      acc: "plaťby"
+      gen: "plaťb"
+      loc: "plaťbah"
+      dat: "plaťbam"
+      ins: "plaťbami"
+      voc: "plaťby"

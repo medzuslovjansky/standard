@@ -1,0 +1,23 @@
+---
+  id: "35250"
+  word: "dȯći"
+  meta: 
+    irregularity: "(dȯćere)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯći"
+      acc: "dȯćų"
+      gen: "dȯće"
+      loc: "dȯći"
+      dat: "dȯći"
+      ins: "dȯćejų"
+      voc: "dȯćo"
+    plural: 
+      nom: "dȯće"
+      acc: "dȯće"
+      gen: "dȯć"
+      loc: "dȯćah"
+      dat: "dȯćam"
+      ins: "dȯćami"
+      voc: "dȯće"

@@ -1,0 +1,23 @@
+---
+  id: "17471"
+  word: "Hristos"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Hristos"
+      acc: "Hristosa"
+      gen: "Hristosa"
+      loc: "Hristosu"
+      dat: "Hristosu"
+      ins: "Hristosom"
+      voc: "Hristose"
+    plural: 
+      nom: "Hristosi"
+      acc: "Hristosov"
+      gen: "Hristosov"
+      loc: "Hristosah"
+      dat: "Hristosam"
+      ins: "Hristosami"
+      voc: "Hristosi"

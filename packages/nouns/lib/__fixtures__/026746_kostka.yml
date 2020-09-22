@@ -1,0 +1,22 @@
+---
+  id: "26746"
+  word: "kostka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kostka"
+      acc: "kostkų"
+      gen: "kostky"
+      loc: "kostkě"
+      dat: "kostkě"
+      ins: "kostkojų"
+      voc: "kostko"
+    plural: 
+      nom: "kostky"
+      acc: "kostky"
+      gen: "kostȯk"
+      loc: "kostkah"
+      dat: "kostkam"
+      ins: "kostkami"
+      voc: "kostky"

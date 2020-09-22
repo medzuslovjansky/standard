@@ -1,0 +1,22 @@
+---
+  id: "21910"
+  word: "stroj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stroj"
+      acc: "stroj"
+      gen: "stroja"
+      loc: "stroju"
+      dat: "stroju"
+      ins: "strojem"
+      voc: "stroju"
+    plural: 
+      nom: "stroje"
+      acc: "stroje"
+      gen: "strojev"
+      loc: "strojah"
+      dat: "strojam"
+      ins: "strojami"
+      voc: "stroje"

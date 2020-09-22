@@ -1,0 +1,22 @@
+---
+  id: "25608"
+  word: "germanizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "germanizacija"
+      acc: "germanizacijų"
+      gen: "germanizacije"
+      loc: "germanizaciji"
+      dat: "germanizaciji"
+      ins: "germanizacijejų"
+      voc: "germanizacijo"
+    plural: 
+      nom: "germanizacije"
+      acc: "germanizacije"
+      gen: "germanizacij"
+      loc: "germanizacijah"
+      dat: "germanizacijam"
+      ins: "germanizacijami"
+      voc: "germanizacije"

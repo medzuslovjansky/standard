@@ -1,0 +1,23 @@
+---
+  id: "14072"
+  word: "zagraničnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zagraničnik"
+      acc: "zagraničnika"
+      gen: "zagraničnika"
+      loc: "zagraničniku"
+      dat: "zagraničniku"
+      ins: "zagraničnikom"
+      voc: "zagraničniče"
+    plural: 
+      nom: "zagraničniki"
+      acc: "zagraničnikov"
+      gen: "zagraničnikov"
+      loc: "zagraničnikah"
+      dat: "zagraničnikam"
+      ins: "zagraničnikami"
+      voc: "zagraničniki"

@@ -1,0 +1,22 @@
+---
+  id: "23701"
+  word: "koketka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koketka"
+      acc: "koketkų"
+      gen: "koketky"
+      loc: "koketkě"
+      dat: "koketkě"
+      ins: "koketkojų"
+      voc: "koketko"
+    plural: 
+      nom: "koketky"
+      acc: "koketky"
+      gen: "koketȯk"
+      loc: "koketkah"
+      dat: "koketkam"
+      ins: "koketkami"
+      voc: "koketky"

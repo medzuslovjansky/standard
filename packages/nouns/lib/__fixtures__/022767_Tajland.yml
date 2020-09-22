@@ -1,0 +1,15 @@
+---
+  id: "22767"
+  word: "Tajland"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Tajland"
+      acc: "Tajland"
+      gen: "Tajlanda"
+      loc: "Tajlandu"
+      dat: "Tajlandu"
+      ins: "Tajlandom"
+      voc: "Tajlande"

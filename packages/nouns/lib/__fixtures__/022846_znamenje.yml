@@ -1,0 +1,22 @@
+---
+  id: "22846"
+  word: "znameńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "znameńje"
+      acc: "znameńje"
+      gen: "znameńja"
+      loc: "znameńju"
+      dat: "znameńju"
+      ins: "znameńjem"
+      voc: "znameńje"
+    plural: 
+      nom: "znameńja"
+      acc: "znameńja"
+      gen: "znamenij"
+      loc: "znameńjah"
+      dat: "znameńjam"
+      ins: "znameńjami"
+      voc: "znameńja"

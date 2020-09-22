@@ -1,0 +1,22 @@
+---
+  id: "17778"
+  word: "městopoložeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "městopoložeńje"
+      acc: "městopoložeńje"
+      gen: "městopoložeńja"
+      loc: "městopoložeńju"
+      dat: "městopoložeńju"
+      ins: "městopoložeńjem"
+      voc: "městopoložeńje"
+    plural: 
+      nom: "městopoložeńja"
+      acc: "městopoložeńja"
+      gen: "městopoloženij"
+      loc: "městopoložeńjah"
+      dat: "městopoložeńjam"
+      ins: "městopoložeńjami"
+      voc: "městopoložeńja"

@@ -1,0 +1,22 @@
+---
+  id: "14829"
+  word: "pečenj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pečenj"
+      acc: "pečenj"
+      gen: "pečenji"
+      loc: "pečenji"
+      dat: "pečenji"
+      ins: "pečenjjų"
+      voc: "pečenji"
+    plural: 
+      nom: "pečenji"
+      acc: "pečenji"
+      gen: "pečenjij"
+      loc: "pečenjah"
+      dat: "pečenjam"
+      ins: "pečenjami"
+      voc: "pečenji"

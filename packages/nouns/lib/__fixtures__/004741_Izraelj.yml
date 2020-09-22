@@ -1,0 +1,15 @@
+---
+  id: "4741"
+  word: "Izraelj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Izraelj"
+      acc: "Izraelj"
+      gen: "Izraelja"
+      loc: "Izraelju"
+      dat: "Izraelju"
+      ins: "Izraeljem"
+      voc: "Izraelju"

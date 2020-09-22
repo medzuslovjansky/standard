@@ -1,0 +1,22 @@
+---
+  id: "23603"
+  word: "pedagogika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pedagogika"
+      acc: "pedagogikų"
+      gen: "pedagogiky"
+      loc: "pedagogikě"
+      dat: "pedagogikě"
+      ins: "pedagogikojų"
+      voc: "pedagogiko"
+    plural: 
+      nom: "pedagogiky"
+      acc: "pedagogiky"
+      gen: "pedagogik"
+      loc: "pedagogikah"
+      dat: "pedagogikam"
+      ins: "pedagogikami"
+      voc: "pedagogiky"

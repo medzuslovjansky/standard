@@ -1,0 +1,22 @@
+---
+  id: "31127"
+  word: "verbena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "verbena"
+      acc: "verbenų"
+      gen: "verbeny"
+      loc: "verbeně"
+      dat: "verbeně"
+      ins: "verbenojų"
+      voc: "verbeno"
+    plural: 
+      nom: "verbeny"
+      acc: "verbeny"
+      gen: "verben"
+      loc: "verbenah"
+      dat: "verbenam"
+      ins: "verbenami"
+      voc: "verbeny"

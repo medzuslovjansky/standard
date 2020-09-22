@@ -1,0 +1,22 @@
+---
+  id: "27547"
+  word: "měsęčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měsęčnik"
+      acc: "měsęčnik"
+      gen: "měsęčnika"
+      loc: "měsęčniku"
+      dat: "měsęčniku"
+      ins: "měsęčnikom"
+      voc: "měsęčniče"
+    plural: 
+      nom: "měsęčniky"
+      acc: "měsęčniky"
+      gen: "měsęčnikov"
+      loc: "měsęčnikah"
+      dat: "měsęčnikam"
+      ins: "měsęčnikami"
+      voc: "měsęčniky"

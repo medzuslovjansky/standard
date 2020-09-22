@@ -1,0 +1,22 @@
+---
+  id: "24539"
+  word: "baronesa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "baronesa"
+      acc: "baronesų"
+      gen: "baronesy"
+      loc: "baronesě"
+      dat: "baronesě"
+      ins: "baronesojų"
+      voc: "baroneso"
+    plural: 
+      nom: "baronesy"
+      acc: "baronesy"
+      gen: "barones"
+      loc: "baronesah"
+      dat: "baronesam"
+      ins: "baronesami"
+      voc: "baronesy"

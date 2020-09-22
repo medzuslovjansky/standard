@@ -1,0 +1,22 @@
+---
+  id: "35671"
+  word: "utočnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "utočnjeńje"
+      acc: "utočnjeńje"
+      gen: "utočnjeńja"
+      loc: "utočnjeńju"
+      dat: "utočnjeńju"
+      ins: "utočnjeńjem"
+      voc: "utočnjeńje"
+    plural: 
+      nom: "utočnjeńja"
+      acc: "utočnjeńja"
+      gen: "utočnjenij"
+      loc: "utočnjeńjah"
+      dat: "utočnjeńjam"
+      ins: "utočnjeńjami"
+      voc: "utočnjeńja"

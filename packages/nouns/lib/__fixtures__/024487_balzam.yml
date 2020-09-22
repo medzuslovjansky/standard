@@ -1,0 +1,22 @@
+---
+  id: "24487"
+  word: "balzam"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balzam"
+      acc: "balzam"
+      gen: "balzama"
+      loc: "balzamu"
+      dat: "balzamu"
+      ins: "balzamom"
+      voc: "balzame"
+    plural: 
+      nom: "balzamy"
+      acc: "balzamy"
+      gen: "balzamov"
+      loc: "balzamah"
+      dat: "balzamam"
+      ins: "balzamami"
+      voc: "balzamy"

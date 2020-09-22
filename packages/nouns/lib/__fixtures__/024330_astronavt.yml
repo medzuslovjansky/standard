@@ -1,0 +1,23 @@
+---
+  id: "24330"
+  word: "astronavt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "astronavt"
+      acc: "astronavta"
+      gen: "astronavta"
+      loc: "astronavtu"
+      dat: "astronavtu"
+      ins: "astronavtom"
+      voc: "astronavte"
+    plural: 
+      nom: "astronavti"
+      acc: "astronavtov"
+      gen: "astronavtov"
+      loc: "astronavtah"
+      dat: "astronavtam"
+      ins: "astronavtami"
+      voc: "astronavti"

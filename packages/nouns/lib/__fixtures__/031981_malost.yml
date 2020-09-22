@@ -1,0 +1,22 @@
+---
+  id: "31981"
+  word: "malosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "malosť"
+      acc: "malosť"
+      gen: "malosti"
+      loc: "malosti"
+      dat: "malosti"
+      ins: "malosťjų"
+      voc: "malosti"
+    plural: 
+      nom: "malosti"
+      acc: "malosti"
+      gen: "malostij"
+      loc: "malosťah"
+      dat: "malosťam"
+      ins: "malosťami"
+      voc: "malosti"

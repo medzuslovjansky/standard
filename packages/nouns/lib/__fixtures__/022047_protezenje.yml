@@ -1,0 +1,22 @@
+---
+  id: "22047"
+  word: "protęžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "protęžeńje"
+      acc: "protęžeńje"
+      gen: "protęžeńja"
+      loc: "protęžeńju"
+      dat: "protęžeńju"
+      ins: "protęžeńjem"
+      voc: "protęžeńje"
+    plural: 
+      nom: "protęžeńja"
+      acc: "protęžeńja"
+      gen: "protęženij"
+      loc: "protęžeńjah"
+      dat: "protęžeńjam"
+      ins: "protęžeńjami"
+      voc: "protęžeńja"

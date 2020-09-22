@@ -1,0 +1,23 @@
+---
+  id: "4419"
+  word: "arheolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "arheolog"
+      acc: "arheologa"
+      gen: "arheologa"
+      loc: "arheologu"
+      dat: "arheologu"
+      ins: "arheologom"
+      voc: "arheolože"
+    plural: 
+      nom: "arheologi"
+      acc: "arheologov"
+      gen: "arheologov"
+      loc: "arheologah"
+      dat: "arheologam"
+      ins: "arheologami"
+      voc: "arheologi"

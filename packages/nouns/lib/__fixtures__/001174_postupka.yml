@@ -1,0 +1,22 @@
+---
+  id: "1174"
+  word: "postųpka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "postųpka"
+      acc: "postųpkų"
+      gen: "postųpky"
+      loc: "postųpkě"
+      dat: "postųpkě"
+      ins: "postųpkojų"
+      voc: "postųpko"
+    plural: 
+      nom: "postųpky"
+      acc: "postųpky"
+      gen: "postųpȯk"
+      loc: "postųpkah"
+      dat: "postųpkam"
+      ins: "postųpkami"
+      voc: "postųpky"

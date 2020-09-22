@@ -1,0 +1,31 @@
+---
+  - 
+    id: "20196"
+    word: "sȯglåśje"
+    meta: 
+      gender: "neuter"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "sȯglåśje"
+        acc: "sȯglåśje"
+        gen: "sȯglåśja"
+        loc: "sȯglåśju"
+        dat: "sȯglåśju"
+        ins: "sȯglåśjem"
+        voc: "sȯglåśje"
+  - 
+    id: "20196"
+    word: "sųglåśje"
+    meta: 
+      gender: "neuter"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "sųglåśje"
+        acc: "sųglåśje"
+        gen: "sųglåśja"
+        loc: "sųglåśju"
+        dat: "sųglåśju"
+        ins: "sųglåśjem"
+        voc: "sųglåśje"

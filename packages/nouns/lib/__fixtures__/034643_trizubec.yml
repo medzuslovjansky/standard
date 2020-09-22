@@ -1,0 +1,22 @@
+---
+  id: "34643"
+  word: "trizųbec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trizųbec"
+      acc: "trizųbec"
+      gen: "trizųbca"
+      loc: "trizųbcu"
+      dat: "trizųbcu"
+      ins: "trizųbcem"
+      voc: "trizųbče"
+    plural: 
+      nom: "trizųbce"
+      acc: "trizųbce"
+      gen: "trizųbcev"
+      loc: "trizųbcah"
+      dat: "trizųbcam"
+      ins: "trizųbcami"
+      voc: "trizųbce"

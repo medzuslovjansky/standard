@@ -1,0 +1,22 @@
+---
+  id: "23530"
+  word: "oblěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oblěčeńje"
+      acc: "oblěčeńje"
+      gen: "oblěčeńja"
+      loc: "oblěčeńju"
+      dat: "oblěčeńju"
+      ins: "oblěčeńjem"
+      voc: "oblěčeńje"
+    plural: 
+      nom: "oblěčeńja"
+      acc: "oblěčeńja"
+      gen: "oblěčenij"
+      loc: "oblěčeńjah"
+      dat: "oblěčeńjam"
+      ins: "oblěčeńjami"
+      voc: "oblěčeńja"

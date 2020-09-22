@@ -1,0 +1,22 @@
+---
+  id: "26932"
+  word: "krųžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krųžeńje"
+      acc: "krųžeńje"
+      gen: "krųžeńja"
+      loc: "krųžeńju"
+      dat: "krųžeńju"
+      ins: "krųžeńjem"
+      voc: "krųžeńje"
+    plural: 
+      nom: "krųžeńja"
+      acc: "krųžeńja"
+      gen: "krųženij"
+      loc: "krųžeńjah"
+      dat: "krųžeńjam"
+      ins: "krųžeńjami"
+      voc: "krųžeńja"

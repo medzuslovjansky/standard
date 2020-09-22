@@ -1,0 +1,22 @@
+---
+  id: "17146"
+  word: "blågo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "blågo"
+      acc: "blågo"
+      gen: "blåga"
+      loc: "blågu"
+      dat: "blågu"
+      ins: "blågom"
+      voc: "blågo"
+    plural: 
+      nom: "blåga"
+      acc: "blåga"
+      gen: "blåg"
+      loc: "blågah"
+      dat: "blågam"
+      ins: "blågami"
+      voc: "blåga"

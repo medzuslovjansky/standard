@@ -1,0 +1,23 @@
+---
+  id: "19201"
+  word: "věstnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věstnik"
+      acc: "věstnika"
+      gen: "věstnika"
+      loc: "věstniku"
+      dat: "věstniku"
+      ins: "věstnikom"
+      voc: "věstniče"
+    plural: 
+      nom: "věstniki"
+      acc: "věstnikov"
+      gen: "věstnikov"
+      loc: "věstnikah"
+      dat: "věstnikam"
+      ins: "věstnikami"
+      voc: "věstniki"

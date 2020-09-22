@@ -1,0 +1,22 @@
+---
+  id: "6550"
+  word: "neuspěh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "neuspěh"
+      acc: "neuspěh"
+      gen: "neuspěha"
+      loc: "neuspěhu"
+      dat: "neuspěhu"
+      ins: "neuspěhom"
+      voc: "neuspěše"
+    plural: 
+      nom: "neuspěhy"
+      acc: "neuspěhy"
+      gen: "neuspěhov"
+      loc: "neuspěhah"
+      dat: "neuspěham"
+      ins: "neuspěhami"
+      voc: "neuspěhy"

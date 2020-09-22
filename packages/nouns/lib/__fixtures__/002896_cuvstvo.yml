@@ -1,0 +1,22 @@
+---
+  id: "2896"
+  word: "čuvstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čuvstvo"
+      acc: "čuvstvo"
+      gen: "čuvstva"
+      loc: "čuvstvu"
+      dat: "čuvstvu"
+      ins: "čuvstvom"
+      voc: "čuvstvo"
+    plural: 
+      nom: "čuvstva"
+      acc: "čuvstva"
+      gen: "čuvstv"
+      loc: "čuvstvah"
+      dat: "čuvstvam"
+      ins: "čuvstvami"
+      voc: "čuvstva"

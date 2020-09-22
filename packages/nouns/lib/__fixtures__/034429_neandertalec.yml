@@ -1,0 +1,23 @@
+---
+  id: "34429"
+  word: "neandertalec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neandertalec"
+      acc: "neandertalca"
+      gen: "neandertalca"
+      loc: "neandertalcu"
+      dat: "neandertalcu"
+      ins: "neandertalcem"
+      voc: "neandertalče"
+    plural: 
+      nom: "neandertalci"
+      acc: "neandertalcev"
+      gen: "neandertalcev"
+      loc: "neandertalcah"
+      dat: "neandertalcam"
+      ins: "neandertalcami"
+      voc: "neandertalci"

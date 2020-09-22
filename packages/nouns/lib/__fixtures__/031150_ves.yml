@@ -1,0 +1,23 @@
+---
+  id: "31150"
+  word: "veś"
+  meta: 
+    irregularity: "(vsi)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veś"
+      acc: "veś"
+      gen: "vesi"
+      loc: "vesi"
+      dat: "vesi"
+      ins: "veśjų"
+      voc: "vesi"
+    plural: 
+      nom: "vesi"
+      acc: "vesi"
+      gen: "vesij"
+      loc: "veśah"
+      dat: "veśam"
+      ins: "veśami"
+      voc: "vesi"

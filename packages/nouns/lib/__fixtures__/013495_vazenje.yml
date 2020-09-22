@@ -1,0 +1,22 @@
+---
+  id: "13495"
+  word: "važeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "važeńje"
+      acc: "važeńje"
+      gen: "važeńja"
+      loc: "važeńju"
+      dat: "važeńju"
+      ins: "važeńjem"
+      voc: "važeńje"
+    plural: 
+      nom: "važeńja"
+      acc: "važeńja"
+      gen: "važenij"
+      loc: "važeńjah"
+      dat: "važeńjam"
+      ins: "važeńjami"
+      voc: "važeńja"

@@ -1,0 +1,23 @@
+---
+  id: "21962"
+  word: "prěstųpnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěstųpnik"
+      acc: "prěstųpnika"
+      gen: "prěstųpnika"
+      loc: "prěstųpniku"
+      dat: "prěstųpniku"
+      ins: "prěstųpnikom"
+      voc: "prěstųpniče"
+    plural: 
+      nom: "prěstųpniki"
+      acc: "prěstųpnikov"
+      gen: "prěstųpnikov"
+      loc: "prěstųpnikah"
+      dat: "prěstųpnikam"
+      ins: "prěstųpnikami"
+      voc: "prěstųpniki"

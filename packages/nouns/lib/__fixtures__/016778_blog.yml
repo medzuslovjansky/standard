@@ -1,0 +1,22 @@
+---
+  id: "16778"
+  word: "blog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blog"
+      acc: "blog"
+      gen: "bloga"
+      loc: "blogu"
+      dat: "blogu"
+      ins: "blogom"
+      voc: "blože"
+    plural: 
+      nom: "blogy"
+      acc: "blogy"
+      gen: "blogov"
+      loc: "blogah"
+      dat: "blogam"
+      ins: "blogami"
+      voc: "blogy"

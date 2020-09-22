@@ -1,0 +1,23 @@
+---
+  id: "1207"
+  word: "pȯlkovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pȯlkovnik"
+      acc: "pȯlkovnika"
+      gen: "pȯlkovnika"
+      loc: "pȯlkovniku"
+      dat: "pȯlkovniku"
+      ins: "pȯlkovnikom"
+      voc: "pȯlkovniče"
+    plural: 
+      nom: "pȯlkovniki"
+      acc: "pȯlkovnikov"
+      gen: "pȯlkovnikov"
+      loc: "pȯlkovnikah"
+      dat: "pȯlkovnikam"
+      ins: "pȯlkovnikami"
+      voc: "pȯlkovniki"

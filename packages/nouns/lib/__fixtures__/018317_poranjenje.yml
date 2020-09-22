@@ -1,0 +1,22 @@
+---
+  id: "18317"
+  word: "poranjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poranjeńje"
+      acc: "poranjeńje"
+      gen: "poranjeńja"
+      loc: "poranjeńju"
+      dat: "poranjeńju"
+      ins: "poranjeńjem"
+      voc: "poranjeńje"
+    plural: 
+      nom: "poranjeńja"
+      acc: "poranjeńja"
+      gen: "poranjenij"
+      loc: "poranjeńjah"
+      dat: "poranjeńjam"
+      ins: "poranjeńjami"
+      voc: "poranjeńja"

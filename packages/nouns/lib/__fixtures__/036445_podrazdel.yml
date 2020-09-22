@@ -1,0 +1,22 @@
+---
+  id: "36445"
+  word: "podråzděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podråzděl"
+      acc: "podråzděl"
+      gen: "podråzděla"
+      loc: "podråzdělu"
+      dat: "podråzdělu"
+      ins: "podråzdělom"
+      voc: "podråzděle"
+    plural: 
+      nom: "podråzděly"
+      acc: "podråzděly"
+      gen: "podråzdělov"
+      loc: "podråzdělah"
+      dat: "podråzdělam"
+      ins: "podråzdělami"
+      voc: "podråzděly"

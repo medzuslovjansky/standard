@@ -1,0 +1,22 @@
+---
+  id: "29571"
+  word: "orlę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "orlę"
+      acc: "orlę"
+      gen: "orlęte / orlęta"
+      loc: "orlęti / orlętu"
+      dat: "orlęti / orlętu"
+      ins: "orlętem / orlętom"
+      voc: "orlę"
+    plural: 
+      nom: "orlęta"
+      acc: "orlęta"
+      gen: "orlęt"
+      loc: "orlętah"
+      dat: "orlętam"
+      ins: "orlętami"
+      voc: "orlęta"

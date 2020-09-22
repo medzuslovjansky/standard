@@ -1,0 +1,22 @@
+---
+  id: "5011"
+  word: "vydra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vydra"
+      acc: "vydrų"
+      gen: "vydry"
+      loc: "vydrě"
+      dat: "vydrě"
+      ins: "vydrojų"
+      voc: "vydro"
+    plural: 
+      nom: "vydry"
+      acc: "vydry"
+      gen: "vydr"
+      loc: "vydrah"
+      dat: "vydram"
+      ins: "vydrami"
+      voc: "vydry"

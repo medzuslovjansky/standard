@@ -1,0 +1,22 @@
+---
+  id: "25724"
+  word: "gon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gon"
+      acc: "gon"
+      gen: "gona"
+      loc: "gonu"
+      dat: "gonu"
+      ins: "gonom"
+      voc: "gone"
+    plural: 
+      nom: "gony"
+      acc: "gony"
+      gen: "gonov"
+      loc: "gonah"
+      dat: "gonam"
+      ins: "gonami"
+      voc: "gony"

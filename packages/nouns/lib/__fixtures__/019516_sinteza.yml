@@ -1,0 +1,22 @@
+---
+  id: "19516"
+  word: "sinteza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sinteza"
+      acc: "sintezų"
+      gen: "sintezy"
+      loc: "sintezě"
+      dat: "sintezě"
+      ins: "sintezojų"
+      voc: "sintezo"
+    plural: 
+      nom: "sintezy"
+      acc: "sintezy"
+      gen: "sintez"
+      loc: "sintezah"
+      dat: "sintezam"
+      ins: "sintezami"
+      voc: "sintezy"

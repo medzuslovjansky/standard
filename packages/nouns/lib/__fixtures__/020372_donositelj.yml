@@ -1,0 +1,23 @@
+---
+  id: "20372"
+  word: "donositelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "donositelj"
+      acc: "donositelja"
+      gen: "donositelja"
+      loc: "donositelju"
+      dat: "donositelju"
+      ins: "donositeljem"
+      voc: "donositelju"
+    plural: 
+      nom: "donositelji"
+      acc: "donositeljev"
+      gen: "donositeljev"
+      loc: "donositeljah"
+      dat: "donositeljam"
+      ins: "donositeljami"
+      voc: "donositelji"

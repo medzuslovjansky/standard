@@ -1,0 +1,22 @@
+---
+  id: "36560"
+  word: "vȯzkrešeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯzkrešeńje"
+      acc: "vȯzkrešeńje"
+      gen: "vȯzkrešeńja"
+      loc: "vȯzkrešeńju"
+      dat: "vȯzkrešeńju"
+      ins: "vȯzkrešeńjem"
+      voc: "vȯzkrešeńje"
+    plural: 
+      nom: "vȯzkrešeńja"
+      acc: "vȯzkrešeńja"
+      gen: "vȯzkrešenij"
+      loc: "vȯzkrešeńjah"
+      dat: "vȯzkrešeńjam"
+      ins: "vȯzkrešeńjami"
+      voc: "vȯzkrešeńja"

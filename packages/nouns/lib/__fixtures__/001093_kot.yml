@@ -1,0 +1,23 @@
+---
+  id: "1093"
+  word: "kot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kot"
+      acc: "kota"
+      gen: "kota"
+      loc: "kotu"
+      dat: "kotu"
+      ins: "kotom"
+      voc: "kote"
+    plural: 
+      nom: "koti"
+      acc: "kotov"
+      gen: "kotov"
+      loc: "kotah"
+      dat: "kotam"
+      ins: "kotami"
+      voc: "koti"

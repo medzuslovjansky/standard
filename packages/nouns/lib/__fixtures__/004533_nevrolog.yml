@@ -1,0 +1,23 @@
+---
+  id: "4533"
+  word: "nevrolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nevrolog"
+      acc: "nevrologa"
+      gen: "nevrologa"
+      loc: "nevrologu"
+      dat: "nevrologu"
+      ins: "nevrologom"
+      voc: "nevrolože"
+    plural: 
+      nom: "nevrologi"
+      acc: "nevrologov"
+      gen: "nevrologov"
+      loc: "nevrologah"
+      dat: "nevrologam"
+      ins: "nevrologami"
+      voc: "nevrologi"

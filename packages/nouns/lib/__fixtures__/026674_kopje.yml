@@ -1,0 +1,22 @@
+---
+  id: "26674"
+  word: "kopje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kopje"
+      acc: "kopje"
+      gen: "kopja"
+      loc: "kopju"
+      dat: "kopju"
+      ins: "kopjem"
+      voc: "kopje"
+    plural: 
+      nom: "kopja"
+      acc: "kopja"
+      gen: "kopij"
+      loc: "kopjah"
+      dat: "kopjam"
+      ins: "kopjami"
+      voc: "kopja"

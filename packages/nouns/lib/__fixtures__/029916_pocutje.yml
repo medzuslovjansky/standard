@@ -1,0 +1,22 @@
+---
+  id: "29916"
+  word: "počuťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "počuťje"
+      acc: "počuťje"
+      gen: "počuťja"
+      loc: "počuťju"
+      dat: "počuťju"
+      ins: "počuťjem"
+      voc: "počuťje"
+    plural: 
+      nom: "počuťja"
+      acc: "počuťja"
+      gen: "počutij"
+      loc: "počuťjah"
+      dat: "počuťjam"
+      ins: "počuťjami"
+      voc: "počuťja"

@@ -1,0 +1,22 @@
+---
+  id: "35988"
+  word: "ležiped"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ležiped"
+      acc: "ležiped"
+      gen: "ležipeda"
+      loc: "ležipedu"
+      dat: "ležipedu"
+      ins: "ležipedom"
+      voc: "ležipede"
+    plural: 
+      nom: "ležipedy"
+      acc: "ležipedy"
+      gen: "ležipedov"
+      loc: "ležipedah"
+      dat: "ležipedam"
+      ins: "ležipedami"
+      voc: "ležipedy"

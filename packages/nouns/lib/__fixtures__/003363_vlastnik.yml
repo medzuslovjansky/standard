@@ -1,0 +1,23 @@
+---
+  id: "3363"
+  word: "vlastnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vlastnik"
+      acc: "vlastnika"
+      gen: "vlastnika"
+      loc: "vlastniku"
+      dat: "vlastniku"
+      ins: "vlastnikom"
+      voc: "vlastniče"
+    plural: 
+      nom: "vlastniki"
+      acc: "vlastnikov"
+      gen: "vlastnikov"
+      loc: "vlastnikah"
+      dat: "vlastnikam"
+      ins: "vlastnikami"
+      voc: "vlastniki"

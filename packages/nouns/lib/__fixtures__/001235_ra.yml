@@ -1,0 +1,22 @@
+---
+  id: "1235"
+  word: "rđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rđa"
+      acc: "rđų"
+      gen: "rđy"
+      loc: "rđě"
+      dat: "rđě"
+      ins: "rđojų"
+      voc: "rđo"
+    plural: 
+      nom: "rđy"
+      acc: "rđy"
+      gen: "rđ"
+      loc: "rđah"
+      dat: "rđam"
+      ins: "rđami"
+      voc: "rđy"

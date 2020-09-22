@@ -1,0 +1,22 @@
+---
+  id: "6240"
+  word: "råzorųžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzorųžeńje"
+      acc: "råzorųžeńje"
+      gen: "råzorųžeńja"
+      loc: "råzorųžeńju"
+      dat: "råzorųžeńju"
+      ins: "råzorųžeńjem"
+      voc: "råzorųžeńje"
+    plural: 
+      nom: "råzorųžeńja"
+      acc: "råzorųžeńja"
+      gen: "råzorųženij"
+      loc: "råzorųžeńjah"
+      dat: "råzorųžeńjam"
+      ins: "råzorųžeńjami"
+      voc: "råzorųžeńja"

@@ -1,0 +1,45 @@
+---
+  - 
+    id: "3483"
+    word: "kontrola"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "kontrola"
+        acc: "kontrolų"
+        gen: "kontroly"
+        loc: "kontrolě"
+        dat: "kontrolě"
+        ins: "kontrolojų"
+        voc: "kontrolo"
+      plural: 
+        nom: "kontroly"
+        acc: "kontroly"
+        gen: "kontrol"
+        loc: "kontrolah"
+        dat: "kontrolam"
+        ins: "kontrolami"
+        voc: "kontroly"
+  - 
+    id: "3483"
+    word: "kontrolj"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "kontrolj"
+        acc: "kontrolj"
+        gen: "kontrolji"
+        loc: "kontrolji"
+        dat: "kontrolji"
+        ins: "kontroljjų"
+        voc: "kontrolji"
+      plural: 
+        nom: "kontrolji"
+        acc: "kontrolji"
+        gen: "kontroljij"
+        loc: "kontroljah"
+        dat: "kontroljam"
+        ins: "kontroljami"
+        voc: "kontrolji"

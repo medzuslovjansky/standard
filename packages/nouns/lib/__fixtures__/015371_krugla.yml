@@ -1,0 +1,22 @@
+---
+  id: "15371"
+  word: "krųgla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krųgla"
+      acc: "krųglų"
+      gen: "krųgly"
+      loc: "krųglě"
+      dat: "krųglě"
+      ins: "krųglojų"
+      voc: "krųglo"
+    plural: 
+      nom: "krųgly"
+      acc: "krųgly"
+      gen: "krųgl"
+      loc: "krųglah"
+      dat: "krųglam"
+      ins: "krųglami"
+      voc: "krųgly"

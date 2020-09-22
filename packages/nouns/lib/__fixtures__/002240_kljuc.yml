@@ -1,0 +1,22 @@
+---
+  id: "2240"
+  word: "ključ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ključ"
+      acc: "ključ"
+      gen: "ključa"
+      loc: "ključu"
+      dat: "ključu"
+      ins: "ključem"
+      voc: "ključu"
+    plural: 
+      nom: "ključe"
+      acc: "ključe"
+      gen: "ključev"
+      loc: "ključah"
+      dat: "ključam"
+      ins: "ključami"
+      voc: "ključe"

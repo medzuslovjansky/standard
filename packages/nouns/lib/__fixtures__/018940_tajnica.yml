@@ -1,0 +1,22 @@
+---
+  id: "18940"
+  word: "tajnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tajnica"
+      acc: "tajnicų"
+      gen: "tajnice"
+      loc: "tajnici"
+      dat: "tajnici"
+      ins: "tajnicejų"
+      voc: "tajnico"
+    plural: 
+      nom: "tajnice"
+      acc: "tajnice"
+      gen: "tajnic"
+      loc: "tajnicah"
+      dat: "tajnicam"
+      ins: "tajnicami"
+      voc: "tajnice"

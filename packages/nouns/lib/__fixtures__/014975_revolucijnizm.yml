@@ -1,0 +1,15 @@
+---
+  id: "14975"
+  word: "revolucijnizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "revolucijnizm"
+      acc: "revolucijnizm"
+      gen: "revolucijnizma"
+      loc: "revolucijnizmu"
+      dat: "revolucijnizmu"
+      ins: "revolucijnizmom"
+      voc: "revolucijnizme"

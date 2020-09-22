@@ -1,0 +1,22 @@
+---
+  id: "4981"
+  word: "reformacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reformacija"
+      acc: "reformacijų"
+      gen: "reformacije"
+      loc: "reformaciji"
+      dat: "reformaciji"
+      ins: "reformacijejų"
+      voc: "reformacijo"
+    plural: 
+      nom: "reformacije"
+      acc: "reformacije"
+      gen: "reformacij"
+      loc: "reformacijah"
+      dat: "reformacijam"
+      ins: "reformacijami"
+      voc: "reformacije"

@@ -1,0 +1,22 @@
+---
+  id: "17698"
+  word: "kravata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kravata"
+      acc: "kravatų"
+      gen: "kravaty"
+      loc: "kravatě"
+      dat: "kravatě"
+      ins: "kravatojų"
+      voc: "kravato"
+    plural: 
+      nom: "kravaty"
+      acc: "kravaty"
+      gen: "kravat"
+      loc: "kravatah"
+      dat: "kravatam"
+      ins: "kravatami"
+      voc: "kravaty"

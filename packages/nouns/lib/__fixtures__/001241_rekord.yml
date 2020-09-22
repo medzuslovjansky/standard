@@ -1,0 +1,22 @@
+---
+  id: "1241"
+  word: "rekord"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rekord"
+      acc: "rekord"
+      gen: "rekorda"
+      loc: "rekordu"
+      dat: "rekordu"
+      ins: "rekordom"
+      voc: "rekorde"
+    plural: 
+      nom: "rekordy"
+      acc: "rekordy"
+      gen: "rekordov"
+      loc: "rekordah"
+      dat: "rekordam"
+      ins: "rekordami"
+      voc: "rekordy"

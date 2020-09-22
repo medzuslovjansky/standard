@@ -1,0 +1,15 @@
+---
+  id: "7402"
+  word: "dvojčęta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "dvojčęta"
+      acc: "dvojčęta"
+      gen: "dvojčęt"
+      loc: "dvojčętah"
+      dat: "dvojčętam"
+      ins: "dvojčętami"
+      voc: "dvojčęta"

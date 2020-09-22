@@ -1,0 +1,23 @@
+---
+  id: "35076"
+  word: "viki"
+  meta: 
+    gender: "feminine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "viki"
+      acc: "viki"
+      gen: "viki"
+      loc: "viki"
+      dat: "viki"
+      ins: "viki"
+      voc: "viki"
+    plural: 
+      nom: "viki"
+      acc: "viki"
+      gen: "viki"
+      loc: "viki"
+      dat: "viki"
+      ins: "viki"
+      voc: "viki"

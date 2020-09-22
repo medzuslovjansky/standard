@@ -1,0 +1,22 @@
+---
+  id: "6294"
+  word: "privatnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "privatnosť"
+      acc: "privatnosť"
+      gen: "privatnosti"
+      loc: "privatnosti"
+      dat: "privatnosti"
+      ins: "privatnosťjų"
+      voc: "privatnosti"
+    plural: 
+      nom: "privatnosti"
+      acc: "privatnosti"
+      gen: "privatnostij"
+      loc: "privatnosťah"
+      dat: "privatnosťam"
+      ins: "privatnosťami"
+      voc: "privatnosti"

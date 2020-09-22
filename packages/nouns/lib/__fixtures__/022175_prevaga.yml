@@ -1,0 +1,22 @@
+---
+  id: "22175"
+  word: "prěvaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěvaga"
+      acc: "prěvagų"
+      gen: "prěvagy"
+      loc: "prěvagě"
+      dat: "prěvagě"
+      ins: "prěvagojų"
+      voc: "prěvago"
+    plural: 
+      nom: "prěvagy"
+      acc: "prěvagy"
+      gen: "prěvag"
+      loc: "prěvagah"
+      dat: "prěvagam"
+      ins: "prěvagami"
+      voc: "prěvagy"

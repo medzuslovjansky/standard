@@ -1,0 +1,22 @@
+---
+  id: "35073"
+  word: "neudobstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "neudobstvo"
+      acc: "neudobstvo"
+      gen: "neudobstva"
+      loc: "neudobstvu"
+      dat: "neudobstvu"
+      ins: "neudobstvom"
+      voc: "neudobstvo"
+    plural: 
+      nom: "neudobstva"
+      acc: "neudobstva"
+      gen: "neudobstv"
+      loc: "neudobstvah"
+      dat: "neudobstvam"
+      ins: "neudobstvami"
+      voc: "neudobstva"

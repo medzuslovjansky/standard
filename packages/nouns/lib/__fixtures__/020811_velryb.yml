@@ -1,0 +1,23 @@
+---
+  id: "20811"
+  word: "veľryb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "veľryb"
+      acc: "veľryba"
+      gen: "veľryba"
+      loc: "veľrybu"
+      dat: "veľrybu"
+      ins: "veľrybom"
+      voc: "veľrybe"
+    plural: 
+      nom: "veľrybi"
+      acc: "veľrybov"
+      gen: "veľrybov"
+      loc: "veľrybah"
+      dat: "veľrybam"
+      ins: "veľrybami"
+      voc: "veľrybi"

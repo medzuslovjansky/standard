@@ -1,0 +1,22 @@
+---
+  id: "17426"
+  word: "gorělka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gorělka"
+      acc: "gorělkų"
+      gen: "gorělky"
+      loc: "gorělkě"
+      dat: "gorělkě"
+      ins: "gorělkojų"
+      voc: "gorělko"
+    plural: 
+      nom: "gorělky"
+      acc: "gorělky"
+      gen: "gorělȯk"
+      loc: "gorělkah"
+      dat: "gorělkam"
+      ins: "gorělkami"
+      voc: "gorělky"

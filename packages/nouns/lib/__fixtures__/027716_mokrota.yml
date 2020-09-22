@@ -1,0 +1,22 @@
+---
+  id: "27716"
+  word: "mokrota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mokrota"
+      acc: "mokrotų"
+      gen: "mokroty"
+      loc: "mokrotě"
+      dat: "mokrotě"
+      ins: "mokrotojų"
+      voc: "mokroto"
+    plural: 
+      nom: "mokroty"
+      acc: "mokroty"
+      gen: "mokrot"
+      loc: "mokrotah"
+      dat: "mokrotam"
+      ins: "mokrotami"
+      voc: "mokroty"

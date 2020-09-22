@@ -1,0 +1,22 @@
+---
+  id: "995"
+  word: "galerija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galerija"
+      acc: "galerijų"
+      gen: "galerije"
+      loc: "galeriji"
+      dat: "galeriji"
+      ins: "galerijejų"
+      voc: "galerijo"
+    plural: 
+      nom: "galerije"
+      acc: "galerije"
+      gen: "galerij"
+      loc: "galerijah"
+      dat: "galerijam"
+      ins: "galerijami"
+      voc: "galerije"

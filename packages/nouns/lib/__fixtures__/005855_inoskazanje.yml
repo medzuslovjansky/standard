@@ -1,0 +1,22 @@
+---
+  id: "5855"
+  word: "inoskazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "inoskazańje"
+      acc: "inoskazańje"
+      gen: "inoskazańja"
+      loc: "inoskazańju"
+      dat: "inoskazańju"
+      ins: "inoskazańjem"
+      voc: "inoskazańje"
+    plural: 
+      nom: "inoskazańja"
+      acc: "inoskazańja"
+      gen: "inoskazanij"
+      loc: "inoskazańjah"
+      dat: "inoskazańjam"
+      ins: "inoskazańjami"
+      voc: "inoskazańja"

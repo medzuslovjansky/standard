@@ -1,0 +1,22 @@
+---
+  id: "4668"
+  word: "bank"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bank"
+      acc: "bank"
+      gen: "banka"
+      loc: "banku"
+      dat: "banku"
+      ins: "bankom"
+      voc: "banče"
+    plural: 
+      nom: "banky"
+      acc: "banky"
+      gen: "bankov"
+      loc: "bankah"
+      dat: "bankam"
+      ins: "bankami"
+      voc: "banky"

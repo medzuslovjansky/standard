@@ -1,0 +1,15 @@
+---
+  id: "21549"
+  word: "samosųd"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "samosųd"
+      acc: "samosųd"
+      gen: "samosųda"
+      loc: "samosųdu"
+      dat: "samosųdu"
+      ins: "samosųdom"
+      voc: "samosųde"

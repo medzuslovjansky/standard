@@ -1,0 +1,22 @@
+---
+  id: "14095"
+  word: "zakončeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zakončeńje"
+      acc: "zakončeńje"
+      gen: "zakončeńja"
+      loc: "zakončeńju"
+      dat: "zakončeńju"
+      ins: "zakončeńjem"
+      voc: "zakončeńje"
+    plural: 
+      nom: "zakončeńja"
+      acc: "zakončeńja"
+      gen: "zakončenij"
+      loc: "zakončeńjah"
+      dat: "zakončeńjam"
+      ins: "zakončeńjami"
+      voc: "zakončeńja"

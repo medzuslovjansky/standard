@@ -1,0 +1,22 @@
+---
+  id: "153"
+  word: "balkon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balkon"
+      acc: "balkon"
+      gen: "balkona"
+      loc: "balkonu"
+      dat: "balkonu"
+      ins: "balkonom"
+      voc: "balkone"
+    plural: 
+      nom: "balkony"
+      acc: "balkony"
+      gen: "balkonov"
+      loc: "balkonah"
+      dat: "balkonam"
+      ins: "balkonami"
+      voc: "balkony"

@@ -1,0 +1,22 @@
+---
+  id: "18203"
+  word: "pečivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pečivo"
+      acc: "pečivo"
+      gen: "pečiva"
+      loc: "pečivu"
+      dat: "pečivu"
+      ins: "pečivom"
+      voc: "pečivo"
+    plural: 
+      nom: "pečiva"
+      acc: "pečiva"
+      gen: "pečiv"
+      loc: "pečivah"
+      dat: "pečivam"
+      ins: "pečivami"
+      voc: "pečiva"

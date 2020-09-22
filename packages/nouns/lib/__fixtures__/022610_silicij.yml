@@ -1,0 +1,15 @@
+---
+  id: "22610"
+  word: "silicij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "silicij"
+      acc: "silicij"
+      gen: "silicija"
+      loc: "siliciju"
+      dat: "siliciju"
+      ins: "silicijem"
+      voc: "siliciju"

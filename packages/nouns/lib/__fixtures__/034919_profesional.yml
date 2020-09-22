@@ -1,0 +1,23 @@
+---
+  id: "34919"
+  word: "profesional"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "profesional"
+      acc: "profesionala"
+      gen: "profesionala"
+      loc: "profesionalu"
+      dat: "profesionalu"
+      ins: "profesionalom"
+      voc: "profesionale"
+    plural: 
+      nom: "profesionali"
+      acc: "profesionalov"
+      gen: "profesionalov"
+      loc: "profesionalah"
+      dat: "profesionalam"
+      ins: "profesionalami"
+      voc: "profesionali"

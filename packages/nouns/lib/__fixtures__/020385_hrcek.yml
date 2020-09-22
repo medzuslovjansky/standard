@@ -1,0 +1,23 @@
+---
+  id: "20385"
+  word: "hrček"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hrček"
+      acc: "hrčeka"
+      gen: "hrčeka"
+      loc: "hrčeku"
+      dat: "hrčeku"
+      ins: "hrčekom"
+      voc: "hrčeče"
+    plural: 
+      nom: "hrčeki"
+      acc: "hrčekov"
+      gen: "hrčekov"
+      loc: "hrčekah"
+      dat: "hrčekam"
+      ins: "hrčekami"
+      voc: "hrčeki"

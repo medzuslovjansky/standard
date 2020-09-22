@@ -1,0 +1,22 @@
+---
+  id: "3614"
+  word: "polje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "polje"
+      acc: "polje"
+      gen: "polja"
+      loc: "polju"
+      dat: "polju"
+      ins: "poljem"
+      voc: "polje"
+    plural: 
+      nom: "polja"
+      acc: "polja"
+      gen: "polej"
+      loc: "poljah"
+      dat: "poljam"
+      ins: "poljami"
+      voc: "polja"

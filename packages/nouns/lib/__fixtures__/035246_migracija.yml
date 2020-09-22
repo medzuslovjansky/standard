@@ -1,0 +1,22 @@
+---
+  id: "35246"
+  word: "migracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "migracija"
+      acc: "migracijų"
+      gen: "migracije"
+      loc: "migraciji"
+      dat: "migraciji"
+      ins: "migracijejų"
+      voc: "migracijo"
+    plural: 
+      nom: "migracije"
+      acc: "migracije"
+      gen: "migracij"
+      loc: "migracijah"
+      dat: "migracijam"
+      ins: "migracijami"
+      voc: "migracije"

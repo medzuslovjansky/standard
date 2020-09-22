@@ -1,0 +1,22 @@
+---
+  id: "23017"
+  word: "centigram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "centigram"
+      acc: "centigram"
+      gen: "centigrama"
+      loc: "centigramu"
+      dat: "centigramu"
+      ins: "centigramom"
+      voc: "centigrame"
+    plural: 
+      nom: "centigramy"
+      acc: "centigramy"
+      gen: "centigramov"
+      loc: "centigramah"
+      dat: "centigramam"
+      ins: "centigramami"
+      voc: "centigramy"

@@ -1,0 +1,22 @@
+---
+  id: "1594"
+  word: "čin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čin"
+      acc: "čin"
+      gen: "čina"
+      loc: "činu"
+      dat: "činu"
+      ins: "činom"
+      voc: "čine"
+    plural: 
+      nom: "činy"
+      acc: "činy"
+      gen: "činov"
+      loc: "činah"
+      dat: "činam"
+      ins: "činami"
+      voc: "činy"

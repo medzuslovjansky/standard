@@ -1,0 +1,22 @@
+---
+  id: "19510"
+  word: "solidarnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "solidarnosť"
+      acc: "solidarnosť"
+      gen: "solidarnosti"
+      loc: "solidarnosti"
+      dat: "solidarnosti"
+      ins: "solidarnosťjų"
+      voc: "solidarnosti"
+    plural: 
+      nom: "solidarnosti"
+      acc: "solidarnosti"
+      gen: "solidarnostij"
+      loc: "solidarnosťah"
+      dat: "solidarnosťam"
+      ins: "solidarnosťami"
+      voc: "solidarnosti"

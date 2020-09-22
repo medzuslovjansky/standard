@@ -1,0 +1,22 @@
+---
+  id: "2064"
+  word: "huj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "huj"
+      acc: "huj"
+      gen: "huja"
+      loc: "huju"
+      dat: "huju"
+      ins: "hujem"
+      voc: "huju"
+    plural: 
+      nom: "huje"
+      acc: "huje"
+      gen: "hujev"
+      loc: "hujah"
+      dat: "hujam"
+      ins: "hujami"
+      voc: "huje"

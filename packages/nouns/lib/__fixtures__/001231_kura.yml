@@ -1,0 +1,22 @@
+---
+  id: "1231"
+  word: "kura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kura"
+      acc: "kurų"
+      gen: "kury"
+      loc: "kurě"
+      dat: "kurě"
+      ins: "kurojų"
+      voc: "kuro"
+    plural: 
+      nom: "kury"
+      acc: "kury"
+      gen: "kur"
+      loc: "kurah"
+      dat: "kuram"
+      ins: "kurami"
+      voc: "kury"

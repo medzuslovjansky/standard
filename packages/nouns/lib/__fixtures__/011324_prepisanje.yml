@@ -1,0 +1,22 @@
+---
+  id: "11324"
+  word: "prěpisańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěpisańje"
+      acc: "prěpisańje"
+      gen: "prěpisańja"
+      loc: "prěpisańju"
+      dat: "prěpisańju"
+      ins: "prěpisańjem"
+      voc: "prěpisańje"
+    plural: 
+      nom: "prěpisańja"
+      acc: "prěpisańja"
+      gen: "prěpisanij"
+      loc: "prěpisańjah"
+      dat: "prěpisańjam"
+      ins: "prěpisańjami"
+      voc: "prěpisańja"

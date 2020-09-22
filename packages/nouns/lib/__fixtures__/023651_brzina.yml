@@ -1,0 +1,22 @@
+---
+  id: "23651"
+  word: "brzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brzina"
+      acc: "brzinų"
+      gen: "brziny"
+      loc: "brzině"
+      dat: "brzině"
+      ins: "brzinojų"
+      voc: "brzino"
+    plural: 
+      nom: "brziny"
+      acc: "brziny"
+      gen: "brzin"
+      loc: "brzinah"
+      dat: "brzinam"
+      ins: "brzinami"
+      voc: "brziny"

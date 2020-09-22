@@ -1,0 +1,22 @@
+---
+  id: "30261"
+  word: "råzlad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzlad"
+      acc: "råzlad"
+      gen: "råzlada"
+      loc: "råzladu"
+      dat: "råzladu"
+      ins: "råzladom"
+      voc: "råzlade"
+    plural: 
+      nom: "råzlady"
+      acc: "råzlady"
+      gen: "råzladov"
+      loc: "råzladah"
+      dat: "råzladam"
+      ins: "råzladami"
+      voc: "råzlady"

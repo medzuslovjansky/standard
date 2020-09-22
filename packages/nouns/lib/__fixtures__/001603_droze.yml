@@ -1,0 +1,15 @@
+---
+  id: "1603"
+  word: "drožđe"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "drožđe"
+      acc: "drožđe"
+      gen: "drožđ"
+      loc: "drožđah"
+      dat: "drožđam"
+      ins: "drožđami"
+      voc: "drožđe"

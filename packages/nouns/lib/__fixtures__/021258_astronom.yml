@@ -1,0 +1,23 @@
+---
+  id: "21258"
+  word: "astronom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "astronom"
+      acc: "astronoma"
+      gen: "astronoma"
+      loc: "astronomu"
+      dat: "astronomu"
+      ins: "astronomom"
+      voc: "astronome"
+    plural: 
+      nom: "astronomi"
+      acc: "astronomov"
+      gen: "astronomov"
+      loc: "astronomah"
+      dat: "astronomam"
+      ins: "astronomami"
+      voc: "astronomi"

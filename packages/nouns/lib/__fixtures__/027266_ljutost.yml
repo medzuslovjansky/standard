@@ -1,0 +1,22 @@
+---
+  id: "27266"
+  word: "ljutosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljutosť"
+      acc: "ljutosť"
+      gen: "ljutosti"
+      loc: "ljutosti"
+      dat: "ljutosti"
+      ins: "ljutosťjų"
+      voc: "ljutosti"
+    plural: 
+      nom: "ljutosti"
+      acc: "ljutosti"
+      gen: "ljutostij"
+      loc: "ljutosťah"
+      dat: "ljutosťam"
+      ins: "ljutosťami"
+      voc: "ljutosti"

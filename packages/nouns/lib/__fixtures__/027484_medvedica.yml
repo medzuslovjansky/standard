@@ -1,0 +1,22 @@
+---
+  id: "27484"
+  word: "medvědica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medvědica"
+      acc: "medvědicų"
+      gen: "medvědice"
+      loc: "medvědici"
+      dat: "medvědici"
+      ins: "medvědicejų"
+      voc: "medvědico"
+    plural: 
+      nom: "medvědice"
+      acc: "medvědice"
+      gen: "medvědic"
+      loc: "medvědicah"
+      dat: "medvědicam"
+      ins: "medvědicami"
+      voc: "medvědice"

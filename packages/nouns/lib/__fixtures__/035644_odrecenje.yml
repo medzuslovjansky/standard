@@ -1,0 +1,22 @@
+---
+  id: "35644"
+  word: "odrěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odrěčeńje"
+      acc: "odrěčeńje"
+      gen: "odrěčeńja"
+      loc: "odrěčeńju"
+      dat: "odrěčeńju"
+      ins: "odrěčeńjem"
+      voc: "odrěčeńje"
+    plural: 
+      nom: "odrěčeńja"
+      acc: "odrěčeńja"
+      gen: "odrěčenij"
+      loc: "odrěčeńjah"
+      dat: "odrěčeńjam"
+      ins: "odrěčeńjami"
+      voc: "odrěčeńja"

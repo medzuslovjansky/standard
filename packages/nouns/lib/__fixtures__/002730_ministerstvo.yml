@@ -1,0 +1,22 @@
+---
+  id: "2730"
+  word: "ministerstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ministerstvo"
+      acc: "ministerstvo"
+      gen: "ministerstva"
+      loc: "ministerstvu"
+      dat: "ministerstvu"
+      ins: "ministerstvom"
+      voc: "ministerstvo"
+    plural: 
+      nom: "ministerstva"
+      acc: "ministerstva"
+      gen: "ministerstv"
+      loc: "ministerstvah"
+      dat: "ministerstvam"
+      ins: "ministerstvami"
+      voc: "ministerstva"

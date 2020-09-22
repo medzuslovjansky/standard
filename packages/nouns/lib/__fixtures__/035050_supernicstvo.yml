@@ -1,0 +1,15 @@
+---
+  id: "35050"
+  word: "sųperničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sųperničstvo"
+      acc: "sųperničstvo"
+      gen: "sųperničstva"
+      loc: "sųperničstvu"
+      dat: "sųperničstvu"
+      ins: "sųperničstvom"
+      voc: "sųperničstvo"

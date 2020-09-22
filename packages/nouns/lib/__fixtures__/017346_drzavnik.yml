@@ -1,0 +1,23 @@
+---
+  id: "17346"
+  word: "dŕžavnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dŕžavnik"
+      acc: "dŕžavnika"
+      gen: "dŕžavnika"
+      loc: "dŕžavniku"
+      dat: "dŕžavniku"
+      ins: "dŕžavnikom"
+      voc: "dŕžavniče"
+    plural: 
+      nom: "dŕžavniki"
+      acc: "dŕžavnikov"
+      gen: "dŕžavnikov"
+      loc: "dŕžavnikah"
+      dat: "dŕžavnikam"
+      ins: "dŕžavnikami"
+      voc: "dŕžavniki"

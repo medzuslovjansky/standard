@@ -1,0 +1,22 @@
+---
+  id: "3685"
+  word: "vvedeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vvedeńje"
+      acc: "vvedeńje"
+      gen: "vvedeńja"
+      loc: "vvedeńju"
+      dat: "vvedeńju"
+      ins: "vvedeńjem"
+      voc: "vvedeńje"
+    plural: 
+      nom: "vvedeńja"
+      acc: "vvedeńja"
+      gen: "vvedenij"
+      loc: "vvedeńjah"
+      dat: "vvedeńjam"
+      ins: "vvedeńjami"
+      voc: "vvedeńja"

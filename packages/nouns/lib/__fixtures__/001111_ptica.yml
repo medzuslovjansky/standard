@@ -1,0 +1,22 @@
+---
+  id: "1111"
+  word: "ptica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ptica"
+      acc: "pticų"
+      gen: "ptice"
+      loc: "ptici"
+      dat: "ptici"
+      ins: "pticejų"
+      voc: "ptico"
+    plural: 
+      nom: "ptice"
+      acc: "ptice"
+      gen: "ptic"
+      loc: "pticah"
+      dat: "pticam"
+      ins: "pticami"
+      voc: "ptice"

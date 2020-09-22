@@ -1,0 +1,23 @@
+---
+  id: "18843"
+  word: "služebnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "služebnik"
+      acc: "služebnika"
+      gen: "služebnika"
+      loc: "služebniku"
+      dat: "služebniku"
+      ins: "služebnikom"
+      voc: "služebniče"
+    plural: 
+      nom: "služebniki"
+      acc: "služebnikov"
+      gen: "služebnikov"
+      loc: "služebnikah"
+      dat: "služebnikam"
+      ins: "služebnikami"
+      voc: "služebniki"

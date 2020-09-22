@@ -1,0 +1,22 @@
+---
+  id: "3168"
+  word: "prědměsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědměsťje"
+      acc: "prědměsťje"
+      gen: "prědměsťja"
+      loc: "prědměsťju"
+      dat: "prědměsťju"
+      ins: "prědměsťjem"
+      voc: "prědměsťje"
+    plural: 
+      nom: "prědměsťja"
+      acc: "prědměsťja"
+      gen: "prědměstij"
+      loc: "prědměsťjah"
+      dat: "prědměsťjam"
+      ins: "prědměsťjami"
+      voc: "prědměsťja"

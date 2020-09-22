@@ -1,0 +1,22 @@
+---
+  id: "11939"
+  word: "reklamovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "reklamovańje"
+      acc: "reklamovańje"
+      gen: "reklamovańja"
+      loc: "reklamovańju"
+      dat: "reklamovańju"
+      ins: "reklamovańjem"
+      voc: "reklamovańje"
+    plural: 
+      nom: "reklamovańja"
+      acc: "reklamovańja"
+      gen: "reklamovanij"
+      loc: "reklamovańjah"
+      dat: "reklamovańjam"
+      ins: "reklamovańjami"
+      voc: "reklamovańja"

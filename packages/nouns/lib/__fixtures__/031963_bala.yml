@@ -1,0 +1,22 @@
+---
+  id: "31963"
+  word: "bala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bala"
+      acc: "balų"
+      gen: "baly"
+      loc: "balě"
+      dat: "balě"
+      ins: "balojų"
+      voc: "balo"
+    plural: 
+      nom: "baly"
+      acc: "baly"
+      gen: "bal"
+      loc: "balah"
+      dat: "balam"
+      ins: "balami"
+      voc: "baly"

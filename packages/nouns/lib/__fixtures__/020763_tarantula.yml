@@ -1,0 +1,22 @@
+---
+  id: "20763"
+  word: "tarantula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tarantula"
+      acc: "tarantulų"
+      gen: "tarantuly"
+      loc: "tarantulě"
+      dat: "tarantulě"
+      ins: "tarantulojų"
+      voc: "tarantulo"
+    plural: 
+      nom: "tarantuly"
+      acc: "tarantuly"
+      gen: "tarantul"
+      loc: "tarantulah"
+      dat: "tarantulam"
+      ins: "tarantulami"
+      voc: "tarantuly"

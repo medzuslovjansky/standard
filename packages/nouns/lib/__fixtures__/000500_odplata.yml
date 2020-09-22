@@ -1,0 +1,22 @@
+---
+  id: "500"
+  word: "odplata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odplata"
+      acc: "odplatų"
+      gen: "odplaty"
+      loc: "odplatě"
+      dat: "odplatě"
+      ins: "odplatojų"
+      voc: "odplato"
+    plural: 
+      nom: "odplaty"
+      acc: "odplaty"
+      gen: "odplat"
+      loc: "odplatah"
+      dat: "odplatam"
+      ins: "odplatami"
+      voc: "odplaty"

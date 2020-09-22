@@ -1,0 +1,15 @@
+---
+  id: "33732"
+  word: "šafran"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šafran"
+      acc: "šafran"
+      gen: "šafrana"
+      loc: "šafranu"
+      dat: "šafranu"
+      ins: "šafranom"
+      voc: "šafrane"

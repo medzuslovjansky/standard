@@ -1,0 +1,22 @@
+---
+  id: "35800"
+  word: "prěklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěklad"
+      acc: "prěklad"
+      gen: "prěklada"
+      loc: "prěkladu"
+      dat: "prěkladu"
+      ins: "prěkladom"
+      voc: "prěklade"
+    plural: 
+      nom: "prěklady"
+      acc: "prěklady"
+      gen: "prěkladov"
+      loc: "prěkladah"
+      dat: "prěkladam"
+      ins: "prěkladami"
+      voc: "prěklady"

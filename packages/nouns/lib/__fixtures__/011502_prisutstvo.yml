@@ -1,0 +1,15 @@
+---
+  id: "11502"
+  word: "prisųtstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prisųtstvo"
+      acc: "prisųtstvo"
+      gen: "prisųtstva"
+      loc: "prisųtstvu"
+      dat: "prisųtstvu"
+      ins: "prisųtstvom"
+      voc: "prisųtstvo"

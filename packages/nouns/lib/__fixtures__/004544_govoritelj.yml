@@ -1,0 +1,23 @@
+---
+  id: "4544"
+  word: "govoritelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "govoritelj"
+      acc: "govoritelja"
+      gen: "govoritelja"
+      loc: "govoritelju"
+      dat: "govoritelju"
+      ins: "govoriteljem"
+      voc: "govoritelju"
+    plural: 
+      nom: "govoritelji"
+      acc: "govoriteljev"
+      gen: "govoriteljev"
+      loc: "govoriteljah"
+      dat: "govoriteljam"
+      ins: "govoriteljami"
+      voc: "govoritelji"

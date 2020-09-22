@@ -1,0 +1,22 @@
+---
+  id: "15200"
+  word: "zabolěvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zabolěvańje"
+      acc: "zabolěvańje"
+      gen: "zabolěvańja"
+      loc: "zabolěvańju"
+      dat: "zabolěvańju"
+      ins: "zabolěvańjem"
+      voc: "zabolěvańje"
+    plural: 
+      nom: "zabolěvańja"
+      acc: "zabolěvańja"
+      gen: "zabolěvanij"
+      loc: "zabolěvańjah"
+      dat: "zabolěvańjam"
+      ins: "zabolěvańjami"
+      voc: "zabolěvańja"

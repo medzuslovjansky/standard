@@ -1,0 +1,22 @@
+---
+  id: "32515"
+  word: "ondatra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ondatra"
+      acc: "ondatrų"
+      gen: "ondatry"
+      loc: "ondatrě"
+      dat: "ondatrě"
+      ins: "ondatrojų"
+      voc: "ondatro"
+    plural: 
+      nom: "ondatry"
+      acc: "ondatry"
+      gen: "ondatr"
+      loc: "ondatrah"
+      dat: "ondatram"
+      ins: "ondatrami"
+      voc: "ondatry"

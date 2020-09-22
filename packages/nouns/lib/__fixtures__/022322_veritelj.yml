@@ -1,0 +1,23 @@
+---
+  id: "22322"
+  word: "věritelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věritelj"
+      acc: "věritelja"
+      gen: "věritelja"
+      loc: "věritelju"
+      dat: "věritelju"
+      ins: "věriteljem"
+      voc: "věritelju"
+    plural: 
+      nom: "věritelji"
+      acc: "věriteljev"
+      gen: "věriteljev"
+      loc: "věriteljah"
+      dat: "věriteljam"
+      ins: "věriteljami"
+      voc: "věritelji"

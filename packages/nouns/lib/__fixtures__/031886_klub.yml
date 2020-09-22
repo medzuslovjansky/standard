@@ -1,0 +1,22 @@
+---
+  id: "31886"
+  word: "klub"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klub"
+      acc: "klub"
+      gen: "kluba"
+      loc: "klubu"
+      dat: "klubu"
+      ins: "klubom"
+      voc: "klube"
+    plural: 
+      nom: "kluby"
+      acc: "kluby"
+      gen: "klubov"
+      loc: "klubah"
+      dat: "klubam"
+      ins: "klubami"
+      voc: "kluby"

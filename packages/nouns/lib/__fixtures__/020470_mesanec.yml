@@ -1,0 +1,23 @@
+---
+  id: "20470"
+  word: "měšanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "měšanec"
+      acc: "měšanca"
+      gen: "měšanca"
+      loc: "měšancu"
+      dat: "měšancu"
+      ins: "měšancem"
+      voc: "měšanče"
+    plural: 
+      nom: "měšanci"
+      acc: "měšancev"
+      gen: "měšancev"
+      loc: "měšancah"
+      dat: "měšancam"
+      ins: "měšancami"
+      voc: "měšanci"

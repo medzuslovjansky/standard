@@ -1,0 +1,22 @@
+---
+  id: "29435"
+  word: "oman"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oman"
+      acc: "oman"
+      gen: "omana"
+      loc: "omanu"
+      dat: "omanu"
+      ins: "omanom"
+      voc: "omane"
+    plural: 
+      nom: "omany"
+      acc: "omany"
+      gen: "omanov"
+      loc: "omanah"
+      dat: "omanam"
+      ins: "omanami"
+      voc: "omany"

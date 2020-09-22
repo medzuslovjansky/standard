@@ -1,0 +1,15 @@
+---
+  id: "12502"
+  word: "spokojstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "spokojstvo"
+      acc: "spokojstvo"
+      gen: "spokojstva"
+      loc: "spokojstvu"
+      dat: "spokojstvu"
+      ins: "spokojstvom"
+      voc: "spokojstvo"

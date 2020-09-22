@@ -1,0 +1,23 @@
+---
+  id: "25936"
+  word: "hierarh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hierarh"
+      acc: "hierarha"
+      gen: "hierarha"
+      loc: "hierarhu"
+      dat: "hierarhu"
+      ins: "hierarhom"
+      voc: "hierarše"
+    plural: 
+      nom: "hierarhi"
+      acc: "hierarhov"
+      gen: "hierarhov"
+      loc: "hierarhah"
+      dat: "hierarham"
+      ins: "hierarhami"
+      voc: "hierarhi"

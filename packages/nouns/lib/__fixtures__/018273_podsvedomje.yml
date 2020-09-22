@@ -1,0 +1,22 @@
+---
+  id: "18273"
+  word: "podsvědomje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podsvědomje"
+      acc: "podsvědomje"
+      gen: "podsvědomja"
+      loc: "podsvědomju"
+      dat: "podsvědomju"
+      ins: "podsvědomjem"
+      voc: "podsvědomje"
+    plural: 
+      nom: "podsvědomja"
+      acc: "podsvědomja"
+      gen: "podsvědomij"
+      loc: "podsvědomjah"
+      dat: "podsvědomjam"
+      ins: "podsvědomjami"
+      voc: "podsvědomja"

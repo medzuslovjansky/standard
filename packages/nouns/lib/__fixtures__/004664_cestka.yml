@@ -1,0 +1,22 @@
+---
+  id: "4664"
+  word: "čęstka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čęstka"
+      acc: "čęstkų"
+      gen: "čęstky"
+      loc: "čęstkě"
+      dat: "čęstkě"
+      ins: "čęstkojų"
+      voc: "čęstko"
+    plural: 
+      nom: "čęstky"
+      acc: "čęstky"
+      gen: "čęstȯk"
+      loc: "čęstkah"
+      dat: "čęstkam"
+      ins: "čęstkami"
+      voc: "čęstky"

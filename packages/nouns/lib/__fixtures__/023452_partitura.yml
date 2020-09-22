@@ -1,0 +1,22 @@
+---
+  id: "23452"
+  word: "partitura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "partitura"
+      acc: "partiturų"
+      gen: "partitury"
+      loc: "partiturě"
+      dat: "partiturě"
+      ins: "partiturojų"
+      voc: "partituro"
+    plural: 
+      nom: "partitury"
+      acc: "partitury"
+      gen: "partitur"
+      loc: "partiturah"
+      dat: "partituram"
+      ins: "partiturami"
+      voc: "partitury"

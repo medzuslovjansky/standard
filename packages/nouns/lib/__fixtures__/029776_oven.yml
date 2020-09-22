@@ -1,0 +1,24 @@
+---
+  id: "29776"
+  word: "oven"
+  meta: 
+    irregularity: "(ovna)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ovėn"
+      acc: "ovna"
+      gen: "ovna"
+      loc: "ovnu"
+      dat: "ovnu"
+      ins: "ovnom"
+      voc: "ovne"
+    plural: 
+      nom: "ovni"
+      acc: "ovnov"
+      gen: "ovnov"
+      loc: "ovnah"
+      dat: "ovnam"
+      ins: "ovnami"
+      voc: "ovni"

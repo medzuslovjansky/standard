@@ -1,0 +1,22 @@
+---
+  id: "24758"
+  word: "bonbon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bonbon"
+      acc: "bonbon"
+      gen: "bonbona"
+      loc: "bonbonu"
+      dat: "bonbonu"
+      ins: "bonbonom"
+      voc: "bonbone"
+    plural: 
+      nom: "bonbony"
+      acc: "bonbony"
+      gen: "bonbonov"
+      loc: "bonbonah"
+      dat: "bonbonam"
+      ins: "bonbonami"
+      voc: "bonbony"

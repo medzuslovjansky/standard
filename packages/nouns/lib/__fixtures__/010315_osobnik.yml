@@ -1,0 +1,23 @@
+---
+  id: "10315"
+  word: "osobnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "osobnik"
+      acc: "osobnika"
+      gen: "osobnika"
+      loc: "osobniku"
+      dat: "osobniku"
+      ins: "osobnikom"
+      voc: "osobniče"
+    plural: 
+      nom: "osobniki"
+      acc: "osobnikov"
+      gen: "osobnikov"
+      loc: "osobnikah"
+      dat: "osobnikam"
+      ins: "osobnikami"
+      voc: "osobniki"

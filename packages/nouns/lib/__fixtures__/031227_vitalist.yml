@@ -1,0 +1,23 @@
+---
+  id: "31227"
+  word: "vitalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vitalist"
+      acc: "vitalista"
+      gen: "vitalista"
+      loc: "vitalistu"
+      dat: "vitalistu"
+      ins: "vitalistom"
+      voc: "vitaliste"
+    plural: 
+      nom: "vitalisti"
+      acc: "vitalistov"
+      gen: "vitalistov"
+      loc: "vitalistah"
+      dat: "vitalistam"
+      ins: "vitalistami"
+      voc: "vitalisti"

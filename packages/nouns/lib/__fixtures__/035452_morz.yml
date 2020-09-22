@@ -1,0 +1,23 @@
+---
+  id: "35452"
+  word: "morž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "morž"
+      acc: "morža"
+      gen: "morža"
+      loc: "moržu"
+      dat: "moržu"
+      ins: "moržem"
+      voc: "moržu"
+    plural: 
+      nom: "morži"
+      acc: "moržev"
+      gen: "moržev"
+      loc: "moržah"
+      dat: "moržam"
+      ins: "moržami"
+      voc: "morži"

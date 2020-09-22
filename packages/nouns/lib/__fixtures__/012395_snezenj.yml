@@ -1,0 +1,15 @@
+---
+  id: "12395"
+  word: "sněženj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sněženj"
+      acc: "sněženj"
+      gen: "sněženja"
+      loc: "sněženju"
+      dat: "sněženju"
+      ins: "sněženjem"
+      voc: "sněženju"

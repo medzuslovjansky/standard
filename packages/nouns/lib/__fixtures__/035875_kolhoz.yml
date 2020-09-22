@@ -1,0 +1,22 @@
+---
+  id: "35875"
+  word: "kolhoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolhoz"
+      acc: "kolhoz"
+      gen: "kolhoza"
+      loc: "kolhozu"
+      dat: "kolhozu"
+      ins: "kolhozom"
+      voc: "kolhoze"
+    plural: 
+      nom: "kolhozy"
+      acc: "kolhozy"
+      gen: "kolhozov"
+      loc: "kolhozah"
+      dat: "kolhozam"
+      ins: "kolhozami"
+      voc: "kolhozy"

@@ -1,0 +1,15 @@
+---
+  id: "33405"
+  word: "blekdžek"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "blekdžek"
+      acc: "blekdžek"
+      gen: "blekdžeka"
+      loc: "blekdžeku"
+      dat: "blekdžeku"
+      ins: "blekdžekom"
+      voc: "blekdžeče"

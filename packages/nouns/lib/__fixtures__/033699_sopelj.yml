@@ -1,0 +1,23 @@
+---
+  id: "33699"
+  word: "sopelj"
+  meta: 
+    irregularity: "(soplja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sopėlj"
+      acc: "sopėlj"
+      gen: "soplja"
+      loc: "soplju"
+      dat: "soplju"
+      ins: "sopljem"
+      voc: "soplju"
+    plural: 
+      nom: "soplje"
+      acc: "soplje"
+      gen: "sopljev"
+      loc: "sopljah"
+      dat: "sopljam"
+      ins: "sopljami"
+      voc: "soplje"

@@ -1,0 +1,15 @@
+---
+  id: "12286"
+  word: "slådoled"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "slådoled"
+      acc: "slådoled"
+      gen: "slådoleda"
+      loc: "slådoledu"
+      dat: "slådoledu"
+      ins: "slådoledom"
+      voc: "slådolede"

@@ -1,0 +1,22 @@
+---
+  id: "35739"
+  word: "disertacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "disertacija"
+      acc: "disertacijų"
+      gen: "disertacije"
+      loc: "disertaciji"
+      dat: "disertaciji"
+      ins: "disertacijejų"
+      voc: "disertacijo"
+    plural: 
+      nom: "disertacije"
+      acc: "disertacije"
+      gen: "disertacij"
+      loc: "disertacijah"
+      dat: "disertacijam"
+      ins: "disertacijami"
+      voc: "disertacije"

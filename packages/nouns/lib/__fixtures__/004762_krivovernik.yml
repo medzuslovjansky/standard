@@ -1,0 +1,23 @@
+---
+  id: "4762"
+  word: "krivověrnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krivověrnik"
+      acc: "krivověrnika"
+      gen: "krivověrnika"
+      loc: "krivověrniku"
+      dat: "krivověrniku"
+      ins: "krivověrnikom"
+      voc: "krivověrniče"
+    plural: 
+      nom: "krivověrniki"
+      acc: "krivověrnikov"
+      gen: "krivověrnikov"
+      loc: "krivověrnikah"
+      dat: "krivověrnikam"
+      ins: "krivověrnikami"
+      voc: "krivověrniki"

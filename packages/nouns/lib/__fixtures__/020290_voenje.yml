@@ -1,0 +1,15 @@
+---
+  id: "20290"
+  word: "vođeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vođeńje"
+      acc: "vođeńje"
+      gen: "vođeńja"
+      loc: "vođeńju"
+      dat: "vođeńju"
+      ins: "vođeńjem"
+      voc: "vođeńje"

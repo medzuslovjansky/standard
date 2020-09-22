@@ -1,0 +1,22 @@
+---
+  id: "4645"
+  word: "konjak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konjak"
+      acc: "konjak"
+      gen: "konjaka"
+      loc: "konjaku"
+      dat: "konjaku"
+      ins: "konjakom"
+      voc: "konjače"
+    plural: 
+      nom: "konjaky"
+      acc: "konjaky"
+      gen: "konjakov"
+      loc: "konjakah"
+      dat: "konjakam"
+      ins: "konjakami"
+      voc: "konjaky"

@@ -1,0 +1,22 @@
+---
+  id: "30879"
+  word: "temnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "temnica"
+      acc: "temnicų"
+      gen: "temnice"
+      loc: "temnici"
+      dat: "temnici"
+      ins: "temnicejų"
+      voc: "temnico"
+    plural: 
+      nom: "temnice"
+      acc: "temnice"
+      gen: "temnic"
+      loc: "temnicah"
+      dat: "temnicam"
+      ins: "temnicami"
+      voc: "temnice"

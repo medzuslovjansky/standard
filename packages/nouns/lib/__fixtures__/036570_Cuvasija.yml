@@ -1,0 +1,15 @@
+---
+  id: "36570"
+  word: "Čuvašija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Čuvašija"
+      acc: "Čuvašijų"
+      gen: "Čuvašije"
+      loc: "Čuvašiji"
+      dat: "Čuvašiji"
+      ins: "Čuvašijejų"
+      voc: "Čuvašijo"

@@ -1,0 +1,22 @@
+---
+  id: "1408"
+  word: "steklo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "steklo"
+      acc: "steklo"
+      gen: "stekla"
+      loc: "steklu"
+      dat: "steklu"
+      ins: "steklom"
+      voc: "steklo"
+    plural: 
+      nom: "stekla"
+      acc: "stekla"
+      gen: "stekȯl"
+      loc: "steklah"
+      dat: "steklam"
+      ins: "steklami"
+      voc: "stekla"

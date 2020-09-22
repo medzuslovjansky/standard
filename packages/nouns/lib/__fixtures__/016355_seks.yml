@@ -1,0 +1,15 @@
+---
+  id: "16355"
+  word: "seks"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "seks"
+      acc: "seks"
+      gen: "seksa"
+      loc: "seksu"
+      dat: "seksu"
+      ins: "seksom"
+      voc: "sekse"

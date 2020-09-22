@@ -1,0 +1,22 @@
+---
+  id: "11175"
+  word: "pravosųďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pravosųďje"
+      acc: "pravosųďje"
+      gen: "pravosųďja"
+      loc: "pravosųďju"
+      dat: "pravosųďju"
+      ins: "pravosųďjem"
+      voc: "pravosųďje"
+    plural: 
+      nom: "pravosųďja"
+      acc: "pravosųďja"
+      gen: "pravosųdij"
+      loc: "pravosųďjah"
+      dat: "pravosųďjam"
+      ins: "pravosųďjami"
+      voc: "pravosųďja"

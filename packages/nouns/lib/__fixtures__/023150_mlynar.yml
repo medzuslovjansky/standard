@@ -1,0 +1,23 @@
+---
+  id: "23150"
+  word: "mlynaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlynaŕ"
+      acc: "mlynaŕa"
+      gen: "mlynaŕa"
+      loc: "mlynaŕu"
+      dat: "mlynaŕu"
+      ins: "mlynaŕem"
+      voc: "mlynaŕu"
+    plural: 
+      nom: "mlynari"
+      acc: "mlynaŕev"
+      gen: "mlynaŕev"
+      loc: "mlynaŕah"
+      dat: "mlynaŕam"
+      ins: "mlynaŕami"
+      voc: "mlynari"

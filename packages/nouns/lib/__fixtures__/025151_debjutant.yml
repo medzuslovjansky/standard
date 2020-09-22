@@ -1,0 +1,23 @@
+---
+  id: "25151"
+  word: "debjutant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "debjutant"
+      acc: "debjutanta"
+      gen: "debjutanta"
+      loc: "debjutantu"
+      dat: "debjutantu"
+      ins: "debjutantom"
+      voc: "debjutante"
+    plural: 
+      nom: "debjutanti"
+      acc: "debjutantov"
+      gen: "debjutantov"
+      loc: "debjutantah"
+      dat: "debjutantam"
+      ins: "debjutantami"
+      voc: "debjutanti"

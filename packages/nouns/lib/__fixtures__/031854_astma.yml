@@ -1,0 +1,15 @@
+---
+  id: "31854"
+  word: "astma"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "astma"
+      acc: "astmų"
+      gen: "astmy"
+      loc: "astmě"
+      dat: "astmě"
+      ins: "astmojų"
+      voc: "astmo"

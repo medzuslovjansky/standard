@@ -1,0 +1,22 @@
+---
+  id: "3449"
+  word: "zaklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zaklad"
+      acc: "zaklad"
+      gen: "zaklada"
+      loc: "zakladu"
+      dat: "zakladu"
+      ins: "zakladom"
+      voc: "zaklade"
+    plural: 
+      nom: "zaklady"
+      acc: "zaklady"
+      gen: "zakladov"
+      loc: "zakladah"
+      dat: "zakladam"
+      ins: "zakladami"
+      voc: "zaklady"

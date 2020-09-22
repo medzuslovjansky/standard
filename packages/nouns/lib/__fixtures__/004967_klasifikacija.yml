@@ -1,0 +1,22 @@
+---
+  id: "4967"
+  word: "klasifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klasifikacija"
+      acc: "klasifikacijų"
+      gen: "klasifikacije"
+      loc: "klasifikaciji"
+      dat: "klasifikaciji"
+      ins: "klasifikacijejų"
+      voc: "klasifikacijo"
+    plural: 
+      nom: "klasifikacije"
+      acc: "klasifikacije"
+      gen: "klasifikacij"
+      loc: "klasifikacijah"
+      dat: "klasifikacijam"
+      ins: "klasifikacijami"
+      voc: "klasifikacije"

@@ -1,0 +1,23 @@
+---
+  id: "2748"
+  word: "motylik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "motylik"
+      acc: "motylika"
+      gen: "motylika"
+      loc: "motyliku"
+      dat: "motyliku"
+      ins: "motylikom"
+      voc: "motyliče"
+    plural: 
+      nom: "motyliki"
+      acc: "motylikov"
+      gen: "motylikov"
+      loc: "motylikah"
+      dat: "motylikam"
+      ins: "motylikami"
+      voc: "motyliki"

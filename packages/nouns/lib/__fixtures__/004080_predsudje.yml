@@ -1,0 +1,22 @@
+---
+  id: "4080"
+  word: "prědsųďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědsųďje"
+      acc: "prědsųďje"
+      gen: "prědsųďja"
+      loc: "prědsųďju"
+      dat: "prědsųďju"
+      ins: "prědsųďjem"
+      voc: "prědsųďje"
+    plural: 
+      nom: "prědsųďja"
+      acc: "prědsųďja"
+      gen: "prědsųdij"
+      loc: "prědsųďjah"
+      dat: "prědsųďjam"
+      ins: "prědsųďjami"
+      voc: "prědsųďja"

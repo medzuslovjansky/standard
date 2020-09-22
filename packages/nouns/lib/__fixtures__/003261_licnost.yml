@@ -1,0 +1,22 @@
+---
+  id: "3261"
+  word: "ličnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ličnosť"
+      acc: "ličnosť"
+      gen: "ličnosti"
+      loc: "ličnosti"
+      dat: "ličnosti"
+      ins: "ličnosťjų"
+      voc: "ličnosti"
+    plural: 
+      nom: "ličnosti"
+      acc: "ličnosti"
+      gen: "ličnostij"
+      loc: "ličnosťah"
+      dat: "ličnosťam"
+      ins: "ličnosťami"
+      voc: "ličnosti"

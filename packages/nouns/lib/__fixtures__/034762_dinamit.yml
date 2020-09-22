@@ -1,0 +1,15 @@
+---
+  id: "34762"
+  word: "dinamit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dinamit"
+      acc: "dinamit"
+      gen: "dinamita"
+      loc: "dinamitu"
+      dat: "dinamitu"
+      ins: "dinamitom"
+      voc: "dinamite"

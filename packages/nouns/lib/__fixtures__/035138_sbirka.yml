@@ -1,0 +1,22 @@
+---
+  id: "35138"
+  word: "sbirka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sbirka"
+      acc: "sbirkų"
+      gen: "sbirky"
+      loc: "sbirkě"
+      dat: "sbirkě"
+      ins: "sbirkojų"
+      voc: "sbirko"
+    plural: 
+      nom: "sbirky"
+      acc: "sbirky"
+      gen: "sbirȯk"
+      loc: "sbirkah"
+      dat: "sbirkam"
+      ins: "sbirkami"
+      voc: "sbirky"

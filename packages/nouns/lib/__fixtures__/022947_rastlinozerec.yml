@@ -1,0 +1,23 @@
+---
+  id: "22947"
+  word: "råstlinožerec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råstlinožerec"
+      acc: "råstlinožerca"
+      gen: "råstlinožerca"
+      loc: "råstlinožercu"
+      dat: "råstlinožercu"
+      ins: "råstlinožercem"
+      voc: "råstlinožerče"
+    plural: 
+      nom: "råstlinožerci"
+      acc: "råstlinožercev"
+      gen: "råstlinožercev"
+      loc: "råstlinožercah"
+      dat: "råstlinožercam"
+      ins: "råstlinožercami"
+      voc: "råstlinožerci"

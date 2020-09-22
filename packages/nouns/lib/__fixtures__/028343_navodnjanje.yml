@@ -1,0 +1,22 @@
+---
+  id: "28343"
+  word: "navodnjańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "navodnjańje"
+      acc: "navodnjańje"
+      gen: "navodnjańja"
+      loc: "navodnjańju"
+      dat: "navodnjańju"
+      ins: "navodnjańjem"
+      voc: "navodnjańje"
+    plural: 
+      nom: "navodnjańja"
+      acc: "navodnjańja"
+      gen: "navodnjanij"
+      loc: "navodnjańjah"
+      dat: "navodnjańjam"
+      ins: "navodnjańjami"
+      voc: "navodnjańja"

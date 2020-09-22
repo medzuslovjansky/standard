@@ -1,0 +1,22 @@
+---
+  id: "21420"
+  word: "osadȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "osadȯk"
+      acc: "osadȯk"
+      gen: "osadka"
+      loc: "osadku"
+      dat: "osadku"
+      ins: "osadkom"
+      voc: "osadče"
+    plural: 
+      nom: "osadky"
+      acc: "osadky"
+      gen: "osadkov"
+      loc: "osadkah"
+      dat: "osadkam"
+      ins: "osadkami"
+      voc: "osadky"

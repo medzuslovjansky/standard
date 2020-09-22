@@ -1,0 +1,22 @@
+---
+  id: "6295"
+  word: "prokuratura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prokuratura"
+      acc: "prokuraturų"
+      gen: "prokuratury"
+      loc: "prokuraturě"
+      dat: "prokuraturě"
+      ins: "prokuraturojų"
+      voc: "prokuraturo"
+    plural: 
+      nom: "prokuratury"
+      acc: "prokuratury"
+      gen: "prokuratur"
+      loc: "prokuraturah"
+      dat: "prokuraturam"
+      ins: "prokuraturami"
+      voc: "prokuratury"

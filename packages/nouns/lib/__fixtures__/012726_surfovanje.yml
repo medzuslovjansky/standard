@@ -1,0 +1,15 @@
+---
+  id: "12726"
+  word: "surfovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "surfovańje"
+      acc: "surfovańje"
+      gen: "surfovańja"
+      loc: "surfovańju"
+      dat: "surfovańju"
+      ins: "surfovańjem"
+      voc: "surfovańje"

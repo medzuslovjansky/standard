@@ -1,0 +1,22 @@
+---
+  id: "20018"
+  word: "poblåžlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poblåžlivosť"
+      acc: "poblåžlivosť"
+      gen: "poblåžlivosti"
+      loc: "poblåžlivosti"
+      dat: "poblåžlivosti"
+      ins: "poblåžlivosťjų"
+      voc: "poblåžlivosti"
+    plural: 
+      nom: "poblåžlivosti"
+      acc: "poblåžlivosti"
+      gen: "poblåžlivostij"
+      loc: "poblåžlivosťah"
+      dat: "poblåžlivosťam"
+      ins: "poblåžlivosťami"
+      voc: "poblåžlivosti"

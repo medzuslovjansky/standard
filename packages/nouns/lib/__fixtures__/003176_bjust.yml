@@ -1,0 +1,22 @@
+---
+  id: "3176"
+  word: "bjust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bjust"
+      acc: "bjust"
+      gen: "bjusta"
+      loc: "bjustu"
+      dat: "bjustu"
+      ins: "bjustom"
+      voc: "bjuste"
+    plural: 
+      nom: "bjusty"
+      acc: "bjusty"
+      gen: "bjustov"
+      loc: "bjustah"
+      dat: "bjustam"
+      ins: "bjustami"
+      voc: "bjusty"

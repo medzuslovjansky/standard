@@ -1,0 +1,22 @@
+---
+  id: "27436"
+  word: "maršrutka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maršrutka"
+      acc: "maršrutkų"
+      gen: "maršrutky"
+      loc: "maršrutkě"
+      dat: "maršrutkě"
+      ins: "maršrutkojų"
+      voc: "maršrutko"
+    plural: 
+      nom: "maršrutky"
+      acc: "maršrutky"
+      gen: "maršrutȯk"
+      loc: "maršrutkah"
+      dat: "maršrutkam"
+      ins: "maršrutkami"
+      voc: "maršrutky"

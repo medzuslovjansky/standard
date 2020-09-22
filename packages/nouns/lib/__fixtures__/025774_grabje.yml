@@ -1,0 +1,15 @@
+---
+  id: "25774"
+  word: "grabje"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "grabje"
+      acc: "grabje"
+      gen: "grabj"
+      loc: "grabjah"
+      dat: "grabjam"
+      ins: "grabjami"
+      voc: "grabje"

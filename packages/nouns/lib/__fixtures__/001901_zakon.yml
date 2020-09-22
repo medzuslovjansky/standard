@@ -1,0 +1,22 @@
+---
+  id: "1901"
+  word: "zakon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zakon"
+      acc: "zakon"
+      gen: "zakona"
+      loc: "zakonu"
+      dat: "zakonu"
+      ins: "zakonom"
+      voc: "zakone"
+    plural: 
+      nom: "zakony"
+      acc: "zakony"
+      gen: "zakonov"
+      loc: "zakonah"
+      dat: "zakonam"
+      ins: "zakonami"
+      voc: "zakony"

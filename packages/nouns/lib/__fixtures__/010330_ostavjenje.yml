@@ -1,0 +1,22 @@
+---
+  id: "10330"
+  word: "ostavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ostavjeńje"
+      acc: "ostavjeńje"
+      gen: "ostavjeńja"
+      loc: "ostavjeńju"
+      dat: "ostavjeńju"
+      ins: "ostavjeńjem"
+      voc: "ostavjeńje"
+    plural: 
+      nom: "ostavjeńja"
+      acc: "ostavjeńja"
+      gen: "ostavjenij"
+      loc: "ostavjeńjah"
+      dat: "ostavjeńjam"
+      ins: "ostavjeńjami"
+      voc: "ostavjeńja"

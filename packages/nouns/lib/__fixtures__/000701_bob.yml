@@ -1,0 +1,22 @@
+---
+  id: "701"
+  word: "bob"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bob"
+      acc: "bob"
+      gen: "boba"
+      loc: "bobu"
+      dat: "bobu"
+      ins: "bobom"
+      voc: "bobe"
+    plural: 
+      nom: "boby"
+      acc: "boby"
+      gen: "bobov"
+      loc: "bobah"
+      dat: "bobam"
+      ins: "bobami"
+      voc: "boby"

@@ -1,0 +1,22 @@
+---
+  id: "6706"
+  word: "bronza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bronza"
+      acc: "bronzų"
+      gen: "bronzy"
+      loc: "bronzě"
+      dat: "bronzě"
+      ins: "bronzojų"
+      voc: "bronzo"
+    plural: 
+      nom: "bronzy"
+      acc: "bronzy"
+      gen: "bronz"
+      loc: "bronzah"
+      dat: "bronzam"
+      ins: "bronzami"
+      voc: "bronzy"

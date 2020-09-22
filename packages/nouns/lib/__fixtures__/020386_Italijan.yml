@@ -1,0 +1,47 @@
+---
+  - 
+    id: "20386"
+    word: "Italijan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Italijan"
+        acc: "Italijana"
+        gen: "Italijana"
+        loc: "Italijanu"
+        dat: "Italijanu"
+        ins: "Italijanom"
+        voc: "Italijane"
+      plural: 
+        nom: "Italijani"
+        acc: "Italijanov"
+        gen: "Italijanov"
+        loc: "Italijanah"
+        dat: "Italijanam"
+        ins: "Italijanami"
+        voc: "Italijani"
+  - 
+    id: "20386"
+    word: "Italijanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Italijanin"
+        acc: "Italijanina"
+        gen: "Italijanina"
+        loc: "Italijaninu"
+        dat: "Italijaninu"
+        ins: "Italijaninom"
+        voc: "Italijanine"
+      plural: 
+        nom: "Italijani"
+        acc: "Italijanov"
+        gen: "Italijanov"
+        loc: "Italijanah"
+        dat: "Italijanam"
+        ins: "Italijanami"
+        voc: "Italijani"

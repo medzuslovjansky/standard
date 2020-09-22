@@ -1,0 +1,15 @@
+---
+  id: "14500"
+  word: "člověčnosť"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "člověčnosť"
+      acc: "člověčnosť"
+      gen: "člověčnosťa"
+      loc: "člověčnosťu"
+      dat: "člověčnosťu"
+      ins: "člověčnosťem"
+      voc: "člověčnosťu"

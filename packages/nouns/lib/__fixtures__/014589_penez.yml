@@ -1,0 +1,22 @@
+---
+  id: "14589"
+  word: "pěnęz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pěnęz"
+      acc: "pěnęz"
+      gen: "pěnęza"
+      loc: "pěnęzu"
+      dat: "pěnęzu"
+      ins: "pěnęzom"
+      voc: "pěnęze"
+    plural: 
+      nom: "pěnęzy"
+      acc: "pěnęzy"
+      gen: "pěnęzov"
+      loc: "pěnęzah"
+      dat: "pěnęzam"
+      ins: "pěnęzami"
+      voc: "pěnęzy"

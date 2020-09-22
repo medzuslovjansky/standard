@@ -1,0 +1,23 @@
+---
+  id: "2126"
+  word: "znanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "znanec"
+      acc: "znanca"
+      gen: "znanca"
+      loc: "znancu"
+      dat: "znancu"
+      ins: "znancem"
+      voc: "znanče"
+    plural: 
+      nom: "znanci"
+      acc: "znancev"
+      gen: "znancev"
+      loc: "znancah"
+      dat: "znancam"
+      ins: "znancami"
+      voc: "znanci"

@@ -1,0 +1,22 @@
+---
+  id: "3163"
+  word: "pravopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pravopis"
+      acc: "pravopis"
+      gen: "pravopisa"
+      loc: "pravopisu"
+      dat: "pravopisu"
+      ins: "pravopisom"
+      voc: "pravopise"
+    plural: 
+      nom: "pravopisy"
+      acc: "pravopisy"
+      gen: "pravopisov"
+      loc: "pravopisah"
+      dat: "pravopisam"
+      ins: "pravopisami"
+      voc: "pravopisy"

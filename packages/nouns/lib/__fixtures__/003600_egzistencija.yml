@@ -1,0 +1,15 @@
+---
+  id: "3600"
+  word: "egzistencija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "egzistencija"
+      acc: "egzistencijų"
+      gen: "egzistencije"
+      loc: "egzistenciji"
+      dat: "egzistenciji"
+      ins: "egzistencijejų"
+      voc: "egzistencijo"

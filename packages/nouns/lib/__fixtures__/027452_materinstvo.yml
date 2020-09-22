@@ -1,0 +1,15 @@
+---
+  id: "27452"
+  word: "materinstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "materinstvo"
+      acc: "materinstvo"
+      gen: "materinstva"
+      loc: "materinstvu"
+      dat: "materinstvu"
+      ins: "materinstvom"
+      voc: "materinstvo"

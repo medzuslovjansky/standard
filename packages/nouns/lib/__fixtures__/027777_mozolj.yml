@@ -1,0 +1,22 @@
+---
+  id: "27777"
+  word: "mozolj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mozolj"
+      acc: "mozolj"
+      gen: "mozolji"
+      loc: "mozolji"
+      dat: "mozolji"
+      ins: "mozoljjų"
+      voc: "mozolji"
+    plural: 
+      nom: "mozolji"
+      acc: "mozolji"
+      gen: "mozoljij"
+      loc: "mozoljah"
+      dat: "mozoljam"
+      ins: "mozoljami"
+      voc: "mozolji"

@@ -1,0 +1,15 @@
+---
+  id: "3125"
+  word: "julij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "julij"
+      acc: "julij"
+      gen: "julija"
+      loc: "juliju"
+      dat: "juliju"
+      ins: "julijem"
+      voc: "juliju"

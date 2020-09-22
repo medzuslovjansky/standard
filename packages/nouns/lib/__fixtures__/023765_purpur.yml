@@ -1,0 +1,22 @@
+---
+  id: "23765"
+  word: "purpur"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "purpur"
+      acc: "purpur"
+      gen: "purpura"
+      loc: "purpuru"
+      dat: "purpuru"
+      ins: "purpurom"
+      voc: "purpure"
+    plural: 
+      nom: "purpury"
+      acc: "purpury"
+      gen: "purpurov"
+      loc: "purpurah"
+      dat: "purpuram"
+      ins: "purpurami"
+      voc: "purpury"

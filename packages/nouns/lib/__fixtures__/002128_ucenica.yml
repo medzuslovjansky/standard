@@ -1,0 +1,22 @@
+---
+  id: "2128"
+  word: "učenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "učenica"
+      acc: "učenicų"
+      gen: "učenice"
+      loc: "učenici"
+      dat: "učenici"
+      ins: "učenicejų"
+      voc: "učenico"
+    plural: 
+      nom: "učenice"
+      acc: "učenice"
+      gen: "učenic"
+      loc: "učenicah"
+      dat: "učenicam"
+      ins: "učenicami"
+      voc: "učenice"

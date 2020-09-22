@@ -1,0 +1,22 @@
+---
+  id: "30441"
+  word: "råzrušitelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzrušitelj"
+      acc: "råzrušitelj"
+      gen: "råzrušitelja"
+      loc: "råzrušitelju"
+      dat: "råzrušitelju"
+      ins: "råzrušiteljem"
+      voc: "råzrušitelju"
+    plural: 
+      nom: "råzrušitelje"
+      acc: "råzrušitelje"
+      gen: "råzrušiteljev"
+      loc: "råzrušiteljah"
+      dat: "råzrušiteljam"
+      ins: "råzrušiteljami"
+      voc: "råzrušitelje"

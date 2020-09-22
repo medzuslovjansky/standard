@@ -1,0 +1,15 @@
+---
+  id: "5919"
+  word: "Alžirija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Alžirija"
+      acc: "Alžirijų"
+      gen: "Alžirije"
+      loc: "Alžiriji"
+      dat: "Alžiriji"
+      ins: "Alžirijejų"
+      voc: "Alžirijo"

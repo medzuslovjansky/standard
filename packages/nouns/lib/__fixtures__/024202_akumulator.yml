@@ -1,0 +1,22 @@
+---
+  id: "24202"
+  word: "akumulator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akumulator"
+      acc: "akumulator"
+      gen: "akumulatora"
+      loc: "akumulatoru"
+      dat: "akumulatoru"
+      ins: "akumulatorom"
+      voc: "akumulatore"
+    plural: 
+      nom: "akumulatory"
+      acc: "akumulatory"
+      gen: "akumulatorov"
+      loc: "akumulatorah"
+      dat: "akumulatoram"
+      ins: "akumulatorami"
+      voc: "akumulatory"

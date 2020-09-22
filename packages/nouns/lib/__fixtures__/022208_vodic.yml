@@ -1,0 +1,22 @@
+---
+  id: "22208"
+  word: "vodič"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodič"
+      acc: "vodič"
+      gen: "vodiča"
+      loc: "vodiču"
+      dat: "vodiču"
+      ins: "vodičem"
+      voc: "vodiču"
+    plural: 
+      nom: "vodiče"
+      acc: "vodiče"
+      gen: "vodičev"
+      loc: "vodičah"
+      dat: "vodičam"
+      ins: "vodičami"
+      voc: "vodiče"

@@ -1,0 +1,15 @@
+---
+  id: "5765"
+  word: "suverenitet"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "suverenitet"
+      acc: "suverenitet"
+      gen: "suvereniteta"
+      loc: "suverenitetu"
+      dat: "suverenitetu"
+      ins: "suverenitetom"
+      voc: "suverenitete"

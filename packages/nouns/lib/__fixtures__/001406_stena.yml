@@ -1,0 +1,22 @@
+---
+  id: "1406"
+  word: "stěna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stěna"
+      acc: "stěnų"
+      gen: "stěny"
+      loc: "stěně"
+      dat: "stěně"
+      ins: "stěnojų"
+      voc: "stěno"
+    plural: 
+      nom: "stěny"
+      acc: "stěny"
+      gen: "stěn"
+      loc: "stěnah"
+      dat: "stěnam"
+      ins: "stěnami"
+      voc: "stěny"

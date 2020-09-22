@@ -1,0 +1,22 @@
+---
+  id: "1295"
+  word: "kuljemet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kuljemet"
+      acc: "kuljemet"
+      gen: "kuljemeta"
+      loc: "kuljemetu"
+      dat: "kuljemetu"
+      ins: "kuljemetom"
+      voc: "kuljemete"
+    plural: 
+      nom: "kuljemety"
+      acc: "kuljemety"
+      gen: "kuljemetov"
+      loc: "kuljemetah"
+      dat: "kuljemetam"
+      ins: "kuljemetami"
+      voc: "kuljemety"

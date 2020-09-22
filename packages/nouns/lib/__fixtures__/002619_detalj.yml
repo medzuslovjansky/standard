@@ -1,0 +1,22 @@
+---
+  id: "2619"
+  word: "detalj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "detalj"
+      acc: "detalj"
+      gen: "detalja"
+      loc: "detalju"
+      dat: "detalju"
+      ins: "detaljem"
+      voc: "detalju"
+    plural: 
+      nom: "detalje"
+      acc: "detalje"
+      gen: "detaljev"
+      loc: "detaljah"
+      dat: "detaljam"
+      ins: "detaljami"
+      voc: "detalje"

@@ -1,0 +1,15 @@
+---
+  id: "15592"
+  word: "šesterčęta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "šesterčęta"
+      acc: "šesterčęta"
+      gen: "šesterčęt"
+      loc: "šesterčętah"
+      dat: "šesterčętam"
+      ins: "šesterčętami"
+      voc: "šesterčęta"

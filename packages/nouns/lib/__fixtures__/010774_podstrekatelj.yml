@@ -1,0 +1,23 @@
+---
+  id: "10774"
+  word: "podstrěkatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podstrěkatelj"
+      acc: "podstrěkatelja"
+      gen: "podstrěkatelja"
+      loc: "podstrěkatelju"
+      dat: "podstrěkatelju"
+      ins: "podstrěkateljem"
+      voc: "podstrěkatelju"
+    plural: 
+      nom: "podstrěkatelji"
+      acc: "podstrěkateljev"
+      gen: "podstrěkateljev"
+      loc: "podstrěkateljah"
+      dat: "podstrěkateljam"
+      ins: "podstrěkateljami"
+      voc: "podstrěkatelji"

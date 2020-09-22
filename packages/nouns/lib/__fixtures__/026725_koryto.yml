@@ -1,0 +1,22 @@
+---
+  id: "26725"
+  word: "koryto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "koryto"
+      acc: "koryto"
+      gen: "koryta"
+      loc: "korytu"
+      dat: "korytu"
+      ins: "korytom"
+      voc: "koryto"
+    plural: 
+      nom: "koryta"
+      acc: "koryta"
+      gen: "koryt"
+      loc: "korytah"
+      dat: "korytam"
+      ins: "korytami"
+      voc: "koryta"

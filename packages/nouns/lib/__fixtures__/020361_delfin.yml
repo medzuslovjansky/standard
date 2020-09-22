@@ -1,0 +1,23 @@
+---
+  id: "20361"
+  word: "delfin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "delfin"
+      acc: "delfina"
+      gen: "delfina"
+      loc: "delfinu"
+      dat: "delfinu"
+      ins: "delfinom"
+      voc: "delfine"
+    plural: 
+      nom: "delfini"
+      acc: "delfinov"
+      gen: "delfinov"
+      loc: "delfinah"
+      dat: "delfinam"
+      ins: "delfinami"
+      voc: "delfini"

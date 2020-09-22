@@ -1,0 +1,22 @@
+---
+  id: "33323"
+  word: "limfa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "limfa"
+      acc: "limfų"
+      gen: "limfy"
+      loc: "limfě"
+      dat: "limfě"
+      ins: "limfojų"
+      voc: "limfo"
+    plural: 
+      nom: "limfy"
+      acc: "limfy"
+      gen: "limf"
+      loc: "limfah"
+      dat: "limfam"
+      ins: "limfami"
+      voc: "limfy"

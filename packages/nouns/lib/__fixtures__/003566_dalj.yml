@@ -1,0 +1,22 @@
+---
+  id: "3566"
+  word: "dalj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dalj"
+      acc: "dalj"
+      gen: "dalja"
+      loc: "dalju"
+      dat: "dalju"
+      ins: "daljem"
+      voc: "dalju"
+    plural: 
+      nom: "dalje"
+      acc: "dalje"
+      gen: "daljev"
+      loc: "daljah"
+      dat: "daljam"
+      ins: "daljami"
+      voc: "dalje"

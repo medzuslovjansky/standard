@@ -1,0 +1,22 @@
+---
+  id: "20752"
+  word: "standardizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "standardizacija"
+      acc: "standardizacijų"
+      gen: "standardizacije"
+      loc: "standardizaciji"
+      dat: "standardizaciji"
+      ins: "standardizacijejų"
+      voc: "standardizacijo"
+    plural: 
+      nom: "standardizacije"
+      acc: "standardizacije"
+      gen: "standardizacij"
+      loc: "standardizacijah"
+      dat: "standardizacijam"
+      ins: "standardizacijami"
+      voc: "standardizacije"

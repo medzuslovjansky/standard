@@ -1,0 +1,22 @@
+---
+  id: "12990"
+  word: "tipičnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tipičnosť"
+      acc: "tipičnosť"
+      gen: "tipičnosti"
+      loc: "tipičnosti"
+      dat: "tipičnosti"
+      ins: "tipičnosťjų"
+      voc: "tipičnosti"
+    plural: 
+      nom: "tipičnosti"
+      acc: "tipičnosti"
+      gen: "tipičnostij"
+      loc: "tipičnosťah"
+      dat: "tipičnosťam"
+      ins: "tipičnosťami"
+      voc: "tipičnosti"

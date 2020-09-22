@@ -1,0 +1,23 @@
+---
+  id: "9541"
+  word: "nebojaznik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nebojaznik"
+      acc: "nebojaznika"
+      gen: "nebojaznika"
+      loc: "nebojazniku"
+      dat: "nebojazniku"
+      ins: "nebojaznikom"
+      voc: "nebojazniče"
+    plural: 
+      nom: "nebojazniki"
+      acc: "nebojaznikov"
+      gen: "nebojaznikov"
+      loc: "nebojaznikah"
+      dat: "nebojaznikam"
+      ins: "nebojaznikami"
+      voc: "nebojazniki"

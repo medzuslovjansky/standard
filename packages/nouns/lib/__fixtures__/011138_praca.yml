@@ -1,0 +1,22 @@
+---
+  id: "11138"
+  word: "praca"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "praca"
+      acc: "pracų"
+      gen: "prace"
+      loc: "praci"
+      dat: "praci"
+      ins: "pracejų"
+      voc: "praco"
+    plural: 
+      nom: "prace"
+      acc: "prace"
+      gen: "prac"
+      loc: "pracah"
+      dat: "pracam"
+      ins: "pracami"
+      voc: "prace"

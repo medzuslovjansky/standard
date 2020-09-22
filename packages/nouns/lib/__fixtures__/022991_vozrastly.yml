@@ -1,0 +1,24 @@
+---
+  id: "22991"
+  word: "vȯzråstly"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vȯzråstly"
+      acc: "vȯzråstlogo"
+      gen: "vȯzråstlogo"
+      loc: "vȯzråstlom"
+      dat: "vȯzråstlomu"
+      ins: "vȯzråstlym"
+      voc: "vȯzråstly"
+    plural: 
+      nom: "vȯzråstli"
+      acc: "vȯzråstlyh"
+      gen: "vȯzråstlyh"
+      loc: "vȯzråstlyh"
+      dat: "vȯzråstlym"
+      ins: "vȯzråstlymi"
+      voc: "vȯzråstli"

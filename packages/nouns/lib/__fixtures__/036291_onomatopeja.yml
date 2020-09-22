@@ -1,0 +1,22 @@
+---
+  id: "36291"
+  word: "onomatopeja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "onomatopeja"
+      acc: "onomatopejų"
+      gen: "onomatopeje"
+      loc: "onomatopeji"
+      dat: "onomatopeji"
+      ins: "onomatopejejų"
+      voc: "onomatopejo"
+    plural: 
+      nom: "onomatopeje"
+      acc: "onomatopeje"
+      gen: "onomatopej"
+      loc: "onomatopejah"
+      dat: "onomatopejam"
+      ins: "onomatopejami"
+      voc: "onomatopeje"

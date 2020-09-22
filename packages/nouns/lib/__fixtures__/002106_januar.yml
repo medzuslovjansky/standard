@@ -1,0 +1,15 @@
+---
+  id: "2106"
+  word: "januaŕ"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "januaŕ"
+      acc: "januaŕ"
+      gen: "januaŕa"
+      loc: "januaŕu"
+      dat: "januaŕu"
+      ins: "januaŕem"
+      voc: "januaŕu"

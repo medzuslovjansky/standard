@@ -1,0 +1,22 @@
+---
+  id: "5741"
+  word: "odlomȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odlomȯk"
+      acc: "odlomȯk"
+      gen: "odlomka"
+      loc: "odlomku"
+      dat: "odlomku"
+      ins: "odlomkom"
+      voc: "odlomče"
+    plural: 
+      nom: "odlomky"
+      acc: "odlomky"
+      gen: "odlomkov"
+      loc: "odlomkah"
+      dat: "odlomkam"
+      ins: "odlomkami"
+      voc: "odlomky"

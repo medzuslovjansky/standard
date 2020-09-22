@@ -1,0 +1,23 @@
+---
+  id: "14594"
+  word: "hųdožnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hųdožnik"
+      acc: "hųdožnika"
+      gen: "hųdožnika"
+      loc: "hųdožniku"
+      dat: "hųdožniku"
+      ins: "hųdožnikom"
+      voc: "hųdožniče"
+    plural: 
+      nom: "hųdožniki"
+      acc: "hųdožnikov"
+      gen: "hųdožnikov"
+      loc: "hųdožnikah"
+      dat: "hųdožnikam"
+      ins: "hųdožnikami"
+      voc: "hųdožniki"

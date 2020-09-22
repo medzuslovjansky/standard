@@ -1,0 +1,22 @@
+---
+  id: "2987"
+  word: "sěmja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sěmja"
+      acc: "sěmjų"
+      gen: "sěmje"
+      loc: "sěmji"
+      dat: "sěmji"
+      ins: "sěmjejų"
+      voc: "sěmjo"
+    plural: 
+      nom: "sěmje"
+      acc: "sěmje"
+      gen: "sěmej"
+      loc: "sěmjah"
+      dat: "sěmjam"
+      ins: "sěmjami"
+      voc: "sěmje"

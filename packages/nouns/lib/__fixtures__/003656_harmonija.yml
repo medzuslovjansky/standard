@@ -1,0 +1,22 @@
+---
+  id: "3656"
+  word: "harmonija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "harmonija"
+      acc: "harmonijų"
+      gen: "harmonije"
+      loc: "harmoniji"
+      dat: "harmoniji"
+      ins: "harmonijejų"
+      voc: "harmonijo"
+    plural: 
+      nom: "harmonije"
+      acc: "harmonije"
+      gen: "harmonij"
+      loc: "harmonijah"
+      dat: "harmonijam"
+      ins: "harmonijami"
+      voc: "harmonije"

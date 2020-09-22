@@ -1,0 +1,15 @@
+---
+  id: "17154"
+  word: "Bogojavjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bogojavjeńje"
+      acc: "Bogojavjeńje"
+      gen: "Bogojavjeńja"
+      loc: "Bogojavjeńju"
+      dat: "Bogojavjeńju"
+      ins: "Bogojavjeńjem"
+      voc: "Bogojavjeńje"

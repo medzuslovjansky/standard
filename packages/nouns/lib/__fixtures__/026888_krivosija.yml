@@ -1,0 +1,22 @@
+---
+  id: "26888"
+  word: "krivošija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krivošija"
+      acc: "krivošijų"
+      gen: "krivošije"
+      loc: "krivošiji"
+      dat: "krivošiji"
+      ins: "krivošijejų"
+      voc: "krivošijo"
+    plural: 
+      nom: "krivošije"
+      acc: "krivošije"
+      gen: "krivošij"
+      loc: "krivošijah"
+      dat: "krivošijam"
+      ins: "krivošijami"
+      voc: "krivošije"

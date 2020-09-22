@@ -1,0 +1,15 @@
+---
+  id: "16791"
+  word: "Svazilend"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Svazilend"
+      acc: "Svazilend"
+      gen: "Svazilenda"
+      loc: "Svazilendu"
+      dat: "Svazilendu"
+      ins: "Svazilendom"
+      voc: "Svazilende"

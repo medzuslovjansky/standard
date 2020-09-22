@@ -1,0 +1,15 @@
+---
+  id: "17158"
+  word: "bogoslovje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bogoslovje"
+      acc: "bogoslovje"
+      gen: "bogoslovja"
+      loc: "bogoslovju"
+      dat: "bogoslovju"
+      ins: "bogoslovjem"
+      voc: "bogoslovje"

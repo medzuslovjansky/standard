@@ -1,0 +1,15 @@
+---
+  id: "22609"
+  word: "kremnij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kremnij"
+      acc: "kremnij"
+      gen: "kremnija"
+      loc: "kremniju"
+      dat: "kremniju"
+      ins: "kremnijem"
+      voc: "kremniju"

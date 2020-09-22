@@ -1,0 +1,22 @@
+---
+  id: "31366"
+  word: "vŕhovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vŕhovje"
+      acc: "vŕhovje"
+      gen: "vŕhovja"
+      loc: "vŕhovju"
+      dat: "vŕhovju"
+      ins: "vŕhovjem"
+      voc: "vŕhovje"
+    plural: 
+      nom: "vŕhovja"
+      acc: "vŕhovja"
+      gen: "vŕhovij"
+      loc: "vŕhovjah"
+      dat: "vŕhovjam"
+      ins: "vŕhovjami"
+      voc: "vŕhovja"

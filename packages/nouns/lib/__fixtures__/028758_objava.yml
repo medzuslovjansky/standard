@@ -1,0 +1,22 @@
+---
+  id: "28758"
+  word: "objava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "objava"
+      acc: "objavų"
+      gen: "objavy"
+      loc: "objavě"
+      dat: "objavě"
+      ins: "objavojų"
+      voc: "objavo"
+    plural: 
+      nom: "objavy"
+      acc: "objavy"
+      gen: "objav"
+      loc: "objavah"
+      dat: "objavam"
+      ins: "objavami"
+      voc: "objavy"

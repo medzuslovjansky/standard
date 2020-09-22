@@ -1,0 +1,22 @@
+---
+  id: "30799"
+  word: "stȯlp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stȯlp"
+      acc: "stȯlp"
+      gen: "stȯlpa"
+      loc: "stȯlpu"
+      dat: "stȯlpu"
+      ins: "stȯlpom"
+      voc: "stȯlpe"
+    plural: 
+      nom: "stȯlpy"
+      acc: "stȯlpy"
+      gen: "stȯlpov"
+      loc: "stȯlpah"
+      dat: "stȯlpam"
+      ins: "stȯlpami"
+      voc: "stȯlpy"

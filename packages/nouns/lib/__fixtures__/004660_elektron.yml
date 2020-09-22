@@ -1,0 +1,22 @@
+---
+  id: "4660"
+  word: "elektron"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "elektron"
+      acc: "elektron"
+      gen: "elektrona"
+      loc: "elektronu"
+      dat: "elektronu"
+      ins: "elektronom"
+      voc: "elektrone"
+    plural: 
+      nom: "elektrony"
+      acc: "elektrony"
+      gen: "elektronov"
+      loc: "elektronah"
+      dat: "elektronam"
+      ins: "elektronami"
+      voc: "elektrony"

@@ -1,0 +1,22 @@
+---
+  id: "7248"
+  word: "dostava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dostava"
+      acc: "dostavų"
+      gen: "dostavy"
+      loc: "dostavě"
+      dat: "dostavě"
+      ins: "dostavojų"
+      voc: "dostavo"
+    plural: 
+      nom: "dostavy"
+      acc: "dostavy"
+      gen: "dostav"
+      loc: "dostavah"
+      dat: "dostavam"
+      ins: "dostavami"
+      voc: "dostavy"

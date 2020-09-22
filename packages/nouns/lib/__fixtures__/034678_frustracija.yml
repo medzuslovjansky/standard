@@ -1,0 +1,22 @@
+---
+  id: "34678"
+  word: "frustracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "frustracija"
+      acc: "frustracijų"
+      gen: "frustracije"
+      loc: "frustraciji"
+      dat: "frustraciji"
+      ins: "frustracijejų"
+      voc: "frustracijo"
+    plural: 
+      nom: "frustracije"
+      acc: "frustracije"
+      gen: "frustracij"
+      loc: "frustracijah"
+      dat: "frustracijam"
+      ins: "frustracijami"
+      voc: "frustracije"

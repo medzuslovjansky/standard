@@ -1,0 +1,22 @@
+---
+  id: "3152"
+  word: "potop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "potop"
+      acc: "potop"
+      gen: "potopa"
+      loc: "potopu"
+      dat: "potopu"
+      ins: "potopom"
+      voc: "potope"
+    plural: 
+      nom: "potopy"
+      acc: "potopy"
+      gen: "potopov"
+      loc: "potopah"
+      dat: "potopam"
+      ins: "potopami"
+      voc: "potopy"

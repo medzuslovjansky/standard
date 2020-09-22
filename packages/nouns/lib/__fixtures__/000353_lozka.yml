@@ -1,0 +1,22 @@
+---
+  id: "353"
+  word: "lȯžka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lȯžka"
+      acc: "lȯžkų"
+      gen: "lȯžky"
+      loc: "lȯžkě"
+      dat: "lȯžkě"
+      ins: "lȯžkojų"
+      voc: "lȯžko"
+    plural: 
+      nom: "lȯžky"
+      acc: "lȯžky"
+      gen: "lȯžek"
+      loc: "lȯžkah"
+      dat: "lȯžkam"
+      ins: "lȯžkami"
+      voc: "lȯžky"

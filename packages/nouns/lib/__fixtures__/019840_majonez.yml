@@ -1,0 +1,22 @@
+---
+  id: "19840"
+  word: "majonez"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "majonez"
+      acc: "majonez"
+      gen: "majoneza"
+      loc: "majonezu"
+      dat: "majonezu"
+      ins: "majonezom"
+      voc: "majoneze"
+    plural: 
+      nom: "majonezy"
+      acc: "majonezy"
+      gen: "majonezov"
+      loc: "majonezah"
+      dat: "majonezam"
+      ins: "majonezami"
+      voc: "majonezy"

@@ -1,0 +1,22 @@
+---
+  id: "292"
+  word: "dųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dųga"
+      acc: "dųgų"
+      gen: "dųgy"
+      loc: "dųgě"
+      dat: "dųgě"
+      ins: "dųgojų"
+      voc: "dųgo"
+    plural: 
+      nom: "dųgy"
+      acc: "dųgy"
+      gen: "dųg"
+      loc: "dųgah"
+      dat: "dųgam"
+      ins: "dųgami"
+      voc: "dųgy"

@@ -1,0 +1,23 @@
+---
+  id: "7913"
+  word: "inozemec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "inozemec"
+      acc: "inozemca"
+      gen: "inozemca"
+      loc: "inozemcu"
+      dat: "inozemcu"
+      ins: "inozemcem"
+      voc: "inozemče"
+    plural: 
+      nom: "inozemci"
+      acc: "inozemcev"
+      gen: "inozemcev"
+      loc: "inozemcah"
+      dat: "inozemcam"
+      ins: "inozemcami"
+      voc: "inozemci"

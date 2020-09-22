@@ -1,0 +1,22 @@
+---
+  id: "15764"
+  word: "apendiks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "apendiks"
+      acc: "apendiks"
+      gen: "apendiksa"
+      loc: "apendiksu"
+      dat: "apendiksu"
+      ins: "apendiksom"
+      voc: "apendikse"
+    plural: 
+      nom: "apendiksy"
+      acc: "apendiksy"
+      gen: "apendiksov"
+      loc: "apendiksah"
+      dat: "apendiksam"
+      ins: "apendiksami"
+      voc: "apendiksy"

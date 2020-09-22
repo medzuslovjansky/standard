@@ -1,0 +1,22 @@
+---
+  id: "22915"
+  word: "odzyv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odzyv"
+      acc: "odzyv"
+      gen: "odzyva"
+      loc: "odzyvu"
+      dat: "odzyvu"
+      ins: "odzyvom"
+      voc: "odzyve"
+    plural: 
+      nom: "odzyvy"
+      acc: "odzyvy"
+      gen: "odzyvov"
+      loc: "odzyvah"
+      dat: "odzyvam"
+      ins: "odzyvami"
+      voc: "odzyvy"

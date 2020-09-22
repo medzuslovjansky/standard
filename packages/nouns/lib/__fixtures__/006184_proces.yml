@@ -1,0 +1,22 @@
+---
+  id: "6184"
+  word: "proces"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proces"
+      acc: "proces"
+      gen: "procesa"
+      loc: "procesu"
+      dat: "procesu"
+      ins: "procesom"
+      voc: "procese"
+    plural: 
+      nom: "procesy"
+      acc: "procesy"
+      gen: "procesov"
+      loc: "procesah"
+      dat: "procesam"
+      ins: "procesami"
+      voc: "procesy"

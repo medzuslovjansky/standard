@@ -1,0 +1,23 @@
+---
+  id: "22836"
+  word: "znalec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "znalec"
+      acc: "znalca"
+      gen: "znalca"
+      loc: "znalcu"
+      dat: "znalcu"
+      ins: "znalcem"
+      voc: "znalče"
+    plural: 
+      nom: "znalci"
+      acc: "znalcev"
+      gen: "znalcev"
+      loc: "znalcah"
+      dat: "znalcam"
+      ins: "znalcami"
+      voc: "znalci"

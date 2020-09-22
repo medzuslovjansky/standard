@@ -1,0 +1,22 @@
+---
+  id: "36556"
+  word: "nadir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nadir"
+      acc: "nadir"
+      gen: "nadira"
+      loc: "nadiru"
+      dat: "nadiru"
+      ins: "nadirom"
+      voc: "nadire"
+    plural: 
+      nom: "nadiry"
+      acc: "nadiry"
+      gen: "nadirov"
+      loc: "nadirah"
+      dat: "nadiram"
+      ins: "nadirami"
+      voc: "nadiry"

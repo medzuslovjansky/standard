@@ -1,0 +1,23 @@
+---
+  id: "31625"
+  word: "zimorodȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zimorodȯk"
+      acc: "zimorodka"
+      gen: "zimorodka"
+      loc: "zimorodku"
+      dat: "zimorodku"
+      ins: "zimorodkom"
+      voc: "zimorodče"
+    plural: 
+      nom: "zimorodki"
+      acc: "zimorodkov"
+      gen: "zimorodkov"
+      loc: "zimorodkah"
+      dat: "zimorodkam"
+      ins: "zimorodkami"
+      voc: "zimorodki"

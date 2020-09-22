@@ -1,0 +1,15 @@
+---
+  id: "30041"
+  word: "purizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "purizm"
+      acc: "purizm"
+      gen: "purizma"
+      loc: "purizmu"
+      dat: "purizmu"
+      ins: "purizmom"
+      voc: "purizme"

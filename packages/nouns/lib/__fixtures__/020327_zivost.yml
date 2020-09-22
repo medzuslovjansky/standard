@@ -1,0 +1,22 @@
+---
+  id: "20327"
+  word: "živosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "živosť"
+      acc: "živosť"
+      gen: "živosti"
+      loc: "živosti"
+      dat: "živosti"
+      ins: "živosťjų"
+      voc: "živosti"
+    plural: 
+      nom: "živosti"
+      acc: "živosti"
+      gen: "živostij"
+      loc: "živosťah"
+      dat: "živosťam"
+      ins: "živosťami"
+      voc: "živosti"

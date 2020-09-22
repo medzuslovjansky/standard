@@ -1,0 +1,15 @@
+---
+  id: "1510"
+  word: "novosti"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "novosti"
+      acc: "novosti"
+      gen: "novostij"
+      loc: "novostjah"
+      dat: "novostjam"
+      ins: "novostjami"
+      voc: "novosti"

@@ -1,0 +1,23 @@
+---
+  id: "20459"
+  word: "medvěď-grizli"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medvěď-grizli"
+      acc: "medvěď-grizlų"
+      gen: "medvěď-grizle"
+      loc: "medvěď-grizli"
+      dat: "medvěď-grizli"
+      ins: "medvěď-grizlejų"
+      voc: "medvěď-grizlo"
+    plural: 
+      nom: "medvěď-grizli"
+      acc: "medvěď-grizlev"
+      gen: "medvěď-grizlev"
+      loc: "medvěď-grizlah"
+      dat: "medvěď-grizlam"
+      ins: "medvěď-grizlami"
+      voc: "medvěď-grizli"

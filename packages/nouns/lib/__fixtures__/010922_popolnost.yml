@@ -1,0 +1,22 @@
+---
+  id: "10922"
+  word: "popȯlnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popȯlnosť"
+      acc: "popȯlnosť"
+      gen: "popȯlnosti"
+      loc: "popȯlnosti"
+      dat: "popȯlnosti"
+      ins: "popȯlnosťjų"
+      voc: "popȯlnosti"
+    plural: 
+      nom: "popȯlnosti"
+      acc: "popȯlnosti"
+      gen: "popȯlnostij"
+      loc: "popȯlnosťah"
+      dat: "popȯlnosťam"
+      ins: "popȯlnosťami"
+      voc: "popȯlnosti"

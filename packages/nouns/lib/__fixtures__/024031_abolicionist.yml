@@ -1,0 +1,23 @@
+---
+  id: "24031"
+  word: "abolicionist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "abolicionist"
+      acc: "abolicionista"
+      gen: "abolicionista"
+      loc: "abolicionistu"
+      dat: "abolicionistu"
+      ins: "abolicionistom"
+      voc: "abolicioniste"
+    plural: 
+      nom: "abolicionisti"
+      acc: "abolicionistov"
+      gen: "abolicionistov"
+      loc: "abolicionistah"
+      dat: "abolicionistam"
+      ins: "abolicionistami"
+      voc: "abolicionisti"

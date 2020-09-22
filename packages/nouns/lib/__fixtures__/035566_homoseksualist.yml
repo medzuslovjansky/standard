@@ -1,0 +1,23 @@
+---
+  id: "35566"
+  word: "homoseksualist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "homoseksualist"
+      acc: "homoseksualista"
+      gen: "homoseksualista"
+      loc: "homoseksualistu"
+      dat: "homoseksualistu"
+      ins: "homoseksualistom"
+      voc: "homoseksualiste"
+    plural: 
+      nom: "homoseksualisti"
+      acc: "homoseksualistov"
+      gen: "homoseksualistov"
+      loc: "homoseksualistah"
+      dat: "homoseksualistam"
+      ins: "homoseksualistami"
+      voc: "homoseksualisti"

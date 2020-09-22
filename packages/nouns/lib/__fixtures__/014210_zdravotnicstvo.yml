@@ -1,0 +1,15 @@
+---
+  id: "14210"
+  word: "zdråvotničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zdråvotničstvo"
+      acc: "zdråvotničstvo"
+      gen: "zdråvotničstva"
+      loc: "zdråvotničstvu"
+      dat: "zdråvotničstvu"
+      ins: "zdråvotničstvom"
+      voc: "zdråvotničstvo"

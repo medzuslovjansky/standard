@@ -1,0 +1,22 @@
+---
+  id: "3845"
+  word: "hoďba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hoďba"
+      acc: "hoďbų"
+      gen: "hoďby"
+      loc: "hoďbě"
+      dat: "hoďbě"
+      ins: "hoďbojų"
+      voc: "hoďbo"
+    plural: 
+      nom: "hoďby"
+      acc: "hoďby"
+      gen: "hoďb"
+      loc: "hoďbah"
+      dat: "hoďbam"
+      ins: "hoďbami"
+      voc: "hoďby"

@@ -1,0 +1,22 @@
+---
+  id: "172"
+  word: "raketa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "raketa"
+      acc: "raketų"
+      gen: "rakety"
+      loc: "raketě"
+      dat: "raketě"
+      ins: "raketojų"
+      voc: "raketo"
+    plural: 
+      nom: "rakety"
+      acc: "rakety"
+      gen: "raket"
+      loc: "raketah"
+      dat: "raketam"
+      ins: "raketami"
+      voc: "rakety"

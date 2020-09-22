@@ -1,0 +1,22 @@
+---
+  id: "2431"
+  word: "pokoljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pokoljeńje"
+      acc: "pokoljeńje"
+      gen: "pokoljeńja"
+      loc: "pokoljeńju"
+      dat: "pokoljeńju"
+      ins: "pokoljeńjem"
+      voc: "pokoljeńje"
+    plural: 
+      nom: "pokoljeńja"
+      acc: "pokoljeńja"
+      gen: "pokoljenij"
+      loc: "pokoljeńjah"
+      dat: "pokoljeńjam"
+      ins: "pokoljeńjami"
+      voc: "pokoljeńja"

@@ -1,0 +1,23 @@
+---
+  id: "818"
+  word: "gavrån"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gavrån"
+      acc: "gavråna"
+      gen: "gavråna"
+      loc: "gavrånu"
+      dat: "gavrånu"
+      ins: "gavrånom"
+      voc: "gavråne"
+    plural: 
+      nom: "gavråni"
+      acc: "gavrånov"
+      gen: "gavrånov"
+      loc: "gavrånah"
+      dat: "gavrånam"
+      ins: "gavrånami"
+      voc: "gavråni"

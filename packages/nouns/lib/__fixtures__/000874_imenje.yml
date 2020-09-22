@@ -1,0 +1,22 @@
+---
+  id: "874"
+  word: "iměńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "iměńje"
+      acc: "iměńje"
+      gen: "iměńja"
+      loc: "iměńju"
+      dat: "iměńju"
+      ins: "iměńjem"
+      voc: "iměńje"
+    plural: 
+      nom: "iměńja"
+      acc: "iměńja"
+      gen: "iměnij"
+      loc: "iměńjah"
+      dat: "iměńjam"
+      ins: "iměńjami"
+      voc: "iměńja"

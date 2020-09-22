@@ -1,0 +1,22 @@
+---
+  id: "33929"
+  word: "kovčeg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kovčeg"
+      acc: "kovčeg"
+      gen: "kovčega"
+      loc: "kovčegu"
+      dat: "kovčegu"
+      ins: "kovčegom"
+      voc: "kovčeže"
+    plural: 
+      nom: "kovčegy"
+      acc: "kovčegy"
+      gen: "kovčegov"
+      loc: "kovčegah"
+      dat: "kovčegam"
+      ins: "kovčegami"
+      voc: "kovčegy"

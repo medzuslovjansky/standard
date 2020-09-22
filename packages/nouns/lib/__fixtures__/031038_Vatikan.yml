@@ -1,0 +1,15 @@
+---
+  id: "31038"
+  word: "Vatikan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Vatikan"
+      acc: "Vatikan"
+      gen: "Vatikana"
+      loc: "Vatikanu"
+      dat: "Vatikanu"
+      ins: "Vatikanom"
+      voc: "Vatikane"

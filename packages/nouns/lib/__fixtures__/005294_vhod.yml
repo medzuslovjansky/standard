@@ -1,0 +1,22 @@
+---
+  id: "5294"
+  word: "vhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vhod"
+      acc: "vhod"
+      gen: "vhoda"
+      loc: "vhodu"
+      dat: "vhodu"
+      ins: "vhodom"
+      voc: "vhode"
+    plural: 
+      nom: "vhody"
+      acc: "vhody"
+      gen: "vhodov"
+      loc: "vhodah"
+      dat: "vhodam"
+      ins: "vhodami"
+      voc: "vhody"

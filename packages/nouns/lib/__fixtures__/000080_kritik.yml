@@ -1,0 +1,23 @@
+---
+  id: "80"
+  word: "kritik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kritik"
+      acc: "kritika"
+      gen: "kritika"
+      loc: "kritiku"
+      dat: "kritiku"
+      ins: "kritikom"
+      voc: "kritiče"
+    plural: 
+      nom: "kritiki"
+      acc: "kritikov"
+      gen: "kritikov"
+      loc: "kritikah"
+      dat: "kritikam"
+      ins: "kritikami"
+      voc: "kritiki"

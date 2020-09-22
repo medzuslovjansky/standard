@@ -1,0 +1,22 @@
+---
+  id: "35544"
+  word: "jard"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jard"
+      acc: "jard"
+      gen: "jarda"
+      loc: "jardu"
+      dat: "jardu"
+      ins: "jardom"
+      voc: "jarde"
+    plural: 
+      nom: "jardy"
+      acc: "jardy"
+      gen: "jardov"
+      loc: "jardah"
+      dat: "jardam"
+      ins: "jardami"
+      voc: "jardy"

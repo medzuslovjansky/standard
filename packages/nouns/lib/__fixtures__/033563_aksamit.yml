@@ -1,0 +1,15 @@
+---
+  id: "33563"
+  word: "aksamit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aksamit"
+      acc: "aksamit"
+      gen: "aksamita"
+      loc: "aksamitu"
+      dat: "aksamitu"
+      ins: "aksamitom"
+      voc: "aksamite"

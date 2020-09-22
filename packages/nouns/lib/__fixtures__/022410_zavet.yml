@@ -1,0 +1,22 @@
+---
+  id: "22410"
+  word: "zavět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zavět"
+      acc: "zavět"
+      gen: "zavěta"
+      loc: "zavětu"
+      dat: "zavětu"
+      ins: "zavětom"
+      voc: "zavěte"
+    plural: 
+      nom: "zavěty"
+      acc: "zavěty"
+      gen: "zavětov"
+      loc: "zavětah"
+      dat: "zavětam"
+      ins: "zavětami"
+      voc: "zavěty"

@@ -1,0 +1,23 @@
+---
+  id: "21951"
+  word: "odstųpnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "odstųpnik"
+      acc: "odstųpnika"
+      gen: "odstųpnika"
+      loc: "odstųpniku"
+      dat: "odstųpniku"
+      ins: "odstųpnikom"
+      voc: "odstųpniče"
+    plural: 
+      nom: "odstųpniki"
+      acc: "odstųpnikov"
+      gen: "odstųpnikov"
+      loc: "odstųpnikah"
+      dat: "odstųpnikam"
+      ins: "odstųpnikami"
+      voc: "odstųpniki"

@@ -1,0 +1,22 @@
+---
+  id: "403"
+  word: "měh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měh"
+      acc: "měh"
+      gen: "měha"
+      loc: "měhu"
+      dat: "měhu"
+      ins: "měhom"
+      voc: "měše"
+    plural: 
+      nom: "měhy"
+      acc: "měhy"
+      gen: "měhov"
+      loc: "měhah"
+      dat: "měham"
+      ins: "měhami"
+      voc: "měhy"

@@ -1,0 +1,22 @@
+---
+  id: "5792"
+  word: "straža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "straža"
+      acc: "stražų"
+      gen: "straže"
+      loc: "straži"
+      dat: "straži"
+      ins: "stražejų"
+      voc: "stražo"
+    plural: 
+      nom: "straže"
+      acc: "straže"
+      gen: "straž"
+      loc: "stražah"
+      dat: "stražam"
+      ins: "stražami"
+      voc: "straže"

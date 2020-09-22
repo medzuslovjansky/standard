@@ -1,0 +1,15 @@
+---
+  id: "31026"
+  word: "varvarizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "varvarizm"
+      acc: "varvarizm"
+      gen: "varvarizma"
+      loc: "varvarizmu"
+      dat: "varvarizmu"
+      ins: "varvarizmom"
+      voc: "varvarizme"

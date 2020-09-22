@@ -1,0 +1,23 @@
+---
+  id: "27820"
+  word: "mstitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mstitelj"
+      acc: "mstitelja"
+      gen: "mstitelja"
+      loc: "mstitelju"
+      dat: "mstitelju"
+      ins: "mstiteljem"
+      voc: "mstitelju"
+    plural: 
+      nom: "mstitelji"
+      acc: "mstiteljev"
+      gen: "mstiteljev"
+      loc: "mstiteljah"
+      dat: "mstiteljam"
+      ins: "mstiteljami"
+      voc: "mstitelji"

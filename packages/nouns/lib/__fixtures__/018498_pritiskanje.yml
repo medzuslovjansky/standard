@@ -1,0 +1,22 @@
+---
+  id: "18498"
+  word: "pritiskańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pritiskańje"
+      acc: "pritiskańje"
+      gen: "pritiskańja"
+      loc: "pritiskańju"
+      dat: "pritiskańju"
+      ins: "pritiskańjem"
+      voc: "pritiskańje"
+    plural: 
+      nom: "pritiskańja"
+      acc: "pritiskańja"
+      gen: "pritiskanij"
+      loc: "pritiskańjah"
+      dat: "pritiskańjam"
+      ins: "pritiskańjami"
+      voc: "pritiskańja"

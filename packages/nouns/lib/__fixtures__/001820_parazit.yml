@@ -1,0 +1,23 @@
+---
+  id: "1820"
+  word: "parazit"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "parazit"
+      acc: "parazita"
+      gen: "parazita"
+      loc: "parazitu"
+      dat: "parazitu"
+      ins: "parazitom"
+      voc: "parazite"
+    plural: 
+      nom: "paraziti"
+      acc: "parazitov"
+      gen: "parazitov"
+      loc: "parazitah"
+      dat: "parazitam"
+      ins: "parazitami"
+      voc: "paraziti"

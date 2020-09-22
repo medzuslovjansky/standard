@@ -1,0 +1,22 @@
+---
+  id: "5866"
+  word: "postrah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "postrah"
+      acc: "postrah"
+      gen: "postraha"
+      loc: "postrahu"
+      dat: "postrahu"
+      ins: "postrahom"
+      voc: "postraše"
+    plural: 
+      nom: "postrahy"
+      acc: "postrahy"
+      gen: "postrahov"
+      loc: "postrahah"
+      dat: "postraham"
+      ins: "postrahami"
+      voc: "postrahy"

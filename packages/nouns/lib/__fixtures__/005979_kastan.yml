@@ -1,0 +1,22 @@
+---
+  id: "5979"
+  word: "kaštan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kaštan"
+      acc: "kaštan"
+      gen: "kaštana"
+      loc: "kaštanu"
+      dat: "kaštanu"
+      ins: "kaštanom"
+      voc: "kaštane"
+    plural: 
+      nom: "kaštany"
+      acc: "kaštany"
+      gen: "kaštanov"
+      loc: "kaštanah"
+      dat: "kaštanam"
+      ins: "kaštanami"
+      voc: "kaštany"

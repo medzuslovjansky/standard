@@ -1,0 +1,22 @@
+---
+  id: "2160"
+  word: "vkųs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vkųs"
+      acc: "vkųs"
+      gen: "vkųsa"
+      loc: "vkųsu"
+      dat: "vkųsu"
+      ins: "vkųsom"
+      voc: "vkųse"
+    plural: 
+      nom: "vkųsy"
+      acc: "vkųsy"
+      gen: "vkųsov"
+      loc: "vkųsah"
+      dat: "vkųsam"
+      ins: "vkųsami"
+      voc: "vkųsy"

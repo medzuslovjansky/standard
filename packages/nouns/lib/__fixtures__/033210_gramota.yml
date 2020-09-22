@@ -1,0 +1,22 @@
+---
+  id: "33210"
+  word: "gramota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gramota"
+      acc: "gramotų"
+      gen: "gramoty"
+      loc: "gramotě"
+      dat: "gramotě"
+      ins: "gramotojų"
+      voc: "gramoto"
+    plural: 
+      nom: "gramoty"
+      acc: "gramoty"
+      gen: "gramot"
+      loc: "gramotah"
+      dat: "gramotam"
+      ins: "gramotami"
+      voc: "gramoty"

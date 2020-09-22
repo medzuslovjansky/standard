@@ -1,0 +1,22 @@
+---
+  id: "35469"
+  word: "desert"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "desert"
+      acc: "desert"
+      gen: "deserta"
+      loc: "desertu"
+      dat: "desertu"
+      ins: "desertom"
+      voc: "deserte"
+    plural: 
+      nom: "deserty"
+      acc: "deserty"
+      gen: "desertov"
+      loc: "desertah"
+      dat: "desertam"
+      ins: "desertami"
+      voc: "deserty"

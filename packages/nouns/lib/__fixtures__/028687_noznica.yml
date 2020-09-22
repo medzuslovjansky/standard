@@ -1,0 +1,22 @@
+---
+  id: "28687"
+  word: "nožnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nožnica"
+      acc: "nožnicų"
+      gen: "nožnice"
+      loc: "nožnici"
+      dat: "nožnici"
+      ins: "nožnicejų"
+      voc: "nožnico"
+    plural: 
+      nom: "nožnice"
+      acc: "nožnice"
+      gen: "nožnic"
+      loc: "nožnicah"
+      dat: "nožnicam"
+      ins: "nožnicami"
+      voc: "nožnice"

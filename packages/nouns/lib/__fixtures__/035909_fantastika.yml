@@ -1,0 +1,15 @@
+---
+  id: "35909"
+  word: "fantastika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fantastika"
+      acc: "fantastikų"
+      gen: "fantastiky"
+      loc: "fantastikě"
+      dat: "fantastikě"
+      ins: "fantastikojų"
+      voc: "fantastiko"

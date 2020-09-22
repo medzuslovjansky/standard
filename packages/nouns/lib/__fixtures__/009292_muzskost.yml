@@ -1,0 +1,22 @@
+---
+  id: "9292"
+  word: "mųžskosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųžskosť"
+      acc: "mųžskosť"
+      gen: "mųžskosti"
+      loc: "mųžskosti"
+      dat: "mųžskosti"
+      ins: "mųžskosťjų"
+      voc: "mųžskosti"
+    plural: 
+      nom: "mųžskosti"
+      acc: "mųžskosti"
+      gen: "mųžskostij"
+      loc: "mųžskosťah"
+      dat: "mųžskosťam"
+      ins: "mųžskosťami"
+      voc: "mųžskosti"

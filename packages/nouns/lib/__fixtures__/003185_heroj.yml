@@ -1,0 +1,23 @@
+---
+  id: "3185"
+  word: "heroj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "heroj"
+      acc: "heroja"
+      gen: "heroja"
+      loc: "heroju"
+      dat: "heroju"
+      ins: "herojem"
+      voc: "heroju"
+    plural: 
+      nom: "heroji"
+      acc: "herojev"
+      gen: "herojev"
+      loc: "herojah"
+      dat: "herojam"
+      ins: "herojami"
+      voc: "heroji"

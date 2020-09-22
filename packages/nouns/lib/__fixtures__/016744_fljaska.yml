@@ -1,0 +1,22 @@
+---
+  id: "16744"
+  word: "fljaška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fljaška"
+      acc: "fljaškų"
+      gen: "fljašky"
+      loc: "fljaškě"
+      dat: "fljaškě"
+      ins: "fljaškojų"
+      voc: "fljaško"
+    plural: 
+      nom: "fljašky"
+      acc: "fljašky"
+      gen: "fljašek"
+      loc: "fljaškah"
+      dat: "fljaškam"
+      ins: "fljaškami"
+      voc: "fljašky"

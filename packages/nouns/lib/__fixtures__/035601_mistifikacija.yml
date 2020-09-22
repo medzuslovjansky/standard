@@ -1,0 +1,22 @@
+---
+  id: "35601"
+  word: "mistifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mistifikacija"
+      acc: "mistifikacijų"
+      gen: "mistifikacije"
+      loc: "mistifikaciji"
+      dat: "mistifikaciji"
+      ins: "mistifikacijejų"
+      voc: "mistifikacijo"
+    plural: 
+      nom: "mistifikacije"
+      acc: "mistifikacije"
+      gen: "mistifikacij"
+      loc: "mistifikacijah"
+      dat: "mistifikacijam"
+      ins: "mistifikacijami"
+      voc: "mistifikacije"

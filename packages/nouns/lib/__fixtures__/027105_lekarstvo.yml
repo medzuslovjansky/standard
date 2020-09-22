@@ -1,0 +1,22 @@
+---
+  id: "27105"
+  word: "lěkaŕstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lěkaŕstvo"
+      acc: "lěkaŕstvo"
+      gen: "lěkaŕstva"
+      loc: "lěkaŕstvu"
+      dat: "lěkaŕstvu"
+      ins: "lěkaŕstvom"
+      voc: "lěkaŕstvo"
+    plural: 
+      nom: "lěkaŕstva"
+      acc: "lěkaŕstva"
+      gen: "lěkaŕstv"
+      loc: "lěkaŕstvah"
+      dat: "lěkaŕstvam"
+      ins: "lěkaŕstvami"
+      voc: "lěkaŕstva"

@@ -1,0 +1,22 @@
+---
+  id: "34282"
+  word: "pilina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pilina"
+      acc: "pilinų"
+      gen: "piliny"
+      loc: "pilině"
+      dat: "pilině"
+      ins: "pilinojų"
+      voc: "pilino"
+    plural: 
+      nom: "piliny"
+      acc: "piliny"
+      gen: "pilin"
+      loc: "pilinah"
+      dat: "pilinam"
+      ins: "pilinami"
+      voc: "piliny"

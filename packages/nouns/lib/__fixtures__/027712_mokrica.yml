@@ -1,0 +1,22 @@
+---
+  id: "27712"
+  word: "mokrica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mokrica"
+      acc: "mokricų"
+      gen: "mokrice"
+      loc: "mokrici"
+      dat: "mokrici"
+      ins: "mokricejų"
+      voc: "mokrico"
+    plural: 
+      nom: "mokrice"
+      acc: "mokrice"
+      gen: "mokric"
+      loc: "mokricah"
+      dat: "mokricam"
+      ins: "mokricami"
+      voc: "mokrice"

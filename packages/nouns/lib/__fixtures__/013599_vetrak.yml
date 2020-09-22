@@ -1,0 +1,22 @@
+---
+  id: "13599"
+  word: "větrak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "větrak"
+      acc: "větrak"
+      gen: "větraka"
+      loc: "větraku"
+      dat: "větraku"
+      ins: "větrakom"
+      voc: "větrače"
+    plural: 
+      nom: "větraky"
+      acc: "větraky"
+      gen: "větrakov"
+      loc: "větrakah"
+      dat: "větrakam"
+      ins: "větrakami"
+      voc: "větraky"

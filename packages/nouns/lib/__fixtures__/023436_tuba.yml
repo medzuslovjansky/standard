@@ -1,0 +1,22 @@
+---
+  id: "23436"
+  word: "tuba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tuba"
+      acc: "tubų"
+      gen: "tuby"
+      loc: "tubě"
+      dat: "tubě"
+      ins: "tubojų"
+      voc: "tubo"
+    plural: 
+      nom: "tuby"
+      acc: "tuby"
+      gen: "tub"
+      loc: "tubah"
+      dat: "tubam"
+      ins: "tubami"
+      voc: "tuby"

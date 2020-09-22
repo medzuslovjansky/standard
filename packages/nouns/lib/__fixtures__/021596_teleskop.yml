@@ -1,0 +1,22 @@
+---
+  id: "21596"
+  word: "teleskop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "teleskop"
+      acc: "teleskop"
+      gen: "teleskopa"
+      loc: "teleskopu"
+      dat: "teleskopu"
+      ins: "teleskopom"
+      voc: "teleskope"
+    plural: 
+      nom: "teleskopy"
+      acc: "teleskopy"
+      gen: "teleskopov"
+      loc: "teleskopah"
+      dat: "teleskopam"
+      ins: "teleskopami"
+      voc: "teleskopy"

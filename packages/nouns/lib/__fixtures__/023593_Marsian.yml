@@ -1,0 +1,47 @@
+---
+  - 
+    id: "23593"
+    word: "Marsian"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Marsian"
+        acc: "Marsiana"
+        gen: "Marsiana"
+        loc: "Marsianu"
+        dat: "Marsianu"
+        ins: "Marsianom"
+        voc: "Marsiane"
+      plural: 
+        nom: "Marsiani"
+        acc: "Marsianov"
+        gen: "Marsianov"
+        loc: "Marsianah"
+        dat: "Marsianam"
+        ins: "Marsianami"
+        voc: "Marsiani"
+  - 
+    id: "23593"
+    word: "Marsianin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Marsianin"
+        acc: "Marsianina"
+        gen: "Marsianina"
+        loc: "Marsianinu"
+        dat: "Marsianinu"
+        ins: "Marsianinom"
+        voc: "Marsianine"
+      plural: 
+        nom: "Marsiani"
+        acc: "Marsianov"
+        gen: "Marsianov"
+        loc: "Marsianah"
+        dat: "Marsianam"
+        ins: "Marsianami"
+        voc: "Marsiani"

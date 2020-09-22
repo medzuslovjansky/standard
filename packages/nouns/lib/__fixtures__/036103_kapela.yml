@@ -1,0 +1,22 @@
+---
+  id: "36103"
+  word: "kapela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapela"
+      acc: "kapelų"
+      gen: "kapely"
+      loc: "kapelě"
+      dat: "kapelě"
+      ins: "kapelojų"
+      voc: "kapelo"
+    plural: 
+      nom: "kapely"
+      acc: "kapely"
+      gen: "kapel"
+      loc: "kapelah"
+      dat: "kapelam"
+      ins: "kapelami"
+      voc: "kapely"

@@ -1,0 +1,22 @@
+---
+  id: "24787"
+  word: "brak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brak"
+      acc: "brak"
+      gen: "braka"
+      loc: "braku"
+      dat: "braku"
+      ins: "brakom"
+      voc: "brače"
+    plural: 
+      nom: "braky"
+      acc: "braky"
+      gen: "brakov"
+      loc: "brakah"
+      dat: "brakam"
+      ins: "brakami"
+      voc: "braky"

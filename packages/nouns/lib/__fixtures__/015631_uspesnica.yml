@@ -1,0 +1,22 @@
+---
+  id: "15631"
+  word: "uspěšnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uspěšnica"
+      acc: "uspěšnicų"
+      gen: "uspěšnice"
+      loc: "uspěšnici"
+      dat: "uspěšnici"
+      ins: "uspěšnicejų"
+      voc: "uspěšnico"
+    plural: 
+      nom: "uspěšnice"
+      acc: "uspěšnice"
+      gen: "uspěšnic"
+      loc: "uspěšnicah"
+      dat: "uspěšnicam"
+      ins: "uspěšnicami"
+      voc: "uspěšnice"

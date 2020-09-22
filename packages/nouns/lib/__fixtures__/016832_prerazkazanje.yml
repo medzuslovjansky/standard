@@ -1,0 +1,22 @@
+---
+  id: "16832"
+  word: "prěråzkazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěråzkazańje"
+      acc: "prěråzkazańje"
+      gen: "prěråzkazańja"
+      loc: "prěråzkazańju"
+      dat: "prěråzkazańju"
+      ins: "prěråzkazańjem"
+      voc: "prěråzkazańje"
+    plural: 
+      nom: "prěråzkazańja"
+      acc: "prěråzkazańja"
+      gen: "prěråzkazanij"
+      loc: "prěråzkazańjah"
+      dat: "prěråzkazańjam"
+      ins: "prěråzkazańjami"
+      voc: "prěråzkazańja"

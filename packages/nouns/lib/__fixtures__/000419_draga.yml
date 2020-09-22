@@ -1,0 +1,22 @@
+---
+  id: "419"
+  word: "dråga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dråga"
+      acc: "drågų"
+      gen: "drågy"
+      loc: "drågě"
+      dat: "drågě"
+      ins: "drågojų"
+      voc: "drågo"
+    plural: 
+      nom: "drågy"
+      acc: "drågy"
+      gen: "dråg"
+      loc: "drågah"
+      dat: "drågam"
+      ins: "drågami"
+      voc: "drågy"

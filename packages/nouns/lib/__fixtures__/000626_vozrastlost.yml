@@ -1,0 +1,22 @@
+---
+  id: "626"
+  word: "vȯzråstlosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯzråstlosť"
+      acc: "vȯzråstlosť"
+      gen: "vȯzråstlosti"
+      loc: "vȯzråstlosti"
+      dat: "vȯzråstlosti"
+      ins: "vȯzråstlosťjų"
+      voc: "vȯzråstlosti"
+    plural: 
+      nom: "vȯzråstlosti"
+      acc: "vȯzråstlosti"
+      gen: "vȯzråstlostij"
+      loc: "vȯzråstlosťah"
+      dat: "vȯzråstlosťam"
+      ins: "vȯzråstlosťami"
+      voc: "vȯzråstlosti"

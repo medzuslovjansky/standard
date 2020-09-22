@@ -1,0 +1,22 @@
+---
+  id: "20681"
+  word: "råzmah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzmah"
+      acc: "råzmah"
+      gen: "råzmaha"
+      loc: "råzmahu"
+      dat: "råzmahu"
+      ins: "råzmahom"
+      voc: "råzmaše"
+    plural: 
+      nom: "råzmahy"
+      acc: "råzmahy"
+      gen: "råzmahov"
+      loc: "råzmahah"
+      dat: "råzmaham"
+      ins: "råzmahami"
+      voc: "råzmahy"

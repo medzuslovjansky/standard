@@ -1,0 +1,22 @@
+---
+  id: "19405"
+  word: "žart"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žart"
+      acc: "žart"
+      gen: "žarta"
+      loc: "žartu"
+      dat: "žartu"
+      ins: "žartom"
+      voc: "žarte"
+    plural: 
+      nom: "žarty"
+      acc: "žarty"
+      gen: "žartov"
+      loc: "žartah"
+      dat: "žartam"
+      ins: "žartami"
+      voc: "žarty"

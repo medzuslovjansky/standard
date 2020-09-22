@@ -1,0 +1,22 @@
+---
+  id: "23269"
+  word: "kanalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kanalizacija"
+      acc: "kanalizacijų"
+      gen: "kanalizacije"
+      loc: "kanalizaciji"
+      dat: "kanalizaciji"
+      ins: "kanalizacijejų"
+      voc: "kanalizacijo"
+    plural: 
+      nom: "kanalizacije"
+      acc: "kanalizacije"
+      gen: "kanalizacij"
+      loc: "kanalizacijah"
+      dat: "kanalizacijam"
+      ins: "kanalizacijami"
+      voc: "kanalizacije"

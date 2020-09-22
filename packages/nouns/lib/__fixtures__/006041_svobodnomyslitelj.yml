@@ -1,0 +1,23 @@
+---
+  id: "6041"
+  word: "svobodnomyslitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svobodnomyslitelj"
+      acc: "svobodnomyslitelja"
+      gen: "svobodnomyslitelja"
+      loc: "svobodnomyslitelju"
+      dat: "svobodnomyslitelju"
+      ins: "svobodnomysliteljem"
+      voc: "svobodnomyslitelju"
+    plural: 
+      nom: "svobodnomyslitelji"
+      acc: "svobodnomysliteljev"
+      gen: "svobodnomysliteljev"
+      loc: "svobodnomysliteljah"
+      dat: "svobodnomysliteljam"
+      ins: "svobodnomysliteljami"
+      voc: "svobodnomyslitelji"

@@ -1,0 +1,22 @@
+---
+  id: "18027"
+  word: "obråćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obråćeńje"
+      acc: "obråćeńje"
+      gen: "obråćeńja"
+      loc: "obråćeńju"
+      dat: "obråćeńju"
+      ins: "obråćeńjem"
+      voc: "obråćeńje"
+    plural: 
+      nom: "obråćeńja"
+      acc: "obråćeńja"
+      gen: "obråćenij"
+      loc: "obråćeńjah"
+      dat: "obråćeńjam"
+      ins: "obråćeńjami"
+      voc: "obråćeńja"

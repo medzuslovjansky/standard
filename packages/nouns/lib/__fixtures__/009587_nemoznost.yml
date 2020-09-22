@@ -1,0 +1,22 @@
+---
+  id: "9587"
+  word: "nemožnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nemožnosť"
+      acc: "nemožnosť"
+      gen: "nemožnosti"
+      loc: "nemožnosti"
+      dat: "nemožnosti"
+      ins: "nemožnosťjų"
+      voc: "nemožnosti"
+    plural: 
+      nom: "nemožnosti"
+      acc: "nemožnosti"
+      gen: "nemožnostij"
+      loc: "nemožnosťah"
+      dat: "nemožnosťam"
+      ins: "nemožnosťami"
+      voc: "nemožnosti"

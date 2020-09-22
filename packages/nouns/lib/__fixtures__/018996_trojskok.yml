@@ -1,0 +1,22 @@
+---
+  id: "18996"
+  word: "trojskok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trojskok"
+      acc: "trojskok"
+      gen: "trojskoka"
+      loc: "trojskoku"
+      dat: "trojskoku"
+      ins: "trojskokom"
+      voc: "trojskoče"
+    plural: 
+      nom: "trojskoky"
+      acc: "trojskoky"
+      gen: "trojskokov"
+      loc: "trojskokah"
+      dat: "trojskokam"
+      ins: "trojskokami"
+      voc: "trojskoky"

@@ -1,0 +1,22 @@
+---
+  id: "286"
+  word: "mrěža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mrěža"
+      acc: "mrěžų"
+      gen: "mrěže"
+      loc: "mrěži"
+      dat: "mrěži"
+      ins: "mrěžejų"
+      voc: "mrěžo"
+    plural: 
+      nom: "mrěže"
+      acc: "mrěže"
+      gen: "mrěž"
+      loc: "mrěžah"
+      dat: "mrěžam"
+      ins: "mrěžami"
+      voc: "mrěže"

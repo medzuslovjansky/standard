@@ -1,0 +1,22 @@
+---
+  id: "32411"
+  word: "parkovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "parkovišče"
+      acc: "parkovišče"
+      gen: "parkovišča"
+      loc: "parkovišču"
+      dat: "parkovišču"
+      ins: "parkoviščem"
+      voc: "parkovišče"
+    plural: 
+      nom: "parkovišča"
+      acc: "parkovišča"
+      gen: "parkovišč"
+      loc: "parkoviščah"
+      dat: "parkoviščam"
+      ins: "parkoviščami"
+      voc: "parkovišča"

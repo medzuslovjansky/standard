@@ -1,0 +1,22 @@
+---
+  id: "36078"
+  word: "rěpka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rěpka"
+      acc: "rěpkų"
+      gen: "rěpky"
+      loc: "rěpkě"
+      dat: "rěpkě"
+      ins: "rěpkojų"
+      voc: "rěpko"
+    plural: 
+      nom: "rěpky"
+      acc: "rěpky"
+      gen: "rěpȯk"
+      loc: "rěpkah"
+      dat: "rěpkam"
+      ins: "rěpkami"
+      voc: "rěpky"

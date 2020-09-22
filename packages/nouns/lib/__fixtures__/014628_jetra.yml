@@ -1,0 +1,15 @@
+---
+  id: "14628"
+  word: "jętra"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "jętra"
+      acc: "jętra"
+      gen: "jętr"
+      loc: "jętrah"
+      dat: "jętram"
+      ins: "jętrami"
+      voc: "jętra"

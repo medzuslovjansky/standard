@@ -1,0 +1,22 @@
+---
+  id: "21144"
+  word: "spad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spad"
+      acc: "spad"
+      gen: "spada"
+      loc: "spadu"
+      dat: "spadu"
+      ins: "spadom"
+      voc: "spade"
+    plural: 
+      nom: "spady"
+      acc: "spady"
+      gen: "spadov"
+      loc: "spadah"
+      dat: "spadam"
+      ins: "spadami"
+      voc: "spady"

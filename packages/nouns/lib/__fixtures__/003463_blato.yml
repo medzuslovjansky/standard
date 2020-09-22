@@ -1,0 +1,22 @@
+---
+  id: "3463"
+  word: "blåto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "blåto"
+      acc: "blåto"
+      gen: "blåta"
+      loc: "blåtu"
+      dat: "blåtu"
+      ins: "blåtom"
+      voc: "blåto"
+    plural: 
+      nom: "blåta"
+      acc: "blåta"
+      gen: "blåt"
+      loc: "blåtah"
+      dat: "blåtam"
+      ins: "blåtami"
+      voc: "blåta"

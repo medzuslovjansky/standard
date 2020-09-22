@@ -1,0 +1,22 @@
+---
+  id: "1364"
+  word: "sŕp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sŕp"
+      acc: "sŕp"
+      gen: "sŕpa"
+      loc: "sŕpu"
+      dat: "sŕpu"
+      ins: "sŕpom"
+      voc: "sŕpe"
+    plural: 
+      nom: "sŕpy"
+      acc: "sŕpy"
+      gen: "sŕpov"
+      loc: "sŕpah"
+      dat: "sŕpam"
+      ins: "sŕpami"
+      voc: "sŕpy"

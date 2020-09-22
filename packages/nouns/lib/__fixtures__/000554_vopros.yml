@@ -1,0 +1,22 @@
+---
+  id: "554"
+  word: "vȯpros"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯpros"
+      acc: "vȯpros"
+      gen: "vȯprosa"
+      loc: "vȯprosu"
+      dat: "vȯprosu"
+      ins: "vȯprosom"
+      voc: "vȯprose"
+    plural: 
+      nom: "vȯprosy"
+      acc: "vȯprosy"
+      gen: "vȯprosov"
+      loc: "vȯprosah"
+      dat: "vȯprosam"
+      ins: "vȯprosami"
+      voc: "vȯprosy"

@@ -1,0 +1,22 @@
+---
+  id: "17017"
+  word: "protivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "protivnosť"
+      acc: "protivnosť"
+      gen: "protivnosti"
+      loc: "protivnosti"
+      dat: "protivnosti"
+      ins: "protivnosťjų"
+      voc: "protivnosti"
+    plural: 
+      nom: "protivnosti"
+      acc: "protivnosti"
+      gen: "protivnostij"
+      loc: "protivnosťah"
+      dat: "protivnosťam"
+      ins: "protivnosťami"
+      voc: "protivnosti"

@@ -1,0 +1,22 @@
+---
+  id: "17425"
+  word: "gorčica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gorčica"
+      acc: "gorčicų"
+      gen: "gorčice"
+      loc: "gorčici"
+      dat: "gorčici"
+      ins: "gorčicejų"
+      voc: "gorčico"
+    plural: 
+      nom: "gorčice"
+      acc: "gorčice"
+      gen: "gorčic"
+      loc: "gorčicah"
+      dat: "gorčicam"
+      ins: "gorčicami"
+      voc: "gorčice"

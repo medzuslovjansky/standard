@@ -1,0 +1,22 @@
+---
+  id: "23533"
+  word: "diktatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "diktatura"
+      acc: "diktaturų"
+      gen: "diktatury"
+      loc: "diktaturě"
+      dat: "diktaturě"
+      ins: "diktaturojų"
+      voc: "diktaturo"
+    plural: 
+      nom: "diktatury"
+      acc: "diktatury"
+      gen: "diktatur"
+      loc: "diktaturah"
+      dat: "diktaturam"
+      ins: "diktaturami"
+      voc: "diktatury"

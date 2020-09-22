@@ -1,0 +1,23 @@
+---
+  id: "596"
+  word: "Ukrajinec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Ukrajinec"
+      acc: "Ukrajinca"
+      gen: "Ukrajinca"
+      loc: "Ukrajincu"
+      dat: "Ukrajincu"
+      ins: "Ukrajincem"
+      voc: "Ukrajinče"
+    plural: 
+      nom: "Ukrajinci"
+      acc: "Ukrajincev"
+      gen: "Ukrajincev"
+      loc: "Ukrajincah"
+      dat: "Ukrajincam"
+      ins: "Ukrajincami"
+      voc: "Ukrajinci"

@@ -1,0 +1,22 @@
+---
+  id: "20970"
+  word: "padalina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "padalina"
+      acc: "padalinų"
+      gen: "padaliny"
+      loc: "padalině"
+      dat: "padalině"
+      ins: "padalinojų"
+      voc: "padalino"
+    plural: 
+      nom: "padaliny"
+      acc: "padaliny"
+      gen: "padalin"
+      loc: "padalinah"
+      dat: "padalinam"
+      ins: "padalinami"
+      voc: "padaliny"

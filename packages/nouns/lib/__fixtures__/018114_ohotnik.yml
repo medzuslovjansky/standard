@@ -1,0 +1,23 @@
+---
+  id: "18114"
+  word: "ohotnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ohotnik"
+      acc: "ohotnika"
+      gen: "ohotnika"
+      loc: "ohotniku"
+      dat: "ohotniku"
+      ins: "ohotnikom"
+      voc: "ohotniče"
+    plural: 
+      nom: "ohotniki"
+      acc: "ohotnikov"
+      gen: "ohotnikov"
+      loc: "ohotnikah"
+      dat: "ohotnikam"
+      ins: "ohotnikami"
+      voc: "ohotniki"

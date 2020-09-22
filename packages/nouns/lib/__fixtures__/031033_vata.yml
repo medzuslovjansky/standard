@@ -1,0 +1,22 @@
+---
+  id: "31033"
+  word: "vata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vata"
+      acc: "vatų"
+      gen: "vaty"
+      loc: "vatě"
+      dat: "vatě"
+      ins: "vatojų"
+      voc: "vato"
+    plural: 
+      nom: "vaty"
+      acc: "vaty"
+      gen: "vat"
+      loc: "vatah"
+      dat: "vatam"
+      ins: "vatami"
+      voc: "vaty"

@@ -1,0 +1,15 @@
+---
+  id: "15390"
+  word: "montovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "montovańje"
+      acc: "montovańje"
+      gen: "montovańja"
+      loc: "montovańju"
+      dat: "montovańju"
+      ins: "montovańjem"
+      voc: "montovańje"

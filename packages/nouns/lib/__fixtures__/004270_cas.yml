@@ -1,0 +1,22 @@
+---
+  id: "4270"
+  word: "čas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čas"
+      acc: "čas"
+      gen: "časa"
+      loc: "času"
+      dat: "času"
+      ins: "časom"
+      voc: "čase"
+    plural: 
+      nom: "časy"
+      acc: "časy"
+      gen: "časov"
+      loc: "časah"
+      dat: "časam"
+      ins: "časami"
+      voc: "časy"

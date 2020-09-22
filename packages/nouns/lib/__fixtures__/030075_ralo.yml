@@ -1,0 +1,22 @@
+---
+  id: "30075"
+  word: "ralo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ralo"
+      acc: "ralo"
+      gen: "rala"
+      loc: "ralu"
+      dat: "ralu"
+      ins: "ralom"
+      voc: "ralo"
+    plural: 
+      nom: "rala"
+      acc: "rala"
+      gen: "ral"
+      loc: "ralah"
+      dat: "ralam"
+      ins: "ralami"
+      voc: "rala"

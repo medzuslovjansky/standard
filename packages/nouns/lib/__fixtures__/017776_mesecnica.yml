@@ -1,0 +1,22 @@
+---
+  id: "17776"
+  word: "měsęčnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měsęčnica"
+      acc: "měsęčnicų"
+      gen: "měsęčnice"
+      loc: "měsęčnici"
+      dat: "měsęčnici"
+      ins: "měsęčnicejų"
+      voc: "měsęčnico"
+    plural: 
+      nom: "měsęčnice"
+      acc: "měsęčnice"
+      gen: "měsęčnic"
+      loc: "měsęčnicah"
+      dat: "měsęčnicam"
+      ins: "měsęčnicami"
+      voc: "měsęčnice"

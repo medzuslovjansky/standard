@@ -1,0 +1,22 @@
+---
+  id: "4364"
+  word: "biblioteka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "biblioteka"
+      acc: "bibliotekų"
+      gen: "biblioteky"
+      loc: "bibliotekě"
+      dat: "bibliotekě"
+      ins: "bibliotekojų"
+      voc: "biblioteko"
+    plural: 
+      nom: "biblioteky"
+      acc: "biblioteky"
+      gen: "bibliotek"
+      loc: "bibliotekah"
+      dat: "bibliotekam"
+      ins: "bibliotekami"
+      voc: "biblioteky"

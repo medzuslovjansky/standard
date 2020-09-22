@@ -1,0 +1,22 @@
+---
+  id: "35286"
+  word: "serial"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "serial"
+      acc: "serial"
+      gen: "seriala"
+      loc: "serialu"
+      dat: "serialu"
+      ins: "serialom"
+      voc: "seriale"
+    plural: 
+      nom: "serialy"
+      acc: "serialy"
+      gen: "serialov"
+      loc: "serialah"
+      dat: "serialam"
+      ins: "serialami"
+      voc: "serialy"

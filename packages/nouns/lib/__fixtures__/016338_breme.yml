@@ -1,0 +1,22 @@
+---
+  id: "16338"
+  word: "brěmę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "brěmę"
+      acc: "brěmę"
+      gen: "brěmene / brěmena"
+      loc: "brěmeni / brěmenu"
+      dat: "brěmeni / brěmenu"
+      ins: "brěmenem / brěmenom"
+      voc: "brěmę"
+    plural: 
+      nom: "brěmena"
+      acc: "brěmena"
+      gen: "brěmen"
+      loc: "brěmenah"
+      dat: "brěmenam"
+      ins: "brěmenami"
+      voc: "brěmena"

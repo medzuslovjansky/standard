@@ -1,0 +1,22 @@
+---
+  id: "26073"
+  word: "idila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "idila"
+      acc: "idilų"
+      gen: "idily"
+      loc: "idilě"
+      dat: "idilě"
+      ins: "idilojų"
+      voc: "idilo"
+    plural: 
+      nom: "idily"
+      acc: "idily"
+      gen: "idil"
+      loc: "idilah"
+      dat: "idilam"
+      ins: "idilami"
+      voc: "idily"

@@ -1,0 +1,22 @@
+---
+  id: "9954"
+  word: "odgovornosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odgovornosť"
+      acc: "odgovornosť"
+      gen: "odgovornosti"
+      loc: "odgovornosti"
+      dat: "odgovornosti"
+      ins: "odgovornosťjų"
+      voc: "odgovornosti"
+    plural: 
+      nom: "odgovornosti"
+      acc: "odgovornosti"
+      gen: "odgovornostij"
+      loc: "odgovornosťah"
+      dat: "odgovornosťam"
+      ins: "odgovornosťami"
+      voc: "odgovornosti"

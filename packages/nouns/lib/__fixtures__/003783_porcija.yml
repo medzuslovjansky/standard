@@ -1,0 +1,22 @@
+---
+  id: "3783"
+  word: "porcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "porcija"
+      acc: "porcijų"
+      gen: "porcije"
+      loc: "porciji"
+      dat: "porciji"
+      ins: "porcijejų"
+      voc: "porcijo"
+    plural: 
+      nom: "porcije"
+      acc: "porcije"
+      gen: "porcij"
+      loc: "porcijah"
+      dat: "porcijam"
+      ins: "porcijami"
+      voc: "porcije"

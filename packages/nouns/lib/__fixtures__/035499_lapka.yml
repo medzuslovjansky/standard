@@ -1,0 +1,22 @@
+---
+  id: "35499"
+  word: "lapka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lapka"
+      acc: "lapkų"
+      gen: "lapky"
+      loc: "lapkě"
+      dat: "lapkě"
+      ins: "lapkojų"
+      voc: "lapko"
+    plural: 
+      nom: "lapky"
+      acc: "lapky"
+      gen: "lapȯk"
+      loc: "lapkah"
+      dat: "lapkam"
+      ins: "lapkami"
+      voc: "lapky"

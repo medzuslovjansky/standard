@@ -1,0 +1,47 @@
+---
+  - 
+    id: "302"
+    word: "hristijan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "hristijan"
+        acc: "hristijana"
+        gen: "hristijana"
+        loc: "hristijanu"
+        dat: "hristijanu"
+        ins: "hristijanom"
+        voc: "hristijane"
+      plural: 
+        nom: "hristijani"
+        acc: "hristijanov"
+        gen: "hristijanov"
+        loc: "hristijanah"
+        dat: "hristijanam"
+        ins: "hristijanami"
+        voc: "hristijani"
+  - 
+    id: "302"
+    word: "hristijanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "hristijanin"
+        acc: "hristijanina"
+        gen: "hristijanina"
+        loc: "hristijaninu"
+        dat: "hristijaninu"
+        ins: "hristijaninom"
+        voc: "hristijanine"
+      plural: 
+        nom: "hristijani"
+        acc: "hristijanov"
+        gen: "hristijanov"
+        loc: "hristijanah"
+        dat: "hristijanam"
+        ins: "hristijanami"
+        voc: "hristijani"

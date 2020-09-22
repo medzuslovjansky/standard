@@ -1,0 +1,23 @@
+---
+  id: "33009"
+  word: "mizantrop"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mizantrop"
+      acc: "mizantropa"
+      gen: "mizantropa"
+      loc: "mizantropu"
+      dat: "mizantropu"
+      ins: "mizantropom"
+      voc: "mizantrope"
+    plural: 
+      nom: "mizantropi"
+      acc: "mizantropov"
+      gen: "mizantropov"
+      loc: "mizantropah"
+      dat: "mizantropam"
+      ins: "mizantropami"
+      voc: "mizantropi"

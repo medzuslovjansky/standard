@@ -1,0 +1,15 @@
+---
+  id: "22607"
+  word: "magnezij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "magnezij"
+      acc: "magnezij"
+      gen: "magnezija"
+      loc: "magneziju"
+      dat: "magneziju"
+      ins: "magnezijem"
+      voc: "magneziju"

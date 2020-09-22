@@ -1,0 +1,22 @@
+---
+  id: "28400"
+  word: "negramotnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "negramotnosť"
+      acc: "negramotnosť"
+      gen: "negramotnosti"
+      loc: "negramotnosti"
+      dat: "negramotnosti"
+      ins: "negramotnosťjų"
+      voc: "negramotnosti"
+    plural: 
+      nom: "negramotnosti"
+      acc: "negramotnosti"
+      gen: "negramotnostij"
+      loc: "negramotnosťah"
+      dat: "negramotnosťam"
+      ins: "negramotnosťami"
+      voc: "negramotnosti"

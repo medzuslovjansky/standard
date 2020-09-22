@@ -1,0 +1,22 @@
+---
+  id: "30389"
+  word: "råzpoložeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzpoložeńje"
+      acc: "råzpoložeńje"
+      gen: "råzpoložeńja"
+      loc: "råzpoložeńju"
+      dat: "råzpoložeńju"
+      ins: "råzpoložeńjem"
+      voc: "råzpoložeńje"
+    plural: 
+      nom: "råzpoložeńja"
+      acc: "råzpoložeńja"
+      gen: "råzpoloženij"
+      loc: "råzpoložeńjah"
+      dat: "råzpoložeńjam"
+      ins: "råzpoložeńjami"
+      voc: "råzpoložeńja"

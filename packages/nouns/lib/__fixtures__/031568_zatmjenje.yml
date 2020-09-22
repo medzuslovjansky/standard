@@ -1,0 +1,22 @@
+---
+  id: "31568"
+  word: "zatmjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zatmjeńje"
+      acc: "zatmjeńje"
+      gen: "zatmjeńja"
+      loc: "zatmjeńju"
+      dat: "zatmjeńju"
+      ins: "zatmjeńjem"
+      voc: "zatmjeńje"
+    plural: 
+      nom: "zatmjeńja"
+      acc: "zatmjeńja"
+      gen: "zatmjenij"
+      loc: "zatmjeńjah"
+      dat: "zatmjeńjam"
+      ins: "zatmjeńjami"
+      voc: "zatmjeńja"

@@ -1,0 +1,23 @@
+---
+  id: "36927"
+  word: "vajatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vajatelj"
+      acc: "vajatelja"
+      gen: "vajatelja"
+      loc: "vajatelju"
+      dat: "vajatelju"
+      ins: "vajateljem"
+      voc: "vajatelju"
+    plural: 
+      nom: "vajatelji"
+      acc: "vajateljev"
+      gen: "vajateljev"
+      loc: "vajateljah"
+      dat: "vajateljam"
+      ins: "vajateljami"
+      voc: "vajatelji"

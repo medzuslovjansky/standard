@@ -1,0 +1,15 @@
+---
+  id: "639"
+  word: "med"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "med"
+      acc: "med"
+      gen: "meda"
+      loc: "medu"
+      dat: "medu"
+      ins: "medom"
+      voc: "mede"

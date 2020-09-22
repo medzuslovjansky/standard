@@ -1,0 +1,22 @@
+---
+  id: "6153"
+  word: "pohybka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pohybka"
+      acc: "pohybkų"
+      gen: "pohybky"
+      loc: "pohybkě"
+      dat: "pohybkě"
+      ins: "pohybkojų"
+      voc: "pohybko"
+    plural: 
+      nom: "pohybky"
+      acc: "pohybky"
+      gen: "pohybȯk"
+      loc: "pohybkah"
+      dat: "pohybkam"
+      ins: "pohybkami"
+      voc: "pohybky"

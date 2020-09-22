@@ -1,0 +1,22 @@
+---
+  id: "707"
+  word: "provokacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "provokacija"
+      acc: "provokacijų"
+      gen: "provokacije"
+      loc: "provokaciji"
+      dat: "provokaciji"
+      ins: "provokacijejų"
+      voc: "provokacijo"
+    plural: 
+      nom: "provokacije"
+      acc: "provokacije"
+      gen: "provokacij"
+      loc: "provokacijah"
+      dat: "provokacijam"
+      ins: "provokacijami"
+      voc: "provokacije"

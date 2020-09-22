@@ -1,0 +1,22 @@
+---
+  id: "23695"
+  word: "erupcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "erupcija"
+      acc: "erupcijų"
+      gen: "erupcije"
+      loc: "erupciji"
+      dat: "erupciji"
+      ins: "erupcijejų"
+      voc: "erupcijo"
+    plural: 
+      nom: "erupcije"
+      acc: "erupcije"
+      gen: "erupcij"
+      loc: "erupcijah"
+      dat: "erupcijam"
+      ins: "erupcijami"
+      voc: "erupcije"

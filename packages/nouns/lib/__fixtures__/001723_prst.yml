@@ -1,0 +1,22 @@
+---
+  id: "1723"
+  word: "pŕst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕst"
+      acc: "pŕst"
+      gen: "pŕsta"
+      loc: "pŕstu"
+      dat: "pŕstu"
+      ins: "pŕstom"
+      voc: "pŕste"
+    plural: 
+      nom: "pŕsty"
+      acc: "pŕsty"
+      gen: "pŕstov"
+      loc: "pŕstah"
+      dat: "pŕstam"
+      ins: "pŕstami"
+      voc: "pŕsty"

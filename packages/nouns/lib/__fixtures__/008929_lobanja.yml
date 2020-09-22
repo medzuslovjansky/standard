@@ -1,0 +1,22 @@
+---
+  id: "8929"
+  word: "lobanja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lobanja"
+      acc: "lobanjų"
+      gen: "lobanje"
+      loc: "lobanji"
+      dat: "lobanji"
+      ins: "lobanjejų"
+      voc: "lobanjo"
+    plural: 
+      nom: "lobanje"
+      acc: "lobanje"
+      gen: "lobanej"
+      loc: "lobanjah"
+      dat: "lobanjam"
+      ins: "lobanjami"
+      voc: "lobanje"

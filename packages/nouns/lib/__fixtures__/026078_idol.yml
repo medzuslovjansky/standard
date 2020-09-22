@@ -1,0 +1,23 @@
+---
+  id: "26078"
+  word: "idol"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "idol"
+      acc: "idola"
+      gen: "idola"
+      loc: "idolu"
+      dat: "idolu"
+      ins: "idolom"
+      voc: "idole"
+    plural: 
+      nom: "idoli"
+      acc: "idolov"
+      gen: "idolov"
+      loc: "idolah"
+      dat: "idolam"
+      ins: "idolami"
+      voc: "idoli"

@@ -1,0 +1,22 @@
+---
+  id: "8276"
+  word: "jednonočka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jednonočka"
+      acc: "jednonočkų"
+      gen: "jednonočky"
+      loc: "jednonočkě"
+      dat: "jednonočkě"
+      ins: "jednonočkojų"
+      voc: "jednonočko"
+    plural: 
+      nom: "jednonočky"
+      acc: "jednonočky"
+      gen: "jednonoček"
+      loc: "jednonočkah"
+      dat: "jednonočkam"
+      ins: "jednonočkami"
+      voc: "jednonočky"

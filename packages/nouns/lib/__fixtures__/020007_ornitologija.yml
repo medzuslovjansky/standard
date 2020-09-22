@@ -1,0 +1,15 @@
+---
+  id: "20007"
+  word: "ornitologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ornitologija"
+      acc: "ornitologijų"
+      gen: "ornitologije"
+      loc: "ornitologiji"
+      dat: "ornitologiji"
+      ins: "ornitologijejų"
+      voc: "ornitologijo"

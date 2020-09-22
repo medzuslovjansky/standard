@@ -1,0 +1,22 @@
+---
+  id: "3835"
+  word: "amortizator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "amortizator"
+      acc: "amortizator"
+      gen: "amortizatora"
+      loc: "amortizatoru"
+      dat: "amortizatoru"
+      ins: "amortizatorom"
+      voc: "amortizatore"
+    plural: 
+      nom: "amortizatory"
+      acc: "amortizatory"
+      gen: "amortizatorov"
+      loc: "amortizatorah"
+      dat: "amortizatoram"
+      ins: "amortizatorami"
+      voc: "amortizatory"

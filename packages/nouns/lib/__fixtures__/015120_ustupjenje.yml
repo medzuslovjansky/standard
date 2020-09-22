@@ -1,0 +1,22 @@
+---
+  id: "15120"
+  word: "ustųpjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ustųpjeńje"
+      acc: "ustųpjeńje"
+      gen: "ustųpjeńja"
+      loc: "ustųpjeńju"
+      dat: "ustųpjeńju"
+      ins: "ustųpjeńjem"
+      voc: "ustųpjeńje"
+    plural: 
+      nom: "ustųpjeńja"
+      acc: "ustųpjeńja"
+      gen: "ustųpjenij"
+      loc: "ustųpjeńjah"
+      dat: "ustųpjeńjam"
+      ins: "ustųpjeńjami"
+      voc: "ustųpjeńja"

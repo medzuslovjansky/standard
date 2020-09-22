@@ -1,0 +1,22 @@
+---
+  id: "24939"
+  word: "čad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čad"
+      acc: "čad"
+      gen: "čada"
+      loc: "čadu"
+      dat: "čadu"
+      ins: "čadom"
+      voc: "čade"
+    plural: 
+      nom: "čady"
+      acc: "čady"
+      gen: "čadov"
+      loc: "čadah"
+      dat: "čadam"
+      ins: "čadami"
+      voc: "čady"

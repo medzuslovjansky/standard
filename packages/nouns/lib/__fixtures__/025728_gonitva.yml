@@ -1,0 +1,22 @@
+---
+  id: "25728"
+  word: "gonitva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gonitva"
+      acc: "gonitvų"
+      gen: "gonitvy"
+      loc: "gonitvě"
+      dat: "gonitvě"
+      ins: "gonitvojų"
+      voc: "gonitvo"
+    plural: 
+      nom: "gonitvy"
+      acc: "gonitvy"
+      gen: "gonitv"
+      loc: "gonitvah"
+      dat: "gonitvam"
+      ins: "gonitvami"
+      voc: "gonitvy"

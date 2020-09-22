@@ -1,0 +1,23 @@
+---
+  id: "34076"
+  word: "opat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "opat"
+      acc: "opata"
+      gen: "opata"
+      loc: "opatu"
+      dat: "opatu"
+      ins: "opatom"
+      voc: "opate"
+    plural: 
+      nom: "opati"
+      acc: "opatov"
+      gen: "opatov"
+      loc: "opatah"
+      dat: "opatam"
+      ins: "opatami"
+      voc: "opati"

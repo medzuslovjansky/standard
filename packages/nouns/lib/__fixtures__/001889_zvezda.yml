@@ -1,0 +1,22 @@
+---
+  id: "1889"
+  word: "zvězda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zvězda"
+      acc: "zvězdų"
+      gen: "zvězdy"
+      loc: "zvězdě"
+      dat: "zvězdě"
+      ins: "zvězdojų"
+      voc: "zvězdo"
+    plural: 
+      nom: "zvězdy"
+      acc: "zvězdy"
+      gen: "zvězd"
+      loc: "zvězdah"
+      dat: "zvězdam"
+      ins: "zvězdami"
+      voc: "zvězdy"

@@ -1,0 +1,22 @@
+---
+  id: "4796"
+  word: "izbuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izbuh"
+      acc: "izbuh"
+      gen: "izbuha"
+      loc: "izbuhu"
+      dat: "izbuhu"
+      ins: "izbuhom"
+      voc: "izbuše"
+    plural: 
+      nom: "izbuhy"
+      acc: "izbuhy"
+      gen: "izbuhov"
+      loc: "izbuhah"
+      dat: "izbuham"
+      ins: "izbuhami"
+      voc: "izbuhy"

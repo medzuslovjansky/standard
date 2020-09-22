@@ -1,0 +1,15 @@
+---
+  id: "26750"
+  word: "karies"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "karies"
+      acc: "karies"
+      gen: "kariesa"
+      loc: "kariesu"
+      dat: "kariesu"
+      ins: "kariesom"
+      voc: "kariese"

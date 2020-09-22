@@ -1,0 +1,22 @@
+---
+  id: "3754"
+  word: "udar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "udar"
+      acc: "udar"
+      gen: "udara"
+      loc: "udaru"
+      dat: "udaru"
+      ins: "udarom"
+      voc: "udare"
+    plural: 
+      nom: "udary"
+      acc: "udary"
+      gen: "udarov"
+      loc: "udarah"
+      dat: "udaram"
+      ins: "udarami"
+      voc: "udary"

@@ -1,0 +1,23 @@
+---
+  id: "209"
+  word: "Inguš"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Inguš"
+      acc: "Inguša"
+      gen: "Inguša"
+      loc: "Ingušu"
+      dat: "Ingušu"
+      ins: "Ingušem"
+      voc: "Ingušu"
+    plural: 
+      nom: "Inguši"
+      acc: "Ingušev"
+      gen: "Ingušev"
+      loc: "Ingušah"
+      dat: "Ingušam"
+      ins: "Ingušami"
+      voc: "Inguši"

@@ -1,0 +1,23 @@
+---
+  id: "36647"
+  word: "berserk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "berserk"
+      acc: "berserka"
+      gen: "berserka"
+      loc: "berserku"
+      dat: "berserku"
+      ins: "berserkom"
+      voc: "berserče"
+    plural: 
+      nom: "berserki"
+      acc: "berserkov"
+      gen: "berserkov"
+      loc: "berserkah"
+      dat: "berserkam"
+      ins: "berserkami"
+      voc: "berserki"

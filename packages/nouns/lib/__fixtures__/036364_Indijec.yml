@@ -1,0 +1,23 @@
+---
+  id: "36364"
+  word: "Indijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Indijec"
+      acc: "Indijca"
+      gen: "Indijca"
+      loc: "Indijcu"
+      dat: "Indijcu"
+      ins: "Indijcem"
+      voc: "Indijče"
+    plural: 
+      nom: "Indijci"
+      acc: "Indijcev"
+      gen: "Indijcev"
+      loc: "Indijcah"
+      dat: "Indijcam"
+      ins: "Indijcami"
+      voc: "Indijci"

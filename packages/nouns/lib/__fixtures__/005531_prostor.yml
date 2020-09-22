@@ -1,0 +1,22 @@
+---
+  id: "5531"
+  word: "prostor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prostor"
+      acc: "prostor"
+      gen: "prostora"
+      loc: "prostoru"
+      dat: "prostoru"
+      ins: "prostorom"
+      voc: "prostore"
+    plural: 
+      nom: "prostory"
+      acc: "prostory"
+      gen: "prostorov"
+      loc: "prostorah"
+      dat: "prostoram"
+      ins: "prostorami"
+      voc: "prostory"

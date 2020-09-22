@@ -1,0 +1,15 @@
+---
+  id: "15642"
+  word: "iztok"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "iztok"
+      acc: "iztok"
+      gen: "iztoka"
+      loc: "iztoku"
+      dat: "iztoku"
+      ins: "iztokom"
+      voc: "iztoče"

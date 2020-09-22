@@ -1,0 +1,15 @@
+---
+  id: "19000"
+  word: "trudoljubje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "trudoljubje"
+      acc: "trudoljubje"
+      gen: "trudoljubja"
+      loc: "trudoljubju"
+      dat: "trudoljubju"
+      ins: "trudoljubjem"
+      voc: "trudoljubje"

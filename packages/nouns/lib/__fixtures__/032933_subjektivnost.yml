@@ -1,0 +1,22 @@
+---
+  id: "32933"
+  word: "subjektivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "subjektivnosť"
+      acc: "subjektivnosť"
+      gen: "subjektivnosti"
+      loc: "subjektivnosti"
+      dat: "subjektivnosti"
+      ins: "subjektivnosťjų"
+      voc: "subjektivnosti"
+    plural: 
+      nom: "subjektivnosti"
+      acc: "subjektivnosti"
+      gen: "subjektivnostij"
+      loc: "subjektivnosťah"
+      dat: "subjektivnosťam"
+      ins: "subjektivnosťami"
+      voc: "subjektivnosti"

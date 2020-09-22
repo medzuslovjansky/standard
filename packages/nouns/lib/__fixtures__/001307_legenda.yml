@@ -1,0 +1,22 @@
+---
+  id: "1307"
+  word: "legenda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "legenda"
+      acc: "legendų"
+      gen: "legendy"
+      loc: "legendě"
+      dat: "legendě"
+      ins: "legendojų"
+      voc: "legendo"
+    plural: 
+      nom: "legendy"
+      acc: "legendy"
+      gen: "legend"
+      loc: "legendah"
+      dat: "legendam"
+      ins: "legendami"
+      voc: "legendy"

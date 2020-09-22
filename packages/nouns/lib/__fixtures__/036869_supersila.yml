@@ -1,0 +1,22 @@
+---
+  id: "36869"
+  word: "supersila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "supersila"
+      acc: "supersilų"
+      gen: "supersily"
+      loc: "supersilě"
+      dat: "supersilě"
+      ins: "supersilojų"
+      voc: "supersilo"
+    plural: 
+      nom: "supersily"
+      acc: "supersily"
+      gen: "supersil"
+      loc: "supersilah"
+      dat: "supersilam"
+      ins: "supersilami"
+      voc: "supersily"

@@ -1,0 +1,22 @@
+---
+  id: "19417"
+  word: "zastrašańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zastrašańje"
+      acc: "zastrašańje"
+      gen: "zastrašańja"
+      loc: "zastrašańju"
+      dat: "zastrašańju"
+      ins: "zastrašańjem"
+      voc: "zastrašańje"
+    plural: 
+      nom: "zastrašańja"
+      acc: "zastrašańja"
+      gen: "zastrašanij"
+      loc: "zastrašańjah"
+      dat: "zastrašańjam"
+      ins: "zastrašańjami"
+      voc: "zastrašańja"

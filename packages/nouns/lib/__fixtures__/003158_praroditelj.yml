@@ -1,0 +1,23 @@
+---
+  id: "3158"
+  word: "praroditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "praroditelj"
+      acc: "praroditelja"
+      gen: "praroditelja"
+      loc: "praroditelju"
+      dat: "praroditelju"
+      ins: "praroditeljem"
+      voc: "praroditelju"
+    plural: 
+      nom: "praroditelji"
+      acc: "praroditeljev"
+      gen: "praroditeljev"
+      loc: "praroditeljah"
+      dat: "praroditeljam"
+      ins: "praroditeljami"
+      voc: "praroditelji"

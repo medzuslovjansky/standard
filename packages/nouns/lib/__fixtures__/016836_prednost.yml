@@ -1,0 +1,22 @@
+---
+  id: "16836"
+  word: "prědnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědnosť"
+      acc: "prědnosť"
+      gen: "prědnosti"
+      loc: "prědnosti"
+      dat: "prědnosti"
+      ins: "prědnosťjų"
+      voc: "prědnosti"
+    plural: 
+      nom: "prědnosti"
+      acc: "prědnosti"
+      gen: "prědnostij"
+      loc: "prědnosťah"
+      dat: "prědnosťam"
+      ins: "prědnosťami"
+      voc: "prědnosti"

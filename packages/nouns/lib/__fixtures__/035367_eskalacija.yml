@@ -1,0 +1,22 @@
+---
+  id: "35367"
+  word: "eskalacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "eskalacija"
+      acc: "eskalacijų"
+      gen: "eskalacije"
+      loc: "eskalaciji"
+      dat: "eskalaciji"
+      ins: "eskalacijejų"
+      voc: "eskalacijo"
+    plural: 
+      nom: "eskalacije"
+      acc: "eskalacije"
+      gen: "eskalacij"
+      loc: "eskalacijah"
+      dat: "eskalacijam"
+      ins: "eskalacijami"
+      voc: "eskalacije"

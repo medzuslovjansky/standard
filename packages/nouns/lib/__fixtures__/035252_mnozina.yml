@@ -1,0 +1,22 @@
+---
+  id: "35252"
+  word: "množina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "množina"
+      acc: "množinų"
+      gen: "množiny"
+      loc: "množině"
+      dat: "množině"
+      ins: "množinojų"
+      voc: "množino"
+    plural: 
+      nom: "množiny"
+      acc: "množiny"
+      gen: "množin"
+      loc: "množinah"
+      dat: "množinam"
+      ins: "množinami"
+      voc: "množiny"

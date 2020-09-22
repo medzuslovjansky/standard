@@ -1,0 +1,22 @@
+---
+  id: "35042"
+  word: "drågoukazatelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "drågoukazatelj"
+      acc: "drågoukazatelj"
+      gen: "drågoukazatelja"
+      loc: "drågoukazatelju"
+      dat: "drågoukazatelju"
+      ins: "drågoukazateljem"
+      voc: "drågoukazatelju"
+    plural: 
+      nom: "drågoukazatelje"
+      acc: "drågoukazatelje"
+      gen: "drågoukazateljev"
+      loc: "drågoukazateljah"
+      dat: "drågoukazateljam"
+      ins: "drågoukazateljami"
+      voc: "drågoukazatelje"

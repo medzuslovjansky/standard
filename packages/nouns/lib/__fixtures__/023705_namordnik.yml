@@ -1,0 +1,22 @@
+---
+  id: "23705"
+  word: "namordnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "namordnik"
+      acc: "namordnik"
+      gen: "namordnika"
+      loc: "namordniku"
+      dat: "namordniku"
+      ins: "namordnikom"
+      voc: "namordniče"
+    plural: 
+      nom: "namordniky"
+      acc: "namordniky"
+      gen: "namordnikov"
+      loc: "namordnikah"
+      dat: "namordnikam"
+      ins: "namordnikami"
+      voc: "namordniky"

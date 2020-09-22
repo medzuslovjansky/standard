@@ -1,0 +1,15 @@
+---
+  id: "10814"
+  word: "pohvaly"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "pohvaly"
+      acc: "pohvaly"
+      gen: "pohval"
+      loc: "pohvalah"
+      dat: "pohvalam"
+      ins: "pohvalami"
+      voc: "pohvaly"

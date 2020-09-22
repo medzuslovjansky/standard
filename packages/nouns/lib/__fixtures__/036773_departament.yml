@@ -1,0 +1,22 @@
+---
+  id: "36773"
+  word: "departament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "departament"
+      acc: "departament"
+      gen: "departamenta"
+      loc: "departamentu"
+      dat: "departamentu"
+      ins: "departamentom"
+      voc: "departamente"
+    plural: 
+      nom: "departamenty"
+      acc: "departamenty"
+      gen: "departamentov"
+      loc: "departamentah"
+      dat: "departamentam"
+      ins: "departamentami"
+      voc: "departamenty"

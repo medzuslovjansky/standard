@@ -1,0 +1,22 @@
+---
+  id: "5066"
+  word: "blěskavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blěskavica"
+      acc: "blěskavicų"
+      gen: "blěskavice"
+      loc: "blěskavici"
+      dat: "blěskavici"
+      ins: "blěskavicejų"
+      voc: "blěskavico"
+    plural: 
+      nom: "blěskavice"
+      acc: "blěskavice"
+      gen: "blěskavic"
+      loc: "blěskavicah"
+      dat: "blěskavicam"
+      ins: "blěskavicami"
+      voc: "blěskavice"

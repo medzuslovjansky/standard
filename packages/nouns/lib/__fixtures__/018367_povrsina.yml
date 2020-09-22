@@ -1,0 +1,22 @@
+---
+  id: "18367"
+  word: "povŕšina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povŕšina"
+      acc: "povŕšinų"
+      gen: "povŕšiny"
+      loc: "povŕšině"
+      dat: "povŕšině"
+      ins: "povŕšinojų"
+      voc: "povŕšino"
+    plural: 
+      nom: "povŕšiny"
+      acc: "povŕšiny"
+      gen: "povŕšin"
+      loc: "povŕšinah"
+      dat: "povŕšinam"
+      ins: "povŕšinami"
+      voc: "povŕšiny"

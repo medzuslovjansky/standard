@@ -1,0 +1,22 @@
+---
+  id: "33328"
+  word: "bųblina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bųblina"
+      acc: "bųblinų"
+      gen: "bųbliny"
+      loc: "bųblině"
+      dat: "bųblině"
+      ins: "bųblinojų"
+      voc: "bųblino"
+    plural: 
+      nom: "bųbliny"
+      acc: "bųbliny"
+      gen: "bųblin"
+      loc: "bųblinah"
+      dat: "bųblinam"
+      ins: "bųblinami"
+      voc: "bųbliny"

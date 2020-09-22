@@ -1,0 +1,22 @@
+---
+  id: "19982"
+  word: "odpor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpor"
+      acc: "odpor"
+      gen: "odpora"
+      loc: "odporu"
+      dat: "odporu"
+      ins: "odporom"
+      voc: "odpore"
+    plural: 
+      nom: "odpory"
+      acc: "odpory"
+      gen: "odporov"
+      loc: "odporah"
+      dat: "odporam"
+      ins: "odporami"
+      voc: "odpory"

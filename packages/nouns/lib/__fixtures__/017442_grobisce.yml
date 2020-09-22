@@ -1,0 +1,22 @@
+---
+  id: "17442"
+  word: "grobišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "grobišče"
+      acc: "grobišče"
+      gen: "grobišča"
+      loc: "grobišču"
+      dat: "grobišču"
+      ins: "grobiščem"
+      voc: "grobišče"
+    plural: 
+      nom: "grobišča"
+      acc: "grobišča"
+      gen: "grobišč"
+      loc: "grobiščah"
+      dat: "grobiščam"
+      ins: "grobiščami"
+      voc: "grobišča"

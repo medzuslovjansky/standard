@@ -1,0 +1,22 @@
+---
+  id: "31537"
+  word: "zapęsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zapęsťje"
+      acc: "zapęsťje"
+      gen: "zapęsťja"
+      loc: "zapęsťju"
+      dat: "zapęsťju"
+      ins: "zapęsťjem"
+      voc: "zapęsťje"
+    plural: 
+      nom: "zapęsťja"
+      acc: "zapęsťja"
+      gen: "zapęstij"
+      loc: "zapęsťjah"
+      dat: "zapęsťjam"
+      ins: "zapęsťjami"
+      voc: "zapęsťja"

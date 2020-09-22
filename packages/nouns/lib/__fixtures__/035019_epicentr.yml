@@ -1,0 +1,22 @@
+---
+  id: "35019"
+  word: "epicentr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "epicentr"
+      acc: "epicentr"
+      gen: "epicentra"
+      loc: "epicentru"
+      dat: "epicentru"
+      ins: "epicentrom"
+      voc: "epicentre"
+    plural: 
+      nom: "epicentry"
+      acc: "epicentry"
+      gen: "epicentrov"
+      loc: "epicentrah"
+      dat: "epicentram"
+      ins: "epicentrami"
+      voc: "epicentry"

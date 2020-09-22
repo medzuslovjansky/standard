@@ -1,0 +1,23 @@
+---
+  id: "1356"
+  word: "papa"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "papa"
+      acc: "papų"
+      gen: "papy"
+      loc: "papě"
+      dat: "papě"
+      ins: "papojų"
+      voc: "papo"
+    plural: 
+      nom: "papi"
+      acc: "papov"
+      gen: "papov"
+      loc: "papah"
+      dat: "papam"
+      ins: "papami"
+      voc: "papi"

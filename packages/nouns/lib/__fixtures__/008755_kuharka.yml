@@ -1,0 +1,22 @@
+---
+  id: "8755"
+  word: "kuhaŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuhaŕka"
+      acc: "kuhaŕkų"
+      gen: "kuhaŕky"
+      loc: "kuhaŕkě"
+      dat: "kuhaŕkě"
+      ins: "kuhaŕkojų"
+      voc: "kuhaŕko"
+    plural: 
+      nom: "kuhaŕky"
+      acc: "kuhaŕky"
+      gen: "kuhaŕek"
+      loc: "kuhaŕkah"
+      dat: "kuhaŕkam"
+      ins: "kuhaŕkami"
+      voc: "kuhaŕky"

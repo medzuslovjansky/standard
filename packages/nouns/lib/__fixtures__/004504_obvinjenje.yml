@@ -1,0 +1,22 @@
+---
+  id: "4504"
+  word: "obvinjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obvinjeńje"
+      acc: "obvinjeńje"
+      gen: "obvinjeńja"
+      loc: "obvinjeńju"
+      dat: "obvinjeńju"
+      ins: "obvinjeńjem"
+      voc: "obvinjeńje"
+    plural: 
+      nom: "obvinjeńja"
+      acc: "obvinjeńja"
+      gen: "obvinjenij"
+      loc: "obvinjeńjah"
+      dat: "obvinjeńjam"
+      ins: "obvinjeńjami"
+      voc: "obvinjeńja"

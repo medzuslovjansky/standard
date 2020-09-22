@@ -1,0 +1,22 @@
+---
+  id: "13588"
+  word: "veselosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veselosť"
+      acc: "veselosť"
+      gen: "veselosti"
+      loc: "veselosti"
+      dat: "veselosti"
+      ins: "veselosťjų"
+      voc: "veselosti"
+    plural: 
+      nom: "veselosti"
+      acc: "veselosti"
+      gen: "veselostij"
+      loc: "veselosťah"
+      dat: "veselosťam"
+      ins: "veselosťami"
+      voc: "veselosti"

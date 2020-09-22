@@ -1,0 +1,22 @@
+---
+  id: "14387"
+  word: "žiťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žiťje"
+      acc: "žiťje"
+      gen: "žiťja"
+      loc: "žiťju"
+      dat: "žiťju"
+      ins: "žiťjem"
+      voc: "žiťje"
+    plural: 
+      nom: "žiťja"
+      acc: "žiťja"
+      gen: "žitij"
+      loc: "žiťjah"
+      dat: "žiťjam"
+      ins: "žiťjami"
+      voc: "žiťja"

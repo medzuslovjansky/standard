@@ -1,0 +1,22 @@
+---
+  id: "17398"
+  word: "glås"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glås"
+      acc: "glås"
+      gen: "glåsa"
+      loc: "glåsu"
+      dat: "glåsu"
+      ins: "glåsom"
+      voc: "glåse"
+    plural: 
+      nom: "glåsy"
+      acc: "glåsy"
+      gen: "glåsov"
+      loc: "glåsah"
+      dat: "glåsam"
+      ins: "glåsami"
+      voc: "glåsy"

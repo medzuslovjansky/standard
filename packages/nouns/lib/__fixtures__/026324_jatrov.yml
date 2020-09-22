@@ -1,0 +1,22 @@
+---
+  id: "26324"
+  word: "jatrȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jatrȯv"
+      acc: "jatrȯv"
+      gen: "jatrve / jatrvi"
+      loc: "jatrvi"
+      dat: "jatrvi"
+      ins: "jatrȯvjų"
+      voc: "jatrȯv"
+    plural: 
+      nom: "jatrvi"
+      acc: "jatrvi"
+      gen: "jatrvij"
+      loc: "jatrvah"
+      dat: "jatrvam"
+      ins: "jatrvami"
+      voc: "jatrvi"

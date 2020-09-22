@@ -1,0 +1,22 @@
+---
+  id: "30684"
+  word: "silaba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "silaba"
+      acc: "silabų"
+      gen: "silaby"
+      loc: "silabě"
+      dat: "silabě"
+      ins: "silabojų"
+      voc: "silabo"
+    plural: 
+      nom: "silaby"
+      acc: "silaby"
+      gen: "silab"
+      loc: "silabah"
+      dat: "silabam"
+      ins: "silabami"
+      voc: "silaby"

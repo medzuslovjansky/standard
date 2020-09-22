@@ -1,0 +1,22 @@
+---
+  id: "35904"
+  word: "sleng"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sleng"
+      acc: "sleng"
+      gen: "slenga"
+      loc: "slengu"
+      dat: "slengu"
+      ins: "slengom"
+      voc: "slenže"
+    plural: 
+      nom: "slengy"
+      acc: "slengy"
+      gen: "slengov"
+      loc: "slengah"
+      dat: "slengam"
+      ins: "slengami"
+      voc: "slengy"

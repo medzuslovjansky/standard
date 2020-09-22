@@ -1,0 +1,23 @@
+---
+  id: "21443"
+  word: "poslanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poslanec"
+      acc: "poslanca"
+      gen: "poslanca"
+      loc: "poslancu"
+      dat: "poslancu"
+      ins: "poslancem"
+      voc: "poslanče"
+    plural: 
+      nom: "poslanci"
+      acc: "poslancev"
+      gen: "poslancev"
+      loc: "poslancah"
+      dat: "poslancam"
+      ins: "poslancami"
+      voc: "poslanci"

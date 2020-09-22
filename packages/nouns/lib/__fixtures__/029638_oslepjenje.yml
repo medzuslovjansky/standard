@@ -1,0 +1,22 @@
+---
+  id: "29638"
+  word: "oslěpjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oslěpjeńje"
+      acc: "oslěpjeńje"
+      gen: "oslěpjeńja"
+      loc: "oslěpjeńju"
+      dat: "oslěpjeńju"
+      ins: "oslěpjeńjem"
+      voc: "oslěpjeńje"
+    plural: 
+      nom: "oslěpjeńja"
+      acc: "oslěpjeńja"
+      gen: "oslěpjenij"
+      loc: "oslěpjeńjah"
+      dat: "oslěpjeńjam"
+      ins: "oslěpjeńjami"
+      voc: "oslěpjeńja"

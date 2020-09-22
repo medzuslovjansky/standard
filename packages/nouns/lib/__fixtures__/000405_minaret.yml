@@ -1,0 +1,22 @@
+---
+  id: "405"
+  word: "minaret"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "minaret"
+      acc: "minaret"
+      gen: "minareta"
+      loc: "minaretu"
+      dat: "minaretu"
+      ins: "minaretom"
+      voc: "minarete"
+    plural: 
+      nom: "minarety"
+      acc: "minarety"
+      gen: "minaretov"
+      loc: "minaretah"
+      dat: "minaretam"
+      ins: "minaretami"
+      voc: "minarety"

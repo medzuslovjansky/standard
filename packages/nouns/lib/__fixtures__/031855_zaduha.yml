@@ -1,0 +1,22 @@
+---
+  id: "31855"
+  word: "zaduha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaduha"
+      acc: "zaduhų"
+      gen: "zaduhy"
+      loc: "zaduhě"
+      dat: "zaduhě"
+      ins: "zaduhojų"
+      voc: "zaduho"
+    plural: 
+      nom: "zaduhy"
+      acc: "zaduhy"
+      gen: "zaduh"
+      loc: "zaduhah"
+      dat: "zaduham"
+      ins: "zaduhami"
+      voc: "zaduhy"

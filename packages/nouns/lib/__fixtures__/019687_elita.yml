@@ -1,0 +1,22 @@
+---
+  id: "19687"
+  word: "elita"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "elita"
+      acc: "elitų"
+      gen: "elity"
+      loc: "elitě"
+      dat: "elitě"
+      ins: "elitojų"
+      voc: "elito"
+    plural: 
+      nom: "elity"
+      acc: "elity"
+      gen: "elit"
+      loc: "elitah"
+      dat: "elitam"
+      ins: "elitami"
+      voc: "elity"

@@ -1,0 +1,22 @@
+---
+  id: "28853"
+  word: "obod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obod"
+      acc: "obod"
+      gen: "oboda"
+      loc: "obodu"
+      dat: "obodu"
+      ins: "obodom"
+      voc: "obode"
+    plural: 
+      nom: "obody"
+      acc: "obody"
+      gen: "obodov"
+      loc: "obodah"
+      dat: "obodam"
+      ins: "obodami"
+      voc: "obody"

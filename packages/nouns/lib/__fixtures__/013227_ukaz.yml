@@ -1,0 +1,22 @@
+---
+  id: "13227"
+  word: "ukaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ukaz"
+      acc: "ukaz"
+      gen: "ukaza"
+      loc: "ukazu"
+      dat: "ukazu"
+      ins: "ukazom"
+      voc: "ukaze"
+    plural: 
+      nom: "ukazy"
+      acc: "ukazy"
+      gen: "ukazov"
+      loc: "ukazah"
+      dat: "ukazam"
+      ins: "ukazami"
+      voc: "ukazy"

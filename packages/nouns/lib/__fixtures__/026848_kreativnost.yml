@@ -1,0 +1,22 @@
+---
+  id: "26848"
+  word: "kreativnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kreativnosť"
+      acc: "kreativnosť"
+      gen: "kreativnosti"
+      loc: "kreativnosti"
+      dat: "kreativnosti"
+      ins: "kreativnosťjų"
+      voc: "kreativnosti"
+    plural: 
+      nom: "kreativnosti"
+      acc: "kreativnosti"
+      gen: "kreativnostij"
+      loc: "kreativnosťah"
+      dat: "kreativnosťam"
+      ins: "kreativnosťami"
+      voc: "kreativnosti"

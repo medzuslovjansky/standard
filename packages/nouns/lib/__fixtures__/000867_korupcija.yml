@@ -1,0 +1,22 @@
+---
+  id: "867"
+  word: "korupcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korupcija"
+      acc: "korupcijų"
+      gen: "korupcije"
+      loc: "korupciji"
+      dat: "korupciji"
+      ins: "korupcijejų"
+      voc: "korupcijo"
+    plural: 
+      nom: "korupcije"
+      acc: "korupcije"
+      gen: "korupcij"
+      loc: "korupcijah"
+      dat: "korupcijam"
+      ins: "korupcijami"
+      voc: "korupcije"

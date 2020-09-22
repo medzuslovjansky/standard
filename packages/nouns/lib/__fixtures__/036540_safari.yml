@@ -1,0 +1,22 @@
+---
+  id: "36540"
+  word: "safari"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "safari"
+      acc: "safarų"
+      gen: "safare"
+      loc: "safari"
+      dat: "safari"
+      ins: "safarejų"
+      voc: "safaro"
+    plural: 
+      nom: "safare"
+      acc: "safare"
+      gen: "safar"
+      loc: "safarah"
+      dat: "safaram"
+      ins: "safarami"
+      voc: "safare"

@@ -1,0 +1,23 @@
+---
+  id: "2307"
+  word: "aktivist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "aktivist"
+      acc: "aktivista"
+      gen: "aktivista"
+      loc: "aktivistu"
+      dat: "aktivistu"
+      ins: "aktivistom"
+      voc: "aktiviste"
+    plural: 
+      nom: "aktivisti"
+      acc: "aktivistov"
+      gen: "aktivistov"
+      loc: "aktivistah"
+      dat: "aktivistam"
+      ins: "aktivistami"
+      voc: "aktivisti"

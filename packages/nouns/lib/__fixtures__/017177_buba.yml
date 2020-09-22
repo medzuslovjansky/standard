@@ -1,0 +1,22 @@
+---
+  id: "17177"
+  word: "buba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "buba"
+      acc: "bubų"
+      gen: "buby"
+      loc: "bubě"
+      dat: "bubě"
+      ins: "bubojų"
+      voc: "bubo"
+    plural: 
+      nom: "buby"
+      acc: "buby"
+      gen: "bub"
+      loc: "bubah"
+      dat: "bubam"
+      ins: "bubami"
+      voc: "buby"

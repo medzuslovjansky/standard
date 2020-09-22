@@ -1,0 +1,22 @@
+---
+  id: "27298"
+  word: "lopatka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lopatka"
+      acc: "lopatkų"
+      gen: "lopatky"
+      loc: "lopatkě"
+      dat: "lopatkě"
+      ins: "lopatkojų"
+      voc: "lopatko"
+    plural: 
+      nom: "lopatky"
+      acc: "lopatky"
+      gen: "lopatȯk"
+      loc: "lopatkah"
+      dat: "lopatkam"
+      ins: "lopatkami"
+      voc: "lopatky"

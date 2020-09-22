@@ -1,0 +1,23 @@
+---
+  id: "12059"
+  word: "rybaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rybaŕ"
+      acc: "rybaŕa"
+      gen: "rybaŕa"
+      loc: "rybaŕu"
+      dat: "rybaŕu"
+      ins: "rybaŕem"
+      voc: "rybaŕu"
+    plural: 
+      nom: "rybari"
+      acc: "rybaŕev"
+      gen: "rybaŕev"
+      loc: "rybaŕah"
+      dat: "rybaŕam"
+      ins: "rybaŕami"
+      voc: "rybari"

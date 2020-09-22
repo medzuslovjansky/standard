@@ -1,0 +1,22 @@
+---
+  id: "34627"
+  word: "podton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podton"
+      acc: "podton"
+      gen: "podtona"
+      loc: "podtonu"
+      dat: "podtonu"
+      ins: "podtonom"
+      voc: "podtone"
+    plural: 
+      nom: "podtony"
+      acc: "podtony"
+      gen: "podtonov"
+      loc: "podtonah"
+      dat: "podtonam"
+      ins: "podtonami"
+      voc: "podtony"

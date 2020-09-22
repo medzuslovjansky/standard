@@ -1,0 +1,22 @@
+---
+  id: "869"
+  word: "pěna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pěna"
+      acc: "pěnų"
+      gen: "pěny"
+      loc: "pěně"
+      dat: "pěně"
+      ins: "pěnojų"
+      voc: "pěno"
+    plural: 
+      nom: "pěny"
+      acc: "pěny"
+      gen: "pěn"
+      loc: "pěnah"
+      dat: "pěnam"
+      ins: "pěnami"
+      voc: "pěny"

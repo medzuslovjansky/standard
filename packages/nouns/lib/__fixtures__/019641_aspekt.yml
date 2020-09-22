@@ -1,0 +1,22 @@
+---
+  id: "19641"
+  word: "aspekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aspekt"
+      acc: "aspekt"
+      gen: "aspekta"
+      loc: "aspektu"
+      dat: "aspektu"
+      ins: "aspektom"
+      voc: "aspekte"
+    plural: 
+      nom: "aspekty"
+      acc: "aspekty"
+      gen: "aspektov"
+      loc: "aspektah"
+      dat: "aspektam"
+      ins: "aspektami"
+      voc: "aspekty"

@@ -1,0 +1,22 @@
+---
+  id: "22802"
+  word: "sirotišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sirotišče"
+      acc: "sirotišče"
+      gen: "sirotišča"
+      loc: "sirotišču"
+      dat: "sirotišču"
+      ins: "sirotiščem"
+      voc: "sirotišče"
+    plural: 
+      nom: "sirotišča"
+      acc: "sirotišča"
+      gen: "sirotišč"
+      loc: "sirotiščah"
+      dat: "sirotiščam"
+      ins: "sirotiščami"
+      voc: "sirotišča"

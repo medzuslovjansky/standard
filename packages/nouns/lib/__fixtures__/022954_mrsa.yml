@@ -1,0 +1,22 @@
+---
+  id: "22954"
+  word: "mŕša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mŕša"
+      acc: "mŕšų"
+      gen: "mŕše"
+      loc: "mŕši"
+      dat: "mŕši"
+      ins: "mŕšejų"
+      voc: "mŕšo"
+    plural: 
+      nom: "mŕše"
+      acc: "mŕše"
+      gen: "mŕš"
+      loc: "mŕšah"
+      dat: "mŕšam"
+      ins: "mŕšami"
+      voc: "mŕše"

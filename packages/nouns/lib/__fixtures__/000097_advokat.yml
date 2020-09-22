@@ -1,0 +1,23 @@
+---
+  id: "97"
+  word: "advokat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "advokat"
+      acc: "advokata"
+      gen: "advokata"
+      loc: "advokatu"
+      dat: "advokatu"
+      ins: "advokatom"
+      voc: "advokate"
+    plural: 
+      nom: "advokati"
+      acc: "advokatov"
+      gen: "advokatov"
+      loc: "advokatah"
+      dat: "advokatam"
+      ins: "advokatami"
+      voc: "advokati"

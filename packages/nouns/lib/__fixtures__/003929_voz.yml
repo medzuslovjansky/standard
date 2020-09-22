@@ -1,0 +1,22 @@
+---
+  id: "3929"
+  word: "voz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "voz"
+      acc: "voz"
+      gen: "voza"
+      loc: "vozu"
+      dat: "vozu"
+      ins: "vozom"
+      voc: "voze"
+    plural: 
+      nom: "vozy"
+      acc: "vozy"
+      gen: "vozov"
+      loc: "vozah"
+      dat: "vozam"
+      ins: "vozami"
+      voc: "vozy"

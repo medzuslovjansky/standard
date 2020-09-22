@@ -1,0 +1,22 @@
+---
+  id: "99"
+  word: "aeroport"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aeroport"
+      acc: "aeroport"
+      gen: "aeroporta"
+      loc: "aeroportu"
+      dat: "aeroportu"
+      ins: "aeroportom"
+      voc: "aeroporte"
+    plural: 
+      nom: "aeroporty"
+      acc: "aeroporty"
+      gen: "aeroportov"
+      loc: "aeroportah"
+      dat: "aeroportam"
+      ins: "aeroportami"
+      voc: "aeroporty"

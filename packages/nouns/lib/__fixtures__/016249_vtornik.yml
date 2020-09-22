@@ -1,0 +1,22 @@
+---
+  id: "16249"
+  word: "vtornik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vtornik"
+      acc: "vtornik"
+      gen: "vtornika"
+      loc: "vtorniku"
+      dat: "vtorniku"
+      ins: "vtornikom"
+      voc: "vtorniče"
+    plural: 
+      nom: "vtorniky"
+      acc: "vtorniky"
+      gen: "vtornikov"
+      loc: "vtornikah"
+      dat: "vtornikam"
+      ins: "vtornikami"
+      voc: "vtorniky"

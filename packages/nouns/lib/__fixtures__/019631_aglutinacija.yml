@@ -1,0 +1,15 @@
+---
+  id: "19631"
+  word: "aglutinacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aglutinacija"
+      acc: "aglutinacijų"
+      gen: "aglutinacije"
+      loc: "aglutinaciji"
+      dat: "aglutinaciji"
+      ins: "aglutinacijejų"
+      voc: "aglutinacijo"

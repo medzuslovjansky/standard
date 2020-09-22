@@ -1,0 +1,22 @@
+---
+  id: "11817"
+  word: "råzměšćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzměšćeńje"
+      acc: "råzměšćeńje"
+      gen: "råzměšćeńja"
+      loc: "råzměšćeńju"
+      dat: "råzměšćeńju"
+      ins: "råzměšćeńjem"
+      voc: "råzměšćeńje"
+    plural: 
+      nom: "råzměšćeńja"
+      acc: "råzměšćeńja"
+      gen: "råzměšćenij"
+      loc: "råzměšćeńjah"
+      dat: "råzměšćeńjam"
+      ins: "råzměšćeńjami"
+      voc: "råzměšćeńja"

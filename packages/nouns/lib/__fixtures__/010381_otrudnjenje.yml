@@ -1,0 +1,22 @@
+---
+  id: "10381"
+  word: "otrudnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "otrudnjeńje"
+      acc: "otrudnjeńje"
+      gen: "otrudnjeńja"
+      loc: "otrudnjeńju"
+      dat: "otrudnjeńju"
+      ins: "otrudnjeńjem"
+      voc: "otrudnjeńje"
+    plural: 
+      nom: "otrudnjeńja"
+      acc: "otrudnjeńja"
+      gen: "otrudnjenij"
+      loc: "otrudnjeńjah"
+      dat: "otrudnjeńjam"
+      ins: "otrudnjeńjami"
+      voc: "otrudnjeńja"

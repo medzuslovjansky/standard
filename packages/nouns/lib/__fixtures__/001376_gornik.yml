@@ -1,0 +1,23 @@
+---
+  id: "1376"
+  word: "gornik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gornik"
+      acc: "gornika"
+      gen: "gornika"
+      loc: "gorniku"
+      dat: "gorniku"
+      ins: "gornikom"
+      voc: "gorniče"
+    plural: 
+      nom: "gorniki"
+      acc: "gornikov"
+      gen: "gornikov"
+      loc: "gornikah"
+      dat: "gornikam"
+      ins: "gornikami"
+      voc: "gorniki"

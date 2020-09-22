@@ -1,0 +1,22 @@
+---
+  id: "18034"
+  word: "obsrědina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obsrědina"
+      acc: "obsrědinų"
+      gen: "obsrědiny"
+      loc: "obsrědině"
+      dat: "obsrědině"
+      ins: "obsrědinojų"
+      voc: "obsrědino"
+    plural: 
+      nom: "obsrědiny"
+      acc: "obsrědiny"
+      gen: "obsrědin"
+      loc: "obsrědinah"
+      dat: "obsrědinam"
+      ins: "obsrědinami"
+      voc: "obsrědiny"

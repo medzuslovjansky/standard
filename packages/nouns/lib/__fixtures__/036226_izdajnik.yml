@@ -1,0 +1,23 @@
+---
+  id: "36226"
+  word: "izdajnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izdajnik"
+      acc: "izdajnika"
+      gen: "izdajnika"
+      loc: "izdajniku"
+      dat: "izdajniku"
+      ins: "izdajnikom"
+      voc: "izdajniče"
+    plural: 
+      nom: "izdajniki"
+      acc: "izdajnikov"
+      gen: "izdajnikov"
+      loc: "izdajnikah"
+      dat: "izdajnikam"
+      ins: "izdajnikami"
+      voc: "izdajniki"

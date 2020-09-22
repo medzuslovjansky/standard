@@ -1,0 +1,22 @@
+---
+  id: "769"
+  word: "informacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "informacija"
+      acc: "informacijų"
+      gen: "informacije"
+      loc: "informaciji"
+      dat: "informaciji"
+      ins: "informacijejų"
+      voc: "informacijo"
+    plural: 
+      nom: "informacije"
+      acc: "informacije"
+      gen: "informacij"
+      loc: "informacijah"
+      dat: "informacijam"
+      ins: "informacijami"
+      voc: "informacije"

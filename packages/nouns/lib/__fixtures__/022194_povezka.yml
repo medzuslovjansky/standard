@@ -1,0 +1,22 @@
+---
+  id: "22194"
+  word: "povęzka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povęzka"
+      acc: "povęzkų"
+      gen: "povęzky"
+      loc: "povęzkě"
+      dat: "povęzkě"
+      ins: "povęzkojų"
+      voc: "povęzko"
+    plural: 
+      nom: "povęzky"
+      acc: "povęzky"
+      gen: "povęzȯk"
+      loc: "povęzkah"
+      dat: "povęzkam"
+      ins: "povęzkami"
+      voc: "povęzky"

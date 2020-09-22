@@ -1,0 +1,22 @@
+---
+  id: "11013"
+  word: "postelina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "postelina"
+      acc: "postelinų"
+      gen: "posteliny"
+      loc: "postelině"
+      dat: "postelině"
+      ins: "postelinojų"
+      voc: "postelino"
+    plural: 
+      nom: "posteliny"
+      acc: "posteliny"
+      gen: "postelin"
+      loc: "postelinah"
+      dat: "postelinam"
+      ins: "postelinami"
+      voc: "posteliny"

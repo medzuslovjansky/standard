@@ -1,0 +1,22 @@
+---
+  id: "146"
+  word: "oksid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oksid"
+      acc: "oksid"
+      gen: "oksida"
+      loc: "oksidu"
+      dat: "oksidu"
+      ins: "oksidom"
+      voc: "okside"
+    plural: 
+      nom: "oksidy"
+      acc: "oksidy"
+      gen: "oksidov"
+      loc: "oksidah"
+      dat: "oksidam"
+      ins: "oksidami"
+      voc: "oksidy"

@@ -1,0 +1,23 @@
+---
+  id: "23229"
+  word: "idiot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "idiot"
+      acc: "idiota"
+      gen: "idiota"
+      loc: "idiotu"
+      dat: "idiotu"
+      ins: "idiotom"
+      voc: "idiote"
+    plural: 
+      nom: "idioti"
+      acc: "idiotov"
+      gen: "idiotov"
+      loc: "idiotah"
+      dat: "idiotam"
+      ins: "idiotami"
+      voc: "idioti"

@@ -1,0 +1,23 @@
+---
+  id: "12672"
+  word: "strěľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "strěľnik"
+      acc: "strěľnika"
+      gen: "strěľnika"
+      loc: "strěľniku"
+      dat: "strěľniku"
+      ins: "strěľnikom"
+      voc: "strěľniče"
+    plural: 
+      nom: "strěľniki"
+      acc: "strěľnikov"
+      gen: "strěľnikov"
+      loc: "strěľnikah"
+      dat: "strěľnikam"
+      ins: "strěľnikami"
+      voc: "strěľniki"

@@ -1,0 +1,22 @@
+---
+  id: "2040"
+  word: "doktrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "doktrina"
+      acc: "doktrinų"
+      gen: "doktriny"
+      loc: "doktrině"
+      dat: "doktrině"
+      ins: "doktrinojų"
+      voc: "doktrino"
+    plural: 
+      nom: "doktriny"
+      acc: "doktriny"
+      gen: "doktrin"
+      loc: "doktrinah"
+      dat: "doktrinam"
+      ins: "doktrinami"
+      voc: "doktriny"

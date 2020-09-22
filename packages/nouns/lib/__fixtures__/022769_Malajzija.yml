@@ -1,0 +1,15 @@
+---
+  id: "22769"
+  word: "Malajzija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Malajzija"
+      acc: "Malajzijų"
+      gen: "Malajzije"
+      loc: "Malajziji"
+      dat: "Malajziji"
+      ins: "Malajzijejų"
+      voc: "Malajzijo"

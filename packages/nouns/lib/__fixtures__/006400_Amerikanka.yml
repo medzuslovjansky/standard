@@ -1,0 +1,22 @@
+---
+  id: "6400"
+  word: "Amerikanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Amerikanka"
+      acc: "Amerikankų"
+      gen: "Amerikanky"
+      loc: "Amerikankě"
+      dat: "Amerikankě"
+      ins: "Amerikankojų"
+      voc: "Amerikanko"
+    plural: 
+      nom: "Amerikanky"
+      acc: "Amerikanky"
+      gen: "Amerikanȯk"
+      loc: "Amerikankah"
+      dat: "Amerikankam"
+      ins: "Amerikankami"
+      voc: "Amerikanky"

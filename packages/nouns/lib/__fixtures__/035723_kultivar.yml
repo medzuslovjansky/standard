@@ -1,0 +1,22 @@
+---
+  id: "35723"
+  word: "kultivar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kultivar"
+      acc: "kultivar"
+      gen: "kultivara"
+      loc: "kultivaru"
+      dat: "kultivaru"
+      ins: "kultivarom"
+      voc: "kultivare"
+    plural: 
+      nom: "kultivary"
+      acc: "kultivary"
+      gen: "kultivarov"
+      loc: "kultivarah"
+      dat: "kultivaram"
+      ins: "kultivarami"
+      voc: "kultivary"

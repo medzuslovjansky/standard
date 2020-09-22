@@ -1,0 +1,22 @@
+---
+  id: "3096"
+  word: "vikend"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vikend"
+      acc: "vikend"
+      gen: "vikenda"
+      loc: "vikendu"
+      dat: "vikendu"
+      ins: "vikendom"
+      voc: "vikende"
+    plural: 
+      nom: "vikendy"
+      acc: "vikendy"
+      gen: "vikendov"
+      loc: "vikendah"
+      dat: "vikendam"
+      ins: "vikendami"
+      voc: "vikendy"

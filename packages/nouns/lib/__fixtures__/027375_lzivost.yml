@@ -1,0 +1,22 @@
+---
+  id: "27375"
+  word: "lživosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lživosť"
+      acc: "lživosť"
+      gen: "lživosti"
+      loc: "lživosti"
+      dat: "lživosti"
+      ins: "lživosťjų"
+      voc: "lživosti"
+    plural: 
+      nom: "lživosti"
+      acc: "lživosti"
+      gen: "lživostij"
+      loc: "lživosťah"
+      dat: "lživosťam"
+      ins: "lživosťami"
+      voc: "lživosti"

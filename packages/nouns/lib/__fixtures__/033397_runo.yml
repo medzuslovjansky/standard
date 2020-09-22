@@ -1,0 +1,22 @@
+---
+  id: "33397"
+  word: "runo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "runo"
+      acc: "runo"
+      gen: "runa"
+      loc: "runu"
+      dat: "runu"
+      ins: "runom"
+      voc: "runo"
+    plural: 
+      nom: "runa"
+      acc: "runa"
+      gen: "run"
+      loc: "runah"
+      dat: "runam"
+      ins: "runami"
+      voc: "runa"

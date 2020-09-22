@@ -1,0 +1,22 @@
+---
+  id: "33198"
+  word: "fejerverk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fejerverk"
+      acc: "fejerverk"
+      gen: "fejerverka"
+      loc: "fejerverku"
+      dat: "fejerverku"
+      ins: "fejerverkom"
+      voc: "fejerverče"
+    plural: 
+      nom: "fejerverky"
+      acc: "fejerverky"
+      gen: "fejerverkov"
+      loc: "fejerverkah"
+      dat: "fejerverkam"
+      ins: "fejerverkami"
+      voc: "fejerverky"

@@ -1,0 +1,23 @@
+---
+  id: "26388"
+  word: "jezdec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jezdec"
+      acc: "jezdca"
+      gen: "jezdca"
+      loc: "jezdcu"
+      dat: "jezdcu"
+      ins: "jezdcem"
+      voc: "jezdče"
+    plural: 
+      nom: "jezdci"
+      acc: "jezdcev"
+      gen: "jezdcev"
+      loc: "jezdcah"
+      dat: "jezdcam"
+      ins: "jezdcami"
+      voc: "jezdci"

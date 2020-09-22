@@ -1,0 +1,22 @@
+---
+  id: "1756"
+  word: "dŕžava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dŕžava"
+      acc: "dŕžavų"
+      gen: "dŕžavy"
+      loc: "dŕžavě"
+      dat: "dŕžavě"
+      ins: "dŕžavojų"
+      voc: "dŕžavo"
+    plural: 
+      nom: "dŕžavy"
+      acc: "dŕžavy"
+      gen: "dŕžav"
+      loc: "dŕžavah"
+      dat: "dŕžavam"
+      ins: "dŕžavami"
+      voc: "dŕžavy"

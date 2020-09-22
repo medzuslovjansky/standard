@@ -1,0 +1,22 @@
+---
+  id: "33748"
+  word: "križevka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "križevka"
+      acc: "križevkų"
+      gen: "križevky"
+      loc: "križevkě"
+      dat: "križevkě"
+      ins: "križevkojų"
+      voc: "križevko"
+    plural: 
+      nom: "križevky"
+      acc: "križevky"
+      gen: "križevȯk"
+      loc: "križevkah"
+      dat: "križevkam"
+      ins: "križevkami"
+      voc: "križevky"

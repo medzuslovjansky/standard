@@ -1,0 +1,22 @@
+---
+  id: "26680"
+  word: "kopytnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kopytnik"
+      acc: "kopytnik"
+      gen: "kopytnika"
+      loc: "kopytniku"
+      dat: "kopytniku"
+      ins: "kopytnikom"
+      voc: "kopytniče"
+    plural: 
+      nom: "kopytniky"
+      acc: "kopytniky"
+      gen: "kopytnikov"
+      loc: "kopytnikah"
+      dat: "kopytnikam"
+      ins: "kopytnikami"
+      voc: "kopytniky"

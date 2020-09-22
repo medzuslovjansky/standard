@@ -1,0 +1,22 @@
+---
+  id: "20322"
+  word: "žilišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žilišče"
+      acc: "žilišče"
+      gen: "žilišča"
+      loc: "žilišču"
+      dat: "žilišču"
+      ins: "žiliščem"
+      voc: "žilišče"
+    plural: 
+      nom: "žilišča"
+      acc: "žilišča"
+      gen: "žilišč"
+      loc: "žiliščah"
+      dat: "žiliščam"
+      ins: "žiliščami"
+      voc: "žilišča"

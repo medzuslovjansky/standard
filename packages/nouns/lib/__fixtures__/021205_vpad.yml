@@ -1,0 +1,22 @@
+---
+  id: "21205"
+  word: "vpad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vpad"
+      acc: "vpad"
+      gen: "vpada"
+      loc: "vpadu"
+      dat: "vpadu"
+      ins: "vpadom"
+      voc: "vpade"
+    plural: 
+      nom: "vpady"
+      acc: "vpady"
+      gen: "vpadov"
+      loc: "vpadah"
+      dat: "vpadam"
+      ins: "vpadami"
+      voc: "vpady"

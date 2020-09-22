@@ -1,0 +1,15 @@
+---
+  id: "5928"
+  word: "Maroko"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Maroko"
+      acc: "Maroko"
+      gen: "Maroka"
+      loc: "Maroku"
+      dat: "Maroku"
+      ins: "Marokom"
+      voc: "Maroko"

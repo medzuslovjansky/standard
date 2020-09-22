@@ -1,0 +1,22 @@
+---
+  id: "21508"
+  word: "råznorodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råznorodnosť"
+      acc: "råznorodnosť"
+      gen: "råznorodnosti"
+      loc: "råznorodnosti"
+      dat: "råznorodnosti"
+      ins: "råznorodnosťjų"
+      voc: "råznorodnosti"
+    plural: 
+      nom: "råznorodnosti"
+      acc: "råznorodnosti"
+      gen: "råznorodnostij"
+      loc: "råznorodnosťah"
+      dat: "råznorodnosťam"
+      ins: "råznorodnosťami"
+      voc: "råznorodnosti"

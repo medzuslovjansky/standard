@@ -1,0 +1,22 @@
+---
+  id: "2559"
+  word: "kapsula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapsula"
+      acc: "kapsulų"
+      gen: "kapsuly"
+      loc: "kapsulě"
+      dat: "kapsulě"
+      ins: "kapsulojų"
+      voc: "kapsulo"
+    plural: 
+      nom: "kapsuly"
+      acc: "kapsuly"
+      gen: "kapsul"
+      loc: "kapsulah"
+      dat: "kapsulam"
+      ins: "kapsulami"
+      voc: "kapsuly"

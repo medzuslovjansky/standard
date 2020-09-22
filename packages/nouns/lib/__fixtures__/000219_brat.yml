@@ -1,0 +1,23 @@
+---
+  id: "219"
+  word: "brat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "brat"
+      acc: "brata"
+      gen: "brata"
+      loc: "bratu"
+      dat: "bratu"
+      ins: "bratom"
+      voc: "brate"
+    plural: 
+      nom: "brati"
+      acc: "bratov"
+      gen: "bratov"
+      loc: "bratah"
+      dat: "bratam"
+      ins: "bratami"
+      voc: "brati"

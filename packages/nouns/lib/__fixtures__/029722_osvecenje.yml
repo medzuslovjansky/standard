@@ -1,0 +1,22 @@
+---
+  id: "29722"
+  word: "osvěćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osvěćeńje"
+      acc: "osvěćeńje"
+      gen: "osvěćeńja"
+      loc: "osvěćeńju"
+      dat: "osvěćeńju"
+      ins: "osvěćeńjem"
+      voc: "osvěćeńje"
+    plural: 
+      nom: "osvěćeńja"
+      acc: "osvěćeńja"
+      gen: "osvěćenij"
+      loc: "osvěćeńjah"
+      dat: "osvěćeńjam"
+      ins: "osvěćeńjami"
+      voc: "osvěćeńja"

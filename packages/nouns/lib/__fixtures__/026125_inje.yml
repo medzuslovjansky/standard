@@ -1,0 +1,22 @@
+---
+  id: "26125"
+  word: "inje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "inje"
+      acc: "inje"
+      gen: "inja"
+      loc: "inju"
+      dat: "inju"
+      ins: "injem"
+      voc: "inje"
+    plural: 
+      nom: "inja"
+      acc: "inja"
+      gen: "inij"
+      loc: "injah"
+      dat: "injam"
+      ins: "injami"
+      voc: "inja"

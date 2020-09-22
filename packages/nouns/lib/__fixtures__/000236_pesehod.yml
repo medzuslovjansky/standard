@@ -1,0 +1,47 @@
+---
+  - 
+    id: "236"
+    word: "pěšehod"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "pěšehod"
+        acc: "pěšehoda"
+        gen: "pěšehoda"
+        loc: "pěšehodu"
+        dat: "pěšehodu"
+        ins: "pěšehodom"
+        voc: "pěšehode"
+      plural: 
+        nom: "pěšehodi"
+        acc: "pěšehodov"
+        gen: "pěšehodov"
+        loc: "pěšehodah"
+        dat: "pěšehodam"
+        ins: "pěšehodami"
+        voc: "pěšehodi"
+  - 
+    id: "236"
+    word: "pěšehodec"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "pěšehodec"
+        acc: "pěšehodca"
+        gen: "pěšehodca"
+        loc: "pěšehodcu"
+        dat: "pěšehodcu"
+        ins: "pěšehodcem"
+        voc: "pěšehodče"
+      plural: 
+        nom: "pěšehodci"
+        acc: "pěšehodcev"
+        gen: "pěšehodcev"
+        loc: "pěšehodcah"
+        dat: "pěšehodcam"
+        ins: "pěšehodcami"
+        voc: "pěšehodci"

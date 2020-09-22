@@ -1,0 +1,23 @@
+---
+  id: "26086"
+  word: "igo"
+  meta: 
+    irregularity: "(iga/ižese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "igo"
+      acc: "igo"
+      gen: "iga / ižese"
+      loc: "igu / ižesi"
+      dat: "igu / ižesi"
+      ins: "igom / ižesem"
+      voc: "igo"
+    plural: 
+      nom: "iga / ižesa"
+      acc: "iga / ižesa"
+      gen: "ig / ižes"
+      loc: "igah / ižesah"
+      dat: "igam / ižesam"
+      ins: "igami / ižesami"
+      voc: "iga / ižesa"

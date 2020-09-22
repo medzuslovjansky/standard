@@ -1,0 +1,22 @@
+---
+  id: "658"
+  word: "kadȯlb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kadȯlb"
+      acc: "kadȯlb"
+      gen: "kadȯlba"
+      loc: "kadȯlbu"
+      dat: "kadȯlbu"
+      ins: "kadȯlbom"
+      voc: "kadȯlbe"
+    plural: 
+      nom: "kadȯlby"
+      acc: "kadȯlby"
+      gen: "kadȯlbov"
+      loc: "kadȯlbah"
+      dat: "kadȯlbam"
+      ins: "kadȯlbami"
+      voc: "kadȯlby"

@@ -1,0 +1,22 @@
+---
+  id: "7747"
+  word: "heroina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "heroina"
+      acc: "heroinų"
+      gen: "heroiny"
+      loc: "heroině"
+      dat: "heroině"
+      ins: "heroinojų"
+      voc: "heroino"
+    plural: 
+      nom: "heroiny"
+      acc: "heroiny"
+      gen: "heroin"
+      loc: "heroinah"
+      dat: "heroinam"
+      ins: "heroinami"
+      voc: "heroiny"

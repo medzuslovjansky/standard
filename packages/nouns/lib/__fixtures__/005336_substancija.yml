@@ -1,0 +1,22 @@
+---
+  id: "5336"
+  word: "substancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "substancija"
+      acc: "substancijų"
+      gen: "substancije"
+      loc: "substanciji"
+      dat: "substanciji"
+      ins: "substancijejų"
+      voc: "substancijo"
+    plural: 
+      nom: "substancije"
+      acc: "substancije"
+      gen: "substancij"
+      loc: "substancijah"
+      dat: "substancijam"
+      ins: "substancijami"
+      voc: "substancije"

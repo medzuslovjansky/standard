@@ -1,0 +1,22 @@
+---
+  id: "1306"
+  word: "vědro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vědro"
+      acc: "vědro"
+      gen: "vědra"
+      loc: "vědru"
+      dat: "vědru"
+      ins: "vědrom"
+      voc: "vědro"
+    plural: 
+      nom: "vědra"
+      acc: "vědra"
+      gen: "vědr"
+      loc: "vědrah"
+      dat: "vědram"
+      ins: "vědrami"
+      voc: "vědra"

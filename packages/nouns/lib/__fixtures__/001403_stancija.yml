@@ -1,0 +1,22 @@
+---
+  id: "1403"
+  word: "stancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stancija"
+      acc: "stancijų"
+      gen: "stancije"
+      loc: "stanciji"
+      dat: "stanciji"
+      ins: "stancijejų"
+      voc: "stancijo"
+    plural: 
+      nom: "stancije"
+      acc: "stancije"
+      gen: "stancij"
+      loc: "stancijah"
+      dat: "stancijam"
+      ins: "stancijami"
+      voc: "stancije"

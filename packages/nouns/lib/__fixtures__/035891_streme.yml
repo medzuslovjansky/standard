@@ -1,0 +1,22 @@
+---
+  id: "35891"
+  word: "stremę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stremę"
+      acc: "stremę"
+      gen: "stremene / stremena"
+      loc: "stremeni / stremenu"
+      dat: "stremeni / stremenu"
+      ins: "stremenem / stremenom"
+      voc: "stremę"
+    plural: 
+      nom: "stremena"
+      acc: "stremena"
+      gen: "stremen"
+      loc: "stremenah"
+      dat: "stremenam"
+      ins: "stremenami"
+      voc: "stremena"

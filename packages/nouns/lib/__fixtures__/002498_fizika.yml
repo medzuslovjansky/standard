@@ -1,0 +1,15 @@
+---
+  id: "2498"
+  word: "fizika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fizika"
+      acc: "fizikų"
+      gen: "fiziky"
+      loc: "fizikě"
+      dat: "fizikě"
+      ins: "fizikojų"
+      voc: "fiziko"

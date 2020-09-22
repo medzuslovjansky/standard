@@ -1,0 +1,22 @@
+---
+  id: "35539"
+  word: "sčet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sčet"
+      acc: "sčet"
+      gen: "sčeta"
+      loc: "sčetu"
+      dat: "sčetu"
+      ins: "sčetom"
+      voc: "sčete"
+    plural: 
+      nom: "sčety"
+      acc: "sčety"
+      gen: "sčetov"
+      loc: "sčetah"
+      dat: "sčetam"
+      ins: "sčetami"
+      voc: "sčety"

@@ -1,0 +1,22 @@
+---
+  id: "35873"
+  word: "dinar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dinar"
+      acc: "dinar"
+      gen: "dinara"
+      loc: "dinaru"
+      dat: "dinaru"
+      ins: "dinarom"
+      voc: "dinare"
+    plural: 
+      nom: "dinary"
+      acc: "dinary"
+      gen: "dinarov"
+      loc: "dinarah"
+      dat: "dinaram"
+      ins: "dinarami"
+      voc: "dinary"

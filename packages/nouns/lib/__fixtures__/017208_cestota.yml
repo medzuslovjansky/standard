@@ -1,0 +1,22 @@
+---
+  id: "17208"
+  word: "čęstota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čęstota"
+      acc: "čęstotų"
+      gen: "čęstoty"
+      loc: "čęstotě"
+      dat: "čęstotě"
+      ins: "čęstotojų"
+      voc: "čęstoto"
+    plural: 
+      nom: "čęstoty"
+      acc: "čęstoty"
+      gen: "čęstot"
+      loc: "čęstotah"
+      dat: "čęstotam"
+      ins: "čęstotami"
+      voc: "čęstoty"

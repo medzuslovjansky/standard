@@ -1,0 +1,22 @@
+---
+  id: "368"
+  word: "tona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tona"
+      acc: "tonų"
+      gen: "tony"
+      loc: "toně"
+      dat: "toně"
+      ins: "tonojų"
+      voc: "tono"
+    plural: 
+      nom: "tony"
+      acc: "tony"
+      gen: "ton"
+      loc: "tonah"
+      dat: "tonam"
+      ins: "tonami"
+      voc: "tony"

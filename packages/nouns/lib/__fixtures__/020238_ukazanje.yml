@@ -1,0 +1,22 @@
+---
+  id: "20238"
+  word: "ukazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ukazańje"
+      acc: "ukazańje"
+      gen: "ukazańja"
+      loc: "ukazańju"
+      dat: "ukazańju"
+      ins: "ukazańjem"
+      voc: "ukazańje"
+    plural: 
+      nom: "ukazańja"
+      acc: "ukazańja"
+      gen: "ukazanij"
+      loc: "ukazańjah"
+      dat: "ukazańjam"
+      ins: "ukazańjami"
+      voc: "ukazańja"

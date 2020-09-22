@@ -1,0 +1,22 @@
+---
+  id: "489"
+  word: "raz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "raz"
+      acc: "raz"
+      gen: "raza"
+      loc: "razu"
+      dat: "razu"
+      ins: "razom"
+      voc: "raze"
+    plural: 
+      nom: "razy"
+      acc: "razy"
+      gen: "razov"
+      loc: "razah"
+      dat: "razam"
+      ins: "razami"
+      voc: "razy"

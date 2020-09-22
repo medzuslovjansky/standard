@@ -1,0 +1,23 @@
+---
+  id: "29627"
+  word: "oskvŕnitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "oskvŕnitelj"
+      acc: "oskvŕnitelja"
+      gen: "oskvŕnitelja"
+      loc: "oskvŕnitelju"
+      dat: "oskvŕnitelju"
+      ins: "oskvŕniteljem"
+      voc: "oskvŕnitelju"
+    plural: 
+      nom: "oskvŕnitelji"
+      acc: "oskvŕniteljev"
+      gen: "oskvŕniteljev"
+      loc: "oskvŕniteljah"
+      dat: "oskvŕniteljam"
+      ins: "oskvŕniteljami"
+      voc: "oskvŕnitelji"

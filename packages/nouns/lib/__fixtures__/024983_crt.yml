@@ -1,0 +1,23 @@
+---
+  id: "24983"
+  word: "črt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črt"
+      acc: "črta"
+      gen: "črta"
+      loc: "črtu"
+      dat: "črtu"
+      ins: "črtom"
+      voc: "črte"
+    plural: 
+      nom: "črti"
+      acc: "črtov"
+      gen: "črtov"
+      loc: "črtah"
+      dat: "črtam"
+      ins: "črtami"
+      voc: "črti"

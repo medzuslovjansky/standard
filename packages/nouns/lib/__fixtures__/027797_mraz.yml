@@ -1,0 +1,22 @@
+---
+  id: "27797"
+  word: "mråz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mråz"
+      acc: "mråz"
+      gen: "mråza"
+      loc: "mråzu"
+      dat: "mråzu"
+      ins: "mråzom"
+      voc: "mråze"
+    plural: 
+      nom: "mråzy"
+      acc: "mråzy"
+      gen: "mråzov"
+      loc: "mråzah"
+      dat: "mråzam"
+      ins: "mråzami"
+      voc: "mråzy"

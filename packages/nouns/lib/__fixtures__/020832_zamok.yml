@@ -1,0 +1,22 @@
+---
+  id: "20832"
+  word: "zamȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zamȯk"
+      acc: "zamȯk"
+      gen: "zamka"
+      loc: "zamku"
+      dat: "zamku"
+      ins: "zamkom"
+      voc: "zamče"
+    plural: 
+      nom: "zamky"
+      acc: "zamky"
+      gen: "zamkov"
+      loc: "zamkah"
+      dat: "zamkam"
+      ins: "zamkami"
+      voc: "zamky"

@@ -1,0 +1,15 @@
+---
+  id: "15773"
+  word: "avtoritety"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "avtoritety"
+      acc: "avtoritety"
+      gen: "avtoritetov"
+      loc: "avtoritetah"
+      dat: "avtoritetam"
+      ins: "avtoritetami"
+      voc: "avtoritety"

@@ -1,0 +1,22 @@
+---
+  id: "25564"
+  word: "gangrena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gangrena"
+      acc: "gangrenų"
+      gen: "gangreny"
+      loc: "gangreně"
+      dat: "gangreně"
+      ins: "gangrenojų"
+      voc: "gangreno"
+    plural: 
+      nom: "gangreny"
+      acc: "gangreny"
+      gen: "gangren"
+      loc: "gangrenah"
+      dat: "gangrenam"
+      ins: "gangrenami"
+      voc: "gangreny"

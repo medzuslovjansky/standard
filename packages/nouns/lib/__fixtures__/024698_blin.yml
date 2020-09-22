@@ -1,0 +1,22 @@
+---
+  id: "24698"
+  word: "blin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blin"
+      acc: "blin"
+      gen: "blina"
+      loc: "blinu"
+      dat: "blinu"
+      ins: "blinom"
+      voc: "bline"
+    plural: 
+      nom: "bliny"
+      acc: "bliny"
+      gen: "blinov"
+      loc: "blinah"
+      dat: "blinam"
+      ins: "blinami"
+      voc: "bliny"

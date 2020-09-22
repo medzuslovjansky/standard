@@ -1,0 +1,22 @@
+---
+  id: "33115"
+  word: "neizběžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neizběžnosť"
+      acc: "neizběžnosť"
+      gen: "neizběžnosti"
+      loc: "neizběžnosti"
+      dat: "neizběžnosti"
+      ins: "neizběžnosťjų"
+      voc: "neizběžnosti"
+    plural: 
+      nom: "neizběžnosti"
+      acc: "neizběžnosti"
+      gen: "neizběžnostij"
+      loc: "neizběžnosťah"
+      dat: "neizběžnosťam"
+      ins: "neizběžnosťami"
+      voc: "neizběžnosti"

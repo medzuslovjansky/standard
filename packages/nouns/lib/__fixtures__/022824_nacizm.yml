@@ -1,0 +1,15 @@
+---
+  id: "22824"
+  word: "nacizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nacizm"
+      acc: "nacizm"
+      gen: "nacizma"
+      loc: "nacizmu"
+      dat: "nacizmu"
+      ins: "nacizmom"
+      voc: "nacizme"

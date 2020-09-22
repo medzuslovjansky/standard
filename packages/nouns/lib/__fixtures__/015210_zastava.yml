@@ -1,0 +1,22 @@
+---
+  id: "15210"
+  word: "zastava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zastava"
+      acc: "zastavų"
+      gen: "zastavy"
+      loc: "zastavě"
+      dat: "zastavě"
+      ins: "zastavojų"
+      voc: "zastavo"
+    plural: 
+      nom: "zastavy"
+      acc: "zastavy"
+      gen: "zastav"
+      loc: "zastavah"
+      dat: "zastavam"
+      ins: "zastavami"
+      voc: "zastavy"

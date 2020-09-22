@@ -1,0 +1,23 @@
+---
+  id: "36066"
+  word: "magnat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "magnat"
+      acc: "magnata"
+      gen: "magnata"
+      loc: "magnatu"
+      dat: "magnatu"
+      ins: "magnatom"
+      voc: "magnate"
+    plural: 
+      nom: "magnati"
+      acc: "magnatov"
+      gen: "magnatov"
+      loc: "magnatah"
+      dat: "magnatam"
+      ins: "magnatami"
+      voc: "magnati"

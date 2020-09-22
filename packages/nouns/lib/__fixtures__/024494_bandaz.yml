@@ -1,0 +1,22 @@
+---
+  id: "24494"
+  word: "bandaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bandaž"
+      acc: "bandaž"
+      gen: "bandaža"
+      loc: "bandažu"
+      dat: "bandažu"
+      ins: "bandažem"
+      voc: "bandažu"
+    plural: 
+      nom: "bandaže"
+      acc: "bandaže"
+      gen: "bandažev"
+      loc: "bandažah"
+      dat: "bandažam"
+      ins: "bandažami"
+      voc: "bandaže"

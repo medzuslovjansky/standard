@@ -1,0 +1,22 @@
+---
+  id: "17018"
+  word: "prědložnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědložnik"
+      acc: "prědložnik"
+      gen: "prědložnika"
+      loc: "prědložniku"
+      dat: "prědložniku"
+      ins: "prědložnikom"
+      voc: "prědložniče"
+    plural: 
+      nom: "prědložniky"
+      acc: "prědložniky"
+      gen: "prědložnikov"
+      loc: "prědložnikah"
+      dat: "prědložnikam"
+      ins: "prědložnikami"
+      voc: "prědložniky"

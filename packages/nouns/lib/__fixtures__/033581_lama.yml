@@ -1,0 +1,22 @@
+---
+  id: "33581"
+  word: "lama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lama"
+      acc: "lamų"
+      gen: "lamy"
+      loc: "lamě"
+      dat: "lamě"
+      ins: "lamojų"
+      voc: "lamo"
+    plural: 
+      nom: "lamy"
+      acc: "lamy"
+      gen: "lam"
+      loc: "lamah"
+      dat: "lamam"
+      ins: "lamami"
+      voc: "lamy"

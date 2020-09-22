@@ -1,0 +1,22 @@
+---
+  id: "35314"
+  word: "avtorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtorka"
+      acc: "avtorkų"
+      gen: "avtorky"
+      loc: "avtorkě"
+      dat: "avtorkě"
+      ins: "avtorkojų"
+      voc: "avtorko"
+    plural: 
+      nom: "avtorky"
+      acc: "avtorky"
+      gen: "avtorȯk"
+      loc: "avtorkah"
+      dat: "avtorkam"
+      ins: "avtorkami"
+      voc: "avtorky"

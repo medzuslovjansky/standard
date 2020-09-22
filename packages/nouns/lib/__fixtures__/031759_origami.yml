@@ -1,0 +1,23 @@
+---
+  id: "31759"
+  word: "origami"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "origami"
+      acc: "origami"
+      gen: "origami"
+      loc: "origami"
+      dat: "origami"
+      ins: "origami"
+      voc: "origami"
+    plural: 
+      nom: "origami"
+      acc: "origami"
+      gen: "origami"
+      loc: "origami"
+      dat: "origami"
+      ins: "origami"
+      voc: "origami"

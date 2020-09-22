@@ -1,0 +1,23 @@
+---
+  id: "20975"
+  word: "pastuh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pastuh"
+      acc: "pastuha"
+      gen: "pastuha"
+      loc: "pastuhu"
+      dat: "pastuhu"
+      ins: "pastuhom"
+      voc: "pastuše"
+    plural: 
+      nom: "pastuhi"
+      acc: "pastuhov"
+      gen: "pastuhov"
+      loc: "pastuhah"
+      dat: "pastuham"
+      ins: "pastuhami"
+      voc: "pastuhi"

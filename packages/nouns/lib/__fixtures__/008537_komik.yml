@@ -1,0 +1,23 @@
+---
+  id: "8537"
+  word: "komik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "komik"
+      acc: "komika"
+      gen: "komika"
+      loc: "komiku"
+      dat: "komiku"
+      ins: "komikom"
+      voc: "komiče"
+    plural: 
+      nom: "komiki"
+      acc: "komikov"
+      gen: "komikov"
+      loc: "komikah"
+      dat: "komikam"
+      ins: "komikami"
+      voc: "komiki"

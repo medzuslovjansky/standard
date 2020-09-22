@@ -1,0 +1,22 @@
+---
+  id: "20206"
+  word: "talent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "talent"
+      acc: "talent"
+      gen: "talenta"
+      loc: "talentu"
+      dat: "talentu"
+      ins: "talentom"
+      voc: "talente"
+    plural: 
+      nom: "talenty"
+      acc: "talenty"
+      gen: "talentov"
+      loc: "talentah"
+      dat: "talentam"
+      ins: "talentami"
+      voc: "talenty"

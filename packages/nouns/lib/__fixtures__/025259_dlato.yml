@@ -1,0 +1,22 @@
+---
+  id: "25259"
+  word: "dlåto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dlåto"
+      acc: "dlåto"
+      gen: "dlåta"
+      loc: "dlåtu"
+      dat: "dlåtu"
+      ins: "dlåtom"
+      voc: "dlåto"
+    plural: 
+      nom: "dlåta"
+      acc: "dlåta"
+      gen: "dlåt"
+      loc: "dlåtah"
+      dat: "dlåtam"
+      ins: "dlåtami"
+      voc: "dlåta"

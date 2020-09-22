@@ -1,0 +1,22 @@
+---
+  id: "17886"
+  word: "našijnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "našijnik"
+      acc: "našijnik"
+      gen: "našijnika"
+      loc: "našijniku"
+      dat: "našijniku"
+      ins: "našijnikom"
+      voc: "našijniče"
+    plural: 
+      nom: "našijniky"
+      acc: "našijniky"
+      gen: "našijnikov"
+      loc: "našijnikah"
+      dat: "našijnikam"
+      ins: "našijnikami"
+      voc: "našijniky"

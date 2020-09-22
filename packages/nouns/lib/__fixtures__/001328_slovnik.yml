@@ -1,0 +1,22 @@
+---
+  id: "1328"
+  word: "slovnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slovnik"
+      acc: "slovnik"
+      gen: "slovnika"
+      loc: "slovniku"
+      dat: "slovniku"
+      ins: "slovnikom"
+      voc: "slovniče"
+    plural: 
+      nom: "slovniky"
+      acc: "slovniky"
+      gen: "slovnikov"
+      loc: "slovnikah"
+      dat: "slovnikam"
+      ins: "slovnikami"
+      voc: "slovniky"

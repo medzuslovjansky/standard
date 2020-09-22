@@ -1,0 +1,23 @@
+---
+  id: "23575"
+  word: "hobi"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "hobi"
+      acc: "hobi"
+      gen: "hobi"
+      loc: "hobi"
+      dat: "hobi"
+      ins: "hobi"
+      voc: "hobi"
+    plural: 
+      nom: "hobi"
+      acc: "hobi"
+      gen: "hobi"
+      loc: "hobi"
+      dat: "hobi"
+      ins: "hobi"
+      voc: "hobi"

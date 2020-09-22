@@ -1,0 +1,22 @@
+---
+  id: "32868"
+  word: "odvŕtka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odvŕtka"
+      acc: "odvŕtkų"
+      gen: "odvŕtky"
+      loc: "odvŕtkě"
+      dat: "odvŕtkě"
+      ins: "odvŕtkojų"
+      voc: "odvŕtko"
+    plural: 
+      nom: "odvŕtky"
+      acc: "odvŕtky"
+      gen: "odvŕtȯk"
+      loc: "odvŕtkah"
+      dat: "odvŕtkam"
+      ins: "odvŕtkami"
+      voc: "odvŕtky"

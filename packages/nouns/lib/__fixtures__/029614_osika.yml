@@ -1,0 +1,22 @@
+---
+  id: "29614"
+  word: "osika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osika"
+      acc: "osikų"
+      gen: "osiky"
+      loc: "osikě"
+      dat: "osikě"
+      ins: "osikojų"
+      voc: "osiko"
+    plural: 
+      nom: "osiky"
+      acc: "osiky"
+      gen: "osik"
+      loc: "osikah"
+      dat: "osikam"
+      ins: "osikami"
+      voc: "osiky"

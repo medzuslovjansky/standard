@@ -1,0 +1,15 @@
+---
+  id: "23196"
+  word: "kokain"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kokain"
+      acc: "kokain"
+      gen: "kokaina"
+      loc: "kokainu"
+      dat: "kokainu"
+      ins: "kokainom"
+      voc: "kokaine"

@@ -1,0 +1,22 @@
+---
+  id: "21050"
+  word: "prěpiska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěpiska"
+      acc: "prěpiskų"
+      gen: "prěpisky"
+      loc: "prěpiskě"
+      dat: "prěpiskě"
+      ins: "prěpiskojų"
+      voc: "prěpisko"
+    plural: 
+      nom: "prěpisky"
+      acc: "prěpisky"
+      gen: "prěpisȯk"
+      loc: "prěpiskah"
+      dat: "prěpiskam"
+      ins: "prěpiskami"
+      voc: "prěpisky"

@@ -1,0 +1,22 @@
+---
+  id: "36273"
+  word: "syrovatka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "syrovatka"
+      acc: "syrovatkų"
+      gen: "syrovatky"
+      loc: "syrovatkě"
+      dat: "syrovatkě"
+      ins: "syrovatkojų"
+      voc: "syrovatko"
+    plural: 
+      nom: "syrovatky"
+      acc: "syrovatky"
+      gen: "syrovatȯk"
+      loc: "syrovatkah"
+      dat: "syrovatkam"
+      ins: "syrovatkami"
+      voc: "syrovatky"

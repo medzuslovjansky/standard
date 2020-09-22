@@ -1,0 +1,22 @@
+---
+  id: "8816"
+  word: "lędvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lędvica"
+      acc: "lędvicų"
+      gen: "lędvice"
+      loc: "lędvici"
+      dat: "lędvici"
+      ins: "lędvicejų"
+      voc: "lędvico"
+    plural: 
+      nom: "lędvice"
+      acc: "lędvice"
+      gen: "lędvic"
+      loc: "lędvicah"
+      dat: "lędvicam"
+      ins: "lędvicami"
+      voc: "lędvice"

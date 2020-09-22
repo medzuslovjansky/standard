@@ -1,0 +1,22 @@
+---
+  id: "12270"
+  word: "skripka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skripka"
+      acc: "skripkų"
+      gen: "skripky"
+      loc: "skripkě"
+      dat: "skripkě"
+      ins: "skripkojų"
+      voc: "skripko"
+    plural: 
+      nom: "skripky"
+      acc: "skripky"
+      gen: "skripȯk"
+      loc: "skripkah"
+      dat: "skripkam"
+      ins: "skripkami"
+      voc: "skripky"

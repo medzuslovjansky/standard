@@ -1,0 +1,22 @@
+---
+  id: "27145"
+  word: "lesť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lesť"
+      acc: "lesť"
+      gen: "lesti"
+      loc: "lesti"
+      dat: "lesti"
+      ins: "lesťjų"
+      voc: "lesti"
+    plural: 
+      nom: "lesti"
+      acc: "lesti"
+      gen: "lestij"
+      loc: "lesťah"
+      dat: "lesťam"
+      ins: "lesťami"
+      voc: "lesti"

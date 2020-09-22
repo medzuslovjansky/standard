@@ -1,0 +1,23 @@
+---
+  id: "35453"
+  word: "tjulenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tjulenj"
+      acc: "tjulenja"
+      gen: "tjulenja"
+      loc: "tjulenju"
+      dat: "tjulenju"
+      ins: "tjulenjem"
+      voc: "tjulenju"
+    plural: 
+      nom: "tjulenji"
+      acc: "tjulenjev"
+      gen: "tjulenjev"
+      loc: "tjulenjah"
+      dat: "tjulenjam"
+      ins: "tjulenjami"
+      voc: "tjulenji"

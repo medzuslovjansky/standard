@@ -1,0 +1,22 @@
+---
+  id: "26010"
+  word: "hręšč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hręšč"
+      acc: "hręšč"
+      gen: "hręšča"
+      loc: "hręšču"
+      dat: "hręšču"
+      ins: "hręščem"
+      voc: "hręšču"
+    plural: 
+      nom: "hręšče"
+      acc: "hręšče"
+      gen: "hręščev"
+      loc: "hręščah"
+      dat: "hręščam"
+      ins: "hręščami"
+      voc: "hręšče"

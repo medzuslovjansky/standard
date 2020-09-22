@@ -1,0 +1,22 @@
+---
+  id: "11264"
+  word: "prědstavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědstavjeńje"
+      acc: "prědstavjeńje"
+      gen: "prědstavjeńja"
+      loc: "prědstavjeńju"
+      dat: "prědstavjeńju"
+      ins: "prědstavjeńjem"
+      voc: "prědstavjeńje"
+    plural: 
+      nom: "prědstavjeńja"
+      acc: "prědstavjeńja"
+      gen: "prědstavjenij"
+      loc: "prědstavjeńjah"
+      dat: "prědstavjeńjam"
+      ins: "prědstavjeńjami"
+      voc: "prědstavjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "36775"
+  word: "vojevodstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vojevodstvo"
+      acc: "vojevodstvo"
+      gen: "vojevodstva"
+      loc: "vojevodstvu"
+      dat: "vojevodstvu"
+      ins: "vojevodstvom"
+      voc: "vojevodstvo"
+    plural: 
+      nom: "vojevodstva"
+      acc: "vojevodstva"
+      gen: "vojevodstv"
+      loc: "vojevodstvah"
+      dat: "vojevodstvam"
+      ins: "vojevodstvami"
+      voc: "vojevodstva"

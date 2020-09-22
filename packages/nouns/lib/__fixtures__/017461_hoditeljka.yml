@@ -1,0 +1,22 @@
+---
+  id: "17461"
+  word: "hoditeljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hoditeljka"
+      acc: "hoditeljkų"
+      gen: "hoditeljky"
+      loc: "hoditeljkě"
+      dat: "hoditeljkě"
+      ins: "hoditeljkojų"
+      voc: "hoditeljko"
+    plural: 
+      nom: "hoditeljky"
+      acc: "hoditeljky"
+      gen: "hoditeljek"
+      loc: "hoditeljkah"
+      dat: "hoditeljkam"
+      ins: "hoditeljkami"
+      voc: "hoditeljky"

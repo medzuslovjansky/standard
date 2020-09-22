@@ -1,0 +1,22 @@
+---
+  id: "90"
+  word: "hlěv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hlěv"
+      acc: "hlěv"
+      gen: "hlěva"
+      loc: "hlěvu"
+      dat: "hlěvu"
+      ins: "hlěvom"
+      voc: "hlěve"
+    plural: 
+      nom: "hlěvy"
+      acc: "hlěvy"
+      gen: "hlěvov"
+      loc: "hlěvah"
+      dat: "hlěvam"
+      ins: "hlěvami"
+      voc: "hlěvy"

@@ -1,0 +1,22 @@
+---
+  id: "26999"
+  word: "kurnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kurnik"
+      acc: "kurnik"
+      gen: "kurnika"
+      loc: "kurniku"
+      dat: "kurniku"
+      ins: "kurnikom"
+      voc: "kurniče"
+    plural: 
+      nom: "kurniky"
+      acc: "kurniky"
+      gen: "kurnikov"
+      loc: "kurnikah"
+      dat: "kurnikam"
+      ins: "kurnikami"
+      voc: "kurniky"

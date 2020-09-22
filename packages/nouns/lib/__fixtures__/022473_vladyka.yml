@@ -1,0 +1,23 @@
+---
+  id: "22473"
+  word: "vladyka"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vladyka"
+      acc: "vladykų"
+      gen: "vladyky"
+      loc: "vladykě"
+      dat: "vladykě"
+      ins: "vladykojų"
+      voc: "vladyko"
+    plural: 
+      nom: "vladyki"
+      acc: "vladykov"
+      gen: "vladykov"
+      loc: "vladykah"
+      dat: "vladykam"
+      ins: "vladykami"
+      voc: "vladyki"

@@ -1,0 +1,15 @@
+---
+  id: "1019"
+  word: "nezaležnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nezaležnosť"
+      acc: "nezaležnosť"
+      gen: "nezaležnosti"
+      loc: "nezaležnosti"
+      dat: "nezaležnosti"
+      ins: "nezaležnosťjų"
+      voc: "nezaležnosti"

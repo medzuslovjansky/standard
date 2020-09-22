@@ -1,0 +1,22 @@
+---
+  id: "35522"
+  word: "rěšiteljnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rěšiteljnosť"
+      acc: "rěšiteljnosť"
+      gen: "rěšiteljnosti"
+      loc: "rěšiteljnosti"
+      dat: "rěšiteljnosti"
+      ins: "rěšiteljnosťjų"
+      voc: "rěšiteljnosti"
+    plural: 
+      nom: "rěšiteljnosti"
+      acc: "rěšiteljnosti"
+      gen: "rěšiteljnostij"
+      loc: "rěšiteljnosťah"
+      dat: "rěšiteljnosťam"
+      ins: "rěšiteljnosťami"
+      voc: "rěšiteljnosti"

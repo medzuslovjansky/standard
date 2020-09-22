@@ -1,0 +1,22 @@
+---
+  id: "19638"
+  word: "argument"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "argument"
+      acc: "argument"
+      gen: "argumenta"
+      loc: "argumentu"
+      dat: "argumentu"
+      ins: "argumentom"
+      voc: "argumente"
+    plural: 
+      nom: "argumenty"
+      acc: "argumenty"
+      gen: "argumentov"
+      loc: "argumentah"
+      dat: "argumentam"
+      ins: "argumentami"
+      voc: "argumenty"

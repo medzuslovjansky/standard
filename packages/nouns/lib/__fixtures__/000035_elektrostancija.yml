@@ -1,0 +1,22 @@
+---
+  id: "35"
+  word: "elektrostancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "elektrostancija"
+      acc: "elektrostancijų"
+      gen: "elektrostancije"
+      loc: "elektrostanciji"
+      dat: "elektrostanciji"
+      ins: "elektrostancijejų"
+      voc: "elektrostancijo"
+    plural: 
+      nom: "elektrostancije"
+      acc: "elektrostancije"
+      gen: "elektrostancij"
+      loc: "elektrostancijah"
+      dat: "elektrostancijam"
+      ins: "elektrostancijami"
+      voc: "elektrostancije"

@@ -1,0 +1,22 @@
+---
+  id: "3730"
+  word: "utrata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "utrata"
+      acc: "utratų"
+      gen: "utraty"
+      loc: "utratě"
+      dat: "utratě"
+      ins: "utratojų"
+      voc: "utrato"
+    plural: 
+      nom: "utraty"
+      acc: "utraty"
+      gen: "utrat"
+      loc: "utratah"
+      dat: "utratam"
+      ins: "utratami"
+      voc: "utraty"

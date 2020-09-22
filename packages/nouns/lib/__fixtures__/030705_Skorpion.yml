@@ -1,0 +1,23 @@
+---
+  id: "30705"
+  word: "Skorpion"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Skorpion"
+      acc: "Skorpiona"
+      gen: "Skorpiona"
+      loc: "Skorpionu"
+      dat: "Skorpionu"
+      ins: "Skorpionom"
+      voc: "Skorpione"
+    plural: 
+      nom: "Skorpioni"
+      acc: "Skorpionov"
+      gen: "Skorpionov"
+      loc: "Skorpionah"
+      dat: "Skorpionam"
+      ins: "Skorpionami"
+      voc: "Skorpioni"

@@ -1,0 +1,22 @@
+---
+  id: "31762"
+  word: "bumerang"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bumerang"
+      acc: "bumerang"
+      gen: "bumeranga"
+      loc: "bumerangu"
+      dat: "bumerangu"
+      ins: "bumerangom"
+      voc: "bumeranže"
+    plural: 
+      nom: "bumerangy"
+      acc: "bumerangy"
+      gen: "bumerangov"
+      loc: "bumerangah"
+      dat: "bumerangam"
+      ins: "bumerangami"
+      voc: "bumerangy"

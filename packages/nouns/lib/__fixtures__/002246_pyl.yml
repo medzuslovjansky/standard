@@ -1,0 +1,22 @@
+---
+  id: "2246"
+  word: "pyl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pyl"
+      acc: "pyl"
+      gen: "pyla"
+      loc: "pylu"
+      dat: "pylu"
+      ins: "pylom"
+      voc: "pyle"
+    plural: 
+      nom: "pyly"
+      acc: "pyly"
+      gen: "pylov"
+      loc: "pylah"
+      dat: "pylam"
+      ins: "pylami"
+      voc: "pyly"

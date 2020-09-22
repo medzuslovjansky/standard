@@ -1,0 +1,22 @@
+---
+  id: "26578"
+  word: "klųbȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klųbȯk"
+      acc: "klųbȯk"
+      gen: "klųbka"
+      loc: "klųbku"
+      dat: "klųbku"
+      ins: "klųbkom"
+      voc: "klųbče"
+    plural: 
+      nom: "klųbky"
+      acc: "klųbky"
+      gen: "klųbkov"
+      loc: "klųbkah"
+      dat: "klųbkam"
+      ins: "klųbkami"
+      voc: "klųbky"

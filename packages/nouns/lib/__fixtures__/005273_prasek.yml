@@ -1,0 +1,22 @@
+---
+  id: "5273"
+  word: "pråšek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pråšek"
+      acc: "pråšek"
+      gen: "pråšeka"
+      loc: "pråšeku"
+      dat: "pråšeku"
+      ins: "pråšekom"
+      voc: "pråšeče"
+    plural: 
+      nom: "pråšeky"
+      acc: "pråšeky"
+      gen: "pråšekov"
+      loc: "pråšekah"
+      dat: "pråšekam"
+      ins: "pråšekami"
+      voc: "pråšeky"

@@ -1,0 +1,22 @@
+---
+  id: "791"
+  word: "kråbka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråbka"
+      acc: "kråbkų"
+      gen: "kråbky"
+      loc: "kråbkě"
+      dat: "kråbkě"
+      ins: "kråbkojų"
+      voc: "kråbko"
+    plural: 
+      nom: "kråbky"
+      acc: "kråbky"
+      gen: "kråbȯk"
+      loc: "kråbkah"
+      dat: "kråbkam"
+      ins: "kråbkami"
+      voc: "kråbky"

@@ -1,0 +1,23 @@
+---
+  id: "26365"
+  word: "jelec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jelec"
+      acc: "jelca"
+      gen: "jelca"
+      loc: "jelcu"
+      dat: "jelcu"
+      ins: "jelcem"
+      voc: "jelče"
+    plural: 
+      nom: "jelci"
+      acc: "jelcev"
+      gen: "jelcev"
+      loc: "jelcah"
+      dat: "jelcam"
+      ins: "jelcami"
+      voc: "jelci"

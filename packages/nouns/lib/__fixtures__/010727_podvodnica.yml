@@ -1,0 +1,22 @@
+---
+  id: "10727"
+  word: "podvodnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podvodnica"
+      acc: "podvodnicų"
+      gen: "podvodnice"
+      loc: "podvodnici"
+      dat: "podvodnici"
+      ins: "podvodnicejų"
+      voc: "podvodnico"
+    plural: 
+      nom: "podvodnice"
+      acc: "podvodnice"
+      gen: "podvodnic"
+      loc: "podvodnicah"
+      dat: "podvodnicam"
+      ins: "podvodnicami"
+      voc: "podvodnice"

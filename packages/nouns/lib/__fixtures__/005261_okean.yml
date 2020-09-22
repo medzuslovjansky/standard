@@ -1,0 +1,22 @@
+---
+  id: "5261"
+  word: "okean"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "okean"
+      acc: "okean"
+      gen: "okeana"
+      loc: "okeanu"
+      dat: "okeanu"
+      ins: "okeanom"
+      voc: "okeane"
+    plural: 
+      nom: "okeany"
+      acc: "okeany"
+      gen: "okeanov"
+      loc: "okeanah"
+      dat: "okeanam"
+      ins: "okeanami"
+      voc: "okeany"

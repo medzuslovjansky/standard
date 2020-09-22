@@ -1,0 +1,22 @@
+---
+  id: "14659"
+  word: "konečnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konečnik"
+      acc: "konečnik"
+      gen: "konečnika"
+      loc: "konečniku"
+      dat: "konečniku"
+      ins: "konečnikom"
+      voc: "konečniče"
+    plural: 
+      nom: "konečniky"
+      acc: "konečniky"
+      gen: "konečnikov"
+      loc: "konečnikah"
+      dat: "konečnikam"
+      ins: "konečnikami"
+      voc: "konečniky"

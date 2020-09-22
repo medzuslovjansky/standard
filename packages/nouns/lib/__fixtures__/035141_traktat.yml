@@ -1,0 +1,22 @@
+---
+  id: "35141"
+  word: "traktat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "traktat"
+      acc: "traktat"
+      gen: "traktata"
+      loc: "traktatu"
+      dat: "traktatu"
+      ins: "traktatom"
+      voc: "traktate"
+    plural: 
+      nom: "traktaty"
+      acc: "traktaty"
+      gen: "traktatov"
+      loc: "traktatah"
+      dat: "traktatam"
+      ins: "traktatami"
+      voc: "traktaty"

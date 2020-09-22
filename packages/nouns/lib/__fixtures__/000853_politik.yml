@@ -1,0 +1,23 @@
+---
+  id: "853"
+  word: "politik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "politik"
+      acc: "politika"
+      gen: "politika"
+      loc: "politiku"
+      dat: "politiku"
+      ins: "politikom"
+      voc: "političe"
+    plural: 
+      nom: "politiki"
+      acc: "politikov"
+      gen: "politikov"
+      loc: "politikah"
+      dat: "politikam"
+      ins: "politikami"
+      voc: "politiki"

@@ -1,0 +1,22 @@
+---
+  id: "23362"
+  word: "pylȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pylȯk"
+      acc: "pylȯk"
+      gen: "pylka"
+      loc: "pylku"
+      dat: "pylku"
+      ins: "pylkom"
+      voc: "pylče"
+    plural: 
+      nom: "pylky"
+      acc: "pylky"
+      gen: "pylkov"
+      loc: "pylkah"
+      dat: "pylkam"
+      ins: "pylkami"
+      voc: "pylky"

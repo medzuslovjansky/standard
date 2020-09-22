@@ -1,0 +1,22 @@
+---
+  id: "24464"
+  word: "balalajka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "balalajka"
+      acc: "balalajkų"
+      gen: "balalajky"
+      loc: "balalajkě"
+      dat: "balalajkě"
+      ins: "balalajkojų"
+      voc: "balalajko"
+    plural: 
+      nom: "balalajky"
+      acc: "balalajky"
+      gen: "balalajek"
+      loc: "balalajkah"
+      dat: "balalajkam"
+      ins: "balalajkami"
+      voc: "balalajky"

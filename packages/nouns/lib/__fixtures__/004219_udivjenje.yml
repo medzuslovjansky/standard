@@ -1,0 +1,15 @@
+---
+  id: "4219"
+  word: "udivjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "udivjeńje"
+      acc: "udivjeńje"
+      gen: "udivjeńja"
+      loc: "udivjeńju"
+      dat: "udivjeńju"
+      ins: "udivjeńjem"
+      voc: "udivjeńje"

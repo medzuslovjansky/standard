@@ -1,0 +1,22 @@
+---
+  id: "18912"
+  word: "strělišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "strělišče"
+      acc: "strělišče"
+      gen: "strělišča"
+      loc: "strělišču"
+      dat: "strělišču"
+      ins: "strěliščem"
+      voc: "strělišče"
+    plural: 
+      nom: "strělišča"
+      acc: "strělišča"
+      gen: "strělišč"
+      loc: "strěliščah"
+      dat: "strěliščam"
+      ins: "strěliščami"
+      voc: "strělišča"

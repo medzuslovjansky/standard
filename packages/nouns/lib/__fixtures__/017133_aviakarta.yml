@@ -1,0 +1,22 @@
+---
+  id: "17133"
+  word: "aviakarta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aviakarta"
+      acc: "aviakartų"
+      gen: "aviakarty"
+      loc: "aviakartě"
+      dat: "aviakartě"
+      ins: "aviakartojų"
+      voc: "aviakarto"
+    plural: 
+      nom: "aviakarty"
+      acc: "aviakarty"
+      gen: "aviakart"
+      loc: "aviakartah"
+      dat: "aviakartam"
+      ins: "aviakartami"
+      voc: "aviakarty"

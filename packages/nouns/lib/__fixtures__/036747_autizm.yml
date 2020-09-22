@@ -1,0 +1,22 @@
+---
+  id: "36747"
+  word: "autizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "autizm"
+      acc: "autizm"
+      gen: "autizma"
+      loc: "autizmu"
+      dat: "autizmu"
+      ins: "autizmom"
+      voc: "autizme"
+    plural: 
+      nom: "autizmy"
+      acc: "autizmy"
+      gen: "autizmov"
+      loc: "autizmah"
+      dat: "autizmam"
+      ins: "autizmami"
+      voc: "autizmy"

@@ -1,0 +1,22 @@
+---
+  id: "22073"
+  word: "otok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "otok"
+      acc: "otok"
+      gen: "otoka"
+      loc: "otoku"
+      dat: "otoku"
+      ins: "otokom"
+      voc: "otoče"
+    plural: 
+      nom: "otoky"
+      acc: "otoky"
+      gen: "otokov"
+      loc: "otokah"
+      dat: "otokam"
+      ins: "otokami"
+      voc: "otoky"

@@ -1,0 +1,22 @@
+---
+  id: "1669"
+  word: "kooperacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kooperacija"
+      acc: "kooperacijų"
+      gen: "kooperacije"
+      loc: "kooperaciji"
+      dat: "kooperaciji"
+      ins: "kooperacijejų"
+      voc: "kooperacijo"
+    plural: 
+      nom: "kooperacije"
+      acc: "kooperacije"
+      gen: "kooperacij"
+      loc: "kooperacijah"
+      dat: "kooperacijam"
+      ins: "kooperacijami"
+      voc: "kooperacije"

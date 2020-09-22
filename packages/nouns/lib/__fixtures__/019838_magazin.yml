@@ -1,0 +1,22 @@
+---
+  id: "19838"
+  word: "magazin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "magazin"
+      acc: "magazin"
+      gen: "magazina"
+      loc: "magazinu"
+      dat: "magazinu"
+      ins: "magazinom"
+      voc: "magazine"
+    plural: 
+      nom: "magaziny"
+      acc: "magaziny"
+      gen: "magazinov"
+      loc: "magazinah"
+      dat: "magazinam"
+      ins: "magazinami"
+      voc: "magaziny"

@@ -1,0 +1,22 @@
+---
+  id: "35827"
+  word: "čitateljnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čitateljnik"
+      acc: "čitateljnik"
+      gen: "čitateljnika"
+      loc: "čitateljniku"
+      dat: "čitateljniku"
+      ins: "čitateljnikom"
+      voc: "čitateljniče"
+    plural: 
+      nom: "čitateljniky"
+      acc: "čitateljniky"
+      gen: "čitateljnikov"
+      loc: "čitateljnikah"
+      dat: "čitateljnikam"
+      ins: "čitateljnikami"
+      voc: "čitateljniky"

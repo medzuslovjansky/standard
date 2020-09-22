@@ -1,0 +1,22 @@
+---
+  id: "10129"
+  word: "ograničeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ograničeńje"
+      acc: "ograničeńje"
+      gen: "ograničeńja"
+      loc: "ograničeńju"
+      dat: "ograničeńju"
+      ins: "ograničeńjem"
+      voc: "ograničeńje"
+    plural: 
+      nom: "ograničeńja"
+      acc: "ograničeńja"
+      gen: "ograničenij"
+      loc: "ograničeńjah"
+      dat: "ograničeńjam"
+      ins: "ograničeńjami"
+      voc: "ograničeńja"

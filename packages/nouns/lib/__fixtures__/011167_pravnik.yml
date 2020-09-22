@@ -1,0 +1,23 @@
+---
+  id: "11167"
+  word: "pravnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pravnik"
+      acc: "pravnika"
+      gen: "pravnika"
+      loc: "pravniku"
+      dat: "pravniku"
+      ins: "pravnikom"
+      voc: "pravniče"
+    plural: 
+      nom: "pravniki"
+      acc: "pravnikov"
+      gen: "pravnikov"
+      loc: "pravnikah"
+      dat: "pravnikam"
+      ins: "pravnikami"
+      voc: "pravniki"

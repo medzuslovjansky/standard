@@ -1,0 +1,22 @@
+---
+  id: "41"
+  word: "råzočarovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzočarovańje"
+      acc: "råzočarovańje"
+      gen: "råzočarovańja"
+      loc: "råzočarovańju"
+      dat: "råzočarovańju"
+      ins: "råzočarovańjem"
+      voc: "råzočarovańje"
+    plural: 
+      nom: "råzočarovańja"
+      acc: "råzočarovańja"
+      gen: "råzočarovanij"
+      loc: "råzočarovańjah"
+      dat: "råzočarovańjam"
+      ins: "råzočarovańjami"
+      voc: "råzočarovańja"

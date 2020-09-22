@@ -1,0 +1,23 @@
+---
+  id: "17765"
+  word: "mašinist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mašinist"
+      acc: "mašinista"
+      gen: "mašinista"
+      loc: "mašinistu"
+      dat: "mašinistu"
+      ins: "mašinistom"
+      voc: "mašiniste"
+    plural: 
+      nom: "mašinisti"
+      acc: "mašinistov"
+      gen: "mašinistov"
+      loc: "mašinistah"
+      dat: "mašinistam"
+      ins: "mašinistami"
+      voc: "mašinisti"

@@ -1,0 +1,22 @@
+---
+  id: "14176"
+  word: "zaščita"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaščita"
+      acc: "zaščitų"
+      gen: "zaščity"
+      loc: "zaščitě"
+      dat: "zaščitě"
+      ins: "zaščitojų"
+      voc: "zaščito"
+    plural: 
+      nom: "zaščity"
+      acc: "zaščity"
+      gen: "zaščit"
+      loc: "zaščitah"
+      dat: "zaščitam"
+      ins: "zaščitami"
+      voc: "zaščity"

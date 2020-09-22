@@ -1,0 +1,22 @@
+---
+  id: "18513"
+  word: "proglåšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proglåšeńje"
+      acc: "proglåšeńje"
+      gen: "proglåšeńja"
+      loc: "proglåšeńju"
+      dat: "proglåšeńju"
+      ins: "proglåšeńjem"
+      voc: "proglåšeńje"
+    plural: 
+      nom: "proglåšeńja"
+      acc: "proglåšeńja"
+      gen: "proglåšenij"
+      loc: "proglåšeńjah"
+      dat: "proglåšeńjam"
+      ins: "proglåšeńjami"
+      voc: "proglåšeńja"

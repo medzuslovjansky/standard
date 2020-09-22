@@ -1,0 +1,22 @@
+---
+  id: "506"
+  word: "papir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "papir"
+      acc: "papir"
+      gen: "papira"
+      loc: "papiru"
+      dat: "papiru"
+      ins: "papirom"
+      voc: "papire"
+    plural: 
+      nom: "papiry"
+      acc: "papiry"
+      gen: "papirov"
+      loc: "papirah"
+      dat: "papiram"
+      ins: "papirami"
+      voc: "papiry"

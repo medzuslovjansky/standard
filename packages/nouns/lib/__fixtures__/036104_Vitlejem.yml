@@ -1,0 +1,22 @@
+---
+  id: "36104"
+  word: "Vitlejem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Vitlejem"
+      acc: "Vitlejem"
+      gen: "Vitlejema"
+      loc: "Vitlejemu"
+      dat: "Vitlejemu"
+      ins: "Vitlejemom"
+      voc: "Vitlejeme"
+    plural: 
+      nom: "Vitlejemy"
+      acc: "Vitlejemy"
+      gen: "Vitlejemov"
+      loc: "Vitlejemah"
+      dat: "Vitlejemam"
+      ins: "Vitlejemami"
+      voc: "Vitlejemy"

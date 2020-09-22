@@ -1,0 +1,23 @@
+---
+  id: "36913"
+  word: "šou"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "šou"
+      acc: "šou"
+      gen: "šou"
+      loc: "šou"
+      dat: "šou"
+      ins: "šou"
+      voc: "šou"
+    plural: 
+      nom: "šou"
+      acc: "šou"
+      gen: "šou"
+      loc: "šou"
+      dat: "šou"
+      ins: "šou"
+      voc: "šou"

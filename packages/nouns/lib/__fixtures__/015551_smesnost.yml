@@ -1,0 +1,22 @@
+---
+  id: "15551"
+  word: "směšnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "směšnosť"
+      acc: "směšnosť"
+      gen: "směšnosti"
+      loc: "směšnosti"
+      dat: "směšnosti"
+      ins: "směšnosťjų"
+      voc: "směšnosti"
+    plural: 
+      nom: "směšnosti"
+      acc: "směšnosti"
+      gen: "směšnostij"
+      loc: "směšnosťah"
+      dat: "směšnosťam"
+      ins: "směšnosťami"
+      voc: "směšnosti"

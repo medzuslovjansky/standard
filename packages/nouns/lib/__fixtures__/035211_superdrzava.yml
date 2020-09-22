@@ -1,0 +1,22 @@
+---
+  id: "35211"
+  word: "superdŕžava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "superdŕžava"
+      acc: "superdŕžavų"
+      gen: "superdŕžavy"
+      loc: "superdŕžavě"
+      dat: "superdŕžavě"
+      ins: "superdŕžavojų"
+      voc: "superdŕžavo"
+    plural: 
+      nom: "superdŕžavy"
+      acc: "superdŕžavy"
+      gen: "superdŕžav"
+      loc: "superdŕžavah"
+      dat: "superdŕžavam"
+      ins: "superdŕžavami"
+      voc: "superdŕžavy"

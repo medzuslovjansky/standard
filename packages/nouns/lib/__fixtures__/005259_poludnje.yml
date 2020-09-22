@@ -1,0 +1,22 @@
+---
+  id: "5259"
+  word: "poludńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poludńje"
+      acc: "poludńje"
+      gen: "poludńja"
+      loc: "poludńju"
+      dat: "poludńju"
+      ins: "poludńjem"
+      voc: "poludńje"
+    plural: 
+      nom: "poludńja"
+      acc: "poludńja"
+      gen: "poludnij"
+      loc: "poludńjah"
+      dat: "poludńjam"
+      ins: "poludńjami"
+      voc: "poludńja"

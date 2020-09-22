@@ -1,0 +1,23 @@
+---
+  id: "26764"
+  word: "kotlaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kotlaŕ"
+      acc: "kotlaŕa"
+      gen: "kotlaŕa"
+      loc: "kotlaŕu"
+      dat: "kotlaŕu"
+      ins: "kotlaŕem"
+      voc: "kotlaŕu"
+    plural: 
+      nom: "kotlari"
+      acc: "kotlaŕev"
+      gen: "kotlaŕev"
+      loc: "kotlaŕah"
+      dat: "kotlaŕam"
+      ins: "kotlaŕami"
+      voc: "kotlari"

@@ -1,0 +1,22 @@
+---
+  id: "3838"
+  word: "cukrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cukrka"
+      acc: "cukrkų"
+      gen: "cukrky"
+      loc: "cukrkě"
+      dat: "cukrkě"
+      ins: "cukrkojų"
+      voc: "cukrko"
+    plural: 
+      nom: "cukrky"
+      acc: "cukrky"
+      gen: "cukrȯk"
+      loc: "cukrkah"
+      dat: "cukrkam"
+      ins: "cukrkami"
+      voc: "cukrky"

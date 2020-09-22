@@ -1,0 +1,15 @@
+---
+  id: "36029"
+  word: "pčelaŕstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pčelaŕstvo"
+      acc: "pčelaŕstvo"
+      gen: "pčelaŕstva"
+      loc: "pčelaŕstvu"
+      dat: "pčelaŕstvu"
+      ins: "pčelaŕstvom"
+      voc: "pčelaŕstvo"

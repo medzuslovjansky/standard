@@ -1,0 +1,22 @@
+---
+  id: "29019"
+  word: "ocěnka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ocěnka"
+      acc: "ocěnkų"
+      gen: "ocěnky"
+      loc: "ocěnkě"
+      dat: "ocěnkě"
+      ins: "ocěnkojų"
+      voc: "ocěnko"
+    plural: 
+      nom: "ocěnky"
+      acc: "ocěnky"
+      gen: "ocěnȯk"
+      loc: "ocěnkah"
+      dat: "ocěnkam"
+      ins: "ocěnkami"
+      voc: "ocěnky"

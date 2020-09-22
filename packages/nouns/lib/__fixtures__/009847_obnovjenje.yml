@@ -1,0 +1,22 @@
+---
+  id: "9847"
+  word: "obnovjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obnovjeńje"
+      acc: "obnovjeńje"
+      gen: "obnovjeńja"
+      loc: "obnovjeńju"
+      dat: "obnovjeńju"
+      ins: "obnovjeńjem"
+      voc: "obnovjeńje"
+    plural: 
+      nom: "obnovjeńja"
+      acc: "obnovjeńja"
+      gen: "obnovjenij"
+      loc: "obnovjeńjah"
+      dat: "obnovjeńjam"
+      ins: "obnovjeńjami"
+      voc: "obnovjeńja"

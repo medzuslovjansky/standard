@@ -1,0 +1,22 @@
+---
+  id: "32241"
+  word: "torba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "torba"
+      acc: "torbų"
+      gen: "torby"
+      loc: "torbě"
+      dat: "torbě"
+      ins: "torbojų"
+      voc: "torbo"
+    plural: 
+      nom: "torby"
+      acc: "torby"
+      gen: "torb"
+      loc: "torbah"
+      dat: "torbam"
+      ins: "torbami"
+      voc: "torby"

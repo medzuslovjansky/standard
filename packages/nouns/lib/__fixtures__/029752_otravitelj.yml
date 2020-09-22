@@ -1,0 +1,23 @@
+---
+  id: "29752"
+  word: "otravitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "otravitelj"
+      acc: "otravitelja"
+      gen: "otravitelja"
+      loc: "otravitelju"
+      dat: "otravitelju"
+      ins: "otraviteljem"
+      voc: "otravitelju"
+    plural: 
+      nom: "otravitelji"
+      acc: "otraviteljev"
+      gen: "otraviteljev"
+      loc: "otraviteljah"
+      dat: "otraviteljam"
+      ins: "otraviteljami"
+      voc: "otravitelji"

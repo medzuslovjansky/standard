@@ -1,0 +1,22 @@
+---
+  id: "35422"
+  word: "parohija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "parohija"
+      acc: "parohijų"
+      gen: "parohije"
+      loc: "parohiji"
+      dat: "parohiji"
+      ins: "parohijejų"
+      voc: "parohijo"
+    plural: 
+      nom: "parohije"
+      acc: "parohije"
+      gen: "parohij"
+      loc: "parohijah"
+      dat: "parohijam"
+      ins: "parohijami"
+      voc: "parohije"

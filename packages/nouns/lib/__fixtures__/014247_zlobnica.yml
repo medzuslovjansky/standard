@@ -1,0 +1,22 @@
+---
+  id: "14247"
+  word: "zlobnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zlobnica"
+      acc: "zlobnicų"
+      gen: "zlobnice"
+      loc: "zlobnici"
+      dat: "zlobnici"
+      ins: "zlobnicejų"
+      voc: "zlobnico"
+    plural: 
+      nom: "zlobnice"
+      acc: "zlobnice"
+      gen: "zlobnic"
+      loc: "zlobnicah"
+      dat: "zlobnicam"
+      ins: "zlobnicami"
+      voc: "zlobnice"

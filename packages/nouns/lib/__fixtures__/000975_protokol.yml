@@ -1,0 +1,22 @@
+---
+  id: "975"
+  word: "protokol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "protokol"
+      acc: "protokol"
+      gen: "protokola"
+      loc: "protokolu"
+      dat: "protokolu"
+      ins: "protokolom"
+      voc: "protokole"
+    plural: 
+      nom: "protokoly"
+      acc: "protokoly"
+      gen: "protokolov"
+      loc: "protokolah"
+      dat: "protokolam"
+      ins: "protokolami"
+      voc: "protokoly"

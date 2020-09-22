@@ -1,0 +1,23 @@
+---
+  id: "15199"
+  word: "zabavnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zabavnik"
+      acc: "zabavnika"
+      gen: "zabavnika"
+      loc: "zabavniku"
+      dat: "zabavniku"
+      ins: "zabavnikom"
+      voc: "zabavniče"
+    plural: 
+      nom: "zabavniki"
+      acc: "zabavnikov"
+      gen: "zabavnikov"
+      loc: "zabavnikah"
+      dat: "zabavnikam"
+      ins: "zabavnikami"
+      voc: "zabavniki"

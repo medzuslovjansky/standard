@@ -1,0 +1,23 @@
+---
+  id: "1"
+  word: "oko"
+  meta: 
+    irregularity: "(oka/očese; pl. oči)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oko"
+      acc: "oko"
+      gen: "oka / očese"
+      loc: "oku / očesi"
+      dat: "oku / očesi"
+      ins: "okom / očesem"
+      voc: "oko"
+    plural: 
+      nom: "oči / očesa"
+      acc: "oči / očesa"
+      gen: "očij / očes"
+      loc: "očah / očesah"
+      dat: "očam / očesam"
+      ins: "očami / očesami"
+      voc: "oči / očesa"

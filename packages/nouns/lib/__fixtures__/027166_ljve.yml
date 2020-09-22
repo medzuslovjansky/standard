@@ -1,0 +1,22 @@
+---
+  id: "27166"
+  word: "ljvę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ljvę"
+      acc: "ljvę"
+      gen: "ljvęte / ljvęta"
+      loc: "ljvęti / ljvętu"
+      dat: "ljvęti / ljvętu"
+      ins: "ljvętem / ljvętom"
+      voc: "ljvę"
+    plural: 
+      nom: "ljvęta"
+      acc: "ljvęta"
+      gen: "ljvęt"
+      loc: "ljvętah"
+      dat: "ljvętam"
+      ins: "ljvętami"
+      voc: "ljvęta"

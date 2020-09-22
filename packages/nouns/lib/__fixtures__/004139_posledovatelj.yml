@@ -1,0 +1,23 @@
+---
+  id: "4139"
+  word: "poslědovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poslědovatelj"
+      acc: "poslědovatelja"
+      gen: "poslědovatelja"
+      loc: "poslědovatelju"
+      dat: "poslědovatelju"
+      ins: "poslědovateljem"
+      voc: "poslědovatelju"
+    plural: 
+      nom: "poslědovatelji"
+      acc: "poslědovateljev"
+      gen: "poslědovateljev"
+      loc: "poslědovateljah"
+      dat: "poslědovateljam"
+      ins: "poslědovateljami"
+      voc: "poslědovatelji"

@@ -1,0 +1,22 @@
+---
+  id: "333"
+  word: "liva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "liva"
+      acc: "livų"
+      gen: "livy"
+      loc: "livě"
+      dat: "livě"
+      ins: "livojų"
+      voc: "livo"
+    plural: 
+      nom: "livy"
+      acc: "livy"
+      gen: "liv"
+      loc: "livah"
+      dat: "livam"
+      ins: "livami"
+      voc: "livy"

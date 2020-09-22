@@ -1,0 +1,23 @@
+---
+  id: "7209"
+  word: "radca"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "radca"
+      acc: "radcų"
+      gen: "radce"
+      loc: "radci"
+      dat: "radci"
+      ins: "radcejų"
+      voc: "radco"
+    plural: 
+      nom: "radci"
+      acc: "radcev"
+      gen: "radcev"
+      loc: "radcah"
+      dat: "radcam"
+      ins: "radcami"
+      voc: "radci"

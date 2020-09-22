@@ -1,0 +1,15 @@
+---
+  id: "59"
+  word: "Alpy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Alpy"
+      acc: "Alpy"
+      gen: "Alp"
+      loc: "Alpah"
+      dat: "Alpam"
+      ins: "Alpami"
+      voc: "Alpy"

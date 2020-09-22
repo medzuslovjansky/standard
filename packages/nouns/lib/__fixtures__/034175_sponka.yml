@@ -1,0 +1,22 @@
+---
+  id: "34175"
+  word: "sponka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sponka"
+      acc: "sponkų"
+      gen: "sponky"
+      loc: "sponkě"
+      dat: "sponkě"
+      ins: "sponkojų"
+      voc: "sponko"
+    plural: 
+      nom: "sponky"
+      acc: "sponky"
+      gen: "sponȯk"
+      loc: "sponkah"
+      dat: "sponkam"
+      ins: "sponkami"
+      voc: "sponky"

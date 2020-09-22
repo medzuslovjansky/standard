@@ -1,0 +1,15 @@
+---
+  id: "22151"
+  word: "pritvorstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pritvorstvo"
+      acc: "pritvorstvo"
+      gen: "pritvorstva"
+      loc: "pritvorstvu"
+      dat: "pritvorstvu"
+      ins: "pritvorstvom"
+      voc: "pritvorstvo"

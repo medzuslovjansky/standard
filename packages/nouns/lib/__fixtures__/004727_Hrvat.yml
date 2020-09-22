@@ -1,0 +1,23 @@
+---
+  id: "4727"
+  word: "Hrvat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Hrvat"
+      acc: "Hrvata"
+      gen: "Hrvata"
+      loc: "Hrvatu"
+      dat: "Hrvatu"
+      ins: "Hrvatom"
+      voc: "Hrvate"
+    plural: 
+      nom: "Hrvati"
+      acc: "Hrvatov"
+      gen: "Hrvatov"
+      loc: "Hrvatah"
+      dat: "Hrvatam"
+      ins: "Hrvatami"
+      voc: "Hrvati"

@@ -1,0 +1,31 @@
+---
+  - 
+    id: "35203"
+    word: "sanskrit"
+    meta: 
+      gender: "masculine"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "sanskrit"
+        acc: "sanskrit"
+        gen: "sanskrita"
+        loc: "sanskritu"
+        dat: "sanskritu"
+        ins: "sanskritom"
+        voc: "sanskrite"
+  - 
+    id: "35203"
+    word: "sanskrt"
+    meta: 
+      gender: "masculine"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "sanskrt"
+        acc: "sanskrt"
+        gen: "sanskrta"
+        loc: "sanskrtu"
+        dat: "sanskrtu"
+        ins: "sanskrtom"
+        voc: "sanskrte"

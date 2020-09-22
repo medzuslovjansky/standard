@@ -1,0 +1,22 @@
+---
+  id: "28692"
+  word: "nråv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nråv"
+      acc: "nråv"
+      gen: "nråva"
+      loc: "nråvu"
+      dat: "nråvu"
+      ins: "nråvom"
+      voc: "nråve"
+    plural: 
+      nom: "nråvy"
+      acc: "nråvy"
+      gen: "nråvov"
+      loc: "nråvah"
+      dat: "nråvam"
+      ins: "nråvami"
+      voc: "nråvy"

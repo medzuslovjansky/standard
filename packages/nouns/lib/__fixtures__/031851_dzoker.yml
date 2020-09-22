@@ -1,0 +1,23 @@
+---
+  id: "31851"
+  word: "džoker"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "džoker"
+      acc: "džokera"
+      gen: "džokera"
+      loc: "džokeru"
+      dat: "džokeru"
+      ins: "džokerom"
+      voc: "džokere"
+    plural: 
+      nom: "džokeri"
+      acc: "džokerov"
+      gen: "džokerov"
+      loc: "džokerah"
+      dat: "džokeram"
+      ins: "džokerami"
+      voc: "džokeri"

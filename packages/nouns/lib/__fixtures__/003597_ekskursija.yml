@@ -1,0 +1,22 @@
+---
+  id: "3597"
+  word: "ekskursija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ekskursija"
+      acc: "ekskursijų"
+      gen: "ekskursije"
+      loc: "ekskursiji"
+      dat: "ekskursiji"
+      ins: "ekskursijejų"
+      voc: "ekskursijo"
+    plural: 
+      nom: "ekskursije"
+      acc: "ekskursije"
+      gen: "ekskursij"
+      loc: "ekskursijah"
+      dat: "ekskursijam"
+      ins: "ekskursijami"
+      voc: "ekskursije"

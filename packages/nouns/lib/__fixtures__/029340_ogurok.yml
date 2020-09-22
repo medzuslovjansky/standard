@@ -1,0 +1,22 @@
+---
+  id: "29340"
+  word: "ogurȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ogurȯk"
+      acc: "ogurȯk"
+      gen: "ogurka"
+      loc: "ogurku"
+      dat: "ogurku"
+      ins: "ogurkom"
+      voc: "ogurče"
+    plural: 
+      nom: "ogurky"
+      acc: "ogurky"
+      gen: "ogurkov"
+      loc: "ogurkah"
+      dat: "ogurkam"
+      ins: "ogurkami"
+      voc: "ogurky"

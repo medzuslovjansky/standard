@@ -1,0 +1,22 @@
+---
+  id: "35084"
+  word: "atmosfera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "atmosfera"
+      acc: "atmosferų"
+      gen: "atmosfery"
+      loc: "atmosferě"
+      dat: "atmosferě"
+      ins: "atmosferojų"
+      voc: "atmosfero"
+    plural: 
+      nom: "atmosfery"
+      acc: "atmosfery"
+      gen: "atmosfer"
+      loc: "atmosferah"
+      dat: "atmosferam"
+      ins: "atmosferami"
+      voc: "atmosfery"

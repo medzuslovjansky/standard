@@ -1,0 +1,22 @@
+---
+  id: "17348"
+  word: "duh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "duh"
+      acc: "duh"
+      gen: "duha"
+      loc: "duhu"
+      dat: "duhu"
+      ins: "duhom"
+      voc: "duše"
+    plural: 
+      nom: "duhy"
+      acc: "duhy"
+      gen: "duhov"
+      loc: "duhah"
+      dat: "duham"
+      ins: "duhami"
+      voc: "duhy"

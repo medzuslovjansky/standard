@@ -1,0 +1,22 @@
+---
+  id: "26106"
+  word: "iljm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iljm"
+      acc: "iljm"
+      gen: "iljma"
+      loc: "iljmu"
+      dat: "iljmu"
+      ins: "iljmom"
+      voc: "iljme"
+    plural: 
+      nom: "iljmy"
+      acc: "iljmy"
+      gen: "iljmov"
+      loc: "iljmah"
+      dat: "iljmam"
+      ins: "iljmami"
+      voc: "iljmy"

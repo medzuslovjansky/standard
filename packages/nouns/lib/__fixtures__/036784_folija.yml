@@ -1,0 +1,22 @@
+---
+  id: "36784"
+  word: "folija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "folija"
+      acc: "folijų"
+      gen: "folije"
+      loc: "foliji"
+      dat: "foliji"
+      ins: "folijejų"
+      voc: "folijo"
+    plural: 
+      nom: "folije"
+      acc: "folije"
+      gen: "folij"
+      loc: "folijah"
+      dat: "folijam"
+      ins: "folijami"
+      voc: "folije"

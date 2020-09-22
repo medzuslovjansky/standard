@@ -1,0 +1,23 @@
+---
+  id: "31565"
+  word: "zaščitnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zaščitnik"
+      acc: "zaščitnika"
+      gen: "zaščitnika"
+      loc: "zaščitniku"
+      dat: "zaščitniku"
+      ins: "zaščitnikom"
+      voc: "zaščitniče"
+    plural: 
+      nom: "zaščitniki"
+      acc: "zaščitnikov"
+      gen: "zaščitnikov"
+      loc: "zaščitnikah"
+      dat: "zaščitnikam"
+      ins: "zaščitnikami"
+      voc: "zaščitniki"

@@ -1,0 +1,22 @@
+---
+  id: "24065"
+  word: "adadžo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "adadže"
+      acc: "adadže"
+      gen: "adadža"
+      loc: "adadžu"
+      dat: "adadžu"
+      ins: "adadžem"
+      voc: "adadže"
+    plural: 
+      nom: "adadža"
+      acc: "adadža"
+      gen: "adadž"
+      loc: "adadžah"
+      dat: "adadžam"
+      ins: "adadžami"
+      voc: "adadža"

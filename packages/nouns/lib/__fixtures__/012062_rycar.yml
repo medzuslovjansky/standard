@@ -1,0 +1,23 @@
+---
+  id: "12062"
+  word: "rycaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rycaŕ"
+      acc: "rycaŕa"
+      gen: "rycaŕa"
+      loc: "rycaŕu"
+      dat: "rycaŕu"
+      ins: "rycaŕem"
+      voc: "rycaŕu"
+    plural: 
+      nom: "rycari"
+      acc: "rycaŕev"
+      gen: "rycaŕev"
+      loc: "rycaŕah"
+      dat: "rycaŕam"
+      ins: "rycaŕami"
+      voc: "rycari"

@@ -1,0 +1,22 @@
+---
+  id: "28693"
+  word: "nrěst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nrěst"
+      acc: "nrěst"
+      gen: "nrěsta"
+      loc: "nrěstu"
+      dat: "nrěstu"
+      ins: "nrěstom"
+      voc: "nrěste"
+    plural: 
+      nom: "nrěsty"
+      acc: "nrěsty"
+      gen: "nrěstov"
+      loc: "nrěstah"
+      dat: "nrěstam"
+      ins: "nrěstami"
+      voc: "nrěsty"

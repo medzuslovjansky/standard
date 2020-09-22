@@ -1,0 +1,22 @@
+---
+  id: "24138"
+  word: "akacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akacija"
+      acc: "akacijų"
+      gen: "akacije"
+      loc: "akaciji"
+      dat: "akaciji"
+      ins: "akacijejų"
+      voc: "akacijo"
+    plural: 
+      nom: "akacije"
+      acc: "akacije"
+      gen: "akacij"
+      loc: "akacijah"
+      dat: "akacijam"
+      ins: "akacijami"
+      voc: "akacije"

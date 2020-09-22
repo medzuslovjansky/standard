@@ -1,0 +1,15 @@
+---
+  id: "19095"
+  word: "ustrojstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ustrojstvo"
+      acc: "ustrojstvo"
+      gen: "ustrojstva"
+      loc: "ustrojstvu"
+      dat: "ustrojstvu"
+      ins: "ustrojstvom"
+      voc: "ustrojstvo"

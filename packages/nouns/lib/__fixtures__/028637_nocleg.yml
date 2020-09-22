@@ -1,0 +1,22 @@
+---
+  id: "28637"
+  word: "noćleg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "noćleg"
+      acc: "noćleg"
+      gen: "noćlega"
+      loc: "noćlegu"
+      dat: "noćlegu"
+      ins: "noćlegom"
+      voc: "noćleže"
+    plural: 
+      nom: "noćlegy"
+      acc: "noćlegy"
+      gen: "noćlegov"
+      loc: "noćlegah"
+      dat: "noćlegam"
+      ins: "noćlegami"
+      voc: "noćlegy"

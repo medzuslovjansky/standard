@@ -1,0 +1,22 @@
+---
+  id: "35170"
+  word: "delegacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "delegacija"
+      acc: "delegacijų"
+      gen: "delegacije"
+      loc: "delegaciji"
+      dat: "delegaciji"
+      ins: "delegacijejų"
+      voc: "delegacijo"
+    plural: 
+      nom: "delegacije"
+      acc: "delegacije"
+      gen: "delegacij"
+      loc: "delegacijah"
+      dat: "delegacijam"
+      ins: "delegacijami"
+      voc: "delegacije"

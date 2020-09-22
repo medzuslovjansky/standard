@@ -1,0 +1,22 @@
+---
+  id: "29497"
+  word: "operjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "operjeńje"
+      acc: "operjeńje"
+      gen: "operjeńja"
+      loc: "operjeńju"
+      dat: "operjeńju"
+      ins: "operjeńjem"
+      voc: "operjeńje"
+    plural: 
+      nom: "operjeńja"
+      acc: "operjeńja"
+      gen: "operjenij"
+      loc: "operjeńjah"
+      dat: "operjeńjam"
+      ins: "operjeńjami"
+      voc: "operjeńja"

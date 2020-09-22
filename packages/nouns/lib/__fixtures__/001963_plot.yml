@@ -1,0 +1,23 @@
+---
+  id: "1963"
+  word: "plȯť"
+  meta: 
+    irregularity: "(plti)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plȯť"
+      acc: "plȯť"
+      gen: "plȯti"
+      loc: "plȯti"
+      dat: "plȯti"
+      ins: "plȯťjų"
+      voc: "plȯti"
+    plural: 
+      nom: "plȯti"
+      acc: "plȯti"
+      gen: "plȯtij"
+      loc: "plȯťah"
+      dat: "plȯťam"
+      ins: "plȯťami"
+      voc: "plȯti"

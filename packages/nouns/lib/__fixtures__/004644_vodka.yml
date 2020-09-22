@@ -1,0 +1,22 @@
+---
+  id: "4644"
+  word: "vodka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vodka"
+      acc: "vodkų"
+      gen: "vodky"
+      loc: "vodkě"
+      dat: "vodkě"
+      ins: "vodkojų"
+      voc: "vodko"
+    plural: 
+      nom: "vodky"
+      acc: "vodky"
+      gen: "vodȯk"
+      loc: "vodkah"
+      dat: "vodkam"
+      ins: "vodkami"
+      voc: "vodky"

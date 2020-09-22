@@ -1,0 +1,22 @@
+---
+  id: "34740"
+  word: "sinhronizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sinhronizacija"
+      acc: "sinhronizacijų"
+      gen: "sinhronizacije"
+      loc: "sinhronizaciji"
+      dat: "sinhronizaciji"
+      ins: "sinhronizacijejų"
+      voc: "sinhronizacijo"
+    plural: 
+      nom: "sinhronizacije"
+      acc: "sinhronizacije"
+      gen: "sinhronizacij"
+      loc: "sinhronizacijah"
+      dat: "sinhronizacijam"
+      ins: "sinhronizacijami"
+      voc: "sinhronizacije"

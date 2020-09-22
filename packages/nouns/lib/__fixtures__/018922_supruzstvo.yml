@@ -1,0 +1,22 @@
+---
+  id: "18922"
+  word: "sųprųžstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųprųžstvo"
+      acc: "sųprųžstvo"
+      gen: "sųprųžstva"
+      loc: "sųprųžstvu"
+      dat: "sųprųžstvu"
+      ins: "sųprųžstvom"
+      voc: "sųprųžstvo"
+    plural: 
+      nom: "sųprųžstva"
+      acc: "sųprųžstva"
+      gen: "sųprųžstv"
+      loc: "sųprųžstvah"
+      dat: "sųprųžstvam"
+      ins: "sųprųžstvami"
+      voc: "sųprųžstva"

@@ -1,0 +1,15 @@
+---
+  id: "32456"
+  word: "piratstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "piratstvo"
+      acc: "piratstvo"
+      gen: "piratstva"
+      loc: "piratstvu"
+      dat: "piratstvu"
+      ins: "piratstvom"
+      voc: "piratstvo"

@@ -1,0 +1,22 @@
+---
+  id: "23152"
+  word: "mlåt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mlåt"
+      acc: "mlåt"
+      gen: "mlåta"
+      loc: "mlåtu"
+      dat: "mlåtu"
+      ins: "mlåtom"
+      voc: "mlåte"
+    plural: 
+      nom: "mlåty"
+      acc: "mlåty"
+      gen: "mlåtov"
+      loc: "mlåtah"
+      dat: "mlåtam"
+      ins: "mlåtami"
+      voc: "mlåty"

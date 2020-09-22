@@ -1,0 +1,22 @@
+---
+  id: "14879"
+  word: "porota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "porota"
+      acc: "porotų"
+      gen: "poroty"
+      loc: "porotě"
+      dat: "porotě"
+      ins: "porotojų"
+      voc: "poroto"
+    plural: 
+      nom: "poroty"
+      acc: "poroty"
+      gen: "porot"
+      loc: "porotah"
+      dat: "porotam"
+      ins: "porotami"
+      voc: "poroty"

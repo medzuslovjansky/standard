@@ -1,0 +1,22 @@
+---
+  id: "20306"
+  word: "zaključeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zaključeńje"
+      acc: "zaključeńje"
+      gen: "zaključeńja"
+      loc: "zaključeńju"
+      dat: "zaključeńju"
+      ins: "zaključeńjem"
+      voc: "zaključeńje"
+    plural: 
+      nom: "zaključeńja"
+      acc: "zaključeńja"
+      gen: "zaključenij"
+      loc: "zaključeńjah"
+      dat: "zaključeńjam"
+      ins: "zaključeńjami"
+      voc: "zaključeńja"

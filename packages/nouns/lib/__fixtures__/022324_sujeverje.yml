@@ -1,0 +1,22 @@
+---
+  id: "22324"
+  word: "sujevěŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sujevěŕje"
+      acc: "sujevěŕje"
+      gen: "sujevěŕja"
+      loc: "sujevěŕju"
+      dat: "sujevěŕju"
+      ins: "sujevěŕjem"
+      voc: "sujevěŕje"
+    plural: 
+      nom: "sujevěŕja"
+      acc: "sujevěŕja"
+      gen: "sujevěrij"
+      loc: "sujevěŕjah"
+      dat: "sujevěŕjam"
+      ins: "sujevěŕjami"
+      voc: "sujevěŕja"

@@ -1,0 +1,22 @@
+---
+  id: "2310"
+  word: "dynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dynja"
+      acc: "dynjų"
+      gen: "dynje"
+      loc: "dynji"
+      dat: "dynji"
+      ins: "dynjejų"
+      voc: "dynjo"
+    plural: 
+      nom: "dynje"
+      acc: "dynje"
+      gen: "dynej"
+      loc: "dynjah"
+      dat: "dynjam"
+      ins: "dynjami"
+      voc: "dynje"

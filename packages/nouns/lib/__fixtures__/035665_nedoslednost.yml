@@ -1,0 +1,22 @@
+---
+  id: "35665"
+  word: "nedoslědnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedoslědnosť"
+      acc: "nedoslědnosť"
+      gen: "nedoslědnosti"
+      loc: "nedoslědnosti"
+      dat: "nedoslědnosti"
+      ins: "nedoslědnosťjų"
+      voc: "nedoslědnosti"
+    plural: 
+      nom: "nedoslědnosti"
+      acc: "nedoslědnosti"
+      gen: "nedoslědnostij"
+      loc: "nedoslědnosťah"
+      dat: "nedoslědnosťam"
+      ins: "nedoslědnosťami"
+      voc: "nedoslědnosti"

@@ -1,0 +1,22 @@
+---
+  id: "25508"
+  word: "fonema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fonema"
+      acc: "fonemų"
+      gen: "fonemy"
+      loc: "fonemě"
+      dat: "fonemě"
+      ins: "fonemojų"
+      voc: "fonemo"
+    plural: 
+      nom: "fonemy"
+      acc: "fonemy"
+      gen: "fonem"
+      loc: "fonemah"
+      dat: "fonemam"
+      ins: "fonemami"
+      voc: "fonemy"

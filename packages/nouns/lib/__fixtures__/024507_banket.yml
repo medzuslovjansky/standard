@@ -1,0 +1,22 @@
+---
+  id: "24507"
+  word: "banket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "banket"
+      acc: "banket"
+      gen: "banketa"
+      loc: "banketu"
+      dat: "banketu"
+      ins: "banketom"
+      voc: "bankete"
+    plural: 
+      nom: "bankety"
+      acc: "bankety"
+      gen: "banketov"
+      loc: "banketah"
+      dat: "banketam"
+      ins: "banketami"
+      voc: "bankety"

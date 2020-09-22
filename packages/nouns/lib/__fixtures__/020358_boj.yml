@@ -1,0 +1,22 @@
+---
+  id: "20358"
+  word: "boj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "boj"
+      acc: "boj"
+      gen: "boja"
+      loc: "boju"
+      dat: "boju"
+      ins: "bojem"
+      voc: "boju"
+    plural: 
+      nom: "boje"
+      acc: "boje"
+      gen: "bojev"
+      loc: "bojah"
+      dat: "bojam"
+      ins: "bojami"
+      voc: "boje"

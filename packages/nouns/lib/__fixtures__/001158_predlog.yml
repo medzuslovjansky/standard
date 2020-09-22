@@ -1,0 +1,22 @@
+---
+  id: "1158"
+  word: "prědlog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědlog"
+      acc: "prědlog"
+      gen: "prědloga"
+      loc: "prědlogu"
+      dat: "prědlogu"
+      ins: "prědlogom"
+      voc: "prědlože"
+    plural: 
+      nom: "prědlogy"
+      acc: "prědlogy"
+      gen: "prědlogov"
+      loc: "prědlogah"
+      dat: "prědlogam"
+      ins: "prědlogami"
+      voc: "prědlogy"

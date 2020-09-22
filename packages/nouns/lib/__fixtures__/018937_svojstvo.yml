@@ -1,0 +1,22 @@
+---
+  id: "18937"
+  word: "svojstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svojstvo"
+      acc: "svojstvo"
+      gen: "svojstva"
+      loc: "svojstvu"
+      dat: "svojstvu"
+      ins: "svojstvom"
+      voc: "svojstvo"
+    plural: 
+      nom: "svojstva"
+      acc: "svojstva"
+      gen: "svojstv"
+      loc: "svojstvah"
+      dat: "svojstvam"
+      ins: "svojstvami"
+      voc: "svojstva"

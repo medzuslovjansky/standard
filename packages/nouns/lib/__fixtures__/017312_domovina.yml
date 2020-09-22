@@ -1,0 +1,22 @@
+---
+  id: "17312"
+  word: "domovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "domovina"
+      acc: "domovinų"
+      gen: "domoviny"
+      loc: "domovině"
+      dat: "domovině"
+      ins: "domovinojų"
+      voc: "domovino"
+    plural: 
+      nom: "domoviny"
+      acc: "domoviny"
+      gen: "domovin"
+      loc: "domovinah"
+      dat: "domovinam"
+      ins: "domovinami"
+      voc: "domoviny"

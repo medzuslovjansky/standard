@@ -1,0 +1,23 @@
+---
+  id: "36391"
+  word: "bankrot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bankrot"
+      acc: "bankrota"
+      gen: "bankrota"
+      loc: "bankrotu"
+      dat: "bankrotu"
+      ins: "bankrotom"
+      voc: "bankrote"
+    plural: 
+      nom: "bankroti"
+      acc: "bankrotov"
+      gen: "bankrotov"
+      loc: "bankrotah"
+      dat: "bankrotam"
+      ins: "bankrotami"
+      voc: "bankroti"

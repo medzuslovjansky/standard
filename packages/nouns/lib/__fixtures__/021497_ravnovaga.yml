@@ -1,0 +1,22 @@
+---
+  id: "21497"
+  word: "råvnovaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnovaga"
+      acc: "råvnovagų"
+      gen: "råvnovagy"
+      loc: "råvnovagě"
+      dat: "råvnovagě"
+      ins: "råvnovagojų"
+      voc: "råvnovago"
+    plural: 
+      nom: "råvnovagy"
+      acc: "råvnovagy"
+      gen: "råvnovag"
+      loc: "råvnovagah"
+      dat: "råvnovagam"
+      ins: "råvnovagami"
+      voc: "råvnovagy"

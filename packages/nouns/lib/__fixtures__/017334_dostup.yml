@@ -1,0 +1,22 @@
+---
+  id: "17334"
+  word: "dostųp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dostųp"
+      acc: "dostųp"
+      gen: "dostųpa"
+      loc: "dostųpu"
+      dat: "dostųpu"
+      ins: "dostųpom"
+      voc: "dostųpe"
+    plural: 
+      nom: "dostųpy"
+      acc: "dostųpy"
+      gen: "dostųpov"
+      loc: "dostųpah"
+      dat: "dostųpam"
+      ins: "dostųpami"
+      voc: "dostųpy"

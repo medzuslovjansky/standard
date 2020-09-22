@@ -1,0 +1,22 @@
+---
+  id: "19700"
+  word: "fragment"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fragment"
+      acc: "fragment"
+      gen: "fragmenta"
+      loc: "fragmentu"
+      dat: "fragmentu"
+      ins: "fragmentom"
+      voc: "fragmente"
+    plural: 
+      nom: "fragmenty"
+      acc: "fragmenty"
+      gen: "fragmentov"
+      loc: "fragmentah"
+      dat: "fragmentam"
+      ins: "fragmentami"
+      voc: "fragmenty"

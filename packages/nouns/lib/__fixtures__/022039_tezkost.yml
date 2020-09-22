@@ -1,0 +1,22 @@
+---
+  id: "22039"
+  word: "tęžkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tęžkosť"
+      acc: "tęžkosť"
+      gen: "tęžkosti"
+      loc: "tęžkosti"
+      dat: "tęžkosti"
+      ins: "tęžkosťjų"
+      voc: "tęžkosti"
+    plural: 
+      nom: "tęžkosti"
+      acc: "tęžkosti"
+      gen: "tęžkostij"
+      loc: "tęžkosťah"
+      dat: "tęžkosťam"
+      ins: "tęžkosťami"
+      voc: "tęžkosti"

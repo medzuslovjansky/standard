@@ -1,0 +1,23 @@
+---
+  id: "13271"
+  word: "umnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "umnik"
+      acc: "umnika"
+      gen: "umnika"
+      loc: "umniku"
+      dat: "umniku"
+      ins: "umnikom"
+      voc: "umniče"
+    plural: 
+      nom: "umniki"
+      acc: "umnikov"
+      gen: "umnikov"
+      loc: "umnikah"
+      dat: "umnikam"
+      ins: "umnikami"
+      voc: "umniki"

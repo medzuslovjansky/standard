@@ -1,0 +1,22 @@
+---
+  id: "35582"
+  word: "kompozicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompozicija"
+      acc: "kompozicijų"
+      gen: "kompozicije"
+      loc: "kompoziciji"
+      dat: "kompoziciji"
+      ins: "kompozicijejų"
+      voc: "kompozicijo"
+    plural: 
+      nom: "kompozicije"
+      acc: "kompozicije"
+      gen: "kompozicij"
+      loc: "kompozicijah"
+      dat: "kompozicijam"
+      ins: "kompozicijami"
+      voc: "kompozicije"

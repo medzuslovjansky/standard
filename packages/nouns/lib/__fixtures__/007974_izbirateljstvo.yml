@@ -1,0 +1,22 @@
+---
+  id: "7974"
+  word: "izbirateljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izbirateljstvo"
+      acc: "izbirateljstvo"
+      gen: "izbirateljstva"
+      loc: "izbirateljstvu"
+      dat: "izbirateljstvu"
+      ins: "izbirateljstvom"
+      voc: "izbirateljstvo"
+    plural: 
+      nom: "izbirateljstva"
+      acc: "izbirateljstva"
+      gen: "izbirateljstv"
+      loc: "izbirateljstvah"
+      dat: "izbirateljstvam"
+      ins: "izbirateljstvami"
+      voc: "izbirateljstva"

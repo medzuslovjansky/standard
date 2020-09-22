@@ -1,0 +1,15 @@
+---
+  id: "17710"
+  word: "Krym"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Krym"
+      acc: "Krym"
+      gen: "Kryma"
+      loc: "Krymu"
+      dat: "Krymu"
+      ins: "Krymom"
+      voc: "Kryme"

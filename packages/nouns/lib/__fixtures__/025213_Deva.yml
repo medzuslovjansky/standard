@@ -1,0 +1,22 @@
+---
+  id: "25213"
+  word: "Děva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Děva"
+      acc: "Děvų"
+      gen: "Děvy"
+      loc: "Děvě"
+      dat: "Děvě"
+      ins: "Děvojų"
+      voc: "Děvo"
+    plural: 
+      nom: "Děvy"
+      acc: "Děvy"
+      gen: "Děv"
+      loc: "Děvah"
+      dat: "Děvam"
+      ins: "Děvami"
+      voc: "Děvy"

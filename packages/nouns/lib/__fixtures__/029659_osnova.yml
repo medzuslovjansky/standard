@@ -1,0 +1,22 @@
+---
+  id: "29659"
+  word: "osnova"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osnova"
+      acc: "osnovų"
+      gen: "osnovy"
+      loc: "osnově"
+      dat: "osnově"
+      ins: "osnovojų"
+      voc: "osnovo"
+    plural: 
+      nom: "osnovy"
+      acc: "osnovy"
+      gen: "osnov"
+      loc: "osnovah"
+      dat: "osnovam"
+      ins: "osnovami"
+      voc: "osnovy"

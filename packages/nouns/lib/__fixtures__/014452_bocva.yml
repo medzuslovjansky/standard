@@ -1,0 +1,22 @@
+---
+  id: "14452"
+  word: "bȯčva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bȯčva"
+      acc: "bȯčvų"
+      gen: "bȯčvy"
+      loc: "bȯčvě"
+      dat: "bȯčvě"
+      ins: "bȯčvojų"
+      voc: "bȯčvo"
+    plural: 
+      nom: "bȯčvy"
+      acc: "bȯčvy"
+      gen: "bȯčv"
+      loc: "bȯčvah"
+      dat: "bȯčvam"
+      ins: "bȯčvami"
+      voc: "bȯčvy"

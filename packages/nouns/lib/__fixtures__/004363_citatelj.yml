@@ -1,0 +1,23 @@
+---
+  id: "4363"
+  word: "čitatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čitatelj"
+      acc: "čitatelja"
+      gen: "čitatelja"
+      loc: "čitatelju"
+      dat: "čitatelju"
+      ins: "čitateljem"
+      voc: "čitatelju"
+    plural: 
+      nom: "čitatelji"
+      acc: "čitateljev"
+      gen: "čitateljev"
+      loc: "čitateljah"
+      dat: "čitateljam"
+      ins: "čitateljami"
+      voc: "čitatelji"

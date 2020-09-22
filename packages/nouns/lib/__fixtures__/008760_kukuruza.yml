@@ -1,0 +1,22 @@
+---
+  id: "8760"
+  word: "kukuruza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kukuruza"
+      acc: "kukuruzų"
+      gen: "kukuruzy"
+      loc: "kukuruzě"
+      dat: "kukuruzě"
+      ins: "kukuruzojų"
+      voc: "kukuruzo"
+    plural: 
+      nom: "kukuruzy"
+      acc: "kukuruzy"
+      gen: "kukuruz"
+      loc: "kukuruzah"
+      dat: "kukuruzam"
+      ins: "kukuruzami"
+      voc: "kukuruzy"

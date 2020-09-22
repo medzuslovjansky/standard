@@ -1,0 +1,23 @@
+---
+  id: "31320"
+  word: "voluntarizm"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "voluntarizm"
+      acc: "voluntarizma"
+      gen: "voluntarizma"
+      loc: "voluntarizmu"
+      dat: "voluntarizmu"
+      ins: "voluntarizmom"
+      voc: "voluntarizme"
+    plural: 
+      nom: "voluntarizmi"
+      acc: "voluntarizmov"
+      gen: "voluntarizmov"
+      loc: "voluntarizmah"
+      dat: "voluntarizmam"
+      ins: "voluntarizmami"
+      voc: "voluntarizmi"

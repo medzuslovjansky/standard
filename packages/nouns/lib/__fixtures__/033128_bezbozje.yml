@@ -1,0 +1,15 @@
+---
+  id: "33128"
+  word: "bezbožje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezbožje"
+      acc: "bezbožje"
+      gen: "bezbožja"
+      loc: "bezbožju"
+      dat: "bezbožju"
+      ins: "bezbožjem"
+      voc: "bezbožje"

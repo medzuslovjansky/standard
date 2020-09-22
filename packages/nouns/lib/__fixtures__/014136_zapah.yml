@@ -1,0 +1,22 @@
+---
+  id: "14136"
+  word: "zapah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapah"
+      acc: "zapah"
+      gen: "zapaha"
+      loc: "zapahu"
+      dat: "zapahu"
+      ins: "zapahom"
+      voc: "zapaše"
+    plural: 
+      nom: "zapahy"
+      acc: "zapahy"
+      gen: "zapahov"
+      loc: "zapahah"
+      dat: "zapaham"
+      ins: "zapahami"
+      voc: "zapahy"

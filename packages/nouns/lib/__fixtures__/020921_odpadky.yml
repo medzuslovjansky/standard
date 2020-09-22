@@ -1,0 +1,15 @@
+---
+  id: "20921"
+  word: "odpadky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "odpadky"
+      acc: "odpadky"
+      gen: "odpadkov"
+      loc: "odpadkah"
+      dat: "odpadkam"
+      ins: "odpadkami"
+      voc: "odpadky"

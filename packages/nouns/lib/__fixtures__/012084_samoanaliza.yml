@@ -1,0 +1,22 @@
+---
+  id: "12084"
+  word: "samoanaliza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samoanaliza"
+      acc: "samoanalizų"
+      gen: "samoanalizy"
+      loc: "samoanalizě"
+      dat: "samoanalizě"
+      ins: "samoanalizojų"
+      voc: "samoanalizo"
+    plural: 
+      nom: "samoanalizy"
+      acc: "samoanalizy"
+      gen: "samoanaliz"
+      loc: "samoanalizah"
+      dat: "samoanalizam"
+      ins: "samoanalizami"
+      voc: "samoanalizy"

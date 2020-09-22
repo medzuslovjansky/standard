@@ -1,0 +1,23 @@
+---
+  id: "4469"
+  word: "strahlivec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "strahlivec"
+      acc: "strahlivca"
+      gen: "strahlivca"
+      loc: "strahlivcu"
+      dat: "strahlivcu"
+      ins: "strahlivcem"
+      voc: "strahlivče"
+    plural: 
+      nom: "strahlivci"
+      acc: "strahlivcev"
+      gen: "strahlivcev"
+      loc: "strahlivcah"
+      dat: "strahlivcam"
+      ins: "strahlivcami"
+      voc: "strahlivci"

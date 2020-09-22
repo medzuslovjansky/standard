@@ -1,0 +1,22 @@
+---
+  id: "30829"
+  word: "svitȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svitȯk"
+      acc: "svitȯk"
+      gen: "svitka"
+      loc: "svitku"
+      dat: "svitku"
+      ins: "svitkom"
+      voc: "svitče"
+    plural: 
+      nom: "svitky"
+      acc: "svitky"
+      gen: "svitkov"
+      loc: "svitkah"
+      dat: "svitkam"
+      ins: "svitkami"
+      voc: "svitky"

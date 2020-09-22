@@ -1,0 +1,22 @@
+---
+  id: "201"
+  word: "boljnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "boljnica"
+      acc: "boljnicų"
+      gen: "boljnice"
+      loc: "boljnici"
+      dat: "boljnici"
+      ins: "boljnicejų"
+      voc: "boljnico"
+    plural: 
+      nom: "boljnice"
+      acc: "boljnice"
+      gen: "boljnic"
+      loc: "boljnicah"
+      dat: "boljnicam"
+      ins: "boljnicami"
+      voc: "boljnice"

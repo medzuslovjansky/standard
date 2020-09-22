@@ -1,0 +1,22 @@
+---
+  id: "31605"
+  word: "zefir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zefir"
+      acc: "zefir"
+      gen: "zefira"
+      loc: "zefiru"
+      dat: "zefiru"
+      ins: "zefirom"
+      voc: "zefire"
+    plural: 
+      nom: "zefiry"
+      acc: "zefiry"
+      gen: "zefirov"
+      loc: "zefirah"
+      dat: "zefiram"
+      ins: "zefirami"
+      voc: "zefiry"

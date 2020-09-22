@@ -1,0 +1,22 @@
+---
+  id: "31448"
+  word: "vyvěska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vyvěska"
+      acc: "vyvěskų"
+      gen: "vyvěsky"
+      loc: "vyvěskě"
+      dat: "vyvěskě"
+      ins: "vyvěskojų"
+      voc: "vyvěsko"
+    plural: 
+      nom: "vyvěsky"
+      acc: "vyvěsky"
+      gen: "vyvěsȯk"
+      loc: "vyvěskah"
+      dat: "vyvěskam"
+      ins: "vyvěskami"
+      voc: "vyvěsky"

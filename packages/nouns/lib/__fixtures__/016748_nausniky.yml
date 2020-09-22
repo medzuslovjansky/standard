@@ -1,0 +1,15 @@
+---
+  id: "16748"
+  word: "naušniky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "naušniky"
+      acc: "naušniky"
+      gen: "naušnikov"
+      loc: "naušnikah"
+      dat: "naušnikam"
+      ins: "naušnikami"
+      voc: "naušniky"

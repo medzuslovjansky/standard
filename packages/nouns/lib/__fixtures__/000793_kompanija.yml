@@ -1,0 +1,22 @@
+---
+  id: "793"
+  word: "kompanija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompanija"
+      acc: "kompanijų"
+      gen: "kompanije"
+      loc: "kompaniji"
+      dat: "kompaniji"
+      ins: "kompanijejų"
+      voc: "kompanijo"
+    plural: 
+      nom: "kompanije"
+      acc: "kompanije"
+      gen: "kompanij"
+      loc: "kompanijah"
+      dat: "kompanijam"
+      ins: "kompanijami"
+      voc: "kompanije"

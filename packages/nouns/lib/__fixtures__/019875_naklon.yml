@@ -1,0 +1,22 @@
+---
+  id: "19875"
+  word: "naklon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naklon"
+      acc: "naklon"
+      gen: "naklona"
+      loc: "naklonu"
+      dat: "naklonu"
+      ins: "naklonom"
+      voc: "naklone"
+    plural: 
+      nom: "naklony"
+      acc: "naklony"
+      gen: "naklonov"
+      loc: "naklonah"
+      dat: "naklonam"
+      ins: "naklonami"
+      voc: "naklony"

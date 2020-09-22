@@ -1,0 +1,22 @@
+---
+  id: "35769"
+  word: "strěľka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strěľka"
+      acc: "strěľkų"
+      gen: "strěľky"
+      loc: "strěľkě"
+      dat: "strěľkě"
+      ins: "strěľkojų"
+      voc: "strěľko"
+    plural: 
+      nom: "strěľky"
+      acc: "strěľky"
+      gen: "strěľek"
+      loc: "strěľkah"
+      dat: "strěľkam"
+      ins: "strěľkami"
+      voc: "strěľky"

@@ -1,0 +1,22 @@
+---
+  id: "729"
+  word: "skala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skala"
+      acc: "skalų"
+      gen: "skaly"
+      loc: "skalě"
+      dat: "skalě"
+      ins: "skalojų"
+      voc: "skalo"
+    plural: 
+      nom: "skaly"
+      acc: "skaly"
+      gen: "skal"
+      loc: "skalah"
+      dat: "skalam"
+      ins: "skalami"
+      voc: "skaly"

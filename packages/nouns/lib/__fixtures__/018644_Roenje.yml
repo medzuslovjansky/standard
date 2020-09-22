@@ -1,0 +1,22 @@
+---
+  id: "18644"
+  word: "Rođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "Rođeńje"
+      acc: "Rođeńje"
+      gen: "Rođeńja"
+      loc: "Rođeńju"
+      dat: "Rođeńju"
+      ins: "Rođeńjem"
+      voc: "Rođeńje"
+    plural: 
+      nom: "Rođeńja"
+      acc: "Rođeńja"
+      gen: "Rođenij"
+      loc: "Rođeńjah"
+      dat: "Rođeńjam"
+      ins: "Rođeńjami"
+      voc: "Rođeńja"

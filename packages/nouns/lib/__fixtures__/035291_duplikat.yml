@@ -1,0 +1,22 @@
+---
+  id: "35291"
+  word: "duplikat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "duplikat"
+      acc: "duplikat"
+      gen: "duplikata"
+      loc: "duplikatu"
+      dat: "duplikatu"
+      ins: "duplikatom"
+      voc: "duplikate"
+    plural: 
+      nom: "duplikaty"
+      acc: "duplikaty"
+      gen: "duplikatov"
+      loc: "duplikatah"
+      dat: "duplikatam"
+      ins: "duplikatami"
+      voc: "duplikaty"

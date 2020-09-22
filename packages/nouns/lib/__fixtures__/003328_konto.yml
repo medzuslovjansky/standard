@@ -1,0 +1,22 @@
+---
+  id: "3328"
+  word: "konto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "konto"
+      acc: "konto"
+      gen: "konta"
+      loc: "kontu"
+      dat: "kontu"
+      ins: "kontom"
+      voc: "konto"
+    plural: 
+      nom: "konta"
+      acc: "konta"
+      gen: "kont"
+      loc: "kontah"
+      dat: "kontam"
+      ins: "kontami"
+      voc: "konta"

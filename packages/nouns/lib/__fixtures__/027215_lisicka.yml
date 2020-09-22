@@ -1,0 +1,22 @@
+---
+  id: "27215"
+  word: "lisička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lisička"
+      acc: "lisičkų"
+      gen: "lisičky"
+      loc: "lisičkě"
+      dat: "lisičkě"
+      ins: "lisičkojų"
+      voc: "lisičko"
+    plural: 
+      nom: "lisičky"
+      acc: "lisičky"
+      gen: "lisiček"
+      loc: "lisičkah"
+      dat: "lisičkam"
+      ins: "lisičkami"
+      voc: "lisičky"

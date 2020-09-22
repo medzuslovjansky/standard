@@ -1,0 +1,23 @@
+---
+  id: "15374"
+  word: "lěnivec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lěnivec"
+      acc: "lěnivca"
+      gen: "lěnivca"
+      loc: "lěnivcu"
+      dat: "lěnivcu"
+      ins: "lěnivcem"
+      voc: "lěnivče"
+    plural: 
+      nom: "lěnivci"
+      acc: "lěnivcev"
+      gen: "lěnivcev"
+      loc: "lěnivcah"
+      dat: "lěnivcam"
+      ins: "lěnivcami"
+      voc: "lěnivci"

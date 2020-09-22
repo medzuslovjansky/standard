@@ -1,0 +1,23 @@
+---
+  id: "323"
+  word: "boćan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "boćan"
+      acc: "boćana"
+      gen: "boćana"
+      loc: "boćanu"
+      dat: "boćanu"
+      ins: "boćanom"
+      voc: "boćane"
+    plural: 
+      nom: "boćani"
+      acc: "boćanov"
+      gen: "boćanov"
+      loc: "boćanah"
+      dat: "boćanam"
+      ins: "boćanami"
+      voc: "boćani"

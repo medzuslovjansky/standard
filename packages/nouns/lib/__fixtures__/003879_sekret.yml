@@ -1,0 +1,22 @@
+---
+  id: "3879"
+  word: "sekret"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sekret"
+      acc: "sekret"
+      gen: "sekreta"
+      loc: "sekretu"
+      dat: "sekretu"
+      ins: "sekretom"
+      voc: "sekrete"
+    plural: 
+      nom: "sekrety"
+      acc: "sekrety"
+      gen: "sekretov"
+      loc: "sekretah"
+      dat: "sekretam"
+      ins: "sekretami"
+      voc: "sekrety"

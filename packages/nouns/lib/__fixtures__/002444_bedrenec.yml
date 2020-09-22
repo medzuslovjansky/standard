@@ -1,0 +1,23 @@
+---
+  id: "2444"
+  word: "bedrenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bedrenec"
+      acc: "bedrenca"
+      gen: "bedrenca"
+      loc: "bedrencu"
+      dat: "bedrencu"
+      ins: "bedrencem"
+      voc: "bedrenče"
+    plural: 
+      nom: "bedrenci"
+      acc: "bedrencev"
+      gen: "bedrencev"
+      loc: "bedrencah"
+      dat: "bedrencam"
+      ins: "bedrencami"
+      voc: "bedrenci"

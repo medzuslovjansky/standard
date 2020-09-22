@@ -1,0 +1,22 @@
+---
+  id: "29478"
+  word: "onuća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "onuća"
+      acc: "onućų"
+      gen: "onuće"
+      loc: "onući"
+      dat: "onući"
+      ins: "onućejų"
+      voc: "onućo"
+    plural: 
+      nom: "onuće"
+      acc: "onuće"
+      gen: "onuć"
+      loc: "onućah"
+      dat: "onućam"
+      ins: "onućami"
+      voc: "onuće"

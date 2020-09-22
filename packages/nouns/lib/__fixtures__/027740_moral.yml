@@ -1,0 +1,22 @@
+---
+  id: "27740"
+  word: "moral"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "moral"
+      acc: "moral"
+      gen: "morala"
+      loc: "moralu"
+      dat: "moralu"
+      ins: "moralom"
+      voc: "morale"
+    plural: 
+      nom: "moraly"
+      acc: "moraly"
+      gen: "moralov"
+      loc: "moralah"
+      dat: "moralam"
+      ins: "moralami"
+      voc: "moraly"

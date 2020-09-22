@@ -1,0 +1,22 @@
+---
+  id: "19210"
+  word: "vęzalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vęzalo"
+      acc: "vęzalo"
+      gen: "vęzala"
+      loc: "vęzalu"
+      dat: "vęzalu"
+      ins: "vęzalom"
+      voc: "vęzalo"
+    plural: 
+      nom: "vęzala"
+      acc: "vęzala"
+      gen: "vęzal"
+      loc: "vęzalah"
+      dat: "vęzalam"
+      ins: "vęzalami"
+      voc: "vęzala"

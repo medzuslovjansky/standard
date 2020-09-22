@@ -1,0 +1,22 @@
+---
+  id: "24253"
+  word: "alkov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alkov"
+      acc: "alkov"
+      gen: "alkova"
+      loc: "alkovu"
+      dat: "alkovu"
+      ins: "alkovom"
+      voc: "alkove"
+    plural: 
+      nom: "alkovy"
+      acc: "alkovy"
+      gen: "alkovov"
+      loc: "alkovah"
+      dat: "alkovam"
+      ins: "alkovami"
+      voc: "alkovy"

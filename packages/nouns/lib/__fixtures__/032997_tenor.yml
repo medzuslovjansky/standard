@@ -1,0 +1,23 @@
+---
+  id: "32997"
+  word: "tenor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tenor"
+      acc: "tenora"
+      gen: "tenora"
+      loc: "tenoru"
+      dat: "tenoru"
+      ins: "tenorom"
+      voc: "tenore"
+    plural: 
+      nom: "tenori"
+      acc: "tenorov"
+      gen: "tenorov"
+      loc: "tenorah"
+      dat: "tenoram"
+      ins: "tenorami"
+      voc: "tenori"

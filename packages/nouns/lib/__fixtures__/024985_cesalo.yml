@@ -1,0 +1,22 @@
+---
+  id: "24985"
+  word: "česalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "česalo"
+      acc: "česalo"
+      gen: "česala"
+      loc: "česalu"
+      dat: "česalu"
+      ins: "česalom"
+      voc: "česalo"
+    plural: 
+      nom: "česala"
+      acc: "česala"
+      gen: "česal"
+      loc: "česalah"
+      dat: "česalam"
+      ins: "česalami"
+      voc: "česala"

@@ -1,0 +1,22 @@
+---
+  id: "23453"
+  word: "saksofon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "saksofon"
+      acc: "saksofon"
+      gen: "saksofona"
+      loc: "saksofonu"
+      dat: "saksofonu"
+      ins: "saksofonom"
+      voc: "saksofone"
+    plural: 
+      nom: "saksofony"
+      acc: "saksofony"
+      gen: "saksofonov"
+      loc: "saksofonah"
+      dat: "saksofonam"
+      ins: "saksofonami"
+      voc: "saksofony"

@@ -1,0 +1,22 @@
+---
+  id: "843"
+  word: "zvųk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvųk"
+      acc: "zvųk"
+      gen: "zvųka"
+      loc: "zvųku"
+      dat: "zvųku"
+      ins: "zvųkom"
+      voc: "zvųče"
+    plural: 
+      nom: "zvųky"
+      acc: "zvųky"
+      gen: "zvųkov"
+      loc: "zvųkah"
+      dat: "zvųkam"
+      ins: "zvųkami"
+      voc: "zvųky"

@@ -1,0 +1,22 @@
+---
+  id: "4474"
+  word: "sȯvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sȯvět"
+      acc: "sȯvět"
+      gen: "sȯvěta"
+      loc: "sȯvětu"
+      dat: "sȯvětu"
+      ins: "sȯvětom"
+      voc: "sȯvěte"
+    plural: 
+      nom: "sȯvěty"
+      acc: "sȯvěty"
+      gen: "sȯvětov"
+      loc: "sȯvětah"
+      dat: "sȯvětam"
+      ins: "sȯvětami"
+      voc: "sȯvěty"

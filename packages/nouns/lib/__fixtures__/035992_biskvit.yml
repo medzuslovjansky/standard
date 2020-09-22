@@ -1,0 +1,22 @@
+---
+  id: "35992"
+  word: "biskvit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "biskvit"
+      acc: "biskvit"
+      gen: "biskvita"
+      loc: "biskvitu"
+      dat: "biskvitu"
+      ins: "biskvitom"
+      voc: "biskvite"
+    plural: 
+      nom: "biskvity"
+      acc: "biskvity"
+      gen: "biskvitov"
+      loc: "biskvitah"
+      dat: "biskvitam"
+      ins: "biskvitami"
+      voc: "biskvity"

@@ -1,0 +1,22 @@
+---
+  id: "30679"
+  word: "serpentin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "serpentin"
+      acc: "serpentin"
+      gen: "serpentina"
+      loc: "serpentinu"
+      dat: "serpentinu"
+      ins: "serpentinom"
+      voc: "serpentine"
+    plural: 
+      nom: "serpentiny"
+      acc: "serpentiny"
+      gen: "serpentinov"
+      loc: "serpentinah"
+      dat: "serpentinam"
+      ins: "serpentinami"
+      voc: "serpentiny"

@@ -1,0 +1,23 @@
+---
+  id: "3489"
+  word: "kapitan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kapitan"
+      acc: "kapitana"
+      gen: "kapitana"
+      loc: "kapitanu"
+      dat: "kapitanu"
+      ins: "kapitanom"
+      voc: "kapitane"
+    plural: 
+      nom: "kapitani"
+      acc: "kapitanov"
+      gen: "kapitanov"
+      loc: "kapitanah"
+      dat: "kapitanam"
+      ins: "kapitanami"
+      voc: "kapitani"

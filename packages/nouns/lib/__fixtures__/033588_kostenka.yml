@@ -1,0 +1,22 @@
+---
+  id: "33588"
+  word: "kostěnka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kostěnka"
+      acc: "kostěnkų"
+      gen: "kostěnky"
+      loc: "kostěnkě"
+      dat: "kostěnkě"
+      ins: "kostěnkojų"
+      voc: "kostěnko"
+    plural: 
+      nom: "kostěnky"
+      acc: "kostěnky"
+      gen: "kostěnȯk"
+      loc: "kostěnkah"
+      dat: "kostěnkam"
+      ins: "kostěnkami"
+      voc: "kostěnky"

@@ -1,0 +1,22 @@
+---
+  id: "22575"
+  word: "međuvrěmę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "međuvrěmę"
+      acc: "međuvrěmę"
+      gen: "međuvrěmene / međuvrěmena"
+      loc: "međuvrěmeni / međuvrěmenu"
+      dat: "međuvrěmeni / međuvrěmenu"
+      ins: "međuvrěmenem / međuvrěmenom"
+      voc: "međuvrěmę"
+    plural: 
+      nom: "međuvrěmena"
+      acc: "međuvrěmena"
+      gen: "međuvrěmen"
+      loc: "međuvrěmenah"
+      dat: "međuvrěmenam"
+      ins: "međuvrěmenami"
+      voc: "međuvrěmena"

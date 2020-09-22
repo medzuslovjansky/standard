@@ -1,0 +1,23 @@
+---
+  id: "18303"
+  word: "pȯlž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pȯlž"
+      acc: "pȯlža"
+      gen: "pȯlža"
+      loc: "pȯlžu"
+      dat: "pȯlžu"
+      ins: "pȯlžem"
+      voc: "pȯlžu"
+    plural: 
+      nom: "pȯlži"
+      acc: "pȯlžev"
+      gen: "pȯlžev"
+      loc: "pȯlžah"
+      dat: "pȯlžam"
+      ins: "pȯlžami"
+      voc: "pȯlži"

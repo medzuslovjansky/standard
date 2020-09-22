@@ -1,0 +1,22 @@
+---
+  id: "170"
+  word: "sekunda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sekunda"
+      acc: "sekundų"
+      gen: "sekundy"
+      loc: "sekundě"
+      dat: "sekundě"
+      ins: "sekundojų"
+      voc: "sekundo"
+    plural: 
+      nom: "sekundy"
+      acc: "sekundy"
+      gen: "sekund"
+      loc: "sekundah"
+      dat: "sekundam"
+      ins: "sekundami"
+      voc: "sekundy"

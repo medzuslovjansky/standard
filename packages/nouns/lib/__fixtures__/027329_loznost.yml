@@ -1,0 +1,22 @@
+---
+  id: "27329"
+  word: "lȯžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lȯžnosť"
+      acc: "lȯžnosť"
+      gen: "lȯžnosti"
+      loc: "lȯžnosti"
+      dat: "lȯžnosti"
+      ins: "lȯžnosťjų"
+      voc: "lȯžnosti"
+    plural: 
+      nom: "lȯžnosti"
+      acc: "lȯžnosti"
+      gen: "lȯžnostij"
+      loc: "lȯžnosťah"
+      dat: "lȯžnosťam"
+      ins: "lȯžnosťami"
+      voc: "lȯžnosti"

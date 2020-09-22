@@ -1,0 +1,22 @@
+---
+  id: "21553"
+  word: "samotnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samotnosť"
+      acc: "samotnosť"
+      gen: "samotnosti"
+      loc: "samotnosti"
+      dat: "samotnosti"
+      ins: "samotnosťjų"
+      voc: "samotnosti"
+    plural: 
+      nom: "samotnosti"
+      acc: "samotnosti"
+      gen: "samotnostij"
+      loc: "samotnosťah"
+      dat: "samotnosťam"
+      ins: "samotnosťami"
+      voc: "samotnosti"

@@ -1,0 +1,22 @@
+---
+  id: "2412"
+  word: "pričina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pričina"
+      acc: "pričinų"
+      gen: "pričiny"
+      loc: "pričině"
+      dat: "pričině"
+      ins: "pričinojų"
+      voc: "pričino"
+    plural: 
+      nom: "pričiny"
+      acc: "pričiny"
+      gen: "pričin"
+      loc: "pričinah"
+      dat: "pričinam"
+      ins: "pričinami"
+      voc: "pričiny"

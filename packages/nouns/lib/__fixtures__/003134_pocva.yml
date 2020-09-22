@@ -1,0 +1,22 @@
+---
+  id: "3134"
+  word: "počva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "počva"
+      acc: "počvų"
+      gen: "počvy"
+      loc: "počvě"
+      dat: "počvě"
+      ins: "počvojų"
+      voc: "počvo"
+    plural: 
+      nom: "počvy"
+      acc: "počvy"
+      gen: "počv"
+      loc: "počvah"
+      dat: "počvam"
+      ins: "počvami"
+      voc: "počvy"

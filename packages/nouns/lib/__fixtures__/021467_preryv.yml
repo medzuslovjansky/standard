@@ -1,0 +1,22 @@
+---
+  id: "21467"
+  word: "prěryv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěryv"
+      acc: "prěryv"
+      gen: "prěryva"
+      loc: "prěryvu"
+      dat: "prěryvu"
+      ins: "prěryvom"
+      voc: "prěryve"
+    plural: 
+      nom: "prěryvy"
+      acc: "prěryvy"
+      gen: "prěryvov"
+      loc: "prěryvah"
+      dat: "prěryvam"
+      ins: "prěryvami"
+      voc: "prěryvy"

@@ -1,0 +1,22 @@
+---
+  id: "3507"
+  word: "komfort"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komfort"
+      acc: "komfort"
+      gen: "komforta"
+      loc: "komfortu"
+      dat: "komfortu"
+      ins: "komfortom"
+      voc: "komforte"
+    plural: 
+      nom: "komforty"
+      acc: "komforty"
+      gen: "komfortov"
+      loc: "komfortah"
+      dat: "komfortam"
+      ins: "komfortami"
+      voc: "komforty"

@@ -1,0 +1,22 @@
+---
+  id: "23045"
+  word: "myšelovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "myšelovka"
+      acc: "myšelovkų"
+      gen: "myšelovky"
+      loc: "myšelovkě"
+      dat: "myšelovkě"
+      ins: "myšelovkojų"
+      voc: "myšelovko"
+    plural: 
+      nom: "myšelovky"
+      acc: "myšelovky"
+      gen: "myšelovȯk"
+      loc: "myšelovkah"
+      dat: "myšelovkam"
+      ins: "myšelovkami"
+      voc: "myšelovky"

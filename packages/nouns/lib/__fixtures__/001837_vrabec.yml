@@ -1,0 +1,23 @@
+---
+  id: "1837"
+  word: "vråbec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vråbec"
+      acc: "vråbca"
+      gen: "vråbca"
+      loc: "vråbcu"
+      dat: "vråbcu"
+      ins: "vråbcem"
+      voc: "vråbče"
+    plural: 
+      nom: "vråbci"
+      acc: "vråbcev"
+      gen: "vråbcev"
+      loc: "vråbcah"
+      dat: "vråbcam"
+      ins: "vråbcami"
+      voc: "vråbci"

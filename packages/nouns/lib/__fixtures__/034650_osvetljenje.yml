@@ -1,0 +1,22 @@
+---
+  id: "34650"
+  word: "osvětljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osvětljeńje"
+      acc: "osvětljeńje"
+      gen: "osvětljeńja"
+      loc: "osvětljeńju"
+      dat: "osvětljeńju"
+      ins: "osvětljeńjem"
+      voc: "osvětljeńje"
+    plural: 
+      nom: "osvětljeńja"
+      acc: "osvětljeńja"
+      gen: "osvětljenij"
+      loc: "osvětljeńjah"
+      dat: "osvětljeńjam"
+      ins: "osvětljeńjami"
+      voc: "osvětljeńja"

@@ -1,0 +1,22 @@
+---
+  id: "23754"
+  word: "běžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "běžeńje"
+      acc: "běžeńje"
+      gen: "běžeńja"
+      loc: "běžeńju"
+      dat: "běžeńju"
+      ins: "běžeńjem"
+      voc: "běžeńje"
+    plural: 
+      nom: "běžeńja"
+      acc: "běžeńja"
+      gen: "běženij"
+      loc: "běžeńjah"
+      dat: "běžeńjam"
+      ins: "běžeńjami"
+      voc: "běžeńja"

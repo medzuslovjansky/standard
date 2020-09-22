@@ -1,0 +1,22 @@
+---
+  id: "18490"
+  word: "prislovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prislovje"
+      acc: "prislovje"
+      gen: "prislovja"
+      loc: "prislovju"
+      dat: "prislovju"
+      ins: "prislovjem"
+      voc: "prislovje"
+    plural: 
+      nom: "prislovja"
+      acc: "prislovja"
+      gen: "prislovij"
+      loc: "prislovjah"
+      dat: "prislovjam"
+      ins: "prislovjami"
+      voc: "prislovja"

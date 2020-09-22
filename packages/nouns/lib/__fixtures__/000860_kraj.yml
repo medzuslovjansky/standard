@@ -1,0 +1,22 @@
+---
+  id: "860"
+  word: "kraj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kraj"
+      acc: "kraj"
+      gen: "kraja"
+      loc: "kraju"
+      dat: "kraju"
+      ins: "krajem"
+      voc: "kraju"
+    plural: 
+      nom: "kraje"
+      acc: "kraje"
+      gen: "krajev"
+      loc: "krajah"
+      dat: "krajam"
+      ins: "krajami"
+      voc: "kraje"

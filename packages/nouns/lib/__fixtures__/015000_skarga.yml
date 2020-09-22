@@ -1,0 +1,22 @@
+---
+  id: "15000"
+  word: "skarga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skarga"
+      acc: "skargų"
+      gen: "skargy"
+      loc: "skargě"
+      dat: "skargě"
+      ins: "skargojų"
+      voc: "skargo"
+    plural: 
+      nom: "skargy"
+      acc: "skargy"
+      gen: "skarg"
+      loc: "skargah"
+      dat: "skargam"
+      ins: "skargami"
+      voc: "skargy"

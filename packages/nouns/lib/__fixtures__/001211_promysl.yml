@@ -1,0 +1,22 @@
+---
+  id: "1211"
+  word: "promysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "promysl"
+      acc: "promysl"
+      gen: "promysla"
+      loc: "promyslu"
+      dat: "promyslu"
+      ins: "promyslom"
+      voc: "promysle"
+    plural: 
+      nom: "promysly"
+      acc: "promysly"
+      gen: "promyslov"
+      loc: "promyslah"
+      dat: "promyslam"
+      ins: "promyslami"
+      voc: "promysly"

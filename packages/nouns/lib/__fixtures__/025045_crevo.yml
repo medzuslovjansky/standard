@@ -1,0 +1,22 @@
+---
+  id: "25045"
+  word: "črěvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "črěvo"
+      acc: "črěvo"
+      gen: "črěva"
+      loc: "črěvu"
+      dat: "črěvu"
+      ins: "črěvom"
+      voc: "črěvo"
+    plural: 
+      nom: "črěva"
+      acc: "črěva"
+      gen: "črěv"
+      loc: "črěvah"
+      dat: "črěvam"
+      ins: "črěvami"
+      voc: "črěva"

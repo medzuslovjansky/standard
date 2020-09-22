@@ -1,0 +1,23 @@
+---
+  id: "136"
+  word: "Amerikanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Amerikanec"
+      acc: "Amerikanca"
+      gen: "Amerikanca"
+      loc: "Amerikancu"
+      dat: "Amerikancu"
+      ins: "Amerikancem"
+      voc: "Amerikanče"
+    plural: 
+      nom: "Amerikanci"
+      acc: "Amerikancev"
+      gen: "Amerikancev"
+      loc: "Amerikancah"
+      dat: "Amerikancam"
+      ins: "Amerikancami"
+      voc: "Amerikanci"

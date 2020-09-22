@@ -1,0 +1,22 @@
+---
+  id: "12390"
+  word: "snaha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "snaha"
+      acc: "snahų"
+      gen: "snahy"
+      loc: "snahě"
+      dat: "snahě"
+      ins: "snahojų"
+      voc: "snaho"
+    plural: 
+      nom: "snahy"
+      acc: "snahy"
+      gen: "snah"
+      loc: "snahah"
+      dat: "snaham"
+      ins: "snahami"
+      voc: "snahy"

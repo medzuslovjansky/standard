@@ -1,0 +1,22 @@
+---
+  id: "19787"
+  word: "kljun"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kljun"
+      acc: "kljun"
+      gen: "kljuna"
+      loc: "kljunu"
+      dat: "kljunu"
+      ins: "kljunom"
+      voc: "kljune"
+    plural: 
+      nom: "kljuny"
+      acc: "kljuny"
+      gen: "kljunov"
+      loc: "kljunah"
+      dat: "kljunam"
+      ins: "kljunami"
+      voc: "kljuny"

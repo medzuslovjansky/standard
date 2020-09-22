@@ -1,0 +1,22 @@
+---
+  id: "1540"
+  word: "klej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klej"
+      acc: "klej"
+      gen: "kleja"
+      loc: "kleju"
+      dat: "kleju"
+      ins: "klejem"
+      voc: "kleju"
+    plural: 
+      nom: "kleje"
+      acc: "kleje"
+      gen: "klejev"
+      loc: "klejah"
+      dat: "klejam"
+      ins: "klejami"
+      voc: "kleje"

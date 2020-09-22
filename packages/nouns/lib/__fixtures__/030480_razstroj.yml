@@ -1,0 +1,22 @@
+---
+  id: "30480"
+  word: "råzstroj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzstroj"
+      acc: "råzstroj"
+      gen: "råzstroja"
+      loc: "råzstroju"
+      dat: "råzstroju"
+      ins: "råzstrojem"
+      voc: "råzstroju"
+    plural: 
+      nom: "råzstroje"
+      acc: "råzstroje"
+      gen: "råzstrojev"
+      loc: "råzstrojah"
+      dat: "råzstrojam"
+      ins: "råzstrojami"
+      voc: "råzstroje"

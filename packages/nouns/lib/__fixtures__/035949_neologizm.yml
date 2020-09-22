@@ -1,0 +1,22 @@
+---
+  id: "35949"
+  word: "neologizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "neologizm"
+      acc: "neologizm"
+      gen: "neologizma"
+      loc: "neologizmu"
+      dat: "neologizmu"
+      ins: "neologizmom"
+      voc: "neologizme"
+    plural: 
+      nom: "neologizmy"
+      acc: "neologizmy"
+      gen: "neologizmov"
+      loc: "neologizmah"
+      dat: "neologizmam"
+      ins: "neologizmami"
+      voc: "neologizmy"

@@ -1,0 +1,15 @@
+---
+  id: "36567"
+  word: "Tatarstan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Tatarstan"
+      acc: "Tatarstan"
+      gen: "Tatarstana"
+      loc: "Tatarstanu"
+      dat: "Tatarstanu"
+      ins: "Tatarstanom"
+      voc: "Tatarstane"

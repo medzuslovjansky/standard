@@ -1,0 +1,22 @@
+---
+  id: "21703"
+  word: "stado"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stado"
+      acc: "stado"
+      gen: "stada"
+      loc: "stadu"
+      dat: "stadu"
+      ins: "stadom"
+      voc: "stado"
+    plural: 
+      nom: "stada"
+      acc: "stada"
+      gen: "stad"
+      loc: "stadah"
+      dat: "stadam"
+      ins: "stadami"
+      voc: "stada"

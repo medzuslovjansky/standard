@@ -1,0 +1,22 @@
+---
+  id: "23707"
+  word: "neposlušnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neposlušnosť"
+      acc: "neposlušnosť"
+      gen: "neposlušnosti"
+      loc: "neposlušnosti"
+      dat: "neposlušnosti"
+      ins: "neposlušnosťjų"
+      voc: "neposlušnosti"
+    plural: 
+      nom: "neposlušnosti"
+      acc: "neposlušnosti"
+      gen: "neposlušnostij"
+      loc: "neposlušnosťah"
+      dat: "neposlušnosťam"
+      ins: "neposlušnosťami"
+      voc: "neposlušnosti"

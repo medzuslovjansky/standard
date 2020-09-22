@@ -1,0 +1,22 @@
+---
+  id: "23354"
+  word: "normaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "normaľnosť"
+      acc: "normaľnosť"
+      gen: "normaľnosti"
+      loc: "normaľnosti"
+      dat: "normaľnosti"
+      ins: "normaľnosťjų"
+      voc: "normaľnosti"
+    plural: 
+      nom: "normaľnosti"
+      acc: "normaľnosti"
+      gen: "normaľnostij"
+      loc: "normaľnosťah"
+      dat: "normaľnosťam"
+      ins: "normaľnosťami"
+      voc: "normaľnosti"

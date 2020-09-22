@@ -1,0 +1,22 @@
+---
+  id: "6460"
+  word: "babica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "babica"
+      acc: "babicų"
+      gen: "babice"
+      loc: "babici"
+      dat: "babici"
+      ins: "babicejų"
+      voc: "babico"
+    plural: 
+      nom: "babice"
+      acc: "babice"
+      gen: "babic"
+      loc: "babicah"
+      dat: "babicam"
+      ins: "babicami"
+      voc: "babice"

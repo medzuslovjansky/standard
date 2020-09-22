@@ -1,0 +1,23 @@
+---
+  id: "20734"
+  word: "skunks"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skunks"
+      acc: "skunksa"
+      gen: "skunksa"
+      loc: "skunksu"
+      dat: "skunksu"
+      ins: "skunksom"
+      voc: "skunkse"
+    plural: 
+      nom: "skunksi"
+      acc: "skunksov"
+      gen: "skunksov"
+      loc: "skunksah"
+      dat: "skunksam"
+      ins: "skunksami"
+      voc: "skunksi"

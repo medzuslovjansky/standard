@@ -1,0 +1,22 @@
+---
+  id: "27807"
+  word: "mŕščina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mŕščina"
+      acc: "mŕščinų"
+      gen: "mŕščiny"
+      loc: "mŕščině"
+      dat: "mŕščině"
+      ins: "mŕščinojų"
+      voc: "mŕščino"
+    plural: 
+      nom: "mŕščiny"
+      acc: "mŕščiny"
+      gen: "mŕščin"
+      loc: "mŕščinah"
+      dat: "mŕščinam"
+      ins: "mŕščinami"
+      voc: "mŕščiny"

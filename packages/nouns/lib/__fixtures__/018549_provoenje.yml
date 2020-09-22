@@ -1,0 +1,22 @@
+---
+  id: "18549"
+  word: "provođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "provođeńje"
+      acc: "provođeńje"
+      gen: "provođeńja"
+      loc: "provođeńju"
+      dat: "provođeńju"
+      ins: "provođeńjem"
+      voc: "provođeńje"
+    plural: 
+      nom: "provođeńja"
+      acc: "provođeńja"
+      gen: "provođenij"
+      loc: "provođeńjah"
+      dat: "provođeńjam"
+      ins: "provođeńjami"
+      voc: "provođeńja"

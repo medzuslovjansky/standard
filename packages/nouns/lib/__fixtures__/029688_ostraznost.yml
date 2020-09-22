@@ -1,0 +1,22 @@
+---
+  id: "29688"
+  word: "ostråžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ostråžnosť"
+      acc: "ostråžnosť"
+      gen: "ostråžnosti"
+      loc: "ostråžnosti"
+      dat: "ostråžnosti"
+      ins: "ostråžnosťjų"
+      voc: "ostråžnosti"
+    plural: 
+      nom: "ostråžnosti"
+      acc: "ostråžnosti"
+      gen: "ostråžnostij"
+      loc: "ostråžnosťah"
+      dat: "ostråžnosťam"
+      ins: "ostråžnosťami"
+      voc: "ostråžnosti"

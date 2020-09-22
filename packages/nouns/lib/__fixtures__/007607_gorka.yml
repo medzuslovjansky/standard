@@ -1,0 +1,22 @@
+---
+  id: "7607"
+  word: "gorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gorka"
+      acc: "gorkų"
+      gen: "gorky"
+      loc: "gorkě"
+      dat: "gorkě"
+      ins: "gorkojų"
+      voc: "gorko"
+    plural: 
+      nom: "gorky"
+      acc: "gorky"
+      gen: "gorȯk"
+      loc: "gorkah"
+      dat: "gorkam"
+      ins: "gorkami"
+      voc: "gorky"

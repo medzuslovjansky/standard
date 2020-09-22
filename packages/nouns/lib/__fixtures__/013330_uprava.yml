@@ -1,0 +1,22 @@
+---
+  id: "13330"
+  word: "uprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uprava"
+      acc: "upravų"
+      gen: "upravy"
+      loc: "upravě"
+      dat: "upravě"
+      ins: "upravojų"
+      voc: "upravo"
+    plural: 
+      nom: "upravy"
+      acc: "upravy"
+      gen: "uprav"
+      loc: "upravah"
+      dat: "upravam"
+      ins: "upravami"
+      voc: "upravy"

@@ -1,0 +1,22 @@
+---
+  id: "914"
+  word: "zajedlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zajedlivosť"
+      acc: "zajedlivosť"
+      gen: "zajedlivosti"
+      loc: "zajedlivosti"
+      dat: "zajedlivosti"
+      ins: "zajedlivosťjų"
+      voc: "zajedlivosti"
+    plural: 
+      nom: "zajedlivosti"
+      acc: "zajedlivosti"
+      gen: "zajedlivostij"
+      loc: "zajedlivosťah"
+      dat: "zajedlivosťam"
+      ins: "zajedlivosťami"
+      voc: "zajedlivosti"

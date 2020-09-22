@@ -1,0 +1,22 @@
+---
+  id: "4077"
+  word: "revizija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "revizija"
+      acc: "revizijų"
+      gen: "revizije"
+      loc: "reviziji"
+      dat: "reviziji"
+      ins: "revizijejų"
+      voc: "revizijo"
+    plural: 
+      nom: "revizije"
+      acc: "revizije"
+      gen: "revizij"
+      loc: "revizijah"
+      dat: "revizijam"
+      ins: "revizijami"
+      voc: "revizije"

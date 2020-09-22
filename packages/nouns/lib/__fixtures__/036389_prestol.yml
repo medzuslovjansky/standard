@@ -1,0 +1,22 @@
+---
+  id: "36389"
+  word: "prěstol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěstol"
+      acc: "prěstol"
+      gen: "prěstola"
+      loc: "prěstolu"
+      dat: "prěstolu"
+      ins: "prěstolom"
+      voc: "prěstole"
+    plural: 
+      nom: "prěstoly"
+      acc: "prěstoly"
+      gen: "prěstolov"
+      loc: "prěstolah"
+      dat: "prěstolam"
+      ins: "prěstolami"
+      voc: "prěstoly"

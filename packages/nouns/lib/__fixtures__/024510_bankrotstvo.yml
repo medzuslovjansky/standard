@@ -1,0 +1,22 @@
+---
+  id: "24510"
+  word: "bankrotstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bankrotstvo"
+      acc: "bankrotstvo"
+      gen: "bankrotstva"
+      loc: "bankrotstvu"
+      dat: "bankrotstvu"
+      ins: "bankrotstvom"
+      voc: "bankrotstvo"
+    plural: 
+      nom: "bankrotstva"
+      acc: "bankrotstva"
+      gen: "bankrotstv"
+      loc: "bankrotstvah"
+      dat: "bankrotstvam"
+      ins: "bankrotstvami"
+      voc: "bankrotstva"

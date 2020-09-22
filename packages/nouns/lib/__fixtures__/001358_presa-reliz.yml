@@ -1,0 +1,22 @@
+---
+  id: "1358"
+  word: "presa-reliz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "presa-reliz"
+      acc: "presa-reliz"
+      gen: "presa-reliza"
+      loc: "presa-relizu"
+      dat: "presa-relizu"
+      ins: "presa-relizom"
+      voc: "presa-relize"
+    plural: 
+      nom: "presa-relizy"
+      acc: "presa-relizy"
+      gen: "presa-relizov"
+      loc: "presa-relizah"
+      dat: "presa-relizam"
+      ins: "presa-relizami"
+      voc: "presa-relizy"

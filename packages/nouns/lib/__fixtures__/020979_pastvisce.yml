@@ -1,0 +1,22 @@
+---
+  id: "20979"
+  word: "pastvišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pastvišče"
+      acc: "pastvišče"
+      gen: "pastvišča"
+      loc: "pastvišču"
+      dat: "pastvišču"
+      ins: "pastviščem"
+      voc: "pastvišče"
+    plural: 
+      nom: "pastvišča"
+      acc: "pastvišča"
+      gen: "pastvišč"
+      loc: "pastviščah"
+      dat: "pastviščam"
+      ins: "pastviščami"
+      voc: "pastvišča"

@@ -1,0 +1,22 @@
+---
+  id: "1646"
+  word: "iver"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iver"
+      acc: "iver"
+      gen: "ivera"
+      loc: "iveru"
+      dat: "iveru"
+      ins: "iverom"
+      voc: "ivere"
+    plural: 
+      nom: "ivery"
+      acc: "ivery"
+      gen: "iverov"
+      loc: "iverah"
+      dat: "iveram"
+      ins: "iverami"
+      voc: "ivery"

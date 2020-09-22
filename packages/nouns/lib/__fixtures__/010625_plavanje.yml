@@ -1,0 +1,22 @@
+---
+  id: "10625"
+  word: "plavańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "plavańje"
+      acc: "plavańje"
+      gen: "plavańja"
+      loc: "plavańju"
+      dat: "plavańju"
+      ins: "plavańjem"
+      voc: "plavańje"
+    plural: 
+      nom: "plavańja"
+      acc: "plavańja"
+      gen: "plavanij"
+      loc: "plavańjah"
+      dat: "plavańjam"
+      ins: "plavańjami"
+      voc: "plavańja"

@@ -1,0 +1,22 @@
+---
+  id: "36469"
+  word: "sandala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sandala"
+      acc: "sandalų"
+      gen: "sandaly"
+      loc: "sandalě"
+      dat: "sandalě"
+      ins: "sandalojų"
+      voc: "sandalo"
+    plural: 
+      nom: "sandaly"
+      acc: "sandaly"
+      gen: "sandal"
+      loc: "sandalah"
+      dat: "sandalam"
+      ins: "sandalami"
+      voc: "sandaly"

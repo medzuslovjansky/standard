@@ -1,0 +1,22 @@
+---
+  id: "4797"
+  word: "eksplozija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "eksplozija"
+      acc: "eksplozijų"
+      gen: "eksplozije"
+      loc: "eksploziji"
+      dat: "eksploziji"
+      ins: "eksplozijejų"
+      voc: "eksplozijo"
+    plural: 
+      nom: "eksplozije"
+      acc: "eksplozije"
+      gen: "eksplozij"
+      loc: "eksplozijah"
+      dat: "eksplozijam"
+      ins: "eksplozijami"
+      voc: "eksplozije"

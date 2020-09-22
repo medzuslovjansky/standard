@@ -1,0 +1,15 @@
+---
+  id: "16843"
+  word: "šarm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šarm"
+      acc: "šarm"
+      gen: "šarma"
+      loc: "šarmu"
+      dat: "šarmu"
+      ins: "šarmom"
+      voc: "šarme"

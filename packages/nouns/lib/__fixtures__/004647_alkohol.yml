@@ -1,0 +1,22 @@
+---
+  id: "4647"
+  word: "alkohol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alkohol"
+      acc: "alkohol"
+      gen: "alkohola"
+      loc: "alkoholu"
+      dat: "alkoholu"
+      ins: "alkoholom"
+      voc: "alkohole"
+    plural: 
+      nom: "alkoholy"
+      acc: "alkoholy"
+      gen: "alkoholov"
+      loc: "alkoholah"
+      dat: "alkoholam"
+      ins: "alkoholami"
+      voc: "alkoholy"

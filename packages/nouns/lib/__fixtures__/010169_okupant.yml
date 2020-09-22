@@ -1,0 +1,23 @@
+---
+  id: "10169"
+  word: "okupant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "okupant"
+      acc: "okupanta"
+      gen: "okupanta"
+      loc: "okupantu"
+      dat: "okupantu"
+      ins: "okupantom"
+      voc: "okupante"
+    plural: 
+      nom: "okupanti"
+      acc: "okupantov"
+      gen: "okupantov"
+      loc: "okupantah"
+      dat: "okupantam"
+      ins: "okupantami"
+      voc: "okupanti"

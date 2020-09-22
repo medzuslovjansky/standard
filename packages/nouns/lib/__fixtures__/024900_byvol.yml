@@ -1,0 +1,23 @@
+---
+  id: "24900"
+  word: "byvol"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "byvol"
+      acc: "byvola"
+      gen: "byvola"
+      loc: "byvolu"
+      dat: "byvolu"
+      ins: "byvolom"
+      voc: "byvole"
+    plural: 
+      nom: "byvoli"
+      acc: "byvolov"
+      gen: "byvolov"
+      loc: "byvolah"
+      dat: "byvolam"
+      ins: "byvolami"
+      voc: "byvoli"

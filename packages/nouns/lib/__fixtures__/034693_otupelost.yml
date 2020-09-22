@@ -1,0 +1,22 @@
+---
+  id: "34693"
+  word: "otųpělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "otųpělosť"
+      acc: "otųpělosť"
+      gen: "otųpělosti"
+      loc: "otųpělosti"
+      dat: "otųpělosti"
+      ins: "otųpělosťjų"
+      voc: "otųpělosti"
+    plural: 
+      nom: "otųpělosti"
+      acc: "otųpělosti"
+      gen: "otųpělostij"
+      loc: "otųpělosťah"
+      dat: "otųpělosťam"
+      ins: "otųpělosťami"
+      voc: "otųpělosti"

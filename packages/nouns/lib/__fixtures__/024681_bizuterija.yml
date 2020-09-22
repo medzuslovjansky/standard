@@ -1,0 +1,22 @@
+---
+  id: "24681"
+  word: "bižuterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bižuterija"
+      acc: "bižuterijų"
+      gen: "bižuterije"
+      loc: "bižuteriji"
+      dat: "bižuteriji"
+      ins: "bižuterijejų"
+      voc: "bižuterijo"
+    plural: 
+      nom: "bižuterije"
+      acc: "bižuterije"
+      gen: "bižuterij"
+      loc: "bižuterijah"
+      dat: "bižuterijam"
+      ins: "bižuterijami"
+      voc: "bižuterije"

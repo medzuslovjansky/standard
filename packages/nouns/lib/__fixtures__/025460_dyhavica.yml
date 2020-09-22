@@ -1,0 +1,15 @@
+---
+  id: "25460"
+  word: "dyhavica"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dyhavica"
+      acc: "dyhavicų"
+      gen: "dyhavice"
+      loc: "dyhavici"
+      dat: "dyhavici"
+      ins: "dyhavicejų"
+      voc: "dyhavico"

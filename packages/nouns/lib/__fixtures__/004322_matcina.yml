@@ -1,0 +1,22 @@
+---
+  id: "4322"
+  word: "matčina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "matčina"
+      acc: "matčinų"
+      gen: "matčiny"
+      loc: "matčině"
+      dat: "matčině"
+      ins: "matčinojų"
+      voc: "matčino"
+    plural: 
+      nom: "matčiny"
+      acc: "matčiny"
+      gen: "matčin"
+      loc: "matčinah"
+      dat: "matčinam"
+      ins: "matčinami"
+      voc: "matčiny"

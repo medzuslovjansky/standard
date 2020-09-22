@@ -1,0 +1,22 @@
+---
+  id: "3659"
+  word: "goręćnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "goręćnja"
+      acc: "goręćnjų"
+      gen: "goręćnje"
+      loc: "goręćnji"
+      dat: "goręćnji"
+      ins: "goręćnjejų"
+      voc: "goręćnjo"
+    plural: 
+      nom: "goręćnje"
+      acc: "goręćnje"
+      gen: "goręćnej"
+      loc: "goręćnjah"
+      dat: "goręćnjam"
+      ins: "goręćnjami"
+      voc: "goręćnje"

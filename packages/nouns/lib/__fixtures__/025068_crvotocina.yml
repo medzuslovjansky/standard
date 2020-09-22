@@ -1,0 +1,22 @@
+---
+  id: "25068"
+  word: "črvotočina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črvotočina"
+      acc: "črvotočinų"
+      gen: "črvotočiny"
+      loc: "črvotočině"
+      dat: "črvotočině"
+      ins: "črvotočinojų"
+      voc: "črvotočino"
+    plural: 
+      nom: "črvotočiny"
+      acc: "črvotočiny"
+      gen: "črvotočin"
+      loc: "črvotočinah"
+      dat: "črvotočinam"
+      ins: "črvotočinami"
+      voc: "črvotočiny"

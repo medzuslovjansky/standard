@@ -1,0 +1,22 @@
+---
+  id: "25915"
+  word: "hantelj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hantelj"
+      acc: "hantelj"
+      gen: "hantelji"
+      loc: "hantelji"
+      dat: "hantelji"
+      ins: "hanteljjų"
+      voc: "hantelji"
+    plural: 
+      nom: "hantelji"
+      acc: "hantelji"
+      gen: "hanteljij"
+      loc: "hanteljah"
+      dat: "hanteljam"
+      ins: "hanteljami"
+      voc: "hantelji"

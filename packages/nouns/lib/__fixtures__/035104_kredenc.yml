@@ -1,0 +1,22 @@
+---
+  id: "35104"
+  word: "kredenc"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kredenc"
+      acc: "kredenc"
+      gen: "kredenca"
+      loc: "kredencu"
+      dat: "kredencu"
+      ins: "kredencem"
+      voc: "kredencu"
+    plural: 
+      nom: "kredence"
+      acc: "kredence"
+      gen: "kredencev"
+      loc: "kredencah"
+      dat: "kredencam"
+      ins: "kredencami"
+      voc: "kredence"

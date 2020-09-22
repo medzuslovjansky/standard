@@ -1,0 +1,22 @@
+---
+  id: "17322"
+  word: "dosada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dosada"
+      acc: "dosadų"
+      gen: "dosady"
+      loc: "dosadě"
+      dat: "dosadě"
+      ins: "dosadojų"
+      voc: "dosado"
+    plural: 
+      nom: "dosady"
+      acc: "dosady"
+      gen: "dosad"
+      loc: "dosadah"
+      dat: "dosadam"
+      ins: "dosadami"
+      voc: "dosady"

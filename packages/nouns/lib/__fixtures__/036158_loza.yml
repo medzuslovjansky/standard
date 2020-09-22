@@ -1,0 +1,22 @@
+---
+  id: "36158"
+  word: "loza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "loza"
+      acc: "lozų"
+      gen: "lozy"
+      loc: "lozě"
+      dat: "lozě"
+      ins: "lozojų"
+      voc: "lozo"
+    plural: 
+      nom: "lozy"
+      acc: "lozy"
+      gen: "loz"
+      loc: "lozah"
+      dat: "lozam"
+      ins: "lozami"
+      voc: "lozy"

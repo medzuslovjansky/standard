@@ -1,0 +1,22 @@
+---
+  id: "25058"
+  word: "črtež"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "črtež"
+      acc: "črtež"
+      gen: "črteža"
+      loc: "črtežu"
+      dat: "črtežu"
+      ins: "črtežem"
+      voc: "črtežu"
+    plural: 
+      nom: "črteže"
+      acc: "črteže"
+      gen: "črtežev"
+      loc: "črtežah"
+      dat: "črtežam"
+      ins: "črtežami"
+      voc: "črteže"

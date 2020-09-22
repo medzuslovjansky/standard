@@ -1,0 +1,22 @@
+---
+  id: "35558"
+  word: "ingredient"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ingredient"
+      acc: "ingredient"
+      gen: "ingredienta"
+      loc: "ingredientu"
+      dat: "ingredientu"
+      ins: "ingredientom"
+      voc: "ingrediente"
+    plural: 
+      nom: "ingredienty"
+      acc: "ingredienty"
+      gen: "ingredientov"
+      loc: "ingredientah"
+      dat: "ingredientam"
+      ins: "ingredientami"
+      voc: "ingredienty"

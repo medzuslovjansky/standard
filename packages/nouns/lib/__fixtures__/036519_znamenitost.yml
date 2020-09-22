@@ -1,0 +1,22 @@
+---
+  id: "36519"
+  word: "znamenitosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "znamenitosť"
+      acc: "znamenitosť"
+      gen: "znamenitosti"
+      loc: "znamenitosti"
+      dat: "znamenitosti"
+      ins: "znamenitosťjų"
+      voc: "znamenitosti"
+    plural: 
+      nom: "znamenitosti"
+      acc: "znamenitosti"
+      gen: "znamenitostij"
+      loc: "znamenitosťah"
+      dat: "znamenitosťam"
+      ins: "znamenitosťami"
+      voc: "znamenitosti"

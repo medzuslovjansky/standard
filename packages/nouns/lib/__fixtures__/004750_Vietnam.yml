@@ -1,0 +1,15 @@
+---
+  id: "4750"
+  word: "Vietnam"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Vietnam"
+      acc: "Vietnam"
+      gen: "Vietnama"
+      loc: "Vietnamu"
+      dat: "Vietnamu"
+      ins: "Vietnamom"
+      voc: "Vietname"

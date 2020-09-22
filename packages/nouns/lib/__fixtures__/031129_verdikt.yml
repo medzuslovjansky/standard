@@ -1,0 +1,22 @@
+---
+  id: "31129"
+  word: "verdikt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "verdikt"
+      acc: "verdikt"
+      gen: "verdikta"
+      loc: "verdiktu"
+      dat: "verdiktu"
+      ins: "verdiktom"
+      voc: "verdikte"
+    plural: 
+      nom: "verdikty"
+      acc: "verdikty"
+      gen: "verdiktov"
+      loc: "verdiktah"
+      dat: "verdiktam"
+      ins: "verdiktami"
+      voc: "verdikty"

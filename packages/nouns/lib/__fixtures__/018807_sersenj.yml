@@ -1,0 +1,23 @@
+---
+  id: "18807"
+  word: "šeršenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šeršen / šeršenj"
+      acc: "šeršen / šeršenj"
+      gen: "šeršene / šeršenja"
+      loc: "šeršeni / šeršenju"
+      dat: "šeršeni / šeršenju"
+      ins: "šeršenem / šeršenjem"
+      voc: "šeršen / šeršenju"
+    plural: 
+      nom: "šeršeni / šeršenje"
+      acc: "šeršeni / šeršenje"
+      gen: "šeršenev / šeršenjev"
+      loc: "šeršenah / šeršenjah"
+      dat: "šeršenam / šeršenjam"
+      ins: "šeršenami / šeršenjami"
+      voc: "šeršeni / šeršenje"

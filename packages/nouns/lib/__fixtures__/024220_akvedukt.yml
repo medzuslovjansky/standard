@@ -1,0 +1,22 @@
+---
+  id: "24220"
+  word: "akvedukt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akvedukt"
+      acc: "akvedukt"
+      gen: "akvedukta"
+      loc: "akveduktu"
+      dat: "akveduktu"
+      ins: "akveduktom"
+      voc: "akvedukte"
+    plural: 
+      nom: "akvedukty"
+      acc: "akvedukty"
+      gen: "akveduktov"
+      loc: "akveduktah"
+      dat: "akveduktam"
+      ins: "akveduktami"
+      voc: "akvedukty"

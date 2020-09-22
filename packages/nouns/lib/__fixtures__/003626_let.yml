@@ -1,0 +1,22 @@
+---
+  id: "3626"
+  word: "let"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "let"
+      acc: "let"
+      gen: "leta"
+      loc: "letu"
+      dat: "letu"
+      ins: "letom"
+      voc: "lete"
+    plural: 
+      nom: "lety"
+      acc: "lety"
+      gen: "letov"
+      loc: "letah"
+      dat: "letam"
+      ins: "letami"
+      voc: "lety"

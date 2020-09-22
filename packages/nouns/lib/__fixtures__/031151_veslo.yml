@@ -1,0 +1,22 @@
+---
+  id: "31151"
+  word: "veslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "veslo"
+      acc: "veslo"
+      gen: "vesla"
+      loc: "veslu"
+      dat: "veslu"
+      ins: "veslom"
+      voc: "veslo"
+    plural: 
+      nom: "vesla"
+      acc: "vesla"
+      gen: "vesel"
+      loc: "veslah"
+      dat: "veslam"
+      ins: "veslami"
+      voc: "vesla"

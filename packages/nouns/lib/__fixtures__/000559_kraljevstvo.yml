@@ -1,0 +1,22 @@
+---
+  id: "559"
+  word: "kråljevstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kråljevstvo"
+      acc: "kråljevstvo"
+      gen: "kråljevstva"
+      loc: "kråljevstvu"
+      dat: "kråljevstvu"
+      ins: "kråljevstvom"
+      voc: "kråljevstvo"
+    plural: 
+      nom: "kråljevstva"
+      acc: "kråljevstva"
+      gen: "kråljevstv"
+      loc: "kråljevstvah"
+      dat: "kråljevstvam"
+      ins: "kråljevstvami"
+      voc: "kråljevstva"

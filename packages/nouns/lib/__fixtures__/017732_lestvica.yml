@@ -1,0 +1,22 @@
+---
+  id: "17732"
+  word: "lěstvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěstvica"
+      acc: "lěstvicų"
+      gen: "lěstvice"
+      loc: "lěstvici"
+      dat: "lěstvici"
+      ins: "lěstvicejų"
+      voc: "lěstvico"
+    plural: 
+      nom: "lěstvice"
+      acc: "lěstvice"
+      gen: "lěstvic"
+      loc: "lěstvicah"
+      dat: "lěstvicam"
+      ins: "lěstvicami"
+      voc: "lěstvice"

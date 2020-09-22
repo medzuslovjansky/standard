@@ -1,0 +1,15 @@
+---
+  id: "1640"
+  word: "hristijanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hristijanstvo"
+      acc: "hristijanstvo"
+      gen: "hristijanstva"
+      loc: "hristijanstvu"
+      dat: "hristijanstvu"
+      ins: "hristijanstvom"
+      voc: "hristijanstvo"

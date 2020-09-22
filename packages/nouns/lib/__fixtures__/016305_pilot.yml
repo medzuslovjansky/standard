@@ -1,0 +1,23 @@
+---
+  id: "16305"
+  word: "pilot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pilot"
+      acc: "pilota"
+      gen: "pilota"
+      loc: "pilotu"
+      dat: "pilotu"
+      ins: "pilotom"
+      voc: "pilote"
+    plural: 
+      nom: "piloti"
+      acc: "pilotov"
+      gen: "pilotov"
+      loc: "pilotah"
+      dat: "pilotam"
+      ins: "pilotami"
+      voc: "piloti"

@@ -1,0 +1,15 @@
+---
+  id: "17378"
+  word: "fikcija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fikcija"
+      acc: "fikcijų"
+      gen: "fikcije"
+      loc: "fikciji"
+      dat: "fikciji"
+      ins: "fikcijejų"
+      voc: "fikcijo"

@@ -1,0 +1,22 @@
+---
+  id: "35555"
+  word: "klinika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klinika"
+      acc: "klinikų"
+      gen: "kliniky"
+      loc: "klinikě"
+      dat: "klinikě"
+      ins: "klinikojų"
+      voc: "kliniko"
+    plural: 
+      nom: "kliniky"
+      acc: "kliniky"
+      gen: "klinik"
+      loc: "klinikah"
+      dat: "klinikam"
+      ins: "klinikami"
+      voc: "kliniky"

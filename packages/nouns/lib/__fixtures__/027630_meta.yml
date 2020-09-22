@@ -1,0 +1,22 @@
+---
+  id: "27630"
+  word: "męta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "męta"
+      acc: "mętų"
+      gen: "męty"
+      loc: "mętě"
+      dat: "mętě"
+      ins: "mętojų"
+      voc: "męto"
+    plural: 
+      nom: "męty"
+      acc: "męty"
+      gen: "męt"
+      loc: "mętah"
+      dat: "mętam"
+      ins: "mętami"
+      voc: "męty"

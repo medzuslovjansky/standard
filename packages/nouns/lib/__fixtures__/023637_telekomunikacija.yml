@@ -1,0 +1,22 @@
+---
+  id: "23637"
+  word: "telekomunikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "telekomunikacija"
+      acc: "telekomunikacijų"
+      gen: "telekomunikacije"
+      loc: "telekomunikaciji"
+      dat: "telekomunikaciji"
+      ins: "telekomunikacijejų"
+      voc: "telekomunikacijo"
+    plural: 
+      nom: "telekomunikacije"
+      acc: "telekomunikacije"
+      gen: "telekomunikacij"
+      loc: "telekomunikacijah"
+      dat: "telekomunikacijam"
+      ins: "telekomunikacijami"
+      voc: "telekomunikacije"

@@ -1,0 +1,22 @@
+---
+  id: "29601"
+  word: "oseljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oseljeńje"
+      acc: "oseljeńje"
+      gen: "oseljeńja"
+      loc: "oseljeńju"
+      dat: "oseljeńju"
+      ins: "oseljeńjem"
+      voc: "oseljeńje"
+    plural: 
+      nom: "oseljeńja"
+      acc: "oseljeńja"
+      gen: "oseljenij"
+      loc: "oseljeńjah"
+      dat: "oseljeńjam"
+      ins: "oseljeńjami"
+      voc: "oseljeńja"

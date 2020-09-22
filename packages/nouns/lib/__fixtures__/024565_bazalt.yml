@@ -1,0 +1,15 @@
+---
+  id: "24565"
+  word: "bazalt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bazalt"
+      acc: "bazalt"
+      gen: "bazalta"
+      loc: "bazaltu"
+      dat: "bazaltu"
+      ins: "bazaltom"
+      voc: "bazalte"

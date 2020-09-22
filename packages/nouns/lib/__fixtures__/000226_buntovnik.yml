@@ -1,0 +1,23 @@
+---
+  id: "226"
+  word: "buntovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "buntovnik"
+      acc: "buntovnika"
+      gen: "buntovnika"
+      loc: "buntovniku"
+      dat: "buntovniku"
+      ins: "buntovnikom"
+      voc: "buntovniče"
+    plural: 
+      nom: "buntovniki"
+      acc: "buntovnikov"
+      gen: "buntovnikov"
+      loc: "buntovnikah"
+      dat: "buntovnikam"
+      ins: "buntovnikami"
+      voc: "buntovniki"

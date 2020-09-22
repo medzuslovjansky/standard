@@ -1,0 +1,22 @@
+---
+  id: "25098"
+  word: "daleměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "daleměr"
+      acc: "daleměr"
+      gen: "daleměra"
+      loc: "daleměru"
+      dat: "daleměru"
+      ins: "daleměrom"
+      voc: "daleměre"
+    plural: 
+      nom: "daleměry"
+      acc: "daleměry"
+      gen: "daleměrov"
+      loc: "daleměrah"
+      dat: "daleměram"
+      ins: "daleměrami"
+      voc: "daleměry"

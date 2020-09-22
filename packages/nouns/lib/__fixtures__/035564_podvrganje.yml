@@ -1,0 +1,22 @@
+---
+  id: "35564"
+  word: "podvŕgańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podvŕgańje"
+      acc: "podvŕgańje"
+      gen: "podvŕgańja"
+      loc: "podvŕgańju"
+      dat: "podvŕgańju"
+      ins: "podvŕgańjem"
+      voc: "podvŕgańje"
+    plural: 
+      nom: "podvŕgańja"
+      acc: "podvŕgańja"
+      gen: "podvŕganij"
+      loc: "podvŕgańjah"
+      dat: "podvŕgańjam"
+      ins: "podvŕgańjami"
+      voc: "podvŕgańja"

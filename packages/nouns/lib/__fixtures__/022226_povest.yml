@@ -1,0 +1,22 @@
+---
+  id: "22226"
+  word: "pověsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pověsť"
+      acc: "pověsť"
+      gen: "pověsti"
+      loc: "pověsti"
+      dat: "pověsti"
+      ins: "pověsťjų"
+      voc: "pověsti"
+    plural: 
+      nom: "pověsti"
+      acc: "pověsti"
+      gen: "pověstij"
+      loc: "pověsťah"
+      dat: "pověsťam"
+      ins: "pověsťami"
+      voc: "pověsti"

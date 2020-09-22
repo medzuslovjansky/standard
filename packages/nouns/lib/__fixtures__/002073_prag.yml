@@ -1,0 +1,22 @@
+---
+  id: "2073"
+  word: "pråg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pråg"
+      acc: "pråg"
+      gen: "pråga"
+      loc: "prågu"
+      dat: "prågu"
+      ins: "prågom"
+      voc: "pråže"
+    plural: 
+      nom: "prågy"
+      acc: "prågy"
+      gen: "prågov"
+      loc: "prågah"
+      dat: "prågam"
+      ins: "prågami"
+      voc: "prågy"

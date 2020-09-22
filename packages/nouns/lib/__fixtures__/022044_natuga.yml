@@ -1,0 +1,22 @@
+---
+  id: "22044"
+  word: "natųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "natųga"
+      acc: "natųgų"
+      gen: "natųgy"
+      loc: "natųgě"
+      dat: "natųgě"
+      ins: "natųgojų"
+      voc: "natųgo"
+    plural: 
+      nom: "natųgy"
+      acc: "natųgy"
+      gen: "natųg"
+      loc: "natųgah"
+      dat: "natųgam"
+      ins: "natųgami"
+      voc: "natųgy"

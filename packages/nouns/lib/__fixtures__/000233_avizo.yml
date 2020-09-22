@@ -1,0 +1,22 @@
+---
+  id: "233"
+  word: "avizo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "avizo"
+      acc: "avizo"
+      gen: "aviza"
+      loc: "avizu"
+      dat: "avizu"
+      ins: "avizom"
+      voc: "avizo"
+    plural: 
+      nom: "aviza"
+      acc: "aviza"
+      gen: "aviz"
+      loc: "avizah"
+      dat: "avizam"
+      ins: "avizami"
+      voc: "aviza"

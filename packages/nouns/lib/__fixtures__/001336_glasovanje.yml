@@ -1,0 +1,22 @@
+---
+  id: "1336"
+  word: "glåsovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "glåsovańje"
+      acc: "glåsovańje"
+      gen: "glåsovańja"
+      loc: "glåsovańju"
+      dat: "glåsovańju"
+      ins: "glåsovańjem"
+      voc: "glåsovańje"
+    plural: 
+      nom: "glåsovańja"
+      acc: "glåsovańja"
+      gen: "glåsovanij"
+      loc: "glåsovańjah"
+      dat: "glåsovańjam"
+      ins: "glåsovańjami"
+      voc: "glåsovańja"

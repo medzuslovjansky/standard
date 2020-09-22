@@ -1,0 +1,22 @@
+---
+  id: "31014"
+  word: "vanta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vanta"
+      acc: "vantų"
+      gen: "vanty"
+      loc: "vantě"
+      dat: "vantě"
+      ins: "vantojų"
+      voc: "vanto"
+    plural: 
+      nom: "vanty"
+      acc: "vanty"
+      gen: "vant"
+      loc: "vantah"
+      dat: "vantam"
+      ins: "vantami"
+      voc: "vanty"

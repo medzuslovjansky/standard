@@ -1,0 +1,23 @@
+---
+  id: "15140"
+  word: "vinnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vinnik"
+      acc: "vinnika"
+      gen: "vinnika"
+      loc: "vinniku"
+      dat: "vinniku"
+      ins: "vinnikom"
+      voc: "vinniče"
+    plural: 
+      nom: "vinniki"
+      acc: "vinnikov"
+      gen: "vinnikov"
+      loc: "vinnikah"
+      dat: "vinnikam"
+      ins: "vinnikami"
+      voc: "vinniki"

@@ -1,0 +1,22 @@
+---
+  id: "4986"
+  word: "investicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "investicija"
+      acc: "investicijų"
+      gen: "investicije"
+      loc: "investiciji"
+      dat: "investiciji"
+      ins: "investicijejų"
+      voc: "investicijo"
+    plural: 
+      nom: "investicije"
+      acc: "investicije"
+      gen: "investicij"
+      loc: "investicijah"
+      dat: "investicijam"
+      ins: "investicijami"
+      voc: "investicije"

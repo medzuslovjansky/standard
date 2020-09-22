@@ -1,0 +1,22 @@
+---
+  id: "35705"
+  word: "artefakt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "artefakt"
+      acc: "artefakt"
+      gen: "artefakta"
+      loc: "artefaktu"
+      dat: "artefaktu"
+      ins: "artefaktom"
+      voc: "artefakte"
+    plural: 
+      nom: "artefakty"
+      acc: "artefakty"
+      gen: "artefaktov"
+      loc: "artefaktah"
+      dat: "artefaktam"
+      ins: "artefaktami"
+      voc: "artefakty"

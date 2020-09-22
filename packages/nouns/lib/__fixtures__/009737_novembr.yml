@@ -1,0 +1,15 @@
+---
+  id: "9737"
+  word: "novembr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "novembr"
+      acc: "novembr"
+      gen: "novembra"
+      loc: "novembru"
+      dat: "novembru"
+      ins: "novembrom"
+      voc: "novembre"

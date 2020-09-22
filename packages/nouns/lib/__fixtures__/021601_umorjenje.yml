@@ -1,0 +1,15 @@
+---
+  id: "21601"
+  word: "umorjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "umorjeńje"
+      acc: "umorjeńje"
+      gen: "umorjeńja"
+      loc: "umorjeńju"
+      dat: "umorjeńju"
+      ins: "umorjeńjem"
+      voc: "umorjeńje"

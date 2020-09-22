@@ -1,0 +1,15 @@
+---
+  id: "35529"
+  word: "prisposobjeńja"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "prisposobjeńja"
+      acc: "prisposobjeńja"
+      gen: "prisposobjeńj"
+      loc: "prisposobjeńjah"
+      dat: "prisposobjeńjam"
+      ins: "prisposobjeńjami"
+      voc: "prisposobjeńja"

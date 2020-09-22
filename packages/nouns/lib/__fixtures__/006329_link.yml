@@ -1,0 +1,22 @@
+---
+  id: "6329"
+  word: "link"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "link"
+      acc: "link"
+      gen: "linka"
+      loc: "linku"
+      dat: "linku"
+      ins: "linkom"
+      voc: "linče"
+    plural: 
+      nom: "linky"
+      acc: "linky"
+      gen: "linkov"
+      loc: "linkah"
+      dat: "linkam"
+      ins: "linkami"
+      voc: "linky"

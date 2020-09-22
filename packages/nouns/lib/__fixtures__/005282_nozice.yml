@@ -1,0 +1,15 @@
+---
+  id: "5282"
+  word: "nožice"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nožice"
+      acc: "nožice"
+      gen: "nožic"
+      loc: "nožicah"
+      dat: "nožicam"
+      ins: "nožicami"
+      voc: "nožice"

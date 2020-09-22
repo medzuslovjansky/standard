@@ -1,0 +1,22 @@
+---
+  id: "1263"
+  word: "centr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "centr"
+      acc: "centr"
+      gen: "centra"
+      loc: "centru"
+      dat: "centru"
+      ins: "centrom"
+      voc: "centre"
+    plural: 
+      nom: "centry"
+      acc: "centry"
+      gen: "centrov"
+      loc: "centrah"
+      dat: "centram"
+      ins: "centrami"
+      voc: "centry"

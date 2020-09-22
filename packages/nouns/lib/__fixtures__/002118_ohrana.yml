@@ -1,0 +1,22 @@
+---
+  id: "2118"
+  word: "ohråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ohråna"
+      acc: "ohrånų"
+      gen: "ohråny"
+      loc: "ohråně"
+      dat: "ohråně"
+      ins: "ohrånojų"
+      voc: "ohråno"
+    plural: 
+      nom: "ohråny"
+      acc: "ohråny"
+      gen: "ohrån"
+      loc: "ohrånah"
+      dat: "ohrånam"
+      ins: "ohrånami"
+      voc: "ohråny"

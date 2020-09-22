@@ -1,0 +1,23 @@
+---
+  id: "16738"
+  word: "zloty"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zloty"
+      acc: "zloty"
+      gen: "zlotogo"
+      loc: "zlotom"
+      dat: "zlotomu"
+      ins: "zlotym"
+      voc: "zloty"
+    plural: 
+      nom: "zlote"
+      acc: "zlote"
+      gen: "zlotyh"
+      loc: "zlotyh"
+      dat: "zlotym"
+      ins: "zlotymi"
+      voc: "zlote"

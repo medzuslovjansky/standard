@@ -1,0 +1,22 @@
+---
+  id: "4545"
+  word: "glåsnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glåsnik"
+      acc: "glåsnik"
+      gen: "glåsnika"
+      loc: "glåsniku"
+      dat: "glåsniku"
+      ins: "glåsnikom"
+      voc: "glåsniče"
+    plural: 
+      nom: "glåsniky"
+      acc: "glåsniky"
+      gen: "glåsnikov"
+      loc: "glåsnikah"
+      dat: "glåsnikam"
+      ins: "glåsnikami"
+      voc: "glåsniky"

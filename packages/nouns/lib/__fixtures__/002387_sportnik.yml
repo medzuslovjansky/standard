@@ -1,0 +1,23 @@
+---
+  id: "2387"
+  word: "sportnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sportnik"
+      acc: "sportnika"
+      gen: "sportnika"
+      loc: "sportniku"
+      dat: "sportniku"
+      ins: "sportnikom"
+      voc: "sportniče"
+    plural: 
+      nom: "sportniki"
+      acc: "sportnikov"
+      gen: "sportnikov"
+      loc: "sportnikah"
+      dat: "sportnikam"
+      ins: "sportnikami"
+      voc: "sportniki"

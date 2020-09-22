@@ -1,0 +1,22 @@
+---
+  id: "35821"
+  word: "spusť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spusť"
+      acc: "spusť"
+      gen: "spusti"
+      loc: "spusti"
+      dat: "spusti"
+      ins: "spusťjų"
+      voc: "spusti"
+    plural: 
+      nom: "spusti"
+      acc: "spusti"
+      gen: "spustij"
+      loc: "spusťah"
+      dat: "spusťam"
+      ins: "spusťami"
+      voc: "spusti"

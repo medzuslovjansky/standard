@@ -1,0 +1,22 @@
+---
+  id: "30257"
+  word: "råzkryťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzkryťje"
+      acc: "råzkryťje"
+      gen: "råzkryťja"
+      loc: "råzkryťju"
+      dat: "råzkryťju"
+      ins: "råzkryťjem"
+      voc: "råzkryťje"
+    plural: 
+      nom: "råzkryťja"
+      acc: "råzkryťja"
+      gen: "råzkrytij"
+      loc: "råzkryťjah"
+      dat: "råzkryťjam"
+      ins: "råzkryťjami"
+      voc: "råzkryťja"

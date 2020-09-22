@@ -1,0 +1,22 @@
+---
+  id: "2664"
+  word: "linija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "linija"
+      acc: "linijų"
+      gen: "linije"
+      loc: "liniji"
+      dat: "liniji"
+      ins: "linijejų"
+      voc: "linijo"
+    plural: 
+      nom: "linije"
+      acc: "linije"
+      gen: "linij"
+      loc: "linijah"
+      dat: "linijam"
+      ins: "linijami"
+      voc: "linije"

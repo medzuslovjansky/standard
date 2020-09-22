@@ -1,0 +1,22 @@
+---
+  id: "15269"
+  word: "četyrivųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "četyrivųgȯľnik"
+      acc: "četyrivųgȯľnik"
+      gen: "četyrivųgȯľnika"
+      loc: "četyrivųgȯľniku"
+      dat: "četyrivųgȯľniku"
+      ins: "četyrivųgȯľnikom"
+      voc: "četyrivųgȯľniče"
+    plural: 
+      nom: "četyrivųgȯľniky"
+      acc: "četyrivųgȯľniky"
+      gen: "četyrivųgȯľnikov"
+      loc: "četyrivųgȯľnikah"
+      dat: "četyrivųgȯľnikam"
+      ins: "četyrivųgȯľnikami"
+      voc: "četyrivųgȯľniky"

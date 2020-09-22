@@ -1,0 +1,24 @@
+---
+  id: "2975"
+  word: "diavȯl"
+  meta: 
+    irregularity: "(diavla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "diav(ȯ)l"
+      acc: "diav(ȯ)la"
+      gen: "diav(ȯ)la"
+      loc: "diav(ȯ)lu"
+      dat: "diav(ȯ)lu"
+      ins: "diav(ȯ)lom"
+      voc: "diav(ȯ)le"
+    plural: 
+      nom: "diav(ȯ)li"
+      acc: "diav(ȯ)lov"
+      gen: "diav(ȯ)lov"
+      loc: "diav(ȯ)lah"
+      dat: "diav(ȯ)lam"
+      ins: "diav(ȯ)lami"
+      voc: "diav(ȯ)li"

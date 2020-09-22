@@ -1,0 +1,22 @@
+---
+  id: "15056"
+  word: "svila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svila"
+      acc: "svilų"
+      gen: "svily"
+      loc: "svilě"
+      dat: "svilě"
+      ins: "svilojų"
+      voc: "svilo"
+    plural: 
+      nom: "svily"
+      acc: "svily"
+      gen: "svil"
+      loc: "svilah"
+      dat: "svilam"
+      ins: "svilami"
+      voc: "svily"

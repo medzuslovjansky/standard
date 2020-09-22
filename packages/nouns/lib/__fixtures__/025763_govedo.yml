@@ -1,0 +1,22 @@
+---
+  id: "25763"
+  word: "govędo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "govędo"
+      acc: "govędo"
+      gen: "govęda"
+      loc: "govędu"
+      dat: "govędu"
+      ins: "govędom"
+      voc: "govędo"
+    plural: 
+      nom: "govęda"
+      acc: "govęda"
+      gen: "govęd"
+      loc: "govędah"
+      dat: "govędam"
+      ins: "govędami"
+      voc: "govęda"

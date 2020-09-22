@@ -1,0 +1,22 @@
+---
+  id: "2495"
+  word: "instalacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "instalacija"
+      acc: "instalacijų"
+      gen: "instalacije"
+      loc: "instalaciji"
+      dat: "instalaciji"
+      ins: "instalacijejų"
+      voc: "instalacijo"
+    plural: 
+      nom: "instalacije"
+      acc: "instalacije"
+      gen: "instalacij"
+      loc: "instalacijah"
+      dat: "instalacijam"
+      ins: "instalacijami"
+      voc: "instalacije"

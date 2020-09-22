@@ -1,0 +1,22 @@
+---
+  id: "31982"
+  word: "shizma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "shizma"
+      acc: "shizmų"
+      gen: "shizmy"
+      loc: "shizmě"
+      dat: "shizmě"
+      ins: "shizmojų"
+      voc: "shizmo"
+    plural: 
+      nom: "shizmy"
+      acc: "shizmy"
+      gen: "shizm"
+      loc: "shizmah"
+      dat: "shizmam"
+      ins: "shizmami"
+      voc: "shizmy"

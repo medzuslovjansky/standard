@@ -1,0 +1,22 @@
+---
+  id: "26308"
+  word: "jasenėc"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jasenėc"
+      acc: "jasenėc"
+      gen: "jasenca"
+      loc: "jasencu"
+      dat: "jasencu"
+      ins: "jasencem"
+      voc: "jasencu"
+    plural: 
+      nom: "jasence"
+      acc: "jasence"
+      gen: "jasencev"
+      loc: "jasencah"
+      dat: "jasencam"
+      ins: "jasencami"
+      voc: "jasence"

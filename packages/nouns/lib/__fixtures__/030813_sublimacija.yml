@@ -1,0 +1,22 @@
+---
+  id: "30813"
+  word: "sublimacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sublimacija"
+      acc: "sublimacijų"
+      gen: "sublimacije"
+      loc: "sublimaciji"
+      dat: "sublimaciji"
+      ins: "sublimacijejų"
+      voc: "sublimacijo"
+    plural: 
+      nom: "sublimacije"
+      acc: "sublimacije"
+      gen: "sublimacij"
+      loc: "sublimacijah"
+      dat: "sublimacijam"
+      ins: "sublimacijami"
+      voc: "sublimacije"

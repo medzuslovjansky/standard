@@ -1,0 +1,22 @@
+---
+  id: "35975"
+  word: "matrica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "matrica"
+      acc: "matricų"
+      gen: "matrice"
+      loc: "matrici"
+      dat: "matrici"
+      ins: "matricejų"
+      voc: "matrico"
+    plural: 
+      nom: "matrice"
+      acc: "matrice"
+      gen: "matric"
+      loc: "matricah"
+      dat: "matricam"
+      ins: "matricami"
+      voc: "matrice"

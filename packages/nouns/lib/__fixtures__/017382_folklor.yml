@@ -1,0 +1,22 @@
+---
+  id: "17382"
+  word: "folklor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "folklor"
+      acc: "folklor"
+      gen: "folklora"
+      loc: "folkloru"
+      dat: "folkloru"
+      ins: "folklorom"
+      voc: "folklore"
+    plural: 
+      nom: "folklory"
+      acc: "folklory"
+      gen: "folklorov"
+      loc: "folklorah"
+      dat: "folkloram"
+      ins: "folklorami"
+      voc: "folklory"

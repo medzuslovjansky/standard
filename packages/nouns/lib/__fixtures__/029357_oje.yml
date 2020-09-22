@@ -1,0 +1,23 @@
+---
+  id: "29357"
+  word: "oje"
+  meta: 
+    irregularity: "(oja/ojese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oje"
+      acc: "oje"
+      gen: "oja / ojese"
+      loc: "oju / ojesi"
+      dat: "oju / ojesi"
+      ins: "ojem / ojesem"
+      voc: "oje"
+    plural: 
+      nom: "oja / ojesa"
+      acc: "oja / ojesa"
+      gen: "oj / ojes"
+      loc: "ojah / ojesah"
+      dat: "ojam / ojesam"
+      ins: "ojami / ojesami"
+      voc: "oja / ojesa"

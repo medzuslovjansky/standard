@@ -1,0 +1,23 @@
+---
+  id: "10500"
+  word: "Perun"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Perun"
+      acc: "Peruna"
+      gen: "Peruna"
+      loc: "Perunu"
+      dat: "Perunu"
+      ins: "Perunom"
+      voc: "Perune"
+    plural: 
+      nom: "Peruni"
+      acc: "Perunov"
+      gen: "Perunov"
+      loc: "Perunah"
+      dat: "Perunam"
+      ins: "Perunami"
+      voc: "Peruni"

@@ -1,0 +1,15 @@
+---
+  id: "331"
+  word: "Litva"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Litva"
+      acc: "Litvų"
+      gen: "Litvy"
+      loc: "Litvě"
+      dat: "Litvě"
+      ins: "Litvojų"
+      voc: "Litvo"

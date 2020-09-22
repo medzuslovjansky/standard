@@ -1,0 +1,23 @@
+---
+  id: "3939"
+  word: "pisatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pisatelj"
+      acc: "pisatelja"
+      gen: "pisatelja"
+      loc: "pisatelju"
+      dat: "pisatelju"
+      ins: "pisateljem"
+      voc: "pisatelju"
+    plural: 
+      nom: "pisatelji"
+      acc: "pisateljev"
+      gen: "pisateljev"
+      loc: "pisateljah"
+      dat: "pisateljam"
+      ins: "pisateljami"
+      voc: "pisatelji"

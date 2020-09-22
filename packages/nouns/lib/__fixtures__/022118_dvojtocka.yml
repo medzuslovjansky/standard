@@ -1,0 +1,22 @@
+---
+  id: "22118"
+  word: "dvojtočka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvojtočka"
+      acc: "dvojtočkų"
+      gen: "dvojtočky"
+      loc: "dvojtočkě"
+      dat: "dvojtočkě"
+      ins: "dvojtočkojų"
+      voc: "dvojtočko"
+    plural: 
+      nom: "dvojtočky"
+      acc: "dvojtočky"
+      gen: "dvojtoček"
+      loc: "dvojtočkah"
+      dat: "dvojtočkam"
+      ins: "dvojtočkami"
+      voc: "dvojtočky"

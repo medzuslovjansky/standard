@@ -1,0 +1,22 @@
+---
+  id: "342"
+  word: "lipa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lipa"
+      acc: "lipų"
+      gen: "lipy"
+      loc: "lipě"
+      dat: "lipě"
+      ins: "lipojų"
+      voc: "lipo"
+    plural: 
+      nom: "lipy"
+      acc: "lipy"
+      gen: "lip"
+      loc: "lipah"
+      dat: "lipam"
+      ins: "lipami"
+      voc: "lipy"

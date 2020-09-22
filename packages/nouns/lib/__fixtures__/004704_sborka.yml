@@ -1,0 +1,22 @@
+---
+  id: "4704"
+  word: "sborka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sborka"
+      acc: "sborkų"
+      gen: "sborky"
+      loc: "sborkě"
+      dat: "sborkě"
+      ins: "sborkojų"
+      voc: "sborko"
+    plural: 
+      nom: "sborky"
+      acc: "sborky"
+      gen: "sborȯk"
+      loc: "sborkah"
+      dat: "sborkam"
+      ins: "sborkami"
+      voc: "sborky"

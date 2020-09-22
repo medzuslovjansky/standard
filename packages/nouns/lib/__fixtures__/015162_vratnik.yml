@@ -1,0 +1,23 @@
+---
+  id: "15162"
+  word: "vråtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vråtnik"
+      acc: "vråtnika"
+      gen: "vråtnika"
+      loc: "vråtniku"
+      dat: "vråtniku"
+      ins: "vråtnikom"
+      voc: "vråtniče"
+    plural: 
+      nom: "vråtniki"
+      acc: "vråtnikov"
+      gen: "vråtnikov"
+      loc: "vråtnikah"
+      dat: "vråtnikam"
+      ins: "vråtnikami"
+      voc: "vråtniki"

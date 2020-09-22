@@ -1,0 +1,23 @@
+---
+  id: "36208"
+  word: "skvoter"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skvoter"
+      acc: "skvotera"
+      gen: "skvotera"
+      loc: "skvoteru"
+      dat: "skvoteru"
+      ins: "skvoterom"
+      voc: "skvotere"
+    plural: 
+      nom: "skvoteri"
+      acc: "skvoterov"
+      gen: "skvoterov"
+      loc: "skvoterah"
+      dat: "skvoteram"
+      ins: "skvoterami"
+      voc: "skvoteri"

@@ -1,0 +1,23 @@
+---
+  id: "34752"
+  word: "protagonist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "protagonist"
+      acc: "protagonista"
+      gen: "protagonista"
+      loc: "protagonistu"
+      dat: "protagonistu"
+      ins: "protagonistom"
+      voc: "protagoniste"
+    plural: 
+      nom: "protagonisti"
+      acc: "protagonistov"
+      gen: "protagonistov"
+      loc: "protagonistah"
+      dat: "protagonistam"
+      ins: "protagonistami"
+      voc: "protagonisti"

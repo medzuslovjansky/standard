@@ -1,0 +1,22 @@
+---
+  id: "36279"
+  word: "granat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "granat"
+      acc: "granat"
+      gen: "granata"
+      loc: "granatu"
+      dat: "granatu"
+      ins: "granatom"
+      voc: "granate"
+    plural: 
+      nom: "granaty"
+      acc: "granaty"
+      gen: "granatov"
+      loc: "granatah"
+      dat: "granatam"
+      ins: "granatami"
+      voc: "granaty"

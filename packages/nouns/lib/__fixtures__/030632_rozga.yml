@@ -1,0 +1,22 @@
+---
+  id: "30632"
+  word: "rozga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rozga"
+      acc: "rozgų"
+      gen: "rozgy"
+      loc: "rozgě"
+      dat: "rozgě"
+      ins: "rozgojų"
+      voc: "rozgo"
+    plural: 
+      nom: "rozgy"
+      acc: "rozgy"
+      gen: "rozg"
+      loc: "rozgah"
+      dat: "rozgam"
+      ins: "rozgami"
+      voc: "rozgy"

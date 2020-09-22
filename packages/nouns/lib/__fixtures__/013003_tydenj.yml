@@ -1,0 +1,23 @@
+---
+  id: "13003"
+  word: "tydenj"
+  meta: 
+    irregularity: "(tydnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tydėnj"
+      acc: "tydėnj"
+      gen: "tydnja"
+      loc: "tydnju"
+      dat: "tydnju"
+      ins: "tydnjem"
+      voc: "tydnju"
+    plural: 
+      nom: "tydnje"
+      acc: "tydnje"
+      gen: "tydnjev"
+      loc: "tydnjah"
+      dat: "tydnjam"
+      ins: "tydnjami"
+      voc: "tydnje"

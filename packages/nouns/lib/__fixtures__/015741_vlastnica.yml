@@ -1,0 +1,22 @@
+---
+  id: "15741"
+  word: "vlastnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlastnica"
+      acc: "vlastnicų"
+      gen: "vlastnice"
+      loc: "vlastnici"
+      dat: "vlastnici"
+      ins: "vlastnicejų"
+      voc: "vlastnico"
+    plural: 
+      nom: "vlastnice"
+      acc: "vlastnice"
+      gen: "vlastnic"
+      loc: "vlastnicah"
+      dat: "vlastnicam"
+      ins: "vlastnicami"
+      voc: "vlastnice"

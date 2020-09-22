@@ -1,0 +1,22 @@
+---
+  id: "2029"
+  word: "dokument"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dokument"
+      acc: "dokument"
+      gen: "dokumenta"
+      loc: "dokumentu"
+      dat: "dokumentu"
+      ins: "dokumentom"
+      voc: "dokumente"
+    plural: 
+      nom: "dokumenty"
+      acc: "dokumenty"
+      gen: "dokumentov"
+      loc: "dokumentah"
+      dat: "dokumentam"
+      ins: "dokumentami"
+      voc: "dokumenty"

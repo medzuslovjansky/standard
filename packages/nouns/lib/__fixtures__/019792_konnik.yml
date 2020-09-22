@@ -1,0 +1,23 @@
+---
+  id: "19792"
+  word: "konnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konnik"
+      acc: "konnika"
+      gen: "konnika"
+      loc: "konniku"
+      dat: "konniku"
+      ins: "konnikom"
+      voc: "konniče"
+    plural: 
+      nom: "konniki"
+      acc: "konnikov"
+      gen: "konnikov"
+      loc: "konnikah"
+      dat: "konnikam"
+      ins: "konnikami"
+      voc: "konniki"

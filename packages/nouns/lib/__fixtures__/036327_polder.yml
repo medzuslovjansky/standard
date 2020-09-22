@@ -1,0 +1,22 @@
+---
+  id: "36327"
+  word: "polder"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "polder"
+      acc: "polder"
+      gen: "poldera"
+      loc: "polderu"
+      dat: "polderu"
+      ins: "polderom"
+      voc: "poldere"
+    plural: 
+      nom: "poldery"
+      acc: "poldery"
+      gen: "polderov"
+      loc: "polderah"
+      dat: "polderam"
+      ins: "polderami"
+      voc: "poldery"

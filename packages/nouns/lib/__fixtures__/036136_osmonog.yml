@@ -1,0 +1,23 @@
+---
+  id: "36136"
+  word: "ośmonog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ośmonog"
+      acc: "ośmonoga"
+      gen: "ośmonoga"
+      loc: "ośmonogu"
+      dat: "ośmonogu"
+      ins: "ośmonogom"
+      voc: "ośmonože"
+    plural: 
+      nom: "ośmonogi"
+      acc: "ośmonogov"
+      gen: "ośmonogov"
+      loc: "ośmonogah"
+      dat: "ośmonogam"
+      ins: "ośmonogami"
+      voc: "ośmonogi"

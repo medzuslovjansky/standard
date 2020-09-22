@@ -1,0 +1,22 @@
+---
+  id: "10743"
+  word: "podpaljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podpaljeńje"
+      acc: "podpaljeńje"
+      gen: "podpaljeńja"
+      loc: "podpaljeńju"
+      dat: "podpaljeńju"
+      ins: "podpaljeńjem"
+      voc: "podpaljeńje"
+    plural: 
+      nom: "podpaljeńja"
+      acc: "podpaljeńja"
+      gen: "podpaljenij"
+      loc: "podpaljeńjah"
+      dat: "podpaljeńjam"
+      ins: "podpaljeńjami"
+      voc: "podpaljeńja"

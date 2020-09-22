@@ -1,0 +1,22 @@
+---
+  id: "34436"
+  word: "omlet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "omlet"
+      acc: "omlet"
+      gen: "omleta"
+      loc: "omletu"
+      dat: "omletu"
+      ins: "omletom"
+      voc: "omlete"
+    plural: 
+      nom: "omlety"
+      acc: "omlety"
+      gen: "omletov"
+      loc: "omletah"
+      dat: "omletam"
+      ins: "omletami"
+      voc: "omlety"

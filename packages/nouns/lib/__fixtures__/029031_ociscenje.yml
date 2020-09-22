@@ -1,0 +1,22 @@
+---
+  id: "29031"
+  word: "očišćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "očišćeńje"
+      acc: "očišćeńje"
+      gen: "očišćeńja"
+      loc: "očišćeńju"
+      dat: "očišćeńju"
+      ins: "očišćeńjem"
+      voc: "očišćeńje"
+    plural: 
+      nom: "očišćeńja"
+      acc: "očišćeńja"
+      gen: "očišćenij"
+      loc: "očišćeńjah"
+      dat: "očišćeńjam"
+      ins: "očišćeńjami"
+      voc: "očišćeńja"

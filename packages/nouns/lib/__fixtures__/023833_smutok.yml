@@ -1,0 +1,22 @@
+---
+  id: "23833"
+  word: "smųtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smųtȯk"
+      acc: "smųtȯk"
+      gen: "smųtka"
+      loc: "smųtku"
+      dat: "smųtku"
+      ins: "smųtkom"
+      voc: "smųtče"
+    plural: 
+      nom: "smųtky"
+      acc: "smųtky"
+      gen: "smųtkov"
+      loc: "smųtkah"
+      dat: "smųtkam"
+      ins: "smųtkami"
+      voc: "smųtky"

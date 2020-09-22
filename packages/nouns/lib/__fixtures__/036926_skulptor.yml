@@ -1,0 +1,23 @@
+---
+  id: "36926"
+  word: "skulptor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skulptor"
+      acc: "skulptora"
+      gen: "skulptora"
+      loc: "skulptoru"
+      dat: "skulptoru"
+      ins: "skulptorom"
+      voc: "skulptore"
+    plural: 
+      nom: "skulptori"
+      acc: "skulptorov"
+      gen: "skulptorov"
+      loc: "skulptorah"
+      dat: "skulptoram"
+      ins: "skulptorami"
+      voc: "skulptori"

@@ -1,0 +1,22 @@
+---
+  id: "8651"
+  word: "krajnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krajnosť"
+      acc: "krajnosť"
+      gen: "krajnosti"
+      loc: "krajnosti"
+      dat: "krajnosti"
+      ins: "krajnosťjų"
+      voc: "krajnosti"
+    plural: 
+      nom: "krajnosti"
+      acc: "krajnosti"
+      gen: "krajnostij"
+      loc: "krajnosťah"
+      dat: "krajnosťam"
+      ins: "krajnosťami"
+      voc: "krajnosti"

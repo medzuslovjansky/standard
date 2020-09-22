@@ -1,0 +1,23 @@
+---
+  id: "20382"
+  word: "hipopotam"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hipopotam"
+      acc: "hipopotama"
+      gen: "hipopotama"
+      loc: "hipopotamu"
+      dat: "hipopotamu"
+      ins: "hipopotamom"
+      voc: "hipopotame"
+    plural: 
+      nom: "hipopotami"
+      acc: "hipopotamov"
+      gen: "hipopotamov"
+      loc: "hipopotamah"
+      dat: "hipopotamam"
+      ins: "hipopotamami"
+      voc: "hipopotami"

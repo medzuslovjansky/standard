@@ -1,0 +1,22 @@
+---
+  id: "4992"
+  word: "vodoskok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodoskok"
+      acc: "vodoskok"
+      gen: "vodoskoka"
+      loc: "vodoskoku"
+      dat: "vodoskoku"
+      ins: "vodoskokom"
+      voc: "vodoskoče"
+    plural: 
+      nom: "vodoskoky"
+      acc: "vodoskoky"
+      gen: "vodoskokov"
+      loc: "vodoskokah"
+      dat: "vodoskokam"
+      ins: "vodoskokami"
+      voc: "vodoskoky"

@@ -1,0 +1,22 @@
+---
+  id: "19919"
+  word: "projav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "projav"
+      acc: "projav"
+      gen: "projava"
+      loc: "projavu"
+      dat: "projavu"
+      ins: "projavom"
+      voc: "projave"
+    plural: 
+      nom: "projavy"
+      acc: "projavy"
+      gen: "projavov"
+      loc: "projavah"
+      dat: "projavam"
+      ins: "projavami"
+      voc: "projavy"

@@ -1,0 +1,22 @@
+---
+  id: "24137"
+  word: "ajsberg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ajsberg"
+      acc: "ajsberg"
+      gen: "ajsberga"
+      loc: "ajsbergu"
+      dat: "ajsbergu"
+      ins: "ajsbergom"
+      voc: "ajsberže"
+    plural: 
+      nom: "ajsbergy"
+      acc: "ajsbergy"
+      gen: "ajsbergov"
+      loc: "ajsbergah"
+      dat: "ajsbergam"
+      ins: "ajsbergami"
+      voc: "ajsbergy"

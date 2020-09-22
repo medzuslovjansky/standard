@@ -1,0 +1,22 @@
+---
+  id: "9076"
+  word: "městoimę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "městoimę"
+      acc: "městoimę"
+      gen: "městoimene / městoimena"
+      loc: "městoimeni / městoimenu"
+      dat: "městoimeni / městoimenu"
+      ins: "městoimenem / městoimenom"
+      voc: "městoimę"
+    plural: 
+      nom: "městoimena"
+      acc: "městoimena"
+      gen: "městoimen"
+      loc: "městoimenah"
+      dat: "městoimenam"
+      ins: "městoimenami"
+      voc: "městoimena"

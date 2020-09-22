@@ -1,0 +1,23 @@
+---
+  id: "1332"
+  word: "kolo"
+  meta: 
+    irregularity: "(kola/kolese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kolo"
+      acc: "kolo"
+      gen: "kola / kolese"
+      loc: "kolu / kolesi"
+      dat: "kolu / kolesi"
+      ins: "kolom / kolesem"
+      voc: "kolo"
+    plural: 
+      nom: "kola / kolesa"
+      acc: "kola / kolesa"
+      gen: "kol / koles"
+      loc: "kolah / kolesah"
+      dat: "kolam / kolesam"
+      ins: "kolami / kolesami"
+      voc: "kola / kolesa"

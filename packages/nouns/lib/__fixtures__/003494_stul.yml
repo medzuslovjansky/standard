@@ -1,0 +1,22 @@
+---
+  id: "3494"
+  word: "stul"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stul"
+      acc: "stul"
+      gen: "stula"
+      loc: "stulu"
+      dat: "stulu"
+      ins: "stulom"
+      voc: "stule"
+    plural: 
+      nom: "stuly"
+      acc: "stuly"
+      gen: "stulov"
+      loc: "stulah"
+      dat: "stulam"
+      ins: "stulami"
+      voc: "stuly"

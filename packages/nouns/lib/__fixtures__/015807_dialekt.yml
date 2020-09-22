@@ -1,0 +1,22 @@
+---
+  id: "15807"
+  word: "dialekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dialekt"
+      acc: "dialekt"
+      gen: "dialekta"
+      loc: "dialektu"
+      dat: "dialektu"
+      ins: "dialektom"
+      voc: "dialekte"
+    plural: 
+      nom: "dialekty"
+      acc: "dialekty"
+      gen: "dialektov"
+      loc: "dialektah"
+      dat: "dialektam"
+      ins: "dialektami"
+      voc: "dialekty"

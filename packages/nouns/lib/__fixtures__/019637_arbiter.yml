@@ -1,0 +1,23 @@
+---
+  id: "19637"
+  word: "arbiter"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "arbiter"
+      acc: "arbitera"
+      gen: "arbitera"
+      loc: "arbiteru"
+      dat: "arbiteru"
+      ins: "arbiterom"
+      voc: "arbitere"
+    plural: 
+      nom: "arbiteri"
+      acc: "arbiterov"
+      gen: "arbiterov"
+      loc: "arbiterah"
+      dat: "arbiteram"
+      ins: "arbiterami"
+      voc: "arbiteri"

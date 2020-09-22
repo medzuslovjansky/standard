@@ -1,0 +1,22 @@
+---
+  id: "15399"
+  word: "nahodka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nahodka"
+      acc: "nahodkų"
+      gen: "nahodky"
+      loc: "nahodkě"
+      dat: "nahodkě"
+      ins: "nahodkojų"
+      voc: "nahodko"
+    plural: 
+      nom: "nahodky"
+      acc: "nahodky"
+      gen: "nahodȯk"
+      loc: "nahodkah"
+      dat: "nahodkam"
+      ins: "nahodkami"
+      voc: "nahodky"

@@ -1,0 +1,22 @@
+---
+  id: "5625"
+  word: "sųsědstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųsědstvo"
+      acc: "sųsědstvo"
+      gen: "sųsědstva"
+      loc: "sųsědstvu"
+      dat: "sųsědstvu"
+      ins: "sųsědstvom"
+      voc: "sųsědstvo"
+    plural: 
+      nom: "sųsědstva"
+      acc: "sųsědstva"
+      gen: "sųsědstv"
+      loc: "sųsědstvah"
+      dat: "sųsědstvam"
+      ins: "sųsědstvami"
+      voc: "sųsědstva"

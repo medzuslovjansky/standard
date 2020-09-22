@@ -1,0 +1,23 @@
+---
+  id: "8249"
+  word: "jebatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jebatelj"
+      acc: "jebatelja"
+      gen: "jebatelja"
+      loc: "jebatelju"
+      dat: "jebatelju"
+      ins: "jebateljem"
+      voc: "jebatelju"
+    plural: 
+      nom: "jebatelji"
+      acc: "jebateljev"
+      gen: "jebateljev"
+      loc: "jebateljah"
+      dat: "jebateljam"
+      ins: "jebateljami"
+      voc: "jebatelji"

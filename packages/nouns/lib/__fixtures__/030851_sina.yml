@@ -1,0 +1,22 @@
+---
+  id: "30851"
+  word: "šina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šina"
+      acc: "šinų"
+      gen: "šiny"
+      loc: "šině"
+      dat: "šině"
+      ins: "šinojų"
+      voc: "šino"
+    plural: 
+      nom: "šiny"
+      acc: "šiny"
+      gen: "šin"
+      loc: "šinah"
+      dat: "šinam"
+      ins: "šinami"
+      voc: "šiny"

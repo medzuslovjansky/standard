@@ -1,0 +1,22 @@
+---
+  id: "24399"
+  word: "avtostrada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtostrada"
+      acc: "avtostradų"
+      gen: "avtostrady"
+      loc: "avtostradě"
+      dat: "avtostradě"
+      ins: "avtostradojų"
+      voc: "avtostrado"
+    plural: 
+      nom: "avtostrady"
+      acc: "avtostrady"
+      gen: "avtostrad"
+      loc: "avtostradah"
+      dat: "avtostradam"
+      ins: "avtostradami"
+      voc: "avtostrady"

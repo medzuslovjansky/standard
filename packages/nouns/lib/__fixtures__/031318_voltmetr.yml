@@ -1,0 +1,22 @@
+---
+  id: "31318"
+  word: "voltmetr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "voltmetr"
+      acc: "voltmetr"
+      gen: "voltmetra"
+      loc: "voltmetru"
+      dat: "voltmetru"
+      ins: "voltmetrom"
+      voc: "voltmetre"
+    plural: 
+      nom: "voltmetry"
+      acc: "voltmetry"
+      gen: "voltmetrov"
+      loc: "voltmetrah"
+      dat: "voltmetram"
+      ins: "voltmetrami"
+      voc: "voltmetry"

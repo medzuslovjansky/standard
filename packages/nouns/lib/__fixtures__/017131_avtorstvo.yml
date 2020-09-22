@@ -1,0 +1,15 @@
+---
+  id: "17131"
+  word: "avtorstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "avtorstvo"
+      acc: "avtorstvo"
+      gen: "avtorstva"
+      loc: "avtorstvu"
+      dat: "avtorstvu"
+      ins: "avtorstvom"
+      voc: "avtorstvo"

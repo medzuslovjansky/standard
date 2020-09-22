@@ -1,0 +1,22 @@
+---
+  id: "4342"
+  word: "prijateljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prijateljka"
+      acc: "prijateljkų"
+      gen: "prijateljky"
+      loc: "prijateljkě"
+      dat: "prijateljkě"
+      ins: "prijateljkojų"
+      voc: "prijateljko"
+    plural: 
+      nom: "prijateljky"
+      acc: "prijateljky"
+      gen: "prijateljek"
+      loc: "prijateljkah"
+      dat: "prijateljkam"
+      ins: "prijateljkami"
+      voc: "prijateljky"

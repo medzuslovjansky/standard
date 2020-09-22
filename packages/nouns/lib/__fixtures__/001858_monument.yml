@@ -1,0 +1,22 @@
+---
+  id: "1858"
+  word: "monument"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monument"
+      acc: "monument"
+      gen: "monumenta"
+      loc: "monumentu"
+      dat: "monumentu"
+      ins: "monumentom"
+      voc: "monumente"
+    plural: 
+      nom: "monumenty"
+      acc: "monumenty"
+      gen: "monumentov"
+      loc: "monumentah"
+      dat: "monumentam"
+      ins: "monumentami"
+      voc: "monumenty"

@@ -1,0 +1,15 @@
+---
+  id: "32454"
+  word: "Kongo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kongo"
+      acc: "Kongo"
+      gen: "Konga"
+      loc: "Kongu"
+      dat: "Kongu"
+      ins: "Kongom"
+      voc: "Kongo"

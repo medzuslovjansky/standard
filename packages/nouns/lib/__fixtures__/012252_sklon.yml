@@ -1,0 +1,22 @@
+---
+  id: "12252"
+  word: "sklon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sklon"
+      acc: "sklon"
+      gen: "sklona"
+      loc: "sklonu"
+      dat: "sklonu"
+      ins: "sklonom"
+      voc: "sklone"
+    plural: 
+      nom: "sklony"
+      acc: "sklony"
+      gen: "sklonov"
+      loc: "sklonah"
+      dat: "sklonam"
+      ins: "sklonami"
+      voc: "sklony"

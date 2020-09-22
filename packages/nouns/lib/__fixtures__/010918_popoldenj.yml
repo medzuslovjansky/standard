@@ -1,0 +1,23 @@
+---
+  id: "10918"
+  word: "popoldenj"
+  meta: 
+    irregularity: "(popoldnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "popoldėnj"
+      acc: "popoldėnj"
+      gen: "popoldnja"
+      loc: "popoldnju"
+      dat: "popoldnju"
+      ins: "popoldnjem"
+      voc: "popoldnju"
+    plural: 
+      nom: "popoldnje"
+      acc: "popoldnje"
+      gen: "popoldnjev"
+      loc: "popoldnjah"
+      dat: "popoldnjam"
+      ins: "popoldnjami"
+      voc: "popoldnje"

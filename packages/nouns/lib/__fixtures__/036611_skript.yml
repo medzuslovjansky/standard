@@ -1,0 +1,22 @@
+---
+  id: "36611"
+  word: "skript"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skript"
+      acc: "skript"
+      gen: "skripta"
+      loc: "skriptu"
+      dat: "skriptu"
+      ins: "skriptom"
+      voc: "skripte"
+    plural: 
+      nom: "skripty"
+      acc: "skripty"
+      gen: "skriptov"
+      loc: "skriptah"
+      dat: "skriptam"
+      ins: "skriptami"
+      voc: "skripty"

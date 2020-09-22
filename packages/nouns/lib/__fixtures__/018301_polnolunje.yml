@@ -1,0 +1,22 @@
+---
+  id: "18301"
+  word: "pȯlnoluńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pȯlnoluńje"
+      acc: "pȯlnoluńje"
+      gen: "pȯlnoluńja"
+      loc: "pȯlnoluńju"
+      dat: "pȯlnoluńju"
+      ins: "pȯlnoluńjem"
+      voc: "pȯlnoluńje"
+    plural: 
+      nom: "pȯlnoluńja"
+      acc: "pȯlnoluńja"
+      gen: "pȯlnolunij"
+      loc: "pȯlnoluńjah"
+      dat: "pȯlnoluńjam"
+      ins: "pȯlnoluńjami"
+      voc: "pȯlnoluńja"

@@ -1,0 +1,22 @@
+---
+  id: "34932"
+  word: "fotka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fotka"
+      acc: "fotkų"
+      gen: "fotky"
+      loc: "fotkě"
+      dat: "fotkě"
+      ins: "fotkojų"
+      voc: "fotko"
+    plural: 
+      nom: "fotky"
+      acc: "fotky"
+      gen: "fotȯk"
+      loc: "fotkah"
+      dat: "fotkam"
+      ins: "fotkami"
+      voc: "fotky"

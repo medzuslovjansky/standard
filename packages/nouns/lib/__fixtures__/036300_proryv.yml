@@ -1,0 +1,22 @@
+---
+  id: "36300"
+  word: "proryv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proryv"
+      acc: "proryv"
+      gen: "proryva"
+      loc: "proryvu"
+      dat: "proryvu"
+      ins: "proryvom"
+      voc: "proryve"
+    plural: 
+      nom: "proryvy"
+      acc: "proryvy"
+      gen: "proryvov"
+      loc: "proryvah"
+      dat: "proryvam"
+      ins: "proryvami"
+      voc: "proryvy"

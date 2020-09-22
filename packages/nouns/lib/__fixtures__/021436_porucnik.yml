@@ -1,0 +1,23 @@
+---
+  id: "21436"
+  word: "porųčnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "porųčnik"
+      acc: "porųčnika"
+      gen: "porųčnika"
+      loc: "porųčniku"
+      dat: "porųčniku"
+      ins: "porųčnikom"
+      voc: "porųčniče"
+    plural: 
+      nom: "porųčniki"
+      acc: "porųčnikov"
+      gen: "porųčnikov"
+      loc: "porųčnikah"
+      dat: "porųčnikam"
+      ins: "porųčnikami"
+      voc: "porųčniki"

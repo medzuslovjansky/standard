@@ -1,0 +1,22 @@
+---
+  id: "1918"
+  word: "ostatȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ostatȯk"
+      acc: "ostatȯk"
+      gen: "ostatka"
+      loc: "ostatku"
+      dat: "ostatku"
+      ins: "ostatkom"
+      voc: "ostatče"
+    plural: 
+      nom: "ostatky"
+      acc: "ostatky"
+      gen: "ostatkov"
+      loc: "ostatkah"
+      dat: "ostatkam"
+      ins: "ostatkami"
+      voc: "ostatky"

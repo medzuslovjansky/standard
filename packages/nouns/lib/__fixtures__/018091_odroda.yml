@@ -1,0 +1,22 @@
+---
+  id: "18091"
+  word: "odroda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odroda"
+      acc: "odrodų"
+      gen: "odrody"
+      loc: "odrodě"
+      dat: "odrodě"
+      ins: "odrodojų"
+      voc: "odrodo"
+    plural: 
+      nom: "odrody"
+      acc: "odrody"
+      gen: "odrod"
+      loc: "odrodah"
+      dat: "odrodam"
+      ins: "odrodami"
+      voc: "odrody"

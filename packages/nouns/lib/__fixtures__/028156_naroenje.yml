@@ -1,0 +1,22 @@
+---
+  id: "28156"
+  word: "narođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "narođeńje"
+      acc: "narođeńje"
+      gen: "narođeńja"
+      loc: "narođeńju"
+      dat: "narođeńju"
+      ins: "narođeńjem"
+      voc: "narođeńje"
+    plural: 
+      nom: "narođeńja"
+      acc: "narođeńja"
+      gen: "narođenij"
+      loc: "narođeńjah"
+      dat: "narođeńjam"
+      ins: "narođeńjami"
+      voc: "narođeńja"

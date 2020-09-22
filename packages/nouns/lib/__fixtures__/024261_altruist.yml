@@ -1,0 +1,23 @@
+---
+  id: "24261"
+  word: "altruist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "altruist"
+      acc: "altruista"
+      gen: "altruista"
+      loc: "altruistu"
+      dat: "altruistu"
+      ins: "altruistom"
+      voc: "altruiste"
+    plural: 
+      nom: "altruisti"
+      acc: "altruistov"
+      gen: "altruistov"
+      loc: "altruistah"
+      dat: "altruistam"
+      ins: "altruistami"
+      voc: "altruisti"

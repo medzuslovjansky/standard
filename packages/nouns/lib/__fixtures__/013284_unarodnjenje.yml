@@ -1,0 +1,22 @@
+---
+  id: "13284"
+  word: "unarodnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "unarodnjeńje"
+      acc: "unarodnjeńje"
+      gen: "unarodnjeńja"
+      loc: "unarodnjeńju"
+      dat: "unarodnjeńju"
+      ins: "unarodnjeńjem"
+      voc: "unarodnjeńje"
+    plural: 
+      nom: "unarodnjeńja"
+      acc: "unarodnjeńja"
+      gen: "unarodnjenij"
+      loc: "unarodnjeńjah"
+      dat: "unarodnjeńjam"
+      ins: "unarodnjeńjami"
+      voc: "unarodnjeńja"

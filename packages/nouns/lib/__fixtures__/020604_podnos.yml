@@ -1,0 +1,22 @@
+---
+  id: "20604"
+  word: "podnos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podnos"
+      acc: "podnos"
+      gen: "podnosa"
+      loc: "podnosu"
+      dat: "podnosu"
+      ins: "podnosom"
+      voc: "podnose"
+    plural: 
+      nom: "podnosy"
+      acc: "podnosy"
+      gen: "podnosov"
+      loc: "podnosah"
+      dat: "podnosam"
+      ins: "podnosami"
+      voc: "podnosy"

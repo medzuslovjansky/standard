@@ -1,0 +1,22 @@
+---
+  id: "6188"
+  word: "pristųp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pristųp"
+      acc: "pristųp"
+      gen: "pristųpa"
+      loc: "pristųpu"
+      dat: "pristųpu"
+      ins: "pristųpom"
+      voc: "pristųpe"
+    plural: 
+      nom: "pristųpy"
+      acc: "pristųpy"
+      gen: "pristųpov"
+      loc: "pristųpah"
+      dat: "pristųpam"
+      ins: "pristųpami"
+      voc: "pristųpy"

@@ -1,0 +1,23 @@
+---
+  id: "10619"
+  word: "platitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "platitelj"
+      acc: "platitelja"
+      gen: "platitelja"
+      loc: "platitelju"
+      dat: "platitelju"
+      ins: "platiteljem"
+      voc: "platitelju"
+    plural: 
+      nom: "platitelji"
+      acc: "platiteljev"
+      gen: "platiteljev"
+      loc: "platiteljah"
+      dat: "platiteljam"
+      ins: "platiteljami"
+      voc: "platitelji"

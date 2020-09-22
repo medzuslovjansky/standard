@@ -1,0 +1,15 @@
+---
+  id: "12612"
+  word: "styčenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "styčenj"
+      acc: "styčenj"
+      gen: "styčenja"
+      loc: "styčenju"
+      dat: "styčenju"
+      ins: "styčenjem"
+      voc: "styčenju"

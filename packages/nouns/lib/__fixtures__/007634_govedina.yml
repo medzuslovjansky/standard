@@ -1,0 +1,22 @@
+---
+  id: "7634"
+  word: "govędina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "govędina"
+      acc: "govędinų"
+      gen: "govędiny"
+      loc: "govędině"
+      dat: "govędině"
+      ins: "govędinojų"
+      voc: "govędino"
+    plural: 
+      nom: "govędiny"
+      acc: "govędiny"
+      gen: "govędin"
+      loc: "govędinah"
+      dat: "govędinam"
+      ins: "govędinami"
+      voc: "govędiny"

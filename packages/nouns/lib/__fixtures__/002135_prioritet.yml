@@ -1,0 +1,22 @@
+---
+  id: "2135"
+  word: "prioritet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prioritet"
+      acc: "prioritet"
+      gen: "prioriteta"
+      loc: "prioritetu"
+      dat: "prioritetu"
+      ins: "prioritetom"
+      voc: "prioritete"
+    plural: 
+      nom: "prioritety"
+      acc: "prioritety"
+      gen: "prioritetov"
+      loc: "prioritetah"
+      dat: "prioritetam"
+      ins: "prioritetami"
+      voc: "prioritety"

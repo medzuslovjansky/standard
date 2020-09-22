@@ -1,0 +1,22 @@
+---
+  id: "16303"
+  word: "vitamin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vitamin"
+      acc: "vitamin"
+      gen: "vitamina"
+      loc: "vitaminu"
+      dat: "vitaminu"
+      ins: "vitaminom"
+      voc: "vitamine"
+    plural: 
+      nom: "vitaminy"
+      acc: "vitaminy"
+      gen: "vitaminov"
+      loc: "vitaminah"
+      dat: "vitaminam"
+      ins: "vitaminami"
+      voc: "vitaminy"

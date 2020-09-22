@@ -1,0 +1,22 @@
+---
+  id: "35707"
+  word: "kripta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kripta"
+      acc: "kriptų"
+      gen: "kripty"
+      loc: "kriptě"
+      dat: "kriptě"
+      ins: "kriptojų"
+      voc: "kripto"
+    plural: 
+      nom: "kripty"
+      acc: "kripty"
+      gen: "kript"
+      loc: "kriptah"
+      dat: "kriptam"
+      ins: "kriptami"
+      voc: "kripty"

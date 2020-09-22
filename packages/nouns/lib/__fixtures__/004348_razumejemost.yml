@@ -1,0 +1,22 @@
+---
+  id: "4348"
+  word: "råzumějemosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzumějemosť"
+      acc: "råzumějemosť"
+      gen: "råzumějemosti"
+      loc: "råzumějemosti"
+      dat: "råzumějemosti"
+      ins: "råzumějemosťjų"
+      voc: "råzumějemosti"
+    plural: 
+      nom: "råzumějemosti"
+      acc: "råzumějemosti"
+      gen: "råzumějemostij"
+      loc: "råzumějemosťah"
+      dat: "råzumějemosťam"
+      ins: "råzumějemosťami"
+      voc: "råzumějemosti"

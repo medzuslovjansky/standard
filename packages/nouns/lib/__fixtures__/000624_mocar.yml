@@ -1,0 +1,22 @@
+---
+  id: "624"
+  word: "močar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "močar"
+      acc: "močar"
+      gen: "močara"
+      loc: "močaru"
+      dat: "močaru"
+      ins: "močarom"
+      voc: "močare"
+    plural: 
+      nom: "močary"
+      acc: "močary"
+      gen: "močarov"
+      loc: "močarah"
+      dat: "močaram"
+      ins: "močarami"
+      voc: "močary"

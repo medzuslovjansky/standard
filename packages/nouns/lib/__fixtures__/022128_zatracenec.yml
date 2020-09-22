@@ -1,0 +1,23 @@
+---
+  id: "22128"
+  word: "zatraćenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zatraćenec"
+      acc: "zatraćenca"
+      gen: "zatraćenca"
+      loc: "zatraćencu"
+      dat: "zatraćencu"
+      ins: "zatraćencem"
+      voc: "zatraćenče"
+    plural: 
+      nom: "zatraćenci"
+      acc: "zatraćencev"
+      gen: "zatraćencev"
+      loc: "zatraćencah"
+      dat: "zatraćencam"
+      ins: "zatraćencami"
+      voc: "zatraćenci"

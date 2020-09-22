@@ -1,0 +1,22 @@
+---
+  id: "36356"
+  word: "domen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "domen"
+      acc: "domen"
+      gen: "domena"
+      loc: "domenu"
+      dat: "domenu"
+      ins: "domenom"
+      voc: "domene"
+    plural: 
+      nom: "domeny"
+      acc: "domeny"
+      gen: "domenov"
+      loc: "domenah"
+      dat: "domenam"
+      ins: "domenami"
+      voc: "domeny"

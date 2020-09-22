@@ -1,0 +1,22 @@
+---
+  id: "352"
+  word: "lov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lov"
+      acc: "lov"
+      gen: "lova"
+      loc: "lovu"
+      dat: "lovu"
+      ins: "lovom"
+      voc: "love"
+    plural: 
+      nom: "lovy"
+      acc: "lovy"
+      gen: "lovov"
+      loc: "lovah"
+      dat: "lovam"
+      ins: "lovami"
+      voc: "lovy"

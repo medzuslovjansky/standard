@@ -1,0 +1,22 @@
+---
+  id: "35860"
+  word: "rezervacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rezervacija"
+      acc: "rezervacijų"
+      gen: "rezervacije"
+      loc: "rezervaciji"
+      dat: "rezervaciji"
+      ins: "rezervacijejų"
+      voc: "rezervacijo"
+    plural: 
+      nom: "rezervacije"
+      acc: "rezervacije"
+      gen: "rezervacij"
+      loc: "rezervacijah"
+      dat: "rezervacijam"
+      ins: "rezervacijami"
+      voc: "rezervacije"

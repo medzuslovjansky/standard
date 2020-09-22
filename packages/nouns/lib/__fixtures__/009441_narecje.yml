@@ -1,0 +1,22 @@
+---
+  id: "9441"
+  word: "narěčje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "narěčje"
+      acc: "narěčje"
+      gen: "narěčja"
+      loc: "narěčju"
+      dat: "narěčju"
+      ins: "narěčjem"
+      voc: "narěčje"
+    plural: 
+      nom: "narěčja"
+      acc: "narěčja"
+      gen: "narěčij"
+      loc: "narěčjah"
+      dat: "narěčjam"
+      ins: "narěčjami"
+      voc: "narěčja"

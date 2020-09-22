@@ -1,0 +1,22 @@
+---
+  id: "19693"
+  word: "faza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "faza"
+      acc: "fazų"
+      gen: "fazy"
+      loc: "fazě"
+      dat: "fazě"
+      ins: "fazojų"
+      voc: "fazo"
+    plural: 
+      nom: "fazy"
+      acc: "fazy"
+      gen: "faz"
+      loc: "fazah"
+      dat: "fazam"
+      ins: "fazami"
+      voc: "fazy"

@@ -1,0 +1,22 @@
+---
+  id: "21417"
+  word: "olovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "olovka"
+      acc: "olovkų"
+      gen: "olovky"
+      loc: "olovkě"
+      dat: "olovkě"
+      ins: "olovkojų"
+      voc: "olovko"
+    plural: 
+      nom: "olovky"
+      acc: "olovky"
+      gen: "olovȯk"
+      loc: "olovkah"
+      dat: "olovkam"
+      ins: "olovkami"
+      voc: "olovky"

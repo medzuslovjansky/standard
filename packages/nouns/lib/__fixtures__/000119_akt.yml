@@ -1,0 +1,22 @@
+---
+  id: "119"
+  word: "akt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akt"
+      acc: "akt"
+      gen: "akta"
+      loc: "aktu"
+      dat: "aktu"
+      ins: "aktom"
+      voc: "akte"
+    plural: 
+      nom: "akty"
+      acc: "akty"
+      gen: "aktov"
+      loc: "aktah"
+      dat: "aktam"
+      ins: "aktami"
+      voc: "akty"

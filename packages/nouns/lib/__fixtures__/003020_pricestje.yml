@@ -1,0 +1,22 @@
+---
+  id: "3020"
+  word: "pričęsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pričęsťje"
+      acc: "pričęsťje"
+      gen: "pričęsťja"
+      loc: "pričęsťju"
+      dat: "pričęsťju"
+      ins: "pričęsťjem"
+      voc: "pričęsťje"
+    plural: 
+      nom: "pričęsťja"
+      acc: "pričęsťja"
+      gen: "pričęstij"
+      loc: "pričęsťjah"
+      dat: "pričęsťjam"
+      ins: "pričęsťjami"
+      voc: "pričęsťja"

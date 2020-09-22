@@ -1,0 +1,22 @@
+---
+  id: "1842"
+  word: "komora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komora"
+      acc: "komorų"
+      gen: "komory"
+      loc: "komorě"
+      dat: "komorě"
+      ins: "komorojų"
+      voc: "komoro"
+    plural: 
+      nom: "komory"
+      acc: "komory"
+      gen: "komor"
+      loc: "komorah"
+      dat: "komoram"
+      ins: "komorami"
+      voc: "komory"

@@ -1,0 +1,22 @@
+---
+  id: "18683"
+  word: "sbornik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sbornik"
+      acc: "sbornik"
+      gen: "sbornika"
+      loc: "sborniku"
+      dat: "sborniku"
+      ins: "sbornikom"
+      voc: "sborniče"
+    plural: 
+      nom: "sborniky"
+      acc: "sborniky"
+      gen: "sbornikov"
+      loc: "sbornikah"
+      dat: "sbornikam"
+      ins: "sbornikami"
+      voc: "sborniky"

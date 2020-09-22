@@ -1,0 +1,22 @@
+---
+  id: "6879"
+  word: "čips"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čips"
+      acc: "čips"
+      gen: "čipsa"
+      loc: "čipsu"
+      dat: "čipsu"
+      ins: "čipsom"
+      voc: "čipse"
+    plural: 
+      nom: "čipsy"
+      acc: "čipsy"
+      gen: "čipsov"
+      loc: "čipsah"
+      dat: "čipsam"
+      ins: "čipsami"
+      voc: "čipsy"

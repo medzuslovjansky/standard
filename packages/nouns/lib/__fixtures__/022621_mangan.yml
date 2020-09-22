@@ -1,0 +1,15 @@
+---
+  id: "22621"
+  word: "mangan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mangan"
+      acc: "mangan"
+      gen: "mangana"
+      loc: "manganu"
+      dat: "manganu"
+      ins: "manganom"
+      voc: "mangane"

@@ -1,0 +1,22 @@
+---
+  id: "19308"
+  word: "vymę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vymę"
+      acc: "vymę"
+      gen: "vymene / vymena"
+      loc: "vymeni / vymenu"
+      dat: "vymeni / vymenu"
+      ins: "vymenem / vymenom"
+      voc: "vymę"
+    plural: 
+      nom: "vymena"
+      acc: "vymena"
+      gen: "vymen"
+      loc: "vymenah"
+      dat: "vymenam"
+      ins: "vymenami"
+      voc: "vymena"

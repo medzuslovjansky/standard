@@ -1,0 +1,22 @@
+---
+  id: "35538"
+  word: "sekta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sekta"
+      acc: "sektų"
+      gen: "sekty"
+      loc: "sektě"
+      dat: "sektě"
+      ins: "sektojų"
+      voc: "sekto"
+    plural: 
+      nom: "sekty"
+      acc: "sekty"
+      gen: "sekt"
+      loc: "sektah"
+      dat: "sektam"
+      ins: "sektami"
+      voc: "sekty"

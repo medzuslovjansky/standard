@@ -1,0 +1,22 @@
+---
+  id: "3475"
+  word: "kulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kulja"
+      acc: "kuljų"
+      gen: "kulje"
+      loc: "kulji"
+      dat: "kulji"
+      ins: "kuljejų"
+      voc: "kuljo"
+    plural: 
+      nom: "kulje"
+      acc: "kulje"
+      gen: "kulej"
+      loc: "kuljah"
+      dat: "kuljam"
+      ins: "kuljami"
+      voc: "kulje"

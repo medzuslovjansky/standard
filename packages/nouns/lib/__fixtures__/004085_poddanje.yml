@@ -1,0 +1,22 @@
+---
+  id: "4085"
+  word: "poddańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poddańje"
+      acc: "poddańje"
+      gen: "poddańja"
+      loc: "poddańju"
+      dat: "poddańju"
+      ins: "poddańjem"
+      voc: "poddańje"
+    plural: 
+      nom: "poddańja"
+      acc: "poddańja"
+      gen: "poddanij"
+      loc: "poddańjah"
+      dat: "poddańjam"
+      ins: "poddańjami"
+      voc: "poddańja"

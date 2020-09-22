@@ -1,0 +1,22 @@
+---
+  id: "4124"
+  word: "krah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krah"
+      acc: "krah"
+      gen: "kraha"
+      loc: "krahu"
+      dat: "krahu"
+      ins: "krahom"
+      voc: "kraše"
+    plural: 
+      nom: "krahy"
+      acc: "krahy"
+      gen: "krahov"
+      loc: "krahah"
+      dat: "kraham"
+      ins: "krahami"
+      voc: "krahy"

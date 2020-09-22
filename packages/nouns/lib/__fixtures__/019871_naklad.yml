@@ -1,0 +1,22 @@
+---
+  id: "19871"
+  word: "naklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naklad"
+      acc: "naklad"
+      gen: "naklada"
+      loc: "nakladu"
+      dat: "nakladu"
+      ins: "nakladom"
+      voc: "naklade"
+    plural: 
+      nom: "naklady"
+      acc: "naklady"
+      gen: "nakladov"
+      loc: "nakladah"
+      dat: "nakladam"
+      ins: "nakladami"
+      voc: "naklady"

@@ -1,0 +1,22 @@
+---
+  id: "4847"
+  word: "pensija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pensija"
+      acc: "pensijų"
+      gen: "pensije"
+      loc: "pensiji"
+      dat: "pensiji"
+      ins: "pensijejų"
+      voc: "pensijo"
+    plural: 
+      nom: "pensije"
+      acc: "pensije"
+      gen: "pensij"
+      loc: "pensijah"
+      dat: "pensijam"
+      ins: "pensijami"
+      voc: "pensije"

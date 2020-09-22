@@ -1,0 +1,22 @@
+---
+  id: "1292"
+  word: "slina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slina"
+      acc: "slinų"
+      gen: "sliny"
+      loc: "slině"
+      dat: "slině"
+      ins: "slinojų"
+      voc: "slino"
+    plural: 
+      nom: "sliny"
+      acc: "sliny"
+      gen: "slin"
+      loc: "slinah"
+      dat: "slinam"
+      ins: "slinami"
+      voc: "sliny"

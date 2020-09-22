@@ -1,0 +1,22 @@
+---
+  id: "3237"
+  word: "sposob"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sposob"
+      acc: "sposob"
+      gen: "sposoba"
+      loc: "sposobu"
+      dat: "sposobu"
+      ins: "sposobom"
+      voc: "sposobe"
+    plural: 
+      nom: "sposoby"
+      acc: "sposoby"
+      gen: "sposobov"
+      loc: "sposobah"
+      dat: "sposobam"
+      ins: "sposobami"
+      voc: "sposoby"

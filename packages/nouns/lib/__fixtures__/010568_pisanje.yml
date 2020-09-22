@@ -1,0 +1,22 @@
+---
+  id: "10568"
+  word: "pisańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pisańje"
+      acc: "pisańje"
+      gen: "pisańja"
+      loc: "pisańju"
+      dat: "pisańju"
+      ins: "pisańjem"
+      voc: "pisańje"
+    plural: 
+      nom: "pisańja"
+      acc: "pisańja"
+      gen: "pisanij"
+      loc: "pisańjah"
+      dat: "pisańjam"
+      ins: "pisańjami"
+      voc: "pisańja"

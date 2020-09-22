@@ -1,0 +1,22 @@
+---
+  id: "32993"
+  word: "tamburin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tamburin"
+      acc: "tamburin"
+      gen: "tamburina"
+      loc: "tamburinu"
+      dat: "tamburinu"
+      ins: "tamburinom"
+      voc: "tamburine"
+    plural: 
+      nom: "tamburiny"
+      acc: "tamburiny"
+      gen: "tamburinov"
+      loc: "tamburinah"
+      dat: "tamburinam"
+      ins: "tamburinami"
+      voc: "tamburiny"

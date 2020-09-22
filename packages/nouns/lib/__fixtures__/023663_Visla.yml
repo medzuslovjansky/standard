@@ -1,0 +1,15 @@
+---
+  id: "23663"
+  word: "Visla"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Visla"
+      acc: "Vislų"
+      gen: "Visly"
+      loc: "Vislě"
+      dat: "Vislě"
+      ins: "Vislojų"
+      voc: "Vislo"

@@ -1,0 +1,22 @@
+---
+  id: "14052"
+  word: "zadnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zadnica"
+      acc: "zadnicų"
+      gen: "zadnice"
+      loc: "zadnici"
+      dat: "zadnici"
+      ins: "zadnicejų"
+      voc: "zadnico"
+    plural: 
+      nom: "zadnice"
+      acc: "zadnice"
+      gen: "zadnic"
+      loc: "zadnicah"
+      dat: "zadnicam"
+      ins: "zadnicami"
+      voc: "zadnice"

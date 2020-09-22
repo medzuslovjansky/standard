@@ -1,0 +1,22 @@
+---
+  id: "23890"
+  word: "ruměnec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ruměnec"
+      acc: "ruměnec"
+      gen: "ruměnca"
+      loc: "ruměncu"
+      dat: "ruměncu"
+      ins: "ruměncem"
+      voc: "ruměnče"
+    plural: 
+      nom: "ruměnce"
+      acc: "ruměnce"
+      gen: "ruměncev"
+      loc: "ruměncah"
+      dat: "ruměncam"
+      ins: "ruměncami"
+      voc: "ruměnce"

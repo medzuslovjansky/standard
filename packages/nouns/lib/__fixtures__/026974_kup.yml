@@ -1,0 +1,22 @@
+---
+  id: "26974"
+  word: "kup"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kup"
+      acc: "kup"
+      gen: "kupa"
+      loc: "kupu"
+      dat: "kupu"
+      ins: "kupom"
+      voc: "kupe"
+    plural: 
+      nom: "kupy"
+      acc: "kupy"
+      gen: "kupov"
+      loc: "kupah"
+      dat: "kupam"
+      ins: "kupami"
+      voc: "kupy"

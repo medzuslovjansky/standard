@@ -1,0 +1,22 @@
+---
+  id: "20532"
+  word: "nedomȯlvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedomȯlvka"
+      acc: "nedomȯlvkų"
+      gen: "nedomȯlvky"
+      loc: "nedomȯlvkě"
+      dat: "nedomȯlvkě"
+      ins: "nedomȯlvkojų"
+      voc: "nedomȯlvko"
+    plural: 
+      nom: "nedomȯlvky"
+      acc: "nedomȯlvky"
+      gen: "nedomȯlvȯk"
+      loc: "nedomȯlvkah"
+      dat: "nedomȯlvkam"
+      ins: "nedomȯlvkami"
+      voc: "nedomȯlvky"

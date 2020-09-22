@@ -1,0 +1,22 @@
+---
+  id: "1997"
+  word: "žila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žila"
+      acc: "žilų"
+      gen: "žily"
+      loc: "žilě"
+      dat: "žilě"
+      ins: "žilojų"
+      voc: "žilo"
+    plural: 
+      nom: "žily"
+      acc: "žily"
+      gen: "žil"
+      loc: "žilah"
+      dat: "žilam"
+      ins: "žilami"
+      voc: "žily"

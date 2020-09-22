@@ -1,0 +1,22 @@
+---
+  id: "1731"
+  word: "čęsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čęsť"
+      acc: "čęsť"
+      gen: "čęsti"
+      loc: "čęsti"
+      dat: "čęsti"
+      ins: "čęsťjų"
+      voc: "čęsti"
+    plural: 
+      nom: "čęsti"
+      acc: "čęsti"
+      gen: "čęstij"
+      loc: "čęsťah"
+      dat: "čęsťam"
+      ins: "čęsťami"
+      voc: "čęsti"

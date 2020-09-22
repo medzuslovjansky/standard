@@ -1,0 +1,22 @@
+---
+  id: "15006"
+  word: "slådnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slådnica"
+      acc: "slådnicų"
+      gen: "slådnice"
+      loc: "slådnici"
+      dat: "slådnici"
+      ins: "slådnicejų"
+      voc: "slådnico"
+    plural: 
+      nom: "slådnice"
+      acc: "slådnice"
+      gen: "slådnic"
+      loc: "slådnicah"
+      dat: "slådnicam"
+      ins: "slådnicami"
+      voc: "slådnice"

@@ -1,0 +1,22 @@
+---
+  id: "27885"
+  word: "mys"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mys"
+      acc: "mys"
+      gen: "mysa"
+      loc: "mysu"
+      dat: "mysu"
+      ins: "mysom"
+      voc: "myse"
+    plural: 
+      nom: "mysy"
+      acc: "mysy"
+      gen: "mysov"
+      loc: "mysah"
+      dat: "mysam"
+      ins: "mysami"
+      voc: "mysy"

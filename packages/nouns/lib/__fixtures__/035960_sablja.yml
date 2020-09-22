@@ -1,0 +1,22 @@
+---
+  id: "35960"
+  word: "sablja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sablja"
+      acc: "sabljų"
+      gen: "sablje"
+      loc: "sablji"
+      dat: "sablji"
+      ins: "sabljejų"
+      voc: "sabljo"
+    plural: 
+      nom: "sablje"
+      acc: "sablje"
+      gen: "sablej"
+      loc: "sabljah"
+      dat: "sabljam"
+      ins: "sabljami"
+      voc: "sablje"

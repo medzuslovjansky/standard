@@ -1,0 +1,22 @@
+---
+  id: "7033"
+  word: "dětętko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dětętko"
+      acc: "dětętko"
+      gen: "dětętka"
+      loc: "dětętku"
+      dat: "dětętku"
+      ins: "dětętkom"
+      voc: "dětętko"
+    plural: 
+      nom: "dětętka"
+      acc: "dětętka"
+      gen: "dětętȯk"
+      loc: "dětętkah"
+      dat: "dětętkam"
+      ins: "dětętkami"
+      voc: "dětętka"

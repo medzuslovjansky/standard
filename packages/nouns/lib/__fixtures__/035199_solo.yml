@@ -1,0 +1,22 @@
+---
+  id: "35199"
+  word: "solo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "solo"
+      acc: "solo"
+      gen: "sola"
+      loc: "solu"
+      dat: "solu"
+      ins: "solom"
+      voc: "solo"
+    plural: 
+      nom: "sola"
+      acc: "sola"
+      gen: "sol"
+      loc: "solah"
+      dat: "solam"
+      ins: "solami"
+      voc: "sola"

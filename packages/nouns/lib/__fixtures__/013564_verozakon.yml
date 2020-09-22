@@ -1,0 +1,22 @@
+---
+  id: "13564"
+  word: "věrozakon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "věrozakon"
+      acc: "věrozakon"
+      gen: "věrozakona"
+      loc: "věrozakonu"
+      dat: "věrozakonu"
+      ins: "věrozakonom"
+      voc: "věrozakone"
+    plural: 
+      nom: "věrozakony"
+      acc: "věrozakony"
+      gen: "věrozakonov"
+      loc: "věrozakonah"
+      dat: "věrozakonam"
+      ins: "věrozakonami"
+      voc: "věrozakony"

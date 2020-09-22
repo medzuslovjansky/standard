@@ -1,0 +1,22 @@
+---
+  id: "19707"
+  word: "geneza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "geneza"
+      acc: "genezų"
+      gen: "genezy"
+      loc: "genezě"
+      dat: "genezě"
+      ins: "genezojų"
+      voc: "genezo"
+    plural: 
+      nom: "genezy"
+      acc: "genezy"
+      gen: "genez"
+      loc: "genezah"
+      dat: "genezam"
+      ins: "genezami"
+      voc: "genezy"

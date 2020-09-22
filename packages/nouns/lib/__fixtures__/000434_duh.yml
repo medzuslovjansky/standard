@@ -1,0 +1,23 @@
+---
+  id: "434"
+  word: "duh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "duh"
+      acc: "duha"
+      gen: "duha"
+      loc: "duhu"
+      dat: "duhu"
+      ins: "duhom"
+      voc: "duše"
+    plural: 
+      nom: "duhi"
+      acc: "duhov"
+      gen: "duhov"
+      loc: "duhah"
+      dat: "duham"
+      ins: "duhami"
+      voc: "duhi"

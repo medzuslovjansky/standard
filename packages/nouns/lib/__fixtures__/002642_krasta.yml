@@ -1,0 +1,22 @@
+---
+  id: "2642"
+  word: "kråsta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråsta"
+      acc: "kråstų"
+      gen: "kråsty"
+      loc: "kråstě"
+      dat: "kråstě"
+      ins: "kråstojų"
+      voc: "kråsto"
+    plural: 
+      nom: "kråsty"
+      acc: "kråsty"
+      gen: "kråst"
+      loc: "kråstah"
+      dat: "kråstam"
+      ins: "kråstami"
+      voc: "kråsty"

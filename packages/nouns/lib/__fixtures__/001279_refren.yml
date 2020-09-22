@@ -1,0 +1,22 @@
+---
+  id: "1279"
+  word: "refren"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "refren"
+      acc: "refren"
+      gen: "refrena"
+      loc: "refrenu"
+      dat: "refrenu"
+      ins: "refrenom"
+      voc: "refrene"
+    plural: 
+      nom: "refreny"
+      acc: "refreny"
+      gen: "refrenov"
+      loc: "refrenah"
+      dat: "refrenam"
+      ins: "refrenami"
+      voc: "refreny"

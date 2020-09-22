@@ -1,0 +1,22 @@
+---
+  id: "23247"
+  word: "observacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "observacija"
+      acc: "observacijų"
+      gen: "observacije"
+      loc: "observaciji"
+      dat: "observaciji"
+      ins: "observacijejų"
+      voc: "observacijo"
+    plural: 
+      nom: "observacije"
+      acc: "observacije"
+      gen: "observacij"
+      loc: "observacijah"
+      dat: "observacijam"
+      ins: "observacijami"
+      voc: "observacije"

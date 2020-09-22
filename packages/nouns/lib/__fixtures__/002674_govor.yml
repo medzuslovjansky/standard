@@ -1,0 +1,22 @@
+---
+  id: "2674"
+  word: "govor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "govor"
+      acc: "govor"
+      gen: "govora"
+      loc: "govoru"
+      dat: "govoru"
+      ins: "govorom"
+      voc: "govore"
+    plural: 
+      nom: "govory"
+      acc: "govory"
+      gen: "govorov"
+      loc: "govorah"
+      dat: "govoram"
+      ins: "govorami"
+      voc: "govory"

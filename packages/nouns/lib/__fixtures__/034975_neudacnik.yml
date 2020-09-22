@@ -1,0 +1,23 @@
+---
+  id: "34975"
+  word: "neudačnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neudačnik"
+      acc: "neudačnika"
+      gen: "neudačnika"
+      loc: "neudačniku"
+      dat: "neudačniku"
+      ins: "neudačnikom"
+      voc: "neudačniče"
+    plural: 
+      nom: "neudačniki"
+      acc: "neudačnikov"
+      gen: "neudačnikov"
+      loc: "neudačnikah"
+      dat: "neudačnikam"
+      ins: "neudačnikami"
+      voc: "neudačniki"

@@ -1,0 +1,22 @@
+---
+  id: "19025"
+  word: "učinȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "učinȯk"
+      acc: "učinȯk"
+      gen: "učinka"
+      loc: "učinku"
+      dat: "učinku"
+      ins: "učinkom"
+      voc: "učinče"
+    plural: 
+      nom: "učinky"
+      acc: "učinky"
+      gen: "učinkov"
+      loc: "učinkah"
+      dat: "učinkam"
+      ins: "učinkami"
+      voc: "učinky"

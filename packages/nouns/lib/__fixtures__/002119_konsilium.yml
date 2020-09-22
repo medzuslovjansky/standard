@@ -1,0 +1,22 @@
+---
+  id: "2119"
+  word: "konsilium"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konsilium"
+      acc: "konsilium"
+      gen: "konsiliuma"
+      loc: "konsiliumu"
+      dat: "konsiliumu"
+      ins: "konsiliumom"
+      voc: "konsilium"
+    plural: 
+      nom: "konsiliuma"
+      acc: "konsiliuma"
+      gen: "konsilium"
+      loc: "konsiliumah"
+      dat: "konsiliumam"
+      ins: "konsiliumami"
+      voc: "konsiliuma"

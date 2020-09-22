@@ -1,0 +1,23 @@
+---
+  id: "36227"
+  word: "renegat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "renegat"
+      acc: "renegata"
+      gen: "renegata"
+      loc: "renegatu"
+      dat: "renegatu"
+      ins: "renegatom"
+      voc: "renegate"
+    plural: 
+      nom: "renegati"
+      acc: "renegatov"
+      gen: "renegatov"
+      loc: "renegatah"
+      dat: "renegatam"
+      ins: "renegatami"
+      voc: "renegati"

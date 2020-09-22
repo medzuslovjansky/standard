@@ -1,0 +1,22 @@
+---
+  id: "36282"
+  word: "bȯzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bȯzina"
+      acc: "bȯzinų"
+      gen: "bȯziny"
+      loc: "bȯzině"
+      dat: "bȯzině"
+      ins: "bȯzinojų"
+      voc: "bȯzino"
+    plural: 
+      nom: "bȯziny"
+      acc: "bȯziny"
+      gen: "bȯzin"
+      loc: "bȯzinah"
+      dat: "bȯzinam"
+      ins: "bȯzinami"
+      voc: "bȯziny"

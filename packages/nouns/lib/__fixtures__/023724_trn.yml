@@ -1,0 +1,22 @@
+---
+  id: "23724"
+  word: "tŕn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tŕn"
+      acc: "tŕn"
+      gen: "tŕna"
+      loc: "tŕnu"
+      dat: "tŕnu"
+      ins: "tŕnom"
+      voc: "tŕne"
+    plural: 
+      nom: "tŕny"
+      acc: "tŕny"
+      gen: "tŕnov"
+      loc: "tŕnah"
+      dat: "tŕnam"
+      ins: "tŕnami"
+      voc: "tŕny"

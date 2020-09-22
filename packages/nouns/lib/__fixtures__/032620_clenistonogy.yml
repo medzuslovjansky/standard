@@ -1,0 +1,24 @@
+---
+  id: "32620"
+  word: "členistonogy"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "členistonogy"
+      acc: "členistonogogo"
+      gen: "členistonogogo"
+      loc: "členistonogom"
+      dat: "členistonogomu"
+      ins: "členistonogym"
+      voc: "členistonogy"
+    plural: 
+      nom: "členistonogi"
+      acc: "členistonogyh"
+      gen: "členistonogyh"
+      loc: "členistonogyh"
+      dat: "členistonogym"
+      ins: "členistonogymi"
+      voc: "členistonogi"

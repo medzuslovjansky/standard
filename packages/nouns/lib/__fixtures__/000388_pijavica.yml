@@ -1,0 +1,22 @@
+---
+  id: "388"
+  word: "pijavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pijavica"
+      acc: "pijavicų"
+      gen: "pijavice"
+      loc: "pijavici"
+      dat: "pijavici"
+      ins: "pijavicejų"
+      voc: "pijavico"
+    plural: 
+      nom: "pijavice"
+      acc: "pijavice"
+      gen: "pijavic"
+      loc: "pijavicah"
+      dat: "pijavicam"
+      ins: "pijavicami"
+      voc: "pijavice"

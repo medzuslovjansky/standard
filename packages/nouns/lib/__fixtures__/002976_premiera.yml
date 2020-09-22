@@ -1,0 +1,22 @@
+---
+  id: "2976"
+  word: "premiera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "premiera"
+      acc: "premierų"
+      gen: "premiery"
+      loc: "premierě"
+      dat: "premierě"
+      ins: "premierojų"
+      voc: "premiero"
+    plural: 
+      nom: "premiery"
+      acc: "premiery"
+      gen: "premier"
+      loc: "premierah"
+      dat: "premieram"
+      ins: "premierami"
+      voc: "premiery"

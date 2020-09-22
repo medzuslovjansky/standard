@@ -1,0 +1,22 @@
+---
+  id: "15694"
+  word: "delikt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "delikt"
+      acc: "delikt"
+      gen: "delikta"
+      loc: "deliktu"
+      dat: "deliktu"
+      ins: "deliktom"
+      voc: "delikte"
+    plural: 
+      nom: "delikty"
+      acc: "delikty"
+      gen: "deliktov"
+      loc: "deliktah"
+      dat: "deliktam"
+      ins: "deliktami"
+      voc: "delikty"

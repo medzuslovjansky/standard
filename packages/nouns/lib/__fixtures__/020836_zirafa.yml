@@ -1,0 +1,22 @@
+---
+  id: "20836"
+  word: "žirafa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žirafa"
+      acc: "žirafų"
+      gen: "žirafy"
+      loc: "žirafě"
+      dat: "žirafě"
+      ins: "žirafojų"
+      voc: "žirafo"
+    plural: 
+      nom: "žirafy"
+      acc: "žirafy"
+      gen: "žiraf"
+      loc: "žirafah"
+      dat: "žirafam"
+      ins: "žirafami"
+      voc: "žirafy"

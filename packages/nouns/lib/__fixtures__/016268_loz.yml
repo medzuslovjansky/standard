@@ -1,0 +1,23 @@
+---
+  id: "16268"
+  word: "lȯž"
+  meta: 
+    irregularity: "(lži)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "l(ȯ)ž"
+      acc: "l(ȯ)ž"
+      gen: "l(ȯ)ži"
+      loc: "l(ȯ)ži"
+      dat: "l(ȯ)ži"
+      ins: "l(ȯ)žjų"
+      voc: "l(ȯ)ži"
+    plural: 
+      nom: "l(ȯ)ži"
+      acc: "l(ȯ)ži"
+      gen: "l(ȯ)žij"
+      loc: "l(ȯ)žah"
+      dat: "l(ȯ)žam"
+      ins: "l(ȯ)žami"
+      voc: "l(ȯ)ži"

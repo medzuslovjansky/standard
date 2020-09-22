@@ -1,0 +1,15 @@
+---
+  id: "35065"
+  word: "uznańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "uznańje"
+      acc: "uznańje"
+      gen: "uznańja"
+      loc: "uznańju"
+      dat: "uznańju"
+      ins: "uznańjem"
+      voc: "uznańje"

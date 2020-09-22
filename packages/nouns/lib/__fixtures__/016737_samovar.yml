@@ -1,0 +1,22 @@
+---
+  id: "16737"
+  word: "samovar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "samovar"
+      acc: "samovar"
+      gen: "samovara"
+      loc: "samovaru"
+      dat: "samovaru"
+      ins: "samovarom"
+      voc: "samovare"
+    plural: 
+      nom: "samovary"
+      acc: "samovary"
+      gen: "samovarov"
+      loc: "samovarah"
+      dat: "samovaram"
+      ins: "samovarami"
+      voc: "samovary"

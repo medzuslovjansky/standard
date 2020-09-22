@@ -1,0 +1,23 @@
+---
+  id: "35569"
+  word: "proizvoditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "proizvoditelj"
+      acc: "proizvoditelja"
+      gen: "proizvoditelja"
+      loc: "proizvoditelju"
+      dat: "proizvoditelju"
+      ins: "proizvoditeljem"
+      voc: "proizvoditelju"
+    plural: 
+      nom: "proizvoditelji"
+      acc: "proizvoditeljev"
+      gen: "proizvoditeljev"
+      loc: "proizvoditeljah"
+      dat: "proizvoditeljam"
+      ins: "proizvoditeljami"
+      voc: "proizvoditelji"

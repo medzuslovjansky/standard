@@ -1,0 +1,15 @@
+---
+  id: "6517"
+  word: "bezkonečje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezkonečje"
+      acc: "bezkonečje"
+      gen: "bezkonečja"
+      loc: "bezkonečju"
+      dat: "bezkonečju"
+      ins: "bezkonečjem"
+      voc: "bezkonečje"

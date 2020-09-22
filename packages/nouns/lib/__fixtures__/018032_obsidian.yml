@@ -1,0 +1,22 @@
+---
+  id: "18032"
+  word: "obsidian"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obsidian"
+      acc: "obsidian"
+      gen: "obsidiana"
+      loc: "obsidianu"
+      dat: "obsidianu"
+      ins: "obsidianom"
+      voc: "obsidiane"
+    plural: 
+      nom: "obsidiany"
+      acc: "obsidiany"
+      gen: "obsidianov"
+      loc: "obsidianah"
+      dat: "obsidianam"
+      ins: "obsidianami"
+      voc: "obsidiany"

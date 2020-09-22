@@ -1,0 +1,22 @@
+---
+  id: "15673"
+  word: "zloumysľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zloumysľnosť"
+      acc: "zloumysľnosť"
+      gen: "zloumysľnosti"
+      loc: "zloumysľnosti"
+      dat: "zloumysľnosti"
+      ins: "zloumysľnosťjų"
+      voc: "zloumysľnosti"
+    plural: 
+      nom: "zloumysľnosti"
+      acc: "zloumysľnosti"
+      gen: "zloumysľnostij"
+      loc: "zloumysľnosťah"
+      dat: "zloumysľnosťam"
+      ins: "zloumysľnosťami"
+      voc: "zloumysľnosti"

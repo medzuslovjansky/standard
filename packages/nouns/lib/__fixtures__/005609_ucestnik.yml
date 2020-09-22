@@ -1,0 +1,23 @@
+---
+  id: "5609"
+  word: "učęstnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "učęstnik"
+      acc: "učęstnika"
+      gen: "učęstnika"
+      loc: "učęstniku"
+      dat: "učęstniku"
+      ins: "učęstnikom"
+      voc: "učęstniče"
+    plural: 
+      nom: "učęstniki"
+      acc: "učęstnikov"
+      gen: "učęstnikov"
+      loc: "učęstnikah"
+      dat: "učęstnikam"
+      ins: "učęstnikami"
+      voc: "učęstniki"

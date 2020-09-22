@@ -1,0 +1,22 @@
+---
+  id: "2752"
+  word: "možlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "možlivosť"
+      acc: "možlivosť"
+      gen: "možlivosti"
+      loc: "možlivosti"
+      dat: "možlivosti"
+      ins: "možlivosťjų"
+      voc: "možlivosti"
+    plural: 
+      nom: "možlivosti"
+      acc: "možlivosti"
+      gen: "možlivostij"
+      loc: "možlivosťah"
+      dat: "možlivosťam"
+      ins: "možlivosťami"
+      voc: "možlivosti"

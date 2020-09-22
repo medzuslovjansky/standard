@@ -1,0 +1,22 @@
+---
+  id: "19467"
+  word: "zorja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zorja"
+      acc: "zorjų"
+      gen: "zorje"
+      loc: "zorji"
+      dat: "zorji"
+      ins: "zorjejų"
+      voc: "zorjo"
+    plural: 
+      nom: "zorje"
+      acc: "zorje"
+      gen: "zorej"
+      loc: "zorjah"
+      dat: "zorjam"
+      ins: "zorjami"
+      voc: "zorje"

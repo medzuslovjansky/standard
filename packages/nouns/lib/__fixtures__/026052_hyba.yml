@@ -1,0 +1,22 @@
+---
+  id: "26052"
+  word: "hyba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hyba"
+      acc: "hybų"
+      gen: "hyby"
+      loc: "hybě"
+      dat: "hybě"
+      ins: "hybojų"
+      voc: "hybo"
+    plural: 
+      nom: "hyby"
+      acc: "hyby"
+      gen: "hyb"
+      loc: "hybah"
+      dat: "hybam"
+      ins: "hybami"
+      voc: "hyby"

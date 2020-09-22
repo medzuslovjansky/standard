@@ -1,0 +1,15 @@
+---
+  id: "26775"
+  word: "kovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kovańje"
+      acc: "kovańje"
+      gen: "kovańja"
+      loc: "kovańju"
+      dat: "kovańju"
+      ins: "kovańjem"
+      voc: "kovańje"

@@ -1,0 +1,22 @@
+---
+  id: "8115"
+  word: "izraz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izraz"
+      acc: "izraz"
+      gen: "izraza"
+      loc: "izrazu"
+      dat: "izrazu"
+      ins: "izrazom"
+      voc: "izraze"
+    plural: 
+      nom: "izrazy"
+      acc: "izrazy"
+      gen: "izrazov"
+      loc: "izrazah"
+      dat: "izrazam"
+      ins: "izrazami"
+      voc: "izrazy"

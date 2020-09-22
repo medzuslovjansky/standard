@@ -1,0 +1,23 @@
+---
+  id: "32859"
+  word: "najmatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "najmatelj"
+      acc: "najmatelja"
+      gen: "najmatelja"
+      loc: "najmatelju"
+      dat: "najmatelju"
+      ins: "najmateljem"
+      voc: "najmatelju"
+    plural: 
+      nom: "najmatelji"
+      acc: "najmateljev"
+      gen: "najmateljev"
+      loc: "najmateljah"
+      dat: "najmateljam"
+      ins: "najmateljami"
+      voc: "najmatelji"

@@ -1,0 +1,23 @@
+---
+  id: "24164"
+  word: "akompaniator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "akompaniator"
+      acc: "akompaniatora"
+      gen: "akompaniatora"
+      loc: "akompaniatoru"
+      dat: "akompaniatoru"
+      ins: "akompaniatorom"
+      voc: "akompaniatore"
+    plural: 
+      nom: "akompaniatori"
+      acc: "akompaniatorov"
+      gen: "akompaniatorov"
+      loc: "akompaniatorah"
+      dat: "akompaniatoram"
+      ins: "akompaniatorami"
+      voc: "akompaniatori"

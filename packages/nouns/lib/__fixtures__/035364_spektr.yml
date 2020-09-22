@@ -1,0 +1,22 @@
+---
+  id: "35364"
+  word: "spektr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spektr"
+      acc: "spektr"
+      gen: "spektra"
+      loc: "spektru"
+      dat: "spektru"
+      ins: "spektrom"
+      voc: "spektre"
+    plural: 
+      nom: "spektry"
+      acc: "spektry"
+      gen: "spektrov"
+      loc: "spektrah"
+      dat: "spektram"
+      ins: "spektrami"
+      voc: "spektry"

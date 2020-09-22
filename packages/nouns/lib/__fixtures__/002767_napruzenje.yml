@@ -1,0 +1,22 @@
+---
+  id: "2767"
+  word: "naprųžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "naprųžeńje"
+      acc: "naprųžeńje"
+      gen: "naprųžeńja"
+      loc: "naprųžeńju"
+      dat: "naprųžeńju"
+      ins: "naprųžeńjem"
+      voc: "naprųžeńje"
+    plural: 
+      nom: "naprųžeńja"
+      acc: "naprųžeńja"
+      gen: "naprųženij"
+      loc: "naprųžeńjah"
+      dat: "naprųžeńjam"
+      ins: "naprųžeńjami"
+      voc: "naprųžeńja"

@@ -1,0 +1,22 @@
+---
+  id: "23071"
+  word: "råzuměńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzuměńje"
+      acc: "råzuměńje"
+      gen: "råzuměńja"
+      loc: "råzuměńju"
+      dat: "råzuměńju"
+      ins: "råzuměńjem"
+      voc: "råzuměńje"
+    plural: 
+      nom: "råzuměńja"
+      acc: "råzuměńja"
+      gen: "råzuměnij"
+      loc: "råzuměńjah"
+      dat: "råzuměńjam"
+      ins: "råzuměńjami"
+      voc: "råzuměńja"

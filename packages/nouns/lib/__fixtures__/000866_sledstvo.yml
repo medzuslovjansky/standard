@@ -1,0 +1,22 @@
+---
+  id: "866"
+  word: "slědstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "slědstvo"
+      acc: "slědstvo"
+      gen: "slědstva"
+      loc: "slědstvu"
+      dat: "slědstvu"
+      ins: "slědstvom"
+      voc: "slědstvo"
+    plural: 
+      nom: "slědstva"
+      acc: "slědstva"
+      gen: "slědstv"
+      loc: "slědstvah"
+      dat: "slědstvam"
+      ins: "slědstvami"
+      voc: "slědstva"

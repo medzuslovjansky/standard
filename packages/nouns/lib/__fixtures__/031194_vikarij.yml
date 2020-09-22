@@ -1,0 +1,23 @@
+---
+  id: "31194"
+  word: "vikarij"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vikarij"
+      acc: "vikarija"
+      gen: "vikarija"
+      loc: "vikariju"
+      dat: "vikariju"
+      ins: "vikarijem"
+      voc: "vikariju"
+    plural: 
+      nom: "vikariji"
+      acc: "vikarijev"
+      gen: "vikarijev"
+      loc: "vikarijah"
+      dat: "vikarijam"
+      ins: "vikarijami"
+      voc: "vikariji"

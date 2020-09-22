@@ -1,0 +1,22 @@
+---
+  id: "20343"
+  word: "běg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "běg"
+      acc: "běg"
+      gen: "běga"
+      loc: "běgu"
+      dat: "běgu"
+      ins: "běgom"
+      voc: "běže"
+    plural: 
+      nom: "běgy"
+      acc: "běgy"
+      gen: "běgov"
+      loc: "běgah"
+      dat: "běgam"
+      ins: "běgami"
+      voc: "běgy"

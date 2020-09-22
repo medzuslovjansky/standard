@@ -1,0 +1,22 @@
+---
+  id: "22310"
+  word: "nevolja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevolja"
+      acc: "nevoljų"
+      gen: "nevolje"
+      loc: "nevolji"
+      dat: "nevolji"
+      ins: "nevoljejų"
+      voc: "nevoljo"
+    plural: 
+      nom: "nevolje"
+      acc: "nevolje"
+      gen: "nevolej"
+      loc: "nevoljah"
+      dat: "nevoljam"
+      ins: "nevoljami"
+      voc: "nevolje"

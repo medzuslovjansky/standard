@@ -1,0 +1,22 @@
+---
+  id: "30844"
+  word: "ščetina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ščetina"
+      acc: "ščetinų"
+      gen: "ščetiny"
+      loc: "ščetině"
+      dat: "ščetině"
+      ins: "ščetinojų"
+      voc: "ščetino"
+    plural: 
+      nom: "ščetiny"
+      acc: "ščetiny"
+      gen: "ščetin"
+      loc: "ščetinah"
+      dat: "ščetinam"
+      ins: "ščetinami"
+      voc: "ščetiny"

@@ -1,0 +1,22 @@
+---
+  id: "23770"
+  word: "prigotovjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prigotovjeńje"
+      acc: "prigotovjeńje"
+      gen: "prigotovjeńja"
+      loc: "prigotovjeńju"
+      dat: "prigotovjeńju"
+      ins: "prigotovjeńjem"
+      voc: "prigotovjeńje"
+    plural: 
+      nom: "prigotovjeńja"
+      acc: "prigotovjeńja"
+      gen: "prigotovjenij"
+      loc: "prigotovjeńjah"
+      dat: "prigotovjeńjam"
+      ins: "prigotovjeńjami"
+      voc: "prigotovjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "123"
+  word: "armija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "armija"
+      acc: "armijų"
+      gen: "armije"
+      loc: "armiji"
+      dat: "armiji"
+      ins: "armijejų"
+      voc: "armijo"
+    plural: 
+      nom: "armije"
+      acc: "armije"
+      gen: "armij"
+      loc: "armijah"
+      dat: "armijam"
+      ins: "armijami"
+      voc: "armije"

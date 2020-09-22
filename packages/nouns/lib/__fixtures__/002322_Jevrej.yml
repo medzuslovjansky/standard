@@ -1,0 +1,23 @@
+---
+  id: "2322"
+  word: "Jevrej"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Jevrej"
+      acc: "Jevreja"
+      gen: "Jevreja"
+      loc: "Jevreju"
+      dat: "Jevreju"
+      ins: "Jevrejem"
+      voc: "Jevreju"
+    plural: 
+      nom: "Jevreji"
+      acc: "Jevrejev"
+      gen: "Jevrejev"
+      loc: "Jevrejah"
+      dat: "Jevrejam"
+      ins: "Jevrejami"
+      voc: "Jevreji"

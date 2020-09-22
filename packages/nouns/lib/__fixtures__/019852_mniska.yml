@@ -1,0 +1,22 @@
+---
+  id: "19852"
+  word: "mniška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mniška"
+      acc: "mniškų"
+      gen: "mnišky"
+      loc: "mniškě"
+      dat: "mniškě"
+      ins: "mniškojų"
+      voc: "mniško"
+    plural: 
+      nom: "mnišky"
+      acc: "mnišky"
+      gen: "mnišek"
+      loc: "mniškah"
+      dat: "mniškam"
+      ins: "mniškami"
+      voc: "mnišky"

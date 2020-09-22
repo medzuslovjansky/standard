@@ -1,0 +1,22 @@
+---
+  id: "16367"
+  word: "antičnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "antičnosť"
+      acc: "antičnosť"
+      gen: "antičnosti"
+      loc: "antičnosti"
+      dat: "antičnosti"
+      ins: "antičnosťjų"
+      voc: "antičnosti"
+    plural: 
+      nom: "antičnosti"
+      acc: "antičnosti"
+      gen: "antičnostij"
+      loc: "antičnosťah"
+      dat: "antičnosťam"
+      ins: "antičnosťami"
+      voc: "antičnosti"

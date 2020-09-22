@@ -1,0 +1,22 @@
+---
+  id: "24903"
+  word: "caŕstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "caŕstvo"
+      acc: "caŕstvo"
+      gen: "caŕstva"
+      loc: "caŕstvu"
+      dat: "caŕstvu"
+      ins: "caŕstvom"
+      voc: "caŕstvo"
+    plural: 
+      nom: "caŕstva"
+      acc: "caŕstva"
+      gen: "caŕstv"
+      loc: "caŕstvah"
+      dat: "caŕstvam"
+      ins: "caŕstvami"
+      voc: "caŕstva"

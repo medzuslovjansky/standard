@@ -1,0 +1,22 @@
+---
+  id: "20030"
+  word: "poezija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poezija"
+      acc: "poezijų"
+      gen: "poezije"
+      loc: "poeziji"
+      dat: "poeziji"
+      ins: "poezijejų"
+      voc: "poezijo"
+    plural: 
+      nom: "poezije"
+      acc: "poezije"
+      gen: "poezij"
+      loc: "poezijah"
+      dat: "poezijam"
+      ins: "poezijami"
+      voc: "poezije"

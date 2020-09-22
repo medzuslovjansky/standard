@@ -1,0 +1,22 @@
+---
+  id: "18235"
+  word: "podanȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podanȯk"
+      acc: "podanȯk"
+      gen: "podanka"
+      loc: "podanku"
+      dat: "podanku"
+      ins: "podankom"
+      voc: "podanče"
+    plural: 
+      nom: "podanky"
+      acc: "podanky"
+      gen: "podankov"
+      loc: "podankah"
+      dat: "podankam"
+      ins: "podankami"
+      voc: "podanky"

@@ -1,0 +1,23 @@
+---
+  id: "21184"
+  word: "udav"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "udav"
+      acc: "udava"
+      gen: "udava"
+      loc: "udavu"
+      dat: "udavu"
+      ins: "udavom"
+      voc: "udave"
+    plural: 
+      nom: "udavi"
+      acc: "udavov"
+      gen: "udavov"
+      loc: "udavah"
+      dat: "udavam"
+      ins: "udavami"
+      voc: "udavi"

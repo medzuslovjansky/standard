@@ -1,0 +1,22 @@
+---
+  id: "35754"
+  word: "mapa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mapa"
+      acc: "mapų"
+      gen: "mapy"
+      loc: "mapě"
+      dat: "mapě"
+      ins: "mapojų"
+      voc: "mapo"
+    plural: 
+      nom: "mapy"
+      acc: "mapy"
+      gen: "map"
+      loc: "mapah"
+      dat: "mapam"
+      ins: "mapami"
+      voc: "mapy"

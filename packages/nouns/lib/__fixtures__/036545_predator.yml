@@ -1,0 +1,23 @@
+---
+  id: "36545"
+  word: "predator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "predator"
+      acc: "predatora"
+      gen: "predatora"
+      loc: "predatoru"
+      dat: "predatoru"
+      ins: "predatorom"
+      voc: "predatore"
+    plural: 
+      nom: "predatori"
+      acc: "predatorov"
+      gen: "predatorov"
+      loc: "predatorah"
+      dat: "predatoram"
+      ins: "predatorami"
+      voc: "predatori"

@@ -1,0 +1,22 @@
+---
+  id: "1244"
+  word: "rezerva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rezerva"
+      acc: "rezervų"
+      gen: "rezervy"
+      loc: "rezervě"
+      dat: "rezervě"
+      ins: "rezervojų"
+      voc: "rezervo"
+    plural: 
+      nom: "rezervy"
+      acc: "rezervy"
+      gen: "rezerv"
+      loc: "rezervah"
+      dat: "rezervam"
+      ins: "rezervami"
+      voc: "rezervy"

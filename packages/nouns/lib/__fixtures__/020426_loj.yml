@@ -1,0 +1,15 @@
+---
+  id: "20426"
+  word: "loj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "loj"
+      acc: "loj"
+      gen: "loja"
+      loc: "loju"
+      dat: "loju"
+      ins: "lojem"
+      voc: "loju"

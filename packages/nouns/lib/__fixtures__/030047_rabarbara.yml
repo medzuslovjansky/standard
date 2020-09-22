@@ -1,0 +1,22 @@
+---
+  id: "30047"
+  word: "rabarbara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rabarbara"
+      acc: "rabarbarų"
+      gen: "rabarbary"
+      loc: "rabarbarě"
+      dat: "rabarbarě"
+      ins: "rabarbarojų"
+      voc: "rabarbaro"
+    plural: 
+      nom: "rabarbary"
+      acc: "rabarbary"
+      gen: "rabarbar"
+      loc: "rabarbarah"
+      dat: "rabarbaram"
+      ins: "rabarbarami"
+      voc: "rabarbary"

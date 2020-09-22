@@ -1,0 +1,22 @@
+---
+  id: "32327"
+  word: "okolina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okolina"
+      acc: "okolinų"
+      gen: "okoliny"
+      loc: "okolině"
+      dat: "okolině"
+      ins: "okolinojų"
+      voc: "okolino"
+    plural: 
+      nom: "okoliny"
+      acc: "okoliny"
+      gen: "okolin"
+      loc: "okolinah"
+      dat: "okolinam"
+      ins: "okolinami"
+      voc: "okoliny"

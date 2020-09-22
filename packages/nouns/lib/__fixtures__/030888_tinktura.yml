@@ -1,0 +1,22 @@
+---
+  id: "30888"
+  word: "tinktura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tinktura"
+      acc: "tinkturų"
+      gen: "tinktury"
+      loc: "tinkturě"
+      dat: "tinkturě"
+      ins: "tinkturojų"
+      voc: "tinkturo"
+    plural: 
+      nom: "tinktury"
+      acc: "tinktury"
+      gen: "tinktur"
+      loc: "tinkturah"
+      dat: "tinkturam"
+      ins: "tinkturami"
+      voc: "tinktury"

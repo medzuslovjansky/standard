@@ -1,0 +1,22 @@
+---
+  id: "5223"
+  word: "plot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plot"
+      acc: "plot"
+      gen: "plota"
+      loc: "plotu"
+      dat: "plotu"
+      ins: "plotom"
+      voc: "plote"
+    plural: 
+      nom: "ploty"
+      acc: "ploty"
+      gen: "plotov"
+      loc: "plotah"
+      dat: "plotam"
+      ins: "plotami"
+      voc: "ploty"

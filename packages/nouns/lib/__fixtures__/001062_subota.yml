@@ -1,0 +1,22 @@
+---
+  id: "1062"
+  word: "sųbota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųbota"
+      acc: "sųbotų"
+      gen: "sųboty"
+      loc: "sųbotě"
+      dat: "sųbotě"
+      ins: "sųbotojų"
+      voc: "sųboto"
+    plural: 
+      nom: "sųboty"
+      acc: "sųboty"
+      gen: "sųbot"
+      loc: "sųbotah"
+      dat: "sųbotam"
+      ins: "sųbotami"
+      voc: "sųboty"

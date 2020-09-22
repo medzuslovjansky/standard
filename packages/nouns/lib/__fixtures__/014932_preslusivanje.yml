@@ -1,0 +1,22 @@
+---
+  id: "14932"
+  word: "prěslušivańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěslušivańje"
+      acc: "prěslušivańje"
+      gen: "prěslušivańja"
+      loc: "prěslušivańju"
+      dat: "prěslušivańju"
+      ins: "prěslušivańjem"
+      voc: "prěslušivańje"
+    plural: 
+      nom: "prěslušivańja"
+      acc: "prěslušivańja"
+      gen: "prěslušivanij"
+      loc: "prěslušivańjah"
+      dat: "prěslušivańjam"
+      ins: "prěslušivańjami"
+      voc: "prěslušivańja"

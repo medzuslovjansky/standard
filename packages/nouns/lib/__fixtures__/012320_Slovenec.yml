@@ -1,0 +1,23 @@
+---
+  id: "12320"
+  word: "Slovenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Slovenec"
+      acc: "Slovenca"
+      gen: "Slovenca"
+      loc: "Slovencu"
+      dat: "Slovencu"
+      ins: "Slovencem"
+      voc: "Slovenče"
+    plural: 
+      nom: "Slovenci"
+      acc: "Slovencev"
+      gen: "Slovencev"
+      loc: "Slovencah"
+      dat: "Slovencam"
+      ins: "Slovencami"
+      voc: "Slovenci"

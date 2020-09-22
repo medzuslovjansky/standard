@@ -1,0 +1,22 @@
+---
+  id: "4782"
+  word: "koncert"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koncert"
+      acc: "koncert"
+      gen: "koncerta"
+      loc: "koncertu"
+      dat: "koncertu"
+      ins: "koncertom"
+      voc: "koncerte"
+    plural: 
+      nom: "koncerty"
+      acc: "koncerty"
+      gen: "koncertov"
+      loc: "koncertah"
+      dat: "koncertam"
+      ins: "koncertami"
+      voc: "koncerty"

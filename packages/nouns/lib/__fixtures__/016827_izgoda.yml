@@ -1,0 +1,22 @@
+---
+  id: "16827"
+  word: "izgoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izgoda"
+      acc: "izgodų"
+      gen: "izgody"
+      loc: "izgodě"
+      dat: "izgodě"
+      ins: "izgodojų"
+      voc: "izgodo"
+    plural: 
+      nom: "izgody"
+      acc: "izgody"
+      gen: "izgod"
+      loc: "izgodah"
+      dat: "izgodam"
+      ins: "izgodami"
+      voc: "izgody"

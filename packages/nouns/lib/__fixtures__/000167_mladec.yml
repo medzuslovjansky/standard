@@ -1,0 +1,23 @@
+---
+  id: "167"
+  word: "mlådec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlådec"
+      acc: "mlådca"
+      gen: "mlådca"
+      loc: "mlådcu"
+      dat: "mlådcu"
+      ins: "mlådcem"
+      voc: "mlådče"
+    plural: 
+      nom: "mlådci"
+      acc: "mlådcev"
+      gen: "mlådcev"
+      loc: "mlådcah"
+      dat: "mlådcam"
+      ins: "mlådcami"
+      voc: "mlådci"

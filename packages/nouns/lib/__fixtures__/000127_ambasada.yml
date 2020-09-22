@@ -1,0 +1,22 @@
+---
+  id: "127"
+  word: "ambasada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ambasada"
+      acc: "ambasadų"
+      gen: "ambasady"
+      loc: "ambasadě"
+      dat: "ambasadě"
+      ins: "ambasadojų"
+      voc: "ambasado"
+    plural: 
+      nom: "ambasady"
+      acc: "ambasady"
+      gen: "ambasad"
+      loc: "ambasadah"
+      dat: "ambasadam"
+      ins: "ambasadami"
+      voc: "ambasady"

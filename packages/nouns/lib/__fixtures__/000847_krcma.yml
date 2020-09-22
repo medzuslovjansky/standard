@@ -1,0 +1,22 @@
+---
+  id: "847"
+  word: "krčma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krčma"
+      acc: "krčmų"
+      gen: "krčmy"
+      loc: "krčmě"
+      dat: "krčmě"
+      ins: "krčmojų"
+      voc: "krčmo"
+    plural: 
+      nom: "krčmy"
+      acc: "krčmy"
+      gen: "krčm"
+      loc: "krčmah"
+      dat: "krčmam"
+      ins: "krčmami"
+      voc: "krčmy"

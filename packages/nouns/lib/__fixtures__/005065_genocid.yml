@@ -1,0 +1,22 @@
+---
+  id: "5065"
+  word: "genocid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "genocid"
+      acc: "genocid"
+      gen: "genocida"
+      loc: "genocidu"
+      dat: "genocidu"
+      ins: "genocidom"
+      voc: "genocide"
+    plural: 
+      nom: "genocidy"
+      acc: "genocidy"
+      gen: "genocidov"
+      loc: "genocidah"
+      dat: "genocidam"
+      ins: "genocidami"
+      voc: "genocidy"

@@ -1,0 +1,15 @@
+---
+  id: "22820"
+  word: "stalinizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "stalinizm"
+      acc: "stalinizm"
+      gen: "stalinizma"
+      loc: "stalinizmu"
+      dat: "stalinizmu"
+      ins: "stalinizmom"
+      voc: "stalinizme"

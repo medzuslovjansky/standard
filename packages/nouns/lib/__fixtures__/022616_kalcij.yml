@@ -1,0 +1,15 @@
+---
+  id: "22616"
+  word: "kalcij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kalcij"
+      acc: "kalcij"
+      gen: "kalcija"
+      loc: "kalciju"
+      dat: "kalciju"
+      ins: "kalcijem"
+      voc: "kalciju"

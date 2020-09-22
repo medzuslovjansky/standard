@@ -1,0 +1,22 @@
+---
+  id: "2188"
+  word: "srědina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "srědina"
+      acc: "srědinų"
+      gen: "srědiny"
+      loc: "srědině"
+      dat: "srědině"
+      ins: "srědinojų"
+      voc: "srědino"
+    plural: 
+      nom: "srědiny"
+      acc: "srědiny"
+      gen: "srědin"
+      loc: "srědinah"
+      dat: "srědinam"
+      ins: "srědinami"
+      voc: "srědiny"

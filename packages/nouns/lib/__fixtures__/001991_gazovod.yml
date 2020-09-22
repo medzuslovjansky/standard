@@ -1,0 +1,22 @@
+---
+  id: "1991"
+  word: "gazovod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gazovod"
+      acc: "gazovod"
+      gen: "gazovoda"
+      loc: "gazovodu"
+      dat: "gazovodu"
+      ins: "gazovodom"
+      voc: "gazovode"
+    plural: 
+      nom: "gazovody"
+      acc: "gazovody"
+      gen: "gazovodov"
+      loc: "gazovodah"
+      dat: "gazovodam"
+      ins: "gazovodami"
+      voc: "gazovody"

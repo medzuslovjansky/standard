@@ -1,0 +1,22 @@
+---
+  id: "4548"
+  word: "hiperlink"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hiperlink"
+      acc: "hiperlink"
+      gen: "hiperlinka"
+      loc: "hiperlinku"
+      dat: "hiperlinku"
+      ins: "hiperlinkom"
+      voc: "hiperlinče"
+    plural: 
+      nom: "hiperlinky"
+      acc: "hiperlinky"
+      gen: "hiperlinkov"
+      loc: "hiperlinkah"
+      dat: "hiperlinkam"
+      ins: "hiperlinkami"
+      voc: "hiperlinky"

@@ -1,0 +1,22 @@
+---
+  id: "36432"
+  word: "zapaljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zapaljeńje"
+      acc: "zapaljeńje"
+      gen: "zapaljeńja"
+      loc: "zapaljeńju"
+      dat: "zapaljeńju"
+      ins: "zapaljeńjem"
+      voc: "zapaljeńje"
+    plural: 
+      nom: "zapaljeńja"
+      acc: "zapaljeńja"
+      gen: "zapaljenij"
+      loc: "zapaljeńjah"
+      dat: "zapaljeńjam"
+      ins: "zapaljeńjami"
+      voc: "zapaljeńja"

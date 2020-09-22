@@ -1,0 +1,22 @@
+---
+  id: "20000"
+  word: "opis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "opis"
+      acc: "opis"
+      gen: "opisa"
+      loc: "opisu"
+      dat: "opisu"
+      ins: "opisom"
+      voc: "opise"
+    plural: 
+      nom: "opisy"
+      acc: "opisy"
+      gen: "opisov"
+      loc: "opisah"
+      dat: "opisam"
+      ins: "opisami"
+      voc: "opisy"

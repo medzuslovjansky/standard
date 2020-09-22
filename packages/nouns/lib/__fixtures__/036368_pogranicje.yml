@@ -1,0 +1,22 @@
+---
+  id: "36368"
+  word: "pograničje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pograničje"
+      acc: "pograničje"
+      gen: "pograničja"
+      loc: "pograničju"
+      dat: "pograničju"
+      ins: "pograničjem"
+      voc: "pograničje"
+    plural: 
+      nom: "pograničja"
+      acc: "pograničja"
+      gen: "pograničij"
+      loc: "pograničjah"
+      dat: "pograničjam"
+      ins: "pograničjami"
+      voc: "pograničja"

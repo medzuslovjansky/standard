@@ -1,0 +1,23 @@
+---
+  id: "19090"
+  word: "ustrojitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ustrojitelj"
+      acc: "ustrojitelja"
+      gen: "ustrojitelja"
+      loc: "ustrojitelju"
+      dat: "ustrojitelju"
+      ins: "ustrojiteljem"
+      voc: "ustrojitelju"
+    plural: 
+      nom: "ustrojitelji"
+      acc: "ustrojiteljev"
+      gen: "ustrojiteljev"
+      loc: "ustrojiteljah"
+      dat: "ustrojiteljam"
+      ins: "ustrojiteljami"
+      voc: "ustrojitelji"

@@ -1,0 +1,15 @@
+---
+  id: "20842"
+  word: "bezopasnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezopasnosť"
+      acc: "bezopasnosť"
+      gen: "bezopasnosti"
+      loc: "bezopasnosti"
+      dat: "bezopasnosti"
+      ins: "bezopasnosťjų"
+      voc: "bezopasnosti"

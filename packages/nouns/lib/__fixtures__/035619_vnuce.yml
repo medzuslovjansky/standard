@@ -1,0 +1,22 @@
+---
+  id: "35619"
+  word: "vnučę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vnučę"
+      acc: "vnučę"
+      gen: "vnučęte / vnučęta"
+      loc: "vnučęti / vnučętu"
+      dat: "vnučęti / vnučętu"
+      ins: "vnučętem / vnučętom"
+      voc: "vnučę"
+    plural: 
+      nom: "vnučęta"
+      acc: "vnučęta"
+      gen: "vnučęt"
+      loc: "vnučętah"
+      dat: "vnučętam"
+      ins: "vnučętami"
+      voc: "vnučęta"

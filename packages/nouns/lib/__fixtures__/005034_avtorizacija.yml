@@ -1,0 +1,22 @@
+---
+  id: "5034"
+  word: "avtorizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtorizacija"
+      acc: "avtorizacijų"
+      gen: "avtorizacije"
+      loc: "avtorizaciji"
+      dat: "avtorizaciji"
+      ins: "avtorizacijejų"
+      voc: "avtorizacijo"
+    plural: 
+      nom: "avtorizacije"
+      acc: "avtorizacije"
+      gen: "avtorizacij"
+      loc: "avtorizacijah"
+      dat: "avtorizacijam"
+      ins: "avtorizacijami"
+      voc: "avtorizacije"

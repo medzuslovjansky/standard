@@ -1,0 +1,15 @@
+---
+  id: "22599"
+  word: "litij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "litij"
+      acc: "litij"
+      gen: "litija"
+      loc: "litiju"
+      dat: "litiju"
+      ins: "litijem"
+      voc: "litiju"

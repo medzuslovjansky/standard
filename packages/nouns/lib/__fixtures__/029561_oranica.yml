@@ -1,0 +1,22 @@
+---
+  id: "29561"
+  word: "oranica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oranica"
+      acc: "oranicų"
+      gen: "oranice"
+      loc: "oranici"
+      dat: "oranici"
+      ins: "oranicejų"
+      voc: "oranico"
+    plural: 
+      nom: "oranice"
+      acc: "oranice"
+      gen: "oranic"
+      loc: "oranicah"
+      dat: "oranicam"
+      ins: "oranicami"
+      voc: "oranice"

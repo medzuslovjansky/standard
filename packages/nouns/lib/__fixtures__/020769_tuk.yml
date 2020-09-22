@@ -1,0 +1,22 @@
+---
+  id: "20769"
+  word: "tuk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tuk"
+      acc: "tuk"
+      gen: "tuka"
+      loc: "tuku"
+      dat: "tuku"
+      ins: "tukom"
+      voc: "tuče"
+    plural: 
+      nom: "tuky"
+      acc: "tuky"
+      gen: "tukov"
+      loc: "tukah"
+      dat: "tukam"
+      ins: "tukami"
+      voc: "tuky"

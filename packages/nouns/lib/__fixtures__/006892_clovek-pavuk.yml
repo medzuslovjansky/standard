@@ -1,0 +1,23 @@
+---
+  id: "6892"
+  word: "člověk-pavųk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "člověk-pavųk"
+      acc: "člověk-pavųka"
+      gen: "člověk-pavųka"
+      loc: "člověk-pavųku"
+      dat: "člověk-pavųku"
+      ins: "člověk-pavųkom"
+      voc: "člověk-pavųče"
+    plural: 
+      nom: "člověk-pavųki"
+      acc: "člověk-pavųkov"
+      gen: "člověk-pavųkov"
+      loc: "člověk-pavųkah"
+      dat: "člověk-pavųkam"
+      ins: "člověk-pavųkami"
+      voc: "člověk-pavųki"

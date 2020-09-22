@@ -1,0 +1,22 @@
+---
+  id: "2630"
+  word: "imperatorica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "imperatorica"
+      acc: "imperatoricų"
+      gen: "imperatorice"
+      loc: "imperatorici"
+      dat: "imperatorici"
+      ins: "imperatoricejų"
+      voc: "imperatorico"
+    plural: 
+      nom: "imperatorice"
+      acc: "imperatorice"
+      gen: "imperatoric"
+      loc: "imperatoricah"
+      dat: "imperatoricam"
+      ins: "imperatoricami"
+      voc: "imperatorice"

@@ -1,0 +1,15 @@
+---
+  id: "24263"
+  word: "altruizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "altruizm"
+      acc: "altruizm"
+      gen: "altruizma"
+      loc: "altruizmu"
+      dat: "altruizmu"
+      ins: "altruizmom"
+      voc: "altruizme"

@@ -1,0 +1,15 @@
+---
+  id: "24244"
+  word: "alimenty"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "alimenty"
+      acc: "alimenty"
+      gen: "alimentov"
+      loc: "alimentah"
+      dat: "alimentam"
+      ins: "alimentami"
+      voc: "alimenty"

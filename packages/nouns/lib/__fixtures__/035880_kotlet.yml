@@ -1,0 +1,22 @@
+---
+  id: "35880"
+  word: "kotlet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kotlet"
+      acc: "kotlet"
+      gen: "kotleta"
+      loc: "kotletu"
+      dat: "kotletu"
+      ins: "kotletom"
+      voc: "kotlete"
+    plural: 
+      nom: "kotlety"
+      acc: "kotlety"
+      gen: "kotletov"
+      loc: "kotletah"
+      dat: "kotletam"
+      ins: "kotletami"
+      voc: "kotlety"

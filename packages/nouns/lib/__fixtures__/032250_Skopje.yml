@@ -1,0 +1,15 @@
+---
+  id: "32250"
+  word: "Skopje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Skopje"
+      acc: "Skopje"
+      gen: "Skopja"
+      loc: "Skopju"
+      dat: "Skopju"
+      ins: "Skopjem"
+      voc: "Skopje"

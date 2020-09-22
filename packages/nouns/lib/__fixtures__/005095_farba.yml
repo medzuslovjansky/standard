@@ -1,0 +1,22 @@
+---
+  id: "5095"
+  word: "farba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "farba"
+      acc: "farbų"
+      gen: "farby"
+      loc: "farbě"
+      dat: "farbě"
+      ins: "farbojų"
+      voc: "farbo"
+    plural: 
+      nom: "farby"
+      acc: "farby"
+      gen: "farb"
+      loc: "farbah"
+      dat: "farbam"
+      ins: "farbami"
+      voc: "farby"

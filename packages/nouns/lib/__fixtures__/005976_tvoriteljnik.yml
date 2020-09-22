@@ -1,0 +1,29 @@
+---
+  - 
+    id: "5976"
+    word: "tvoriteljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "tvoriteljnik"
+        acc: "tvoriteljnik"
+        gen: "tvoriteljnika"
+        loc: "tvoriteljniku"
+        dat: "tvoriteljniku"
+        ins: "tvoriteljnikom"
+        voc: "tvoriteljniče"
+      plural: 
+        nom: "tvoriteljniky"
+        acc: "tvoriteljniky"
+        gen: "tvoriteljnikov"
+        loc: "tvoriteljnikah"
+        dat: "tvoriteljnikam"
+        ins: "tvoriteljnikami"
+        voc: "tvoriteljniky"
+  - 
+    id: "5976"
+    word: "tvoriteljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

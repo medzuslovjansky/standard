@@ -1,0 +1,23 @@
+---
+  id: "676"
+  word: "gronostaj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gronostaj"
+      acc: "gronostaja"
+      gen: "gronostaja"
+      loc: "gronostaju"
+      dat: "gronostaju"
+      ins: "gronostajem"
+      voc: "gronostaju"
+    plural: 
+      nom: "gronostaji"
+      acc: "gronostajev"
+      gen: "gronostajev"
+      loc: "gronostajah"
+      dat: "gronostajam"
+      ins: "gronostajami"
+      voc: "gronostaji"

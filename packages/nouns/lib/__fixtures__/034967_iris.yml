@@ -1,0 +1,22 @@
+---
+  id: "34967"
+  word: "iris"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iris"
+      acc: "iris"
+      gen: "irisa"
+      loc: "irisu"
+      dat: "irisu"
+      ins: "irisom"
+      voc: "irise"
+    plural: 
+      nom: "irisy"
+      acc: "irisy"
+      gen: "irisov"
+      loc: "irisah"
+      dat: "irisam"
+      ins: "irisami"
+      voc: "irisy"

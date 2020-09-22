@@ -1,0 +1,22 @@
+---
+  id: "35808"
+  word: "genetika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "genetika"
+      acc: "genetikų"
+      gen: "genetiky"
+      loc: "genetikě"
+      dat: "genetikě"
+      ins: "genetikojų"
+      voc: "genetiko"
+    plural: 
+      nom: "genetiky"
+      acc: "genetiky"
+      gen: "genetik"
+      loc: "genetikah"
+      dat: "genetikam"
+      ins: "genetikami"
+      voc: "genetiky"

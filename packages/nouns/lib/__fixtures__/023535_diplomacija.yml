@@ -1,0 +1,45 @@
+---
+  - 
+    id: "23535"
+    word: "diplomacija"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "diplomacija"
+        acc: "diplomacijų"
+        gen: "diplomacije"
+        loc: "diplomaciji"
+        dat: "diplomaciji"
+        ins: "diplomacijejų"
+        voc: "diplomacijo"
+      plural: 
+        nom: "diplomacije"
+        acc: "diplomacije"
+        gen: "diplomacij"
+        loc: "diplomacijah"
+        dat: "diplomacijam"
+        ins: "diplomacijami"
+        voc: "diplomacije"
+  - 
+    id: "23535"
+    word: "diplomatija"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "diplomatija"
+        acc: "diplomatijų"
+        gen: "diplomatije"
+        loc: "diplomatiji"
+        dat: "diplomatiji"
+        ins: "diplomatijejų"
+        voc: "diplomatijo"
+      plural: 
+        nom: "diplomatije"
+        acc: "diplomatije"
+        gen: "diplomatij"
+        loc: "diplomatijah"
+        dat: "diplomatijam"
+        ins: "diplomatijami"
+        voc: "diplomatije"

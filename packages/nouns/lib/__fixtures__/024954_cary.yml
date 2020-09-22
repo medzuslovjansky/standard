@@ -1,0 +1,15 @@
+---
+  id: "24954"
+  word: "čary"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "čary"
+      acc: "čary"
+      gen: "čarov"
+      loc: "čarah"
+      dat: "čaram"
+      ins: "čarami"
+      voc: "čary"

@@ -1,0 +1,22 @@
+---
+  id: "19795"
+  word: "kontrakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kontrakcija"
+      acc: "kontrakcijų"
+      gen: "kontrakcije"
+      loc: "kontrakciji"
+      dat: "kontrakciji"
+      ins: "kontrakcijejų"
+      voc: "kontrakcijo"
+    plural: 
+      nom: "kontrakcije"
+      acc: "kontrakcije"
+      gen: "kontrakcij"
+      loc: "kontrakcijah"
+      dat: "kontrakcijam"
+      ins: "kontrakcijami"
+      voc: "kontrakcije"

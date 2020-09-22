@@ -1,0 +1,24 @@
+---
+  id: "22992"
+  word: "doråstly"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "doråstly"
+      acc: "doråstlogo"
+      gen: "doråstlogo"
+      loc: "doråstlom"
+      dat: "doråstlomu"
+      ins: "doråstlym"
+      voc: "doråstly"
+    plural: 
+      nom: "doråstli"
+      acc: "doråstlyh"
+      gen: "doråstlyh"
+      loc: "doråstlyh"
+      dat: "doråstlym"
+      ins: "doråstlymi"
+      voc: "doråstli"

@@ -1,0 +1,22 @@
+---
+  id: "4659"
+  word: "nevtron"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nevtron"
+      acc: "nevtron"
+      gen: "nevtrona"
+      loc: "nevtronu"
+      dat: "nevtronu"
+      ins: "nevtronom"
+      voc: "nevtrone"
+    plural: 
+      nom: "nevtrony"
+      acc: "nevtrony"
+      gen: "nevtronov"
+      loc: "nevtronah"
+      dat: "nevtronam"
+      ins: "nevtronami"
+      voc: "nevtrony"

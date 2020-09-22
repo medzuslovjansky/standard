@@ -1,0 +1,22 @@
+---
+  id: "11409"
+  word: "prěživańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěživańje"
+      acc: "prěživańje"
+      gen: "prěživańja"
+      loc: "prěživańju"
+      dat: "prěživańju"
+      ins: "prěživańjem"
+      voc: "prěživańje"
+    plural: 
+      nom: "prěživańja"
+      acc: "prěživańja"
+      gen: "prěživanij"
+      loc: "prěživańjah"
+      dat: "prěživańjam"
+      ins: "prěživańjami"
+      voc: "prěživańja"

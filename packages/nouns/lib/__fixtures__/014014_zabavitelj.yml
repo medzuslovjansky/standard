@@ -1,0 +1,23 @@
+---
+  id: "14014"
+  word: "zabavitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zabavitelj"
+      acc: "zabavitelja"
+      gen: "zabavitelja"
+      loc: "zabavitelju"
+      dat: "zabavitelju"
+      ins: "zabaviteljem"
+      voc: "zabavitelju"
+    plural: 
+      nom: "zabavitelji"
+      acc: "zabaviteljev"
+      gen: "zabaviteljev"
+      loc: "zabaviteljah"
+      dat: "zabaviteljam"
+      ins: "zabaviteljami"
+      voc: "zabavitelji"

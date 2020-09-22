@@ -1,0 +1,23 @@
+---
+  id: "12481"
+  word: "spasitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "spasitelj"
+      acc: "spasitelja"
+      gen: "spasitelja"
+      loc: "spasitelju"
+      dat: "spasitelju"
+      ins: "spasiteljem"
+      voc: "spasitelju"
+    plural: 
+      nom: "spasitelji"
+      acc: "spasiteljev"
+      gen: "spasiteljev"
+      loc: "spasiteljah"
+      dat: "spasiteljam"
+      ins: "spasiteljami"
+      voc: "spasitelji"

@@ -1,0 +1,23 @@
+---
+  id: "34428"
+  word: "šimpanz"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šimpanz"
+      acc: "šimpanza"
+      gen: "šimpanza"
+      loc: "šimpanzu"
+      dat: "šimpanzu"
+      ins: "šimpanzom"
+      voc: "šimpanze"
+    plural: 
+      nom: "šimpanzi"
+      acc: "šimpanzov"
+      gen: "šimpanzov"
+      loc: "šimpanzah"
+      dat: "šimpanzam"
+      ins: "šimpanzami"
+      voc: "šimpanzi"

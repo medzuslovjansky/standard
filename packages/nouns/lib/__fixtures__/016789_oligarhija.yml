@@ -1,0 +1,22 @@
+---
+  id: "16789"
+  word: "oligarhija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oligarhija"
+      acc: "oligarhijų"
+      gen: "oligarhije"
+      loc: "oligarhiji"
+      dat: "oligarhiji"
+      ins: "oligarhijejų"
+      voc: "oligarhijo"
+    plural: 
+      nom: "oligarhije"
+      acc: "oligarhije"
+      gen: "oligarhij"
+      loc: "oligarhijah"
+      dat: "oligarhijam"
+      ins: "oligarhijami"
+      voc: "oligarhije"

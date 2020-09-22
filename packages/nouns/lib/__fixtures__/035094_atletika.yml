@@ -1,0 +1,15 @@
+---
+  id: "35094"
+  word: "atletika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "atletika"
+      acc: "atletikų"
+      gen: "atletiky"
+      loc: "atletikě"
+      dat: "atletikě"
+      ins: "atletikojų"
+      voc: "atletiko"

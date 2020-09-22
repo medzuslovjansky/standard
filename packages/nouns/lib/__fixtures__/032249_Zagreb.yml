@@ -1,0 +1,15 @@
+---
+  id: "32249"
+  word: "Zagreb"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Zagreb"
+      acc: "Zagreb"
+      gen: "Zagreba"
+      loc: "Zagrebu"
+      dat: "Zagrebu"
+      ins: "Zagrebom"
+      voc: "Zagrebe"

@@ -1,0 +1,22 @@
+---
+  id: "35574"
+  word: "nestera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nestera"
+      acc: "nesterų"
+      gen: "nestery"
+      loc: "nesterě"
+      dat: "nesterě"
+      ins: "nesterojų"
+      voc: "nestero"
+    plural: 
+      nom: "nestery"
+      acc: "nestery"
+      gen: "nester"
+      loc: "nesterah"
+      dat: "nesteram"
+      ins: "nesterami"
+      voc: "nestery"

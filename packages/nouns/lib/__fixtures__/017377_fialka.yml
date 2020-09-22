@@ -1,0 +1,22 @@
+---
+  id: "17377"
+  word: "fialka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fialka"
+      acc: "fialkų"
+      gen: "fialky"
+      loc: "fialkě"
+      dat: "fialkě"
+      ins: "fialkojų"
+      voc: "fialko"
+    plural: 
+      nom: "fialky"
+      acc: "fialky"
+      gen: "fialȯk"
+      loc: "fialkah"
+      dat: "fialkam"
+      ins: "fialkami"
+      voc: "fialky"

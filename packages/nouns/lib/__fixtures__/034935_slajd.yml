@@ -1,0 +1,22 @@
+---
+  id: "34935"
+  word: "slajd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slajd"
+      acc: "slajd"
+      gen: "slajda"
+      loc: "slajdu"
+      dat: "slajdu"
+      ins: "slajdom"
+      voc: "slajde"
+    plural: 
+      nom: "slajdy"
+      acc: "slajdy"
+      gen: "slajdov"
+      loc: "slajdah"
+      dat: "slajdam"
+      ins: "slajdami"
+      voc: "slajdy"

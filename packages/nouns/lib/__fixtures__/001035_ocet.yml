@@ -1,0 +1,23 @@
+---
+  id: "1035"
+  word: "ocet"
+  meta: 
+    irregularity: "(octa)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ocėt"
+      acc: "ocėt"
+      gen: "octa"
+      loc: "octu"
+      dat: "octu"
+      ins: "octom"
+      voc: "octe"
+    plural: 
+      nom: "octy"
+      acc: "octy"
+      gen: "octov"
+      loc: "octah"
+      dat: "octam"
+      ins: "octami"
+      voc: "octy"

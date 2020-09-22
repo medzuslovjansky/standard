@@ -1,0 +1,22 @@
+---
+  id: "20873"
+  word: "kartina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kartina"
+      acc: "kartinų"
+      gen: "kartiny"
+      loc: "kartině"
+      dat: "kartině"
+      ins: "kartinojų"
+      voc: "kartino"
+    plural: 
+      nom: "kartiny"
+      acc: "kartiny"
+      gen: "kartin"
+      loc: "kartinah"
+      dat: "kartinam"
+      ins: "kartinami"
+      voc: "kartiny"

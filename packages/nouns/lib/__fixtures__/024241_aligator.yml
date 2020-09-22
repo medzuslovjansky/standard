@@ -1,0 +1,23 @@
+---
+  id: "24241"
+  word: "aligator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "aligator"
+      acc: "aligatora"
+      gen: "aligatora"
+      loc: "aligatoru"
+      dat: "aligatoru"
+      ins: "aligatorom"
+      voc: "aligatore"
+    plural: 
+      nom: "aligatori"
+      acc: "aligatorov"
+      gen: "aligatorov"
+      loc: "aligatorah"
+      dat: "aligatoram"
+      ins: "aligatorami"
+      voc: "aligatori"

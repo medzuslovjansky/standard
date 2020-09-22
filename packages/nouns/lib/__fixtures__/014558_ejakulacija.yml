@@ -1,0 +1,22 @@
+---
+  id: "14558"
+  word: "ejakulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ejakulacija"
+      acc: "ejakulacijų"
+      gen: "ejakulacije"
+      loc: "ejakulaciji"
+      dat: "ejakulaciji"
+      ins: "ejakulacijejų"
+      voc: "ejakulacijo"
+    plural: 
+      nom: "ejakulacije"
+      acc: "ejakulacije"
+      gen: "ejakulacij"
+      loc: "ejakulacijah"
+      dat: "ejakulacijam"
+      ins: "ejakulacijami"
+      voc: "ejakulacije"

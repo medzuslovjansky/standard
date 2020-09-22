@@ -1,0 +1,22 @@
+---
+  id: "20090"
+  word: "profanacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "profanacija"
+      acc: "profanacijų"
+      gen: "profanacije"
+      loc: "profanaciji"
+      dat: "profanaciji"
+      ins: "profanacijejų"
+      voc: "profanacijo"
+    plural: 
+      nom: "profanacije"
+      acc: "profanacije"
+      gen: "profanacij"
+      loc: "profanacijah"
+      dat: "profanacijam"
+      ins: "profanacijami"
+      voc: "profanacije"

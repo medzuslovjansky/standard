@@ -1,0 +1,23 @@
+---
+  id: "22393"
+  word: "egoist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "egoist"
+      acc: "egoista"
+      gen: "egoista"
+      loc: "egoistu"
+      dat: "egoistu"
+      ins: "egoistom"
+      voc: "egoiste"
+    plural: 
+      nom: "egoisti"
+      acc: "egoistov"
+      gen: "egoistov"
+      loc: "egoistah"
+      dat: "egoistam"
+      ins: "egoistami"
+      voc: "egoisti"

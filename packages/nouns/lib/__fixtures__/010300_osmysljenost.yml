@@ -1,0 +1,22 @@
+---
+  id: "10300"
+  word: "osmysljenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osmysljenosť"
+      acc: "osmysljenosť"
+      gen: "osmysljenosti"
+      loc: "osmysljenosti"
+      dat: "osmysljenosti"
+      ins: "osmysljenosťjų"
+      voc: "osmysljenosti"
+    plural: 
+      nom: "osmysljenosti"
+      acc: "osmysljenosti"
+      gen: "osmysljenostij"
+      loc: "osmysljenosťah"
+      dat: "osmysljenosťam"
+      ins: "osmysljenosťami"
+      voc: "osmysljenosti"

@@ -1,0 +1,22 @@
+---
+  id: "35540"
+  word: "rahunȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rahunȯk"
+      acc: "rahunȯk"
+      gen: "rahunka"
+      loc: "rahunku"
+      dat: "rahunku"
+      ins: "rahunkom"
+      voc: "rahunče"
+    plural: 
+      nom: "rahunky"
+      acc: "rahunky"
+      gen: "rahunkov"
+      loc: "rahunkah"
+      dat: "rahunkam"
+      ins: "rahunkami"
+      voc: "rahunky"

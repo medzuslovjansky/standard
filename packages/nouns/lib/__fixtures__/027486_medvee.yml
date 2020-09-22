@@ -1,0 +1,22 @@
+---
+  id: "27486"
+  word: "medvěđę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "medvěđę"
+      acc: "medvěđę"
+      gen: "medvěđęte / medvěđęta"
+      loc: "medvěđęti / medvěđętu"
+      dat: "medvěđęti / medvěđętu"
+      ins: "medvěđętem / medvěđętom"
+      voc: "medvěđę"
+    plural: 
+      nom: "medvěđęta"
+      acc: "medvěđęta"
+      gen: "medvěđęt"
+      loc: "medvěđętah"
+      dat: "medvěđętam"
+      ins: "medvěđętami"
+      voc: "medvěđęta"

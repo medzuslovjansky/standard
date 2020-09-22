@@ -1,0 +1,22 @@
+---
+  id: "19714"
+  word: "hierarhija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hierarhija"
+      acc: "hierarhijų"
+      gen: "hierarhije"
+      loc: "hierarhiji"
+      dat: "hierarhiji"
+      ins: "hierarhijejų"
+      voc: "hierarhijo"
+    plural: 
+      nom: "hierarhije"
+      acc: "hierarhije"
+      gen: "hierarhij"
+      loc: "hierarhijah"
+      dat: "hierarhijam"
+      ins: "hierarhijami"
+      voc: "hierarhije"

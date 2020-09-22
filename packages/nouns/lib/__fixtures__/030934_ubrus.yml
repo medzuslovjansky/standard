@@ -1,0 +1,22 @@
+---
+  id: "30934"
+  word: "ubrus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ubrus"
+      acc: "ubrus"
+      gen: "ubrusa"
+      loc: "ubrusu"
+      dat: "ubrusu"
+      ins: "ubrusom"
+      voc: "ubruse"
+    plural: 
+      nom: "ubrusy"
+      acc: "ubrusy"
+      gen: "ubrusov"
+      loc: "ubrusah"
+      dat: "ubrusam"
+      ins: "ubrusami"
+      voc: "ubrusy"

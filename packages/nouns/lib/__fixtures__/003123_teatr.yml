@@ -1,0 +1,22 @@
+---
+  id: "3123"
+  word: "teatr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "teatr"
+      acc: "teatr"
+      gen: "teatra"
+      loc: "teatru"
+      dat: "teatru"
+      ins: "teatrom"
+      voc: "teatre"
+    plural: 
+      nom: "teatry"
+      acc: "teatry"
+      gen: "teatrov"
+      loc: "teatrah"
+      dat: "teatram"
+      ins: "teatrami"
+      voc: "teatry"

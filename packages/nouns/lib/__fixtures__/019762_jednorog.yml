@@ -1,0 +1,23 @@
+---
+  id: "19762"
+  word: "jednorog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jednorog"
+      acc: "jednoroga"
+      gen: "jednoroga"
+      loc: "jednorogu"
+      dat: "jednorogu"
+      ins: "jednorogom"
+      voc: "jednorože"
+    plural: 
+      nom: "jednorogi"
+      acc: "jednorogov"
+      gen: "jednorogov"
+      loc: "jednorogah"
+      dat: "jednorogam"
+      ins: "jednorogami"
+      voc: "jednorogi"

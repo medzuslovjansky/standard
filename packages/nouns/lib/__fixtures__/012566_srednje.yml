@@ -1,0 +1,23 @@
+---
+  id: "12566"
+  word: "srědnje"
+  meta: 
+    irregularity: "(-ego)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "srědnje"
+      acc: "srědnji"
+      gen: "srědnjego"
+      loc: "srědnjem"
+      dat: "srědnjemu"
+      ins: "srědnjim"
+      voc: "srědnje"
+    plural: 
+      nom: "srědnje"
+      acc: "srědnje"
+      gen: "srědnjih"
+      loc: "srědnjih"
+      dat: "srědnjim"
+      ins: "srědnjimi"
+      voc: "srědnje"

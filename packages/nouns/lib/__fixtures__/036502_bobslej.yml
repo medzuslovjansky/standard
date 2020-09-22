@@ -1,0 +1,22 @@
+---
+  id: "36502"
+  word: "bobslej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bobslej"
+      acc: "bobslej"
+      gen: "bobsleja"
+      loc: "bobsleju"
+      dat: "bobsleju"
+      ins: "bobslejem"
+      voc: "bobsleju"
+    plural: 
+      nom: "bobsleje"
+      acc: "bobsleje"
+      gen: "bobslejev"
+      loc: "bobslejah"
+      dat: "bobslejam"
+      ins: "bobslejami"
+      voc: "bobsleje"

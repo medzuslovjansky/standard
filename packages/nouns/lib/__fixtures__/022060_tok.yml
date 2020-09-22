@@ -1,0 +1,22 @@
+---
+  id: "22060"
+  word: "tok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tok"
+      acc: "tok"
+      gen: "toka"
+      loc: "toku"
+      dat: "toku"
+      ins: "tokom"
+      voc: "toče"
+    plural: 
+      nom: "toky"
+      acc: "toky"
+      gen: "tokov"
+      loc: "tokah"
+      dat: "tokam"
+      ins: "tokami"
+      voc: "toky"

@@ -1,0 +1,22 @@
+---
+  id: "26802"
+  word: "kradež"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kradež"
+      acc: "kradež"
+      gen: "kradeži"
+      loc: "kradeži"
+      dat: "kradeži"
+      ins: "kradežjų"
+      voc: "kradeži"
+    plural: 
+      nom: "kradeži"
+      acc: "kradeži"
+      gen: "kradežij"
+      loc: "kradežah"
+      dat: "kradežam"
+      ins: "kradežami"
+      voc: "kradeži"

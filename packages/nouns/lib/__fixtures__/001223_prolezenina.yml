@@ -1,0 +1,22 @@
+---
+  id: "1223"
+  word: "proleženina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "proleženina"
+      acc: "proleženinų"
+      gen: "proleženiny"
+      loc: "proleženině"
+      dat: "proleženině"
+      ins: "proleženinojų"
+      voc: "proleženino"
+    plural: 
+      nom: "proleženiny"
+      acc: "proleženiny"
+      gen: "proleženin"
+      loc: "proleženinah"
+      dat: "proleženinam"
+      ins: "proleženinami"
+      voc: "proleženiny"

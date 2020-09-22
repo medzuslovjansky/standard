@@ -1,0 +1,22 @@
+---
+  id: "21387"
+  word: "obrok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrok"
+      acc: "obrok"
+      gen: "obroka"
+      loc: "obroku"
+      dat: "obroku"
+      ins: "obrokom"
+      voc: "obroče"
+    plural: 
+      nom: "obroky"
+      acc: "obroky"
+      gen: "obrokov"
+      loc: "obrokah"
+      dat: "obrokam"
+      ins: "obrokami"
+      voc: "obroky"

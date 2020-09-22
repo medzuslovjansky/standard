@@ -1,0 +1,22 @@
+---
+  id: "15074"
+  word: "telę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "telę"
+      acc: "telę"
+      gen: "telęte / telęta"
+      loc: "telęti / telętu"
+      dat: "telęti / telętu"
+      ins: "telętem / telętom"
+      voc: "telę"
+    plural: 
+      nom: "telęta"
+      acc: "telęta"
+      gen: "telęt"
+      loc: "telętah"
+      dat: "telętam"
+      ins: "telętami"
+      voc: "telęta"

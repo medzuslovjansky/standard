@@ -1,0 +1,22 @@
+---
+  id: "2451"
+  word: "burja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "burja"
+      acc: "burjų"
+      gen: "burje"
+      loc: "burji"
+      dat: "burji"
+      ins: "burjejų"
+      voc: "burjo"
+    plural: 
+      nom: "burje"
+      acc: "burje"
+      gen: "burej"
+      loc: "burjah"
+      dat: "burjam"
+      ins: "burjami"
+      voc: "burje"

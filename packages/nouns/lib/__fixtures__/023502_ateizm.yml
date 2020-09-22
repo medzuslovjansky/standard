@@ -1,0 +1,15 @@
+---
+  id: "23502"
+  word: "ateizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ateizm"
+      acc: "ateizm"
+      gen: "ateizma"
+      loc: "ateizmu"
+      dat: "ateizmu"
+      ins: "ateizmom"
+      voc: "ateizme"

@@ -1,0 +1,22 @@
+---
+  id: "14064"
+  word: "pozaďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pozaďje"
+      acc: "pozaďje"
+      gen: "pozaďja"
+      loc: "pozaďju"
+      dat: "pozaďju"
+      ins: "pozaďjem"
+      voc: "pozaďje"
+    plural: 
+      nom: "pozaďja"
+      acc: "pozaďja"
+      gen: "pozadij"
+      loc: "pozaďjah"
+      dat: "pozaďjam"
+      ins: "pozaďjami"
+      voc: "pozaďja"

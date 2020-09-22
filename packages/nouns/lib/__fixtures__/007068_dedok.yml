@@ -1,0 +1,23 @@
+---
+  id: "7068"
+  word: "dědȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dědȯk"
+      acc: "dědka"
+      gen: "dědka"
+      loc: "dědku"
+      dat: "dědku"
+      ins: "dědkom"
+      voc: "dědče"
+    plural: 
+      nom: "dědki"
+      acc: "dědkov"
+      gen: "dědkov"
+      loc: "dědkah"
+      dat: "dědkam"
+      ins: "dědkami"
+      voc: "dědki"

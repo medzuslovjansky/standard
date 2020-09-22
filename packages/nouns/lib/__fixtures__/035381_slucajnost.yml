@@ -1,0 +1,22 @@
+---
+  id: "35381"
+  word: "slučajnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slučajnosť"
+      acc: "slučajnosť"
+      gen: "slučajnosti"
+      loc: "slučajnosti"
+      dat: "slučajnosti"
+      ins: "slučajnosťjų"
+      voc: "slučajnosti"
+    plural: 
+      nom: "slučajnosti"
+      acc: "slučajnosti"
+      gen: "slučajnostij"
+      loc: "slučajnosťah"
+      dat: "slučajnosťam"
+      ins: "slučajnosťami"
+      voc: "slučajnosti"

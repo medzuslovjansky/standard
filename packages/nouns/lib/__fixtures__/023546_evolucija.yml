@@ -1,0 +1,15 @@
+---
+  id: "23546"
+  word: "evolucija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "evolucija"
+      acc: "evolucijų"
+      gen: "evolucije"
+      loc: "evoluciji"
+      dat: "evoluciji"
+      ins: "evolucijejų"
+      voc: "evolucijo"

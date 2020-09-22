@@ -1,0 +1,22 @@
+---
+  id: "20458"
+  word: "meduza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "meduza"
+      acc: "meduzų"
+      gen: "meduzy"
+      loc: "meduzě"
+      dat: "meduzě"
+      ins: "meduzojų"
+      voc: "meduzo"
+    plural: 
+      nom: "meduzy"
+      acc: "meduzy"
+      gen: "meduz"
+      loc: "meduzah"
+      dat: "meduzam"
+      ins: "meduzami"
+      voc: "meduzy"

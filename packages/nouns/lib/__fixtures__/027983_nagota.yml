@@ -1,0 +1,22 @@
+---
+  id: "27983"
+  word: "nagota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nagota"
+      acc: "nagotų"
+      gen: "nagoty"
+      loc: "nagotě"
+      dat: "nagotě"
+      ins: "nagotojų"
+      voc: "nagoto"
+    plural: 
+      nom: "nagoty"
+      acc: "nagoty"
+      gen: "nagot"
+      loc: "nagotah"
+      dat: "nagotam"
+      ins: "nagotami"
+      voc: "nagoty"

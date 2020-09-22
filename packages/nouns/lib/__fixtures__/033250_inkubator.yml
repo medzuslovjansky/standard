@@ -1,0 +1,22 @@
+---
+  id: "33250"
+  word: "inkubator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "inkubator"
+      acc: "inkubator"
+      gen: "inkubatora"
+      loc: "inkubatoru"
+      dat: "inkubatoru"
+      ins: "inkubatorom"
+      voc: "inkubatore"
+    plural: 
+      nom: "inkubatory"
+      acc: "inkubatory"
+      gen: "inkubatorov"
+      loc: "inkubatorah"
+      dat: "inkubatoram"
+      ins: "inkubatorami"
+      voc: "inkubatory"

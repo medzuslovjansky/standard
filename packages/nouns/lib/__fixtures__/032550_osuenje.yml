@@ -1,0 +1,22 @@
+---
+  id: "32550"
+  word: "osųđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osųđeńje"
+      acc: "osųđeńje"
+      gen: "osųđeńja"
+      loc: "osųđeńju"
+      dat: "osųđeńju"
+      ins: "osųđeńjem"
+      voc: "osųđeńje"
+    plural: 
+      nom: "osųđeńja"
+      acc: "osųđeńja"
+      gen: "osųđenij"
+      loc: "osųđeńjah"
+      dat: "osųđeńjam"
+      ins: "osųđeńjami"
+      voc: "osųđeńja"

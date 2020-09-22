@@ -1,0 +1,22 @@
+---
+  id: "4405"
+  word: "knižka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "knižka"
+      acc: "knižkų"
+      gen: "knižky"
+      loc: "knižkě"
+      dat: "knižkě"
+      ins: "knižkojų"
+      voc: "knižko"
+    plural: 
+      nom: "knižky"
+      acc: "knižky"
+      gen: "knižek"
+      loc: "knižkah"
+      dat: "knižkam"
+      ins: "knižkami"
+      voc: "knižky"

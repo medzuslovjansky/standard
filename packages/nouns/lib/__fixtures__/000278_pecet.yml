@@ -1,0 +1,22 @@
+---
+  id: "278"
+  word: "pečęť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pečęť"
+      acc: "pečęť"
+      gen: "pečęti"
+      loc: "pečęti"
+      dat: "pečęti"
+      ins: "pečęťjų"
+      voc: "pečęti"
+    plural: 
+      nom: "pečęti"
+      acc: "pečęti"
+      gen: "pečętij"
+      loc: "pečęťah"
+      dat: "pečęťam"
+      ins: "pečęťami"
+      voc: "pečęti"

@@ -1,0 +1,15 @@
+---
+  id: "12010"
+  word: "rodstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "rodstvo"
+      acc: "rodstvo"
+      gen: "rodstva"
+      loc: "rodstvu"
+      dat: "rodstvu"
+      ins: "rodstvom"
+      voc: "rodstvo"

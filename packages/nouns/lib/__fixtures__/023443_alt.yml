@@ -1,0 +1,22 @@
+---
+  id: "23443"
+  word: "alt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alt"
+      acc: "alt"
+      gen: "alta"
+      loc: "altu"
+      dat: "altu"
+      ins: "altom"
+      voc: "alte"
+    plural: 
+      nom: "alty"
+      acc: "alty"
+      gen: "altov"
+      loc: "altah"
+      dat: "altam"
+      ins: "altami"
+      voc: "alty"

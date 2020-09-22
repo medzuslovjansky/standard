@@ -1,0 +1,22 @@
+---
+  id: "23296"
+  word: "lěpilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lěpilo"
+      acc: "lěpilo"
+      gen: "lěpila"
+      loc: "lěpilu"
+      dat: "lěpilu"
+      ins: "lěpilom"
+      voc: "lěpilo"
+    plural: 
+      nom: "lěpila"
+      acc: "lěpila"
+      gen: "lěpil"
+      loc: "lěpilah"
+      dat: "lěpilam"
+      ins: "lěpilami"
+      voc: "lěpila"

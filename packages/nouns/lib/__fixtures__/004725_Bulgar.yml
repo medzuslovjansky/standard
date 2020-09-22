@@ -1,0 +1,47 @@
+---
+  - 
+    id: "4725"
+    word: "Bulgar"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Bulgar"
+        acc: "Bulgara"
+        gen: "Bulgara"
+        loc: "Bulgaru"
+        dat: "Bulgaru"
+        ins: "Bulgarom"
+        voc: "Bulgare"
+      plural: 
+        nom: "Bulgari"
+        acc: "Bulgarov"
+        gen: "Bulgarov"
+        loc: "Bulgarah"
+        dat: "Bulgaram"
+        ins: "Bulgarami"
+        voc: "Bulgari"
+  - 
+    id: "4725"
+    word: "Bulgarin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Bulgarin"
+        acc: "Bulgarina"
+        gen: "Bulgarina"
+        loc: "Bulgarinu"
+        dat: "Bulgarinu"
+        ins: "Bulgarinom"
+        voc: "Bulgarine"
+      plural: 
+        nom: "Bulgarini"
+        acc: "Bulgarinov"
+        gen: "Bulgarinov"
+        loc: "Bulgarinah"
+        dat: "Bulgarinam"
+        ins: "Bulgarinami"
+        voc: "Bulgarini"

@@ -1,0 +1,22 @@
+---
+  id: "2063"
+  word: "rolja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rolja"
+      acc: "roljų"
+      gen: "rolje"
+      loc: "rolji"
+      dat: "rolji"
+      ins: "roljejų"
+      voc: "roljo"
+    plural: 
+      nom: "rolje"
+      acc: "rolje"
+      gen: "rolej"
+      loc: "roljah"
+      dat: "roljam"
+      ins: "roljami"
+      voc: "rolje"

@@ -1,0 +1,22 @@
+---
+  id: "10554"
+  word: "pir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pir"
+      acc: "pir"
+      gen: "pira"
+      loc: "piru"
+      dat: "piru"
+      ins: "pirom"
+      voc: "pire"
+    plural: 
+      nom: "piry"
+      acc: "piry"
+      gen: "pirov"
+      loc: "pirah"
+      dat: "piram"
+      ins: "pirami"
+      voc: "piry"

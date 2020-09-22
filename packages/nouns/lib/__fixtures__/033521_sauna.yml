@@ -1,0 +1,22 @@
+---
+  id: "33521"
+  word: "sauna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sauna"
+      acc: "saunų"
+      gen: "sauny"
+      loc: "sauně"
+      dat: "sauně"
+      ins: "saunojų"
+      voc: "sauno"
+    plural: 
+      nom: "sauny"
+      acc: "sauny"
+      gen: "saun"
+      loc: "saunah"
+      dat: "saunam"
+      ins: "saunami"
+      voc: "sauny"

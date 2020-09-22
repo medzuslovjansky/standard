@@ -1,0 +1,24 @@
+---
+  id: "18244"
+  word: "poddany"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poddany"
+      acc: "poddanogo"
+      gen: "poddanogo"
+      loc: "poddanom"
+      dat: "poddanomu"
+      ins: "poddanym"
+      voc: "poddany"
+    plural: 
+      nom: "poddani"
+      acc: "poddanyh"
+      gen: "poddanyh"
+      loc: "poddanyh"
+      dat: "poddanym"
+      ins: "poddanymi"
+      voc: "poddani"

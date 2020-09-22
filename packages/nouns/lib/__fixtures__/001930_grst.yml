@@ -1,0 +1,22 @@
+---
+  id: "1930"
+  word: "grsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grsť"
+      acc: "grsť"
+      gen: "grsti"
+      loc: "grsti"
+      dat: "grsti"
+      ins: "grsťjų"
+      voc: "grsti"
+    plural: 
+      nom: "grsti"
+      acc: "grsti"
+      gen: "grstij"
+      loc: "grsťah"
+      dat: "grsťam"
+      ins: "grsťami"
+      voc: "grsti"

@@ -1,0 +1,22 @@
+---
+  id: "19914"
+  word: "nižnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nižnosť"
+      acc: "nižnosť"
+      gen: "nižnosti"
+      loc: "nižnosti"
+      dat: "nižnosti"
+      ins: "nižnosťjų"
+      voc: "nižnosti"
+    plural: 
+      nom: "nižnosti"
+      acc: "nižnosti"
+      gen: "nižnostij"
+      loc: "nižnosťah"
+      dat: "nižnosťam"
+      ins: "nižnosťami"
+      voc: "nižnosti"

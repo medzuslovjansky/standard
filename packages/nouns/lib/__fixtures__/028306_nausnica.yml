@@ -1,0 +1,22 @@
+---
+  id: "28306"
+  word: "naušnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naušnica"
+      acc: "naušnicų"
+      gen: "naušnice"
+      loc: "naušnici"
+      dat: "naušnici"
+      ins: "naušnicejų"
+      voc: "naušnico"
+    plural: 
+      nom: "naušnice"
+      acc: "naušnice"
+      gen: "naušnic"
+      loc: "naušnicah"
+      dat: "naušnicam"
+      ins: "naušnicami"
+      voc: "naušnice"

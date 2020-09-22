@@ -1,0 +1,22 @@
+---
+  id: "31342"
+  word: "vȯzvyšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯzvyšeńje"
+      acc: "vȯzvyšeńje"
+      gen: "vȯzvyšeńja"
+      loc: "vȯzvyšeńju"
+      dat: "vȯzvyšeńju"
+      ins: "vȯzvyšeńjem"
+      voc: "vȯzvyšeńje"
+    plural: 
+      nom: "vȯzvyšeńja"
+      acc: "vȯzvyšeńja"
+      gen: "vȯzvyšenij"
+      loc: "vȯzvyšeńjah"
+      dat: "vȯzvyšeńjam"
+      ins: "vȯzvyšeńjami"
+      voc: "vȯzvyšeńja"

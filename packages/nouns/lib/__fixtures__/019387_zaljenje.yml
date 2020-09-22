@@ -1,0 +1,22 @@
+---
+  id: "19387"
+  word: "žaljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žaljeńje"
+      acc: "žaljeńje"
+      gen: "žaljeńja"
+      loc: "žaljeńju"
+      dat: "žaljeńju"
+      ins: "žaljeńjem"
+      voc: "žaljeńje"
+    plural: 
+      nom: "žaljeńja"
+      acc: "žaljeńja"
+      gen: "žaljenij"
+      loc: "žaljeńjah"
+      dat: "žaljeńjam"
+      ins: "žaljeńjami"
+      voc: "žaljeńja"

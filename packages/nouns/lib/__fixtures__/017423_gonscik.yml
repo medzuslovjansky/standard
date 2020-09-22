@@ -1,0 +1,23 @@
+---
+  id: "17423"
+  word: "gonščik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gonščik"
+      acc: "gonščika"
+      gen: "gonščika"
+      loc: "gonščiku"
+      dat: "gonščiku"
+      ins: "gonščikom"
+      voc: "gonščiče"
+    plural: 
+      nom: "gonščiki"
+      acc: "gonščikov"
+      gen: "gonščikov"
+      loc: "gonščikah"
+      dat: "gonščikam"
+      ins: "gonščikami"
+      voc: "gonščiki"

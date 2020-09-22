@@ -1,0 +1,22 @@
+---
+  id: "17190"
+  word: "časoměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "časoměr"
+      acc: "časoměr"
+      gen: "časoměra"
+      loc: "časoměru"
+      dat: "časoměru"
+      ins: "časoměrom"
+      voc: "časoměre"
+    plural: 
+      nom: "časoměry"
+      acc: "časoměry"
+      gen: "časoměrov"
+      loc: "časoměrah"
+      dat: "časoměram"
+      ins: "časoměrami"
+      voc: "časoměry"

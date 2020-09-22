@@ -1,0 +1,22 @@
+---
+  id: "19849"
+  word: "metafor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "metafor"
+      acc: "metafor"
+      gen: "metafora"
+      loc: "metaforu"
+      dat: "metaforu"
+      ins: "metaforom"
+      voc: "metafore"
+    plural: 
+      nom: "metafory"
+      acc: "metafory"
+      gen: "metaforov"
+      loc: "metaforah"
+      dat: "metaforam"
+      ins: "metaforami"
+      voc: "metafory"

@@ -1,0 +1,15 @@
+---
+  id: "6786"
+  word: "cicky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "cicky"
+      acc: "cicky"
+      gen: "cick"
+      loc: "cickah"
+      dat: "cickam"
+      ins: "cickami"
+      voc: "cicky"

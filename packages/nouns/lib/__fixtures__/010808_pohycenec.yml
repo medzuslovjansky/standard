@@ -1,0 +1,23 @@
+---
+  id: "10808"
+  word: "pohyćenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pohyćenec"
+      acc: "pohyćenca"
+      gen: "pohyćenca"
+      loc: "pohyćencu"
+      dat: "pohyćencu"
+      ins: "pohyćencem"
+      voc: "pohyćenče"
+    plural: 
+      nom: "pohyćenci"
+      acc: "pohyćencev"
+      gen: "pohyćencev"
+      loc: "pohyćencah"
+      dat: "pohyćencam"
+      ins: "pohyćencami"
+      voc: "pohyćenci"

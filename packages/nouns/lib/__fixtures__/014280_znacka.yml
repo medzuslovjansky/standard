@@ -1,0 +1,22 @@
+---
+  id: "14280"
+  word: "značka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "značka"
+      acc: "značkų"
+      gen: "značky"
+      loc: "značkě"
+      dat: "značkě"
+      ins: "značkojų"
+      voc: "značko"
+    plural: 
+      nom: "značky"
+      acc: "značky"
+      gen: "značek"
+      loc: "značkah"
+      dat: "značkam"
+      ins: "značkami"
+      voc: "značky"

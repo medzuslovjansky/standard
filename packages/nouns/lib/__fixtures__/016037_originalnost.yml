@@ -1,0 +1,22 @@
+---
+  id: "16037"
+  word: "originaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "originaľnosť"
+      acc: "originaľnosť"
+      gen: "originaľnosti"
+      loc: "originaľnosti"
+      dat: "originaľnosti"
+      ins: "originaľnosťjų"
+      voc: "originaľnosti"
+    plural: 
+      nom: "originaľnosti"
+      acc: "originaľnosti"
+      gen: "originaľnostij"
+      loc: "originaľnosťah"
+      dat: "originaľnosťam"
+      ins: "originaľnosťami"
+      voc: "originaľnosti"

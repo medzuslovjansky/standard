@@ -1,0 +1,22 @@
+---
+  id: "16984"
+  word: "nominativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nominativ"
+      acc: "nominativ"
+      gen: "nominativa"
+      loc: "nominativu"
+      dat: "nominativu"
+      ins: "nominativom"
+      voc: "nominative"
+    plural: 
+      nom: "nominativy"
+      acc: "nominativy"
+      gen: "nominativov"
+      loc: "nominativah"
+      dat: "nominativam"
+      ins: "nominativami"
+      voc: "nominativy"

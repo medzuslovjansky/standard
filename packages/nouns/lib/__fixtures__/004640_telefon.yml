@@ -1,0 +1,22 @@
+---
+  id: "4640"
+  word: "telefon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "telefon"
+      acc: "telefon"
+      gen: "telefona"
+      loc: "telefonu"
+      dat: "telefonu"
+      ins: "telefonom"
+      voc: "telefone"
+    plural: 
+      nom: "telefony"
+      acc: "telefony"
+      gen: "telefonov"
+      loc: "telefonah"
+      dat: "telefonam"
+      ins: "telefonami"
+      voc: "telefony"

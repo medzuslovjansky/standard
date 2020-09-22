@@ -1,0 +1,23 @@
+---
+  id: "18302"
+  word: "pȯlnomoćnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pȯlnomoćnik"
+      acc: "pȯlnomoćnika"
+      gen: "pȯlnomoćnika"
+      loc: "pȯlnomoćniku"
+      dat: "pȯlnomoćniku"
+      ins: "pȯlnomoćnikom"
+      voc: "pȯlnomoćniče"
+    plural: 
+      nom: "pȯlnomoćniki"
+      acc: "pȯlnomoćnikov"
+      gen: "pȯlnomoćnikov"
+      loc: "pȯlnomoćnikah"
+      dat: "pȯlnomoćnikam"
+      ins: "pȯlnomoćnikami"
+      voc: "pȯlnomoćniki"

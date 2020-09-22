@@ -1,0 +1,22 @@
+---
+  id: "24084"
+  word: "admiraľstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "admiraľstvo"
+      acc: "admiraľstvo"
+      gen: "admiraľstva"
+      loc: "admiraľstvu"
+      dat: "admiraľstvu"
+      ins: "admiraľstvom"
+      voc: "admiraľstvo"
+    plural: 
+      nom: "admiraľstva"
+      acc: "admiraľstva"
+      gen: "admiraľstv"
+      loc: "admiraľstvah"
+      dat: "admiraľstvam"
+      ins: "admiraľstvami"
+      voc: "admiraľstva"

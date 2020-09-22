@@ -1,0 +1,15 @@
+---
+  id: "1852"
+  word: "bȯršč"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bȯršč"
+      acc: "bȯršč"
+      gen: "bȯršča"
+      loc: "bȯršču"
+      dat: "bȯršču"
+      ins: "bȯrščem"
+      voc: "bȯršču"

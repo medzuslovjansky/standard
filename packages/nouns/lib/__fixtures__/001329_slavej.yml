@@ -1,0 +1,23 @@
+---
+  id: "1329"
+  word: "slåvej"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slåvej"
+      acc: "slåveja"
+      gen: "slåveja"
+      loc: "slåveju"
+      dat: "slåveju"
+      ins: "slåvejem"
+      voc: "slåveju"
+    plural: 
+      nom: "slåveji"
+      acc: "slåvejev"
+      gen: "slåvejev"
+      loc: "slåvejah"
+      dat: "slåvejam"
+      ins: "slåvejami"
+      voc: "slåveji"

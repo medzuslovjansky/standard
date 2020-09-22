@@ -1,0 +1,15 @@
+---
+  id: "2774"
+  word: "Němcija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Němcija"
+      acc: "Němcijų"
+      gen: "Němcije"
+      loc: "Němciji"
+      dat: "Němciji"
+      ins: "Němcijejų"
+      voc: "Němcijo"

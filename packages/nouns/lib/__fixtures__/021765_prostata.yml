@@ -1,0 +1,22 @@
+---
+  id: "21765"
+  word: "prostata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prostata"
+      acc: "prostatų"
+      gen: "prostaty"
+      loc: "prostatě"
+      dat: "prostatě"
+      ins: "prostatojų"
+      voc: "prostato"
+    plural: 
+      nom: "prostaty"
+      acc: "prostaty"
+      gen: "prostat"
+      loc: "prostatah"
+      dat: "prostatam"
+      ins: "prostatami"
+      voc: "prostaty"

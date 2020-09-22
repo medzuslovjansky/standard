@@ -1,0 +1,23 @@
+---
+  id: "21558"
+  word: "samozvanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "samozvanec"
+      acc: "samozvanca"
+      gen: "samozvanca"
+      loc: "samozvancu"
+      dat: "samozvancu"
+      ins: "samozvancem"
+      voc: "samozvanče"
+    plural: 
+      nom: "samozvanci"
+      acc: "samozvancev"
+      gen: "samozvancev"
+      loc: "samozvancah"
+      dat: "samozvancam"
+      ins: "samozvancami"
+      voc: "samozvanci"

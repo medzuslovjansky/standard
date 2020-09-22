@@ -1,0 +1,22 @@
+---
+  id: "13386"
+  word: "ustalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ustalosť"
+      acc: "ustalosť"
+      gen: "ustalosti"
+      loc: "ustalosti"
+      dat: "ustalosti"
+      ins: "ustalosťjų"
+      voc: "ustalosti"
+    plural: 
+      nom: "ustalosti"
+      acc: "ustalosti"
+      gen: "ustalostij"
+      loc: "ustalosťah"
+      dat: "ustalosťam"
+      ins: "ustalosťami"
+      voc: "ustalosti"

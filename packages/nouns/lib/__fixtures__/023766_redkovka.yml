@@ -1,0 +1,22 @@
+---
+  id: "23766"
+  word: "redkȯvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "redkȯvka"
+      acc: "redkȯvkų"
+      gen: "redkȯvky"
+      loc: "redkȯvkě"
+      dat: "redkȯvkě"
+      ins: "redkȯvkojų"
+      voc: "redkȯvko"
+    plural: 
+      nom: "redkȯvky"
+      acc: "redkȯvky"
+      gen: "redkȯvȯk"
+      loc: "redkȯvkah"
+      dat: "redkȯvkam"
+      ins: "redkȯvkami"
+      voc: "redkȯvky"

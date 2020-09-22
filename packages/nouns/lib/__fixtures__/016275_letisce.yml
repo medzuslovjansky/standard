@@ -1,0 +1,22 @@
+---
+  id: "16275"
+  word: "letišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "letišče"
+      acc: "letišče"
+      gen: "letišča"
+      loc: "letišču"
+      dat: "letišču"
+      ins: "letiščem"
+      voc: "letišče"
+    plural: 
+      nom: "letišča"
+      acc: "letišča"
+      gen: "letišč"
+      loc: "letiščah"
+      dat: "letiščam"
+      ins: "letiščami"
+      voc: "letišča"

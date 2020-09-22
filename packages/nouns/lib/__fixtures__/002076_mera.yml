@@ -1,0 +1,22 @@
+---
+  id: "2076"
+  word: "měra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měra"
+      acc: "měrų"
+      gen: "měry"
+      loc: "měrě"
+      dat: "měrě"
+      ins: "měrojų"
+      voc: "měro"
+    plural: 
+      nom: "měry"
+      acc: "měry"
+      gen: "měr"
+      loc: "měrah"
+      dat: "měram"
+      ins: "měrami"
+      voc: "měry"

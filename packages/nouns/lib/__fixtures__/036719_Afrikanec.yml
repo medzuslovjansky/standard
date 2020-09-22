@@ -1,0 +1,23 @@
+---
+  id: "36719"
+  word: "Afrikanėc"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Afrikanėc"
+      acc: "Afrikanca"
+      gen: "Afrikanca"
+      loc: "Afrikancu"
+      dat: "Afrikancu"
+      ins: "Afrikancem"
+      voc: "Afrikancu"
+    plural: 
+      nom: "Afrikanci"
+      acc: "Afrikancev"
+      gen: "Afrikancev"
+      loc: "Afrikancah"
+      dat: "Afrikancam"
+      ins: "Afrikancami"
+      voc: "Afrikanci"

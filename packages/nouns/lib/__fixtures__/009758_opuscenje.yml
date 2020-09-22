@@ -1,0 +1,22 @@
+---
+  id: "9758"
+  word: "opušćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opušćeńje"
+      acc: "opušćeńje"
+      gen: "opušćeńja"
+      loc: "opušćeńju"
+      dat: "opušćeńju"
+      ins: "opušćeńjem"
+      voc: "opušćeńje"
+    plural: 
+      nom: "opušćeńja"
+      acc: "opušćeńja"
+      gen: "opušćenij"
+      loc: "opušćeńjah"
+      dat: "opušćeńjam"
+      ins: "opušćeńjami"
+      voc: "opušćeńja"

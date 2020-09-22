@@ -1,0 +1,15 @@
+---
+  id: "2701"
+  word: "Luksemburg"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Luksemburg"
+      acc: "Luksemburg"
+      gen: "Luksemburga"
+      loc: "Luksemburgu"
+      dat: "Luksemburgu"
+      ins: "Luksemburgom"
+      voc: "Luksemburže"

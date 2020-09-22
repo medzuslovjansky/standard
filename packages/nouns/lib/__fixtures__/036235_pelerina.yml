@@ -1,0 +1,22 @@
+---
+  id: "36235"
+  word: "pelerina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pelerina"
+      acc: "pelerinų"
+      gen: "peleriny"
+      loc: "pelerině"
+      dat: "pelerině"
+      ins: "pelerinojų"
+      voc: "pelerino"
+    plural: 
+      nom: "peleriny"
+      acc: "peleriny"
+      gen: "pelerin"
+      loc: "pelerinah"
+      dat: "pelerinam"
+      ins: "pelerinami"
+      voc: "peleriny"

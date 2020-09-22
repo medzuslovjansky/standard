@@ -1,0 +1,23 @@
+---
+  id: "16065"
+  word: "princ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "princ"
+      acc: "princa"
+      gen: "princa"
+      loc: "princu"
+      dat: "princu"
+      ins: "princem"
+      voc: "princu"
+    plural: 
+      nom: "princi"
+      acc: "princev"
+      gen: "princev"
+      loc: "princah"
+      dat: "princam"
+      ins: "princami"
+      voc: "princi"

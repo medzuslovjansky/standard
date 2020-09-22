@@ -1,0 +1,15 @@
+---
+  id: "5149"
+  word: "sȯvětničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sȯvětničstvo"
+      acc: "sȯvětničstvo"
+      gen: "sȯvětničstva"
+      loc: "sȯvětničstvu"
+      dat: "sȯvětničstvu"
+      ins: "sȯvětničstvom"
+      voc: "sȯvětničstvo"

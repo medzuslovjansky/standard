@@ -1,0 +1,23 @@
+---
+  id: "385"
+  word: "låkȯť"
+  meta: 
+    irregularity: "(låkťa)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "låk(ȯ)ť"
+      acc: "låk(ȯ)ť"
+      gen: "låk(ȯ)ťa"
+      loc: "låk(ȯ)ťu"
+      dat: "låk(ȯ)ťu"
+      ins: "låk(ȯ)ťem"
+      voc: "låk(ȯ)ťu"
+    plural: 
+      nom: "låk(ȯ)ťe"
+      acc: "låk(ȯ)ťe"
+      gen: "låk(ȯ)ťev"
+      loc: "låk(ȯ)ťah"
+      dat: "låk(ȯ)ťam"
+      ins: "låk(ȯ)ťami"
+      voc: "låk(ȯ)ťe"

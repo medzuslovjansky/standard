@@ -1,0 +1,22 @@
+---
+  id: "6098"
+  word: "bratobijstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bratobijstvo"
+      acc: "bratobijstvo"
+      gen: "bratobijstva"
+      loc: "bratobijstvu"
+      dat: "bratobijstvu"
+      ins: "bratobijstvom"
+      voc: "bratobijstvo"
+    plural: 
+      nom: "bratobijstva"
+      acc: "bratobijstva"
+      gen: "bratobijstv"
+      loc: "bratobijstvah"
+      dat: "bratobijstvam"
+      ins: "bratobijstvami"
+      voc: "bratobijstva"

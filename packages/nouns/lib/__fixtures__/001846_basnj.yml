@@ -1,0 +1,22 @@
+---
+  id: "1846"
+  word: "basnj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "basnj"
+      acc: "basnj"
+      gen: "basnji"
+      loc: "basnji"
+      dat: "basnji"
+      ins: "basnjjų"
+      voc: "basnji"
+    plural: 
+      nom: "basnji"
+      acc: "basnji"
+      gen: "basnjij"
+      loc: "basnjah"
+      dat: "basnjam"
+      ins: "basnjami"
+      voc: "basnji"

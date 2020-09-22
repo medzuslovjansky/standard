@@ -1,0 +1,47 @@
+---
+  - 
+    id: "20333"
+    word: "Angličan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Angličan"
+        acc: "Angličana"
+        gen: "Angličana"
+        loc: "Angličanu"
+        dat: "Angličanu"
+        ins: "Angličanom"
+        voc: "Angličane"
+      plural: 
+        nom: "Angličani"
+        acc: "Angličanov"
+        gen: "Angličanov"
+        loc: "Angličanah"
+        dat: "Angličanam"
+        ins: "Angličanami"
+        voc: "Angličani"
+  - 
+    id: "20333"
+    word: "Angličanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Angličanin"
+        acc: "Angličanina"
+        gen: "Angličanina"
+        loc: "Angličaninu"
+        dat: "Angličaninu"
+        ins: "Angličaninom"
+        voc: "Angličanine"
+      plural: 
+        nom: "Angličani"
+        acc: "Angličanov"
+        gen: "Angličanov"
+        loc: "Angličanah"
+        dat: "Angličanam"
+        ins: "Angličanami"
+        voc: "Angličani"

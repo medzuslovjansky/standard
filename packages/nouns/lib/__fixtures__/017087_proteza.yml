@@ -1,0 +1,22 @@
+---
+  id: "17087"
+  word: "proteza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "proteza"
+      acc: "protezų"
+      gen: "protezy"
+      loc: "protezě"
+      dat: "protezě"
+      ins: "protezojų"
+      voc: "protezo"
+    plural: 
+      nom: "protezy"
+      acc: "protezy"
+      gen: "protez"
+      loc: "protezah"
+      dat: "protezam"
+      ins: "protezami"
+      voc: "protezy"

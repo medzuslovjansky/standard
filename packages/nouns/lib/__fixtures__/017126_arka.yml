@@ -1,0 +1,22 @@
+---
+  id: "17126"
+  word: "arka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "arka"
+      acc: "arkų"
+      gen: "arky"
+      loc: "arkě"
+      dat: "arkě"
+      ins: "arkojų"
+      voc: "arko"
+    plural: 
+      nom: "arky"
+      acc: "arky"
+      gen: "arȯk"
+      loc: "arkah"
+      dat: "arkam"
+      ins: "arkami"
+      voc: "arky"

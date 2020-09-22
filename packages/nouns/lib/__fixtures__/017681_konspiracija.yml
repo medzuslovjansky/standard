@@ -1,0 +1,22 @@
+---
+  id: "17681"
+  word: "konspiracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konspiracija"
+      acc: "konspiracijų"
+      gen: "konspiracije"
+      loc: "konspiraciji"
+      dat: "konspiraciji"
+      ins: "konspiracijejų"
+      voc: "konspiracijo"
+    plural: 
+      nom: "konspiracije"
+      acc: "konspiracije"
+      gen: "konspiracij"
+      loc: "konspiracijah"
+      dat: "konspiracijam"
+      ins: "konspiracijami"
+      voc: "konspiracije"

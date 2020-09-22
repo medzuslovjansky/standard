@@ -1,0 +1,15 @@
+---
+  id: "18223"
+  word: "pleskańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pleskańje"
+      acc: "pleskańje"
+      gen: "pleskańja"
+      loc: "pleskańju"
+      dat: "pleskańju"
+      ins: "pleskańjem"
+      voc: "pleskańje"

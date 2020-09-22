@@ -1,0 +1,22 @@
+---
+  id: "31035"
+  word: "vaterlinija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vaterlinija"
+      acc: "vaterlinijų"
+      gen: "vaterlinije"
+      loc: "vaterliniji"
+      dat: "vaterliniji"
+      ins: "vaterlinijejų"
+      voc: "vaterlinijo"
+    plural: 
+      nom: "vaterlinije"
+      acc: "vaterlinije"
+      gen: "vaterlinij"
+      loc: "vaterlinijah"
+      dat: "vaterlinijam"
+      ins: "vaterlinijami"
+      voc: "vaterlinije"

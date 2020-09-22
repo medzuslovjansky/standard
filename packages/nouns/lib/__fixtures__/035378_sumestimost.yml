@@ -1,0 +1,22 @@
+---
+  id: "35378"
+  word: "sųměstimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųměstimosť"
+      acc: "sųměstimosť"
+      gen: "sųměstimosti"
+      loc: "sųměstimosti"
+      dat: "sųměstimosti"
+      ins: "sųměstimosťjų"
+      voc: "sųměstimosti"
+    plural: 
+      nom: "sųměstimosti"
+      acc: "sųměstimosti"
+      gen: "sųměstimostij"
+      loc: "sųměstimosťah"
+      dat: "sųměstimosťam"
+      ins: "sųměstimosťami"
+      voc: "sųměstimosti"

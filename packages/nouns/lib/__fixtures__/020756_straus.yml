@@ -1,0 +1,23 @@
+---
+  id: "20756"
+  word: "straus"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "straus"
+      acc: "strausa"
+      gen: "strausa"
+      loc: "strausu"
+      dat: "strausu"
+      ins: "strausom"
+      voc: "strause"
+    plural: 
+      nom: "strausi"
+      acc: "strausov"
+      gen: "strausov"
+      loc: "strausah"
+      dat: "strausam"
+      ins: "strausami"
+      voc: "strausi"

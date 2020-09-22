@@ -1,0 +1,22 @@
+---
+  id: "35531"
+  word: "napojnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "napojnica"
+      acc: "napojnicų"
+      gen: "napojnice"
+      loc: "napojnici"
+      dat: "napojnici"
+      ins: "napojnicejų"
+      voc: "napojnico"
+    plural: 
+      nom: "napojnice"
+      acc: "napojnice"
+      gen: "napojnic"
+      loc: "napojnicah"
+      dat: "napojnicam"
+      ins: "napojnicami"
+      voc: "napojnice"

@@ -1,0 +1,22 @@
+---
+  id: "3898"
+  word: "trening"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trening"
+      acc: "trening"
+      gen: "treninga"
+      loc: "treningu"
+      dat: "treningu"
+      ins: "treningom"
+      voc: "treninže"
+    plural: 
+      nom: "treningy"
+      acc: "treningy"
+      gen: "treningov"
+      loc: "treningah"
+      dat: "treningam"
+      ins: "treningami"
+      voc: "treningy"

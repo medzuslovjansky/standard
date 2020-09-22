@@ -1,0 +1,23 @@
+---
+  id: "19758"
+  word: "jedinak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jedinak"
+      acc: "jedinaka"
+      gen: "jedinaka"
+      loc: "jedinaku"
+      dat: "jedinaku"
+      ins: "jedinakom"
+      voc: "jedinače"
+    plural: 
+      nom: "jedinaki"
+      acc: "jedinakov"
+      gen: "jedinakov"
+      loc: "jedinakah"
+      dat: "jedinakam"
+      ins: "jedinakami"
+      voc: "jedinaki"

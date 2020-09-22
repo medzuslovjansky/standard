@@ -1,0 +1,23 @@
+---
+  id: "19724"
+  word: "igrač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "igrač"
+      acc: "igrača"
+      gen: "igrača"
+      loc: "igraču"
+      dat: "igraču"
+      ins: "igračem"
+      voc: "igraču"
+    plural: 
+      nom: "igrači"
+      acc: "igračev"
+      gen: "igračev"
+      loc: "igračah"
+      dat: "igračam"
+      ins: "igračami"
+      voc: "igrači"

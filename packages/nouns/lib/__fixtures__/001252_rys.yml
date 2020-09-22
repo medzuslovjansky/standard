@@ -1,0 +1,23 @@
+---
+  id: "1252"
+  word: "ryś"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ryś"
+      acc: "ryśa"
+      gen: "ryśa"
+      loc: "ryśu"
+      dat: "ryśu"
+      ins: "ryśem"
+      voc: "ryśu"
+    plural: 
+      nom: "rysi"
+      acc: "ryśev"
+      gen: "ryśev"
+      loc: "ryśah"
+      dat: "ryśam"
+      ins: "ryśami"
+      voc: "rysi"

@@ -1,0 +1,15 @@
+---
+  id: "22452"
+  word: "Bahamy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Bahamy"
+      acc: "Bahamy"
+      gen: "Baham"
+      loc: "Bahamah"
+      dat: "Bahamam"
+      ins: "Bahamami"
+      voc: "Bahamy"

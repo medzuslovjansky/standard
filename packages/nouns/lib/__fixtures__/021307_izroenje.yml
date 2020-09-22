@@ -1,0 +1,15 @@
+---
+  id: "21307"
+  word: "izrođeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izrođeńje"
+      acc: "izrođeńje"
+      gen: "izrođeńja"
+      loc: "izrođeńju"
+      dat: "izrođeńju"
+      ins: "izrođeńjem"
+      voc: "izrođeńje"

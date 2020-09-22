@@ -1,0 +1,22 @@
+---
+  id: "18108"
+  word: "ogovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ogovor"
+      acc: "ogovor"
+      gen: "ogovora"
+      loc: "ogovoru"
+      dat: "ogovoru"
+      ins: "ogovorom"
+      voc: "ogovore"
+    plural: 
+      nom: "ogovory"
+      acc: "ogovory"
+      gen: "ogovorov"
+      loc: "ogovorah"
+      dat: "ogovoram"
+      ins: "ogovorami"
+      voc: "ogovory"

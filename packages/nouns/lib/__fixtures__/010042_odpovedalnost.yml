@@ -1,0 +1,22 @@
+---
+  id: "10042"
+  word: "odpovědaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odpovědaľnosť"
+      acc: "odpovědaľnosť"
+      gen: "odpovědaľnosti"
+      loc: "odpovědaľnosti"
+      dat: "odpovědaľnosti"
+      ins: "odpovědaľnosťjų"
+      voc: "odpovědaľnosti"
+    plural: 
+      nom: "odpovědaľnosti"
+      acc: "odpovědaľnosti"
+      gen: "odpovědaľnostij"
+      loc: "odpovědaľnosťah"
+      dat: "odpovědaľnosťam"
+      ins: "odpovědaľnosťami"
+      voc: "odpovědaľnosti"

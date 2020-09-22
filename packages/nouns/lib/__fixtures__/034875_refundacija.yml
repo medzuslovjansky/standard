@@ -1,0 +1,22 @@
+---
+  id: "34875"
+  word: "refundacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "refundacija"
+      acc: "refundacijų"
+      gen: "refundacije"
+      loc: "refundaciji"
+      dat: "refundaciji"
+      ins: "refundacijejų"
+      voc: "refundacijo"
+    plural: 
+      nom: "refundacije"
+      acc: "refundacije"
+      gen: "refundacij"
+      loc: "refundacijah"
+      dat: "refundacijam"
+      ins: "refundacijami"
+      voc: "refundacije"

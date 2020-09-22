@@ -1,0 +1,22 @@
+---
+  id: "16046"
+  word: "penis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "penis"
+      acc: "penis"
+      gen: "penisa"
+      loc: "penisu"
+      dat: "penisu"
+      ins: "penisom"
+      voc: "penise"
+    plural: 
+      nom: "penisy"
+      acc: "penisy"
+      gen: "penisov"
+      loc: "penisah"
+      dat: "penisam"
+      ins: "penisami"
+      voc: "penisy"

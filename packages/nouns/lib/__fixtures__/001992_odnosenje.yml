@@ -1,0 +1,22 @@
+---
+  id: "1992"
+  word: "odnošeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odnošeńje"
+      acc: "odnošeńje"
+      gen: "odnošeńja"
+      loc: "odnošeńju"
+      dat: "odnošeńju"
+      ins: "odnošeńjem"
+      voc: "odnošeńje"
+    plural: 
+      nom: "odnošeńja"
+      acc: "odnošeńja"
+      gen: "odnošenij"
+      loc: "odnošeńjah"
+      dat: "odnošeńjam"
+      ins: "odnošeńjami"
+      voc: "odnošeńja"

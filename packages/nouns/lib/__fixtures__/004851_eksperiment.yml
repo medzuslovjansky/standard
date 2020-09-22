@@ -1,0 +1,22 @@
+---
+  id: "4851"
+  word: "eksperiment"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "eksperiment"
+      acc: "eksperiment"
+      gen: "eksperimenta"
+      loc: "eksperimentu"
+      dat: "eksperimentu"
+      ins: "eksperimentom"
+      voc: "eksperimente"
+    plural: 
+      nom: "eksperimenty"
+      acc: "eksperimenty"
+      gen: "eksperimentov"
+      loc: "eksperimentah"
+      dat: "eksperimentam"
+      ins: "eksperimentami"
+      voc: "eksperimenty"

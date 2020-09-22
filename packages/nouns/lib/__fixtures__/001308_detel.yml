@@ -1,0 +1,23 @@
+---
+  id: "1308"
+  word: "dętel"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dętel"
+      acc: "dętela"
+      gen: "dętela"
+      loc: "dętelu"
+      dat: "dętelu"
+      ins: "dętelom"
+      voc: "dętele"
+    plural: 
+      nom: "dęteli"
+      acc: "dętelov"
+      gen: "dętelov"
+      loc: "dętelah"
+      dat: "dętelam"
+      ins: "dętelami"
+      voc: "dęteli"

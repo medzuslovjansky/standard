@@ -1,0 +1,23 @@
+---
+  id: "34864"
+  word: "monah"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "monah"
+      acc: "monaha"
+      gen: "monaha"
+      loc: "monahu"
+      dat: "monahu"
+      ins: "monahom"
+      voc: "monaše"
+    plural: 
+      nom: "monahi"
+      acc: "monahov"
+      gen: "monahov"
+      loc: "monahah"
+      dat: "monaham"
+      ins: "monahami"
+      voc: "monahi"

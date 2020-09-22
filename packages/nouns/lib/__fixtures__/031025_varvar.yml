@@ -1,0 +1,23 @@
+---
+  id: "31025"
+  word: "varvar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "varvar"
+      acc: "varvara"
+      gen: "varvara"
+      loc: "varvaru"
+      dat: "varvaru"
+      ins: "varvarom"
+      voc: "varvare"
+    plural: 
+      nom: "varvari"
+      acc: "varvarov"
+      gen: "varvarov"
+      loc: "varvarah"
+      dat: "varvaram"
+      ins: "varvarami"
+      voc: "varvari"

@@ -1,0 +1,22 @@
+---
+  id: "3506"
+  word: "grob"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grob"
+      acc: "grob"
+      gen: "groba"
+      loc: "grobu"
+      dat: "grobu"
+      ins: "grobom"
+      voc: "grobe"
+    plural: 
+      nom: "groby"
+      acc: "groby"
+      gen: "grobov"
+      loc: "grobah"
+      dat: "grobam"
+      ins: "grobami"
+      voc: "groby"

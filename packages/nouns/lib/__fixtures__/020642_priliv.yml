@@ -1,0 +1,22 @@
+---
+  id: "20642"
+  word: "priliv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "priliv"
+      acc: "priliv"
+      gen: "priliva"
+      loc: "prilivu"
+      dat: "prilivu"
+      ins: "prilivom"
+      voc: "prilive"
+    plural: 
+      nom: "prilivy"
+      acc: "prilivy"
+      gen: "prilivov"
+      loc: "prilivah"
+      dat: "prilivam"
+      ins: "prilivami"
+      voc: "prilivy"

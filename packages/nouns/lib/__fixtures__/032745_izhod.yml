@@ -1,0 +1,22 @@
+---
+  id: "32745"
+  word: "izhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izhod"
+      acc: "izhod"
+      gen: "izhoda"
+      loc: "izhodu"
+      dat: "izhodu"
+      ins: "izhodom"
+      voc: "izhode"
+    plural: 
+      nom: "izhody"
+      acc: "izhody"
+      gen: "izhodov"
+      loc: "izhodah"
+      dat: "izhodam"
+      ins: "izhodami"
+      voc: "izhody"

@@ -1,0 +1,22 @@
+---
+  id: "36841"
+  word: "septima"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "septima"
+      acc: "septimų"
+      gen: "septimy"
+      loc: "septimě"
+      dat: "septimě"
+      ins: "septimojų"
+      voc: "septimo"
+    plural: 
+      nom: "septimy"
+      acc: "septimy"
+      gen: "septim"
+      loc: "septimah"
+      dat: "septimam"
+      ins: "septimami"
+      voc: "septimy"

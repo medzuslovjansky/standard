@@ -1,0 +1,22 @@
+---
+  id: "18806"
+  word: "seljanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "seljanka"
+      acc: "seljankų"
+      gen: "seljanky"
+      loc: "seljankě"
+      dat: "seljankě"
+      ins: "seljankojų"
+      voc: "seljanko"
+    plural: 
+      nom: "seljanky"
+      acc: "seljanky"
+      gen: "seljanȯk"
+      loc: "seljankah"
+      dat: "seljankam"
+      ins: "seljankami"
+      voc: "seljanky"

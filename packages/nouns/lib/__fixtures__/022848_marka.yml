@@ -1,0 +1,22 @@
+---
+  id: "22848"
+  word: "marka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marka"
+      acc: "markų"
+      gen: "marky"
+      loc: "markě"
+      dat: "markě"
+      ins: "markojų"
+      voc: "marko"
+    plural: 
+      nom: "marky"
+      acc: "marky"
+      gen: "marȯk"
+      loc: "markah"
+      dat: "markam"
+      ins: "markami"
+      voc: "marky"

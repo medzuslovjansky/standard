@@ -1,0 +1,22 @@
+---
+  id: "2496"
+  word: "historija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "historija"
+      acc: "historijų"
+      gen: "historije"
+      loc: "historiji"
+      dat: "historiji"
+      ins: "historijejų"
+      voc: "historijo"
+    plural: 
+      nom: "historije"
+      acc: "historije"
+      gen: "historij"
+      loc: "historijah"
+      dat: "historijam"
+      ins: "historijami"
+      voc: "historije"

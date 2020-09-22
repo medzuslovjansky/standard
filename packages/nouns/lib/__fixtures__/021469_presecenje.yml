@@ -1,0 +1,22 @@
+---
+  id: "21469"
+  word: "prěsěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěsěčeńje"
+      acc: "prěsěčeńje"
+      gen: "prěsěčeńja"
+      loc: "prěsěčeńju"
+      dat: "prěsěčeńju"
+      ins: "prěsěčeńjem"
+      voc: "prěsěčeńje"
+    plural: 
+      nom: "prěsěčeńja"
+      acc: "prěsěčeńja"
+      gen: "prěsěčenij"
+      loc: "prěsěčeńjah"
+      dat: "prěsěčeńjam"
+      ins: "prěsěčeńjami"
+      voc: "prěsěčeńja"

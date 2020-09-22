@@ -1,0 +1,22 @@
+---
+  id: "3240"
+  word: "odgovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odgovor"
+      acc: "odgovor"
+      gen: "odgovora"
+      loc: "odgovoru"
+      dat: "odgovoru"
+      ins: "odgovorom"
+      voc: "odgovore"
+    plural: 
+      nom: "odgovory"
+      acc: "odgovory"
+      gen: "odgovorov"
+      loc: "odgovorah"
+      dat: "odgovoram"
+      ins: "odgovorami"
+      voc: "odgovory"

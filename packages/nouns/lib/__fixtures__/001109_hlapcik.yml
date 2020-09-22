@@ -1,0 +1,23 @@
+---
+  id: "1109"
+  word: "hlåpčik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hlåpčik"
+      acc: "hlåpčika"
+      gen: "hlåpčika"
+      loc: "hlåpčiku"
+      dat: "hlåpčiku"
+      ins: "hlåpčikom"
+      voc: "hlåpčiče"
+    plural: 
+      nom: "hlåpčiki"
+      acc: "hlåpčikov"
+      gen: "hlåpčikov"
+      loc: "hlåpčikah"
+      dat: "hlåpčikam"
+      ins: "hlåpčikami"
+      voc: "hlåpčiki"

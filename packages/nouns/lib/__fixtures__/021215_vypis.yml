@@ -1,0 +1,22 @@
+---
+  id: "21215"
+  word: "vypis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vypis"
+      acc: "vypis"
+      gen: "vypisa"
+      loc: "vypisu"
+      dat: "vypisu"
+      ins: "vypisom"
+      voc: "vypise"
+    plural: 
+      nom: "vypisy"
+      acc: "vypisy"
+      gen: "vypisov"
+      loc: "vypisah"
+      dat: "vypisam"
+      ins: "vypisami"
+      voc: "vypisy"

@@ -1,0 +1,23 @@
+---
+  id: "36126"
+  word: "gnom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gnom"
+      acc: "gnoma"
+      gen: "gnoma"
+      loc: "gnomu"
+      dat: "gnomu"
+      ins: "gnomom"
+      voc: "gnome"
+    plural: 
+      nom: "gnomi"
+      acc: "gnomov"
+      gen: "gnomov"
+      loc: "gnomah"
+      dat: "gnomam"
+      ins: "gnomami"
+      voc: "gnomi"

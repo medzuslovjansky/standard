@@ -1,0 +1,23 @@
+---
+  id: "8354"
+  word: "językoznavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "językoznavec"
+      acc: "językoznavca"
+      gen: "językoznavca"
+      loc: "językoznavcu"
+      dat: "językoznavcu"
+      ins: "językoznavcem"
+      voc: "językoznavče"
+    plural: 
+      nom: "językoznavci"
+      acc: "językoznavcev"
+      gen: "językoznavcev"
+      loc: "językoznavcah"
+      dat: "językoznavcam"
+      ins: "językoznavcami"
+      voc: "językoznavci"

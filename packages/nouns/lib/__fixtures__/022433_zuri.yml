@@ -1,0 +1,23 @@
+---
+  id: "22433"
+  word: "žuri"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "žuri"
+      acc: "žuri"
+      gen: "žuri"
+      loc: "žuri"
+      dat: "žuri"
+      ins: "žuri"
+      voc: "žuri"
+    plural: 
+      nom: "žuri"
+      acc: "žuri"
+      gen: "žuri"
+      loc: "žuri"
+      dat: "žuri"
+      ins: "žuri"
+      voc: "žuri"

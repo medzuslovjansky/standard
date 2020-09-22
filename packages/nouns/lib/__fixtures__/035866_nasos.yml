@@ -1,0 +1,22 @@
+---
+  id: "35866"
+  word: "nasos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nasos"
+      acc: "nasos"
+      gen: "nasosa"
+      loc: "nasosu"
+      dat: "nasosu"
+      ins: "nasosom"
+      voc: "nasose"
+    plural: 
+      nom: "nasosy"
+      acc: "nasosy"
+      gen: "nasosov"
+      loc: "nasosah"
+      dat: "nasosam"
+      ins: "nasosami"
+      voc: "nasosy"

@@ -1,0 +1,22 @@
+---
+  id: "1301"
+  word: "kultura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kultura"
+      acc: "kulturų"
+      gen: "kultury"
+      loc: "kulturě"
+      dat: "kulturě"
+      ins: "kulturojų"
+      voc: "kulturo"
+    plural: 
+      nom: "kultury"
+      acc: "kultury"
+      gen: "kultur"
+      loc: "kulturah"
+      dat: "kulturam"
+      ins: "kulturami"
+      voc: "kultury"

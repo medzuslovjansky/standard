@@ -1,0 +1,22 @@
+---
+  id: "32931"
+  word: "kompas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kompas"
+      acc: "kompas"
+      gen: "kompasa"
+      loc: "kompasu"
+      dat: "kompasu"
+      ins: "kompasom"
+      voc: "kompase"
+    plural: 
+      nom: "kompasy"
+      acc: "kompasy"
+      gen: "kompasov"
+      loc: "kompasah"
+      dat: "kompasam"
+      ins: "kompasami"
+      voc: "kompasy"

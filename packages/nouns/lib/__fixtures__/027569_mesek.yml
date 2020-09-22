@@ -1,0 +1,22 @@
+---
+  id: "27569"
+  word: "měšek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měšek"
+      acc: "měšek"
+      gen: "měšeka"
+      loc: "měšeku"
+      dat: "měšeku"
+      ins: "měšekom"
+      voc: "měšeče"
+    plural: 
+      nom: "měšeky"
+      acc: "měšeky"
+      gen: "měšekov"
+      loc: "měšekah"
+      dat: "měšekam"
+      ins: "měšekami"
+      voc: "měšeky"

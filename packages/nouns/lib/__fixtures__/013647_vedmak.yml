@@ -1,0 +1,23 @@
+---
+  id: "13647"
+  word: "věďmak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věďmak"
+      acc: "věďmaka"
+      gen: "věďmaka"
+      loc: "věďmaku"
+      dat: "věďmaku"
+      ins: "věďmakom"
+      voc: "věďmače"
+    plural: 
+      nom: "věďmaki"
+      acc: "věďmakov"
+      gen: "věďmakov"
+      loc: "věďmakah"
+      dat: "věďmakam"
+      ins: "věďmakami"
+      voc: "věďmaki"

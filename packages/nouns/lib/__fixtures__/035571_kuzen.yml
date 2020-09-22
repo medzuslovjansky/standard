@@ -1,0 +1,23 @@
+---
+  id: "35571"
+  word: "kuzen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kuzen"
+      acc: "kuzena"
+      gen: "kuzena"
+      loc: "kuzenu"
+      dat: "kuzenu"
+      ins: "kuzenom"
+      voc: "kuzene"
+    plural: 
+      nom: "kuzeni"
+      acc: "kuzenov"
+      gen: "kuzenov"
+      loc: "kuzenah"
+      dat: "kuzenam"
+      ins: "kuzenami"
+      voc: "kuzeni"

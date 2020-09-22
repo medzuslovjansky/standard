@@ -1,0 +1,22 @@
+---
+  id: "4632"
+  word: "žędnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žędnosť"
+      acc: "žędnosť"
+      gen: "žędnosti"
+      loc: "žędnosti"
+      dat: "žędnosti"
+      ins: "žędnosťjų"
+      voc: "žędnosti"
+    plural: 
+      nom: "žędnosti"
+      acc: "žędnosti"
+      gen: "žędnostij"
+      loc: "žędnosťah"
+      dat: "žędnosťam"
+      ins: "žędnosťami"
+      voc: "žędnosti"

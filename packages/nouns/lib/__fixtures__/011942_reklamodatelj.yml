@@ -1,0 +1,23 @@
+---
+  id: "11942"
+  word: "reklamodatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "reklamodatelj"
+      acc: "reklamodatelja"
+      gen: "reklamodatelja"
+      loc: "reklamodatelju"
+      dat: "reklamodatelju"
+      ins: "reklamodateljem"
+      voc: "reklamodatelju"
+    plural: 
+      nom: "reklamodatelji"
+      acc: "reklamodateljev"
+      gen: "reklamodateljev"
+      loc: "reklamodateljah"
+      dat: "reklamodateljam"
+      ins: "reklamodateljami"
+      voc: "reklamodatelji"

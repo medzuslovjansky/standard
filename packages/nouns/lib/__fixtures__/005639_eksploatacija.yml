@@ -1,0 +1,15 @@
+---
+  id: "5639"
+  word: "eksploatacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "eksploatacija"
+      acc: "eksploatacijų"
+      gen: "eksploatacije"
+      loc: "eksploataciji"
+      dat: "eksploataciji"
+      ins: "eksploatacijejų"
+      voc: "eksploatacijo"

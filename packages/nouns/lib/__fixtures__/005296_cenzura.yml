@@ -1,0 +1,15 @@
+---
+  id: "5296"
+  word: "cenzura"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cenzura"
+      acc: "cenzurų"
+      gen: "cenzury"
+      loc: "cenzurě"
+      dat: "cenzurě"
+      ins: "cenzurojų"
+      voc: "cenzuro"

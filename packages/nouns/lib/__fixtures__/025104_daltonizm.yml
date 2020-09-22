@@ -1,0 +1,15 @@
+---
+  id: "25104"
+  word: "daltonizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "daltonizm"
+      acc: "daltonizm"
+      gen: "daltonizma"
+      loc: "daltonizmu"
+      dat: "daltonizmu"
+      ins: "daltonizmom"
+      voc: "daltonizme"

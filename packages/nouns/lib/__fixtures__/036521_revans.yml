@@ -1,0 +1,22 @@
+---
+  id: "36521"
+  word: "revanš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "revanš"
+      acc: "revanš"
+      gen: "revanša"
+      loc: "revanšu"
+      dat: "revanšu"
+      ins: "revanšem"
+      voc: "revanšu"
+    plural: 
+      nom: "revanše"
+      acc: "revanše"
+      gen: "revanšev"
+      loc: "revanšah"
+      dat: "revanšam"
+      ins: "revanšami"
+      voc: "revanše"

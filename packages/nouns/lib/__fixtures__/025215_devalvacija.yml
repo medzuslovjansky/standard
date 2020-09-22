@@ -1,0 +1,22 @@
+---
+  id: "25215"
+  word: "devalvacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "devalvacija"
+      acc: "devalvacijų"
+      gen: "devalvacije"
+      loc: "devalvaciji"
+      dat: "devalvaciji"
+      ins: "devalvacijejų"
+      voc: "devalvacijo"
+    plural: 
+      nom: "devalvacije"
+      acc: "devalvacije"
+      gen: "devalvacij"
+      loc: "devalvacijah"
+      dat: "devalvacijam"
+      ins: "devalvacijami"
+      voc: "devalvacije"

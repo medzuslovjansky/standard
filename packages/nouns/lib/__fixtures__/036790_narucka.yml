@@ -1,0 +1,22 @@
+---
+  id: "36790"
+  word: "narųčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "narųčka"
+      acc: "narųčkų"
+      gen: "narųčky"
+      loc: "narųčkě"
+      dat: "narųčkě"
+      ins: "narųčkojų"
+      voc: "narųčko"
+    plural: 
+      nom: "narųčky"
+      acc: "narųčky"
+      gen: "narųček"
+      loc: "narųčkah"
+      dat: "narųčkam"
+      ins: "narųčkami"
+      voc: "narųčky"

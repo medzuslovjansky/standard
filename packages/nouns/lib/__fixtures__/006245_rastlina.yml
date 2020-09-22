@@ -1,0 +1,22 @@
+---
+  id: "6245"
+  word: "råstlina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råstlina"
+      acc: "råstlinų"
+      gen: "råstliny"
+      loc: "råstlině"
+      dat: "råstlině"
+      ins: "råstlinojų"
+      voc: "råstlino"
+    plural: 
+      nom: "råstliny"
+      acc: "råstliny"
+      gen: "råstlin"
+      loc: "råstlinah"
+      dat: "råstlinam"
+      ins: "råstlinami"
+      voc: "råstliny"

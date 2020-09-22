@@ -1,0 +1,22 @@
+---
+  id: "31197"
+  word: "vikontesa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vikontesa"
+      acc: "vikontesų"
+      gen: "vikontesy"
+      loc: "vikontesě"
+      dat: "vikontesě"
+      ins: "vikontesojų"
+      voc: "vikonteso"
+    plural: 
+      nom: "vikontesy"
+      acc: "vikontesy"
+      gen: "vikontes"
+      loc: "vikontesah"
+      dat: "vikontesam"
+      ins: "vikontesami"
+      voc: "vikontesy"

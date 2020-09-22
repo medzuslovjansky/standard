@@ -1,0 +1,22 @@
+---
+  id: "17484"
+  word: "hvost"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hvost"
+      acc: "hvost"
+      gen: "hvosta"
+      loc: "hvostu"
+      dat: "hvostu"
+      ins: "hvostom"
+      voc: "hvoste"
+    plural: 
+      nom: "hvosty"
+      acc: "hvosty"
+      gen: "hvostov"
+      loc: "hvostah"
+      dat: "hvostam"
+      ins: "hvostami"
+      voc: "hvosty"

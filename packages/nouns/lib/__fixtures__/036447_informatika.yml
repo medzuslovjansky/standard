@@ -1,0 +1,15 @@
+---
+  id: "36447"
+  word: "informatika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "informatika"
+      acc: "informatikų"
+      gen: "informatiky"
+      loc: "informatikě"
+      dat: "informatikě"
+      ins: "informatikojų"
+      voc: "informatiko"

@@ -1,0 +1,23 @@
+---
+  id: "14563"
+  word: "fraze"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "fraze"
+      acc: "fraze"
+      gen: "fraze"
+      loc: "fraze"
+      dat: "fraze"
+      ins: "fraze"
+      voc: "fraze"
+    plural: 
+      nom: "fraze"
+      acc: "fraze"
+      gen: "fraze"
+      loc: "fraze"
+      dat: "fraze"
+      ins: "fraze"
+      voc: "fraze"

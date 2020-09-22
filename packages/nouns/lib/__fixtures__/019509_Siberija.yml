@@ -1,0 +1,15 @@
+---
+  id: "19509"
+  word: "Siberija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Siberija"
+      acc: "Siberijų"
+      gen: "Siberije"
+      loc: "Siberiji"
+      dat: "Siberiji"
+      ins: "Siberijejų"
+      voc: "Siberijo"

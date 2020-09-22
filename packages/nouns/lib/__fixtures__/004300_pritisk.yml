@@ -1,0 +1,15 @@
+---
+  id: "4300"
+  word: "pritisk"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pritisk"
+      acc: "pritisk"
+      gen: "pritiska"
+      loc: "pritisku"
+      dat: "pritisku"
+      ins: "pritiskom"
+      voc: "pritisče"

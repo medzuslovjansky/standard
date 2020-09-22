@@ -1,0 +1,22 @@
+---
+  id: "10891"
+  word: "spomaljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "spomaljeńje"
+      acc: "spomaljeńje"
+      gen: "spomaljeńja"
+      loc: "spomaljeńju"
+      dat: "spomaljeńju"
+      ins: "spomaljeńjem"
+      voc: "spomaljeńje"
+    plural: 
+      nom: "spomaljeńja"
+      acc: "spomaljeńja"
+      gen: "spomaljenij"
+      loc: "spomaljeńjah"
+      dat: "spomaljeńjam"
+      ins: "spomaljeńjami"
+      voc: "spomaljeńja"

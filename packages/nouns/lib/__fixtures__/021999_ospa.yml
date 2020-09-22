@@ -1,0 +1,22 @@
+---
+  id: "21999"
+  word: "ospa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ospa"
+      acc: "ospų"
+      gen: "ospy"
+      loc: "ospě"
+      dat: "ospě"
+      ins: "ospojų"
+      voc: "ospo"
+    plural: 
+      nom: "ospy"
+      acc: "ospy"
+      gen: "osp"
+      loc: "ospah"
+      dat: "ospam"
+      ins: "ospami"
+      voc: "ospy"

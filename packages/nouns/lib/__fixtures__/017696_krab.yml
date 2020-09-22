@@ -1,0 +1,23 @@
+---
+  id: "17696"
+  word: "krab"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krab"
+      acc: "kraba"
+      gen: "kraba"
+      loc: "krabu"
+      dat: "krabu"
+      ins: "krabom"
+      voc: "krabe"
+    plural: 
+      nom: "krabi"
+      acc: "krabov"
+      gen: "krabov"
+      loc: "krabah"
+      dat: "krabam"
+      ins: "krabami"
+      voc: "krabi"

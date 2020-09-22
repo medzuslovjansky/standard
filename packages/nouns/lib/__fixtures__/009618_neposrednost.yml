@@ -1,0 +1,22 @@
+---
+  id: "9618"
+  word: "neposrědnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neposrědnosť"
+      acc: "neposrědnosť"
+      gen: "neposrědnosti"
+      loc: "neposrědnosti"
+      dat: "neposrědnosti"
+      ins: "neposrědnosťjų"
+      voc: "neposrědnosti"
+    plural: 
+      nom: "neposrědnosti"
+      acc: "neposrědnosti"
+      gen: "neposrědnostij"
+      loc: "neposrědnosťah"
+      dat: "neposrědnosťam"
+      ins: "neposrědnosťami"
+      voc: "neposrědnosti"

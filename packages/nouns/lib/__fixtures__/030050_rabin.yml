@@ -1,0 +1,23 @@
+---
+  id: "30050"
+  word: "rabin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rabin"
+      acc: "rabina"
+      gen: "rabina"
+      loc: "rabinu"
+      dat: "rabinu"
+      ins: "rabinom"
+      voc: "rabine"
+    plural: 
+      nom: "rabini"
+      acc: "rabinov"
+      gen: "rabinov"
+      loc: "rabinah"
+      dat: "rabinam"
+      ins: "rabinami"
+      voc: "rabini"

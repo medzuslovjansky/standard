@@ -1,0 +1,22 @@
+---
+  id: "21286"
+  word: "džungla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "džungla"
+      acc: "džunglų"
+      gen: "džungly"
+      loc: "džunglě"
+      dat: "džunglě"
+      ins: "džunglojų"
+      voc: "džunglo"
+    plural: 
+      nom: "džungly"
+      acc: "džungly"
+      gen: "džungl"
+      loc: "džunglah"
+      dat: "džunglam"
+      ins: "džunglami"
+      voc: "džungly"

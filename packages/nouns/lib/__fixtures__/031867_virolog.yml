@@ -1,0 +1,23 @@
+---
+  id: "31867"
+  word: "virolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "virolog"
+      acc: "virologa"
+      gen: "virologa"
+      loc: "virologu"
+      dat: "virologu"
+      ins: "virologom"
+      voc: "virolože"
+    plural: 
+      nom: "virologi"
+      acc: "virologov"
+      gen: "virologov"
+      loc: "virologah"
+      dat: "virologam"
+      ins: "virologami"
+      voc: "virologi"

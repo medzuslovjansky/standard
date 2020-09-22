@@ -1,0 +1,22 @@
+---
+  id: "35785"
+  word: "aglomeracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aglomeracija"
+      acc: "aglomeracijų"
+      gen: "aglomeracije"
+      loc: "aglomeraciji"
+      dat: "aglomeraciji"
+      ins: "aglomeracijejų"
+      voc: "aglomeracijo"
+    plural: 
+      nom: "aglomeracije"
+      acc: "aglomeracije"
+      gen: "aglomeracij"
+      loc: "aglomeracijah"
+      dat: "aglomeracijam"
+      ins: "aglomeracijami"
+      voc: "aglomeracije"

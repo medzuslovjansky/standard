@@ -1,0 +1,22 @@
+---
+  id: "33408"
+  word: "pilulka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pilulka"
+      acc: "pilulkų"
+      gen: "pilulky"
+      loc: "pilulkě"
+      dat: "pilulkě"
+      ins: "pilulkojų"
+      voc: "pilulko"
+    plural: 
+      nom: "pilulky"
+      acc: "pilulky"
+      gen: "pilulȯk"
+      loc: "pilulkah"
+      dat: "pilulkam"
+      ins: "pilulkami"
+      voc: "pilulky"

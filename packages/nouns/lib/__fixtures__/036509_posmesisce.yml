@@ -1,0 +1,22 @@
+---
+  id: "36509"
+  word: "posměšišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "posměšišče"
+      acc: "posměšišče"
+      gen: "posměšišča"
+      loc: "posměšišču"
+      dat: "posměšišču"
+      ins: "posměšiščem"
+      voc: "posměšišče"
+    plural: 
+      nom: "posměšišča"
+      acc: "posměšišča"
+      gen: "posměšišč"
+      loc: "posměšiščah"
+      dat: "posměšiščam"
+      ins: "posměšiščami"
+      voc: "posměšišča"

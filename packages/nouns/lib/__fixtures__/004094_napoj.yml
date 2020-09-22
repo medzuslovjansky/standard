@@ -1,0 +1,22 @@
+---
+  id: "4094"
+  word: "napoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napoj"
+      acc: "napoj"
+      gen: "napoja"
+      loc: "napoju"
+      dat: "napoju"
+      ins: "napojem"
+      voc: "napoju"
+    plural: 
+      nom: "napoje"
+      acc: "napoje"
+      gen: "napojev"
+      loc: "napojah"
+      dat: "napojam"
+      ins: "napojami"
+      voc: "napoje"

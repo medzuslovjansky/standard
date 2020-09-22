@@ -1,0 +1,22 @@
+---
+  id: "1964"
+  word: "komisija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komisija"
+      acc: "komisijų"
+      gen: "komisije"
+      loc: "komisiji"
+      dat: "komisiji"
+      ins: "komisijejų"
+      voc: "komisijo"
+    plural: 
+      nom: "komisije"
+      acc: "komisije"
+      gen: "komisij"
+      loc: "komisijah"
+      dat: "komisijam"
+      ins: "komisijami"
+      voc: "komisije"

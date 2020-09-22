@@ -1,0 +1,22 @@
+---
+  id: "7198"
+  word: "dopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dopis"
+      acc: "dopis"
+      gen: "dopisa"
+      loc: "dopisu"
+      dat: "dopisu"
+      ins: "dopisom"
+      voc: "dopise"
+    plural: 
+      nom: "dopisy"
+      acc: "dopisy"
+      gen: "dopisov"
+      loc: "dopisah"
+      dat: "dopisam"
+      ins: "dopisami"
+      voc: "dopisy"

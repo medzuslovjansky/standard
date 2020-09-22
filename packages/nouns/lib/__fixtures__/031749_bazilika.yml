@@ -1,0 +1,22 @@
+---
+  id: "31749"
+  word: "bazilika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bazilika"
+      acc: "bazilikų"
+      gen: "baziliky"
+      loc: "bazilikě"
+      dat: "bazilikě"
+      ins: "bazilikojų"
+      voc: "baziliko"
+    plural: 
+      nom: "baziliky"
+      acc: "baziliky"
+      gen: "bazilik"
+      loc: "bazilikah"
+      dat: "bazilikam"
+      ins: "bazilikami"
+      voc: "baziliky"

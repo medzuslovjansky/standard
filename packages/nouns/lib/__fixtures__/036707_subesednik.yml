@@ -1,0 +1,23 @@
+---
+  id: "36707"
+  word: "sųbesědnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųbesědnik"
+      acc: "sųbesědnika"
+      gen: "sųbesědnika"
+      loc: "sųbesědniku"
+      dat: "sųbesědniku"
+      ins: "sųbesědnikom"
+      voc: "sųbesědniče"
+    plural: 
+      nom: "sųbesědniki"
+      acc: "sųbesědnikov"
+      gen: "sųbesědnikov"
+      loc: "sųbesědnikah"
+      dat: "sųbesědnikam"
+      ins: "sųbesědnikami"
+      voc: "sųbesědniki"

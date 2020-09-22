@@ -1,0 +1,22 @@
+---
+  id: "25452"
+  word: "dvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dvor"
+      acc: "dvor"
+      gen: "dvora"
+      loc: "dvoru"
+      dat: "dvoru"
+      ins: "dvorom"
+      voc: "dvore"
+    plural: 
+      nom: "dvory"
+      acc: "dvory"
+      gen: "dvorov"
+      loc: "dvorah"
+      dat: "dvoram"
+      ins: "dvorami"
+      voc: "dvory"

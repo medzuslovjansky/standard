@@ -1,0 +1,45 @@
+---
+  - 
+    id: "34840"
+    word: "škala"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "škala"
+        acc: "škalų"
+        gen: "škaly"
+        loc: "škalě"
+        dat: "škalě"
+        ins: "škalojų"
+        voc: "škalo"
+      plural: 
+        nom: "škaly"
+        acc: "škaly"
+        gen: "škal"
+        loc: "škalah"
+        dat: "škalam"
+        ins: "škalami"
+        voc: "škaly"
+  - 
+    id: "34840"
+    word: "skala"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "skala"
+        acc: "skalų"
+        gen: "skaly"
+        loc: "skalě"
+        dat: "skalě"
+        ins: "skalojų"
+        voc: "skalo"
+      plural: 
+        nom: "skaly"
+        acc: "skaly"
+        gen: "skal"
+        loc: "skalah"
+        dat: "skalam"
+        ins: "skalami"
+        voc: "skaly"

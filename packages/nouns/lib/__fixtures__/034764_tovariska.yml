@@ -1,0 +1,22 @@
+---
+  id: "34764"
+  word: "tovariška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tovariška"
+      acc: "tovariškų"
+      gen: "tovarišky"
+      loc: "tovariškě"
+      dat: "tovariškě"
+      ins: "tovariškojų"
+      voc: "tovariško"
+    plural: 
+      nom: "tovarišky"
+      acc: "tovarišky"
+      gen: "tovarišek"
+      loc: "tovariškah"
+      dat: "tovariškam"
+      ins: "tovariškami"
+      voc: "tovarišky"

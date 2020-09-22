@@ -1,0 +1,22 @@
+---
+  id: "21290"
+  word: "frank"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "frank"
+      acc: "frank"
+      gen: "franka"
+      loc: "franku"
+      dat: "franku"
+      ins: "frankom"
+      voc: "franče"
+    plural: 
+      nom: "franky"
+      acc: "franky"
+      gen: "frankov"
+      loc: "frankah"
+      dat: "frankam"
+      ins: "frankami"
+      voc: "franky"

@@ -1,0 +1,22 @@
+---
+  id: "11494"
+  word: "pristųpjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pristųpjeńje"
+      acc: "pristųpjeńje"
+      gen: "pristųpjeńja"
+      loc: "pristųpjeńju"
+      dat: "pristųpjeńju"
+      ins: "pristųpjeńjem"
+      voc: "pristųpjeńje"
+    plural: 
+      nom: "pristųpjeńja"
+      acc: "pristųpjeńja"
+      gen: "pristųpjenij"
+      loc: "pristųpjeńjah"
+      dat: "pristųpjeńjam"
+      ins: "pristųpjeńjami"
+      voc: "pristųpjeńja"

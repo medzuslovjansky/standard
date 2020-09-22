@@ -1,0 +1,22 @@
+---
+  id: "25231"
+  word: "děvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "děvka"
+      acc: "děvkų"
+      gen: "děvky"
+      loc: "děvkě"
+      dat: "děvkě"
+      ins: "děvkojų"
+      voc: "děvko"
+    plural: 
+      nom: "děvky"
+      acc: "děvky"
+      gen: "děvȯk"
+      loc: "děvkah"
+      dat: "děvkam"
+      ins: "děvkami"
+      voc: "děvky"

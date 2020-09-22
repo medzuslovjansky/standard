@@ -1,0 +1,23 @@
+---
+  id: "26379"
+  word: "jesetr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jesetr"
+      acc: "jesetra"
+      gen: "jesetra"
+      loc: "jesetru"
+      dat: "jesetru"
+      ins: "jesetrom"
+      voc: "jesetre"
+    plural: 
+      nom: "jesetri"
+      acc: "jesetrov"
+      gen: "jesetrov"
+      loc: "jesetrah"
+      dat: "jesetram"
+      ins: "jesetrami"
+      voc: "jesetri"

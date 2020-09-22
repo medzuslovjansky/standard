@@ -1,0 +1,23 @@
+---
+  id: "18837"
+  word: "šljahtić"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šljahtić"
+      acc: "šljahtića"
+      gen: "šljahtića"
+      loc: "šljahtiću"
+      dat: "šljahtiću"
+      ins: "šljahtićem"
+      voc: "šljahtiću"
+    plural: 
+      nom: "šljahtići"
+      acc: "šljahtićev"
+      gen: "šljahtićev"
+      loc: "šljahtićah"
+      dat: "šljahtićam"
+      ins: "šljahtićami"
+      voc: "šljahtići"

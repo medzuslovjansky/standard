@@ -1,0 +1,15 @@
+---
+  id: "7653"
+  word: "gråđanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gråđanstvo"
+      acc: "gråđanstvo"
+      gen: "gråđanstva"
+      loc: "gråđanstvu"
+      dat: "gråđanstvu"
+      ins: "gråđanstvom"
+      voc: "gråđanstvo"

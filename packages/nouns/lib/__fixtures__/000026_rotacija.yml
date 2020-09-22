@@ -1,0 +1,22 @@
+---
+  id: "26"
+  word: "rotacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rotacija"
+      acc: "rotacijų"
+      gen: "rotacije"
+      loc: "rotaciji"
+      dat: "rotaciji"
+      ins: "rotacijejų"
+      voc: "rotacijo"
+    plural: 
+      nom: "rotacije"
+      acc: "rotacije"
+      gen: "rotacij"
+      loc: "rotacijah"
+      dat: "rotacijam"
+      ins: "rotacijami"
+      voc: "rotacije"

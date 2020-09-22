@@ -1,0 +1,22 @@
+---
+  id: "35434"
+  word: "palec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "palec"
+      acc: "palec"
+      gen: "palca"
+      loc: "palcu"
+      dat: "palcu"
+      ins: "palcem"
+      voc: "palče"
+    plural: 
+      nom: "palce"
+      acc: "palce"
+      gen: "palcev"
+      loc: "palcah"
+      dat: "palcam"
+      ins: "palcami"
+      voc: "palce"

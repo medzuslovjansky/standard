@@ -1,0 +1,22 @@
+---
+  id: "22723"
+  word: "Vysočstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "Vysočstvo"
+      acc: "Vysočstvo"
+      gen: "Vysočstva"
+      loc: "Vysočstvu"
+      dat: "Vysočstvu"
+      ins: "Vysočstvom"
+      voc: "Vysočstvo"
+    plural: 
+      nom: "Vysočstva"
+      acc: "Vysočstva"
+      gen: "Vysočstv"
+      loc: "Vysočstvah"
+      dat: "Vysočstvam"
+      ins: "Vysočstvami"
+      voc: "Vysočstva"

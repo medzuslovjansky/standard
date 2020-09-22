@@ -1,0 +1,29 @@
+---
+  - 
+    id: "1966"
+    word: "dateljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "dateljnik"
+        acc: "dateljnik"
+        gen: "dateljnika"
+        loc: "dateljniku"
+        dat: "dateljniku"
+        ins: "dateljnikom"
+        voc: "dateljniče"
+      plural: 
+        nom: "dateljniky"
+        acc: "dateljniky"
+        gen: "dateljnikov"
+        loc: "dateljnikah"
+        dat: "dateljnikam"
+        ins: "dateljnikami"
+        voc: "dateljniky"
+  - 
+    id: "1966"
+    word: "dateljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

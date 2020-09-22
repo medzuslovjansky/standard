@@ -1,0 +1,22 @@
+---
+  id: "5263"
+  word: "obrys"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrys"
+      acc: "obrys"
+      gen: "obrysa"
+      loc: "obrysu"
+      dat: "obrysu"
+      ins: "obrysom"
+      voc: "obryse"
+    plural: 
+      nom: "obrysy"
+      acc: "obrysy"
+      gen: "obrysov"
+      loc: "obrysah"
+      dat: "obrysam"
+      ins: "obrysami"
+      voc: "obrysy"

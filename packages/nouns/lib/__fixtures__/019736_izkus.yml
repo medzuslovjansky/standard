@@ -1,0 +1,22 @@
+---
+  id: "19736"
+  word: "izkus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izkus"
+      acc: "izkus"
+      gen: "izkusa"
+      loc: "izkusu"
+      dat: "izkusu"
+      ins: "izkusom"
+      voc: "izkuse"
+    plural: 
+      nom: "izkusy"
+      acc: "izkusy"
+      gen: "izkusov"
+      loc: "izkusah"
+      dat: "izkusam"
+      ins: "izkusami"
+      voc: "izkusy"

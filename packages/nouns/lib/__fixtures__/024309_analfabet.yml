@@ -1,0 +1,23 @@
+---
+  id: "24309"
+  word: "analfabet"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "analfabet"
+      acc: "analfabeta"
+      gen: "analfabeta"
+      loc: "analfabetu"
+      dat: "analfabetu"
+      ins: "analfabetom"
+      voc: "analfabete"
+    plural: 
+      nom: "analfabeti"
+      acc: "analfabetov"
+      gen: "analfabetov"
+      loc: "analfabetah"
+      dat: "analfabetam"
+      ins: "analfabetami"
+      voc: "analfabeti"

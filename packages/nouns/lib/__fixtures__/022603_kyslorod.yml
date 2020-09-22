@@ -1,0 +1,15 @@
+---
+  id: "22603"
+  word: "kyslorod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kyslorod"
+      acc: "kyslorod"
+      gen: "kysloroda"
+      loc: "kyslorodu"
+      dat: "kyslorodu"
+      ins: "kyslorodom"
+      voc: "kyslorode"

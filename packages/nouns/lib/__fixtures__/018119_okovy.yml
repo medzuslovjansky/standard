@@ -1,0 +1,15 @@
+---
+  id: "18119"
+  word: "okovy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "okovy"
+      acc: "okovy"
+      gen: "okovov"
+      loc: "okovah"
+      dat: "okovam"
+      ins: "okovami"
+      voc: "okovy"

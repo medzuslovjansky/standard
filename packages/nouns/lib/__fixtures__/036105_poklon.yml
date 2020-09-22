@@ -1,0 +1,22 @@
+---
+  id: "36105"
+  word: "poklon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poklon"
+      acc: "poklon"
+      gen: "poklona"
+      loc: "poklonu"
+      dat: "poklonu"
+      ins: "poklonom"
+      voc: "poklone"
+    plural: 
+      nom: "poklony"
+      acc: "poklony"
+      gen: "poklonov"
+      loc: "poklonah"
+      dat: "poklonam"
+      ins: "poklonami"
+      voc: "poklony"

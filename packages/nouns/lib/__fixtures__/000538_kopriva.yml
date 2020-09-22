@@ -1,0 +1,22 @@
+---
+  id: "538"
+  word: "kopriva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kopriva"
+      acc: "koprivų"
+      gen: "koprivy"
+      loc: "koprivě"
+      dat: "koprivě"
+      ins: "koprivojų"
+      voc: "koprivo"
+    plural: 
+      nom: "koprivy"
+      acc: "koprivy"
+      gen: "kopriv"
+      loc: "koprivah"
+      dat: "koprivam"
+      ins: "koprivami"
+      voc: "koprivy"

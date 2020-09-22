@@ -1,0 +1,22 @@
+---
+  id: "47"
+  word: "kategorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kategorija"
+      acc: "kategorijų"
+      gen: "kategorije"
+      loc: "kategoriji"
+      dat: "kategoriji"
+      ins: "kategorijejų"
+      voc: "kategorijo"
+    plural: 
+      nom: "kategorije"
+      acc: "kategorije"
+      gen: "kategorij"
+      loc: "kategorijah"
+      dat: "kategorijam"
+      ins: "kategorijami"
+      voc: "kategorije"

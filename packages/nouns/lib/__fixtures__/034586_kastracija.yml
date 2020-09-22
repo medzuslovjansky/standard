@@ -1,0 +1,22 @@
+---
+  id: "34586"
+  word: "kastracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kastracija"
+      acc: "kastracijų"
+      gen: "kastracije"
+      loc: "kastraciji"
+      dat: "kastraciji"
+      ins: "kastracijejų"
+      voc: "kastracijo"
+    plural: 
+      nom: "kastracije"
+      acc: "kastracije"
+      gen: "kastracij"
+      loc: "kastracijah"
+      dat: "kastracijam"
+      ins: "kastracijami"
+      voc: "kastracije"

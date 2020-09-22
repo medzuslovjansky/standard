@@ -1,0 +1,15 @@
+---
+  id: "3053"
+  word: "avgust"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "avgust"
+      acc: "avgust"
+      gen: "avgusta"
+      loc: "avgustu"
+      dat: "avgustu"
+      ins: "avgustom"
+      voc: "avguste"

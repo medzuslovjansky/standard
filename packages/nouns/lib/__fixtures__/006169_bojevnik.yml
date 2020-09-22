@@ -1,0 +1,23 @@
+---
+  id: "6169"
+  word: "bojevnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bojevnik"
+      acc: "bojevnika"
+      gen: "bojevnika"
+      loc: "bojevniku"
+      dat: "bojevniku"
+      ins: "bojevnikom"
+      voc: "bojevniče"
+    plural: 
+      nom: "bojevniki"
+      acc: "bojevnikov"
+      gen: "bojevnikov"
+      loc: "bojevnikah"
+      dat: "bojevnikam"
+      ins: "bojevnikami"
+      voc: "bojevniki"

@@ -1,0 +1,22 @@
+---
+  id: "31118"
+  word: "ventilacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ventilacija"
+      acc: "ventilacijų"
+      gen: "ventilacije"
+      loc: "ventilaciji"
+      dat: "ventilaciji"
+      ins: "ventilacijejų"
+      voc: "ventilacijo"
+    plural: 
+      nom: "ventilacije"
+      acc: "ventilacije"
+      gen: "ventilacij"
+      loc: "ventilacijah"
+      dat: "ventilacijam"
+      ins: "ventilacijami"
+      voc: "ventilacije"

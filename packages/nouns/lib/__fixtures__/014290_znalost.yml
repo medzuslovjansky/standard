@@ -1,0 +1,22 @@
+---
+  id: "14290"
+  word: "znalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "znalosť"
+      acc: "znalosť"
+      gen: "znalosti"
+      loc: "znalosti"
+      dat: "znalosti"
+      ins: "znalosťjų"
+      voc: "znalosti"
+    plural: 
+      nom: "znalosti"
+      acc: "znalosti"
+      gen: "znalostij"
+      loc: "znalosťah"
+      dat: "znalosťam"
+      ins: "znalosťami"
+      voc: "znalosti"

@@ -1,0 +1,22 @@
+---
+  id: "1266"
+  word: "vtorȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vtorȯk"
+      acc: "vtorȯk"
+      gen: "vtorka"
+      loc: "vtorku"
+      dat: "vtorku"
+      ins: "vtorkom"
+      voc: "vtorče"
+    plural: 
+      nom: "vtorky"
+      acc: "vtorky"
+      gen: "vtorkov"
+      loc: "vtorkah"
+      dat: "vtorkam"
+      ins: "vtorkami"
+      voc: "vtorky"

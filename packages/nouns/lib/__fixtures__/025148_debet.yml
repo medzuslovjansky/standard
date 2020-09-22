@@ -1,0 +1,22 @@
+---
+  id: "25148"
+  word: "debet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "debet"
+      acc: "debet"
+      gen: "debeta"
+      loc: "debetu"
+      dat: "debetu"
+      ins: "debetom"
+      voc: "debete"
+    plural: 
+      nom: "debety"
+      acc: "debety"
+      gen: "debetov"
+      loc: "debetah"
+      dat: "debetam"
+      ins: "debetami"
+      voc: "debety"

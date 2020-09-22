@@ -1,0 +1,22 @@
+---
+  id: "19712"
+  word: "heterogennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "heterogennosť"
+      acc: "heterogennosť"
+      gen: "heterogennosti"
+      loc: "heterogennosti"
+      dat: "heterogennosti"
+      ins: "heterogennosťjų"
+      voc: "heterogennosti"
+    plural: 
+      nom: "heterogennosti"
+      acc: "heterogennosti"
+      gen: "heterogennostij"
+      loc: "heterogennosťah"
+      dat: "heterogennosťam"
+      ins: "heterogennosťami"
+      voc: "heterogennosti"

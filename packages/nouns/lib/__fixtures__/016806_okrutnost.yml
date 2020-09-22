@@ -1,0 +1,22 @@
+---
+  id: "16806"
+  word: "okrutnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okrutnosť"
+      acc: "okrutnosť"
+      gen: "okrutnosti"
+      loc: "okrutnosti"
+      dat: "okrutnosti"
+      ins: "okrutnosťjų"
+      voc: "okrutnosti"
+    plural: 
+      nom: "okrutnosti"
+      acc: "okrutnosti"
+      gen: "okrutnostij"
+      loc: "okrutnosťah"
+      dat: "okrutnosťam"
+      ins: "okrutnosťami"
+      voc: "okrutnosti"

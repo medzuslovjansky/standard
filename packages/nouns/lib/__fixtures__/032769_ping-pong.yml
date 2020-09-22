@@ -1,0 +1,15 @@
+---
+  id: "32769"
+  word: "ping-pong"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ping-pong"
+      acc: "ping-pong"
+      gen: "ping-ponga"
+      loc: "ping-pongu"
+      dat: "ping-pongu"
+      ins: "ping-pongom"
+      voc: "ping-ponže"

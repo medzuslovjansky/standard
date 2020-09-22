@@ -1,0 +1,22 @@
+---
+  id: "3503"
+  word: "klas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klas"
+      acc: "klas"
+      gen: "klasa"
+      loc: "klasu"
+      dat: "klasu"
+      ins: "klasom"
+      voc: "klase"
+    plural: 
+      nom: "klasy"
+      acc: "klasy"
+      gen: "klasov"
+      loc: "klasah"
+      dat: "klasam"
+      ins: "klasami"
+      voc: "klasy"

@@ -1,0 +1,23 @@
+---
+  id: "20403"
+  word: "jazvec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jazvec"
+      acc: "jazveca"
+      gen: "jazveca"
+      loc: "jazvecu"
+      dat: "jazvecu"
+      ins: "jazvecem"
+      voc: "jazveče"
+    plural: 
+      nom: "jazveci"
+      acc: "jazvecev"
+      gen: "jazvecev"
+      loc: "jazvecah"
+      dat: "jazvecam"
+      ins: "jazvecami"
+      voc: "jazveci"

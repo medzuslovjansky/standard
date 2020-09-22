@@ -1,0 +1,15 @@
+---
+  id: "4443"
+  word: "językovědstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "językovědstvo"
+      acc: "językovědstvo"
+      gen: "językovědstva"
+      loc: "językovědstvu"
+      dat: "językovědstvu"
+      ins: "językovědstvom"
+      voc: "językovědstvo"

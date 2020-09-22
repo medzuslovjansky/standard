@@ -1,0 +1,15 @@
+---
+  id: "23143"
+  word: "pantofle"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "pantofle"
+      acc: "pantofle"
+      gen: "pantoflov"
+      loc: "pantoflah"
+      dat: "pantoflam"
+      ins: "pantoflami"
+      voc: "pantofle"

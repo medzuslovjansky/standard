@@ -1,0 +1,22 @@
+---
+  id: "31606"
+  word: "zelenj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zelenj"
+      acc: "zelenj"
+      gen: "zelenji"
+      loc: "zelenji"
+      dat: "zelenji"
+      ins: "zelenjjų"
+      voc: "zelenji"
+    plural: 
+      nom: "zelenji"
+      acc: "zelenji"
+      gen: "zelenjij"
+      loc: "zelenjah"
+      dat: "zelenjam"
+      ins: "zelenjami"
+      voc: "zelenji"

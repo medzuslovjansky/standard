@@ -1,0 +1,22 @@
+---
+  id: "16346"
+  word: "žrěbę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žrěbę"
+      acc: "žrěbę"
+      gen: "žrěbęte / žrěbęta"
+      loc: "žrěbęti / žrěbętu"
+      dat: "žrěbęti / žrěbętu"
+      ins: "žrěbętem / žrěbętom"
+      voc: "žrěbę"
+    plural: 
+      nom: "žrěbęta"
+      acc: "žrěbęta"
+      gen: "žrěbęt"
+      loc: "žrěbętah"
+      dat: "žrěbętam"
+      ins: "žrěbętami"
+      voc: "žrěbęta"

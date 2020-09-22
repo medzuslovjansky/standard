@@ -1,0 +1,23 @@
+---
+  id: "1656"
+  word: "golųb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "golųb"
+      acc: "golųba"
+      gen: "golųba"
+      loc: "golųbu"
+      dat: "golųbu"
+      ins: "golųbom"
+      voc: "golųbe"
+    plural: 
+      nom: "golųbi"
+      acc: "golųbov"
+      gen: "golųbov"
+      loc: "golųbah"
+      dat: "golųbam"
+      ins: "golųbami"
+      voc: "golųbi"

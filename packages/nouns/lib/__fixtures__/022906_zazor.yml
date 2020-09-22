@@ -1,0 +1,22 @@
+---
+  id: "22906"
+  word: "zazor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zazor"
+      acc: "zazor"
+      gen: "zazora"
+      loc: "zazoru"
+      dat: "zazoru"
+      ins: "zazorom"
+      voc: "zazore"
+    plural: 
+      nom: "zazory"
+      acc: "zazory"
+      gen: "zazorov"
+      loc: "zazorah"
+      dat: "zazoram"
+      ins: "zazorami"
+      voc: "zazory"

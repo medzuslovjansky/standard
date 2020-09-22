@@ -1,0 +1,22 @@
+---
+  id: "21769"
+  word: "prědstava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědstava"
+      acc: "prědstavų"
+      gen: "prědstavy"
+      loc: "prědstavě"
+      dat: "prědstavě"
+      ins: "prědstavojų"
+      voc: "prědstavo"
+    plural: 
+      nom: "prědstavy"
+      acc: "prědstavy"
+      gen: "prědstav"
+      loc: "prědstavah"
+      dat: "prědstavam"
+      ins: "prědstavami"
+      voc: "prědstavy"

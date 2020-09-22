@@ -1,0 +1,23 @@
+---
+  id: "23050"
+  word: "doråstla"
+  meta: 
+    irregularity: "(doråstloj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "doråstla"
+      acc: "doråstlų"
+      gen: "doråstloj"
+      loc: "doråstloj"
+      dat: "doråstloj"
+      ins: "doråstlojų"
+      voc: "doråstla"
+    plural: 
+      nom: "doråstle"
+      acc: "doråstle"
+      gen: "doråstlyh"
+      loc: "doråstlyh"
+      dat: "doråstlym"
+      ins: "doråstlymi"
+      voc: "doråstle"

@@ -1,0 +1,22 @@
+---
+  id: "22899"
+  word: "prizrak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prizrak"
+      acc: "prizrak"
+      gen: "prizraka"
+      loc: "prizraku"
+      dat: "prizraku"
+      ins: "prizrakom"
+      voc: "prizrače"
+    plural: 
+      nom: "prizraky"
+      acc: "prizraky"
+      gen: "prizrakov"
+      loc: "prizrakah"
+      dat: "prizrakam"
+      ins: "prizrakami"
+      voc: "prizraky"

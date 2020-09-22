@@ -1,0 +1,22 @@
+---
+  id: "5349"
+  word: "dojezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dojezd"
+      acc: "dojezd"
+      gen: "dojezda"
+      loc: "dojezdu"
+      dat: "dojezdu"
+      ins: "dojezdom"
+      voc: "dojezde"
+    plural: 
+      nom: "dojezdy"
+      acc: "dojezdy"
+      gen: "dojezdov"
+      loc: "dojezdah"
+      dat: "dojezdam"
+      ins: "dojezdami"
+      voc: "dojezdy"

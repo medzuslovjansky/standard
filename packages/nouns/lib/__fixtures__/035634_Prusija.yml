@@ -1,0 +1,15 @@
+---
+  id: "35634"
+  word: "Prusija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Prusija"
+      acc: "Prusijų"
+      gen: "Prusije"
+      loc: "Prusiji"
+      dat: "Prusiji"
+      ins: "Prusijejų"
+      voc: "Prusijo"

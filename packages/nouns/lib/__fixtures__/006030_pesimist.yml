@@ -1,0 +1,23 @@
+---
+  id: "6030"
+  word: "pesimist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pesimist"
+      acc: "pesimista"
+      gen: "pesimista"
+      loc: "pesimistu"
+      dat: "pesimistu"
+      ins: "pesimistom"
+      voc: "pesimiste"
+    plural: 
+      nom: "pesimisti"
+      acc: "pesimistov"
+      gen: "pesimistov"
+      loc: "pesimistah"
+      dat: "pesimistam"
+      ins: "pesimistami"
+      voc: "pesimisti"

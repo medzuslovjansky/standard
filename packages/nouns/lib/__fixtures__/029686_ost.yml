@@ -1,0 +1,22 @@
+---
+  id: "29686"
+  word: "osť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osť"
+      acc: "osť"
+      gen: "osti"
+      loc: "osti"
+      dat: "osti"
+      ins: "osťjų"
+      voc: "osti"
+    plural: 
+      nom: "osti"
+      acc: "osti"
+      gen: "ostij"
+      loc: "osťah"
+      dat: "osťam"
+      ins: "osťami"
+      voc: "osti"

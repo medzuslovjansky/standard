@@ -1,0 +1,22 @@
+---
+  id: "36202"
+  word: "glåvnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glåvnja"
+      acc: "glåvnjų"
+      gen: "glåvnje"
+      loc: "glåvnji"
+      dat: "glåvnji"
+      ins: "glåvnjejų"
+      voc: "glåvnjo"
+    plural: 
+      nom: "glåvnje"
+      acc: "glåvnje"
+      gen: "glåvnej"
+      loc: "glåvnjah"
+      dat: "glåvnjam"
+      ins: "glåvnjami"
+      voc: "glåvnje"

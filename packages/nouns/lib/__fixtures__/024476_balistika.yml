@@ -1,0 +1,15 @@
+---
+  id: "24476"
+  word: "balistika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "balistika"
+      acc: "balistikų"
+      gen: "balistiky"
+      loc: "balistikě"
+      dat: "balistikě"
+      ins: "balistikojų"
+      voc: "balistiko"

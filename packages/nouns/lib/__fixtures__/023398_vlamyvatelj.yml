@@ -1,0 +1,23 @@
+---
+  id: "23398"
+  word: "vlamyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vlamyvatelj"
+      acc: "vlamyvatelja"
+      gen: "vlamyvatelja"
+      loc: "vlamyvatelju"
+      dat: "vlamyvatelju"
+      ins: "vlamyvateljem"
+      voc: "vlamyvatelju"
+    plural: 
+      nom: "vlamyvatelji"
+      acc: "vlamyvateljev"
+      gen: "vlamyvateljev"
+      loc: "vlamyvateljah"
+      dat: "vlamyvateljam"
+      ins: "vlamyvateljami"
+      voc: "vlamyvatelji"

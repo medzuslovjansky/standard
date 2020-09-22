@@ -1,0 +1,22 @@
+---
+  id: "35401"
+  word: "zip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zip"
+      acc: "zip"
+      gen: "zipa"
+      loc: "zipu"
+      dat: "zipu"
+      ins: "zipom"
+      voc: "zipe"
+    plural: 
+      nom: "zipy"
+      acc: "zipy"
+      gen: "zipov"
+      loc: "zipah"
+      dat: "zipam"
+      ins: "zipami"
+      voc: "zipy"

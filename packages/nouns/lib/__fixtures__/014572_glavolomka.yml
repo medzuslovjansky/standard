@@ -1,0 +1,22 @@
+---
+  id: "14572"
+  word: "glåvolomka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glåvolomka"
+      acc: "glåvolomkų"
+      gen: "glåvolomky"
+      loc: "glåvolomkě"
+      dat: "glåvolomkě"
+      ins: "glåvolomkojų"
+      voc: "glåvolomko"
+    plural: 
+      nom: "glåvolomky"
+      acc: "glåvolomky"
+      gen: "glåvolomȯk"
+      loc: "glåvolomkah"
+      dat: "glåvolomkam"
+      ins: "glåvolomkami"
+      voc: "glåvolomky"

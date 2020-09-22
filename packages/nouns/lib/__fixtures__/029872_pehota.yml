@@ -1,0 +1,22 @@
+---
+  id: "29872"
+  word: "pěhota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pěhota"
+      acc: "pěhotų"
+      gen: "pěhoty"
+      loc: "pěhotě"
+      dat: "pěhotě"
+      ins: "pěhotojų"
+      voc: "pěhoto"
+    plural: 
+      nom: "pěhoty"
+      acc: "pěhoty"
+      gen: "pěhot"
+      loc: "pěhotah"
+      dat: "pěhotam"
+      ins: "pěhotami"
+      voc: "pěhoty"

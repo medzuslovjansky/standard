@@ -1,0 +1,22 @@
+---
+  id: "23571"
+  word: "geometrija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "geometrija"
+      acc: "geometrijų"
+      gen: "geometrije"
+      loc: "geometriji"
+      dat: "geometriji"
+      ins: "geometrijejų"
+      voc: "geometrijo"
+    plural: 
+      nom: "geometrije"
+      acc: "geometrije"
+      gen: "geometrij"
+      loc: "geometrijah"
+      dat: "geometrijam"
+      ins: "geometrijami"
+      voc: "geometrije"

@@ -1,0 +1,22 @@
+---
+  id: "20438"
+  word: "mah"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mah"
+      acc: "mah"
+      gen: "maha"
+      loc: "mahu"
+      dat: "mahu"
+      ins: "mahom"
+      voc: "maše"
+    plural: 
+      nom: "mahy"
+      acc: "mahy"
+      gen: "mahov"
+      loc: "mahah"
+      dat: "maham"
+      ins: "mahami"
+      voc: "mahy"

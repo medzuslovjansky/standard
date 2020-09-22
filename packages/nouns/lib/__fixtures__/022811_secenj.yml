@@ -1,0 +1,15 @@
+---
+  id: "22811"
+  word: "sěčenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sěčenj"
+      acc: "sěčenj"
+      gen: "sěčenja"
+      loc: "sěčenju"
+      dat: "sěčenju"
+      ins: "sěčenjem"
+      voc: "sěčenju"

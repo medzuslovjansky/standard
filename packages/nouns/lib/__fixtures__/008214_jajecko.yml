@@ -1,0 +1,22 @@
+---
+  id: "8214"
+  word: "jaječko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jaječko"
+      acc: "jaječko"
+      gen: "jaječka"
+      loc: "jaječku"
+      dat: "jaječku"
+      ins: "jaječkom"
+      voc: "jaječko"
+    plural: 
+      nom: "jaječka"
+      acc: "jaječka"
+      gen: "jaječek"
+      loc: "jaječkah"
+      dat: "jaječkam"
+      ins: "jaječkami"
+      voc: "jaječka"

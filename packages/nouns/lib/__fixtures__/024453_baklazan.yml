@@ -1,0 +1,22 @@
+---
+  id: "24453"
+  word: "baklažan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baklažan"
+      acc: "baklažan"
+      gen: "baklažana"
+      loc: "baklažanu"
+      dat: "baklažanu"
+      ins: "baklažanom"
+      voc: "baklažane"
+    plural: 
+      nom: "baklažany"
+      acc: "baklažany"
+      gen: "baklažanov"
+      loc: "baklažanah"
+      dat: "baklažanam"
+      ins: "baklažanami"
+      voc: "baklažany"

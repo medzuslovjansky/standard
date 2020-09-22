@@ -1,0 +1,22 @@
+---
+  id: "11465"
+  word: "priložeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "priložeńje"
+      acc: "priložeńje"
+      gen: "priložeńja"
+      loc: "priložeńju"
+      dat: "priložeńju"
+      ins: "priložeńjem"
+      voc: "priložeńje"
+    plural: 
+      nom: "priložeńja"
+      acc: "priložeńja"
+      gen: "priloženij"
+      loc: "priložeńjah"
+      dat: "priložeńjam"
+      ins: "priložeńjami"
+      voc: "priložeńja"

@@ -1,0 +1,22 @@
+---
+  id: "30286"
+  word: "råzlom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzlom"
+      acc: "råzlom"
+      gen: "råzloma"
+      loc: "råzlomu"
+      dat: "råzlomu"
+      ins: "råzlomom"
+      voc: "råzlome"
+    plural: 
+      nom: "råzlomy"
+      acc: "råzlomy"
+      gen: "råzlomov"
+      loc: "råzlomah"
+      dat: "råzlomam"
+      ins: "råzlomami"
+      voc: "råzlomy"

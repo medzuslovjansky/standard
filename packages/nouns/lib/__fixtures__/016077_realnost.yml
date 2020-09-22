@@ -1,0 +1,22 @@
+---
+  id: "16077"
+  word: "reaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reaľnosť"
+      acc: "reaľnosť"
+      gen: "reaľnosti"
+      loc: "reaľnosti"
+      dat: "reaľnosti"
+      ins: "reaľnosťjų"
+      voc: "reaľnosti"
+    plural: 
+      nom: "reaľnosti"
+      acc: "reaľnosti"
+      gen: "reaľnostij"
+      loc: "reaľnosťah"
+      dat: "reaľnosťam"
+      ins: "reaľnosťami"
+      voc: "reaľnosti"

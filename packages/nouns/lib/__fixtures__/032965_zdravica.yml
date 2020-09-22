@@ -1,0 +1,22 @@
+---
+  id: "32965"
+  word: "zdråvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zdråvica"
+      acc: "zdråvicų"
+      gen: "zdråvice"
+      loc: "zdråvici"
+      dat: "zdråvici"
+      ins: "zdråvicejų"
+      voc: "zdråvico"
+    plural: 
+      nom: "zdråvice"
+      acc: "zdråvice"
+      gen: "zdråvic"
+      loc: "zdråvicah"
+      dat: "zdråvicam"
+      ins: "zdråvicami"
+      voc: "zdråvice"

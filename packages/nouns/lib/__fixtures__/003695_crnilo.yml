@@ -1,0 +1,22 @@
+---
+  id: "3695"
+  word: "črnilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "črnilo"
+      acc: "črnilo"
+      gen: "črnila"
+      loc: "črnilu"
+      dat: "črnilu"
+      ins: "črnilom"
+      voc: "črnilo"
+    plural: 
+      nom: "črnila"
+      acc: "črnila"
+      gen: "črnil"
+      loc: "črnilah"
+      dat: "črnilam"
+      ins: "črnilami"
+      voc: "črnila"

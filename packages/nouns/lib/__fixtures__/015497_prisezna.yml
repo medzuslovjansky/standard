@@ -1,0 +1,22 @@
+---
+  id: "15497"
+  word: "prisęžna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prisęžna"
+      acc: "prisęžnų"
+      gen: "prisęžny"
+      loc: "prisęžně"
+      dat: "prisęžně"
+      ins: "prisęžnojų"
+      voc: "prisęžno"
+    plural: 
+      nom: "prisęžny"
+      acc: "prisęžny"
+      gen: "prisęžen"
+      loc: "prisęžnah"
+      dat: "prisęžnam"
+      ins: "prisęžnami"
+      voc: "prisęžny"

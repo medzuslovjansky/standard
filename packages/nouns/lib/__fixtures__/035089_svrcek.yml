@@ -1,0 +1,23 @@
+---
+  id: "35089"
+  word: "svŕček"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svŕček"
+      acc: "svŕčeka"
+      gen: "svŕčeka"
+      loc: "svŕčeku"
+      dat: "svŕčeku"
+      ins: "svŕčekom"
+      voc: "svŕčeče"
+    plural: 
+      nom: "svŕčeki"
+      acc: "svŕčekov"
+      gen: "svŕčekov"
+      loc: "svŕčekah"
+      dat: "svŕčekam"
+      ins: "svŕčekami"
+      voc: "svŕčeki"

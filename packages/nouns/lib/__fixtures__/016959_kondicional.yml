@@ -1,0 +1,22 @@
+---
+  id: "16959"
+  word: "kondicional"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kondicional"
+      acc: "kondicional"
+      gen: "kondicionala"
+      loc: "kondicionalu"
+      dat: "kondicionalu"
+      ins: "kondicionalom"
+      voc: "kondicionale"
+    plural: 
+      nom: "kondicionaly"
+      acc: "kondicionaly"
+      gen: "kondicionalov"
+      loc: "kondicionalah"
+      dat: "kondicionalam"
+      ins: "kondicionalami"
+      voc: "kondicionaly"

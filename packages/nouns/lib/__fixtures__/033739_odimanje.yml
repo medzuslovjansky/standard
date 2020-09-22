@@ -1,0 +1,22 @@
+---
+  id: "33739"
+  word: "odimańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odimańje"
+      acc: "odimańje"
+      gen: "odimańja"
+      loc: "odimańju"
+      dat: "odimańju"
+      ins: "odimańjem"
+      voc: "odimańje"
+    plural: 
+      nom: "odimańja"
+      acc: "odimańja"
+      gen: "odimanij"
+      loc: "odimańjah"
+      dat: "odimańjam"
+      ins: "odimańjami"
+      voc: "odimańja"

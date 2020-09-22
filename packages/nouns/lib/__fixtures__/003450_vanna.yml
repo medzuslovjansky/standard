@@ -1,0 +1,22 @@
+---
+  id: "3450"
+  word: "vanna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vanna"
+      acc: "vannų"
+      gen: "vanny"
+      loc: "vanně"
+      dat: "vanně"
+      ins: "vannojų"
+      voc: "vanno"
+    plural: 
+      nom: "vanny"
+      acc: "vanny"
+      gen: "vann"
+      loc: "vannah"
+      dat: "vannam"
+      ins: "vannami"
+      voc: "vanny"

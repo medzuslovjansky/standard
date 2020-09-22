@@ -1,0 +1,23 @@
+---
+  id: "23408"
+  word: "heker"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "heker"
+      acc: "hekera"
+      gen: "hekera"
+      loc: "hekeru"
+      dat: "hekeru"
+      ins: "hekerom"
+      voc: "hekere"
+    plural: 
+      nom: "hekeri"
+      acc: "hekerov"
+      gen: "hekerov"
+      loc: "hekerah"
+      dat: "hekeram"
+      ins: "hekerami"
+      voc: "hekeri"

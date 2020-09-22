@@ -1,0 +1,22 @@
+---
+  id: "1920"
+  word: "grebenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "greben / grebenj"
+      acc: "greben / grebenj"
+      gen: "grebene / grebenja"
+      loc: "grebeni / grebenju"
+      dat: "grebeni / grebenju"
+      ins: "grebenem / grebenjem"
+      voc: "greben / grebenju"
+    plural: 
+      nom: "grebeni / grebenje"
+      acc: "grebeni / grebenje"
+      gen: "grebenev / grebenjev"
+      loc: "grebenah / grebenjah"
+      dat: "grebenam / grebenjam"
+      ins: "grebenami / grebenjami"
+      voc: "grebeni / grebenje"

@@ -1,0 +1,22 @@
+---
+  id: "589"
+  word: "gest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gest"
+      acc: "gest"
+      gen: "gesta"
+      loc: "gestu"
+      dat: "gestu"
+      ins: "gestom"
+      voc: "geste"
+    plural: 
+      nom: "gesty"
+      acc: "gesty"
+      gen: "gestov"
+      loc: "gestah"
+      dat: "gestam"
+      ins: "gestami"
+      voc: "gesty"

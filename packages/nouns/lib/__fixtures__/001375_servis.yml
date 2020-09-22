@@ -1,0 +1,22 @@
+---
+  id: "1375"
+  word: "servis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "servis"
+      acc: "servis"
+      gen: "servisa"
+      loc: "servisu"
+      dat: "servisu"
+      ins: "servisom"
+      voc: "servise"
+    plural: 
+      nom: "servisy"
+      acc: "servisy"
+      gen: "servisov"
+      loc: "servisah"
+      dat: "servisam"
+      ins: "servisami"
+      voc: "servisy"

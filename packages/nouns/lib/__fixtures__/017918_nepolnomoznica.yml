@@ -1,0 +1,22 @@
+---
+  id: "17918"
+  word: "nepȯlnomožnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepȯlnomožnica"
+      acc: "nepȯlnomožnicų"
+      gen: "nepȯlnomožnice"
+      loc: "nepȯlnomožnici"
+      dat: "nepȯlnomožnici"
+      ins: "nepȯlnomožnicejų"
+      voc: "nepȯlnomožnico"
+    plural: 
+      nom: "nepȯlnomožnice"
+      acc: "nepȯlnomožnice"
+      gen: "nepȯlnomožnic"
+      loc: "nepȯlnomožnicah"
+      dat: "nepȯlnomožnicam"
+      ins: "nepȯlnomožnicami"
+      voc: "nepȯlnomožnice"

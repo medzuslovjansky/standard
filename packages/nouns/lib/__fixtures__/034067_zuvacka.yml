@@ -1,0 +1,22 @@
+---
+  id: "34067"
+  word: "žuvačka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žuvačka"
+      acc: "žuvačkų"
+      gen: "žuvačky"
+      loc: "žuvačkě"
+      dat: "žuvačkě"
+      ins: "žuvačkojų"
+      voc: "žuvačko"
+    plural: 
+      nom: "žuvačky"
+      acc: "žuvačky"
+      gen: "žuvaček"
+      loc: "žuvačkah"
+      dat: "žuvačkam"
+      ins: "žuvačkami"
+      voc: "žuvačky"

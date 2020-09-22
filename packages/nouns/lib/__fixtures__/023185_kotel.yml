@@ -1,0 +1,22 @@
+---
+  id: "23185"
+  word: "kotel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kotel"
+      acc: "kotel"
+      gen: "kotela"
+      loc: "kotelu"
+      dat: "kotelu"
+      ins: "kotelom"
+      voc: "kotele"
+    plural: 
+      nom: "kotely"
+      acc: "kotely"
+      gen: "kotelov"
+      loc: "kotelah"
+      dat: "kotelam"
+      ins: "kotelami"
+      voc: "kotely"

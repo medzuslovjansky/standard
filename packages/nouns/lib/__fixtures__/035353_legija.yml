@@ -1,0 +1,22 @@
+---
+  id: "35353"
+  word: "legija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "legija"
+      acc: "legijų"
+      gen: "legije"
+      loc: "legiji"
+      dat: "legiji"
+      ins: "legijejų"
+      voc: "legijo"
+    plural: 
+      nom: "legije"
+      acc: "legije"
+      gen: "legij"
+      loc: "legijah"
+      dat: "legijam"
+      ins: "legijami"
+      voc: "legije"

@@ -1,0 +1,22 @@
+---
+  id: "19504"
+  word: "marš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "marš"
+      acc: "marš"
+      gen: "marša"
+      loc: "maršu"
+      dat: "maršu"
+      ins: "maršem"
+      voc: "maršu"
+    plural: 
+      nom: "marše"
+      acc: "marše"
+      gen: "maršev"
+      loc: "maršah"
+      dat: "maršam"
+      ins: "maršami"
+      voc: "marše"

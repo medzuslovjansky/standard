@@ -1,0 +1,22 @@
+---
+  id: "3868"
+  word: "pogoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pogoda"
+      acc: "pogodų"
+      gen: "pogody"
+      loc: "pogodě"
+      dat: "pogodě"
+      ins: "pogodojų"
+      voc: "pogodo"
+    plural: 
+      nom: "pogody"
+      acc: "pogody"
+      gen: "pogod"
+      loc: "pogodah"
+      dat: "pogodam"
+      ins: "pogodami"
+      voc: "pogody"

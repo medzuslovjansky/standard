@@ -1,0 +1,15 @@
+---
+  id: "20339"
+  word: "bditeljnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bditeljnosť"
+      acc: "bditeljnosť"
+      gen: "bditeljnosti"
+      loc: "bditeljnosti"
+      dat: "bditeljnosti"
+      ins: "bditeljnosťjų"
+      voc: "bditeljnosti"

@@ -1,0 +1,23 @@
+---
+  id: "36046"
+  word: "najezdnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "najezdnik"
+      acc: "najezdnika"
+      gen: "najezdnika"
+      loc: "najezdniku"
+      dat: "najezdniku"
+      ins: "najezdnikom"
+      voc: "najezdniče"
+    plural: 
+      nom: "najezdniki"
+      acc: "najezdnikov"
+      gen: "najezdnikov"
+      loc: "najezdnikah"
+      dat: "najezdnikam"
+      ins: "najezdnikami"
+      voc: "najezdniki"

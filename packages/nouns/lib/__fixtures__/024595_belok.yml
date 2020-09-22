@@ -1,0 +1,22 @@
+---
+  id: "24595"
+  word: "bělȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bělȯk"
+      acc: "bělȯk"
+      gen: "bělka"
+      loc: "bělku"
+      dat: "bělku"
+      ins: "bělkom"
+      voc: "bělče"
+    plural: 
+      nom: "bělky"
+      acc: "bělky"
+      gen: "bělkov"
+      loc: "bělkah"
+      dat: "bělkam"
+      ins: "bělkami"
+      voc: "bělky"

@@ -1,0 +1,15 @@
+---
+  id: "53"
+  word: "električnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "električnosť"
+      acc: "električnosť"
+      gen: "električnosti"
+      loc: "električnosti"
+      dat: "električnosti"
+      ins: "električnosťjų"
+      voc: "električnosti"

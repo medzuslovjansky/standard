@@ -1,0 +1,22 @@
+---
+  id: "1028"
+  word: "uraza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uraza"
+      acc: "urazų"
+      gen: "urazy"
+      loc: "urazě"
+      dat: "urazě"
+      ins: "urazojų"
+      voc: "urazo"
+    plural: 
+      nom: "urazy"
+      acc: "urazy"
+      gen: "uraz"
+      loc: "urazah"
+      dat: "urazam"
+      ins: "urazami"
+      voc: "urazy"

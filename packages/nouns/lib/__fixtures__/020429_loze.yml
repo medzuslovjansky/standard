@@ -1,0 +1,22 @@
+---
+  id: "20429"
+  word: "lože"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lože"
+      acc: "lože"
+      gen: "loža"
+      loc: "ložu"
+      dat: "ložu"
+      ins: "ložem"
+      voc: "lože"
+    plural: 
+      nom: "loža"
+      acc: "loža"
+      gen: "lož"
+      loc: "ložah"
+      dat: "ložam"
+      ins: "ložami"
+      voc: "loža"

@@ -1,0 +1,23 @@
+---
+  id: "20675"
+  word: "råzbojnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råzbojnik"
+      acc: "råzbojnika"
+      gen: "råzbojnika"
+      loc: "råzbojniku"
+      dat: "råzbojniku"
+      ins: "råzbojnikom"
+      voc: "råzbojniče"
+    plural: 
+      nom: "råzbojniki"
+      acc: "råzbojnikov"
+      gen: "råzbojnikov"
+      loc: "råzbojnikah"
+      dat: "råzbojnikam"
+      ins: "råzbojnikami"
+      voc: "råzbojniki"

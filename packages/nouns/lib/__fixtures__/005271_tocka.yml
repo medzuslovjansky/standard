@@ -1,0 +1,22 @@
+---
+  id: "5271"
+  word: "točka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "točka"
+      acc: "točkų"
+      gen: "točky"
+      loc: "točkě"
+      dat: "točkě"
+      ins: "točkojų"
+      voc: "točko"
+    plural: 
+      nom: "točky"
+      acc: "točky"
+      gen: "toček"
+      loc: "točkah"
+      dat: "točkam"
+      ins: "točkami"
+      voc: "točky"

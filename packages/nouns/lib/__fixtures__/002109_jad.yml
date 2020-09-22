@@ -1,0 +1,22 @@
+---
+  id: "2109"
+  word: "jad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jad"
+      acc: "jad"
+      gen: "jada"
+      loc: "jadu"
+      dat: "jadu"
+      ins: "jadom"
+      voc: "jade"
+    plural: 
+      nom: "jady"
+      acc: "jady"
+      gen: "jadov"
+      loc: "jadah"
+      dat: "jadam"
+      ins: "jadami"
+      voc: "jady"

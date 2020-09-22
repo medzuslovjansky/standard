@@ -1,0 +1,23 @@
+---
+  id: "20877"
+  word: "krasopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krasopisec"
+      acc: "krasopisca"
+      gen: "krasopisca"
+      loc: "krasopiscu"
+      dat: "krasopiscu"
+      ins: "krasopiscem"
+      voc: "krasopisče"
+    plural: 
+      nom: "krasopisci"
+      acc: "krasopiscev"
+      gen: "krasopiscev"
+      loc: "krasopiscah"
+      dat: "krasopiscam"
+      ins: "krasopiscami"
+      voc: "krasopisci"

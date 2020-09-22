@@ -1,0 +1,15 @@
+---
+  id: "9097"
+  word: "migańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "migańje"
+      acc: "migańje"
+      gen: "migańja"
+      loc: "migańju"
+      dat: "migańju"
+      ins: "migańjem"
+      voc: "migańje"

@@ -1,0 +1,22 @@
+---
+  id: "22698"
+  word: "prěvråt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěvråt"
+      acc: "prěvråt"
+      gen: "prěvråta"
+      loc: "prěvråtu"
+      dat: "prěvråtu"
+      ins: "prěvråtom"
+      voc: "prěvråte"
+    plural: 
+      nom: "prěvråty"
+      acc: "prěvråty"
+      gen: "prěvråtov"
+      loc: "prěvråtah"
+      dat: "prěvråtam"
+      ins: "prěvråtami"
+      voc: "prěvråty"

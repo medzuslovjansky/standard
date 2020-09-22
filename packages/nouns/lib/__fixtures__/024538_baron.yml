@@ -1,0 +1,23 @@
+---
+  id: "24538"
+  word: "baron"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "baron"
+      acc: "barona"
+      gen: "barona"
+      loc: "baronu"
+      dat: "baronu"
+      ins: "baronom"
+      voc: "barone"
+    plural: 
+      nom: "baroni"
+      acc: "baronov"
+      gen: "baronov"
+      loc: "baronah"
+      dat: "baronam"
+      ins: "baronami"
+      voc: "baroni"

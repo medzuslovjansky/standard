@@ -1,0 +1,15 @@
+---
+  id: "26781"
+  word: "kovylj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kovylj"
+      acc: "kovylj"
+      gen: "kovylja"
+      loc: "kovylju"
+      dat: "kovylju"
+      ins: "kovyljem"
+      voc: "kovylju"

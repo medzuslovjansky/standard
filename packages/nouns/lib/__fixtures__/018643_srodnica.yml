@@ -1,0 +1,22 @@
+---
+  id: "18643"
+  word: "srodnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "srodnica"
+      acc: "srodnicų"
+      gen: "srodnice"
+      loc: "srodnici"
+      dat: "srodnici"
+      ins: "srodnicejų"
+      voc: "srodnico"
+    plural: 
+      nom: "srodnice"
+      acc: "srodnice"
+      gen: "srodnic"
+      loc: "srodnicah"
+      dat: "srodnicam"
+      ins: "srodnicami"
+      voc: "srodnice"

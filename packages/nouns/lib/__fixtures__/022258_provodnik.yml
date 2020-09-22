@@ -1,0 +1,22 @@
+---
+  id: "22258"
+  word: "provodnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "provodnik"
+      acc: "provodnik"
+      gen: "provodnika"
+      loc: "provodniku"
+      dat: "provodniku"
+      ins: "provodnikom"
+      voc: "provodniče"
+    plural: 
+      nom: "provodniky"
+      acc: "provodniky"
+      gen: "provodnikov"
+      loc: "provodnikah"
+      dat: "provodnikam"
+      ins: "provodnikami"
+      voc: "provodniky"

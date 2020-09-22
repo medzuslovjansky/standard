@@ -1,0 +1,23 @@
+---
+  id: "31433"
+  word: "izrodȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izrodȯk"
+      acc: "izrodka"
+      gen: "izrodka"
+      loc: "izrodku"
+      dat: "izrodku"
+      ins: "izrodkom"
+      voc: "izrodče"
+    plural: 
+      nom: "izrodki"
+      acc: "izrodkov"
+      gen: "izrodkov"
+      loc: "izrodkah"
+      dat: "izrodkam"
+      ins: "izrodkami"
+      voc: "izrodki"

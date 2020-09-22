@@ -1,0 +1,23 @@
+---
+  id: "4570"
+  word: "papugaj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "papugaj"
+      acc: "papugaja"
+      gen: "papugaja"
+      loc: "papugaju"
+      dat: "papugaju"
+      ins: "papugajem"
+      voc: "papugaju"
+    plural: 
+      nom: "papugaji"
+      acc: "papugajev"
+      gen: "papugajev"
+      loc: "papugajah"
+      dat: "papugajam"
+      ins: "papugajami"
+      voc: "papugaji"

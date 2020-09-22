@@ -1,0 +1,22 @@
+---
+  id: "22547"
+  word: "vodobojaznj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vodobojaznj"
+      acc: "vodobojaznj"
+      gen: "vodobojaznji"
+      loc: "vodobojaznji"
+      dat: "vodobojaznji"
+      ins: "vodobojaznjjų"
+      voc: "vodobojaznji"
+    plural: 
+      nom: "vodobojaznji"
+      acc: "vodobojaznji"
+      gen: "vodobojaznjij"
+      loc: "vodobojaznjah"
+      dat: "vodobojaznjam"
+      ins: "vodobojaznjami"
+      voc: "vodobojaznji"

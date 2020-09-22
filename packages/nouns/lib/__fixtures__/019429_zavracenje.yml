@@ -1,0 +1,22 @@
+---
+  id: "19429"
+  word: "zavråćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zavråćeńje"
+      acc: "zavråćeńje"
+      gen: "zavråćeńja"
+      loc: "zavråćeńju"
+      dat: "zavråćeńju"
+      ins: "zavråćeńjem"
+      voc: "zavråćeńje"
+    plural: 
+      nom: "zavråćeńja"
+      acc: "zavråćeńja"
+      gen: "zavråćenij"
+      loc: "zavråćeńjah"
+      dat: "zavråćeńjam"
+      ins: "zavråćeńjami"
+      voc: "zavråćeńja"

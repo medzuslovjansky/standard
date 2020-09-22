@@ -1,0 +1,22 @@
+---
+  id: "33010"
+  word: "mizantropija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mizantropija"
+      acc: "mizantropijų"
+      gen: "mizantropije"
+      loc: "mizantropiji"
+      dat: "mizantropiji"
+      ins: "mizantropijejų"
+      voc: "mizantropijo"
+    plural: 
+      nom: "mizantropije"
+      acc: "mizantropije"
+      gen: "mizantropij"
+      loc: "mizantropijah"
+      dat: "mizantropijam"
+      ins: "mizantropijami"
+      voc: "mizantropije"

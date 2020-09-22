@@ -1,0 +1,22 @@
+---
+  id: "485"
+  word: "entitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "entitet"
+      acc: "entitet"
+      gen: "entiteta"
+      loc: "entitetu"
+      dat: "entitetu"
+      ins: "entitetom"
+      voc: "entitete"
+    plural: 
+      nom: "entitety"
+      acc: "entitety"
+      gen: "entitetov"
+      loc: "entitetah"
+      dat: "entitetam"
+      ins: "entitetami"
+      voc: "entitety"

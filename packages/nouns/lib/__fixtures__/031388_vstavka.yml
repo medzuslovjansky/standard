@@ -1,0 +1,22 @@
+---
+  id: "31388"
+  word: "vstavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vstavka"
+      acc: "vstavkų"
+      gen: "vstavky"
+      loc: "vstavkě"
+      dat: "vstavkě"
+      ins: "vstavkojų"
+      voc: "vstavko"
+    plural: 
+      nom: "vstavky"
+      acc: "vstavky"
+      gen: "vstavȯk"
+      loc: "vstavkah"
+      dat: "vstavkam"
+      ins: "vstavkami"
+      voc: "vstavky"

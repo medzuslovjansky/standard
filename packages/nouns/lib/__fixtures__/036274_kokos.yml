@@ -1,0 +1,22 @@
+---
+  id: "36274"
+  word: "kokos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kokos"
+      acc: "kokos"
+      gen: "kokosa"
+      loc: "kokosu"
+      dat: "kokosu"
+      ins: "kokosom"
+      voc: "kokose"
+    plural: 
+      nom: "kokosy"
+      acc: "kokosy"
+      gen: "kokosov"
+      loc: "kokosah"
+      dat: "kokosam"
+      ins: "kokosami"
+      voc: "kokosy"

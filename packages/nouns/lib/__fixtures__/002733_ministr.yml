@@ -1,0 +1,23 @@
+---
+  id: "2733"
+  word: "ministr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ministr"
+      acc: "ministra"
+      gen: "ministra"
+      loc: "ministru"
+      dat: "ministru"
+      ins: "ministrom"
+      voc: "ministre"
+    plural: 
+      nom: "ministri"
+      acc: "ministrov"
+      gen: "ministrov"
+      loc: "ministrah"
+      dat: "ministram"
+      ins: "ministrami"
+      voc: "ministri"

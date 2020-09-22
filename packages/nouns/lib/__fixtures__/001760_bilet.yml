@@ -1,0 +1,22 @@
+---
+  id: "1760"
+  word: "bilet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bilet"
+      acc: "bilet"
+      gen: "bileta"
+      loc: "biletu"
+      dat: "biletu"
+      ins: "biletom"
+      voc: "bilete"
+    plural: 
+      nom: "bilety"
+      acc: "bilety"
+      gen: "biletov"
+      loc: "biletah"
+      dat: "biletam"
+      ins: "biletami"
+      voc: "bilety"

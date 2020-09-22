@@ -1,0 +1,22 @@
+---
+  id: "35040"
+  word: "samokritika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samokritika"
+      acc: "samokritikų"
+      gen: "samokritiky"
+      loc: "samokritikě"
+      dat: "samokritikě"
+      ins: "samokritikojų"
+      voc: "samokritiko"
+    plural: 
+      nom: "samokritiky"
+      acc: "samokritiky"
+      gen: "samokritik"
+      loc: "samokritikah"
+      dat: "samokritikam"
+      ins: "samokritikami"
+      voc: "samokritiky"

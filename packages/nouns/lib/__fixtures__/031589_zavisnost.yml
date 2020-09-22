@@ -1,0 +1,22 @@
+---
+  id: "31589"
+  word: "zavisnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zavisnosť"
+      acc: "zavisnosť"
+      gen: "zavisnosti"
+      loc: "zavisnosti"
+      dat: "zavisnosti"
+      ins: "zavisnosťjų"
+      voc: "zavisnosti"
+    plural: 
+      nom: "zavisnosti"
+      acc: "zavisnosti"
+      gen: "zavisnostij"
+      loc: "zavisnosťah"
+      dat: "zavisnosťam"
+      ins: "zavisnosťami"
+      voc: "zavisnosti"

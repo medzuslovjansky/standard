@@ -1,0 +1,22 @@
+---
+  id: "4509"
+  word: "unižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "unižeńje"
+      acc: "unižeńje"
+      gen: "unižeńja"
+      loc: "unižeńju"
+      dat: "unižeńju"
+      ins: "unižeńjem"
+      voc: "unižeńje"
+    plural: 
+      nom: "unižeńja"
+      acc: "unižeńja"
+      gen: "uniženij"
+      loc: "unižeńjah"
+      dat: "unižeńjam"
+      ins: "unižeńjami"
+      voc: "unižeńja"

@@ -1,0 +1,22 @@
+---
+  id: "22093"
+  word: "těsnina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "těsnina"
+      acc: "těsninų"
+      gen: "těsniny"
+      loc: "těsnině"
+      dat: "těsnině"
+      ins: "těsninojų"
+      voc: "těsnino"
+    plural: 
+      nom: "těsniny"
+      acc: "těsniny"
+      gen: "těsnin"
+      loc: "těsninah"
+      dat: "těsninam"
+      ins: "těsninami"
+      voc: "těsniny"

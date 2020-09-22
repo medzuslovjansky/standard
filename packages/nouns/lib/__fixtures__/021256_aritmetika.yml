@@ -1,0 +1,15 @@
+---
+  id: "21256"
+  word: "aritmetika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aritmetika"
+      acc: "aritmetikų"
+      gen: "aritmetiky"
+      loc: "aritmetikě"
+      dat: "aritmetikě"
+      ins: "aritmetikojų"
+      voc: "aritmetiko"

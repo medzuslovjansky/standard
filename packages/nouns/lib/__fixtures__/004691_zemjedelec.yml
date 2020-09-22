@@ -1,0 +1,23 @@
+---
+  id: "4691"
+  word: "zemjedělec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zemjedělec"
+      acc: "zemjedělca"
+      gen: "zemjedělca"
+      loc: "zemjedělcu"
+      dat: "zemjedělcu"
+      ins: "zemjedělcem"
+      voc: "zemjedělče"
+    plural: 
+      nom: "zemjedělci"
+      acc: "zemjedělcev"
+      gen: "zemjedělcev"
+      loc: "zemjedělcah"
+      dat: "zemjedělcam"
+      ins: "zemjedělcami"
+      voc: "zemjedělci"

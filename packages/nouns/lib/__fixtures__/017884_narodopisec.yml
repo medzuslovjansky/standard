@@ -1,0 +1,23 @@
+---
+  id: "17884"
+  word: "narodopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "narodopisec"
+      acc: "narodopisca"
+      gen: "narodopisca"
+      loc: "narodopiscu"
+      dat: "narodopiscu"
+      ins: "narodopiscem"
+      voc: "narodopisče"
+    plural: 
+      nom: "narodopisci"
+      acc: "narodopiscev"
+      gen: "narodopiscev"
+      loc: "narodopiscah"
+      dat: "narodopiscam"
+      ins: "narodopiscami"
+      voc: "narodopisci"

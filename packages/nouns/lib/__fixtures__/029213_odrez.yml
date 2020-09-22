@@ -1,0 +1,45 @@
+---
+  - 
+    id: "29213"
+    word: "odrěz"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "odrěz"
+        acc: "odrěz"
+        gen: "odrěza"
+        loc: "odrězu"
+        dat: "odrězu"
+        ins: "odrězom"
+        voc: "odrěze"
+      plural: 
+        nom: "odrězy"
+        acc: "odrězy"
+        gen: "odrězov"
+        loc: "odrězah"
+        dat: "odrězam"
+        ins: "odrězami"
+        voc: "odrězy"
+  - 
+    id: "29213"
+    word: "odrězȯk"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "odrězȯk"
+        acc: "odrězȯk"
+        gen: "odrězka"
+        loc: "odrězku"
+        dat: "odrězku"
+        ins: "odrězkom"
+        voc: "odrězče"
+      plural: 
+        nom: "odrězky"
+        acc: "odrězky"
+        gen: "odrězkov"
+        loc: "odrězkah"
+        dat: "odrězkam"
+        ins: "odrězkami"
+        voc: "odrězky"

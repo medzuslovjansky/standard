@@ -1,0 +1,22 @@
+---
+  id: "17917"
+  word: "nepogoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepogoda"
+      acc: "nepogodų"
+      gen: "nepogody"
+      loc: "nepogodě"
+      dat: "nepogodě"
+      ins: "nepogodojų"
+      voc: "nepogodo"
+    plural: 
+      nom: "nepogody"
+      acc: "nepogody"
+      gen: "nepogod"
+      loc: "nepogodah"
+      dat: "nepogodam"
+      ins: "nepogodami"
+      voc: "nepogody"

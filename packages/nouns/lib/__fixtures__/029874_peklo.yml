@@ -1,0 +1,22 @@
+---
+  id: "29874"
+  word: "peklo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "peklo"
+      acc: "peklo"
+      gen: "pekla"
+      loc: "peklu"
+      dat: "peklu"
+      ins: "peklom"
+      voc: "peklo"
+    plural: 
+      nom: "pekla"
+      acc: "pekla"
+      gen: "pekȯl"
+      loc: "peklah"
+      dat: "peklam"
+      ins: "peklami"
+      voc: "pekla"

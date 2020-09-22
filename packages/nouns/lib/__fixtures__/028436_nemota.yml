@@ -1,0 +1,22 @@
+---
+  id: "28436"
+  word: "němota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "němota"
+      acc: "němotų"
+      gen: "němoty"
+      loc: "němotě"
+      dat: "němotě"
+      ins: "němotojų"
+      voc: "němoto"
+    plural: 
+      nom: "němoty"
+      acc: "němoty"
+      gen: "němot"
+      loc: "němotah"
+      dat: "němotam"
+      ins: "němotami"
+      voc: "němoty"

@@ -1,0 +1,23 @@
+---
+  id: "35553"
+  word: "senator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "senator"
+      acc: "senatora"
+      gen: "senatora"
+      loc: "senatoru"
+      dat: "senatoru"
+      ins: "senatorom"
+      voc: "senatore"
+    plural: 
+      nom: "senatori"
+      acc: "senatorov"
+      gen: "senatorov"
+      loc: "senatorah"
+      dat: "senatoram"
+      ins: "senatorami"
+      voc: "senatori"

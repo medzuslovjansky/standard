@@ -1,0 +1,22 @@
+---
+  id: "15268"
+  word: "četyrokųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "četyrokųtnik"
+      acc: "četyrokųtnik"
+      gen: "četyrokųtnika"
+      loc: "četyrokųtniku"
+      dat: "četyrokųtniku"
+      ins: "četyrokųtnikom"
+      voc: "četyrokųtniče"
+    plural: 
+      nom: "četyrokųtniky"
+      acc: "četyrokųtniky"
+      gen: "četyrokųtnikov"
+      loc: "četyrokųtnikah"
+      dat: "četyrokųtnikam"
+      ins: "četyrokųtnikami"
+      voc: "četyrokųtniky"

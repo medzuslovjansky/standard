@@ -1,0 +1,22 @@
+---
+  id: "3948"
+  word: "robot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "robot"
+      acc: "robot"
+      gen: "robota"
+      loc: "robotu"
+      dat: "robotu"
+      ins: "robotom"
+      voc: "robote"
+    plural: 
+      nom: "roboty"
+      acc: "roboty"
+      gen: "robotov"
+      loc: "robotah"
+      dat: "robotam"
+      ins: "robotami"
+      voc: "roboty"

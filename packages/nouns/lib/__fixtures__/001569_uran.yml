@@ -1,0 +1,15 @@
+---
+  id: "1569"
+  word: "uran"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "uran"
+      acc: "uran"
+      gen: "urana"
+      loc: "uranu"
+      dat: "uranu"
+      ins: "uranom"
+      voc: "urane"

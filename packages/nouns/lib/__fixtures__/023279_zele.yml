@@ -1,0 +1,23 @@
+---
+  id: "23279"
+  word: "žele"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "žele"
+      acc: "žele"
+      gen: "žele"
+      loc: "žele"
+      dat: "žele"
+      ins: "žele"
+      voc: "žele"
+    plural: 
+      nom: "žele"
+      acc: "žele"
+      gen: "žele"
+      loc: "žele"
+      dat: "žele"
+      ins: "žele"
+      voc: "žele"

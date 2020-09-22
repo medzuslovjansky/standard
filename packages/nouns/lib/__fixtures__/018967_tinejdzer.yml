@@ -1,0 +1,23 @@
+---
+  id: "18967"
+  word: "tinejdžer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tinejdžer"
+      acc: "tinejdžera"
+      gen: "tinejdžera"
+      loc: "tinejdžeru"
+      dat: "tinejdžeru"
+      ins: "tinejdžerom"
+      voc: "tinejdžere"
+    plural: 
+      nom: "tinejdžeri"
+      acc: "tinejdžerov"
+      gen: "tinejdžerov"
+      loc: "tinejdžerah"
+      dat: "tinejdžeram"
+      ins: "tinejdžerami"
+      voc: "tinejdžeri"

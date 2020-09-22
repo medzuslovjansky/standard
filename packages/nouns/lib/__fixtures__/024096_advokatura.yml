@@ -1,0 +1,15 @@
+---
+  id: "24096"
+  word: "advokatura"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "advokatura"
+      acc: "advokaturų"
+      gen: "advokatury"
+      loc: "advokaturě"
+      dat: "advokaturě"
+      ins: "advokaturojų"
+      voc: "advokaturo"

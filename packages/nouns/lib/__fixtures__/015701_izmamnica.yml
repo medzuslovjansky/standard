@@ -1,0 +1,22 @@
+---
+  id: "15701"
+  word: "izmamnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izmamnica"
+      acc: "izmamnicų"
+      gen: "izmamnice"
+      loc: "izmamnici"
+      dat: "izmamnici"
+      ins: "izmamnicejų"
+      voc: "izmamnico"
+    plural: 
+      nom: "izmamnice"
+      acc: "izmamnice"
+      gen: "izmamnic"
+      loc: "izmamnicah"
+      dat: "izmamnicam"
+      ins: "izmamnicami"
+      voc: "izmamnice"

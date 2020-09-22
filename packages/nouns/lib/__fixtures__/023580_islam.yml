@@ -1,0 +1,15 @@
+---
+  id: "23580"
+  word: "islam"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "islam"
+      acc: "islam"
+      gen: "islama"
+      loc: "islamu"
+      dat: "islamu"
+      ins: "islamom"
+      voc: "islame"

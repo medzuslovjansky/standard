@@ -1,0 +1,23 @@
+---
+  id: "20586"
+  word: "pingvin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pingvin"
+      acc: "pingvina"
+      gen: "pingvina"
+      loc: "pingvinu"
+      dat: "pingvinu"
+      ins: "pingvinom"
+      voc: "pingvine"
+    plural: 
+      nom: "pingvini"
+      acc: "pingvinov"
+      gen: "pingvinov"
+      loc: "pingvinah"
+      dat: "pingvinam"
+      ins: "pingvinami"
+      voc: "pingvini"

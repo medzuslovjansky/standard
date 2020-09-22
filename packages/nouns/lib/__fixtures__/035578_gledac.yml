@@ -1,0 +1,23 @@
+---
+  id: "35578"
+  word: "ględač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ględač"
+      acc: "ględača"
+      gen: "ględača"
+      loc: "ględaču"
+      dat: "ględaču"
+      ins: "ględačem"
+      voc: "ględaču"
+    plural: 
+      nom: "ględači"
+      acc: "ględačev"
+      gen: "ględačev"
+      loc: "ględačah"
+      dat: "ględačam"
+      ins: "ględačami"
+      voc: "ględači"

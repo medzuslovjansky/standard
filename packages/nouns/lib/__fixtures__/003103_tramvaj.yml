@@ -1,0 +1,22 @@
+---
+  id: "3103"
+  word: "tramvaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tramvaj"
+      acc: "tramvaj"
+      gen: "tramvaja"
+      loc: "tramvaju"
+      dat: "tramvaju"
+      ins: "tramvajem"
+      voc: "tramvaju"
+    plural: 
+      nom: "tramvaje"
+      acc: "tramvaje"
+      gen: "tramvajev"
+      loc: "tramvajah"
+      dat: "tramvajam"
+      ins: "tramvajami"
+      voc: "tramvaje"

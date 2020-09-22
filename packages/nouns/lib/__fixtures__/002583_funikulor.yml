@@ -1,0 +1,22 @@
+---
+  id: "2583"
+  word: "funikulor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "funikulor"
+      acc: "funikulor"
+      gen: "funikulora"
+      loc: "funikuloru"
+      dat: "funikuloru"
+      ins: "funikulorom"
+      voc: "funikulore"
+    plural: 
+      nom: "funikulory"
+      acc: "funikulory"
+      gen: "funikulorov"
+      loc: "funikulorah"
+      dat: "funikuloram"
+      ins: "funikulorami"
+      voc: "funikulory"

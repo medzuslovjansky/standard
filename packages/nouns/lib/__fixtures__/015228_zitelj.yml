@@ -1,0 +1,23 @@
+---
+  id: "15228"
+  word: "žitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žitelj"
+      acc: "žitelja"
+      gen: "žitelja"
+      loc: "žitelju"
+      dat: "žitelju"
+      ins: "žiteljem"
+      voc: "žitelju"
+    plural: 
+      nom: "žitelji"
+      acc: "žiteljev"
+      gen: "žiteljev"
+      loc: "žiteljah"
+      dat: "žiteljam"
+      ins: "žiteljami"
+      voc: "žitelji"

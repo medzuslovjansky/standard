@@ -1,0 +1,22 @@
+---
+  id: "25646"
+  word: "glog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glog"
+      acc: "glog"
+      gen: "gloga"
+      loc: "glogu"
+      dat: "glogu"
+      ins: "glogom"
+      voc: "glože"
+    plural: 
+      nom: "glogy"
+      acc: "glogy"
+      gen: "glogov"
+      loc: "glogah"
+      dat: "glogam"
+      ins: "glogami"
+      voc: "glogy"

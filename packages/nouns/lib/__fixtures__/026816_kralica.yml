@@ -1,0 +1,22 @@
+---
+  id: "26816"
+  word: "krålica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krålica"
+      acc: "krålicų"
+      gen: "krålice"
+      loc: "krålici"
+      dat: "krålici"
+      ins: "krålicejų"
+      voc: "krålico"
+    plural: 
+      nom: "krålice"
+      acc: "krålice"
+      gen: "krålic"
+      loc: "krålicah"
+      dat: "krålicam"
+      ins: "krålicami"
+      voc: "krålice"

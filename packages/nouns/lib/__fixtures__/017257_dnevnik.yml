@@ -1,0 +1,22 @@
+---
+  id: "17257"
+  word: "dnevnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dnevnik"
+      acc: "dnevnik"
+      gen: "dnevnika"
+      loc: "dnevniku"
+      dat: "dnevniku"
+      ins: "dnevnikom"
+      voc: "dnevniče"
+    plural: 
+      nom: "dnevniky"
+      acc: "dnevniky"
+      gen: "dnevnikov"
+      loc: "dnevnikah"
+      dat: "dnevnikam"
+      ins: "dnevnikami"
+      voc: "dnevniky"

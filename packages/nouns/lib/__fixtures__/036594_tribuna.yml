@@ -1,0 +1,22 @@
+---
+  id: "36594"
+  word: "tribuna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tribuna"
+      acc: "tribunų"
+      gen: "tribuny"
+      loc: "tribuně"
+      dat: "tribuně"
+      ins: "tribunojų"
+      voc: "tribuno"
+    plural: 
+      nom: "tribuny"
+      acc: "tribuny"
+      gen: "tribun"
+      loc: "tribunah"
+      dat: "tribunam"
+      ins: "tribunami"
+      voc: "tribuny"

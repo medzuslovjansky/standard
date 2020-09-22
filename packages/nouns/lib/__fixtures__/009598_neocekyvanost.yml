@@ -1,0 +1,22 @@
+---
+  id: "9598"
+  word: "neočekyvanosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neočekyvanosť"
+      acc: "neočekyvanosť"
+      gen: "neočekyvanosti"
+      loc: "neočekyvanosti"
+      dat: "neočekyvanosti"
+      ins: "neočekyvanosťjų"
+      voc: "neočekyvanosti"
+    plural: 
+      nom: "neočekyvanosti"
+      acc: "neočekyvanosti"
+      gen: "neočekyvanostij"
+      loc: "neočekyvanosťah"
+      dat: "neočekyvanosťam"
+      ins: "neočekyvanosťami"
+      voc: "neočekyvanosti"

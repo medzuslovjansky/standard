@@ -1,0 +1,23 @@
+---
+  id: "21346"
+  word: "motylj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "motylj"
+      acc: "motylja"
+      gen: "motylja"
+      loc: "motylju"
+      dat: "motylju"
+      ins: "motyljem"
+      voc: "motylju"
+    plural: 
+      nom: "motylji"
+      acc: "motyljev"
+      gen: "motyljev"
+      loc: "motyljah"
+      dat: "motyljam"
+      ins: "motyljami"
+      voc: "motylji"

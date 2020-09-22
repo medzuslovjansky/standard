@@ -1,0 +1,22 @@
+---
+  id: "31746"
+  word: "prezidium"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prezidium"
+      acc: "prezidium"
+      gen: "prezidiuma"
+      loc: "prezidiumu"
+      dat: "prezidiumu"
+      ins: "prezidiumom"
+      voc: "prezidium"
+    plural: 
+      nom: "prezidiuma"
+      acc: "prezidiuma"
+      gen: "prezidium"
+      loc: "prezidiumah"
+      dat: "prezidiumam"
+      ins: "prezidiumami"
+      voc: "prezidiuma"

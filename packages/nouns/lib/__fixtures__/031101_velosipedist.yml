@@ -1,0 +1,23 @@
+---
+  id: "31101"
+  word: "velosipedist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "velosipedist"
+      acc: "velosipedista"
+      gen: "velosipedista"
+      loc: "velosipedistu"
+      dat: "velosipedistu"
+      ins: "velosipedistom"
+      voc: "velosipediste"
+    plural: 
+      nom: "velosipedisti"
+      acc: "velosipedistov"
+      gen: "velosipedistov"
+      loc: "velosipedistah"
+      dat: "velosipedistam"
+      ins: "velosipedistami"
+      voc: "velosipedisti"

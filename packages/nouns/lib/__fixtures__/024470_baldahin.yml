@@ -1,0 +1,22 @@
+---
+  id: "24470"
+  word: "baldahin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baldahin"
+      acc: "baldahin"
+      gen: "baldahina"
+      loc: "baldahinu"
+      dat: "baldahinu"
+      ins: "baldahinom"
+      voc: "baldahine"
+    plural: 
+      nom: "baldahiny"
+      acc: "baldahiny"
+      gen: "baldahinov"
+      loc: "baldahinah"
+      dat: "baldahinam"
+      ins: "baldahinami"
+      voc: "baldahiny"

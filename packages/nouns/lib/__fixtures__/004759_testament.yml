@@ -1,0 +1,22 @@
+---
+  id: "4759"
+  word: "testament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "testament"
+      acc: "testament"
+      gen: "testamenta"
+      loc: "testamentu"
+      dat: "testamentu"
+      ins: "testamentom"
+      voc: "testamente"
+    plural: 
+      nom: "testamenty"
+      acc: "testamenty"
+      gen: "testamentov"
+      loc: "testamentah"
+      dat: "testamentam"
+      ins: "testamentami"
+      voc: "testamenty"

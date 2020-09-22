@@ -1,0 +1,22 @@
+---
+  id: "31063"
+  word: "vegetacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vegetacija"
+      acc: "vegetacijų"
+      gen: "vegetacije"
+      loc: "vegetaciji"
+      dat: "vegetaciji"
+      ins: "vegetacijejų"
+      voc: "vegetacijo"
+    plural: 
+      nom: "vegetacije"
+      acc: "vegetacije"
+      gen: "vegetacij"
+      loc: "vegetacijah"
+      dat: "vegetacijam"
+      ins: "vegetacijami"
+      voc: "vegetacije"

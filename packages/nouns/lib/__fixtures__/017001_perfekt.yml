@@ -1,0 +1,22 @@
+---
+  id: "17001"
+  word: "perfekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "perfekt"
+      acc: "perfekt"
+      gen: "perfekta"
+      loc: "perfektu"
+      dat: "perfektu"
+      ins: "perfektom"
+      voc: "perfekte"
+    plural: 
+      nom: "perfekty"
+      acc: "perfekty"
+      gen: "perfektov"
+      loc: "perfektah"
+      dat: "perfektam"
+      ins: "perfektami"
+      voc: "perfekty"

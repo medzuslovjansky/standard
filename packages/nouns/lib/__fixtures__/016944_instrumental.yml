@@ -1,0 +1,22 @@
+---
+  id: "16944"
+  word: "instrumental"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "instrumental"
+      acc: "instrumental"
+      gen: "instrumentala"
+      loc: "instrumentalu"
+      dat: "instrumentalu"
+      ins: "instrumentalom"
+      voc: "instrumentale"
+    plural: 
+      nom: "instrumentaly"
+      acc: "instrumentaly"
+      gen: "instrumentalov"
+      loc: "instrumentalah"
+      dat: "instrumentalam"
+      ins: "instrumentalami"
+      voc: "instrumentaly"

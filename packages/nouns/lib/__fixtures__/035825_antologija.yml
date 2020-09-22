@@ -1,0 +1,22 @@
+---
+  id: "35825"
+  word: "antologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "antologija"
+      acc: "antologijų"
+      gen: "antologije"
+      loc: "antologiji"
+      dat: "antologiji"
+      ins: "antologijejų"
+      voc: "antologijo"
+    plural: 
+      nom: "antologije"
+      acc: "antologije"
+      gen: "antologij"
+      loc: "antologijah"
+      dat: "antologijam"
+      ins: "antologijami"
+      voc: "antologije"

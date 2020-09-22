@@ -1,0 +1,22 @@
+---
+  id: "34555"
+  word: "slovjanizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slovjanizacija"
+      acc: "slovjanizacijų"
+      gen: "slovjanizacije"
+      loc: "slovjanizaciji"
+      dat: "slovjanizaciji"
+      ins: "slovjanizacijejų"
+      voc: "slovjanizacijo"
+    plural: 
+      nom: "slovjanizacije"
+      acc: "slovjanizacije"
+      gen: "slovjanizacij"
+      loc: "slovjanizacijah"
+      dat: "slovjanizacijam"
+      ins: "slovjanizacijami"
+      voc: "slovjanizacije"

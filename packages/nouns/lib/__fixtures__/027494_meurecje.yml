@@ -1,0 +1,22 @@
+---
+  id: "27494"
+  word: "međurěčje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "međurěčje"
+      acc: "međurěčje"
+      gen: "međurěčja"
+      loc: "međurěčju"
+      dat: "međurěčju"
+      ins: "međurěčjem"
+      voc: "međurěčje"
+    plural: 
+      nom: "međurěčja"
+      acc: "međurěčja"
+      gen: "međurěčij"
+      loc: "međurěčjah"
+      dat: "međurěčjam"
+      ins: "međurěčjami"
+      voc: "međurěčja"

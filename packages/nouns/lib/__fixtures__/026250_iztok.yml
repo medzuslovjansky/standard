@@ -1,0 +1,22 @@
+---
+  id: "26250"
+  word: "iztok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iztok"
+      acc: "iztok"
+      gen: "iztoka"
+      loc: "iztoku"
+      dat: "iztoku"
+      ins: "iztokom"
+      voc: "iztoče"
+    plural: 
+      nom: "iztoky"
+      acc: "iztoky"
+      gen: "iztokov"
+      loc: "iztokah"
+      dat: "iztokam"
+      ins: "iztokami"
+      voc: "iztoky"

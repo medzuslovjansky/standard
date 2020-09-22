@@ -1,0 +1,23 @@
+---
+  id: "1802"
+  word: "bųben"
+  meta: 
+    irregularity: "(bųbna)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bųbėn"
+      acc: "bųbėn"
+      gen: "bųbna"
+      loc: "bųbnu"
+      dat: "bųbnu"
+      ins: "bųbnom"
+      voc: "bųbne"
+    plural: 
+      nom: "bųbny"
+      acc: "bųbny"
+      gen: "bųbnov"
+      loc: "bųbnah"
+      dat: "bųbnam"
+      ins: "bųbnami"
+      voc: "bųbny"

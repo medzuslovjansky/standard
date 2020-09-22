@@ -1,0 +1,22 @@
+---
+  id: "33401"
+  word: "kapuca"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapuca"
+      acc: "kapucų"
+      gen: "kapuce"
+      loc: "kapuci"
+      dat: "kapuci"
+      ins: "kapucejų"
+      voc: "kapuco"
+    plural: 
+      nom: "kapuce"
+      acc: "kapuce"
+      gen: "kapuc"
+      loc: "kapucah"
+      dat: "kapucam"
+      ins: "kapucami"
+      voc: "kapuce"

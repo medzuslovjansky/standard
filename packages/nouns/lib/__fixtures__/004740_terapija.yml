@@ -1,0 +1,22 @@
+---
+  id: "4740"
+  word: "terapija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "terapija"
+      acc: "terapijų"
+      gen: "terapije"
+      loc: "terapiji"
+      dat: "terapiji"
+      ins: "terapijejų"
+      voc: "terapijo"
+    plural: 
+      nom: "terapije"
+      acc: "terapije"
+      gen: "terapij"
+      loc: "terapijah"
+      dat: "terapijam"
+      ins: "terapijami"
+      voc: "terapije"

@@ -1,0 +1,22 @@
+---
+  id: "23206"
+  word: "paralela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "paralela"
+      acc: "paralelų"
+      gen: "paralely"
+      loc: "paralelě"
+      dat: "paralelě"
+      ins: "paralelojų"
+      voc: "paralelo"
+    plural: 
+      nom: "paralely"
+      acc: "paralely"
+      gen: "paralel"
+      loc: "paralelah"
+      dat: "paralelam"
+      ins: "paralelami"
+      voc: "paralely"

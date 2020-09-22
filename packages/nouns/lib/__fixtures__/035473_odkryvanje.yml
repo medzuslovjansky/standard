@@ -1,0 +1,22 @@
+---
+  id: "35473"
+  word: "odkryvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odkryvańje"
+      acc: "odkryvańje"
+      gen: "odkryvańja"
+      loc: "odkryvańju"
+      dat: "odkryvańju"
+      ins: "odkryvańjem"
+      voc: "odkryvańje"
+    plural: 
+      nom: "odkryvańja"
+      acc: "odkryvańja"
+      gen: "odkryvanij"
+      loc: "odkryvańjah"
+      dat: "odkryvańjam"
+      ins: "odkryvańjami"
+      voc: "odkryvańja"

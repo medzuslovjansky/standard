@@ -1,0 +1,22 @@
+---
+  id: "17030"
+  word: "regularizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "regularizacija"
+      acc: "regularizacijų"
+      gen: "regularizacije"
+      loc: "regularizaciji"
+      dat: "regularizaciji"
+      ins: "regularizacijejų"
+      voc: "regularizacijo"
+    plural: 
+      nom: "regularizacije"
+      acc: "regularizacije"
+      gen: "regularizacij"
+      loc: "regularizacijah"
+      dat: "regularizacijam"
+      ins: "regularizacijami"
+      voc: "regularizacije"

@@ -1,0 +1,22 @@
+---
+  id: "17602"
+  word: "jalovec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jalovec"
+      acc: "jalovec"
+      gen: "jalovca"
+      loc: "jalovcu"
+      dat: "jalovcu"
+      ins: "jalovcem"
+      voc: "jalovče"
+    plural: 
+      nom: "jalovce"
+      acc: "jalovce"
+      gen: "jalovcev"
+      loc: "jalovcah"
+      dat: "jalovcam"
+      ins: "jalovcami"
+      voc: "jalovce"

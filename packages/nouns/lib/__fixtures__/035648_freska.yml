@@ -1,0 +1,22 @@
+---
+  id: "35648"
+  word: "freska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "freska"
+      acc: "freskų"
+      gen: "fresky"
+      loc: "freskě"
+      dat: "freskě"
+      ins: "freskojų"
+      voc: "fresko"
+    plural: 
+      nom: "fresky"
+      acc: "fresky"
+      gen: "fresȯk"
+      loc: "freskah"
+      dat: "freskam"
+      ins: "freskami"
+      voc: "fresky"

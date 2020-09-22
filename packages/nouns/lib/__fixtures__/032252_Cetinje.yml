@@ -1,0 +1,15 @@
+---
+  id: "32252"
+  word: "Cetińje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Cetińje"
+      acc: "Cetińje"
+      gen: "Cetińja"
+      loc: "Cetińju"
+      dat: "Cetińju"
+      ins: "Cetińjem"
+      voc: "Cetińje"

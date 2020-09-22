@@ -1,0 +1,22 @@
+---
+  id: "35114"
+  word: "råzvažańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzvažańje"
+      acc: "råzvažańje"
+      gen: "råzvažańja"
+      loc: "råzvažańju"
+      dat: "råzvažańju"
+      ins: "råzvažańjem"
+      voc: "råzvažańje"
+    plural: 
+      nom: "råzvažańja"
+      acc: "råzvažańja"
+      gen: "råzvažanij"
+      loc: "råzvažańjah"
+      dat: "råzvažańjam"
+      ins: "råzvažańjami"
+      voc: "råzvažańja"

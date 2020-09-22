@@ -1,0 +1,22 @@
+---
+  id: "26123"
+  word: "individuaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "individuaľnosť"
+      acc: "individuaľnosť"
+      gen: "individuaľnosti"
+      loc: "individuaľnosti"
+      dat: "individuaľnosti"
+      ins: "individuaľnosťjų"
+      voc: "individuaľnosti"
+    plural: 
+      nom: "individuaľnosti"
+      acc: "individuaľnosti"
+      gen: "individuaľnostij"
+      loc: "individuaľnosťah"
+      dat: "individuaľnosťam"
+      ins: "individuaľnosťami"
+      voc: "individuaľnosti"

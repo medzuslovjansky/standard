@@ -1,0 +1,15 @@
+---
+  id: "12835"
+  word: "šifrovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šifrovańje"
+      acc: "šifrovańje"
+      gen: "šifrovańja"
+      loc: "šifrovańju"
+      dat: "šifrovańju"
+      ins: "šifrovańjem"
+      voc: "šifrovańje"

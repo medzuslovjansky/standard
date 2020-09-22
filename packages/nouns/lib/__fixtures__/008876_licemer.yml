@@ -1,0 +1,23 @@
+---
+  id: "8876"
+  word: "liceměr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "liceměr"
+      acc: "liceměra"
+      gen: "liceměra"
+      loc: "liceměru"
+      dat: "liceměru"
+      ins: "liceměrom"
+      voc: "liceměre"
+    plural: 
+      nom: "liceměri"
+      acc: "liceměrov"
+      gen: "liceměrov"
+      loc: "liceměrah"
+      dat: "liceměram"
+      ins: "liceměrami"
+      voc: "liceměri"

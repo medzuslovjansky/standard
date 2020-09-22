@@ -1,0 +1,23 @@
+---
+  id: "1150"
+  word: "posrědnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "posrědnik"
+      acc: "posrědnika"
+      gen: "posrědnika"
+      loc: "posrědniku"
+      dat: "posrědniku"
+      ins: "posrědnikom"
+      voc: "posrědniče"
+    plural: 
+      nom: "posrědniki"
+      acc: "posrědnikov"
+      gen: "posrědnikov"
+      loc: "posrědnikah"
+      dat: "posrědnikam"
+      ins: "posrědnikami"
+      voc: "posrědniki"

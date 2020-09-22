@@ -1,0 +1,22 @@
+---
+  id: "17474"
+  word: "hųdožstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "hųdožstvo"
+      acc: "hųdožstvo"
+      gen: "hųdožstva"
+      loc: "hųdožstvu"
+      dat: "hųdožstvu"
+      ins: "hųdožstvom"
+      voc: "hųdožstvo"
+    plural: 
+      nom: "hųdožstva"
+      acc: "hųdožstva"
+      gen: "hųdožstv"
+      loc: "hųdožstvah"
+      dat: "hųdožstvam"
+      ins: "hųdožstvami"
+      voc: "hųdožstva"

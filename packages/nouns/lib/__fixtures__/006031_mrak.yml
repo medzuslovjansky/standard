@@ -1,0 +1,22 @@
+---
+  id: "6031"
+  word: "mråk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mråk"
+      acc: "mråk"
+      gen: "mråka"
+      loc: "mråku"
+      dat: "mråku"
+      ins: "mråkom"
+      voc: "mråče"
+    plural: 
+      nom: "mråky"
+      acc: "mråky"
+      gen: "mråkov"
+      loc: "mråkah"
+      dat: "mråkam"
+      ins: "mråkami"
+      voc: "mråky"

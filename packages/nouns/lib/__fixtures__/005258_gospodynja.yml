@@ -1,0 +1,22 @@
+---
+  id: "5258"
+  word: "gospodynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gospodynja"
+      acc: "gospodynjų"
+      gen: "gospodynje"
+      loc: "gospodynji"
+      dat: "gospodynji"
+      ins: "gospodynjejų"
+      voc: "gospodynjo"
+    plural: 
+      nom: "gospodynje"
+      acc: "gospodynje"
+      gen: "gospodynej"
+      loc: "gospodynjah"
+      dat: "gospodynjam"
+      ins: "gospodynjami"
+      voc: "gospodynje"

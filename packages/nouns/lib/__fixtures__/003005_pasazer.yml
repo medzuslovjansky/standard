@@ -1,0 +1,23 @@
+---
+  id: "3005"
+  word: "pasažer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pasažer"
+      acc: "pasažera"
+      gen: "pasažera"
+      loc: "pasažeru"
+      dat: "pasažeru"
+      ins: "pasažerom"
+      voc: "pasažere"
+    plural: 
+      nom: "pasažeri"
+      acc: "pasažerov"
+      gen: "pasažerov"
+      loc: "pasažerah"
+      dat: "pasažeram"
+      ins: "pasažerami"
+      voc: "pasažeri"

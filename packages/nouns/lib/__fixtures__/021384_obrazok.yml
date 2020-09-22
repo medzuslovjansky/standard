@@ -1,0 +1,22 @@
+---
+  id: "21384"
+  word: "obrazȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrazȯk"
+      acc: "obrazȯk"
+      gen: "obrazka"
+      loc: "obrazku"
+      dat: "obrazku"
+      ins: "obrazkom"
+      voc: "obrazče"
+    plural: 
+      nom: "obrazky"
+      acc: "obrazky"
+      gen: "obrazkov"
+      loc: "obrazkah"
+      dat: "obrazkam"
+      ins: "obrazkami"
+      voc: "obrazky"

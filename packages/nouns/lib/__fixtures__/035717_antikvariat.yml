@@ -1,0 +1,22 @@
+---
+  id: "35717"
+  word: "antikvariat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "antikvariat"
+      acc: "antikvariat"
+      gen: "antikvariata"
+      loc: "antikvariatu"
+      dat: "antikvariatu"
+      ins: "antikvariatom"
+      voc: "antikvariate"
+    plural: 
+      nom: "antikvariaty"
+      acc: "antikvariaty"
+      gen: "antikvariatov"
+      loc: "antikvariatah"
+      dat: "antikvariatam"
+      ins: "antikvariatami"
+      voc: "antikvariaty"

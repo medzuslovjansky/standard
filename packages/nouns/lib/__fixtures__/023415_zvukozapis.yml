@@ -1,0 +1,22 @@
+---
+  id: "23415"
+  word: "zvųkozapis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvųkozapis"
+      acc: "zvųkozapis"
+      gen: "zvųkozapisa"
+      loc: "zvųkozapisu"
+      dat: "zvųkozapisu"
+      ins: "zvųkozapisom"
+      voc: "zvųkozapise"
+    plural: 
+      nom: "zvųkozapisy"
+      acc: "zvųkozapisy"
+      gen: "zvųkozapisov"
+      loc: "zvųkozapisah"
+      dat: "zvųkozapisam"
+      ins: "zvųkozapisami"
+      voc: "zvųkozapisy"

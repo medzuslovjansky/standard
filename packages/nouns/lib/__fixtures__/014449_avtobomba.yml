@@ -1,0 +1,22 @@
+---
+  id: "14449"
+  word: "avtobomba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtobomba"
+      acc: "avtobombų"
+      gen: "avtobomby"
+      loc: "avtobombě"
+      dat: "avtobombě"
+      ins: "avtobombojų"
+      voc: "avtobombo"
+    plural: 
+      nom: "avtobomby"
+      acc: "avtobomby"
+      gen: "avtobomb"
+      loc: "avtobombah"
+      dat: "avtobombam"
+      ins: "avtobombami"
+      voc: "avtobomby"

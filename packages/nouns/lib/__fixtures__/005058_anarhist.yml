@@ -1,0 +1,23 @@
+---
+  id: "5058"
+  word: "anarhist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "anarhist"
+      acc: "anarhista"
+      gen: "anarhista"
+      loc: "anarhistu"
+      dat: "anarhistu"
+      ins: "anarhistom"
+      voc: "anarhiste"
+    plural: 
+      nom: "anarhisti"
+      acc: "anarhistov"
+      gen: "anarhistov"
+      loc: "anarhistah"
+      dat: "anarhistam"
+      ins: "anarhistami"
+      voc: "anarhisti"

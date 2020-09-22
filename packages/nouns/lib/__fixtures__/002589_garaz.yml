@@ -1,0 +1,22 @@
+---
+  id: "2589"
+  word: "garaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "garaž"
+      acc: "garaž"
+      gen: "garaža"
+      loc: "garažu"
+      dat: "garažu"
+      ins: "garažem"
+      voc: "garažu"
+    plural: 
+      nom: "garaže"
+      acc: "garaže"
+      gen: "garažev"
+      loc: "garažah"
+      dat: "garažam"
+      ins: "garažami"
+      voc: "garaže"

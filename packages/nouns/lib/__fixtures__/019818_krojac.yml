@@ -1,0 +1,23 @@
+---
+  id: "19818"
+  word: "krojač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krojač"
+      acc: "krojača"
+      gen: "krojača"
+      loc: "krojaču"
+      dat: "krojaču"
+      ins: "krojačem"
+      voc: "krojaču"
+    plural: 
+      nom: "krojači"
+      acc: "krojačev"
+      gen: "krojačev"
+      loc: "krojačah"
+      dat: "krojačam"
+      ins: "krojačami"
+      voc: "krojači"

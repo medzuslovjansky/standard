@@ -1,0 +1,22 @@
+---
+  id: "17091"
+  word: "genitiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "genitiv"
+      acc: "genitiv"
+      gen: "genitiva"
+      loc: "genitivu"
+      dat: "genitivu"
+      ins: "genitivom"
+      voc: "genitive"
+    plural: 
+      nom: "genitivy"
+      acc: "genitivy"
+      gen: "genitivov"
+      loc: "genitivah"
+      dat: "genitivam"
+      ins: "genitivami"
+      voc: "genitivy"

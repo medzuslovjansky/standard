@@ -1,0 +1,22 @@
+---
+  id: "426"
+  word: "pěsȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pěsȯk"
+      acc: "pěsȯk"
+      gen: "pěska"
+      loc: "pěsku"
+      dat: "pěsku"
+      ins: "pěskom"
+      voc: "pěsče"
+    plural: 
+      nom: "pěsky"
+      acc: "pěsky"
+      gen: "pěskov"
+      loc: "pěskah"
+      dat: "pěskam"
+      ins: "pěskami"
+      voc: "pěsky"

@@ -1,0 +1,22 @@
+---
+  id: "6235"
+  word: "råzslědovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzslědovańje"
+      acc: "råzslědovańje"
+      gen: "råzslědovańja"
+      loc: "råzslědovańju"
+      dat: "råzslědovańju"
+      ins: "råzslědovańjem"
+      voc: "råzslědovańje"
+    plural: 
+      nom: "råzslědovańja"
+      acc: "råzslědovańja"
+      gen: "råzslědovanij"
+      loc: "råzslědovańjah"
+      dat: "råzslědovańjam"
+      ins: "råzslědovańjami"
+      voc: "råzslědovańja"

@@ -1,0 +1,22 @@
+---
+  id: "30990"
+  word: "valerianka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "valerianka"
+      acc: "valeriankų"
+      gen: "valerianky"
+      loc: "valeriankě"
+      dat: "valeriankě"
+      ins: "valeriankojų"
+      voc: "valerianko"
+    plural: 
+      nom: "valerianky"
+      acc: "valerianky"
+      gen: "valerianȯk"
+      loc: "valeriankah"
+      dat: "valeriankam"
+      ins: "valeriankami"
+      voc: "valerianky"

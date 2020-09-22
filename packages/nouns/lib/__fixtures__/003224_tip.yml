@@ -1,0 +1,22 @@
+---
+  id: "3224"
+  word: "tip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tip"
+      acc: "tip"
+      gen: "tipa"
+      loc: "tipu"
+      dat: "tipu"
+      ins: "tipom"
+      voc: "tipe"
+    plural: 
+      nom: "tipy"
+      acc: "tipy"
+      gen: "tipov"
+      loc: "tipah"
+      dat: "tipam"
+      ins: "tipami"
+      voc: "tipy"

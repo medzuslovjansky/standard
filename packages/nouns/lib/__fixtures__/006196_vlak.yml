@@ -1,0 +1,22 @@
+---
+  id: "6196"
+  word: "vlåk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vlåk"
+      acc: "vlåk"
+      gen: "vlåka"
+      loc: "vlåku"
+      dat: "vlåku"
+      ins: "vlåkom"
+      voc: "vlåče"
+    plural: 
+      nom: "vlåky"
+      acc: "vlåky"
+      gen: "vlåkov"
+      loc: "vlåkah"
+      dat: "vlåkam"
+      ins: "vlåkami"
+      voc: "vlåky"

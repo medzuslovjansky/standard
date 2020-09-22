@@ -1,0 +1,23 @@
+---
+  id: "23625"
+  word: "pȯstrųg"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pȯstrųg"
+      acc: "pȯstrųga"
+      gen: "pȯstrųga"
+      loc: "pȯstrųgu"
+      dat: "pȯstrųgu"
+      ins: "pȯstrųgom"
+      voc: "pȯstrųže"
+    plural: 
+      nom: "pȯstrųgi"
+      acc: "pȯstrųgov"
+      gen: "pȯstrųgov"
+      loc: "pȯstrųgah"
+      dat: "pȯstrųgam"
+      ins: "pȯstrųgami"
+      voc: "pȯstrųgi"

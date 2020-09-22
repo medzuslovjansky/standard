@@ -1,0 +1,22 @@
+---
+  id: "18639"
+  word: "ręsa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ręsa"
+      acc: "ręsų"
+      gen: "ręsy"
+      loc: "ręsě"
+      dat: "ręsě"
+      ins: "ręsojų"
+      voc: "ręso"
+    plural: 
+      nom: "ręsy"
+      acc: "ręsy"
+      gen: "ręs"
+      loc: "ręsah"
+      dat: "ręsam"
+      ins: "ręsami"
+      voc: "ręsy"

@@ -1,0 +1,15 @@
+---
+  id: "22438"
+  word: "Gajana"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Gajana"
+      acc: "Gajanų"
+      gen: "Gajany"
+      loc: "Gajaně"
+      dat: "Gajaně"
+      ins: "Gajanojų"
+      voc: "Gajano"

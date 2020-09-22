@@ -1,0 +1,22 @@
+---
+  id: "34675"
+  word: "kompleks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kompleks"
+      acc: "kompleks"
+      gen: "kompleksa"
+      loc: "kompleksu"
+      dat: "kompleksu"
+      ins: "kompleksom"
+      voc: "komplekse"
+    plural: 
+      nom: "kompleksy"
+      acc: "kompleksy"
+      gen: "kompleksov"
+      loc: "kompleksah"
+      dat: "kompleksam"
+      ins: "kompleksami"
+      voc: "kompleksy"

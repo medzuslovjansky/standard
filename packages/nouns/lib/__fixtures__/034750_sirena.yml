@@ -1,0 +1,22 @@
+---
+  id: "34750"
+  word: "sirena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sirena"
+      acc: "sirenų"
+      gen: "sireny"
+      loc: "sireně"
+      dat: "sireně"
+      ins: "sirenojų"
+      voc: "sireno"
+    plural: 
+      nom: "sireny"
+      acc: "sireny"
+      gen: "siren"
+      loc: "sirenah"
+      dat: "sirenam"
+      ins: "sirenami"
+      voc: "sireny"

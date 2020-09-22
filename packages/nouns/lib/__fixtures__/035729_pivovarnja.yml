@@ -1,0 +1,22 @@
+---
+  id: "35729"
+  word: "pivovarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pivovarnja"
+      acc: "pivovarnjų"
+      gen: "pivovarnje"
+      loc: "pivovarnji"
+      dat: "pivovarnji"
+      ins: "pivovarnjejų"
+      voc: "pivovarnjo"
+    plural: 
+      nom: "pivovarnje"
+      acc: "pivovarnje"
+      gen: "pivovarnej"
+      loc: "pivovarnjah"
+      dat: "pivovarnjam"
+      ins: "pivovarnjami"
+      voc: "pivovarnje"

@@ -1,0 +1,22 @@
+---
+  id: "21499"
+  word: "råvnověśje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råvnověśje"
+      acc: "råvnověśje"
+      gen: "råvnověśja"
+      loc: "råvnověśju"
+      dat: "råvnověśju"
+      ins: "råvnověśjem"
+      voc: "råvnověśje"
+    plural: 
+      nom: "råvnověśja"
+      acc: "råvnověśja"
+      gen: "råvnověsij"
+      loc: "råvnověśjah"
+      dat: "råvnověśjam"
+      ins: "råvnověśjami"
+      voc: "råvnověśja"

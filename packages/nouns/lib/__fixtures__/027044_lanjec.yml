@@ -1,0 +1,22 @@
+---
+  id: "27044"
+  word: "lanjėc"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lanjėc"
+      acc: "lanjėc"
+      gen: "lanjca"
+      loc: "lanjcu"
+      dat: "lanjcu"
+      ins: "lanjcem"
+      voc: "lanjcu"
+    plural: 
+      nom: "lanjce"
+      acc: "lanjce"
+      gen: "lanjcev"
+      loc: "lanjcah"
+      dat: "lanjcam"
+      ins: "lanjcami"
+      voc: "lanjce"

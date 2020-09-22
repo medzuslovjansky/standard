@@ -1,0 +1,22 @@
+---
+  id: "36437"
+  word: "imitacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "imitacija"
+      acc: "imitacijų"
+      gen: "imitacije"
+      loc: "imitaciji"
+      dat: "imitaciji"
+      ins: "imitacijejų"
+      voc: "imitacijo"
+    plural: 
+      nom: "imitacije"
+      acc: "imitacije"
+      gen: "imitacij"
+      loc: "imitacijah"
+      dat: "imitacijam"
+      ins: "imitacijami"
+      voc: "imitacije"

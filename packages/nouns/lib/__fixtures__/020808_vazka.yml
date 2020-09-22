@@ -1,0 +1,22 @@
+---
+  id: "20808"
+  word: "važka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "važka"
+      acc: "važkų"
+      gen: "važky"
+      loc: "važkě"
+      dat: "važkě"
+      ins: "važkojų"
+      voc: "važko"
+    plural: 
+      nom: "važky"
+      acc: "važky"
+      gen: "važek"
+      loc: "važkah"
+      dat: "važkam"
+      ins: "važkami"
+      voc: "važky"

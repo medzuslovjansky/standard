@@ -1,0 +1,22 @@
+---
+  id: "15126"
+  word: "věda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věda"
+      acc: "vědų"
+      gen: "vědy"
+      loc: "vědě"
+      dat: "vědě"
+      ins: "vědojų"
+      voc: "vědo"
+    plural: 
+      nom: "vědy"
+      acc: "vědy"
+      gen: "věd"
+      loc: "vědah"
+      dat: "vědam"
+      ins: "vědami"
+      voc: "vědy"

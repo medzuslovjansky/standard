@@ -1,0 +1,23 @@
+---
+  id: "10759"
+  word: "podpornik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podpornik"
+      acc: "podpornika"
+      gen: "podpornika"
+      loc: "podporniku"
+      dat: "podporniku"
+      ins: "podpornikom"
+      voc: "podporniče"
+    plural: 
+      nom: "podporniki"
+      acc: "podpornikov"
+      gen: "podpornikov"
+      loc: "podpornikah"
+      dat: "podpornikam"
+      ins: "podpornikami"
+      voc: "podporniki"

@@ -1,0 +1,22 @@
+---
+  id: "27937"
+  word: "načętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "načętȯk"
+      acc: "načętȯk"
+      gen: "načętka"
+      loc: "načętku"
+      dat: "načętku"
+      ins: "načętkom"
+      voc: "načętče"
+    plural: 
+      nom: "načętky"
+      acc: "načętky"
+      gen: "načętkov"
+      loc: "načętkah"
+      dat: "načętkam"
+      ins: "načętkami"
+      voc: "načętky"

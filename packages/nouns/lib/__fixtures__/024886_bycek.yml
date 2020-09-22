@@ -1,0 +1,24 @@
+---
+  id: "24886"
+  word: "byček"
+  meta: 
+    irregularity: "(byčka)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "byčėk"
+      acc: "byčka"
+      gen: "byčka"
+      loc: "byčku"
+      dat: "byčku"
+      ins: "byčkom"
+      voc: "byčče"
+    plural: 
+      nom: "byčki"
+      acc: "byčkov"
+      gen: "byčkov"
+      loc: "byčkah"
+      dat: "byčkam"
+      ins: "byčkami"
+      voc: "byčki"

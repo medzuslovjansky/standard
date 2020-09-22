@@ -1,0 +1,22 @@
+---
+  id: "5316"
+  word: "ljudskosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljudskosť"
+      acc: "ljudskosť"
+      gen: "ljudskosti"
+      loc: "ljudskosti"
+      dat: "ljudskosti"
+      ins: "ljudskosťjų"
+      voc: "ljudskosti"
+    plural: 
+      nom: "ljudskosti"
+      acc: "ljudskosti"
+      gen: "ljudskostij"
+      loc: "ljudskosťah"
+      dat: "ljudskosťam"
+      ins: "ljudskosťami"
+      voc: "ljudskosti"

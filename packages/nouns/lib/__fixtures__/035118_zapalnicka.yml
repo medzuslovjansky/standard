@@ -1,0 +1,22 @@
+---
+  id: "35118"
+  word: "zapaľnička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zapaľnička"
+      acc: "zapaľničkų"
+      gen: "zapaľničky"
+      loc: "zapaľničkě"
+      dat: "zapaľničkě"
+      ins: "zapaľničkojų"
+      voc: "zapaľničko"
+    plural: 
+      nom: "zapaľničky"
+      acc: "zapaľničky"
+      gen: "zapaľniček"
+      loc: "zapaľničkah"
+      dat: "zapaľničkam"
+      ins: "zapaľničkami"
+      voc: "zapaľničky"

@@ -1,0 +1,23 @@
+---
+  id: "16926"
+  word: "bogyni"
+  meta: 
+    irregularity: "(bogynje)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bogyni"
+      acc: "bogynjų"
+      gen: "bogynje"
+      loc: "bogynji"
+      dat: "bogynji"
+      ins: "bogynjejų"
+      voc: "bogynjo"
+    plural: 
+      nom: "bogynje"
+      acc: "bogynje"
+      gen: "bogynej"
+      loc: "bogynjah"
+      dat: "bogynjam"
+      ins: "bogynjami"
+      voc: "bogynje"

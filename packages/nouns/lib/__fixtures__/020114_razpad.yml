@@ -1,0 +1,22 @@
+---
+  id: "20114"
+  word: "råzpad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzpad"
+      acc: "råzpad"
+      gen: "råzpada"
+      loc: "råzpadu"
+      dat: "råzpadu"
+      ins: "råzpadom"
+      voc: "råzpade"
+    plural: 
+      nom: "råzpady"
+      acc: "råzpady"
+      gen: "råzpadov"
+      loc: "råzpadah"
+      dat: "råzpadam"
+      ins: "råzpadami"
+      voc: "råzpady"

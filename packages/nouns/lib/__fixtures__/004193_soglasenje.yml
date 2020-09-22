@@ -1,0 +1,45 @@
+---
+  - 
+    id: "4193"
+    word: "sȯglåšeńje"
+    meta: 
+      gender: "neuter"
+    declensions: 
+      singular: 
+        nom: "sȯglåšeńje"
+        acc: "sȯglåšeńje"
+        gen: "sȯglåšeńja"
+        loc: "sȯglåšeńju"
+        dat: "sȯglåšeńju"
+        ins: "sȯglåšeńjem"
+        voc: "sȯglåšeńje"
+      plural: 
+        nom: "sȯglåšeńja"
+        acc: "sȯglåšeńja"
+        gen: "sȯglåšenij"
+        loc: "sȯglåšeńjah"
+        dat: "sȯglåšeńjam"
+        ins: "sȯglåšeńjami"
+        voc: "sȯglåšeńja"
+  - 
+    id: "4193"
+    word: "sųglåšeńje"
+    meta: 
+      gender: "neuter"
+    declensions: 
+      singular: 
+        nom: "sųglåšeńje"
+        acc: "sųglåšeńje"
+        gen: "sųglåšeńja"
+        loc: "sųglåšeńju"
+        dat: "sųglåšeńju"
+        ins: "sųglåšeńjem"
+        voc: "sųglåšeńje"
+      plural: 
+        nom: "sųglåšeńja"
+        acc: "sųglåšeńja"
+        gen: "sųglåšenij"
+        loc: "sųglåšeńjah"
+        dat: "sųglåšeńjam"
+        ins: "sųglåšeńjami"
+        voc: "sųglåšeńja"

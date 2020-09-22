@@ -1,0 +1,22 @@
+---
+  id: "5718"
+  word: "anekdota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anekdota"
+      acc: "anekdotų"
+      gen: "anekdoty"
+      loc: "anekdotě"
+      dat: "anekdotě"
+      ins: "anekdotojų"
+      voc: "anekdoto"
+    plural: 
+      nom: "anekdoty"
+      acc: "anekdoty"
+      gen: "anekdot"
+      loc: "anekdotah"
+      dat: "anekdotam"
+      ins: "anekdotami"
+      voc: "anekdoty"

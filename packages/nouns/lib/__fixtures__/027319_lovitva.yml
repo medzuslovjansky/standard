@@ -1,0 +1,22 @@
+---
+  id: "27319"
+  word: "lovitva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lovitva"
+      acc: "lovitvų"
+      gen: "lovitvy"
+      loc: "lovitvě"
+      dat: "lovitvě"
+      ins: "lovitvojų"
+      voc: "lovitvo"
+    plural: 
+      nom: "lovitvy"
+      acc: "lovitvy"
+      gen: "lovitv"
+      loc: "lovitvah"
+      dat: "lovitvam"
+      ins: "lovitvami"
+      voc: "lovitvy"

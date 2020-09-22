@@ -1,0 +1,23 @@
+---
+  id: "23623"
+  word: "rasist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rasist"
+      acc: "rasista"
+      gen: "rasista"
+      loc: "rasistu"
+      dat: "rasistu"
+      ins: "rasistom"
+      voc: "rasiste"
+    plural: 
+      nom: "rasisti"
+      acc: "rasistov"
+      gen: "rasistov"
+      loc: "rasistah"
+      dat: "rasistam"
+      ins: "rasistami"
+      voc: "rasisti"

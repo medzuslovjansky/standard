@@ -1,0 +1,15 @@
+---
+  id: "7406"
+  word: "blizneci"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "blizneci"
+      acc: "blizneci"
+      gen: "bliznecov"
+      loc: "bliznecah"
+      dat: "bliznecam"
+      ins: "bliznecami"
+      voc: "blizneci"

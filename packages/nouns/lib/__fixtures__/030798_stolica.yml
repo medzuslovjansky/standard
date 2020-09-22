@@ -1,0 +1,22 @@
+---
+  id: "30798"
+  word: "stolica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stolica"
+      acc: "stolicų"
+      gen: "stolice"
+      loc: "stolici"
+      dat: "stolici"
+      ins: "stolicejų"
+      voc: "stolico"
+    plural: 
+      nom: "stolice"
+      acc: "stolice"
+      gen: "stolic"
+      loc: "stolicah"
+      dat: "stolicam"
+      ins: "stolicami"
+      voc: "stolice"

@@ -1,0 +1,15 @@
+---
+  id: "20890"
+  word: "morjeplavstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "morjeplavstvo"
+      acc: "morjeplavstvo"
+      gen: "morjeplavstva"
+      loc: "morjeplavstvu"
+      dat: "morjeplavstvu"
+      ins: "morjeplavstvom"
+      voc: "morjeplavstvo"

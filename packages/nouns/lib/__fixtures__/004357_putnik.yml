@@ -1,0 +1,23 @@
+---
+  id: "4357"
+  word: "pųtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pųtnik"
+      acc: "pųtnika"
+      gen: "pųtnika"
+      loc: "pųtniku"
+      dat: "pųtniku"
+      ins: "pųtnikom"
+      voc: "pųtniče"
+    plural: 
+      nom: "pųtniki"
+      acc: "pųtnikov"
+      gen: "pųtnikov"
+      loc: "pųtnikah"
+      dat: "pųtnikam"
+      ins: "pųtnikami"
+      voc: "pųtniki"

@@ -1,0 +1,22 @@
+---
+  id: "24020"
+  word: "abak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abak"
+      acc: "abak"
+      gen: "abaka"
+      loc: "abaku"
+      dat: "abaku"
+      ins: "abakom"
+      voc: "abače"
+    plural: 
+      nom: "abaky"
+      acc: "abaky"
+      gen: "abakov"
+      loc: "abakah"
+      dat: "abakam"
+      ins: "abakami"
+      voc: "abaky"

@@ -1,0 +1,22 @@
+---
+  id: "21551"
+  word: "samota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samota"
+      acc: "samotų"
+      gen: "samoty"
+      loc: "samotě"
+      dat: "samotě"
+      ins: "samotojų"
+      voc: "samoto"
+    plural: 
+      nom: "samoty"
+      acc: "samoty"
+      gen: "samot"
+      loc: "samotah"
+      dat: "samotam"
+      ins: "samotami"
+      voc: "samoty"

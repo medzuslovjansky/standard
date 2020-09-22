@@ -1,0 +1,22 @@
+---
+  id: "3223"
+  word: "sort"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sort"
+      acc: "sort"
+      gen: "sorta"
+      loc: "sortu"
+      dat: "sortu"
+      ins: "sortom"
+      voc: "sorte"
+    plural: 
+      nom: "sorty"
+      acc: "sorty"
+      gen: "sortov"
+      loc: "sortah"
+      dat: "sortam"
+      ins: "sortami"
+      voc: "sorty"

@@ -1,0 +1,22 @@
+---
+  id: "23427"
+  word: "kometa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kometa"
+      acc: "kometų"
+      gen: "komety"
+      loc: "kometě"
+      dat: "kometě"
+      ins: "kometojų"
+      voc: "kometo"
+    plural: 
+      nom: "komety"
+      acc: "komety"
+      gen: "komet"
+      loc: "kometah"
+      dat: "kometam"
+      ins: "kometami"
+      voc: "komety"

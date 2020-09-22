@@ -1,0 +1,22 @@
+---
+  id: "10534"
+  word: "pętivųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pętivųgȯľnik"
+      acc: "pętivųgȯľnik"
+      gen: "pętivųgȯľnika"
+      loc: "pętivųgȯľniku"
+      dat: "pętivųgȯľniku"
+      ins: "pętivųgȯľnikom"
+      voc: "pętivųgȯľniče"
+    plural: 
+      nom: "pętivųgȯľniky"
+      acc: "pętivųgȯľniky"
+      gen: "pętivųgȯľnikov"
+      loc: "pętivųgȯľnikah"
+      dat: "pętivųgȯľnikam"
+      ins: "pętivųgȯľnikami"
+      voc: "pętivųgȯľniky"

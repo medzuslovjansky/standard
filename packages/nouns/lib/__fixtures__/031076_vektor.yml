@@ -1,0 +1,22 @@
+---
+  id: "31076"
+  word: "vektor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vektor"
+      acc: "vektor"
+      gen: "vektora"
+      loc: "vektoru"
+      dat: "vektoru"
+      ins: "vektorom"
+      voc: "vektore"
+    plural: 
+      nom: "vektory"
+      acc: "vektory"
+      gen: "vektorov"
+      loc: "vektorah"
+      dat: "vektoram"
+      ins: "vektorami"
+      voc: "vektory"

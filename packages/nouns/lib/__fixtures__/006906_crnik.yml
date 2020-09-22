@@ -1,0 +1,23 @@
+---
+  id: "6906"
+  word: "črnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črnik"
+      acc: "črnika"
+      gen: "črnika"
+      loc: "črniku"
+      dat: "črniku"
+      ins: "črnikom"
+      voc: "črniče"
+    plural: 
+      nom: "črniki"
+      acc: "črnikov"
+      gen: "črnikov"
+      loc: "črnikah"
+      dat: "črnikam"
+      ins: "črnikami"
+      voc: "črniki"

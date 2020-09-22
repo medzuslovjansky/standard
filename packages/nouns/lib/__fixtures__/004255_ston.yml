@@ -1,0 +1,22 @@
+---
+  id: "4255"
+  word: "ston"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ston"
+      acc: "ston"
+      gen: "stona"
+      loc: "stonu"
+      dat: "stonu"
+      ins: "stonom"
+      voc: "stone"
+    plural: 
+      nom: "stony"
+      acc: "stony"
+      gen: "stonov"
+      loc: "stonah"
+      dat: "stonam"
+      ins: "stonami"
+      voc: "stony"

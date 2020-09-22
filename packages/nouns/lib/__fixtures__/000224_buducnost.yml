@@ -1,0 +1,15 @@
+---
+  id: "224"
+  word: "bųdųćnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bųdųćnosť"
+      acc: "bųdųćnosť"
+      gen: "bųdųćnosti"
+      loc: "bųdųćnosti"
+      dat: "bųdųćnosti"
+      ins: "bųdųćnosťjų"
+      voc: "bųdųćnosti"

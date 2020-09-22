@@ -1,0 +1,22 @@
+---
+  id: "16052"
+  word: "period"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "period"
+      acc: "period"
+      gen: "perioda"
+      loc: "periodu"
+      dat: "periodu"
+      ins: "periodom"
+      voc: "periode"
+    plural: 
+      nom: "periody"
+      acc: "periody"
+      gen: "periodov"
+      loc: "periodah"
+      dat: "periodam"
+      ins: "periodami"
+      voc: "periody"

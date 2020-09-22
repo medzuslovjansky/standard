@@ -1,0 +1,22 @@
+---
+  id: "19798"
+  word: "konvent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konvent"
+      acc: "konvent"
+      gen: "konventa"
+      loc: "konventu"
+      dat: "konventu"
+      ins: "konventom"
+      voc: "konvente"
+    plural: 
+      nom: "konventy"
+      acc: "konventy"
+      gen: "konventov"
+      loc: "konventah"
+      dat: "konventam"
+      ins: "konventami"
+      voc: "konventy"

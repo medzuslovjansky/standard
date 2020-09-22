@@ -1,0 +1,15 @@
+---
+  id: "31836"
+  word: "diareja"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "diareja"
+      acc: "diarejų"
+      gen: "diareje"
+      loc: "diareji"
+      dat: "diareji"
+      ins: "diarejejų"
+      voc: "diarejo"

@@ -1,0 +1,22 @@
+---
+  id: "33191"
+  word: "nasad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nasad"
+      acc: "nasad"
+      gen: "nasada"
+      loc: "nasadu"
+      dat: "nasadu"
+      ins: "nasadom"
+      voc: "nasade"
+    plural: 
+      nom: "nasady"
+      acc: "nasady"
+      gen: "nasadov"
+      loc: "nasadah"
+      dat: "nasadam"
+      ins: "nasadami"
+      voc: "nasady"

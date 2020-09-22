@@ -1,0 +1,22 @@
+---
+  id: "1245"
+  word: "hrust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hrust"
+      acc: "hrust"
+      gen: "hrusta"
+      loc: "hrustu"
+      dat: "hrustu"
+      ins: "hrustom"
+      voc: "hruste"
+    plural: 
+      nom: "hrusty"
+      acc: "hrusty"
+      gen: "hrustov"
+      loc: "hrustah"
+      dat: "hrustam"
+      ins: "hrustami"
+      voc: "hrusty"

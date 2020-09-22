@@ -1,0 +1,23 @@
+---
+  id: "413"
+  word: "fermer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fermer"
+      acc: "fermera"
+      gen: "fermera"
+      loc: "fermeru"
+      dat: "fermeru"
+      ins: "fermerom"
+      voc: "fermere"
+    plural: 
+      nom: "fermeri"
+      acc: "fermerov"
+      gen: "fermerov"
+      loc: "fermerah"
+      dat: "fermeram"
+      ins: "fermerami"
+      voc: "fermeri"

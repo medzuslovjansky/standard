@@ -1,0 +1,22 @@
+---
+  id: "25150"
+  word: "debjut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "debjut"
+      acc: "debjut"
+      gen: "debjuta"
+      loc: "debjutu"
+      dat: "debjutu"
+      ins: "debjutom"
+      voc: "debjute"
+    plural: 
+      nom: "debjuty"
+      acc: "debjuty"
+      gen: "debjutov"
+      loc: "debjutah"
+      dat: "debjutam"
+      ins: "debjutami"
+      voc: "debjuty"

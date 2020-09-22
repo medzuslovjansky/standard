@@ -1,0 +1,23 @@
+---
+  id: "9417"
+  word: "napastnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "napastnik"
+      acc: "napastnika"
+      gen: "napastnika"
+      loc: "napastniku"
+      dat: "napastniku"
+      ins: "napastnikom"
+      voc: "napastniče"
+    plural: 
+      nom: "napastniki"
+      acc: "napastnikov"
+      gen: "napastnikov"
+      loc: "napastnikah"
+      dat: "napastnikam"
+      ins: "napastnikami"
+      voc: "napastniki"

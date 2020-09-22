@@ -1,0 +1,22 @@
+---
+  id: "4995"
+  word: "jama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jama"
+      acc: "jamų"
+      gen: "jamy"
+      loc: "jamě"
+      dat: "jamě"
+      ins: "jamojų"
+      voc: "jamo"
+    plural: 
+      nom: "jamy"
+      acc: "jamy"
+      gen: "jam"
+      loc: "jamah"
+      dat: "jamam"
+      ins: "jamami"
+      voc: "jamy"

@@ -1,0 +1,15 @@
+---
+  id: "62"
+  word: "aviacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aviacija"
+      acc: "aviacijų"
+      gen: "aviacije"
+      loc: "aviaciji"
+      dat: "aviaciji"
+      ins: "aviacijejų"
+      voc: "aviacijo"

@@ -1,0 +1,22 @@
+---
+  id: "36819"
+  word: "ozdråvnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ozdråvnica"
+      acc: "ozdråvnicų"
+      gen: "ozdråvnice"
+      loc: "ozdråvnici"
+      dat: "ozdråvnici"
+      ins: "ozdråvnicejų"
+      voc: "ozdråvnico"
+    plural: 
+      nom: "ozdråvnice"
+      acc: "ozdråvnice"
+      gen: "ozdråvnic"
+      loc: "ozdråvnicah"
+      dat: "ozdråvnicam"
+      ins: "ozdråvnicami"
+      voc: "ozdråvnice"

@@ -1,0 +1,15 @@
+---
+  id: "30812"
+  word: "subjektivizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "subjektivizm"
+      acc: "subjektivizm"
+      gen: "subjektivizma"
+      loc: "subjektivizmu"
+      dat: "subjektivizmu"
+      ins: "subjektivizmom"
+      voc: "subjektivizme"

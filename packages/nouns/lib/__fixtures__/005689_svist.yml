@@ -1,0 +1,22 @@
+---
+  id: "5689"
+  word: "svist"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svist"
+      acc: "svist"
+      gen: "svista"
+      loc: "svistu"
+      dat: "svistu"
+      ins: "svistom"
+      voc: "sviste"
+    plural: 
+      nom: "svisty"
+      acc: "svisty"
+      gen: "svistov"
+      loc: "svistah"
+      dat: "svistam"
+      ins: "svistami"
+      voc: "svisty"

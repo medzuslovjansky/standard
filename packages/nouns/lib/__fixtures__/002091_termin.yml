@@ -1,0 +1,22 @@
+---
+  id: "2091"
+  word: "termin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "termin"
+      acc: "termin"
+      gen: "termina"
+      loc: "terminu"
+      dat: "terminu"
+      ins: "terminom"
+      voc: "termine"
+    plural: 
+      nom: "terminy"
+      acc: "terminy"
+      gen: "terminov"
+      loc: "terminah"
+      dat: "terminam"
+      ins: "terminami"
+      voc: "terminy"

@@ -1,0 +1,22 @@
+---
+  id: "8875"
+  word: "liceměrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "liceměrka"
+      acc: "liceměrkų"
+      gen: "liceměrky"
+      loc: "liceměrkě"
+      dat: "liceměrkě"
+      ins: "liceměrkojų"
+      voc: "liceměrko"
+    plural: 
+      nom: "liceměrky"
+      acc: "liceměrky"
+      gen: "liceměrȯk"
+      loc: "liceměrkah"
+      dat: "liceměrkam"
+      ins: "liceměrkami"
+      voc: "liceměrky"

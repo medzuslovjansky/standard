@@ -1,0 +1,22 @@
+---
+  id: "32142"
+  word: "lanjka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lanjka"
+      acc: "lanjkų"
+      gen: "lanjky"
+      loc: "lanjkě"
+      dat: "lanjkě"
+      ins: "lanjkojų"
+      voc: "lanjko"
+    plural: 
+      nom: "lanjky"
+      acc: "lanjky"
+      gen: "lanjek"
+      loc: "lanjkah"
+      dat: "lanjkam"
+      ins: "lanjkami"
+      voc: "lanjky"

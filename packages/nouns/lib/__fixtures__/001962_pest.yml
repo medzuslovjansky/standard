@@ -1,0 +1,22 @@
+---
+  id: "1962"
+  word: "pęsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pęsť"
+      acc: "pęsť"
+      gen: "pęsti"
+      loc: "pęsti"
+      dat: "pęsti"
+      ins: "pęsťjų"
+      voc: "pęsti"
+    plural: 
+      nom: "pęsti"
+      acc: "pęsti"
+      gen: "pęstij"
+      loc: "pęsťah"
+      dat: "pęsťam"
+      ins: "pęsťami"
+      voc: "pęsti"

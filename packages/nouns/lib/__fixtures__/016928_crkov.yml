@@ -1,0 +1,22 @@
+---
+  id: "16928"
+  word: "crkȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "crkȯv"
+      acc: "crkȯv"
+      gen: "crkve / crkvi"
+      loc: "crkvi"
+      dat: "crkvi"
+      ins: "crkȯvjų"
+      voc: "crkȯv"
+    plural: 
+      nom: "crkvi"
+      acc: "crkvi"
+      gen: "crkvij"
+      loc: "crkvah"
+      dat: "crkvam"
+      ins: "crkvami"
+      voc: "crkvi"

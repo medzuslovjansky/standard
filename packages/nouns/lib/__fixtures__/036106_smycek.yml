@@ -1,0 +1,22 @@
+---
+  id: "36106"
+  word: "smyček"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smyček"
+      acc: "smyček"
+      gen: "smyčeka"
+      loc: "smyčeku"
+      dat: "smyčeku"
+      ins: "smyčekom"
+      voc: "smyčeče"
+    plural: 
+      nom: "smyčeky"
+      acc: "smyčeky"
+      gen: "smyčekov"
+      loc: "smyčekah"
+      dat: "smyčekam"
+      ins: "smyčekami"
+      voc: "smyčeky"

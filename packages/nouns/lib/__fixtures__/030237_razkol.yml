@@ -1,0 +1,22 @@
+---
+  id: "30237"
+  word: "råzkol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzkol"
+      acc: "råzkol"
+      gen: "råzkola"
+      loc: "råzkolu"
+      dat: "råzkolu"
+      ins: "råzkolom"
+      voc: "råzkole"
+    plural: 
+      nom: "råzkoly"
+      acc: "råzkoly"
+      gen: "råzkolov"
+      loc: "råzkolah"
+      dat: "råzkolam"
+      ins: "råzkolami"
+      voc: "råzkoly"

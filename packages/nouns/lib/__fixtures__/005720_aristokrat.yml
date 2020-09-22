@@ -1,0 +1,23 @@
+---
+  id: "5720"
+  word: "aristokrat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "aristokrat"
+      acc: "aristokrata"
+      gen: "aristokrata"
+      loc: "aristokratu"
+      dat: "aristokratu"
+      ins: "aristokratom"
+      voc: "aristokrate"
+    plural: 
+      nom: "aristokrati"
+      acc: "aristokratov"
+      gen: "aristokratov"
+      loc: "aristokratah"
+      dat: "aristokratam"
+      ins: "aristokratami"
+      voc: "aristokrati"

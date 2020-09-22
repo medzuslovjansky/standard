@@ -1,0 +1,22 @@
+---
+  id: "26155"
+  word: "izbava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izbava"
+      acc: "izbavų"
+      gen: "izbavy"
+      loc: "izbavě"
+      dat: "izbavě"
+      ins: "izbavojų"
+      voc: "izbavo"
+    plural: 
+      nom: "izbavy"
+      acc: "izbavy"
+      gen: "izbav"
+      loc: "izbavah"
+      dat: "izbavam"
+      ins: "izbavami"
+      voc: "izbavy"

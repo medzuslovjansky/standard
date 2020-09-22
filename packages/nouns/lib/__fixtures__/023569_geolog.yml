@@ -1,0 +1,23 @@
+---
+  id: "23569"
+  word: "geolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "geolog"
+      acc: "geologa"
+      gen: "geologa"
+      loc: "geologu"
+      dat: "geologu"
+      ins: "geologom"
+      voc: "geolože"
+    plural: 
+      nom: "geologi"
+      acc: "geologov"
+      gen: "geologov"
+      loc: "geologah"
+      dat: "geologam"
+      ins: "geologami"
+      voc: "geologi"

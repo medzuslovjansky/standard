@@ -1,0 +1,22 @@
+---
+  id: "32762"
+  word: "vulgarnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vulgarnosť"
+      acc: "vulgarnosť"
+      gen: "vulgarnosti"
+      loc: "vulgarnosti"
+      dat: "vulgarnosti"
+      ins: "vulgarnosťjų"
+      voc: "vulgarnosti"
+    plural: 
+      nom: "vulgarnosti"
+      acc: "vulgarnosti"
+      gen: "vulgarnostij"
+      loc: "vulgarnosťah"
+      dat: "vulgarnosťam"
+      ins: "vulgarnosťami"
+      voc: "vulgarnosti"

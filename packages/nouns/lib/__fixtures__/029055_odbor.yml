@@ -1,0 +1,22 @@
+---
+  id: "29055"
+  word: "odbor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odbor"
+      acc: "odbor"
+      gen: "odbora"
+      loc: "odboru"
+      dat: "odboru"
+      ins: "odborom"
+      voc: "odbore"
+    plural: 
+      nom: "odbory"
+      acc: "odbory"
+      gen: "odborov"
+      loc: "odborah"
+      dat: "odboram"
+      ins: "odborami"
+      voc: "odbory"

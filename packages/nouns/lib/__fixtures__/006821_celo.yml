@@ -1,0 +1,22 @@
+---
+  id: "6821"
+  word: "čelo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čelo"
+      acc: "čelo"
+      gen: "čela"
+      loc: "čelu"
+      dat: "čelu"
+      ins: "čelom"
+      voc: "čelo"
+    plural: 
+      nom: "čela"
+      acc: "čela"
+      gen: "čel"
+      loc: "čelah"
+      dat: "čelam"
+      ins: "čelami"
+      voc: "čela"

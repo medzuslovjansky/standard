@@ -1,0 +1,23 @@
+---
+  id: "17490"
+  word: "insekt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "insekt"
+      acc: "insekta"
+      gen: "insekta"
+      loc: "insektu"
+      dat: "insektu"
+      ins: "insektom"
+      voc: "insekte"
+    plural: 
+      nom: "insekti"
+      acc: "insektov"
+      gen: "insektov"
+      loc: "insektah"
+      dat: "insektam"
+      ins: "insektami"
+      voc: "insekti"

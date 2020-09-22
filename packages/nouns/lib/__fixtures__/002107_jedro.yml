@@ -1,0 +1,22 @@
+---
+  id: "2107"
+  word: "jędro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jędro"
+      acc: "jędro"
+      gen: "jędra"
+      loc: "jędru"
+      dat: "jędru"
+      ins: "jędrom"
+      voc: "jędro"
+    plural: 
+      nom: "jędra"
+      acc: "jędra"
+      gen: "jędr"
+      loc: "jędrah"
+      dat: "jędram"
+      ins: "jędrami"
+      voc: "jędra"

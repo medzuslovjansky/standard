@@ -1,0 +1,22 @@
+---
+  id: "1464"
+  word: "životina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "životina"
+      acc: "životinų"
+      gen: "životiny"
+      loc: "životině"
+      dat: "životině"
+      ins: "životinojų"
+      voc: "životino"
+    plural: 
+      nom: "životiny"
+      acc: "životiny"
+      gen: "životin"
+      loc: "životinah"
+      dat: "životinam"
+      ins: "životinami"
+      voc: "životiny"

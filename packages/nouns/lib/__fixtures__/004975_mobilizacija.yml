@@ -1,0 +1,22 @@
+---
+  id: "4975"
+  word: "mobilizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mobilizacija"
+      acc: "mobilizacijų"
+      gen: "mobilizacije"
+      loc: "mobilizaciji"
+      dat: "mobilizaciji"
+      ins: "mobilizacijejų"
+      voc: "mobilizacijo"
+    plural: 
+      nom: "mobilizacije"
+      acc: "mobilizacije"
+      gen: "mobilizacij"
+      loc: "mobilizacijah"
+      dat: "mobilizacijam"
+      ins: "mobilizacijami"
+      voc: "mobilizacije"

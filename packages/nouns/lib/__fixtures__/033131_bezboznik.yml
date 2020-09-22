@@ -1,0 +1,23 @@
+---
+  id: "33131"
+  word: "bezbožnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bezbožnik"
+      acc: "bezbožnika"
+      gen: "bezbožnika"
+      loc: "bezbožniku"
+      dat: "bezbožniku"
+      ins: "bezbožnikom"
+      voc: "bezbožniče"
+    plural: 
+      nom: "bezbožniki"
+      acc: "bezbožnikov"
+      gen: "bezbožnikov"
+      loc: "bezbožnikah"
+      dat: "bezbožnikam"
+      ins: "bezbožnikami"
+      voc: "bezbožniki"

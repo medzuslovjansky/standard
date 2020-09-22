@@ -1,0 +1,22 @@
+---
+  id: "82"
+  word: "avtobus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtobus"
+      acc: "avtobus"
+      gen: "avtobusa"
+      loc: "avtobusu"
+      dat: "avtobusu"
+      ins: "avtobusom"
+      voc: "avtobuse"
+    plural: 
+      nom: "avtobusy"
+      acc: "avtobusy"
+      gen: "avtobusov"
+      loc: "avtobusah"
+      dat: "avtobusam"
+      ins: "avtobusami"
+      voc: "avtobusy"

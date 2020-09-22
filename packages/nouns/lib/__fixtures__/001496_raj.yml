@@ -1,0 +1,22 @@
+---
+  id: "1496"
+  word: "raj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "raj"
+      acc: "raj"
+      gen: "raja"
+      loc: "raju"
+      dat: "raju"
+      ins: "rajem"
+      voc: "raju"
+    plural: 
+      nom: "raje"
+      acc: "raje"
+      gen: "rajev"
+      loc: "rajah"
+      dat: "rajam"
+      ins: "rajami"
+      voc: "raje"

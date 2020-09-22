@@ -1,0 +1,15 @@
+---
+  id: "8583"
+  word: "konservatizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "konservatizm"
+      acc: "konservatizm"
+      gen: "konservatizma"
+      loc: "konservatizmu"
+      dat: "konservatizmu"
+      ins: "konservatizmom"
+      voc: "konservatizme"

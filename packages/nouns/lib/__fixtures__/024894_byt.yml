@@ -1,0 +1,15 @@
+---
+  id: "24894"
+  word: "byt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "byt"
+      acc: "byt"
+      gen: "byta"
+      loc: "bytu"
+      dat: "bytu"
+      ins: "bytom"
+      voc: "byte"

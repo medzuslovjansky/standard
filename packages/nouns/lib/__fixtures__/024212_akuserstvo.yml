@@ -1,0 +1,15 @@
+---
+  id: "24212"
+  word: "akušerstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akušerstvo"
+      acc: "akušerstvo"
+      gen: "akušerstva"
+      loc: "akušerstvu"
+      dat: "akušerstvu"
+      ins: "akušerstvom"
+      voc: "akušerstvo"

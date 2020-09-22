@@ -1,0 +1,22 @@
+---
+  id: "3035"
+  word: "vizita"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vizita"
+      acc: "vizitų"
+      gen: "vizity"
+      loc: "vizitě"
+      dat: "vizitě"
+      ins: "vizitojų"
+      voc: "vizito"
+    plural: 
+      nom: "vizity"
+      acc: "vizity"
+      gen: "vizit"
+      loc: "vizitah"
+      dat: "vizitam"
+      ins: "vizitami"
+      voc: "vizity"

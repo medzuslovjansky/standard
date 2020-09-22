@@ -1,0 +1,22 @@
+---
+  id: "9885"
+  word: "obrųčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obrųčka"
+      acc: "obrųčkų"
+      gen: "obrųčky"
+      loc: "obrųčkě"
+      dat: "obrųčkě"
+      ins: "obrųčkojų"
+      voc: "obrųčko"
+    plural: 
+      nom: "obrųčky"
+      acc: "obrųčky"
+      gen: "obrųček"
+      loc: "obrųčkah"
+      dat: "obrųčkam"
+      ins: "obrųčkami"
+      voc: "obrųčky"

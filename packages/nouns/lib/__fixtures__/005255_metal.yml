@@ -1,0 +1,22 @@
+---
+  id: "5255"
+  word: "metal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "metal"
+      acc: "metal"
+      gen: "metala"
+      loc: "metalu"
+      dat: "metalu"
+      ins: "metalom"
+      voc: "metale"
+    plural: 
+      nom: "metaly"
+      acc: "metaly"
+      gen: "metalov"
+      loc: "metalah"
+      dat: "metalam"
+      ins: "metalami"
+      voc: "metaly"

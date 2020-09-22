@@ -1,0 +1,15 @@
+---
+  id: "28508"
+  word: "neręd"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neręd"
+      acc: "neręd"
+      gen: "neręda"
+      loc: "nerędu"
+      dat: "nerędu"
+      ins: "nerędom"
+      voc: "neręde"

@@ -1,0 +1,22 @@
+---
+  id: "21155"
+  word: "spręžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "spręžeńje"
+      acc: "spręžeńje"
+      gen: "spręžeńja"
+      loc: "spręžeńju"
+      dat: "spręžeńju"
+      ins: "spręžeńjem"
+      voc: "spręžeńje"
+    plural: 
+      nom: "spręžeńja"
+      acc: "spręžeńja"
+      gen: "spręženij"
+      loc: "spręžeńjah"
+      dat: "spręžeńjam"
+      ins: "spręžeńjami"
+      voc: "spręžeńja"

@@ -1,0 +1,22 @@
+---
+  id: "32059"
+  word: "pornografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pornografija"
+      acc: "pornografijų"
+      gen: "pornografije"
+      loc: "pornografiji"
+      dat: "pornografiji"
+      ins: "pornografijejų"
+      voc: "pornografijo"
+    plural: 
+      nom: "pornografije"
+      acc: "pornografije"
+      gen: "pornografij"
+      loc: "pornografijah"
+      dat: "pornografijam"
+      ins: "pornografijami"
+      voc: "pornografije"

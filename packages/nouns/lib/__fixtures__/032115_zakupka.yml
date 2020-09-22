@@ -1,0 +1,22 @@
+---
+  id: "32115"
+  word: "zakupka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zakupka"
+      acc: "zakupkų"
+      gen: "zakupky"
+      loc: "zakupkě"
+      dat: "zakupkě"
+      ins: "zakupkojų"
+      voc: "zakupko"
+    plural: 
+      nom: "zakupky"
+      acc: "zakupky"
+      gen: "zakupȯk"
+      loc: "zakupkah"
+      dat: "zakupkam"
+      ins: "zakupkami"
+      voc: "zakupky"

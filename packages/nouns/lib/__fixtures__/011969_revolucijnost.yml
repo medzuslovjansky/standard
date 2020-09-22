@@ -1,0 +1,22 @@
+---
+  id: "11969"
+  word: "revolucijnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "revolucijnosť"
+      acc: "revolucijnosť"
+      gen: "revolucijnosti"
+      loc: "revolucijnosti"
+      dat: "revolucijnosti"
+      ins: "revolucijnosťjų"
+      voc: "revolucijnosti"
+    plural: 
+      nom: "revolucijnosti"
+      acc: "revolucijnosti"
+      gen: "revolucijnostij"
+      loc: "revolucijnosťah"
+      dat: "revolucijnosťam"
+      ins: "revolucijnosťami"
+      voc: "revolucijnosti"

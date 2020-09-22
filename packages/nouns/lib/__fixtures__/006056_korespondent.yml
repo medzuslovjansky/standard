@@ -1,0 +1,23 @@
+---
+  id: "6056"
+  word: "korespondent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "korespondent"
+      acc: "korespondenta"
+      gen: "korespondenta"
+      loc: "korespondentu"
+      dat: "korespondentu"
+      ins: "korespondentom"
+      voc: "korespondente"
+    plural: 
+      nom: "korespondenti"
+      acc: "korespondentov"
+      gen: "korespondentov"
+      loc: "korespondentah"
+      dat: "korespondentam"
+      ins: "korespondentami"
+      voc: "korespondenti"

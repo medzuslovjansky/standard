@@ -1,0 +1,22 @@
+---
+  id: "35698"
+  word: "pravosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravosť"
+      acc: "pravosť"
+      gen: "pravosti"
+      loc: "pravosti"
+      dat: "pravosti"
+      ins: "pravosťjų"
+      voc: "pravosti"
+    plural: 
+      nom: "pravosti"
+      acc: "pravosti"
+      gen: "pravostij"
+      loc: "pravosťah"
+      dat: "pravosťam"
+      ins: "pravosťami"
+      voc: "pravosti"

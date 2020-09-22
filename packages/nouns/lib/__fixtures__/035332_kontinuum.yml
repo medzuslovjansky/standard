@@ -1,0 +1,22 @@
+---
+  id: "35332"
+  word: "kontinuum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontinuum"
+      acc: "kontinuum"
+      gen: "kontinuuma"
+      loc: "kontinuumu"
+      dat: "kontinuumu"
+      ins: "kontinuumom"
+      voc: "kontinuum"
+    plural: 
+      nom: "kontinuuma"
+      acc: "kontinuuma"
+      gen: "kontinuum"
+      loc: "kontinuumah"
+      dat: "kontinuumam"
+      ins: "kontinuumami"
+      voc: "kontinuuma"

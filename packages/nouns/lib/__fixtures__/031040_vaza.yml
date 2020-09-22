@@ -1,0 +1,22 @@
+---
+  id: "31040"
+  word: "vaza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vaza"
+      acc: "vazų"
+      gen: "vazy"
+      loc: "vazě"
+      dat: "vazě"
+      ins: "vazojų"
+      voc: "vazo"
+    plural: 
+      nom: "vazy"
+      acc: "vazy"
+      gen: "vaz"
+      loc: "vazah"
+      dat: "vazam"
+      ins: "vazami"
+      voc: "vazy"

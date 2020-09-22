@@ -1,0 +1,22 @@
+---
+  id: "8177"
+  word: "izzȯv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izzȯv"
+      acc: "izzȯv"
+      gen: "izzva"
+      loc: "izzvu"
+      dat: "izzvu"
+      ins: "izzvom"
+      voc: "izzve"
+    plural: 
+      nom: "izzvy"
+      acc: "izzvy"
+      gen: "izzvov"
+      loc: "izzvah"
+      dat: "izzvam"
+      ins: "izzvami"
+      voc: "izzvy"

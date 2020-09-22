@@ -1,0 +1,45 @@
+---
+  - 
+    id: "383"
+    word: "malpa"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "malpa"
+        acc: "malpų"
+        gen: "malpy"
+        loc: "malpě"
+        dat: "malpě"
+        ins: "malpojų"
+        voc: "malpo"
+      plural: 
+        nom: "malpy"
+        acc: "malpy"
+        gen: "malp"
+        loc: "malpah"
+        dat: "malpam"
+        ins: "malpami"
+        voc: "malpy"
+  - 
+    id: "383"
+    word: "malpica"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "malpica"
+        acc: "malpicų"
+        gen: "malpice"
+        loc: "malpici"
+        dat: "malpici"
+        ins: "malpicejų"
+        voc: "malpico"
+      plural: 
+        nom: "malpice"
+        acc: "malpice"
+        gen: "malpic"
+        loc: "malpicah"
+        dat: "malpicam"
+        ins: "malpicami"
+        voc: "malpice"

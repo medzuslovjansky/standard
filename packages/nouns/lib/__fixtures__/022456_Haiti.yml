@@ -1,0 +1,23 @@
+---
+  id: "22456"
+  word: "Haiti"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "Haiti"
+      acc: "Haiti"
+      gen: "Haiti"
+      loc: "Haiti"
+      dat: "Haiti"
+      ins: "Haiti"
+      voc: "Haiti"
+    plural: 
+      nom: "Haiti"
+      acc: "Haiti"
+      gen: "Haiti"
+      loc: "Haiti"
+      dat: "Haiti"
+      ins: "Haiti"
+      voc: "Haiti"

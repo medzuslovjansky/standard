@@ -1,0 +1,23 @@
+---
+  id: "24356"
+  word: "aviator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "aviator"
+      acc: "aviatora"
+      gen: "aviatora"
+      loc: "aviatoru"
+      dat: "aviatoru"
+      ins: "aviatorom"
+      voc: "aviatore"
+    plural: 
+      nom: "aviatori"
+      acc: "aviatorov"
+      gen: "aviatorov"
+      loc: "aviatorah"
+      dat: "aviatoram"
+      ins: "aviatorami"
+      voc: "aviatori"

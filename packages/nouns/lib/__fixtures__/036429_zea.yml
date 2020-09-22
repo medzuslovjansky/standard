@@ -1,0 +1,22 @@
+---
+  id: "36429"
+  word: "žęđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žęđa"
+      acc: "žęđų"
+      gen: "žęđy"
+      loc: "žęđě"
+      dat: "žęđě"
+      ins: "žęđojų"
+      voc: "žęđo"
+    plural: 
+      nom: "žęđy"
+      acc: "žęđy"
+      gen: "žęđ"
+      loc: "žęđah"
+      dat: "žęđam"
+      ins: "žęđami"
+      voc: "žęđy"

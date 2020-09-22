@@ -1,0 +1,22 @@
+---
+  id: "1460"
+  word: "povstańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "povstańje"
+      acc: "povstańje"
+      gen: "povstańja"
+      loc: "povstańju"
+      dat: "povstańju"
+      ins: "povstańjem"
+      voc: "povstańje"
+    plural: 
+      nom: "povstańja"
+      acc: "povstańja"
+      gen: "povstanij"
+      loc: "povstańjah"
+      dat: "povstańjam"
+      ins: "povstańjami"
+      voc: "povstańja"

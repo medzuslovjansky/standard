@@ -1,0 +1,23 @@
+---
+  id: "32505"
+  word: "mråvojed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mråvojed"
+      acc: "mråvojeda"
+      gen: "mråvojeda"
+      loc: "mråvojedu"
+      dat: "mråvojedu"
+      ins: "mråvojedom"
+      voc: "mråvojede"
+    plural: 
+      nom: "mråvojedi"
+      acc: "mråvojedov"
+      gen: "mråvojedov"
+      loc: "mråvojedah"
+      dat: "mråvojedam"
+      ins: "mråvojedami"
+      voc: "mråvojedi"

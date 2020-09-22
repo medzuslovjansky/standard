@@ -1,0 +1,22 @@
+---
+  id: "21949"
+  word: "odstųp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odstųp"
+      acc: "odstųp"
+      gen: "odstųpa"
+      loc: "odstųpu"
+      dat: "odstųpu"
+      ins: "odstųpom"
+      voc: "odstųpe"
+    plural: 
+      nom: "odstųpy"
+      acc: "odstųpy"
+      gen: "odstųpov"
+      loc: "odstųpah"
+      dat: "odstųpam"
+      ins: "odstųpami"
+      voc: "odstųpy"

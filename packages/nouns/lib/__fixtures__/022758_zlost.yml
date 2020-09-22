@@ -1,0 +1,22 @@
+---
+  id: "22758"
+  word: "zlosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zlosť"
+      acc: "zlosť"
+      gen: "zlosti"
+      loc: "zlosti"
+      dat: "zlosti"
+      ins: "zlosťjų"
+      voc: "zlosti"
+    plural: 
+      nom: "zlosti"
+      acc: "zlosti"
+      gen: "zlostij"
+      loc: "zlosťah"
+      dat: "zlosťam"
+      ins: "zlosťami"
+      voc: "zlosti"

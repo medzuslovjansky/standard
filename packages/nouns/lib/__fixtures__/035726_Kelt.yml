@@ -1,0 +1,23 @@
+---
+  id: "35726"
+  word: "Kelt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Kelt"
+      acc: "Kelta"
+      gen: "Kelta"
+      loc: "Keltu"
+      dat: "Keltu"
+      ins: "Keltom"
+      voc: "Kelte"
+    plural: 
+      nom: "Kelti"
+      acc: "Keltov"
+      gen: "Keltov"
+      loc: "Keltah"
+      dat: "Keltam"
+      ins: "Keltami"
+      voc: "Kelti"

@@ -1,0 +1,22 @@
+---
+  id: "282"
+  word: "jablȯko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jablȯko"
+      acc: "jablȯko"
+      gen: "jablka"
+      loc: "jablku"
+      dat: "jablku"
+      ins: "jablkom"
+      voc: "jablȯko"
+    plural: 
+      nom: "jablka"
+      acc: "jablka"
+      gen: "jablȯk"
+      loc: "jablkah"
+      dat: "jablkam"
+      ins: "jablkami"
+      voc: "jablka"

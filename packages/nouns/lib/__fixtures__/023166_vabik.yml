@@ -1,0 +1,22 @@
+---
+  id: "23166"
+  word: "vabik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vabik"
+      acc: "vabik"
+      gen: "vabika"
+      loc: "vabiku"
+      dat: "vabiku"
+      ins: "vabikom"
+      voc: "vabiče"
+    plural: 
+      nom: "vabiky"
+      acc: "vabiky"
+      gen: "vabikov"
+      loc: "vabikah"
+      dat: "vabikam"
+      ins: "vabikami"
+      voc: "vabiky"

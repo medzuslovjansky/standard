@@ -1,0 +1,22 @@
+---
+  id: "31205"
+  word: "vinjetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vinjetka"
+      acc: "vinjetkų"
+      gen: "vinjetky"
+      loc: "vinjetkě"
+      dat: "vinjetkě"
+      ins: "vinjetkojų"
+      voc: "vinjetko"
+    plural: 
+      nom: "vinjetky"
+      acc: "vinjetky"
+      gen: "vinjetȯk"
+      loc: "vinjetkah"
+      dat: "vinjetkam"
+      ins: "vinjetkami"
+      voc: "vinjetky"

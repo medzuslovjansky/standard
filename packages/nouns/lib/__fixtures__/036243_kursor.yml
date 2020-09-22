@@ -1,0 +1,22 @@
+---
+  id: "36243"
+  word: "kursor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kursor"
+      acc: "kursor"
+      gen: "kursora"
+      loc: "kursoru"
+      dat: "kursoru"
+      ins: "kursorom"
+      voc: "kursore"
+    plural: 
+      nom: "kursory"
+      acc: "kursory"
+      gen: "kursorov"
+      loc: "kursorah"
+      dat: "kursoram"
+      ins: "kursorami"
+      voc: "kursory"

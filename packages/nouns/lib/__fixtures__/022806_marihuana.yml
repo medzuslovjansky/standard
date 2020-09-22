@@ -1,0 +1,22 @@
+---
+  id: "22806"
+  word: "marihuana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marihuana"
+      acc: "marihuanų"
+      gen: "marihuany"
+      loc: "marihuaně"
+      dat: "marihuaně"
+      ins: "marihuanojų"
+      voc: "marihuano"
+    plural: 
+      nom: "marihuany"
+      acc: "marihuany"
+      gen: "marihuan"
+      loc: "marihuanah"
+      dat: "marihuanam"
+      ins: "marihuanami"
+      voc: "marihuany"

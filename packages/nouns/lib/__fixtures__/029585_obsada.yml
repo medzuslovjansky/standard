@@ -1,0 +1,22 @@
+---
+  id: "29585"
+  word: "obsada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obsada"
+      acc: "obsadų"
+      gen: "obsady"
+      loc: "obsadě"
+      dat: "obsadě"
+      ins: "obsadojų"
+      voc: "obsado"
+    plural: 
+      nom: "obsady"
+      acc: "obsady"
+      gen: "obsad"
+      loc: "obsadah"
+      dat: "obsadam"
+      ins: "obsadami"
+      voc: "obsady"

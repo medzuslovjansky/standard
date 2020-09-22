@@ -1,0 +1,22 @@
+---
+  id: "14454"
+  word: "bȯčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bȯčka"
+      acc: "bȯčkų"
+      gen: "bȯčky"
+      loc: "bȯčkě"
+      dat: "bȯčkě"
+      ins: "bȯčkojų"
+      voc: "bȯčko"
+    plural: 
+      nom: "bȯčky"
+      acc: "bȯčky"
+      gen: "bȯček"
+      loc: "bȯčkah"
+      dat: "bȯčkam"
+      ins: "bȯčkami"
+      voc: "bȯčky"

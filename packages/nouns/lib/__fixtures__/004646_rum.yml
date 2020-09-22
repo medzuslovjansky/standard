@@ -1,0 +1,22 @@
+---
+  id: "4646"
+  word: "rum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rum"
+      acc: "rum"
+      gen: "ruma"
+      loc: "rumu"
+      dat: "rumu"
+      ins: "rumom"
+      voc: "rum"
+    plural: 
+      nom: "ruma"
+      acc: "ruma"
+      gen: "rum"
+      loc: "rumah"
+      dat: "rumam"
+      ins: "rumami"
+      voc: "ruma"

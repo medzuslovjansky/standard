@@ -1,0 +1,22 @@
+---
+  id: "25173"
+  word: "degustacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "degustacija"
+      acc: "degustacijų"
+      gen: "degustacije"
+      loc: "degustaciji"
+      dat: "degustaciji"
+      ins: "degustacijejų"
+      voc: "degustacijo"
+    plural: 
+      nom: "degustacije"
+      acc: "degustacije"
+      gen: "degustacij"
+      loc: "degustacijah"
+      dat: "degustacijam"
+      ins: "degustacijami"
+      voc: "degustacije"

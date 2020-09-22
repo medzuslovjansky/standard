@@ -1,0 +1,22 @@
+---
+  id: "36164"
+  word: "krajec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krajec"
+      acc: "krajec"
+      gen: "krajca"
+      loc: "krajcu"
+      dat: "krajcu"
+      ins: "krajcem"
+      voc: "krajče"
+    plural: 
+      nom: "krajce"
+      acc: "krajce"
+      gen: "krajcev"
+      loc: "krajcah"
+      dat: "krajcam"
+      ins: "krajcami"
+      voc: "krajce"

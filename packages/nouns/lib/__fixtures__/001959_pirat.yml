@@ -1,0 +1,23 @@
+---
+  id: "1959"
+  word: "pirat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pirat"
+      acc: "pirata"
+      gen: "pirata"
+      loc: "piratu"
+      dat: "piratu"
+      ins: "piratom"
+      voc: "pirate"
+    plural: 
+      nom: "pirati"
+      acc: "piratov"
+      gen: "piratov"
+      loc: "piratah"
+      dat: "piratam"
+      ins: "piratami"
+      voc: "pirati"

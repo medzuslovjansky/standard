@@ -1,0 +1,22 @@
+---
+  id: "23773"
+  word: "paravan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "paravan"
+      acc: "paravan"
+      gen: "paravana"
+      loc: "paravanu"
+      dat: "paravanu"
+      ins: "paravanom"
+      voc: "paravane"
+    plural: 
+      nom: "paravany"
+      acc: "paravany"
+      gen: "paravanov"
+      loc: "paravanah"
+      dat: "paravanam"
+      ins: "paravanami"
+      voc: "paravany"

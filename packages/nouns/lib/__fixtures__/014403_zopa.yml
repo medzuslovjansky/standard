@@ -1,0 +1,22 @@
+---
+  id: "14403"
+  word: "žopa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žopa"
+      acc: "žopų"
+      gen: "žopy"
+      loc: "žopě"
+      dat: "žopě"
+      ins: "žopojų"
+      voc: "žopo"
+    plural: 
+      nom: "žopy"
+      acc: "žopy"
+      gen: "žop"
+      loc: "žopah"
+      dat: "žopam"
+      ins: "žopami"
+      voc: "žopy"

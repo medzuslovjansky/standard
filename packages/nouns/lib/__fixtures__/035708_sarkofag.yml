@@ -1,0 +1,22 @@
+---
+  id: "35708"
+  word: "sarkofag"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sarkofag"
+      acc: "sarkofag"
+      gen: "sarkofaga"
+      loc: "sarkofagu"
+      dat: "sarkofagu"
+      ins: "sarkofagom"
+      voc: "sarkofaže"
+    plural: 
+      nom: "sarkofagy"
+      acc: "sarkofagy"
+      gen: "sarkofagov"
+      loc: "sarkofagah"
+      dat: "sarkofagam"
+      ins: "sarkofagami"
+      voc: "sarkofagy"

@@ -1,0 +1,22 @@
+---
+  id: "165"
+  word: "katedrala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "katedrala"
+      acc: "katedralų"
+      gen: "katedraly"
+      loc: "katedralě"
+      dat: "katedralě"
+      ins: "katedralojų"
+      voc: "katedralo"
+    plural: 
+      nom: "katedraly"
+      acc: "katedraly"
+      gen: "katedral"
+      loc: "katedralah"
+      dat: "katedralam"
+      ins: "katedralami"
+      voc: "katedraly"

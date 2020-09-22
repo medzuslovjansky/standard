@@ -1,0 +1,22 @@
+---
+  id: "22161"
+  word: "navyk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "navyk"
+      acc: "navyk"
+      gen: "navyka"
+      loc: "navyku"
+      dat: "navyku"
+      ins: "navykom"
+      voc: "navyče"
+    plural: 
+      nom: "navyky"
+      acc: "navyky"
+      gen: "navykov"
+      loc: "navykah"
+      dat: "navykam"
+      ins: "navykami"
+      voc: "navyky"

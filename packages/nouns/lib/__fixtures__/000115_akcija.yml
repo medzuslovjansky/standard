@@ -1,0 +1,22 @@
+---
+  id: "115"
+  word: "akcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akcija"
+      acc: "akcijų"
+      gen: "akcije"
+      loc: "akciji"
+      dat: "akciji"
+      ins: "akcijejų"
+      voc: "akcijo"
+    plural: 
+      nom: "akcije"
+      acc: "akcije"
+      gen: "akcij"
+      loc: "akcijah"
+      dat: "akcijam"
+      ins: "akcijami"
+      voc: "akcije"

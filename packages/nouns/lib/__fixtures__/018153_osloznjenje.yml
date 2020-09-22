@@ -1,0 +1,22 @@
+---
+  id: "18153"
+  word: "osložnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osložnjeńje"
+      acc: "osložnjeńje"
+      gen: "osložnjeńja"
+      loc: "osložnjeńju"
+      dat: "osložnjeńju"
+      ins: "osložnjeńjem"
+      voc: "osložnjeńje"
+    plural: 
+      nom: "osložnjeńja"
+      acc: "osložnjeńja"
+      gen: "osložnjenij"
+      loc: "osložnjeńjah"
+      dat: "osložnjeńjam"
+      ins: "osložnjeńjami"
+      voc: "osložnjeńja"

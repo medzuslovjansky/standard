@@ -1,0 +1,23 @@
+---
+  id: "27657"
+  word: "mlěkaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlěkaŕ"
+      acc: "mlěkaŕa"
+      gen: "mlěkaŕa"
+      loc: "mlěkaŕu"
+      dat: "mlěkaŕu"
+      ins: "mlěkaŕem"
+      voc: "mlěkaŕu"
+    plural: 
+      nom: "mlěkari"
+      acc: "mlěkaŕev"
+      gen: "mlěkaŕev"
+      loc: "mlěkaŕah"
+      dat: "mlěkaŕam"
+      ins: "mlěkaŕami"
+      voc: "mlěkari"

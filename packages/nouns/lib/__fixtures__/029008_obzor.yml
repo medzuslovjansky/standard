@@ -1,0 +1,22 @@
+---
+  id: "29008"
+  word: "obzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obzor"
+      acc: "obzor"
+      gen: "obzora"
+      loc: "obzoru"
+      dat: "obzoru"
+      ins: "obzorom"
+      voc: "obzore"
+    plural: 
+      nom: "obzory"
+      acc: "obzory"
+      gen: "obzorov"
+      loc: "obzorah"
+      dat: "obzoram"
+      ins: "obzorami"
+      voc: "obzory"

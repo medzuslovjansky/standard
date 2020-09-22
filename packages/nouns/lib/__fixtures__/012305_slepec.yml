@@ -1,0 +1,23 @@
+---
+  id: "12305"
+  word: "slěpec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slěpec"
+      acc: "slěpca"
+      gen: "slěpca"
+      loc: "slěpcu"
+      dat: "slěpcu"
+      ins: "slěpcem"
+      voc: "slěpče"
+    plural: 
+      nom: "slěpci"
+      acc: "slěpcev"
+      gen: "slěpcev"
+      loc: "slěpcah"
+      dat: "slěpcam"
+      ins: "slěpcami"
+      voc: "slěpci"

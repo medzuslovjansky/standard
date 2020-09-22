@@ -1,0 +1,15 @@
+---
+  id: "4719"
+  word: "slovjanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "slovjanstvo"
+      acc: "slovjanstvo"
+      gen: "slovjanstva"
+      loc: "slovjanstvu"
+      dat: "slovjanstvu"
+      ins: "slovjanstvom"
+      voc: "slovjanstvo"

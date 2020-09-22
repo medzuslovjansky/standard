@@ -1,0 +1,22 @@
+---
+  id: "5673"
+  word: "jednostajnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jednostajnosť"
+      acc: "jednostajnosť"
+      gen: "jednostajnosti"
+      loc: "jednostajnosti"
+      dat: "jednostajnosti"
+      ins: "jednostajnosťjų"
+      voc: "jednostajnosti"
+    plural: 
+      nom: "jednostajnosti"
+      acc: "jednostajnosti"
+      gen: "jednostajnostij"
+      loc: "jednostajnosťah"
+      dat: "jednostajnosťam"
+      ins: "jednostajnosťami"
+      voc: "jednostajnosti"

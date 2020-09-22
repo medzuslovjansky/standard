@@ -1,0 +1,22 @@
+---
+  id: "18298"
+  word: "pokryťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pokryťje"
+      acc: "pokryťje"
+      gen: "pokryťja"
+      loc: "pokryťju"
+      dat: "pokryťju"
+      ins: "pokryťjem"
+      voc: "pokryťje"
+    plural: 
+      nom: "pokryťja"
+      acc: "pokryťja"
+      gen: "pokrytij"
+      loc: "pokryťjah"
+      dat: "pokryťjam"
+      ins: "pokryťjami"
+      voc: "pokryťja"

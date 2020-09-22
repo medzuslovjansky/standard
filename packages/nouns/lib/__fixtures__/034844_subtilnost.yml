@@ -1,0 +1,22 @@
+---
+  id: "34844"
+  word: "subtiľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "subtiľnosť"
+      acc: "subtiľnosť"
+      gen: "subtiľnosti"
+      loc: "subtiľnosti"
+      dat: "subtiľnosti"
+      ins: "subtiľnosťjų"
+      voc: "subtiľnosti"
+    plural: 
+      nom: "subtiľnosti"
+      acc: "subtiľnosti"
+      gen: "subtiľnostij"
+      loc: "subtiľnosťah"
+      dat: "subtiľnosťam"
+      ins: "subtiľnosťami"
+      voc: "subtiľnosti"

@@ -1,0 +1,15 @@
+---
+  id: "76"
+  word: "Azerbajdžan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Azerbajdžan"
+      acc: "Azerbajdžan"
+      gen: "Azerbajdžana"
+      loc: "Azerbajdžanu"
+      dat: "Azerbajdžanu"
+      ins: "Azerbajdžanom"
+      voc: "Azerbajdžane"

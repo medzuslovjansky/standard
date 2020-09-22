@@ -1,0 +1,22 @@
+---
+  id: "17391"
+  word: "geniaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "geniaľnosť"
+      acc: "geniaľnosť"
+      gen: "geniaľnosti"
+      loc: "geniaľnosti"
+      dat: "geniaľnosti"
+      ins: "geniaľnosťjų"
+      voc: "geniaľnosti"
+    plural: 
+      nom: "geniaľnosti"
+      acc: "geniaľnosti"
+      gen: "geniaľnostij"
+      loc: "geniaľnosťah"
+      dat: "geniaľnosťam"
+      ins: "geniaľnosťami"
+      voc: "geniaľnosti"

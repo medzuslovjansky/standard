@@ -1,0 +1,22 @@
+---
+  id: "20086"
+  word: "privyčaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "privyčaj"
+      acc: "privyčaj"
+      gen: "privyčaja"
+      loc: "privyčaju"
+      dat: "privyčaju"
+      ins: "privyčajem"
+      voc: "privyčaju"
+    plural: 
+      nom: "privyčaje"
+      acc: "privyčaje"
+      gen: "privyčajev"
+      loc: "privyčajah"
+      dat: "privyčajam"
+      ins: "privyčajami"
+      voc: "privyčaje"

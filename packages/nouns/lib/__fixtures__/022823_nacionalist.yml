@@ -1,0 +1,23 @@
+---
+  id: "22823"
+  word: "nacionalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nacionalist"
+      acc: "nacionalista"
+      gen: "nacionalista"
+      loc: "nacionalistu"
+      dat: "nacionalistu"
+      ins: "nacionalistom"
+      voc: "nacionaliste"
+    plural: 
+      nom: "nacionalisti"
+      acc: "nacionalistov"
+      gen: "nacionalistov"
+      loc: "nacionalistah"
+      dat: "nacionalistam"
+      ins: "nacionalistami"
+      voc: "nacionalisti"

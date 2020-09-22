@@ -1,0 +1,22 @@
+---
+  id: "6202"
+  word: "prosvěta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prosvěta"
+      acc: "prosvětų"
+      gen: "prosvěty"
+      loc: "prosvětě"
+      dat: "prosvětě"
+      ins: "prosvětojų"
+      voc: "prosvěto"
+    plural: 
+      nom: "prosvěty"
+      acc: "prosvěty"
+      gen: "prosvět"
+      loc: "prosvětah"
+      dat: "prosvětam"
+      ins: "prosvětami"
+      voc: "prosvěty"

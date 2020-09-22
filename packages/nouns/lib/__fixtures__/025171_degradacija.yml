@@ -1,0 +1,22 @@
+---
+  id: "25171"
+  word: "degradacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "degradacija"
+      acc: "degradacijų"
+      gen: "degradacije"
+      loc: "degradaciji"
+      dat: "degradaciji"
+      ins: "degradacijejų"
+      voc: "degradacijo"
+    plural: 
+      nom: "degradacije"
+      acc: "degradacije"
+      gen: "degradacij"
+      loc: "degradacijah"
+      dat: "degradacijam"
+      ins: "degradacijami"
+      voc: "degradacije"

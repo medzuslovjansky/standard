@@ -1,0 +1,22 @@
+---
+  id: "29566"
+  word: "orěhovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "orěhovka"
+      acc: "orěhovkų"
+      gen: "orěhovky"
+      loc: "orěhovkě"
+      dat: "orěhovkě"
+      ins: "orěhovkojų"
+      voc: "orěhovko"
+    plural: 
+      nom: "orěhovky"
+      acc: "orěhovky"
+      gen: "orěhovȯk"
+      loc: "orěhovkah"
+      dat: "orěhovkam"
+      ins: "orěhovkami"
+      voc: "orěhovky"

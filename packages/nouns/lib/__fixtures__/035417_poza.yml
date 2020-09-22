@@ -1,0 +1,22 @@
+---
+  id: "35417"
+  word: "poza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poza"
+      acc: "pozų"
+      gen: "pozy"
+      loc: "pozě"
+      dat: "pozě"
+      ins: "pozojų"
+      voc: "pozo"
+    plural: 
+      nom: "pozy"
+      acc: "pozy"
+      gen: "poz"
+      loc: "pozah"
+      dat: "pozam"
+      ins: "pozami"
+      voc: "pozy"

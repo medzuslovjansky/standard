@@ -1,0 +1,22 @@
+---
+  id: "1650"
+  word: "ustųpka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ustųpka"
+      acc: "ustųpkų"
+      gen: "ustųpky"
+      loc: "ustųpkě"
+      dat: "ustųpkě"
+      ins: "ustųpkojų"
+      voc: "ustųpko"
+    plural: 
+      nom: "ustųpky"
+      acc: "ustųpky"
+      gen: "ustųpȯk"
+      loc: "ustųpkah"
+      dat: "ustųpkam"
+      ins: "ustųpkami"
+      voc: "ustųpky"

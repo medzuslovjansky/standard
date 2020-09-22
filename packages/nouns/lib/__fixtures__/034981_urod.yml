@@ -1,0 +1,22 @@
+---
+  id: "34981"
+  word: "urod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "urod"
+      acc: "urod"
+      gen: "uroda"
+      loc: "urodu"
+      dat: "urodu"
+      ins: "urodom"
+      voc: "urode"
+    plural: 
+      nom: "urody"
+      acc: "urody"
+      gen: "urodov"
+      loc: "urodah"
+      dat: "urodam"
+      ins: "urodami"
+      voc: "urody"

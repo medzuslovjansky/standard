@@ -1,0 +1,22 @@
+---
+  id: "17403"
+  word: "glåva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glåva"
+      acc: "glåvų"
+      gen: "glåvy"
+      loc: "glåvě"
+      dat: "glåvě"
+      ins: "glåvojų"
+      voc: "glåvo"
+    plural: 
+      nom: "glåvy"
+      acc: "glåvy"
+      gen: "glåv"
+      loc: "glåvah"
+      dat: "glåvam"
+      ins: "glåvami"
+      voc: "glåvy"

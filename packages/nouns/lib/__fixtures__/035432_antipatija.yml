@@ -1,0 +1,22 @@
+---
+  id: "35432"
+  word: "antipatija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "antipatija"
+      acc: "antipatijų"
+      gen: "antipatije"
+      loc: "antipatiji"
+      dat: "antipatiji"
+      ins: "antipatijejų"
+      voc: "antipatijo"
+    plural: 
+      nom: "antipatije"
+      acc: "antipatije"
+      gen: "antipatij"
+      loc: "antipatijah"
+      dat: "antipatijam"
+      ins: "antipatijami"
+      voc: "antipatije"

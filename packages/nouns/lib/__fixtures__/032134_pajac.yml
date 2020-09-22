@@ -1,0 +1,23 @@
+---
+  id: "32134"
+  word: "pajac"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pajac"
+      acc: "pajaca"
+      gen: "pajaca"
+      loc: "pajacu"
+      dat: "pajacu"
+      ins: "pajacem"
+      voc: "pajacu"
+    plural: 
+      nom: "pajaci"
+      acc: "pajacev"
+      gen: "pajacev"
+      loc: "pajacah"
+      dat: "pajacam"
+      ins: "pajacami"
+      voc: "pajaci"

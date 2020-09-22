@@ -1,0 +1,22 @@
+---
+  id: "3497"
+  word: "ček"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ček"
+      acc: "ček"
+      gen: "čeka"
+      loc: "čeku"
+      dat: "čeku"
+      ins: "čekom"
+      voc: "čeče"
+    plural: 
+      nom: "čeky"
+      acc: "čeky"
+      gen: "čekov"
+      loc: "čekah"
+      dat: "čekam"
+      ins: "čekami"
+      voc: "čeky"

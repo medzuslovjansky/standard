@@ -1,0 +1,22 @@
+---
+  id: "36081"
+  word: "neporušimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neporušimosť"
+      acc: "neporušimosť"
+      gen: "neporušimosti"
+      loc: "neporušimosti"
+      dat: "neporušimosti"
+      ins: "neporušimosťjų"
+      voc: "neporušimosti"
+    plural: 
+      nom: "neporušimosti"
+      acc: "neporušimosti"
+      gen: "neporušimostij"
+      loc: "neporušimosťah"
+      dat: "neporušimosťam"
+      ins: "neporušimosťami"
+      voc: "neporušimosti"

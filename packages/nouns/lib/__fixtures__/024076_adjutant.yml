@@ -1,0 +1,23 @@
+---
+  id: "24076"
+  word: "adjutant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "adjutant"
+      acc: "adjutanta"
+      gen: "adjutanta"
+      loc: "adjutantu"
+      dat: "adjutantu"
+      ins: "adjutantom"
+      voc: "adjutante"
+    plural: 
+      nom: "adjutanti"
+      acc: "adjutantov"
+      gen: "adjutantov"
+      loc: "adjutantah"
+      dat: "adjutantam"
+      ins: "adjutantami"
+      voc: "adjutanti"

@@ -1,0 +1,22 @@
+---
+  id: "26709"
+  word: "koridor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koridor"
+      acc: "koridor"
+      gen: "koridora"
+      loc: "koridoru"
+      dat: "koridoru"
+      ins: "koridorom"
+      voc: "koridore"
+    plural: 
+      nom: "koridory"
+      acc: "koridory"
+      gen: "koridorov"
+      loc: "koridorah"
+      dat: "koridoram"
+      ins: "koridorami"
+      voc: "koridory"

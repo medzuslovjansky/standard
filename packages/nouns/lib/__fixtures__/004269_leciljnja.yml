@@ -1,0 +1,22 @@
+---
+  id: "4269"
+  word: "lěčiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěčiljnja"
+      acc: "lěčiljnjų"
+      gen: "lěčiljnje"
+      loc: "lěčiljnji"
+      dat: "lěčiljnji"
+      ins: "lěčiljnjejų"
+      voc: "lěčiljnjo"
+    plural: 
+      nom: "lěčiljnje"
+      acc: "lěčiljnje"
+      gen: "lěčiljnej"
+      loc: "lěčiljnjah"
+      dat: "lěčiljnjam"
+      ins: "lěčiljnjami"
+      voc: "lěčiljnje"

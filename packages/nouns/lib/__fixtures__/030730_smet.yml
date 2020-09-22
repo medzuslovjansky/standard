@@ -1,0 +1,22 @@
+---
+  id: "30730"
+  word: "smeť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smeť"
+      acc: "smeť"
+      gen: "smeti"
+      loc: "smeti"
+      dat: "smeti"
+      ins: "smeťjų"
+      voc: "smeti"
+    plural: 
+      nom: "smeti"
+      acc: "smeti"
+      gen: "smetij"
+      loc: "smeťah"
+      dat: "smeťam"
+      ins: "smeťami"
+      voc: "smeti"

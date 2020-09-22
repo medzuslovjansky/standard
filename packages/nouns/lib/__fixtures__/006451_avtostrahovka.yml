@@ -1,0 +1,22 @@
+---
+  id: "6451"
+  word: "avtostrahovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtostrahovka"
+      acc: "avtostrahovkų"
+      gen: "avtostrahovky"
+      loc: "avtostrahovkě"
+      dat: "avtostrahovkě"
+      ins: "avtostrahovkojų"
+      voc: "avtostrahovko"
+    plural: 
+      nom: "avtostrahovky"
+      acc: "avtostrahovky"
+      gen: "avtostrahovȯk"
+      loc: "avtostrahovkah"
+      dat: "avtostrahovkam"
+      ins: "avtostrahovkami"
+      voc: "avtostrahovky"

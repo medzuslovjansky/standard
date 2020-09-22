@@ -1,0 +1,22 @@
+---
+  id: "5272"
+  word: "grn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grn"
+      acc: "grn"
+      gen: "grna"
+      loc: "grnu"
+      dat: "grnu"
+      ins: "grnom"
+      voc: "grne"
+    plural: 
+      nom: "grny"
+      acc: "grny"
+      gen: "grnov"
+      loc: "grnah"
+      dat: "grnam"
+      ins: "grnami"
+      voc: "grny"

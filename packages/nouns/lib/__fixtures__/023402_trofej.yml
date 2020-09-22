@@ -1,0 +1,22 @@
+---
+  id: "23402"
+  word: "trofej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trofej"
+      acc: "trofej"
+      gen: "trofeja"
+      loc: "trofeju"
+      dat: "trofeju"
+      ins: "trofejem"
+      voc: "trofeju"
+    plural: 
+      nom: "trofeje"
+      acc: "trofeje"
+      gen: "trofejev"
+      loc: "trofejah"
+      dat: "trofejam"
+      ins: "trofejami"
+      voc: "trofeje"

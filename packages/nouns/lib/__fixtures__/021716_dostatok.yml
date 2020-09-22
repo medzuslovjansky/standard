@@ -1,0 +1,22 @@
+---
+  id: "21716"
+  word: "dostatȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dostatȯk"
+      acc: "dostatȯk"
+      gen: "dostatka"
+      loc: "dostatku"
+      dat: "dostatku"
+      ins: "dostatkom"
+      voc: "dostatče"
+    plural: 
+      nom: "dostatky"
+      acc: "dostatky"
+      gen: "dostatkov"
+      loc: "dostatkah"
+      dat: "dostatkam"
+      ins: "dostatkami"
+      voc: "dostatky"

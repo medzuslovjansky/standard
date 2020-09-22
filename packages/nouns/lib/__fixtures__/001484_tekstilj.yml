@@ -1,0 +1,22 @@
+---
+  id: "1484"
+  word: "tekstilj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tekstilj"
+      acc: "tekstilj"
+      gen: "tekstilja"
+      loc: "tekstilju"
+      dat: "tekstilju"
+      ins: "tekstiljem"
+      voc: "tekstilju"
+    plural: 
+      nom: "tekstilje"
+      acc: "tekstilje"
+      gen: "tekstiljev"
+      loc: "tekstiljah"
+      dat: "tekstiljam"
+      ins: "tekstiljami"
+      voc: "tekstilje"

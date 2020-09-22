@@ -1,0 +1,15 @@
+---
+  id: "20864"
+  word: "etnografija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "etnografija"
+      acc: "etnografijų"
+      gen: "etnografije"
+      loc: "etnografiji"
+      dat: "etnografiji"
+      ins: "etnografijejų"
+      voc: "etnografijo"

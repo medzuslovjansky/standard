@@ -1,0 +1,22 @@
+---
+  id: "14111"
+  word: "založiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "založiljnja"
+      acc: "založiljnjų"
+      gen: "založiljnje"
+      loc: "založiljnji"
+      dat: "založiljnji"
+      ins: "založiljnjejų"
+      voc: "založiljnjo"
+    plural: 
+      nom: "založiljnje"
+      acc: "založiljnje"
+      gen: "založiljnej"
+      loc: "založiljnjah"
+      dat: "založiljnjam"
+      ins: "založiljnjami"
+      voc: "založiljnje"

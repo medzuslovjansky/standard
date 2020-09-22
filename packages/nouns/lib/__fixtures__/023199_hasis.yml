@@ -1,0 +1,15 @@
+---
+  id: "23199"
+  word: "hašiš"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hašiš"
+      acc: "hašiš"
+      gen: "hašiša"
+      loc: "hašišu"
+      dat: "hašišu"
+      ins: "hašišem"
+      voc: "hašišu"

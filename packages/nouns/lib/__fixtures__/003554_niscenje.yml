@@ -1,0 +1,22 @@
+---
+  id: "3554"
+  word: "niščeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "niščeńje"
+      acc: "niščeńje"
+      gen: "niščeńja"
+      loc: "niščeńju"
+      dat: "niščeńju"
+      ins: "niščeńjem"
+      voc: "niščeńje"
+    plural: 
+      nom: "niščeńja"
+      acc: "niščeńja"
+      gen: "niščenij"
+      loc: "niščeńjah"
+      dat: "niščeńjam"
+      ins: "niščeńjami"
+      voc: "niščeńja"

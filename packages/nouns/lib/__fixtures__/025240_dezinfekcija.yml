@@ -1,0 +1,15 @@
+---
+  id: "25240"
+  word: "dezinfekcija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dezinfekcija"
+      acc: "dezinfekcijų"
+      gen: "dezinfekcije"
+      loc: "dezinfekciji"
+      dat: "dezinfekciji"
+      ins: "dezinfekcijejų"
+      voc: "dezinfekcijo"

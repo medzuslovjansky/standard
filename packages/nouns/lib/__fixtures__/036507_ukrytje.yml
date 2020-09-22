@@ -1,0 +1,22 @@
+---
+  id: "36507"
+  word: "ukryťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ukryťje"
+      acc: "ukryťje"
+      gen: "ukryťja"
+      loc: "ukryťju"
+      dat: "ukryťju"
+      ins: "ukryťjem"
+      voc: "ukryťje"
+    plural: 
+      nom: "ukryťja"
+      acc: "ukryťja"
+      gen: "ukrytij"
+      loc: "ukryťjah"
+      dat: "ukryťjam"
+      ins: "ukryťjami"
+      voc: "ukryťja"

@@ -1,0 +1,22 @@
+---
+  id: "36470"
+  word: "šiška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šiška"
+      acc: "šiškų"
+      gen: "šišky"
+      loc: "šiškě"
+      dat: "šiškě"
+      ins: "šiškojų"
+      voc: "šiško"
+    plural: 
+      nom: "šišky"
+      acc: "šišky"
+      gen: "šišek"
+      loc: "šiškah"
+      dat: "šiškam"
+      ins: "šiškami"
+      voc: "šišky"

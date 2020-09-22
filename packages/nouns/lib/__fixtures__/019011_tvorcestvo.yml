@@ -1,0 +1,15 @@
+---
+  id: "19011"
+  word: "tvorčestvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "tvorčestvo"
+      acc: "tvorčestvo"
+      gen: "tvorčestva"
+      loc: "tvorčestvu"
+      dat: "tvorčestvu"
+      ins: "tvorčestvom"
+      voc: "tvorčestvo"

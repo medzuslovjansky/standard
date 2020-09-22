@@ -1,0 +1,23 @@
+---
+  id: "6094"
+  word: "sekretaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sekretaŕ"
+      acc: "sekretaŕa"
+      gen: "sekretaŕa"
+      loc: "sekretaŕu"
+      dat: "sekretaŕu"
+      ins: "sekretaŕem"
+      voc: "sekretaŕu"
+    plural: 
+      nom: "sekretari"
+      acc: "sekretaŕev"
+      gen: "sekretaŕev"
+      loc: "sekretaŕah"
+      dat: "sekretaŕam"
+      ins: "sekretaŕami"
+      voc: "sekretari"

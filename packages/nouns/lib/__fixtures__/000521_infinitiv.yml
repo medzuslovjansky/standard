@@ -1,0 +1,22 @@
+---
+  id: "521"
+  word: "infinitiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "infinitiv"
+      acc: "infinitiv"
+      gen: "infinitiva"
+      loc: "infinitivu"
+      dat: "infinitivu"
+      ins: "infinitivom"
+      voc: "infinitive"
+    plural: 
+      nom: "infinitivy"
+      acc: "infinitivy"
+      gen: "infinitivov"
+      loc: "infinitivah"
+      dat: "infinitivam"
+      ins: "infinitivami"
+      voc: "infinitivy"

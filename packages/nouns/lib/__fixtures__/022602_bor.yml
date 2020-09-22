@@ -1,0 +1,15 @@
+---
+  id: "22602"
+  word: "bor"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bor"
+      acc: "bor"
+      gen: "bora"
+      loc: "boru"
+      dat: "boru"
+      ins: "borom"
+      voc: "bore"

@@ -1,0 +1,22 @@
+---
+  id: "18631"
+  word: "råzvoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzvoj"
+      acc: "råzvoj"
+      gen: "råzvoja"
+      loc: "råzvoju"
+      dat: "råzvoju"
+      ins: "råzvojem"
+      voc: "råzvoju"
+    plural: 
+      nom: "råzvoje"
+      acc: "råzvoje"
+      gen: "råzvojev"
+      loc: "råzvojah"
+      dat: "råzvojam"
+      ins: "råzvojami"
+      voc: "råzvoje"

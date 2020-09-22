@@ -1,0 +1,22 @@
+---
+  id: "22209"
+  word: "vědomosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vědomosť"
+      acc: "vědomosť"
+      gen: "vědomosti"
+      loc: "vědomosti"
+      dat: "vědomosti"
+      ins: "vědomosťjų"
+      voc: "vědomosti"
+    plural: 
+      nom: "vědomosti"
+      acc: "vědomosti"
+      gen: "vědomostij"
+      loc: "vědomosťah"
+      dat: "vědomosťam"
+      ins: "vědomosťami"
+      voc: "vědomosti"

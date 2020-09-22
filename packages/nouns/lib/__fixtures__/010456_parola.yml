@@ -1,0 +1,22 @@
+---
+  id: "10456"
+  word: "parola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "parola"
+      acc: "parolų"
+      gen: "paroly"
+      loc: "parolě"
+      dat: "parolě"
+      ins: "parolojų"
+      voc: "parolo"
+    plural: 
+      nom: "paroly"
+      acc: "paroly"
+      gen: "parol"
+      loc: "parolah"
+      dat: "parolam"
+      ins: "parolami"
+      voc: "paroly"

@@ -1,0 +1,23 @@
+---
+  id: "32087"
+  word: "obuvnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obuvnik"
+      acc: "obuvnika"
+      gen: "obuvnika"
+      loc: "obuvniku"
+      dat: "obuvniku"
+      ins: "obuvnikom"
+      voc: "obuvniče"
+    plural: 
+      nom: "obuvniki"
+      acc: "obuvnikov"
+      gen: "obuvnikov"
+      loc: "obuvnikah"
+      dat: "obuvnikam"
+      ins: "obuvnikami"
+      voc: "obuvniki"

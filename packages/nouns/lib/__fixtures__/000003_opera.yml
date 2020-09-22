@@ -1,0 +1,22 @@
+---
+  id: "3"
+  word: "opera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opera"
+      acc: "operų"
+      gen: "opery"
+      loc: "operě"
+      dat: "operě"
+      ins: "operojų"
+      voc: "opero"
+    plural: 
+      nom: "opery"
+      acc: "opery"
+      gen: "oper"
+      loc: "operah"
+      dat: "operam"
+      ins: "operami"
+      voc: "opery"

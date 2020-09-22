@@ -1,0 +1,22 @@
+---
+  id: "3890"
+  word: "stųpenišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stųpenišče"
+      acc: "stųpenišče"
+      gen: "stųpenišča"
+      loc: "stųpenišču"
+      dat: "stųpenišču"
+      ins: "stųpeniščem"
+      voc: "stųpenišče"
+    plural: 
+      nom: "stųpenišča"
+      acc: "stųpenišča"
+      gen: "stųpenišč"
+      loc: "stųpeniščah"
+      dat: "stųpeniščam"
+      ins: "stųpeniščami"
+      voc: "stųpenišča"

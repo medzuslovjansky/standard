@@ -1,0 +1,22 @@
+---
+  id: "1863"
+  word: "monarhija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "monarhija"
+      acc: "monarhijų"
+      gen: "monarhije"
+      loc: "monarhiji"
+      dat: "monarhiji"
+      ins: "monarhijejų"
+      voc: "monarhijo"
+    plural: 
+      nom: "monarhije"
+      acc: "monarhije"
+      gen: "monarhij"
+      loc: "monarhijah"
+      dat: "monarhijam"
+      ins: "monarhijami"
+      voc: "monarhije"

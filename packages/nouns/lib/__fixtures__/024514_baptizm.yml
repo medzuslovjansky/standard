@@ -1,0 +1,22 @@
+---
+  id: "24514"
+  word: "baptizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baptizm"
+      acc: "baptizm"
+      gen: "baptizma"
+      loc: "baptizmu"
+      dat: "baptizmu"
+      ins: "baptizmom"
+      voc: "baptizme"
+    plural: 
+      nom: "baptizmy"
+      acc: "baptizmy"
+      gen: "baptizmov"
+      loc: "baptizmah"
+      dat: "baptizmam"
+      ins: "baptizmami"
+      voc: "baptizmy"

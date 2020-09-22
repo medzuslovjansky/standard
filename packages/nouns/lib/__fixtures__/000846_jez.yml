@@ -1,0 +1,23 @@
+---
+  id: "846"
+  word: "jež"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jež"
+      acc: "ježa"
+      gen: "ježa"
+      loc: "ježu"
+      dat: "ježu"
+      ins: "ježem"
+      voc: "ježu"
+    plural: 
+      nom: "ježi"
+      acc: "ježev"
+      gen: "ježev"
+      loc: "ježah"
+      dat: "ježam"
+      ins: "ježami"
+      voc: "ježi"

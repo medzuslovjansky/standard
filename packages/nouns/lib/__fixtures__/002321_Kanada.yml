@@ -1,0 +1,15 @@
+---
+  id: "2321"
+  word: "Kanada"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kanada"
+      acc: "Kanadų"
+      gen: "Kanady"
+      loc: "Kanadě"
+      dat: "Kanadě"
+      ins: "Kanadojų"
+      voc: "Kanado"

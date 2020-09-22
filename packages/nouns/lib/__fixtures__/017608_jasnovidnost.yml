@@ -1,0 +1,22 @@
+---
+  id: "17608"
+  word: "jasnovidnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jasnovidnosť"
+      acc: "jasnovidnosť"
+      gen: "jasnovidnosti"
+      loc: "jasnovidnosti"
+      dat: "jasnovidnosti"
+      ins: "jasnovidnosťjų"
+      voc: "jasnovidnosti"
+    plural: 
+      nom: "jasnovidnosti"
+      acc: "jasnovidnosti"
+      gen: "jasnovidnostij"
+      loc: "jasnovidnosťah"
+      dat: "jasnovidnosťam"
+      ins: "jasnovidnosťami"
+      voc: "jasnovidnosti"

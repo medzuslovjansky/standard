@@ -1,0 +1,15 @@
+---
+  id: "150"
+  word: "apetit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "apetit"
+      acc: "apetit"
+      gen: "apetita"
+      loc: "apetitu"
+      dat: "apetitu"
+      ins: "apetitom"
+      voc: "apetite"

@@ -1,0 +1,22 @@
+---
+  id: "18852"
+  word: "snědańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "snědańje"
+      acc: "snědańje"
+      gen: "snědańja"
+      loc: "snědańju"
+      dat: "snědańju"
+      ins: "snědańjem"
+      voc: "snědańje"
+    plural: 
+      nom: "snědańja"
+      acc: "snědańja"
+      gen: "snědanij"
+      loc: "snědańjah"
+      dat: "snědańjam"
+      ins: "snědańjami"
+      voc: "snědańja"

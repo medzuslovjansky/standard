@@ -1,0 +1,23 @@
+---
+  id: "36553"
+  word: "tancor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tancor"
+      acc: "tancora"
+      gen: "tancora"
+      loc: "tancoru"
+      dat: "tancoru"
+      ins: "tancorom"
+      voc: "tancore"
+    plural: 
+      nom: "tancori"
+      acc: "tancorov"
+      gen: "tancorov"
+      loc: "tancorah"
+      dat: "tancoram"
+      ins: "tancorami"
+      voc: "tancori"

@@ -1,0 +1,23 @@
+---
+  id: "603"
+  word: "iznahodnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "iznahodnik"
+      acc: "iznahodnika"
+      gen: "iznahodnika"
+      loc: "iznahodniku"
+      dat: "iznahodniku"
+      ins: "iznahodnikom"
+      voc: "iznahodniče"
+    plural: 
+      nom: "iznahodniki"
+      acc: "iznahodnikov"
+      gen: "iznahodnikov"
+      loc: "iznahodnikah"
+      dat: "iznahodnikam"
+      ins: "iznahodnikami"
+      voc: "iznahodniki"

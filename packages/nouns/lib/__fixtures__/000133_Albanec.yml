@@ -1,0 +1,23 @@
+---
+  id: "133"
+  word: "Albanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Albanec"
+      acc: "Albanca"
+      gen: "Albanca"
+      loc: "Albancu"
+      dat: "Albancu"
+      ins: "Albancem"
+      voc: "Albanče"
+    plural: 
+      nom: "Albanci"
+      acc: "Albancev"
+      gen: "Albancev"
+      loc: "Albancah"
+      dat: "Albancam"
+      ins: "Albancami"
+      voc: "Albanci"

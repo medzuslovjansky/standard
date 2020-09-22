@@ -1,0 +1,15 @@
+---
+  id: "17788"
+  word: "minųlosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "minųlosť"
+      acc: "minųlosť"
+      gen: "minųlosti"
+      loc: "minųlosti"
+      dat: "minųlosti"
+      ins: "minųlosťjų"
+      voc: "minųlosti"

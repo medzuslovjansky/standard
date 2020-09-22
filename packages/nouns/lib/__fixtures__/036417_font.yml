@@ -1,0 +1,22 @@
+---
+  id: "36417"
+  word: "font"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "font"
+      acc: "font"
+      gen: "fonta"
+      loc: "fontu"
+      dat: "fontu"
+      ins: "fontom"
+      voc: "fonte"
+    plural: 
+      nom: "fonty"
+      acc: "fonty"
+      gen: "fontov"
+      loc: "fontah"
+      dat: "fontam"
+      ins: "fontami"
+      voc: "fonty"

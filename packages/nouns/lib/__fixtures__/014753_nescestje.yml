@@ -1,0 +1,22 @@
+---
+  id: "14753"
+  word: "neščęsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "neščęsťje"
+      acc: "neščęsťje"
+      gen: "neščęsťja"
+      loc: "neščęsťju"
+      dat: "neščęsťju"
+      ins: "neščęsťjem"
+      voc: "neščęsťje"
+    plural: 
+      nom: "neščęsťja"
+      acc: "neščęsťja"
+      gen: "neščęstij"
+      loc: "neščęsťjah"
+      dat: "neščęsťjam"
+      ins: "neščęsťjami"
+      voc: "neščęsťja"

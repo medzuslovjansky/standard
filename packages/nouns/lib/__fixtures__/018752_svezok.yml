@@ -1,0 +1,22 @@
+---
+  id: "18752"
+  word: "svęzȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svęzȯk"
+      acc: "svęzȯk"
+      gen: "svęzka"
+      loc: "svęzku"
+      dat: "svęzku"
+      ins: "svęzkom"
+      voc: "svęzče"
+    plural: 
+      nom: "svęzky"
+      acc: "svęzky"
+      gen: "svęzkov"
+      loc: "svęzkah"
+      dat: "svęzkam"
+      ins: "svęzkami"
+      voc: "svęzky"

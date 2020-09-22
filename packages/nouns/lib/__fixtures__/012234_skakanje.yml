@@ -1,0 +1,15 @@
+---
+  id: "12234"
+  word: "skakańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "skakańje"
+      acc: "skakańje"
+      gen: "skakańja"
+      loc: "skakańju"
+      dat: "skakańju"
+      ins: "skakańjem"
+      voc: "skakańje"

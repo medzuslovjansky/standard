@@ -1,0 +1,22 @@
+---
+  id: "9325"
+  word: "načęlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "načęlo"
+      acc: "načęlo"
+      gen: "načęla"
+      loc: "načęlu"
+      dat: "načęlu"
+      ins: "načęlom"
+      voc: "načęlo"
+    plural: 
+      nom: "načęla"
+      acc: "načęla"
+      gen: "načęl"
+      loc: "načęlah"
+      dat: "načęlam"
+      ins: "načęlami"
+      voc: "načęla"

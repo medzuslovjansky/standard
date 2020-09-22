@@ -1,0 +1,15 @@
+---
+  id: "31304"
+  word: "volapuk"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "volapuk"
+      acc: "volapuk"
+      gen: "volapuka"
+      loc: "volapuku"
+      dat: "volapuku"
+      ins: "volapukom"
+      voc: "volapuče"

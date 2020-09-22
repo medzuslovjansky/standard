@@ -1,0 +1,15 @@
+---
+  id: "22217"
+  word: "izvědy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "izvědy"
+      acc: "izvědy"
+      gen: "izvědov"
+      loc: "izvědah"
+      dat: "izvědam"
+      ins: "izvědami"
+      voc: "izvědy"

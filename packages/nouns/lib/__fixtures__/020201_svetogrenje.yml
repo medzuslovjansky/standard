@@ -1,0 +1,22 @@
+---
+  id: "20201"
+  word: "svętogrđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svętogrđeńje"
+      acc: "svętogrđeńje"
+      gen: "svętogrđeńja"
+      loc: "svętogrđeńju"
+      dat: "svętogrđeńju"
+      ins: "svętogrđeńjem"
+      voc: "svętogrđeńje"
+    plural: 
+      nom: "svętogrđeńja"
+      acc: "svętogrđeńja"
+      gen: "svętogrđenij"
+      loc: "svętogrđeńjah"
+      dat: "svętogrđeńjam"
+      ins: "svętogrđeńjami"
+      voc: "svętogrđeńja"

@@ -1,0 +1,23 @@
+---
+  id: "5332"
+  word: "råbotnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råbotnik"
+      acc: "råbotnika"
+      gen: "råbotnika"
+      loc: "råbotniku"
+      dat: "råbotniku"
+      ins: "råbotnikom"
+      voc: "råbotniče"
+    plural: 
+      nom: "råbotniki"
+      acc: "råbotnikov"
+      gen: "råbotnikov"
+      loc: "råbotnikah"
+      dat: "råbotnikam"
+      ins: "råbotnikami"
+      voc: "råbotniki"

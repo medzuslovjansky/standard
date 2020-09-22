@@ -1,0 +1,22 @@
+---
+  id: "3002"
+  word: "piśmo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "piśmo"
+      acc: "piśmo"
+      gen: "piśma"
+      loc: "piśmu"
+      dat: "piśmu"
+      ins: "piśmom"
+      voc: "piśmo"
+    plural: 
+      nom: "piśma"
+      acc: "piśma"
+      gen: "piśm"
+      loc: "piśmah"
+      dat: "piśmam"
+      ins: "piśmami"
+      voc: "piśma"

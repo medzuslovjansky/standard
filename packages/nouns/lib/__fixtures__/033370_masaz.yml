@@ -1,0 +1,22 @@
+---
+  id: "33370"
+  word: "masaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "masaž"
+      acc: "masaž"
+      gen: "masaža"
+      loc: "masažu"
+      dat: "masažu"
+      ins: "masažem"
+      voc: "masažu"
+    plural: 
+      nom: "masaže"
+      acc: "masaže"
+      gen: "masažev"
+      loc: "masažah"
+      dat: "masažam"
+      ins: "masažami"
+      voc: "masaže"

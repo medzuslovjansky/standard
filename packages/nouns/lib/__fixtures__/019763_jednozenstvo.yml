@@ -1,0 +1,15 @@
+---
+  id: "19763"
+  word: "jednoženstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jednoženstvo"
+      acc: "jednoženstvo"
+      gen: "jednoženstva"
+      loc: "jednoženstvu"
+      dat: "jednoženstvu"
+      ins: "jednoženstvom"
+      voc: "jednoženstvo"

@@ -1,0 +1,22 @@
+---
+  id: "36031"
+  word: "pulover"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pulover"
+      acc: "pulover"
+      gen: "pulovera"
+      loc: "puloveru"
+      dat: "puloveru"
+      ins: "puloverom"
+      voc: "pulovere"
+    plural: 
+      nom: "pulovery"
+      acc: "pulovery"
+      gen: "puloverov"
+      loc: "puloverah"
+      dat: "puloveram"
+      ins: "puloverami"
+      voc: "pulovery"

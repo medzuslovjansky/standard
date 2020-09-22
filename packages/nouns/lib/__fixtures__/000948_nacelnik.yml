@@ -1,0 +1,23 @@
+---
+  id: "948"
+  word: "načeľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "načeľnik"
+      acc: "načeľnika"
+      gen: "načeľnika"
+      loc: "načeľniku"
+      dat: "načeľniku"
+      ins: "načeľnikom"
+      voc: "načeľniče"
+    plural: 
+      nom: "načeľniki"
+      acc: "načeľnikov"
+      gen: "načeľnikov"
+      loc: "načeľnikah"
+      dat: "načeľnikam"
+      ins: "načeľnikami"
+      voc: "načeľniki"

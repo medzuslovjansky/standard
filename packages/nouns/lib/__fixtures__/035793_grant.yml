@@ -1,0 +1,22 @@
+---
+  id: "35793"
+  word: "grant"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grant"
+      acc: "grant"
+      gen: "granta"
+      loc: "grantu"
+      dat: "grantu"
+      ins: "grantom"
+      voc: "grante"
+    plural: 
+      nom: "granty"
+      acc: "granty"
+      gen: "grantov"
+      loc: "grantah"
+      dat: "grantam"
+      ins: "grantami"
+      voc: "granty"

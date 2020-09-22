@@ -1,0 +1,22 @@
+---
+  id: "23923"
+  word: "råstȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råstȯk"
+      acc: "råstȯk"
+      gen: "råstka"
+      loc: "råstku"
+      dat: "råstku"
+      ins: "råstkom"
+      voc: "råstče"
+    plural: 
+      nom: "råstky"
+      acc: "råstky"
+      gen: "råstkov"
+      loc: "råstkah"
+      dat: "råstkam"
+      ins: "råstkami"
+      voc: "råstky"

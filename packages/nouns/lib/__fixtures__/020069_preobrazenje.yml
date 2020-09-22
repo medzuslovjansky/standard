@@ -1,0 +1,22 @@
+---
+  id: "20069"
+  word: "prěobražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěobražeńje"
+      acc: "prěobražeńje"
+      gen: "prěobražeńja"
+      loc: "prěobražeńju"
+      dat: "prěobražeńju"
+      ins: "prěobražeńjem"
+      voc: "prěobražeńje"
+    plural: 
+      nom: "prěobražeńja"
+      acc: "prěobražeńja"
+      gen: "prěobraženij"
+      loc: "prěobražeńjah"
+      dat: "prěobražeńjam"
+      ins: "prěobražeńjami"
+      voc: "prěobražeńja"

@@ -1,0 +1,22 @@
+---
+  id: "7228"
+  word: "dosęžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dosęžeńje"
+      acc: "dosęžeńje"
+      gen: "dosęžeńja"
+      loc: "dosęžeńju"
+      dat: "dosęžeńju"
+      ins: "dosęžeńjem"
+      voc: "dosęžeńje"
+    plural: 
+      nom: "dosęžeńja"
+      acc: "dosęžeńja"
+      gen: "dosęženij"
+      loc: "dosęžeńjah"
+      dat: "dosęžeńjam"
+      ins: "dosęžeńjami"
+      voc: "dosęžeńja"

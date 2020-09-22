@@ -1,0 +1,15 @@
+---
+  id: "22626"
+  word: "brom"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "brom"
+      acc: "brom"
+      gen: "broma"
+      loc: "bromu"
+      dat: "bromu"
+      ins: "bromom"
+      voc: "brome"

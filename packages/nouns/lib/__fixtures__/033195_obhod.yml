@@ -1,0 +1,22 @@
+---
+  id: "33195"
+  word: "obhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obhod"
+      acc: "obhod"
+      gen: "obhoda"
+      loc: "obhodu"
+      dat: "obhodu"
+      ins: "obhodom"
+      voc: "obhode"
+    plural: 
+      nom: "obhody"
+      acc: "obhody"
+      gen: "obhodov"
+      loc: "obhodah"
+      dat: "obhodam"
+      ins: "obhodami"
+      voc: "obhody"

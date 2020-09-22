@@ -1,0 +1,22 @@
+---
+  id: "3527"
+  word: "posųda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "posųda"
+      acc: "posųdų"
+      gen: "posųdy"
+      loc: "posųdě"
+      dat: "posųdě"
+      ins: "posųdojų"
+      voc: "posųdo"
+    plural: 
+      nom: "posųdy"
+      acc: "posųdy"
+      gen: "posųd"
+      loc: "posųdah"
+      dat: "posųdam"
+      ins: "posųdami"
+      voc: "posųdy"

@@ -1,0 +1,23 @@
+---
+  id: "36736"
+  word: "smetjaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "smetjaŕ"
+      acc: "smetjaŕa"
+      gen: "smetjaŕa"
+      loc: "smetjaŕu"
+      dat: "smetjaŕu"
+      ins: "smetjaŕem"
+      voc: "smetjaŕu"
+    plural: 
+      nom: "smetjari"
+      acc: "smetjaŕev"
+      gen: "smetjaŕev"
+      loc: "smetjaŕah"
+      dat: "smetjaŕam"
+      ins: "smetjaŕami"
+      voc: "smetjari"

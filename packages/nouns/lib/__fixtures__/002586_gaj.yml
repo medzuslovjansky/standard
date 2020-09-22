@@ -1,0 +1,22 @@
+---
+  id: "2586"
+  word: "gaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gaj"
+      acc: "gaj"
+      gen: "gaja"
+      loc: "gaju"
+      dat: "gaju"
+      ins: "gajem"
+      voc: "gaju"
+    plural: 
+      nom: "gaje"
+      acc: "gaje"
+      gen: "gajev"
+      loc: "gajah"
+      dat: "gajam"
+      ins: "gajami"
+      voc: "gaje"

@@ -1,0 +1,23 @@
+---
+  id: "1717"
+  word: "penj"
+  meta: 
+    irregularity: "(pnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pėnj"
+      acc: "pėnj"
+      gen: "pnja"
+      loc: "pnju"
+      dat: "pnju"
+      ins: "pnjem"
+      voc: "pnju"
+    plural: 
+      nom: "pnje"
+      acc: "pnje"
+      gen: "pnjev"
+      loc: "pnjah"
+      dat: "pnjam"
+      ins: "pnjami"
+      voc: "pnje"

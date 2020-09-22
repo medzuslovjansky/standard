@@ -1,0 +1,22 @@
+---
+  id: "36746"
+  word: "popeľnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popeľnica"
+      acc: "popeľnicų"
+      gen: "popeľnice"
+      loc: "popeľnici"
+      dat: "popeľnici"
+      ins: "popeľnicejų"
+      voc: "popeľnico"
+    plural: 
+      nom: "popeľnice"
+      acc: "popeľnice"
+      gen: "popeľnic"
+      loc: "popeľnicah"
+      dat: "popeľnicam"
+      ins: "popeľnicami"
+      voc: "popeľnice"

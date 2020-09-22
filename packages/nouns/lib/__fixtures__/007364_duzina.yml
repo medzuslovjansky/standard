@@ -1,0 +1,22 @@
+---
+  id: "7364"
+  word: "duzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "duzina"
+      acc: "duzinų"
+      gen: "duziny"
+      loc: "duzině"
+      dat: "duzině"
+      ins: "duzinojų"
+      voc: "duzino"
+    plural: 
+      nom: "duziny"
+      acc: "duziny"
+      gen: "duzin"
+      loc: "duzinah"
+      dat: "duzinam"
+      ins: "duzinami"
+      voc: "duziny"

@@ -1,0 +1,15 @@
+---
+  id: "13592"
+  word: "věsti"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "věsti"
+      acc: "věsti"
+      gen: "věstij"
+      loc: "věstjah"
+      dat: "věstjam"
+      ins: "věstjami"
+      voc: "věsti"

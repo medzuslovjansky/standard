@@ -1,0 +1,22 @@
+---
+  id: "36289"
+  word: "komiks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komiks"
+      acc: "komiks"
+      gen: "komiksa"
+      loc: "komiksu"
+      dat: "komiksu"
+      ins: "komiksom"
+      voc: "komikse"
+    plural: 
+      nom: "komiksy"
+      acc: "komiksy"
+      gen: "komiksov"
+      loc: "komiksah"
+      dat: "komiksam"
+      ins: "komiksami"
+      voc: "komiksy"

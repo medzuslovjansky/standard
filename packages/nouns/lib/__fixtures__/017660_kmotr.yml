@@ -1,0 +1,23 @@
+---
+  id: "17660"
+  word: "kmotr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kmotr"
+      acc: "kmotra"
+      gen: "kmotra"
+      loc: "kmotru"
+      dat: "kmotru"
+      ins: "kmotrom"
+      voc: "kmotre"
+    plural: 
+      nom: "kmotri"
+      acc: "kmotrov"
+      gen: "kmotrov"
+      loc: "kmotrah"
+      dat: "kmotram"
+      ins: "kmotrami"
+      voc: "kmotri"

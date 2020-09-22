@@ -1,0 +1,22 @@
+---
+  id: "3736"
+  word: "značeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "značeńje"
+      acc: "značeńje"
+      gen: "značeńja"
+      loc: "značeńju"
+      dat: "značeńju"
+      ins: "značeńjem"
+      voc: "značeńje"
+    plural: 
+      nom: "značeńja"
+      acc: "značeńja"
+      gen: "značenij"
+      loc: "značeńjah"
+      dat: "značeńjam"
+      ins: "značeńjami"
+      voc: "značeńja"

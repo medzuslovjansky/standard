@@ -1,0 +1,22 @@
+---
+  id: "3184"
+  word: "harakter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "harakter"
+      acc: "harakter"
+      gen: "haraktera"
+      loc: "harakteru"
+      dat: "harakteru"
+      ins: "harakterom"
+      voc: "haraktere"
+    plural: 
+      nom: "haraktery"
+      acc: "haraktery"
+      gen: "harakterov"
+      loc: "harakterah"
+      dat: "harakteram"
+      ins: "harakterami"
+      voc: "haraktery"

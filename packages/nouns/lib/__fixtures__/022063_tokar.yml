@@ -1,0 +1,23 @@
+---
+  id: "22063"
+  word: "tokaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tokaŕ"
+      acc: "tokaŕa"
+      gen: "tokaŕa"
+      loc: "tokaŕu"
+      dat: "tokaŕu"
+      ins: "tokaŕem"
+      voc: "tokaŕu"
+    plural: 
+      nom: "tokari"
+      acc: "tokaŕev"
+      gen: "tokaŕev"
+      loc: "tokaŕah"
+      dat: "tokaŕam"
+      ins: "tokaŕami"
+      voc: "tokari"

@@ -1,0 +1,22 @@
+---
+  id: "26306"
+  word: "jarosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jarosť"
+      acc: "jarosť"
+      gen: "jarosti"
+      loc: "jarosti"
+      dat: "jarosti"
+      ins: "jarosťjų"
+      voc: "jarosti"
+    plural: 
+      nom: "jarosti"
+      acc: "jarosti"
+      gen: "jarostij"
+      loc: "jarosťah"
+      dat: "jarosťam"
+      ins: "jarosťami"
+      voc: "jarosti"

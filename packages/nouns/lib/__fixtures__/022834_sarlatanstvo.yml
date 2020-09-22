@@ -1,0 +1,15 @@
+---
+  id: "22834"
+  word: "šarlatanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šarlatanstvo"
+      acc: "šarlatanstvo"
+      gen: "šarlatanstva"
+      loc: "šarlatanstvu"
+      dat: "šarlatanstvu"
+      ins: "šarlatanstvom"
+      voc: "šarlatanstvo"

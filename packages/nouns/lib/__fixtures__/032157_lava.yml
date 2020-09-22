@@ -1,0 +1,22 @@
+---
+  id: "32157"
+  word: "lava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lava"
+      acc: "lavų"
+      gen: "lavy"
+      loc: "lavě"
+      dat: "lavě"
+      ins: "lavojų"
+      voc: "lavo"
+    plural: 
+      nom: "lavy"
+      acc: "lavy"
+      gen: "lav"
+      loc: "lavah"
+      dat: "lavam"
+      ins: "lavami"
+      voc: "lavy"

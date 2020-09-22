@@ -1,0 +1,22 @@
+---
+  id: "19487"
+  word: "dȯlgočasnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯlgočasnica"
+      acc: "dȯlgočasnicų"
+      gen: "dȯlgočasnice"
+      loc: "dȯlgočasnici"
+      dat: "dȯlgočasnici"
+      ins: "dȯlgočasnicejų"
+      voc: "dȯlgočasnico"
+    plural: 
+      nom: "dȯlgočasnice"
+      acc: "dȯlgočasnice"
+      gen: "dȯlgočasnic"
+      loc: "dȯlgočasnicah"
+      dat: "dȯlgočasnicam"
+      ins: "dȯlgočasnicami"
+      voc: "dȯlgočasnice"

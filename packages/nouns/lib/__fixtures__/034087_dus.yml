@@ -1,0 +1,22 @@
+---
+  id: "34087"
+  word: "duš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "duš"
+      acc: "duš"
+      gen: "duša"
+      loc: "dušu"
+      dat: "dušu"
+      ins: "dušem"
+      voc: "dušu"
+    plural: 
+      nom: "duše"
+      acc: "duše"
+      gen: "dušev"
+      loc: "dušah"
+      dat: "dušam"
+      ins: "dušami"
+      voc: "duše"

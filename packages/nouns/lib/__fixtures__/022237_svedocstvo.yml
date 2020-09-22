@@ -1,0 +1,22 @@
+---
+  id: "22237"
+  word: "svědȯčstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svědȯčstvo"
+      acc: "svědȯčstvo"
+      gen: "svědȯčstva"
+      loc: "svědȯčstvu"
+      dat: "svědȯčstvu"
+      ins: "svědȯčstvom"
+      voc: "svědȯčstvo"
+    plural: 
+      nom: "svědȯčstva"
+      acc: "svědȯčstva"
+      gen: "svědȯčstv"
+      loc: "svědȯčstvah"
+      dat: "svědȯčstvam"
+      ins: "svědȯčstvami"
+      voc: "svědȯčstva"

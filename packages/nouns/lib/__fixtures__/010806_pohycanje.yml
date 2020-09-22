@@ -1,0 +1,22 @@
+---
+  id: "10806"
+  word: "pohyćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pohyćańje"
+      acc: "pohyćańje"
+      gen: "pohyćańja"
+      loc: "pohyćańju"
+      dat: "pohyćańju"
+      ins: "pohyćańjem"
+      voc: "pohyćańje"
+    plural: 
+      nom: "pohyćańja"
+      acc: "pohyćańja"
+      gen: "pohyćanij"
+      loc: "pohyćańjah"
+      dat: "pohyćańjam"
+      ins: "pohyćańjami"
+      voc: "pohyćańja"

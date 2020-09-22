@@ -1,0 +1,22 @@
+---
+  id: "23433"
+  word: "klarnet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klarnet"
+      acc: "klarnet"
+      gen: "klarneta"
+      loc: "klarnetu"
+      dat: "klarnetu"
+      ins: "klarnetom"
+      voc: "klarnete"
+    plural: 
+      nom: "klarnety"
+      acc: "klarnety"
+      gen: "klarnetov"
+      loc: "klarnetah"
+      dat: "klarnetam"
+      ins: "klarnetami"
+      voc: "klarnety"

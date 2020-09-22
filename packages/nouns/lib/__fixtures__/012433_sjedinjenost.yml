@@ -1,0 +1,22 @@
+---
+  id: "12433"
+  word: "sjedinjenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sjedinjenosť"
+      acc: "sjedinjenosť"
+      gen: "sjedinjenosti"
+      loc: "sjedinjenosti"
+      dat: "sjedinjenosti"
+      ins: "sjedinjenosťjų"
+      voc: "sjedinjenosti"
+    plural: 
+      nom: "sjedinjenosti"
+      acc: "sjedinjenosti"
+      gen: "sjedinjenostij"
+      loc: "sjedinjenosťah"
+      dat: "sjedinjenosťam"
+      ins: "sjedinjenosťami"
+      voc: "sjedinjenosti"

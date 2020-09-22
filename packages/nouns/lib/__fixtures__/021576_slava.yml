@@ -1,0 +1,22 @@
+---
+  id: "21576"
+  word: "slava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slava"
+      acc: "slavų"
+      gen: "slavy"
+      loc: "slavě"
+      dat: "slavě"
+      ins: "slavojų"
+      voc: "slavo"
+    plural: 
+      nom: "slavy"
+      acc: "slavy"
+      gen: "slav"
+      loc: "slavah"
+      dat: "slavam"
+      ins: "slavami"
+      voc: "slavy"

@@ -1,0 +1,22 @@
+---
+  id: "2314"
+  word: "tradicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tradicija"
+      acc: "tradicijų"
+      gen: "tradicije"
+      loc: "tradiciji"
+      dat: "tradiciji"
+      ins: "tradicijejų"
+      voc: "tradicijo"
+    plural: 
+      nom: "tradicije"
+      acc: "tradicije"
+      gen: "tradicij"
+      loc: "tradicijah"
+      dat: "tradicijam"
+      ins: "tradicijami"
+      voc: "tradicije"

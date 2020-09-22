@@ -1,0 +1,22 @@
+---
+  id: "12022"
+  word: "rov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rov"
+      acc: "rov"
+      gen: "rova"
+      loc: "rovu"
+      dat: "rovu"
+      ins: "rovom"
+      voc: "rove"
+    plural: 
+      nom: "rovy"
+      acc: "rovy"
+      gen: "rovov"
+      loc: "rovah"
+      dat: "rovam"
+      ins: "rovami"
+      voc: "rovy"

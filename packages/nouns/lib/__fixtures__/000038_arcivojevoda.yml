@@ -1,0 +1,23 @@
+---
+  id: "38"
+  word: "arcivojevoda"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "arcivojevoda"
+      acc: "arcivojevodų"
+      gen: "arcivojevody"
+      loc: "arcivojevodě"
+      dat: "arcivojevodě"
+      ins: "arcivojevodojų"
+      voc: "arcivojevodo"
+    plural: 
+      nom: "arcivojevodi"
+      acc: "arcivojevodov"
+      gen: "arcivojevodov"
+      loc: "arcivojevodah"
+      dat: "arcivojevodam"
+      ins: "arcivojevodami"
+      voc: "arcivojevodi"

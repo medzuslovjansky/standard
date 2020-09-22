@@ -1,0 +1,47 @@
+---
+  - 
+    id: "20478"
+    word: "měšćan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "měšćan"
+        acc: "měšćana"
+        gen: "měšćana"
+        loc: "měšćanu"
+        dat: "měšćanu"
+        ins: "měšćanom"
+        voc: "měšćane"
+      plural: 
+        nom: "měšćani"
+        acc: "měšćanov"
+        gen: "měšćanov"
+        loc: "měšćanah"
+        dat: "měšćanam"
+        ins: "měšćanami"
+        voc: "měšćani"
+  - 
+    id: "20478"
+    word: "měšćanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "měšćanin"
+        acc: "měšćanina"
+        gen: "měšćanina"
+        loc: "měšćaninu"
+        dat: "měšćaninu"
+        ins: "měšćaninom"
+        voc: "měšćanine"
+      plural: 
+        nom: "měšćani"
+        acc: "měšćanov"
+        gen: "měšćanov"
+        loc: "měšćanah"
+        dat: "měšćanam"
+        ins: "měšćanami"
+        voc: "měšćani"

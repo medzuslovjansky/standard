@@ -1,0 +1,22 @@
+---
+  id: "2901"
+  word: "zavěsa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zavěsa"
+      acc: "zavěsų"
+      gen: "zavěsy"
+      loc: "zavěsě"
+      dat: "zavěsě"
+      ins: "zavěsojų"
+      voc: "zavěso"
+    plural: 
+      nom: "zavěsy"
+      acc: "zavěsy"
+      gen: "zavěs"
+      loc: "zavěsah"
+      dat: "zavěsam"
+      ins: "zavěsami"
+      voc: "zavěsy"

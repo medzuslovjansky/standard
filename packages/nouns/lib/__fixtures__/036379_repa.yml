@@ -1,0 +1,22 @@
+---
+  id: "36379"
+  word: "rěpa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rěpa"
+      acc: "rěpų"
+      gen: "rěpy"
+      loc: "rěpě"
+      dat: "rěpě"
+      ins: "rěpojų"
+      voc: "rěpo"
+    plural: 
+      nom: "rěpy"
+      acc: "rěpy"
+      gen: "rěp"
+      loc: "rěpah"
+      dat: "rěpam"
+      ins: "rěpami"
+      voc: "rěpy"

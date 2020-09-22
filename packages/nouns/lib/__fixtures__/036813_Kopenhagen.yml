@@ -1,0 +1,22 @@
+---
+  id: "36813"
+  word: "Kopenhagen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Kopenhagen"
+      acc: "Kopenhagen"
+      gen: "Kopenhagena"
+      loc: "Kopenhagenu"
+      dat: "Kopenhagenu"
+      ins: "Kopenhagenom"
+      voc: "Kopenhagene"
+    plural: 
+      nom: "Kopenhageny"
+      acc: "Kopenhageny"
+      gen: "Kopenhagenov"
+      loc: "Kopenhagenah"
+      dat: "Kopenhagenam"
+      ins: "Kopenhagenami"
+      voc: "Kopenhageny"

@@ -1,0 +1,22 @@
+---
+  id: "2264"
+  word: "vęćinstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vęćinstvo"
+      acc: "vęćinstvo"
+      gen: "vęćinstva"
+      loc: "vęćinstvu"
+      dat: "vęćinstvu"
+      ins: "vęćinstvom"
+      voc: "vęćinstvo"
+    plural: 
+      nom: "vęćinstva"
+      acc: "vęćinstva"
+      gen: "vęćinstv"
+      loc: "vęćinstvah"
+      dat: "vęćinstvam"
+      ins: "vęćinstvami"
+      voc: "vęćinstva"

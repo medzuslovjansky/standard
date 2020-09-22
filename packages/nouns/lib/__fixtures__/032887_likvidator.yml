@@ -1,0 +1,23 @@
+---
+  id: "32887"
+  word: "likvidator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "likvidator"
+      acc: "likvidatora"
+      gen: "likvidatora"
+      loc: "likvidatoru"
+      dat: "likvidatoru"
+      ins: "likvidatorom"
+      voc: "likvidatore"
+    plural: 
+      nom: "likvidatori"
+      acc: "likvidatorov"
+      gen: "likvidatorov"
+      loc: "likvidatorah"
+      dat: "likvidatoram"
+      ins: "likvidatorami"
+      voc: "likvidatori"

@@ -1,0 +1,22 @@
+---
+  id: "24374"
+  word: "avtokracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtokracija"
+      acc: "avtokracijų"
+      gen: "avtokracije"
+      loc: "avtokraciji"
+      dat: "avtokraciji"
+      ins: "avtokracijejų"
+      voc: "avtokracijo"
+    plural: 
+      nom: "avtokracije"
+      acc: "avtokracije"
+      gen: "avtokracij"
+      loc: "avtokracijah"
+      dat: "avtokracijam"
+      ins: "avtokracijami"
+      voc: "avtokracije"

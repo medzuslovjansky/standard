@@ -1,0 +1,23 @@
+---
+  id: "21015"
+  word: "polovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "polovnik"
+      acc: "polovnika"
+      gen: "polovnika"
+      loc: "polovniku"
+      dat: "polovniku"
+      ins: "polovnikom"
+      voc: "polovniče"
+    plural: 
+      nom: "polovniki"
+      acc: "polovnikov"
+      gen: "polovnikov"
+      loc: "polovnikah"
+      dat: "polovnikam"
+      ins: "polovnikami"
+      voc: "polovniki"

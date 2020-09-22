@@ -1,0 +1,23 @@
+---
+  id: "20415"
+  word: "krålik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krålik"
+      acc: "krålika"
+      gen: "krålika"
+      loc: "kråliku"
+      dat: "kråliku"
+      ins: "krålikom"
+      voc: "kråliče"
+    plural: 
+      nom: "kråliki"
+      acc: "krålikov"
+      gen: "krålikov"
+      loc: "krålikah"
+      dat: "krålikam"
+      ins: "krålikami"
+      voc: "kråliki"

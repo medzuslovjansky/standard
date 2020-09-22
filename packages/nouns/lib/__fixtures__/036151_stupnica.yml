@@ -1,0 +1,22 @@
+---
+  id: "36151"
+  word: "stųpnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stųpnica"
+      acc: "stųpnicų"
+      gen: "stųpnice"
+      loc: "stųpnici"
+      dat: "stųpnici"
+      ins: "stųpnicejų"
+      voc: "stųpnico"
+    plural: 
+      nom: "stųpnice"
+      acc: "stųpnice"
+      gen: "stųpnic"
+      loc: "stųpnicah"
+      dat: "stųpnicam"
+      ins: "stųpnicami"
+      voc: "stųpnice"

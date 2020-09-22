@@ -1,0 +1,22 @@
+---
+  id: "34421"
+  word: "okrajina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okrajina"
+      acc: "okrajinų"
+      gen: "okrajiny"
+      loc: "okrajině"
+      dat: "okrajině"
+      ins: "okrajinojų"
+      voc: "okrajino"
+    plural: 
+      nom: "okrajiny"
+      acc: "okrajiny"
+      gen: "okrajin"
+      loc: "okrajinah"
+      dat: "okrajinam"
+      ins: "okrajinami"
+      voc: "okrajiny"

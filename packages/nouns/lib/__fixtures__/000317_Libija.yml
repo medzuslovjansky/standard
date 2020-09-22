@@ -1,0 +1,15 @@
+---
+  id: "317"
+  word: "Libija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Libija"
+      acc: "Libijų"
+      gen: "Libije"
+      loc: "Libiji"
+      dat: "Libiji"
+      ins: "Libijejų"
+      voc: "Libijo"

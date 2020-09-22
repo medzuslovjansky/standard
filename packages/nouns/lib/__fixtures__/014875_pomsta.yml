@@ -1,0 +1,22 @@
+---
+  id: "14875"
+  word: "pomsta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pomsta"
+      acc: "pomstų"
+      gen: "pomsty"
+      loc: "pomstě"
+      dat: "pomstě"
+      ins: "pomstojų"
+      voc: "pomsto"
+    plural: 
+      nom: "pomsty"
+      acc: "pomsty"
+      gen: "pomst"
+      loc: "pomstah"
+      dat: "pomstam"
+      ins: "pomstami"
+      voc: "pomsty"

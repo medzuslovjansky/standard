@@ -1,0 +1,22 @@
+---
+  id: "23125"
+  word: "nogavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nogavka"
+      acc: "nogavkų"
+      gen: "nogavky"
+      loc: "nogavkě"
+      dat: "nogavkě"
+      ins: "nogavkojų"
+      voc: "nogavko"
+    plural: 
+      nom: "nogavky"
+      acc: "nogavky"
+      gen: "nogavȯk"
+      loc: "nogavkah"
+      dat: "nogavkam"
+      ins: "nogavkami"
+      voc: "nogavky"

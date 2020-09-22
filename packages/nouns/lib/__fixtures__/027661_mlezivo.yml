@@ -1,0 +1,15 @@
+---
+  id: "27661"
+  word: "mlězivo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mlězivo"
+      acc: "mlězivo"
+      gen: "mlěziva"
+      loc: "mlězivu"
+      dat: "mlězivu"
+      ins: "mlězivom"
+      voc: "mlězivo"

@@ -1,0 +1,22 @@
+---
+  id: "27623"
+  word: "miraž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "miraž"
+      acc: "miraž"
+      gen: "miraža"
+      loc: "miražu"
+      dat: "miražu"
+      ins: "miražem"
+      voc: "miražu"
+    plural: 
+      nom: "miraže"
+      acc: "miraže"
+      gen: "miražev"
+      loc: "miražah"
+      dat: "miražam"
+      ins: "miražami"
+      voc: "miraže"

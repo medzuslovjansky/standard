@@ -1,0 +1,22 @@
+---
+  id: "24978"
+  word: "črpak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "črpak"
+      acc: "črpak"
+      gen: "črpaka"
+      loc: "črpaku"
+      dat: "črpaku"
+      ins: "črpakom"
+      voc: "črpače"
+    plural: 
+      nom: "črpaky"
+      acc: "črpaky"
+      gen: "črpakov"
+      loc: "črpakah"
+      dat: "črpakam"
+      ins: "črpakami"
+      voc: "črpaky"

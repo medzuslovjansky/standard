@@ -1,0 +1,23 @@
+---
+  id: "20203"
+  word: "tabu"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "tabu"
+      acc: "tabu"
+      gen: "tabu"
+      loc: "tabu"
+      dat: "tabu"
+      ins: "tabu"
+      voc: "tabu"
+    plural: 
+      nom: "tabu"
+      acc: "tabu"
+      gen: "tabu"
+      loc: "tabu"
+      dat: "tabu"
+      ins: "tabu"
+      voc: "tabu"

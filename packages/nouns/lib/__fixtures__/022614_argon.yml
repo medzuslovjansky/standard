@@ -1,0 +1,15 @@
+---
+  id: "22614"
+  word: "argon"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "argon"
+      acc: "argon"
+      gen: "argona"
+      loc: "argonu"
+      dat: "argonu"
+      ins: "argonom"
+      voc: "argone"

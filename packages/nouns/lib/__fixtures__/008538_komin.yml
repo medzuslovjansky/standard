@@ -1,0 +1,22 @@
+---
+  id: "8538"
+  word: "komin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komin"
+      acc: "komin"
+      gen: "komina"
+      loc: "kominu"
+      dat: "kominu"
+      ins: "kominom"
+      voc: "komine"
+    plural: 
+      nom: "kominy"
+      acc: "kominy"
+      gen: "kominov"
+      loc: "kominah"
+      dat: "kominam"
+      ins: "kominami"
+      voc: "kominy"

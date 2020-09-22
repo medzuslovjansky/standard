@@ -1,0 +1,22 @@
+---
+  id: "21677"
+  word: "zasada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zasada"
+      acc: "zasadų"
+      gen: "zasady"
+      loc: "zasadě"
+      dat: "zasadě"
+      ins: "zasadojų"
+      voc: "zasado"
+    plural: 
+      nom: "zasady"
+      acc: "zasady"
+      gen: "zasad"
+      loc: "zasadah"
+      dat: "zasadam"
+      ins: "zasadami"
+      voc: "zasady"

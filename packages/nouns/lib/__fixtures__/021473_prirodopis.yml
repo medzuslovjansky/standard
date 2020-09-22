@@ -1,0 +1,15 @@
+---
+  id: "21473"
+  word: "prirodopis"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prirodopis"
+      acc: "prirodopis"
+      gen: "prirodopisa"
+      loc: "prirodopisu"
+      dat: "prirodopisu"
+      ins: "prirodopisom"
+      voc: "prirodopise"

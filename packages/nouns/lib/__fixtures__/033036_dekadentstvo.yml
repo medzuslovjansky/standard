@@ -1,0 +1,15 @@
+---
+  id: "33036"
+  word: "dekadentstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dekadentstvo"
+      acc: "dekadentstvo"
+      gen: "dekadentstva"
+      loc: "dekadentstvu"
+      dat: "dekadentstvu"
+      ins: "dekadentstvom"
+      voc: "dekadentstvo"

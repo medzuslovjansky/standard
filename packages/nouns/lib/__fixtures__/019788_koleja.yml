@@ -1,0 +1,22 @@
+---
+  id: "19788"
+  word: "kolěja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolěja"
+      acc: "kolějų"
+      gen: "kolěje"
+      loc: "kolěji"
+      dat: "kolěji"
+      ins: "kolějejų"
+      voc: "kolějo"
+    plural: 
+      nom: "kolěje"
+      acc: "kolěje"
+      gen: "kolěj"
+      loc: "kolějah"
+      dat: "kolějam"
+      ins: "kolějami"
+      voc: "kolěje"

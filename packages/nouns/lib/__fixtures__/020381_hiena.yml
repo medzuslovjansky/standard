@@ -1,0 +1,22 @@
+---
+  id: "20381"
+  word: "hiena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hiena"
+      acc: "hienų"
+      gen: "hieny"
+      loc: "hieně"
+      dat: "hieně"
+      ins: "hienojų"
+      voc: "hieno"
+    plural: 
+      nom: "hieny"
+      acc: "hieny"
+      gen: "hien"
+      loc: "hienah"
+      dat: "hienam"
+      ins: "hienami"
+      voc: "hieny"

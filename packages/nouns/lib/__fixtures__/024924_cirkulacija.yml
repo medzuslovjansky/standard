@@ -1,0 +1,15 @@
+---
+  id: "24924"
+  word: "cirkulacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cirkulacija"
+      acc: "cirkulacijų"
+      gen: "cirkulacije"
+      loc: "cirkulaciji"
+      dat: "cirkulaciji"
+      ins: "cirkulacijejų"
+      voc: "cirkulacijo"

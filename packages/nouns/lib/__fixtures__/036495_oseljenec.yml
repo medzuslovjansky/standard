@@ -1,0 +1,23 @@
+---
+  id: "36495"
+  word: "oseljenėc"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "oseljenėc"
+      acc: "oseljenca"
+      gen: "oseljenca"
+      loc: "oseljencu"
+      dat: "oseljencu"
+      ins: "oseljencem"
+      voc: "oseljencu"
+    plural: 
+      nom: "oseljenci"
+      acc: "oseljencev"
+      gen: "oseljencev"
+      loc: "oseljencah"
+      dat: "oseljencam"
+      ins: "oseljencami"
+      voc: "oseljenci"

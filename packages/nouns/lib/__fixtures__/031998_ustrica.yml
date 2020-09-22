@@ -1,0 +1,22 @@
+---
+  id: "31998"
+  word: "ustrica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ustrica"
+      acc: "ustricų"
+      gen: "ustrice"
+      loc: "ustrici"
+      dat: "ustrici"
+      ins: "ustricejų"
+      voc: "ustrico"
+    plural: 
+      nom: "ustrice"
+      acc: "ustrice"
+      gen: "ustric"
+      loc: "ustricah"
+      dat: "ustricam"
+      ins: "ustricami"
+      voc: "ustrice"

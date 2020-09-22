@@ -1,0 +1,23 @@
+---
+  id: "15485"
+  word: "požarnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "požarnik"
+      acc: "požarnika"
+      gen: "požarnika"
+      loc: "požarniku"
+      dat: "požarniku"
+      ins: "požarnikom"
+      voc: "požarniče"
+    plural: 
+      nom: "požarniki"
+      acc: "požarnikov"
+      gen: "požarnikov"
+      loc: "požarnikah"
+      dat: "požarnikam"
+      ins: "požarnikami"
+      voc: "požarniki"

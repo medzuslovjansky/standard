@@ -1,0 +1,22 @@
+---
+  id: "23478"
+  word: "boliglåv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "boliglåv"
+      acc: "boliglåv"
+      gen: "boliglåva"
+      loc: "boliglåvu"
+      dat: "boliglåvu"
+      ins: "boliglåvom"
+      voc: "boliglåve"
+    plural: 
+      nom: "boliglåvy"
+      acc: "boliglåvy"
+      gen: "boliglåvov"
+      loc: "boliglåvah"
+      dat: "boliglåvam"
+      ins: "boliglåvami"
+      voc: "boliglåvy"

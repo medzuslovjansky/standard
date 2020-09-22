@@ -1,0 +1,15 @@
+---
+  id: "19747"
+  word: "izměšćeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izměšćeńje"
+      acc: "izměšćeńje"
+      gen: "izměšćeńja"
+      loc: "izměšćeńju"
+      dat: "izměšćeńju"
+      ins: "izměšćeńjem"
+      voc: "izměšćeńje"

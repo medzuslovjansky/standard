@@ -1,0 +1,22 @@
+---
+  id: "13171"
+  word: "učęstnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "učęstnica"
+      acc: "učęstnicų"
+      gen: "učęstnice"
+      loc: "učęstnici"
+      dat: "učęstnici"
+      ins: "učęstnicejų"
+      voc: "učęstnico"
+    plural: 
+      nom: "učęstnice"
+      acc: "učęstnice"
+      gen: "učęstnic"
+      loc: "učęstnicah"
+      dat: "učęstnicam"
+      ins: "učęstnicami"
+      voc: "učęstnice"

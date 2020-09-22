@@ -1,0 +1,22 @@
+---
+  id: "20004"
+  word: "oprošćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oprošćeńje"
+      acc: "oprošćeńje"
+      gen: "oprošćeńja"
+      loc: "oprošćeńju"
+      dat: "oprošćeńju"
+      ins: "oprošćeńjem"
+      voc: "oprošćeńje"
+    plural: 
+      nom: "oprošćeńja"
+      acc: "oprošćeńja"
+      gen: "oprošćenij"
+      loc: "oprošćeńjah"
+      dat: "oprošćeńjam"
+      ins: "oprošćeńjami"
+      voc: "oprošćeńja"

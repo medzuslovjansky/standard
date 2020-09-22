@@ -1,0 +1,22 @@
+---
+  id: "36061"
+  word: "plěvnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plěvnja"
+      acc: "plěvnjų"
+      gen: "plěvnje"
+      loc: "plěvnji"
+      dat: "plěvnji"
+      ins: "plěvnjejų"
+      voc: "plěvnjo"
+    plural: 
+      nom: "plěvnje"
+      acc: "plěvnje"
+      gen: "plěvnej"
+      loc: "plěvnjah"
+      dat: "plěvnjam"
+      ins: "plěvnjami"
+      voc: "plěvnje"

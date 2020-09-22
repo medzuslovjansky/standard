@@ -1,0 +1,22 @@
+---
+  id: "24810"
+  word: "brěk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brěk"
+      acc: "brěk"
+      gen: "brěka"
+      loc: "brěku"
+      dat: "brěku"
+      ins: "brěkom"
+      voc: "brěče"
+    plural: 
+      nom: "brěky"
+      acc: "brěky"
+      gen: "brěkov"
+      loc: "brěkah"
+      dat: "brěkam"
+      ins: "brěkami"
+      voc: "brěky"

@@ -1,0 +1,23 @@
+---
+  id: "22311"
+  word: "nevoljnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nevoljnik"
+      acc: "nevoljnika"
+      gen: "nevoljnika"
+      loc: "nevoljniku"
+      dat: "nevoljniku"
+      ins: "nevoljnikom"
+      voc: "nevoljniče"
+    plural: 
+      nom: "nevoljniki"
+      acc: "nevoljnikov"
+      gen: "nevoljnikov"
+      loc: "nevoljnikah"
+      dat: "nevoljnikam"
+      ins: "nevoljnikami"
+      voc: "nevoljniki"

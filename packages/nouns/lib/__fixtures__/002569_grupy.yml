@@ -1,0 +1,15 @@
+---
+  id: "2569"
+  word: "grupy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "grupy"
+      acc: "grupy"
+      gen: "grup"
+      loc: "grupah"
+      dat: "grupam"
+      ins: "grupami"
+      voc: "grupy"

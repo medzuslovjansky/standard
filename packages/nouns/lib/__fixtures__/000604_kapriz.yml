@@ -1,0 +1,22 @@
+---
+  id: "604"
+  word: "kapriz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kapriz"
+      acc: "kapriz"
+      gen: "kapriza"
+      loc: "kaprizu"
+      dat: "kaprizu"
+      ins: "kaprizom"
+      voc: "kaprize"
+    plural: 
+      nom: "kaprizy"
+      acc: "kaprizy"
+      gen: "kaprizov"
+      loc: "kaprizah"
+      dat: "kaprizam"
+      ins: "kaprizami"
+      voc: "kaprizy"

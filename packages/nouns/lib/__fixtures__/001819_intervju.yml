@@ -1,0 +1,23 @@
+---
+  id: "1819"
+  word: "intervju"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "intervju"
+      acc: "intervju"
+      gen: "intervju"
+      loc: "intervju"
+      dat: "intervju"
+      ins: "intervju"
+      voc: "intervju"
+    plural: 
+      nom: "intervju"
+      acc: "intervju"
+      gen: "intervju"
+      loc: "intervju"
+      dat: "intervju"
+      ins: "intervju"
+      voc: "intervju"

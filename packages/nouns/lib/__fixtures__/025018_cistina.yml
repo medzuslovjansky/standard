@@ -1,0 +1,22 @@
+---
+  id: "25018"
+  word: "čistina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čistina"
+      acc: "čistinų"
+      gen: "čistiny"
+      loc: "čistině"
+      dat: "čistině"
+      ins: "čistinojų"
+      voc: "čistino"
+    plural: 
+      nom: "čistiny"
+      acc: "čistiny"
+      gen: "čistin"
+      loc: "čistinah"
+      dat: "čistinam"
+      ins: "čistinami"
+      voc: "čistiny"

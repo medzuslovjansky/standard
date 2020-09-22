@@ -1,0 +1,23 @@
+---
+  id: "16961"
+  word: "koristnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "koristnik"
+      acc: "koristnika"
+      gen: "koristnika"
+      loc: "koristniku"
+      dat: "koristniku"
+      ins: "koristnikom"
+      voc: "koristniče"
+    plural: 
+      nom: "koristniki"
+      acc: "koristnikov"
+      gen: "koristnikov"
+      loc: "koristnikah"
+      dat: "koristnikam"
+      ins: "koristnikami"
+      voc: "koristniki"

@@ -1,0 +1,22 @@
+---
+  id: "33734"
+  word: "psica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "psica"
+      acc: "psicų"
+      gen: "psice"
+      loc: "psici"
+      dat: "psici"
+      ins: "psicejų"
+      voc: "psico"
+    plural: 
+      nom: "psice"
+      acc: "psice"
+      gen: "psic"
+      loc: "psicah"
+      dat: "psicam"
+      ins: "psicami"
+      voc: "psice"

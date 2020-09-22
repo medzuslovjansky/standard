@@ -1,0 +1,22 @@
+---
+  id: "18016"
+  word: "obmeđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obmeđeńje"
+      acc: "obmeđeńje"
+      gen: "obmeđeńja"
+      loc: "obmeđeńju"
+      dat: "obmeđeńju"
+      ins: "obmeđeńjem"
+      voc: "obmeđeńje"
+    plural: 
+      nom: "obmeđeńja"
+      acc: "obmeđeńja"
+      gen: "obmeđenij"
+      loc: "obmeđeńjah"
+      dat: "obmeđeńjam"
+      ins: "obmeđeńjami"
+      voc: "obmeđeńja"

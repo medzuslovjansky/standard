@@ -1,0 +1,22 @@
+---
+  id: "36292"
+  word: "triler"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "triler"
+      acc: "triler"
+      gen: "trilera"
+      loc: "trileru"
+      dat: "trileru"
+      ins: "trilerom"
+      voc: "trilere"
+    plural: 
+      nom: "trilery"
+      acc: "trilery"
+      gen: "trilerov"
+      loc: "trilerah"
+      dat: "trileram"
+      ins: "trilerami"
+      voc: "trilery"

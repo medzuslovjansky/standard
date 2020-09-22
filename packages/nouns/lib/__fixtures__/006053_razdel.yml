@@ -1,0 +1,22 @@
+---
+  id: "6053"
+  word: "råzděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzděl"
+      acc: "råzděl"
+      gen: "råzděla"
+      loc: "råzdělu"
+      dat: "råzdělu"
+      ins: "råzdělom"
+      voc: "råzděle"
+    plural: 
+      nom: "råzděly"
+      acc: "råzděly"
+      gen: "råzdělov"
+      loc: "råzdělah"
+      dat: "råzdělam"
+      ins: "råzdělami"
+      voc: "råzděly"

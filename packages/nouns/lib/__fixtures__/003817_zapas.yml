@@ -1,0 +1,22 @@
+---
+  id: "3817"
+  word: "zapas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapas"
+      acc: "zapas"
+      gen: "zapasa"
+      loc: "zapasu"
+      dat: "zapasu"
+      ins: "zapasom"
+      voc: "zapase"
+    plural: 
+      nom: "zapasy"
+      acc: "zapasy"
+      gen: "zapasov"
+      loc: "zapasah"
+      dat: "zapasam"
+      ins: "zapasami"
+      voc: "zapasy"

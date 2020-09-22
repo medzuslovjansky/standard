@@ -1,0 +1,22 @@
+---
+  id: "6003"
+  word: "povaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povaga"
+      acc: "povagų"
+      gen: "povagy"
+      loc: "povagě"
+      dat: "povagě"
+      ins: "povagojų"
+      voc: "povago"
+    plural: 
+      nom: "povagy"
+      acc: "povagy"
+      gen: "povag"
+      loc: "povagah"
+      dat: "povagam"
+      ins: "povagami"
+      voc: "povagy"

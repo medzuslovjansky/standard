@@ -1,0 +1,22 @@
+---
+  id: "5195"
+  word: "košaŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "košaŕka"
+      acc: "košaŕkų"
+      gen: "košaŕky"
+      loc: "košaŕkě"
+      dat: "košaŕkě"
+      ins: "košaŕkojų"
+      voc: "košaŕko"
+    plural: 
+      nom: "košaŕky"
+      acc: "košaŕky"
+      gen: "košaŕek"
+      loc: "košaŕkah"
+      dat: "košaŕkam"
+      ins: "košaŕkami"
+      voc: "košaŕky"

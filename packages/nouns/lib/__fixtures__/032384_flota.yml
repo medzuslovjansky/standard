@@ -1,0 +1,22 @@
+---
+  id: "32384"
+  word: "flota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "flota"
+      acc: "flotų"
+      gen: "floty"
+      loc: "flotě"
+      dat: "flotě"
+      ins: "flotojų"
+      voc: "floto"
+    plural: 
+      nom: "floty"
+      acc: "floty"
+      gen: "flot"
+      loc: "flotah"
+      dat: "flotam"
+      ins: "flotami"
+      voc: "floty"

@@ -1,0 +1,22 @@
+---
+  id: "18075"
+  word: "odklonjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odklonjeńje"
+      acc: "odklonjeńje"
+      gen: "odklonjeńja"
+      loc: "odklonjeńju"
+      dat: "odklonjeńju"
+      ins: "odklonjeńjem"
+      voc: "odklonjeńje"
+    plural: 
+      nom: "odklonjeńja"
+      acc: "odklonjeńja"
+      gen: "odklonjenij"
+      loc: "odklonjeńjah"
+      dat: "odklonjeńjam"
+      ins: "odklonjeńjami"
+      voc: "odklonjeńja"

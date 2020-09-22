@@ -1,0 +1,22 @@
+---
+  id: "35830"
+  word: "fuzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fuzija"
+      acc: "fuzijų"
+      gen: "fuzije"
+      loc: "fuziji"
+      dat: "fuziji"
+      ins: "fuzijejų"
+      voc: "fuzijo"
+    plural: 
+      nom: "fuzije"
+      acc: "fuzije"
+      gen: "fuzij"
+      loc: "fuzijah"
+      dat: "fuzijam"
+      ins: "fuzijami"
+      voc: "fuzije"

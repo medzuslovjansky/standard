@@ -1,0 +1,22 @@
+---
+  id: "6388"
+  word: "Albanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Albanka"
+      acc: "Albankų"
+      gen: "Albanky"
+      loc: "Albankě"
+      dat: "Albankě"
+      ins: "Albankojų"
+      voc: "Albanko"
+    plural: 
+      nom: "Albanky"
+      acc: "Albanky"
+      gen: "Albanȯk"
+      loc: "Albankah"
+      dat: "Albankam"
+      ins: "Albankami"
+      voc: "Albanky"

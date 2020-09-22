@@ -1,0 +1,23 @@
+---
+  id: "24513"
+  word: "baptist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "baptist"
+      acc: "baptista"
+      gen: "baptista"
+      loc: "baptistu"
+      dat: "baptistu"
+      ins: "baptistom"
+      voc: "baptiste"
+    plural: 
+      nom: "baptisti"
+      acc: "baptistov"
+      gen: "baptistov"
+      loc: "baptistah"
+      dat: "baptistam"
+      ins: "baptistami"
+      voc: "baptisti"

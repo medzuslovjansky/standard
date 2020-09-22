@@ -1,0 +1,23 @@
+---
+  id: "10558"
+  word: "piroman"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "piroman"
+      acc: "piromana"
+      gen: "piromana"
+      loc: "piromanu"
+      dat: "piromanu"
+      ins: "piromanom"
+      voc: "piromane"
+    plural: 
+      nom: "piromani"
+      acc: "piromanov"
+      gen: "piromanov"
+      loc: "piromanah"
+      dat: "piromanam"
+      ins: "piromanami"
+      voc: "piromani"

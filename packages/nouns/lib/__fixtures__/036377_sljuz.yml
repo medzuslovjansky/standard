@@ -1,0 +1,22 @@
+---
+  id: "36377"
+  word: "šljuz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šljuz"
+      acc: "šljuz"
+      gen: "šljuza"
+      loc: "šljuzu"
+      dat: "šljuzu"
+      ins: "šljuzom"
+      voc: "šljuze"
+    plural: 
+      nom: "šljuzy"
+      acc: "šljuzy"
+      gen: "šljuzov"
+      loc: "šljuzah"
+      dat: "šljuzam"
+      ins: "šljuzami"
+      voc: "šljuzy"

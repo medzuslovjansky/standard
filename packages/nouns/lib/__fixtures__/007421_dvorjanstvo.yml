@@ -1,0 +1,15 @@
+---
+  id: "7421"
+  word: "dvorjanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dvorjanstvo"
+      acc: "dvorjanstvo"
+      gen: "dvorjanstva"
+      loc: "dvorjanstvu"
+      dat: "dvorjanstvu"
+      ins: "dvorjanstvom"
+      voc: "dvorjanstvo"

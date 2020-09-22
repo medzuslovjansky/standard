@@ -1,0 +1,22 @@
+---
+  id: "17966"
+  word: "nitka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nitka"
+      acc: "nitkų"
+      gen: "nitky"
+      loc: "nitkě"
+      dat: "nitkě"
+      ins: "nitkojų"
+      voc: "nitko"
+    plural: 
+      nom: "nitky"
+      acc: "nitky"
+      gen: "nitȯk"
+      loc: "nitkah"
+      dat: "nitkam"
+      ins: "nitkami"
+      voc: "nitky"

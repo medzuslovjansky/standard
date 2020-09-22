@@ -1,0 +1,22 @@
+---
+  id: "30790"
+  word: "stihija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stihija"
+      acc: "stihijų"
+      gen: "stihije"
+      loc: "stihiji"
+      dat: "stihiji"
+      ins: "stihijejų"
+      voc: "stihijo"
+    plural: 
+      nom: "stihije"
+      acc: "stihije"
+      gen: "stihij"
+      loc: "stihijah"
+      dat: "stihijam"
+      ins: "stihijami"
+      voc: "stihije"

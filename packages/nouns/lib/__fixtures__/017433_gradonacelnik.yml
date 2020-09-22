@@ -1,0 +1,23 @@
+---
+  id: "17433"
+  word: "grådonačeľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grådonačeľnik"
+      acc: "grådonačeľnika"
+      gen: "grådonačeľnika"
+      loc: "grådonačeľniku"
+      dat: "grådonačeľniku"
+      ins: "grådonačeľnikom"
+      voc: "grådonačeľniče"
+    plural: 
+      nom: "grådonačeľniki"
+      acc: "grådonačeľnikov"
+      gen: "grådonačeľnikov"
+      loc: "grådonačeľnikah"
+      dat: "grådonačeľnikam"
+      ins: "grådonačeľnikami"
+      voc: "grådonačeľniki"

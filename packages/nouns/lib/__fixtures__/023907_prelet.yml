@@ -1,0 +1,22 @@
+---
+  id: "23907"
+  word: "prělet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prělet"
+      acc: "prělet"
+      gen: "prěleta"
+      loc: "prěletu"
+      dat: "prěletu"
+      ins: "prěletom"
+      voc: "prělete"
+    plural: 
+      nom: "prělety"
+      acc: "prělety"
+      gen: "prěletov"
+      loc: "prěletah"
+      dat: "prěletam"
+      ins: "prěletami"
+      voc: "prělety"

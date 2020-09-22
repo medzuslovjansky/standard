@@ -1,0 +1,15 @@
+---
+  id: "256"
+  word: "Angola"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Angola"
+      acc: "Angolų"
+      gen: "Angoly"
+      loc: "Angolě"
+      dat: "Angolě"
+      ins: "Angolojų"
+      voc: "Angolo"

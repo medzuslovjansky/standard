@@ -1,0 +1,22 @@
+---
+  id: "30927"
+  word: "tykva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tykva"
+      acc: "tykvų"
+      gen: "tykvy"
+      loc: "tykvě"
+      dat: "tykvě"
+      ins: "tykvojų"
+      voc: "tykvo"
+    plural: 
+      nom: "tykvy"
+      acc: "tykvy"
+      gen: "tykv"
+      loc: "tykvah"
+      dat: "tykvam"
+      ins: "tykvami"
+      voc: "tykvy"

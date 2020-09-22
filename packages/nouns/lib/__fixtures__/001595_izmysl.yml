@@ -1,0 +1,22 @@
+---
+  id: "1595"
+  word: "izmysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izmysl"
+      acc: "izmysl"
+      gen: "izmysla"
+      loc: "izmyslu"
+      dat: "izmyslu"
+      ins: "izmyslom"
+      voc: "izmysle"
+    plural: 
+      nom: "izmysly"
+      acc: "izmysly"
+      gen: "izmyslov"
+      loc: "izmyslah"
+      dat: "izmyslam"
+      ins: "izmyslami"
+      voc: "izmysly"

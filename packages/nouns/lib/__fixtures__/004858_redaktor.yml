@@ -1,0 +1,23 @@
+---
+  id: "4858"
+  word: "redaktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "redaktor"
+      acc: "redaktora"
+      gen: "redaktora"
+      loc: "redaktoru"
+      dat: "redaktoru"
+      ins: "redaktorom"
+      voc: "redaktore"
+    plural: 
+      nom: "redaktori"
+      acc: "redaktorov"
+      gen: "redaktorov"
+      loc: "redaktorah"
+      dat: "redaktoram"
+      ins: "redaktorami"
+      voc: "redaktori"

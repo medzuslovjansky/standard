@@ -1,0 +1,22 @@
+---
+  id: "28750"
+  word: "obiľje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obiľje"
+      acc: "obiľje"
+      gen: "obiľja"
+      loc: "obiľju"
+      dat: "obiľju"
+      ins: "obiľjem"
+      voc: "obiľje"
+    plural: 
+      nom: "obiľja"
+      acc: "obiľja"
+      gen: "obilij"
+      loc: "obiľjah"
+      dat: "obiľjam"
+      ins: "obiľjami"
+      voc: "obiľja"

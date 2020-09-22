@@ -1,0 +1,15 @@
+---
+  id: "36651"
+  word: "neodobrjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neodobrjeńje"
+      acc: "neodobrjeńje"
+      gen: "neodobrjeńja"
+      loc: "neodobrjeńju"
+      dat: "neodobrjeńju"
+      ins: "neodobrjeńjem"
+      voc: "neodobrjeńje"

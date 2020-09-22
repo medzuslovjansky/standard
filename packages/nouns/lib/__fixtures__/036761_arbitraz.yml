@@ -1,0 +1,22 @@
+---
+  id: "36761"
+  word: "arbitraž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "arbitraž"
+      acc: "arbitraž"
+      gen: "arbitraža"
+      loc: "arbitražu"
+      dat: "arbitražu"
+      ins: "arbitražem"
+      voc: "arbitražu"
+    plural: 
+      nom: "arbitraže"
+      acc: "arbitraže"
+      gen: "arbitražev"
+      loc: "arbitražah"
+      dat: "arbitražam"
+      ins: "arbitražami"
+      voc: "arbitraže"

@@ -1,0 +1,15 @@
+---
+  id: "35368"
+  word: "mejnstrim"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mejnstrim"
+      acc: "mejnstrim"
+      gen: "mejnstrima"
+      loc: "mejnstrimu"
+      dat: "mejnstrimu"
+      ins: "mejnstrimom"
+      voc: "mejnstrime"

@@ -1,0 +1,22 @@
+---
+  id: "32504"
+  word: "horeografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "horeografija"
+      acc: "horeografijų"
+      gen: "horeografije"
+      loc: "horeografiji"
+      dat: "horeografiji"
+      ins: "horeografijejų"
+      voc: "horeografijo"
+    plural: 
+      nom: "horeografije"
+      acc: "horeografije"
+      gen: "horeografij"
+      loc: "horeografijah"
+      dat: "horeografijam"
+      ins: "horeografijami"
+      voc: "horeografije"

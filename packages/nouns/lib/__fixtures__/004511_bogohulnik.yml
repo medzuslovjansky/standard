@@ -1,0 +1,23 @@
+---
+  id: "4511"
+  word: "bogohuľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bogohuľnik"
+      acc: "bogohuľnika"
+      gen: "bogohuľnika"
+      loc: "bogohuľniku"
+      dat: "bogohuľniku"
+      ins: "bogohuľnikom"
+      voc: "bogohuľniče"
+    plural: 
+      nom: "bogohuľniki"
+      acc: "bogohuľnikov"
+      gen: "bogohuľnikov"
+      loc: "bogohuľnikah"
+      dat: "bogohuľnikam"
+      ins: "bogohuľnikami"
+      voc: "bogohuľniki"

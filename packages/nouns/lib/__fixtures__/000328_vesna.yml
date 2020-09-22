@@ -1,0 +1,22 @@
+---
+  id: "328"
+  word: "vesna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vesna"
+      acc: "vesnų"
+      gen: "vesny"
+      loc: "vesně"
+      dat: "vesně"
+      ins: "vesnojų"
+      voc: "vesno"
+    plural: 
+      nom: "vesny"
+      acc: "vesny"
+      gen: "vesen"
+      loc: "vesnah"
+      dat: "vesnam"
+      ins: "vesnami"
+      voc: "vesny"

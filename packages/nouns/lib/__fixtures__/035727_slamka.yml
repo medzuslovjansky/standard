@@ -1,0 +1,22 @@
+---
+  id: "35727"
+  word: "slåmka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slåmka"
+      acc: "slåmkų"
+      gen: "slåmky"
+      loc: "slåmkě"
+      dat: "slåmkě"
+      ins: "slåmkojų"
+      voc: "slåmko"
+    plural: 
+      nom: "slåmky"
+      acc: "slåmky"
+      gen: "slåmȯk"
+      loc: "slåmkah"
+      dat: "slåmkam"
+      ins: "slåmkami"
+      voc: "slåmky"

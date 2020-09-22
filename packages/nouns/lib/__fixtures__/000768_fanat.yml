@@ -1,0 +1,22 @@
+---
+  id: "768"
+  word: "fanat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fanat"
+      acc: "fanat"
+      gen: "fanata"
+      loc: "fanatu"
+      dat: "fanatu"
+      ins: "fanatom"
+      voc: "fanate"
+    plural: 
+      nom: "fanaty"
+      acc: "fanaty"
+      gen: "fanatov"
+      loc: "fanatah"
+      dat: "fanatam"
+      ins: "fanatami"
+      voc: "fanaty"

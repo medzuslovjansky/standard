@@ -1,0 +1,23 @@
+---
+  id: "20887"
+  word: "męsaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "męsaŕ"
+      acc: "męsaŕa"
+      gen: "męsaŕa"
+      loc: "męsaŕu"
+      dat: "męsaŕu"
+      ins: "męsaŕem"
+      voc: "męsaŕu"
+    plural: 
+      nom: "męsari"
+      acc: "męsaŕev"
+      gen: "męsaŕev"
+      loc: "męsaŕah"
+      dat: "męsaŕam"
+      ins: "męsaŕami"
+      voc: "męsari"

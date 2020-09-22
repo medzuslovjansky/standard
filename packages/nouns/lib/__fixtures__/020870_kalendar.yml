@@ -1,0 +1,22 @@
+---
+  id: "20870"
+  word: "kalendaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kalendaŕ"
+      acc: "kalendaŕ"
+      gen: "kalendaŕa"
+      loc: "kalendaŕu"
+      dat: "kalendaŕu"
+      ins: "kalendaŕem"
+      voc: "kalendaŕu"
+    plural: 
+      nom: "kalendaŕe"
+      acc: "kalendaŕe"
+      gen: "kalendaŕev"
+      loc: "kalendaŕah"
+      dat: "kalendaŕam"
+      ins: "kalendaŕami"
+      voc: "kalendaŕe"

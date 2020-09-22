@@ -1,0 +1,23 @@
+---
+  id: "10797"
+  word: "poględatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poględatelj"
+      acc: "poględatelja"
+      gen: "poględatelja"
+      loc: "poględatelju"
+      dat: "poględatelju"
+      ins: "poględateljem"
+      voc: "poględatelju"
+    plural: 
+      nom: "poględatelji"
+      acc: "poględateljev"
+      gen: "poględateljev"
+      loc: "poględateljah"
+      dat: "poględateljam"
+      ins: "poględateljami"
+      voc: "poględatelji"

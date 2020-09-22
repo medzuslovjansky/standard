@@ -1,0 +1,22 @@
+---
+  id: "35465"
+  word: "traktor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "traktor"
+      acc: "traktor"
+      gen: "traktora"
+      loc: "traktoru"
+      dat: "traktoru"
+      ins: "traktorom"
+      voc: "traktore"
+    plural: 
+      nom: "traktory"
+      acc: "traktory"
+      gen: "traktorov"
+      loc: "traktorah"
+      dat: "traktoram"
+      ins: "traktorami"
+      voc: "traktory"

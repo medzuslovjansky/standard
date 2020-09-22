@@ -1,0 +1,22 @@
+---
+  id: "19193"
+  word: "věšalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věšalka"
+      acc: "věšalkų"
+      gen: "věšalky"
+      loc: "věšalkě"
+      dat: "věšalkě"
+      ins: "věšalkojų"
+      voc: "věšalko"
+    plural: 
+      nom: "věšalky"
+      acc: "věšalky"
+      gen: "věšalȯk"
+      loc: "věšalkah"
+      dat: "věšalkam"
+      ins: "věšalkami"
+      voc: "věšalky"

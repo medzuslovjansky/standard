@@ -1,0 +1,23 @@
+---
+  id: "16862"
+  word: "netopyŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "netopyŕ"
+      acc: "netopyŕa"
+      gen: "netopyŕa"
+      loc: "netopyŕu"
+      dat: "netopyŕu"
+      ins: "netopyŕem"
+      voc: "netopyŕu"
+    plural: 
+      nom: "netopyri"
+      acc: "netopyŕev"
+      gen: "netopyŕev"
+      loc: "netopyŕah"
+      dat: "netopyŕam"
+      ins: "netopyŕami"
+      voc: "netopyri"

@@ -1,0 +1,15 @@
+---
+  id: "27288"
+  word: "lomjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lomjeńje"
+      acc: "lomjeńje"
+      gen: "lomjeńja"
+      loc: "lomjeńju"
+      dat: "lomjeńju"
+      ins: "lomjeńjem"
+      voc: "lomjeńje"

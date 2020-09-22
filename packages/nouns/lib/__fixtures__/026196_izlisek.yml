@@ -1,0 +1,22 @@
+---
+  id: "26196"
+  word: "izlišek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izlišek"
+      acc: "izlišek"
+      gen: "izlišeka"
+      loc: "izlišeku"
+      dat: "izlišeku"
+      ins: "izlišekom"
+      voc: "izlišeče"
+    plural: 
+      nom: "izlišeky"
+      acc: "izlišeky"
+      gen: "izlišekov"
+      loc: "izlišekah"
+      dat: "izlišekam"
+      ins: "izlišekami"
+      voc: "izlišeky"

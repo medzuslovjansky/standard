@@ -1,0 +1,22 @@
+---
+  id: "1237"
+  word: "novosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "novosť"
+      acc: "novosť"
+      gen: "novosti"
+      loc: "novosti"
+      dat: "novosti"
+      ins: "novosťjų"
+      voc: "novosti"
+    plural: 
+      nom: "novosti"
+      acc: "novosti"
+      gen: "novostij"
+      loc: "novosťah"
+      dat: "novosťam"
+      ins: "novosťami"
+      voc: "novosti"

@@ -1,0 +1,15 @@
+---
+  id: "36500"
+  word: "sanje"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "sanje"
+      acc: "sanje"
+      gen: "sanj"
+      loc: "sanjah"
+      dat: "sanjam"
+      ins: "sanjami"
+      voc: "sanje"

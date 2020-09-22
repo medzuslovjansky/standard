@@ -1,0 +1,22 @@
+---
+  id: "30611"
+  word: "restoran"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "restoran"
+      acc: "restoran"
+      gen: "restorana"
+      loc: "restoranu"
+      dat: "restoranu"
+      ins: "restoranom"
+      voc: "restorane"
+    plural: 
+      nom: "restorany"
+      acc: "restorany"
+      gen: "restoranov"
+      loc: "restoranah"
+      dat: "restoranam"
+      ins: "restoranami"
+      voc: "restorany"

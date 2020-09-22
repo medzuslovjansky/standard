@@ -1,0 +1,22 @@
+---
+  id: "16747"
+  word: "maněrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maněrka"
+      acc: "maněrkų"
+      gen: "maněrky"
+      loc: "maněrkě"
+      dat: "maněrkě"
+      ins: "maněrkojų"
+      voc: "maněrko"
+    plural: 
+      nom: "maněrky"
+      acc: "maněrky"
+      gen: "maněrȯk"
+      loc: "maněrkah"
+      dat: "maněrkam"
+      ins: "maněrkami"
+      voc: "maněrky"

@@ -1,0 +1,22 @@
+---
+  id: "261"
+  word: "padež"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "padež"
+      acc: "padež"
+      gen: "padeža"
+      loc: "padežu"
+      dat: "padežu"
+      ins: "padežem"
+      voc: "padežu"
+    plural: 
+      nom: "padeže"
+      acc: "padeže"
+      gen: "padežev"
+      loc: "padežah"
+      dat: "padežam"
+      ins: "padežami"
+      voc: "padeže"

@@ -1,0 +1,23 @@
+---
+  id: "4963"
+  word: "emigrant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "emigrant"
+      acc: "emigranta"
+      gen: "emigranta"
+      loc: "emigrantu"
+      dat: "emigrantu"
+      ins: "emigrantom"
+      voc: "emigrante"
+    plural: 
+      nom: "emigranti"
+      acc: "emigrantov"
+      gen: "emigrantov"
+      loc: "emigrantah"
+      dat: "emigrantam"
+      ins: "emigrantami"
+      voc: "emigranti"

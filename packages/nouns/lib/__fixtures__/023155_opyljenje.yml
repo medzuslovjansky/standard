@@ -1,0 +1,22 @@
+---
+  id: "23155"
+  word: "opyljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opyljeńje"
+      acc: "opyljeńje"
+      gen: "opyljeńja"
+      loc: "opyljeńju"
+      dat: "opyljeńju"
+      ins: "opyljeńjem"
+      voc: "opyljeńje"
+    plural: 
+      nom: "opyljeńja"
+      acc: "opyljeńja"
+      gen: "opyljenij"
+      loc: "opyljeńjah"
+      dat: "opyljeńjam"
+      ins: "opyljeńjami"
+      voc: "opyljeńja"

@@ -1,0 +1,23 @@
+---
+  id: "35024"
+  word: "pravopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pravopisec"
+      acc: "pravopisca"
+      gen: "pravopisca"
+      loc: "pravopiscu"
+      dat: "pravopiscu"
+      ins: "pravopiscem"
+      voc: "pravopisče"
+    plural: 
+      nom: "pravopisci"
+      acc: "pravopiscev"
+      gen: "pravopiscev"
+      loc: "pravopiscah"
+      dat: "pravopiscam"
+      ins: "pravopiscami"
+      voc: "pravopisci"

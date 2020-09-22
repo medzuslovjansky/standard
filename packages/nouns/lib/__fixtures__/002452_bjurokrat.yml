@@ -1,0 +1,23 @@
+---
+  id: "2452"
+  word: "bjurokrat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bjurokrat"
+      acc: "bjurokrata"
+      gen: "bjurokrata"
+      loc: "bjurokratu"
+      dat: "bjurokratu"
+      ins: "bjurokratom"
+      voc: "bjurokrate"
+    plural: 
+      nom: "bjurokrati"
+      acc: "bjurokratov"
+      gen: "bjurokratov"
+      loc: "bjurokratah"
+      dat: "bjurokratam"
+      ins: "bjurokratami"
+      voc: "bjurokrati"

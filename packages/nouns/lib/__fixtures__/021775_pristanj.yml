@@ -1,0 +1,22 @@
+---
+  id: "21775"
+  word: "pristanj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pristanj"
+      acc: "pristanj"
+      gen: "pristanja"
+      loc: "pristanju"
+      dat: "pristanju"
+      ins: "pristanjem"
+      voc: "pristanju"
+    plural: 
+      nom: "pristanje"
+      acc: "pristanje"
+      gen: "pristanjev"
+      loc: "pristanjah"
+      dat: "pristanjam"
+      ins: "pristanjami"
+      voc: "pristanje"

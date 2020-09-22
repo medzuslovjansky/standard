@@ -1,0 +1,22 @@
+---
+  id: "34591"
+  word: "dinamo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dinamo"
+      acc: "dinamo"
+      gen: "dinama"
+      loc: "dinamu"
+      dat: "dinamu"
+      ins: "dinamom"
+      voc: "dinamo"
+    plural: 
+      nom: "dinama"
+      acc: "dinama"
+      gen: "dinam"
+      loc: "dinamah"
+      dat: "dinamam"
+      ins: "dinamami"
+      voc: "dinama"

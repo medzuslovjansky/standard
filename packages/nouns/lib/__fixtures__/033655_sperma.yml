@@ -1,0 +1,22 @@
+---
+  id: "33655"
+  word: "sperma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sperma"
+      acc: "spermų"
+      gen: "spermy"
+      loc: "spermě"
+      dat: "spermě"
+      ins: "spermojų"
+      voc: "spermo"
+    plural: 
+      nom: "spermy"
+      acc: "spermy"
+      gen: "sperm"
+      loc: "spermah"
+      dat: "spermam"
+      ins: "spermami"
+      voc: "spermy"

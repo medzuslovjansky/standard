@@ -1,0 +1,22 @@
+---
+  id: "21832"
+  word: "zastoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zastoj"
+      acc: "zastoj"
+      gen: "zastoja"
+      loc: "zastoju"
+      dat: "zastoju"
+      ins: "zastojem"
+      voc: "zastoju"
+    plural: 
+      nom: "zastoje"
+      acc: "zastoje"
+      gen: "zastojev"
+      loc: "zastojah"
+      dat: "zastojam"
+      ins: "zastojami"
+      voc: "zastoje"

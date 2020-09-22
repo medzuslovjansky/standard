@@ -1,0 +1,22 @@
+---
+  id: "6055"
+  word: "ulěpšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ulěpšeńje"
+      acc: "ulěpšeńje"
+      gen: "ulěpšeńja"
+      loc: "ulěpšeńju"
+      dat: "ulěpšeńju"
+      ins: "ulěpšeńjem"
+      voc: "ulěpšeńje"
+    plural: 
+      nom: "ulěpšeńja"
+      acc: "ulěpšeńja"
+      gen: "ulěpšenij"
+      loc: "ulěpšeńjah"
+      dat: "ulěpšeńjam"
+      ins: "ulěpšeńjami"
+      voc: "ulěpšeńja"

@@ -1,0 +1,22 @@
+---
+  id: "11927"
+  word: "rędnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rędnosť"
+      acc: "rędnosť"
+      gen: "rędnosti"
+      loc: "rędnosti"
+      dat: "rędnosti"
+      ins: "rędnosťjų"
+      voc: "rędnosti"
+    plural: 
+      nom: "rędnosti"
+      acc: "rędnosti"
+      gen: "rędnostij"
+      loc: "rędnosťah"
+      dat: "rędnosťam"
+      ins: "rędnosťami"
+      voc: "rędnosti"

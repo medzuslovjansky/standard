@@ -1,0 +1,22 @@
+---
+  id: "1094"
+  word: "krasa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasa"
+      acc: "krasų"
+      gen: "krasy"
+      loc: "krasě"
+      dat: "krasě"
+      ins: "krasojų"
+      voc: "kraso"
+    plural: 
+      nom: "krasy"
+      acc: "krasy"
+      gen: "kras"
+      loc: "krasah"
+      dat: "krasam"
+      ins: "krasami"
+      voc: "krasy"

@@ -1,0 +1,15 @@
+---
+  id: "24469"
+  word: "balast"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "balast"
+      acc: "balast"
+      gen: "balasta"
+      loc: "balastu"
+      dat: "balastu"
+      ins: "balastom"
+      voc: "balaste"

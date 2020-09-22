@@ -1,0 +1,22 @@
+---
+  id: "32867"
+  word: "šruba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šruba"
+      acc: "šrubų"
+      gen: "šruby"
+      loc: "šrubě"
+      dat: "šrubě"
+      ins: "šrubojų"
+      voc: "šrubo"
+    plural: 
+      nom: "šruby"
+      acc: "šruby"
+      gen: "šrub"
+      loc: "šrubah"
+      dat: "šrubam"
+      ins: "šrubami"
+      voc: "šruby"

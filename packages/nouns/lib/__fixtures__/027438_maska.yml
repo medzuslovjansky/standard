@@ -1,0 +1,22 @@
+---
+  id: "27438"
+  word: "maska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maska"
+      acc: "maskų"
+      gen: "masky"
+      loc: "maskě"
+      dat: "maskě"
+      ins: "maskojų"
+      voc: "masko"
+    plural: 
+      nom: "masky"
+      acc: "masky"
+      gen: "masȯk"
+      loc: "maskah"
+      dat: "maskam"
+      ins: "maskami"
+      voc: "masky"

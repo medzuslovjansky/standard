@@ -1,0 +1,22 @@
+---
+  id: "11610"
+  word: "prostrånstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prostrånstvo"
+      acc: "prostrånstvo"
+      gen: "prostrånstva"
+      loc: "prostrånstvu"
+      dat: "prostrånstvu"
+      ins: "prostrånstvom"
+      voc: "prostrånstvo"
+    plural: 
+      nom: "prostrånstva"
+      acc: "prostrånstva"
+      gen: "prostrånstv"
+      loc: "prostrånstvah"
+      dat: "prostrånstvam"
+      ins: "prostrånstvami"
+      voc: "prostrånstva"

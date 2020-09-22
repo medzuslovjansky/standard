@@ -1,0 +1,22 @@
+---
+  id: "3994"
+  word: "pero"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pero"
+      acc: "pero"
+      gen: "pera"
+      loc: "peru"
+      dat: "peru"
+      ins: "perom"
+      voc: "pero"
+    plural: 
+      nom: "pera"
+      acc: "pera"
+      gen: "per"
+      loc: "perah"
+      dat: "peram"
+      ins: "perami"
+      voc: "pera"

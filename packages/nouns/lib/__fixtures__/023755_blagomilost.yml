@@ -1,0 +1,22 @@
+---
+  id: "23755"
+  word: "blågomilosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blågomilosť"
+      acc: "blågomilosť"
+      gen: "blågomilosti"
+      loc: "blågomilosti"
+      dat: "blågomilosti"
+      ins: "blågomilosťjų"
+      voc: "blågomilosti"
+    plural: 
+      nom: "blågomilosti"
+      acc: "blågomilosti"
+      gen: "blågomilostij"
+      loc: "blågomilosťah"
+      dat: "blågomilosťam"
+      ins: "blågomilosťami"
+      voc: "blågomilosti"

@@ -1,0 +1,22 @@
+---
+  id: "19333"
+  word: "vysokoskok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vysokoskok"
+      acc: "vysokoskok"
+      gen: "vysokoskoka"
+      loc: "vysokoskoku"
+      dat: "vysokoskoku"
+      ins: "vysokoskokom"
+      voc: "vysokoskoče"
+    plural: 
+      nom: "vysokoskoky"
+      acc: "vysokoskoky"
+      gen: "vysokoskokov"
+      loc: "vysokoskokah"
+      dat: "vysokoskokam"
+      ins: "vysokoskokami"
+      voc: "vysokoskoky"

@@ -1,0 +1,15 @@
+---
+  id: "23510"
+  word: "budizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "budizm"
+      acc: "budizm"
+      gen: "budizma"
+      loc: "budizmu"
+      dat: "budizmu"
+      ins: "budizmom"
+      voc: "budizme"

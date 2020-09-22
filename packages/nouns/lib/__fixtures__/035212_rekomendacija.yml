@@ -1,0 +1,22 @@
+---
+  id: "35212"
+  word: "rekomendacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rekomendacija"
+      acc: "rekomendacijų"
+      gen: "rekomendacije"
+      loc: "rekomendaciji"
+      dat: "rekomendaciji"
+      ins: "rekomendacijejų"
+      voc: "rekomendacijo"
+    plural: 
+      nom: "rekomendacije"
+      acc: "rekomendacije"
+      gen: "rekomendacij"
+      loc: "rekomendacijah"
+      dat: "rekomendacijam"
+      ins: "rekomendacijami"
+      voc: "rekomendacije"

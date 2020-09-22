@@ -1,0 +1,22 @@
+---
+  id: "33003"
+  word: "vizažistka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vizažistka"
+      acc: "vizažistkų"
+      gen: "vizažistky"
+      loc: "vizažistkě"
+      dat: "vizažistkě"
+      ins: "vizažistkojų"
+      voc: "vizažistko"
+    plural: 
+      nom: "vizažistky"
+      acc: "vizažistky"
+      gen: "vizažistȯk"
+      loc: "vizažistkah"
+      dat: "vizažistkam"
+      ins: "vizažistkami"
+      voc: "vizažistky"

@@ -1,0 +1,23 @@
+---
+  id: "19379"
+  word: "zakaznik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zakaznik"
+      acc: "zakaznika"
+      gen: "zakaznika"
+      loc: "zakazniku"
+      dat: "zakazniku"
+      ins: "zakaznikom"
+      voc: "zakazniče"
+    plural: 
+      nom: "zakazniki"
+      acc: "zakaznikov"
+      gen: "zakaznikov"
+      loc: "zakaznikah"
+      dat: "zakaznikam"
+      ins: "zakaznikami"
+      voc: "zakazniki"

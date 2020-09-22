@@ -1,0 +1,22 @@
+---
+  id: "35963"
+  word: "listovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "listovka"
+      acc: "listovkų"
+      gen: "listovky"
+      loc: "listovkě"
+      dat: "listovkě"
+      ins: "listovkojų"
+      voc: "listovko"
+    plural: 
+      nom: "listovky"
+      acc: "listovky"
+      gen: "listovȯk"
+      loc: "listovkah"
+      dat: "listovkam"
+      ins: "listovkami"
+      voc: "listovky"

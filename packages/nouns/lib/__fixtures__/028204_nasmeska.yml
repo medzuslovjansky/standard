@@ -1,0 +1,22 @@
+---
+  id: "28204"
+  word: "nasmeška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nasmeška"
+      acc: "nasmeškų"
+      gen: "nasmešky"
+      loc: "nasmeškě"
+      dat: "nasmeškě"
+      ins: "nasmeškojų"
+      voc: "nasmeško"
+    plural: 
+      nom: "nasmešky"
+      acc: "nasmešky"
+      gen: "nasmešek"
+      loc: "nasmeškah"
+      dat: "nasmeškam"
+      ins: "nasmeškami"
+      voc: "nasmešky"

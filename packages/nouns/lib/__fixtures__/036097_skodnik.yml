@@ -1,0 +1,23 @@
+---
+  id: "36097"
+  word: "škodnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "škodnik"
+      acc: "škodnika"
+      gen: "škodnika"
+      loc: "škodniku"
+      dat: "škodniku"
+      ins: "škodnikom"
+      voc: "škodniče"
+    plural: 
+      nom: "škodniki"
+      acc: "škodnikov"
+      gen: "škodnikov"
+      loc: "škodnikah"
+      dat: "škodnikam"
+      ins: "škodnikami"
+      voc: "škodniki"

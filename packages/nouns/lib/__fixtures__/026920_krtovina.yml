@@ -1,0 +1,22 @@
+---
+  id: "26920"
+  word: "krtovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krtovina"
+      acc: "krtovinų"
+      gen: "krtoviny"
+      loc: "krtovině"
+      dat: "krtovině"
+      ins: "krtovinojų"
+      voc: "krtovino"
+    plural: 
+      nom: "krtoviny"
+      acc: "krtoviny"
+      gen: "krtovin"
+      loc: "krtovinah"
+      dat: "krtovinam"
+      ins: "krtovinami"
+      voc: "krtoviny"

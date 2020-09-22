@@ -1,0 +1,22 @@
+---
+  id: "36102"
+  word: "językolomka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "językolomka"
+      acc: "językolomkų"
+      gen: "językolomky"
+      loc: "językolomkě"
+      dat: "językolomkě"
+      ins: "językolomkojų"
+      voc: "językolomko"
+    plural: 
+      nom: "językolomky"
+      acc: "językolomky"
+      gen: "językolomȯk"
+      loc: "językolomkah"
+      dat: "językolomkam"
+      ins: "językolomkami"
+      voc: "językolomky"

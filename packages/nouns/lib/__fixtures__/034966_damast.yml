@@ -1,0 +1,22 @@
+---
+  id: "34966"
+  word: "damast"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "damast"
+      acc: "damast"
+      gen: "damasta"
+      loc: "damastu"
+      dat: "damastu"
+      ins: "damastom"
+      voc: "damaste"
+    plural: 
+      nom: "damasty"
+      acc: "damasty"
+      gen: "damastov"
+      loc: "damastah"
+      dat: "damastam"
+      ins: "damastami"
+      voc: "damasty"

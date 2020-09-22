@@ -1,0 +1,22 @@
+---
+  id: "1450"
+  word: "pŕś"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pŕś"
+      acc: "pŕś"
+      gen: "pŕsi"
+      loc: "pŕsi"
+      dat: "pŕsi"
+      ins: "pŕśjų"
+      voc: "pŕsi"
+    plural: 
+      nom: "pŕsi"
+      acc: "pŕsi"
+      gen: "pŕsij"
+      loc: "pŕśah"
+      dat: "pŕśam"
+      ins: "pŕśami"
+      voc: "pŕsi"

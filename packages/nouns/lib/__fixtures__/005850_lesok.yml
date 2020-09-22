@@ -1,0 +1,22 @@
+---
+  id: "5850"
+  word: "lěsȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lěsȯk"
+      acc: "lěsȯk"
+      gen: "lěska"
+      loc: "lěsku"
+      dat: "lěsku"
+      ins: "lěskom"
+      voc: "lěsče"
+    plural: 
+      nom: "lěsky"
+      acc: "lěsky"
+      gen: "lěskov"
+      loc: "lěskah"
+      dat: "lěskam"
+      ins: "lěskami"
+      voc: "lěsky"

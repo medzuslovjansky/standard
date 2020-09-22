@@ -1,0 +1,22 @@
+---
+  id: "30999"
+  word: "vals"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vals"
+      acc: "vals"
+      gen: "valsa"
+      loc: "valsu"
+      dat: "valsu"
+      ins: "valsom"
+      voc: "valse"
+    plural: 
+      nom: "valsy"
+      acc: "valsy"
+      gen: "valsov"
+      loc: "valsah"
+      dat: "valsam"
+      ins: "valsami"
+      voc: "valsy"

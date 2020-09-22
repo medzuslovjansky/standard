@@ -1,0 +1,22 @@
+---
+  id: "4658"
+  word: "ion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ion"
+      acc: "ion"
+      gen: "iona"
+      loc: "ionu"
+      dat: "ionu"
+      ins: "ionom"
+      voc: "ione"
+    plural: 
+      nom: "iony"
+      acc: "iony"
+      gen: "ionov"
+      loc: "ionah"
+      dat: "ionam"
+      ins: "ionami"
+      voc: "iony"

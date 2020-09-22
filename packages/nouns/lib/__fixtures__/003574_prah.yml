@@ -1,0 +1,22 @@
+---
+  id: "3574"
+  word: "pråh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pråh"
+      acc: "pråh"
+      gen: "pråha"
+      loc: "pråhu"
+      dat: "pråhu"
+      ins: "pråhom"
+      voc: "pråše"
+    plural: 
+      nom: "pråhy"
+      acc: "pråhy"
+      gen: "pråhov"
+      loc: "pråhah"
+      dat: "pråham"
+      ins: "pråhami"
+      voc: "pråhy"

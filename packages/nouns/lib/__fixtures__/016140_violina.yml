@@ -1,0 +1,22 @@
+---
+  id: "16140"
+  word: "violina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "violina"
+      acc: "violinų"
+      gen: "violiny"
+      loc: "violině"
+      dat: "violině"
+      ins: "violinojų"
+      voc: "violino"
+    plural: 
+      nom: "violiny"
+      acc: "violiny"
+      gen: "violin"
+      loc: "violinah"
+      dat: "violinam"
+      ins: "violinami"
+      voc: "violiny"

@@ -1,0 +1,15 @@
+---
+  id: "25275"
+  word: "dobrota"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dobrota"
+      acc: "dobrotų"
+      gen: "dobroty"
+      loc: "dobrotě"
+      dat: "dobrotě"
+      ins: "dobrotojų"
+      voc: "dobroto"

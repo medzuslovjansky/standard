@@ -1,0 +1,22 @@
+---
+  id: "18511"
+  word: "proglås"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proglås"
+      acc: "proglås"
+      gen: "proglåsa"
+      loc: "proglåsu"
+      dat: "proglåsu"
+      ins: "proglåsom"
+      voc: "proglåse"
+    plural: 
+      nom: "proglåsy"
+      acc: "proglåsy"
+      gen: "proglåsov"
+      loc: "proglåsah"
+      dat: "proglåsam"
+      ins: "proglåsami"
+      voc: "proglåsy"

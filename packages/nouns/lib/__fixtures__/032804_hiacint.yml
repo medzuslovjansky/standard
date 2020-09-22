@@ -1,0 +1,22 @@
+---
+  id: "32804"
+  word: "hiacint"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hiacint"
+      acc: "hiacint"
+      gen: "hiacinta"
+      loc: "hiacintu"
+      dat: "hiacintu"
+      ins: "hiacintom"
+      voc: "hiacinte"
+    plural: 
+      nom: "hiacinty"
+      acc: "hiacinty"
+      gen: "hiacintov"
+      loc: "hiacintah"
+      dat: "hiacintam"
+      ins: "hiacintami"
+      voc: "hiacinty"

@@ -1,0 +1,22 @@
+---
+  id: "36868"
+  word: "velesila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "velesila"
+      acc: "velesilų"
+      gen: "velesily"
+      loc: "velesilě"
+      dat: "velesilě"
+      ins: "velesilojų"
+      voc: "velesilo"
+    plural: 
+      nom: "velesily"
+      acc: "velesily"
+      gen: "velesil"
+      loc: "velesilah"
+      dat: "velesilam"
+      ins: "velesilami"
+      voc: "velesily"

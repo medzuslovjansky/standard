@@ -1,0 +1,15 @@
+---
+  id: "27851"
+  word: "mulj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mulj"
+      acc: "mulj"
+      gen: "mulja"
+      loc: "mulju"
+      dat: "mulju"
+      ins: "muljem"
+      voc: "mulju"

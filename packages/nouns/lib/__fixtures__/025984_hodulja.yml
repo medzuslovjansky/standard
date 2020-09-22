@@ -1,0 +1,22 @@
+---
+  id: "25984"
+  word: "hodulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hodulja"
+      acc: "hoduljų"
+      gen: "hodulje"
+      loc: "hodulji"
+      dat: "hodulji"
+      ins: "hoduljejų"
+      voc: "hoduljo"
+    plural: 
+      nom: "hodulje"
+      acc: "hodulje"
+      gen: "hodulej"
+      loc: "hoduljah"
+      dat: "hoduljam"
+      ins: "hoduljami"
+      voc: "hodulje"

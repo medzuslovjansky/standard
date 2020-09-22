@@ -1,0 +1,22 @@
+---
+  id: "23810"
+  word: "neprijętnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neprijętnosť"
+      acc: "neprijętnosť"
+      gen: "neprijętnosti"
+      loc: "neprijętnosti"
+      dat: "neprijętnosti"
+      ins: "neprijętnosťjų"
+      voc: "neprijętnosti"
+    plural: 
+      nom: "neprijętnosti"
+      acc: "neprijętnosti"
+      gen: "neprijętnostij"
+      loc: "neprijętnosťah"
+      dat: "neprijętnosťam"
+      ins: "neprijętnosťami"
+      voc: "neprijętnosti"

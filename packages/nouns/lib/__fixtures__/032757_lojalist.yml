@@ -1,0 +1,23 @@
+---
+  id: "32757"
+  word: "lojalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lojalist"
+      acc: "lojalista"
+      gen: "lojalista"
+      loc: "lojalistu"
+      dat: "lojalistu"
+      ins: "lojalistom"
+      voc: "lojaliste"
+    plural: 
+      nom: "lojalisti"
+      acc: "lojalistov"
+      gen: "lojalistov"
+      loc: "lojalistah"
+      dat: "lojalistam"
+      ins: "lojalistami"
+      voc: "lojalisti"

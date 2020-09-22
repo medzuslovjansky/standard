@@ -1,0 +1,22 @@
+---
+  id: "3529"
+  word: "prěprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěprava"
+      acc: "prěpravų"
+      gen: "prěpravy"
+      loc: "prěpravě"
+      dat: "prěpravě"
+      ins: "prěpravojų"
+      voc: "prěpravo"
+    plural: 
+      nom: "prěpravy"
+      acc: "prěpravy"
+      gen: "prěprav"
+      loc: "prěpravah"
+      dat: "prěpravam"
+      ins: "prěpravami"
+      voc: "prěpravy"

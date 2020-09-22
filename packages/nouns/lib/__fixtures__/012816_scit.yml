@@ -1,0 +1,22 @@
+---
+  id: "12816"
+  word: "ščit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ščit"
+      acc: "ščit"
+      gen: "ščita"
+      loc: "ščitu"
+      dat: "ščitu"
+      ins: "ščitom"
+      voc: "ščite"
+    plural: 
+      nom: "ščity"
+      acc: "ščity"
+      gen: "ščitov"
+      loc: "ščitah"
+      dat: "ščitam"
+      ins: "ščitami"
+      voc: "ščity"

@@ -1,0 +1,22 @@
+---
+  id: "804"
+  word: "procedura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "procedura"
+      acc: "procedurų"
+      gen: "procedury"
+      loc: "procedurě"
+      dat: "procedurě"
+      ins: "procedurojų"
+      voc: "proceduro"
+    plural: 
+      nom: "procedury"
+      acc: "procedury"
+      gen: "procedur"
+      loc: "procedurah"
+      dat: "proceduram"
+      ins: "procedurami"
+      voc: "procedury"

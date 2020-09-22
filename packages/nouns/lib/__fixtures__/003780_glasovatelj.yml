@@ -1,0 +1,23 @@
+---
+  id: "3780"
+  word: "glåsovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glåsovatelj"
+      acc: "glåsovatelja"
+      gen: "glåsovatelja"
+      loc: "glåsovatelju"
+      dat: "glåsovatelju"
+      ins: "glåsovateljem"
+      voc: "glåsovatelju"
+    plural: 
+      nom: "glåsovatelji"
+      acc: "glåsovateljev"
+      gen: "glåsovateljev"
+      loc: "glåsovateljah"
+      dat: "glåsovateljam"
+      ins: "glåsovateljami"
+      voc: "glåsovatelji"

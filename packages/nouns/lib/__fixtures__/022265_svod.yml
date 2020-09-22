@@ -1,0 +1,22 @@
+---
+  id: "22265"
+  word: "svod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svod"
+      acc: "svod"
+      gen: "svoda"
+      loc: "svodu"
+      dat: "svodu"
+      ins: "svodom"
+      voc: "svode"
+    plural: 
+      nom: "svody"
+      acc: "svody"
+      gen: "svodov"
+      loc: "svodah"
+      dat: "svodam"
+      ins: "svodami"
+      voc: "svody"

@@ -1,0 +1,22 @@
+---
+  id: "28648"
+  word: "nora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nora"
+      acc: "norų"
+      gen: "nory"
+      loc: "norě"
+      dat: "norě"
+      ins: "norojų"
+      voc: "noro"
+    plural: 
+      nom: "nory"
+      acc: "nory"
+      gen: "nor"
+      loc: "norah"
+      dat: "noram"
+      ins: "norami"
+      voc: "nory"

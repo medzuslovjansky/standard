@@ -1,0 +1,22 @@
+---
+  id: "26751"
+  word: "kostjum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kostjum"
+      acc: "kostjum"
+      gen: "kostjuma"
+      loc: "kostjumu"
+      dat: "kostjumu"
+      ins: "kostjumom"
+      voc: "kostjum"
+    plural: 
+      nom: "kostjuma"
+      acc: "kostjuma"
+      gen: "kostjum"
+      loc: "kostjumah"
+      dat: "kostjumam"
+      ins: "kostjumami"
+      voc: "kostjuma"

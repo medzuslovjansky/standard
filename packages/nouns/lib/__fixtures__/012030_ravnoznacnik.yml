@@ -1,0 +1,22 @@
+---
+  id: "12030"
+  word: "råvnoznačnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råvnoznačnik"
+      acc: "råvnoznačnik"
+      gen: "råvnoznačnika"
+      loc: "råvnoznačniku"
+      dat: "råvnoznačniku"
+      ins: "råvnoznačnikom"
+      voc: "råvnoznačniče"
+    plural: 
+      nom: "råvnoznačniky"
+      acc: "råvnoznačniky"
+      gen: "råvnoznačnikov"
+      loc: "råvnoznačnikah"
+      dat: "råvnoznačnikam"
+      ins: "råvnoznačnikami"
+      voc: "råvnoznačniky"

@@ -1,0 +1,22 @@
+---
+  id: "3543"
+  word: "hvoroba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hvoroba"
+      acc: "hvorobų"
+      gen: "hvoroby"
+      loc: "hvorobě"
+      dat: "hvorobě"
+      ins: "hvorobojų"
+      voc: "hvorobo"
+    plural: 
+      nom: "hvoroby"
+      acc: "hvoroby"
+      gen: "hvorob"
+      loc: "hvorobah"
+      dat: "hvorobam"
+      ins: "hvorobami"
+      voc: "hvoroby"

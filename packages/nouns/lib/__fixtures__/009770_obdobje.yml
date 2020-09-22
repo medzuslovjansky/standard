@@ -1,0 +1,22 @@
+---
+  id: "9770"
+  word: "obdobje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obdobje"
+      acc: "obdobje"
+      gen: "obdobja"
+      loc: "obdobju"
+      dat: "obdobju"
+      ins: "obdobjem"
+      voc: "obdobje"
+    plural: 
+      nom: "obdobja"
+      acc: "obdobja"
+      gen: "obdobij"
+      loc: "obdobjah"
+      dat: "obdobjam"
+      ins: "obdobjami"
+      voc: "obdobja"

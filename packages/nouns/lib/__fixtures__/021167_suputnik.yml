@@ -1,0 +1,23 @@
+---
+  id: "21167"
+  word: "sųpųtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųpųtnik"
+      acc: "sųpųtnika"
+      gen: "sųpųtnika"
+      loc: "sųpųtniku"
+      dat: "sųpųtniku"
+      ins: "sųpųtnikom"
+      voc: "sųpųtniče"
+    plural: 
+      nom: "sųpųtniki"
+      acc: "sųpųtnikov"
+      gen: "sųpųtnikov"
+      loc: "sųpųtnikah"
+      dat: "sųpųtnikam"
+      ins: "sųpųtnikami"
+      voc: "sųpųtniki"

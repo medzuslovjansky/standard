@@ -1,0 +1,45 @@
+---
+  - 
+    id: "16491"
+    word: "sȯglåska"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sȯglåska"
+        acc: "sȯglåskų"
+        gen: "sȯglåsky"
+        loc: "sȯglåskě"
+        dat: "sȯglåskě"
+        ins: "sȯglåskojų"
+        voc: "sȯglåsko"
+      plural: 
+        nom: "sȯglåsky"
+        acc: "sȯglåsky"
+        gen: "sȯglåsȯk"
+        loc: "sȯglåskah"
+        dat: "sȯglåskam"
+        ins: "sȯglåskami"
+        voc: "sȯglåsky"
+  - 
+    id: "16491"
+    word: "sųglåska"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sųglåska"
+        acc: "sųglåskų"
+        gen: "sųglåsky"
+        loc: "sųglåskě"
+        dat: "sųglåskě"
+        ins: "sųglåskojų"
+        voc: "sųglåsko"
+      plural: 
+        nom: "sųglåsky"
+        acc: "sųglåsky"
+        gen: "sųglåsȯk"
+        loc: "sųglåskah"
+        dat: "sųglåskam"
+        ins: "sųglåskami"
+        voc: "sųglåsky"

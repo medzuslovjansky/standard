@@ -1,0 +1,23 @@
+---
+  id: "1160"
+  word: "neprijatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neprijatelj"
+      acc: "neprijatelja"
+      gen: "neprijatelja"
+      loc: "neprijatelju"
+      dat: "neprijatelju"
+      ins: "neprijateljem"
+      voc: "neprijatelju"
+    plural: 
+      nom: "neprijatelji"
+      acc: "neprijateljev"
+      gen: "neprijateljev"
+      loc: "neprijateljah"
+      dat: "neprijateljam"
+      ins: "neprijateljami"
+      voc: "neprijatelji"

@@ -1,0 +1,22 @@
+---
+  id: "8209"
+  word: "jajcebělȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jajcebělȯk"
+      acc: "jajcebělȯk"
+      gen: "jajcebělka"
+      loc: "jajcebělku"
+      dat: "jajcebělku"
+      ins: "jajcebělkom"
+      voc: "jajcebělče"
+    plural: 
+      nom: "jajcebělky"
+      acc: "jajcebělky"
+      gen: "jajcebělkov"
+      loc: "jajcebělkah"
+      dat: "jajcebělkam"
+      ins: "jajcebělkami"
+      voc: "jajcebělky"

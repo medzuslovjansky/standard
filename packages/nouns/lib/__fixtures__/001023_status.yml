@@ -1,0 +1,22 @@
+---
+  id: "1023"
+  word: "status"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "status"
+      acc: "status"
+      gen: "statusa"
+      loc: "statusu"
+      dat: "statusu"
+      ins: "statusom"
+      voc: "statuse"
+    plural: 
+      nom: "statusy"
+      acc: "statusy"
+      gen: "statusov"
+      loc: "statusah"
+      dat: "statusam"
+      ins: "statusami"
+      voc: "statusy"

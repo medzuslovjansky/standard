@@ -1,0 +1,22 @@
+---
+  id: "946"
+  word: "evro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "evro"
+      acc: "evro"
+      gen: "evra"
+      loc: "evru"
+      dat: "evru"
+      ins: "evrom"
+      voc: "evro"
+    plural: 
+      nom: "evra"
+      acc: "evra"
+      gen: "evr"
+      loc: "evrah"
+      dat: "evram"
+      ins: "evrami"
+      voc: "evra"

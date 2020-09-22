@@ -1,0 +1,22 @@
+---
+  id: "523"
+  word: "pokryv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pokryv"
+      acc: "pokryv"
+      gen: "pokryva"
+      loc: "pokryvu"
+      dat: "pokryvu"
+      ins: "pokryvom"
+      voc: "pokryve"
+    plural: 
+      nom: "pokryvy"
+      acc: "pokryvy"
+      gen: "pokryvov"
+      loc: "pokryvah"
+      dat: "pokryvam"
+      ins: "pokryvami"
+      voc: "pokryvy"

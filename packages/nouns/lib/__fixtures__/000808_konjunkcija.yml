@@ -1,0 +1,22 @@
+---
+  id: "808"
+  word: "konjunkcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konjunkcija"
+      acc: "konjunkcijų"
+      gen: "konjunkcije"
+      loc: "konjunkciji"
+      dat: "konjunkciji"
+      ins: "konjunkcijejų"
+      voc: "konjunkcijo"
+    plural: 
+      nom: "konjunkcije"
+      acc: "konjunkcije"
+      gen: "konjunkcij"
+      loc: "konjunkcijah"
+      dat: "konjunkcijam"
+      ins: "konjunkcijami"
+      voc: "konjunkcije"

@@ -1,0 +1,22 @@
+---
+  id: "36043"
+  word: "nasilovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nasilovańje"
+      acc: "nasilovańje"
+      gen: "nasilovańja"
+      loc: "nasilovańju"
+      dat: "nasilovańju"
+      ins: "nasilovańjem"
+      voc: "nasilovańje"
+    plural: 
+      nom: "nasilovańja"
+      acc: "nasilovańja"
+      gen: "nasilovanij"
+      loc: "nasilovańjah"
+      dat: "nasilovańjam"
+      ins: "nasilovańjami"
+      voc: "nasilovańja"

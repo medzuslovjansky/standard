@@ -1,0 +1,22 @@
+---
+  id: "21567"
+  word: "sěkųća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sěkųća"
+      acc: "sěkųćų"
+      gen: "sěkųće"
+      loc: "sěkųći"
+      dat: "sěkųći"
+      ins: "sěkųćejų"
+      voc: "sěkųćo"
+    plural: 
+      nom: "sěkųće"
+      acc: "sěkųće"
+      gen: "sěkųć"
+      loc: "sěkųćah"
+      dat: "sěkųćam"
+      ins: "sěkųćami"
+      voc: "sěkųće"

@@ -1,0 +1,22 @@
+---
+  id: "34899"
+  word: "aktualizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktualizacija"
+      acc: "aktualizacijų"
+      gen: "aktualizacije"
+      loc: "aktualizaciji"
+      dat: "aktualizaciji"
+      ins: "aktualizacijejų"
+      voc: "aktualizacijo"
+    plural: 
+      nom: "aktualizacije"
+      acc: "aktualizacije"
+      gen: "aktualizacij"
+      loc: "aktualizacijah"
+      dat: "aktualizacijam"
+      ins: "aktualizacijami"
+      voc: "aktualizacije"

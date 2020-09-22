@@ -1,0 +1,22 @@
+---
+  id: "26487"
+  word: "kavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kavka"
+      acc: "kavkų"
+      gen: "kavky"
+      loc: "kavkě"
+      dat: "kavkě"
+      ins: "kavkojų"
+      voc: "kavko"
+    plural: 
+      nom: "kavky"
+      acc: "kavky"
+      gen: "kavȯk"
+      loc: "kavkah"
+      dat: "kavkam"
+      ins: "kavkami"
+      voc: "kavky"

@@ -1,0 +1,22 @@
+---
+  id: "35758"
+  word: "izniščeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izniščeńje"
+      acc: "izniščeńje"
+      gen: "izniščeńja"
+      loc: "izniščeńju"
+      dat: "izniščeńju"
+      ins: "izniščeńjem"
+      voc: "izniščeńje"
+    plural: 
+      nom: "izniščeńja"
+      acc: "izniščeńja"
+      gen: "izniščenij"
+      loc: "izniščeńjah"
+      dat: "izniščeńjam"
+      ins: "izniščeńjami"
+      voc: "izniščeńja"

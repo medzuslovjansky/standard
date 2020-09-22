@@ -1,0 +1,22 @@
+---
+  id: "19018"
+  word: "tyl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tyl"
+      acc: "tyl"
+      gen: "tyla"
+      loc: "tylu"
+      dat: "tylu"
+      ins: "tylom"
+      voc: "tyle"
+    plural: 
+      nom: "tyly"
+      acc: "tyly"
+      gen: "tylov"
+      loc: "tylah"
+      dat: "tylam"
+      ins: "tylami"
+      voc: "tyly"

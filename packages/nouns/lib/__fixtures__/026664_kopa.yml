@@ -1,0 +1,22 @@
+---
+  id: "26664"
+  word: "kopa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kopa"
+      acc: "kopų"
+      gen: "kopy"
+      loc: "kopě"
+      dat: "kopě"
+      ins: "kopojų"
+      voc: "kopo"
+    plural: 
+      nom: "kopy"
+      acc: "kopy"
+      gen: "kop"
+      loc: "kopah"
+      dat: "kopam"
+      ins: "kopami"
+      voc: "kopy"

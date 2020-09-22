@@ -1,0 +1,22 @@
+---
+  id: "29291"
+  word: "ogarȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ogarȯk"
+      acc: "ogarȯk"
+      gen: "ogarka"
+      loc: "ogarku"
+      dat: "ogarku"
+      ins: "ogarkom"
+      voc: "ogarče"
+    plural: 
+      nom: "ogarky"
+      acc: "ogarky"
+      gen: "ogarkov"
+      loc: "ogarkah"
+      dat: "ogarkam"
+      ins: "ogarkami"
+      voc: "ogarky"

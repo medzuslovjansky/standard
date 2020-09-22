@@ -1,0 +1,15 @@
+---
+  id: "1783"
+  word: "Ingušetija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Ingušetija"
+      acc: "Ingušetijų"
+      gen: "Ingušetije"
+      loc: "Ingušetiji"
+      dat: "Ingušetiji"
+      ins: "Ingušetijejų"
+      voc: "Ingušetijo"

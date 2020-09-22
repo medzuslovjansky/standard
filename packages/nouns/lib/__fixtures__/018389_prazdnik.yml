@@ -1,0 +1,22 @@
+---
+  id: "18389"
+  word: "pråzdnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pråzdnik"
+      acc: "pråzdnik"
+      gen: "pråzdnika"
+      loc: "pråzdniku"
+      dat: "pråzdniku"
+      ins: "pråzdnikom"
+      voc: "pråzdniče"
+    plural: 
+      nom: "pråzdniky"
+      acc: "pråzdniky"
+      gen: "pråzdnikov"
+      loc: "pråzdnikah"
+      dat: "pråzdnikam"
+      ins: "pråzdnikami"
+      voc: "pråzdniky"

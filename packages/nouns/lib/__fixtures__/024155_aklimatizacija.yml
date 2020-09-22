@@ -1,0 +1,15 @@
+---
+  id: "24155"
+  word: "aklimatizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aklimatizacija"
+      acc: "aklimatizacijų"
+      gen: "aklimatizacije"
+      loc: "aklimatizaciji"
+      dat: "aklimatizaciji"
+      ins: "aklimatizacijejų"
+      voc: "aklimatizacijo"

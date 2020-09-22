@@ -1,0 +1,22 @@
+---
+  id: "32109"
+  word: "diagnoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "diagnoza"
+      acc: "diagnozų"
+      gen: "diagnozy"
+      loc: "diagnozě"
+      dat: "diagnozě"
+      ins: "diagnozojų"
+      voc: "diagnozo"
+    plural: 
+      nom: "diagnozy"
+      acc: "diagnozy"
+      gen: "diagnoz"
+      loc: "diagnozah"
+      dat: "diagnozam"
+      ins: "diagnozami"
+      voc: "diagnozy"

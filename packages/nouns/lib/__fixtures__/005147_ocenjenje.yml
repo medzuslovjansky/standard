@@ -1,0 +1,22 @@
+---
+  id: "5147"
+  word: "ocěnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ocěnjeńje"
+      acc: "ocěnjeńje"
+      gen: "ocěnjeńja"
+      loc: "ocěnjeńju"
+      dat: "ocěnjeńju"
+      ins: "ocěnjeńjem"
+      voc: "ocěnjeńje"
+    plural: 
+      nom: "ocěnjeńja"
+      acc: "ocěnjeńja"
+      gen: "ocěnjenij"
+      loc: "ocěnjeńjah"
+      dat: "ocěnjeńjam"
+      ins: "ocěnjeńjami"
+      voc: "ocěnjeńja"

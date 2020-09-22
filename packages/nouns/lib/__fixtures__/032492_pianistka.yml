@@ -1,0 +1,22 @@
+---
+  id: "32492"
+  word: "pianistka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pianistka"
+      acc: "pianistkų"
+      gen: "pianistky"
+      loc: "pianistkě"
+      dat: "pianistkě"
+      ins: "pianistkojų"
+      voc: "pianistko"
+    plural: 
+      nom: "pianistky"
+      acc: "pianistky"
+      gen: "pianistȯk"
+      loc: "pianistkah"
+      dat: "pianistkam"
+      ins: "pianistkami"
+      voc: "pianistky"

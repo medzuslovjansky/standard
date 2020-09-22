@@ -1,0 +1,22 @@
+---
+  id: "35397"
+  word: "hronologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hronologija"
+      acc: "hronologijų"
+      gen: "hronologije"
+      loc: "hronologiji"
+      dat: "hronologiji"
+      ins: "hronologijejų"
+      voc: "hronologijo"
+    plural: 
+      nom: "hronologije"
+      acc: "hronologije"
+      gen: "hronologij"
+      loc: "hronologijah"
+      dat: "hronologijam"
+      ins: "hronologijami"
+      voc: "hronologije"

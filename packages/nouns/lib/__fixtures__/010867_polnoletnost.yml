@@ -1,0 +1,22 @@
+---
+  id: "10867"
+  word: "pȯlnolětnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pȯlnolětnosť"
+      acc: "pȯlnolětnosť"
+      gen: "pȯlnolětnosti"
+      loc: "pȯlnolětnosti"
+      dat: "pȯlnolětnosti"
+      ins: "pȯlnolětnosťjų"
+      voc: "pȯlnolětnosti"
+    plural: 
+      nom: "pȯlnolětnosti"
+      acc: "pȯlnolětnosti"
+      gen: "pȯlnolětnostij"
+      loc: "pȯlnolětnosťah"
+      dat: "pȯlnolětnosťam"
+      ins: "pȯlnolětnosťami"
+      voc: "pȯlnolětnosti"

@@ -1,0 +1,22 @@
+---
+  id: "19796"
+  word: "kontrast"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontrast"
+      acc: "kontrast"
+      gen: "kontrasta"
+      loc: "kontrastu"
+      dat: "kontrastu"
+      ins: "kontrastom"
+      voc: "kontraste"
+    plural: 
+      nom: "kontrasty"
+      acc: "kontrasty"
+      gen: "kontrastov"
+      loc: "kontrastah"
+      dat: "kontrastam"
+      ins: "kontrastami"
+      voc: "kontrasty"

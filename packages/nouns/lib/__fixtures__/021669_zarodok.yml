@@ -1,0 +1,22 @@
+---
+  id: "21669"
+  word: "zarodȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zarodȯk"
+      acc: "zarodȯk"
+      gen: "zarodka"
+      loc: "zarodku"
+      dat: "zarodku"
+      ins: "zarodkom"
+      voc: "zarodče"
+    plural: 
+      nom: "zarodky"
+      acc: "zarodky"
+      gen: "zarodkov"
+      loc: "zarodkah"
+      dat: "zarodkam"
+      ins: "zarodkami"
+      voc: "zarodky"

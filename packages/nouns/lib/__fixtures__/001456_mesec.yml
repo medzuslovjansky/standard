@@ -1,0 +1,22 @@
+---
+  id: "1456"
+  word: "měsęc"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měsęc"
+      acc: "měsęc"
+      gen: "měsęca"
+      loc: "měsęcu"
+      dat: "měsęcu"
+      ins: "měsęcem"
+      voc: "měsęcu"
+    plural: 
+      nom: "měsęce"
+      acc: "měsęce"
+      gen: "měsęcev"
+      loc: "měsęcah"
+      dat: "měsęcam"
+      ins: "měsęcami"
+      voc: "měsęce"

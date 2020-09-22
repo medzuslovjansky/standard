@@ -1,0 +1,22 @@
+---
+  id: "3848"
+  word: "iskrenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iskrenosť"
+      acc: "iskrenosť"
+      gen: "iskrenosti"
+      loc: "iskrenosti"
+      dat: "iskrenosti"
+      ins: "iskrenosťjų"
+      voc: "iskrenosti"
+    plural: 
+      nom: "iskrenosti"
+      acc: "iskrenosti"
+      gen: "iskrenostij"
+      loc: "iskrenosťah"
+      dat: "iskrenosťam"
+      ins: "iskrenosťami"
+      voc: "iskrenosti"

@@ -1,0 +1,22 @@
+---
+  id: "187"
+  word: "selo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "selo"
+      acc: "selo"
+      gen: "sela"
+      loc: "selu"
+      dat: "selu"
+      ins: "selom"
+      voc: "selo"
+    plural: 
+      nom: "sela"
+      acc: "sela"
+      gen: "sel"
+      loc: "selah"
+      dat: "selam"
+      ins: "selami"
+      voc: "sela"

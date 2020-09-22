@@ -1,0 +1,15 @@
+---
+  id: "23574"
+  word: "hinduizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hinduizm"
+      acc: "hinduizm"
+      gen: "hinduizma"
+      loc: "hinduizmu"
+      dat: "hinduizmu"
+      ins: "hinduizmom"
+      voc: "hinduizme"

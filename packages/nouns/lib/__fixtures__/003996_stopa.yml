@@ -1,0 +1,22 @@
+---
+  id: "3996"
+  word: "stopa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stopa"
+      acc: "stopų"
+      gen: "stopy"
+      loc: "stopě"
+      dat: "stopě"
+      ins: "stopojų"
+      voc: "stopo"
+    plural: 
+      nom: "stopy"
+      acc: "stopy"
+      gen: "stop"
+      loc: "stopah"
+      dat: "stopam"
+      ins: "stopami"
+      voc: "stopy"

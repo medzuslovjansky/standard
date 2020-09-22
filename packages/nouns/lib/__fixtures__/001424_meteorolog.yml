@@ -1,0 +1,23 @@
+---
+  id: "1424"
+  word: "meteorolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "meteorolog"
+      acc: "meteorologa"
+      gen: "meteorologa"
+      loc: "meteorologu"
+      dat: "meteorologu"
+      ins: "meteorologom"
+      voc: "meteorolože"
+    plural: 
+      nom: "meteorologi"
+      acc: "meteorologov"
+      gen: "meteorologov"
+      loc: "meteorologah"
+      dat: "meteorologam"
+      ins: "meteorologami"
+      voc: "meteorologi"

@@ -1,0 +1,22 @@
+---
+  id: "1064"
+  word: "organizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "organizacija"
+      acc: "organizacijų"
+      gen: "organizacije"
+      loc: "organizaciji"
+      dat: "organizaciji"
+      ins: "organizacijejų"
+      voc: "organizacijo"
+    plural: 
+      nom: "organizacije"
+      acc: "organizacije"
+      gen: "organizacij"
+      loc: "organizacijah"
+      dat: "organizacijam"
+      ins: "organizacijami"
+      voc: "organizacije"

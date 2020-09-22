@@ -1,0 +1,22 @@
+---
+  id: "14481"
+  word: "budka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "budka"
+      acc: "budkų"
+      gen: "budky"
+      loc: "budkě"
+      dat: "budkě"
+      ins: "budkojų"
+      voc: "budko"
+    plural: 
+      nom: "budky"
+      acc: "budky"
+      gen: "budȯk"
+      loc: "budkah"
+      dat: "budkam"
+      ins: "budkami"
+      voc: "budky"

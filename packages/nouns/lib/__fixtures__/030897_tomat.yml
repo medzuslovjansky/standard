@@ -1,0 +1,22 @@
+---
+  id: "30897"
+  word: "tomat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tomat"
+      acc: "tomat"
+      gen: "tomata"
+      loc: "tomatu"
+      dat: "tomatu"
+      ins: "tomatom"
+      voc: "tomate"
+    plural: 
+      nom: "tomaty"
+      acc: "tomaty"
+      gen: "tomatov"
+      loc: "tomatah"
+      dat: "tomatam"
+      ins: "tomatami"
+      voc: "tomaty"

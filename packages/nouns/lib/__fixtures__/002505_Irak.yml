@@ -1,0 +1,15 @@
+---
+  id: "2505"
+  word: "Irak"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Irak"
+      acc: "Irak"
+      gen: "Iraka"
+      loc: "Iraku"
+      dat: "Iraku"
+      ins: "Irakom"
+      voc: "Irače"

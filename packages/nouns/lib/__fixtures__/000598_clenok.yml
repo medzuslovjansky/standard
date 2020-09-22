@@ -1,0 +1,22 @@
+---
+  id: "598"
+  word: "členȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "členȯk"
+      acc: "členȯk"
+      gen: "členka"
+      loc: "členku"
+      dat: "členku"
+      ins: "členkom"
+      voc: "členče"
+    plural: 
+      nom: "členky"
+      acc: "členky"
+      gen: "členkov"
+      loc: "členkah"
+      dat: "členkam"
+      ins: "členkami"
+      voc: "členky"

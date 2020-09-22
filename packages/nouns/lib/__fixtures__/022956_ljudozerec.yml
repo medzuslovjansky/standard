@@ -1,0 +1,23 @@
+---
+  id: "22956"
+  word: "ljudožerec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljudožerec"
+      acc: "ljudožerca"
+      gen: "ljudožerca"
+      loc: "ljudožercu"
+      dat: "ljudožercu"
+      ins: "ljudožercem"
+      voc: "ljudožerče"
+    plural: 
+      nom: "ljudožerci"
+      acc: "ljudožercev"
+      gen: "ljudožercev"
+      loc: "ljudožercah"
+      dat: "ljudožercam"
+      ins: "ljudožercami"
+      voc: "ljudožerci"

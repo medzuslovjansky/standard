@@ -1,0 +1,22 @@
+---
+  id: "36163"
+  word: "pubertet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pubertet"
+      acc: "pubertet"
+      gen: "puberteta"
+      loc: "pubertetu"
+      dat: "pubertetu"
+      ins: "pubertetom"
+      voc: "pubertete"
+    plural: 
+      nom: "pubertety"
+      acc: "pubertety"
+      gen: "pubertetov"
+      loc: "pubertetah"
+      dat: "pubertetam"
+      ins: "pubertetami"
+      voc: "pubertety"

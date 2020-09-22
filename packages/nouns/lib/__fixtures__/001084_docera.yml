@@ -1,0 +1,22 @@
+---
+  id: "1084"
+  word: "dȯćera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯćera"
+      acc: "dȯćerų"
+      gen: "dȯćery"
+      loc: "dȯćerě"
+      dat: "dȯćerě"
+      ins: "dȯćerojų"
+      voc: "dȯćero"
+    plural: 
+      nom: "dȯćery"
+      acc: "dȯćery"
+      gen: "dȯćer"
+      loc: "dȯćerah"
+      dat: "dȯćeram"
+      ins: "dȯćerami"
+      voc: "dȯćery"

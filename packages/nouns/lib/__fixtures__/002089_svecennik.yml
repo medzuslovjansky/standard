@@ -1,0 +1,23 @@
+---
+  id: "2089"
+  word: "svęćennik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svęćennik"
+      acc: "svęćennika"
+      gen: "svęćennika"
+      loc: "svęćenniku"
+      dat: "svęćenniku"
+      ins: "svęćennikom"
+      voc: "svęćenniče"
+    plural: 
+      nom: "svęćenniki"
+      acc: "svęćennikov"
+      gen: "svęćennikov"
+      loc: "svęćennikah"
+      dat: "svęćennikam"
+      ins: "svęćennikami"
+      voc: "svęćenniki"

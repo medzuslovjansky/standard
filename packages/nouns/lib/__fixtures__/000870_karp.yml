@@ -1,0 +1,23 @@
+---
+  id: "870"
+  word: "karp"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "karp"
+      acc: "karpa"
+      gen: "karpa"
+      loc: "karpu"
+      dat: "karpu"
+      ins: "karpom"
+      voc: "karpe"
+    plural: 
+      nom: "karpi"
+      acc: "karpov"
+      gen: "karpov"
+      loc: "karpah"
+      dat: "karpam"
+      ins: "karpami"
+      voc: "karpi"

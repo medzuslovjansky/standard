@@ -1,0 +1,22 @@
+---
+  id: "26982"
+  word: "kųpina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kųpina"
+      acc: "kųpinų"
+      gen: "kųpiny"
+      loc: "kųpině"
+      dat: "kųpině"
+      ins: "kųpinojų"
+      voc: "kųpino"
+    plural: 
+      nom: "kųpiny"
+      acc: "kųpiny"
+      gen: "kųpin"
+      loc: "kųpinah"
+      dat: "kųpinam"
+      ins: "kųpinami"
+      voc: "kųpiny"

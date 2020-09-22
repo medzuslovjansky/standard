@@ -1,0 +1,22 @@
+---
+  id: "21491"
+  word: "råst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råst"
+      acc: "råst"
+      gen: "råsta"
+      loc: "råstu"
+      dat: "råstu"
+      ins: "råstom"
+      voc: "råste"
+    plural: 
+      nom: "råsty"
+      acc: "råsty"
+      gen: "råstov"
+      loc: "råstah"
+      dat: "råstam"
+      ins: "råstami"
+      voc: "råsty"

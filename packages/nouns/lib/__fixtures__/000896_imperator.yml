@@ -1,0 +1,23 @@
+---
+  id: "896"
+  word: "imperator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "imperator"
+      acc: "imperatora"
+      gen: "imperatora"
+      loc: "imperatoru"
+      dat: "imperatoru"
+      ins: "imperatorom"
+      voc: "imperatore"
+    plural: 
+      nom: "imperatori"
+      acc: "imperatorov"
+      gen: "imperatorov"
+      loc: "imperatorah"
+      dat: "imperatoram"
+      ins: "imperatorami"
+      voc: "imperatori"

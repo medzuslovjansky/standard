@@ -1,0 +1,22 @@
+---
+  id: "25371"
+  word: "drn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "drn"
+      acc: "drn"
+      gen: "drna"
+      loc: "drnu"
+      dat: "drnu"
+      ins: "drnom"
+      voc: "drne"
+    plural: 
+      nom: "drny"
+      acc: "drny"
+      gen: "drnov"
+      loc: "drnah"
+      dat: "drnam"
+      ins: "drnami"
+      voc: "drny"

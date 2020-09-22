@@ -1,0 +1,22 @@
+---
+  id: "4117"
+  word: "pamętnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pamętnik"
+      acc: "pamętnik"
+      gen: "pamętnika"
+      loc: "pamętniku"
+      dat: "pamętniku"
+      ins: "pamętnikom"
+      voc: "pamętniče"
+    plural: 
+      nom: "pamętniky"
+      acc: "pamętniky"
+      gen: "pamętnikov"
+      loc: "pamętnikah"
+      dat: "pamętnikam"
+      ins: "pamętnikami"
+      voc: "pamętniky"

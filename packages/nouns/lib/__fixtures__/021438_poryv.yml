@@ -1,0 +1,22 @@
+---
+  id: "21438"
+  word: "poryv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poryv"
+      acc: "poryv"
+      gen: "poryva"
+      loc: "poryvu"
+      dat: "poryvu"
+      ins: "poryvom"
+      voc: "poryve"
+    plural: 
+      nom: "poryvy"
+      acc: "poryvy"
+      gen: "poryvov"
+      loc: "poryvah"
+      dat: "poryvam"
+      ins: "poryvami"
+      voc: "poryvy"

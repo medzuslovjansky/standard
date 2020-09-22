@@ -1,0 +1,22 @@
+---
+  id: "23184"
+  word: "atrakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "atrakcija"
+      acc: "atrakcijų"
+      gen: "atrakcije"
+      loc: "atrakciji"
+      dat: "atrakciji"
+      ins: "atrakcijejų"
+      voc: "atrakcijo"
+    plural: 
+      nom: "atrakcije"
+      acc: "atrakcije"
+      gen: "atrakcij"
+      loc: "atrakcijah"
+      dat: "atrakcijam"
+      ins: "atrakcijami"
+      voc: "atrakcije"

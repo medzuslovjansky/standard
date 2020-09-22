@@ -1,0 +1,15 @@
+---
+  id: "2929"
+  word: "dveri"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "dveri"
+      acc: "dveri"
+      gen: "dverij"
+      loc: "dverjah"
+      dat: "dverjam"
+      ins: "dverjami"
+      voc: "dveri"

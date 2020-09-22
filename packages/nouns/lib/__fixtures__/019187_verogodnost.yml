@@ -1,0 +1,22 @@
+---
+  id: "19187"
+  word: "věrogodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věrogodnosť"
+      acc: "věrogodnosť"
+      gen: "věrogodnosti"
+      loc: "věrogodnosti"
+      dat: "věrogodnosti"
+      ins: "věrogodnosťjų"
+      voc: "věrogodnosti"
+    plural: 
+      nom: "věrogodnosti"
+      acc: "věrogodnosti"
+      gen: "věrogodnostij"
+      loc: "věrogodnosťah"
+      dat: "věrogodnosťam"
+      ins: "věrogodnosťami"
+      voc: "věrogodnosti"

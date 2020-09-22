@@ -1,0 +1,22 @@
+---
+  id: "30293"
+  word: "råzlųka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzlųka"
+      acc: "råzlųkų"
+      gen: "råzlųky"
+      loc: "råzlųkě"
+      dat: "råzlųkě"
+      ins: "råzlųkojų"
+      voc: "råzlųko"
+    plural: 
+      nom: "råzlųky"
+      acc: "råzlųky"
+      gen: "råzlųk"
+      loc: "råzlųkah"
+      dat: "råzlųkam"
+      ins: "råzlųkami"
+      voc: "råzlųky"

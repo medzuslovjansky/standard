@@ -1,0 +1,22 @@
+---
+  id: "17412"
+  word: "godišnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "godišnica"
+      acc: "godišnicų"
+      gen: "godišnice"
+      loc: "godišnici"
+      dat: "godišnici"
+      ins: "godišnicejų"
+      voc: "godišnico"
+    plural: 
+      nom: "godišnice"
+      acc: "godišnice"
+      gen: "godišnic"
+      loc: "godišnicah"
+      dat: "godišnicam"
+      ins: "godišnicami"
+      voc: "godišnice"

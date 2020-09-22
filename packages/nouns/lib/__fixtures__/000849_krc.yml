@@ -1,0 +1,22 @@
+---
+  id: "849"
+  word: "krč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krč"
+      acc: "krč"
+      gen: "krča"
+      loc: "krču"
+      dat: "krču"
+      ins: "krčem"
+      voc: "krču"
+    plural: 
+      nom: "krče"
+      acc: "krče"
+      gen: "krčev"
+      loc: "krčah"
+      dat: "krčam"
+      ins: "krčami"
+      voc: "krče"

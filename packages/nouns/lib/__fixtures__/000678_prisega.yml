@@ -1,0 +1,22 @@
+---
+  id: "678"
+  word: "prisęga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prisęga"
+      acc: "prisęgų"
+      gen: "prisęgy"
+      loc: "prisęgě"
+      dat: "prisęgě"
+      ins: "prisęgojų"
+      voc: "prisęgo"
+    plural: 
+      nom: "prisęgy"
+      acc: "prisęgy"
+      gen: "prisęg"
+      loc: "prisęgah"
+      dat: "prisęgam"
+      ins: "prisęgami"
+      voc: "prisęgy"

@@ -1,0 +1,22 @@
+---
+  id: "19666"
+  word: "ceglina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ceglina"
+      acc: "ceglinų"
+      gen: "cegliny"
+      loc: "ceglině"
+      dat: "ceglině"
+      ins: "ceglinojų"
+      voc: "ceglino"
+    plural: 
+      nom: "cegliny"
+      acc: "cegliny"
+      gen: "ceglin"
+      loc: "ceglinah"
+      dat: "ceglinam"
+      ins: "ceglinami"
+      voc: "cegliny"

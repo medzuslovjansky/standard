@@ -1,0 +1,22 @@
+---
+  id: "4108"
+  word: "rada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rada"
+      acc: "radų"
+      gen: "rady"
+      loc: "radě"
+      dat: "radě"
+      ins: "radojų"
+      voc: "rado"
+    plural: 
+      nom: "rady"
+      acc: "rady"
+      gen: "rad"
+      loc: "radah"
+      dat: "radam"
+      ins: "radami"
+      voc: "rady"

@@ -1,0 +1,23 @@
+---
+  id: "22588"
+  word: "privŕženec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "privŕženec"
+      acc: "privŕženca"
+      gen: "privŕženca"
+      loc: "privŕžencu"
+      dat: "privŕžencu"
+      ins: "privŕžencem"
+      voc: "privŕženče"
+    plural: 
+      nom: "privŕženci"
+      acc: "privŕžencev"
+      gen: "privŕžencev"
+      loc: "privŕžencah"
+      dat: "privŕžencam"
+      ins: "privŕžencami"
+      voc: "privŕženci"

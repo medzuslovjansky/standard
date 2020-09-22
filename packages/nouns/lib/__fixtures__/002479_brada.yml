@@ -1,0 +1,22 @@
+---
+  id: "2479"
+  word: "bråda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bråda"
+      acc: "brådų"
+      gen: "brådy"
+      loc: "brådě"
+      dat: "brådě"
+      ins: "brådojų"
+      voc: "brådo"
+    plural: 
+      nom: "brådy"
+      acc: "brådy"
+      gen: "bråd"
+      loc: "brådah"
+      dat: "brådam"
+      ins: "brådami"
+      voc: "brådy"

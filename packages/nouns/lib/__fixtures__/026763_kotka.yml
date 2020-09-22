@@ -1,0 +1,22 @@
+---
+  id: "26763"
+  word: "kotka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kotka"
+      acc: "kotkų"
+      gen: "kotky"
+      loc: "kotkě"
+      dat: "kotkě"
+      ins: "kotkojų"
+      voc: "kotko"
+    plural: 
+      nom: "kotky"
+      acc: "kotky"
+      gen: "kotȯk"
+      loc: "kotkah"
+      dat: "kotkam"
+      ins: "kotkami"
+      voc: "kotky"

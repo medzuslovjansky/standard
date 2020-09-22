@@ -1,0 +1,22 @@
+---
+  id: "29969"
+  word: "pozȯv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pozȯv"
+      acc: "pozȯv"
+      gen: "pozva"
+      loc: "pozvu"
+      dat: "pozvu"
+      ins: "pozvom"
+      voc: "pozve"
+    plural: 
+      nom: "pozvy"
+      acc: "pozvy"
+      gen: "pozvov"
+      loc: "pozvah"
+      dat: "pozvam"
+      ins: "pozvami"
+      voc: "pozvy"

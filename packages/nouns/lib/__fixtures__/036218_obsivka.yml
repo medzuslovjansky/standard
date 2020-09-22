@@ -1,0 +1,22 @@
+---
+  id: "36218"
+  word: "obšivka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obšivka"
+      acc: "obšivkų"
+      gen: "obšivky"
+      loc: "obšivkě"
+      dat: "obšivkě"
+      ins: "obšivkojų"
+      voc: "obšivko"
+    plural: 
+      nom: "obšivky"
+      acc: "obšivky"
+      gen: "obšivȯk"
+      loc: "obšivkah"
+      dat: "obšivkam"
+      ins: "obšivkami"
+      voc: "obšivky"

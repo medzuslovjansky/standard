@@ -1,0 +1,23 @@
+---
+  id: "1049"
+  word: "ekspert"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ekspert"
+      acc: "eksperta"
+      gen: "eksperta"
+      loc: "ekspertu"
+      dat: "ekspertu"
+      ins: "ekspertom"
+      voc: "eksperte"
+    plural: 
+      nom: "eksperti"
+      acc: "ekspertov"
+      gen: "ekspertov"
+      loc: "ekspertah"
+      dat: "ekspertam"
+      ins: "ekspertami"
+      voc: "eksperti"

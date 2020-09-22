@@ -1,0 +1,22 @@
+---
+  id: "16329"
+  word: "prětečeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prětečeńje"
+      acc: "prětečeńje"
+      gen: "prětečeńja"
+      loc: "prětečeńju"
+      dat: "prětečeńju"
+      ins: "prětečeńjem"
+      voc: "prětečeńje"
+    plural: 
+      nom: "prětečeńja"
+      acc: "prětečeńja"
+      gen: "prětečenij"
+      loc: "prětečeńjah"
+      dat: "prětečeńjam"
+      ins: "prětečeńjami"
+      voc: "prětečeńja"

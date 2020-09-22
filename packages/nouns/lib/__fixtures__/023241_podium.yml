@@ -1,0 +1,22 @@
+---
+  id: "23241"
+  word: "podium"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podium"
+      acc: "podium"
+      gen: "podiuma"
+      loc: "podiumu"
+      dat: "podiumu"
+      ins: "podiumom"
+      voc: "podium"
+    plural: 
+      nom: "podiuma"
+      acc: "podiuma"
+      gen: "podium"
+      loc: "podiumah"
+      dat: "podiumam"
+      ins: "podiumami"
+      voc: "podiuma"

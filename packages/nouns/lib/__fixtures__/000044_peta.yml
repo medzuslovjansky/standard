@@ -1,0 +1,22 @@
+---
+  id: "44"
+  word: "pęta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pęta"
+      acc: "pętų"
+      gen: "pęty"
+      loc: "pętě"
+      dat: "pętě"
+      ins: "pętojų"
+      voc: "pęto"
+    plural: 
+      nom: "pęty"
+      acc: "pęty"
+      gen: "pęt"
+      loc: "pętah"
+      dat: "pętam"
+      ins: "pętami"
+      voc: "pęty"

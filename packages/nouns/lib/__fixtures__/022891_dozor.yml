@@ -1,0 +1,22 @@
+---
+  id: "22891"
+  word: "dozor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dozor"
+      acc: "dozor"
+      gen: "dozora"
+      loc: "dozoru"
+      dat: "dozoru"
+      ins: "dozorom"
+      voc: "dozore"
+    plural: 
+      nom: "dozory"
+      acc: "dozory"
+      gen: "dozorov"
+      loc: "dozorah"
+      dat: "dozoram"
+      ins: "dozorami"
+      voc: "dozory"

@@ -1,0 +1,22 @@
+---
+  id: "36634"
+  word: "diplodok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diplodok"
+      acc: "diplodok"
+      gen: "diplodoka"
+      loc: "diplodoku"
+      dat: "diplodoku"
+      ins: "diplodokom"
+      voc: "diplodoče"
+    plural: 
+      nom: "diplodoky"
+      acc: "diplodoky"
+      gen: "diplodokov"
+      loc: "diplodokah"
+      dat: "diplodokam"
+      ins: "diplodokami"
+      voc: "diplodoky"

@@ -1,0 +1,23 @@
+---
+  id: "229"
+  word: "angel"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "angel"
+      acc: "angela"
+      gen: "angela"
+      loc: "angelu"
+      dat: "angelu"
+      ins: "angelom"
+      voc: "angele"
+    plural: 
+      nom: "angeli"
+      acc: "angelov"
+      gen: "angelov"
+      loc: "angelah"
+      dat: "angelam"
+      ins: "angelami"
+      voc: "angeli"

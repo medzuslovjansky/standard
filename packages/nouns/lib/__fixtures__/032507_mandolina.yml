@@ -1,0 +1,22 @@
+---
+  id: "32507"
+  word: "mandolina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mandolina"
+      acc: "mandolinų"
+      gen: "mandoliny"
+      loc: "mandolině"
+      dat: "mandolině"
+      ins: "mandolinojų"
+      voc: "mandolino"
+    plural: 
+      nom: "mandoliny"
+      acc: "mandoliny"
+      gen: "mandolin"
+      loc: "mandolinah"
+      dat: "mandolinam"
+      ins: "mandolinami"
+      voc: "mandoliny"

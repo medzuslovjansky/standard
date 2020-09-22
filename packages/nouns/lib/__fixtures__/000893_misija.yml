@@ -1,0 +1,22 @@
+---
+  id: "893"
+  word: "misija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "misija"
+      acc: "misijų"
+      gen: "misije"
+      loc: "misiji"
+      dat: "misiji"
+      ins: "misijejų"
+      voc: "misijo"
+    plural: 
+      nom: "misije"
+      acc: "misije"
+      gen: "misij"
+      loc: "misijah"
+      dat: "misijam"
+      ins: "misijami"
+      voc: "misije"

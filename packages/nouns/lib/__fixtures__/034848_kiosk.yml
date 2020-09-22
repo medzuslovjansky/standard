@@ -1,0 +1,22 @@
+---
+  id: "34848"
+  word: "kiosk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kiosk"
+      acc: "kiosk"
+      gen: "kioska"
+      loc: "kiosku"
+      dat: "kiosku"
+      ins: "kioskom"
+      voc: "kiosče"
+    plural: 
+      nom: "kiosky"
+      acc: "kiosky"
+      gen: "kioskov"
+      loc: "kioskah"
+      dat: "kioskam"
+      ins: "kioskami"
+      voc: "kiosky"

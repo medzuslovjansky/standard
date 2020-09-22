@@ -1,0 +1,22 @@
+---
+  id: "6224"
+  word: "potvŕđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "potvŕđeńje"
+      acc: "potvŕđeńje"
+      gen: "potvŕđeńja"
+      loc: "potvŕđeńju"
+      dat: "potvŕđeńju"
+      ins: "potvŕđeńjem"
+      voc: "potvŕđeńje"
+    plural: 
+      nom: "potvŕđeńja"
+      acc: "potvŕđeńja"
+      gen: "potvŕđenij"
+      loc: "potvŕđeńjah"
+      dat: "potvŕđeńjam"
+      ins: "potvŕđeńjami"
+      voc: "potvŕđeńja"

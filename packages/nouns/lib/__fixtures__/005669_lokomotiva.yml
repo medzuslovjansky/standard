@@ -1,0 +1,22 @@
+---
+  id: "5669"
+  word: "lokomotiva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lokomotiva"
+      acc: "lokomotivų"
+      gen: "lokomotivy"
+      loc: "lokomotivě"
+      dat: "lokomotivě"
+      ins: "lokomotivojų"
+      voc: "lokomotivo"
+    plural: 
+      nom: "lokomotivy"
+      acc: "lokomotivy"
+      gen: "lokomotiv"
+      loc: "lokomotivah"
+      dat: "lokomotivam"
+      ins: "lokomotivami"
+      voc: "lokomotivy"

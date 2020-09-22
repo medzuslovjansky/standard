@@ -1,0 +1,22 @@
+---
+  id: "5111"
+  word: "šlěm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šlěm"
+      acc: "šlěm"
+      gen: "šlěma"
+      loc: "šlěmu"
+      dat: "šlěmu"
+      ins: "šlěmom"
+      voc: "šlěme"
+    plural: 
+      nom: "šlěmy"
+      acc: "šlěmy"
+      gen: "šlěmov"
+      loc: "šlěmah"
+      dat: "šlěmam"
+      ins: "šlěmami"
+      voc: "šlěmy"

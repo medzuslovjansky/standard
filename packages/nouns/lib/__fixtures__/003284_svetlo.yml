@@ -1,0 +1,22 @@
+---
+  id: "3284"
+  word: "světlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "světlo"
+      acc: "světlo"
+      gen: "světla"
+      loc: "světlu"
+      dat: "světlu"
+      ins: "světlom"
+      voc: "světlo"
+    plural: 
+      nom: "světla"
+      acc: "světla"
+      gen: "světȯl"
+      loc: "světlah"
+      dat: "světlam"
+      ins: "světlami"
+      voc: "světla"

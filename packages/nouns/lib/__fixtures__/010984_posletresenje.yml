@@ -1,0 +1,22 @@
+---
+  id: "10984"
+  word: "poslětręšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poslětręšeńje"
+      acc: "poslětręšeńje"
+      gen: "poslětręšeńja"
+      loc: "poslětręšeńju"
+      dat: "poslětręšeńju"
+      ins: "poslětręšeńjem"
+      voc: "poslětręšeńje"
+    plural: 
+      nom: "poslětręšeńja"
+      acc: "poslětręšeńja"
+      gen: "poslětręšenij"
+      loc: "poslětręšeńjah"
+      dat: "poslětręšeńjam"
+      ins: "poslětręšeńjami"
+      voc: "poslětręšeńja"

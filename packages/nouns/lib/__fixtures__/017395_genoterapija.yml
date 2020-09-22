@@ -1,0 +1,22 @@
+---
+  id: "17395"
+  word: "genoterapija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "genoterapija"
+      acc: "genoterapijų"
+      gen: "genoterapije"
+      loc: "genoterapiji"
+      dat: "genoterapiji"
+      ins: "genoterapijejų"
+      voc: "genoterapijo"
+    plural: 
+      nom: "genoterapije"
+      acc: "genoterapije"
+      gen: "genoterapij"
+      loc: "genoterapijah"
+      dat: "genoterapijam"
+      ins: "genoterapijami"
+      voc: "genoterapije"

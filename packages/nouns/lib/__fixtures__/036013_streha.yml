@@ -1,0 +1,22 @@
+---
+  id: "36013"
+  word: "strěha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strěha"
+      acc: "strěhų"
+      gen: "strěhy"
+      loc: "strěhě"
+      dat: "strěhě"
+      ins: "strěhojų"
+      voc: "strěho"
+    plural: 
+      nom: "strěhy"
+      acc: "strěhy"
+      gen: "strěh"
+      loc: "strěhah"
+      dat: "strěham"
+      ins: "strěhami"
+      voc: "strěhy"

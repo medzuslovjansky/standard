@@ -1,0 +1,22 @@
+---
+  id: "21230"
+  word: "zapor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapor"
+      acc: "zapor"
+      gen: "zapora"
+      loc: "zaporu"
+      dat: "zaporu"
+      ins: "zaporom"
+      voc: "zapore"
+    plural: 
+      nom: "zapory"
+      acc: "zapory"
+      gen: "zaporov"
+      loc: "zaporah"
+      dat: "zaporam"
+      ins: "zaporami"
+      voc: "zapory"

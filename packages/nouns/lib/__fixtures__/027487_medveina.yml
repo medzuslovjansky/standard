@@ -1,0 +1,22 @@
+---
+  id: "27487"
+  word: "medvěđina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medvěđina"
+      acc: "medvěđinų"
+      gen: "medvěđiny"
+      loc: "medvěđině"
+      dat: "medvěđině"
+      ins: "medvěđinojų"
+      voc: "medvěđino"
+    plural: 
+      nom: "medvěđiny"
+      acc: "medvěđiny"
+      gen: "medvěđin"
+      loc: "medvěđinah"
+      dat: "medvěđinam"
+      ins: "medvěđinami"
+      voc: "medvěđiny"

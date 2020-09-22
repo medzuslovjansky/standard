@@ -1,0 +1,22 @@
+---
+  id: "36056"
+  word: "požiraľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "požiraľnik"
+      acc: "požiraľnik"
+      gen: "požiraľnika"
+      loc: "požiraľniku"
+      dat: "požiraľniku"
+      ins: "požiraľnikom"
+      voc: "požiraľniče"
+    plural: 
+      nom: "požiraľniky"
+      acc: "požiraľniky"
+      gen: "požiraľnikov"
+      loc: "požiraľnikah"
+      dat: "požiraľnikam"
+      ins: "požiraľnikami"
+      voc: "požiraľniky"

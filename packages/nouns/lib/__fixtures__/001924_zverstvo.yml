@@ -1,0 +1,22 @@
+---
+  id: "1924"
+  word: "zvěŕstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zvěŕstvo"
+      acc: "zvěŕstvo"
+      gen: "zvěŕstva"
+      loc: "zvěŕstvu"
+      dat: "zvěŕstvu"
+      ins: "zvěŕstvom"
+      voc: "zvěŕstvo"
+    plural: 
+      nom: "zvěŕstva"
+      acc: "zvěŕstva"
+      gen: "zvěŕstv"
+      loc: "zvěŕstvah"
+      dat: "zvěŕstvam"
+      ins: "zvěŕstvami"
+      voc: "zvěŕstva"

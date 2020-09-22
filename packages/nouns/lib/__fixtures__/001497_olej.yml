@@ -1,0 +1,22 @@
+---
+  id: "1497"
+  word: "olej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "olej"
+      acc: "olej"
+      gen: "oleja"
+      loc: "oleju"
+      dat: "oleju"
+      ins: "olejem"
+      voc: "oleju"
+    plural: 
+      nom: "oleje"
+      acc: "oleje"
+      gen: "olejev"
+      loc: "olejah"
+      dat: "olejam"
+      ins: "olejami"
+      voc: "oleje"

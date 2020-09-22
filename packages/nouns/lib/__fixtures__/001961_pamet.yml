@@ -1,0 +1,22 @@
+---
+  id: "1961"
+  word: "pamęť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pamęť"
+      acc: "pamęť"
+      gen: "pamęti"
+      loc: "pamęti"
+      dat: "pamęti"
+      ins: "pamęťjų"
+      voc: "pamęti"
+    plural: 
+      nom: "pamęti"
+      acc: "pamęti"
+      gen: "pamętij"
+      loc: "pamęťah"
+      dat: "pamęťam"
+      ins: "pamęťami"
+      voc: "pamęti"

@@ -1,0 +1,22 @@
+---
+  id: "23475"
+  word: "zęba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zęba"
+      acc: "zębų"
+      gen: "zęby"
+      loc: "zębě"
+      dat: "zębě"
+      ins: "zębojų"
+      voc: "zębo"
+    plural: 
+      nom: "zęby"
+      acc: "zęby"
+      gen: "zęb"
+      loc: "zębah"
+      dat: "zębam"
+      ins: "zębami"
+      voc: "zęby"

@@ -1,0 +1,22 @@
+---
+  id: "27257"
+  word: "ljud"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ljud"
+      acc: "ljud"
+      gen: "ljuda"
+      loc: "ljudu"
+      dat: "ljudu"
+      ins: "ljudom"
+      voc: "ljude"
+    plural: 
+      nom: "ljudy"
+      acc: "ljudy"
+      gen: "ljudov"
+      loc: "ljudah"
+      dat: "ljudam"
+      ins: "ljudami"
+      voc: "ljudy"

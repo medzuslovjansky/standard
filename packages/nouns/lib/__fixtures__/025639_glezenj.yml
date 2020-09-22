@@ -1,0 +1,22 @@
+---
+  id: "25639"
+  word: "glezenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glezenj"
+      acc: "glezenj"
+      gen: "glezenja"
+      loc: "glezenju"
+      dat: "glezenju"
+      ins: "glezenjem"
+      voc: "glezenju"
+    plural: 
+      nom: "glezenje"
+      acc: "glezenje"
+      gen: "glezenjev"
+      loc: "glezenjah"
+      dat: "glezenjam"
+      ins: "glezenjami"
+      voc: "glezenje"

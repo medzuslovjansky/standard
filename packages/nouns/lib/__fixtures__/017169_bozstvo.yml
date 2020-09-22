@@ -1,0 +1,22 @@
+---
+  id: "17169"
+  word: "božstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "božstvo"
+      acc: "božstvo"
+      gen: "božstva"
+      loc: "božstvu"
+      dat: "božstvu"
+      ins: "božstvom"
+      voc: "božstvo"
+    plural: 
+      nom: "božstva"
+      acc: "božstva"
+      gen: "božstv"
+      loc: "božstvah"
+      dat: "božstvam"
+      ins: "božstvami"
+      voc: "božstva"

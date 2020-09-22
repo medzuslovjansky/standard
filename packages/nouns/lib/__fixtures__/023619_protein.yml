@@ -1,0 +1,22 @@
+---
+  id: "23619"
+  word: "protein"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "protein"
+      acc: "protein"
+      gen: "proteina"
+      loc: "proteinu"
+      dat: "proteinu"
+      ins: "proteinom"
+      voc: "proteine"
+    plural: 
+      nom: "proteiny"
+      acc: "proteiny"
+      gen: "proteinov"
+      loc: "proteinah"
+      dat: "proteinam"
+      ins: "proteinami"
+      voc: "proteiny"

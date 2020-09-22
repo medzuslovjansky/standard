@@ -1,0 +1,22 @@
+---
+  id: "3947"
+  word: "transliteracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "transliteracija"
+      acc: "transliteracijų"
+      gen: "transliteracije"
+      loc: "transliteraciji"
+      dat: "transliteraciji"
+      ins: "transliteracijejų"
+      voc: "transliteracijo"
+    plural: 
+      nom: "transliteracije"
+      acc: "transliteracije"
+      gen: "transliteracij"
+      loc: "transliteracijah"
+      dat: "transliteracijam"
+      ins: "transliteracijami"
+      voc: "transliteracije"

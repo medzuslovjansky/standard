@@ -1,0 +1,22 @@
+---
+  id: "1086"
+  word: "orěh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "orěh"
+      acc: "orěh"
+      gen: "orěha"
+      loc: "orěhu"
+      dat: "orěhu"
+      ins: "orěhom"
+      voc: "orěše"
+    plural: 
+      nom: "orěhy"
+      acc: "orěhy"
+      gen: "orěhov"
+      loc: "orěhah"
+      dat: "orěham"
+      ins: "orěhami"
+      voc: "orěhy"

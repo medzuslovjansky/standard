@@ -1,0 +1,22 @@
+---
+  id: "35344"
+  word: "filolog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "filolog"
+      acc: "filolog"
+      gen: "filologa"
+      loc: "filologu"
+      dat: "filologu"
+      ins: "filologom"
+      voc: "filolože"
+    plural: 
+      nom: "filology"
+      acc: "filology"
+      gen: "filologov"
+      loc: "filologah"
+      dat: "filologam"
+      ins: "filologami"
+      voc: "filology"

@@ -1,0 +1,22 @@
+---
+  id: "17007"
+  word: "polovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polovica"
+      acc: "polovicų"
+      gen: "polovice"
+      loc: "polovici"
+      dat: "polovici"
+      ins: "polovicejų"
+      voc: "polovico"
+    plural: 
+      nom: "polovice"
+      acc: "polovice"
+      gen: "polovic"
+      loc: "polovicah"
+      dat: "polovicam"
+      ins: "polovicami"
+      voc: "polovice"

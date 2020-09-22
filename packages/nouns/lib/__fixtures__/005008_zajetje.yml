@@ -1,0 +1,22 @@
+---
+  id: "5008"
+  word: "zajęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zajęťje"
+      acc: "zajęťje"
+      gen: "zajęťja"
+      loc: "zajęťju"
+      dat: "zajęťju"
+      ins: "zajęťjem"
+      voc: "zajęťje"
+    plural: 
+      nom: "zajęťja"
+      acc: "zajęťja"
+      gen: "zajętij"
+      loc: "zajęťjah"
+      dat: "zajęťjam"
+      ins: "zajęťjami"
+      voc: "zajęťja"

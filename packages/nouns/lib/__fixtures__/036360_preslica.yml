@@ -1,0 +1,22 @@
+---
+  id: "36360"
+  word: "pręslica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pręslica"
+      acc: "pręslicų"
+      gen: "pręslice"
+      loc: "pręslici"
+      dat: "pręslici"
+      ins: "pręslicejų"
+      voc: "pręslico"
+    plural: 
+      nom: "pręslice"
+      acc: "pręslice"
+      gen: "pręslic"
+      loc: "pręslicah"
+      dat: "pręslicam"
+      ins: "pręslicami"
+      voc: "pręslice"

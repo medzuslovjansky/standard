@@ -1,0 +1,22 @@
+---
+  id: "35913"
+  word: "uniforma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uniforma"
+      acc: "uniformų"
+      gen: "uniformy"
+      loc: "uniformě"
+      dat: "uniformě"
+      ins: "uniformojų"
+      voc: "uniformo"
+    plural: 
+      nom: "uniformy"
+      acc: "uniformy"
+      gen: "uniform"
+      loc: "uniformah"
+      dat: "uniformam"
+      ins: "uniformami"
+      voc: "uniformy"

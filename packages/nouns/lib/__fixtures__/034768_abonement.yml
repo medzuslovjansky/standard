@@ -1,0 +1,22 @@
+---
+  id: "34768"
+  word: "abonement"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abonement"
+      acc: "abonement"
+      gen: "abonementa"
+      loc: "abonementu"
+      dat: "abonementu"
+      ins: "abonementom"
+      voc: "abonemente"
+    plural: 
+      nom: "abonementy"
+      acc: "abonementy"
+      gen: "abonementov"
+      loc: "abonementah"
+      dat: "abonementam"
+      ins: "abonementami"
+      voc: "abonementy"

@@ -1,0 +1,22 @@
+---
+  id: "22972"
+  word: "budžet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "budžet"
+      acc: "budžet"
+      gen: "budžeta"
+      loc: "budžetu"
+      dat: "budžetu"
+      ins: "budžetom"
+      voc: "budžete"
+    plural: 
+      nom: "budžety"
+      acc: "budžety"
+      gen: "budžetov"
+      loc: "budžetah"
+      dat: "budžetam"
+      ins: "budžetami"
+      voc: "budžety"

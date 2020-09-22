@@ -1,0 +1,22 @@
+---
+  id: "11725"
+  word: "rasa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rasa"
+      acc: "rasų"
+      gen: "rasy"
+      loc: "rasě"
+      dat: "rasě"
+      ins: "rasojų"
+      voc: "raso"
+    plural: 
+      nom: "rasy"
+      acc: "rasy"
+      gen: "ras"
+      loc: "rasah"
+      dat: "rasam"
+      ins: "rasami"
+      voc: "rasy"

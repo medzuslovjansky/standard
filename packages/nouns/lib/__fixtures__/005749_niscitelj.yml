@@ -1,0 +1,22 @@
+---
+  id: "5749"
+  word: "niščitelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "niščitelj"
+      acc: "niščitelj"
+      gen: "niščitelja"
+      loc: "niščitelju"
+      dat: "niščitelju"
+      ins: "niščiteljem"
+      voc: "niščitelju"
+    plural: 
+      nom: "niščitelje"
+      acc: "niščitelje"
+      gen: "niščiteljev"
+      loc: "niščiteljah"
+      dat: "niščiteljam"
+      ins: "niščiteljami"
+      voc: "niščitelje"

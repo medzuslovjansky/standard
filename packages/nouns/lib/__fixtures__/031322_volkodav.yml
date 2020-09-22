@@ -1,0 +1,23 @@
+---
+  id: "31322"
+  word: "vȯlkodav"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vȯlkodav"
+      acc: "vȯlkodava"
+      gen: "vȯlkodava"
+      loc: "vȯlkodavu"
+      dat: "vȯlkodavu"
+      ins: "vȯlkodavom"
+      voc: "vȯlkodave"
+    plural: 
+      nom: "vȯlkodavi"
+      acc: "vȯlkodavov"
+      gen: "vȯlkodavov"
+      loc: "vȯlkodavah"
+      dat: "vȯlkodavam"
+      ins: "vȯlkodavami"
+      voc: "vȯlkodavi"

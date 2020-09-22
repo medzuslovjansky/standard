@@ -1,0 +1,22 @@
+---
+  id: "1952"
+  word: "poděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poděl"
+      acc: "poděl"
+      gen: "poděla"
+      loc: "podělu"
+      dat: "podělu"
+      ins: "podělom"
+      voc: "poděle"
+    plural: 
+      nom: "poděly"
+      acc: "poděly"
+      gen: "podělov"
+      loc: "podělah"
+      dat: "podělam"
+      ins: "podělami"
+      voc: "poděly"

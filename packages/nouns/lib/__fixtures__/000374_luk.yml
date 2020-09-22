@@ -1,0 +1,22 @@
+---
+  id: "374"
+  word: "lųk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lųk"
+      acc: "lųk"
+      gen: "lųka"
+      loc: "lųku"
+      dat: "lųku"
+      ins: "lųkom"
+      voc: "lųče"
+    plural: 
+      nom: "lųky"
+      acc: "lųky"
+      gen: "lųkov"
+      loc: "lųkah"
+      dat: "lųkam"
+      ins: "lųkami"
+      voc: "lųky"

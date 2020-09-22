@@ -1,0 +1,22 @@
+---
+  id: "7660"
+  word: "gråđanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gråđanka"
+      acc: "gråđankų"
+      gen: "gråđanky"
+      loc: "gråđankě"
+      dat: "gråđankě"
+      ins: "gråđankojų"
+      voc: "gråđanko"
+    plural: 
+      nom: "gråđanky"
+      acc: "gråđanky"
+      gen: "gråđanȯk"
+      loc: "gråđankah"
+      dat: "gråđankam"
+      ins: "gråđankami"
+      voc: "gråđanky"

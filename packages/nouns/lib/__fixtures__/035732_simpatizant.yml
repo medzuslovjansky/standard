@@ -1,0 +1,23 @@
+---
+  id: "35732"
+  word: "simpatizant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "simpatizant"
+      acc: "simpatizanta"
+      gen: "simpatizanta"
+      loc: "simpatizantu"
+      dat: "simpatizantu"
+      ins: "simpatizantom"
+      voc: "simpatizante"
+    plural: 
+      nom: "simpatizanti"
+      acc: "simpatizantov"
+      gen: "simpatizantov"
+      loc: "simpatizantah"
+      dat: "simpatizantam"
+      ins: "simpatizantami"
+      voc: "simpatizanti"

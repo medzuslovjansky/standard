@@ -1,0 +1,15 @@
+---
+  id: "25128"
+  word: "darvinizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "darvinizm"
+      acc: "darvinizm"
+      gen: "darvinizma"
+      loc: "darvinizmu"
+      dat: "darvinizmu"
+      ins: "darvinizmom"
+      voc: "darvinizme"

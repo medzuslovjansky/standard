@@ -1,0 +1,22 @@
+---
+  id: "2690"
+  word: "luna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "luna"
+      acc: "lunų"
+      gen: "luny"
+      loc: "luně"
+      dat: "luně"
+      ins: "lunojų"
+      voc: "luno"
+    plural: 
+      nom: "luny"
+      acc: "luny"
+      gen: "lun"
+      loc: "lunah"
+      dat: "lunam"
+      ins: "lunami"
+      voc: "luny"

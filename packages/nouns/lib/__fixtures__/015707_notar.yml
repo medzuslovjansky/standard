@@ -1,0 +1,23 @@
+---
+  id: "15707"
+  word: "notaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "notaŕ"
+      acc: "notaŕa"
+      gen: "notaŕa"
+      loc: "notaŕu"
+      dat: "notaŕu"
+      ins: "notaŕem"
+      voc: "notaŕu"
+    plural: 
+      nom: "notari"
+      acc: "notaŕev"
+      gen: "notaŕev"
+      loc: "notaŕah"
+      dat: "notaŕam"
+      ins: "notaŕami"
+      voc: "notari"

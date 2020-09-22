@@ -1,0 +1,22 @@
+---
+  id: "8903"
+  word: "Litvanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Litvanka"
+      acc: "Litvankų"
+      gen: "Litvanky"
+      loc: "Litvankě"
+      dat: "Litvankě"
+      ins: "Litvankojų"
+      voc: "Litvanko"
+    plural: 
+      nom: "Litvanky"
+      acc: "Litvanky"
+      gen: "Litvanȯk"
+      loc: "Litvankah"
+      dat: "Litvankam"
+      ins: "Litvankami"
+      voc: "Litvanky"

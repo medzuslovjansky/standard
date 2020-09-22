@@ -1,0 +1,15 @@
+---
+  id: "12201"
+  word: "sěveroiztok"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sěveroiztok"
+      acc: "sěveroiztok"
+      gen: "sěveroiztoka"
+      loc: "sěveroiztoku"
+      dat: "sěveroiztoku"
+      ins: "sěveroiztokom"
+      voc: "sěveroiztoče"

@@ -1,0 +1,22 @@
+---
+  id: "23561"
+  word: "žezlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žezlo"
+      acc: "žezlo"
+      gen: "žezla"
+      loc: "žezlu"
+      dat: "žezlu"
+      ins: "žezlom"
+      voc: "žezlo"
+    plural: 
+      nom: "žezla"
+      acc: "žezla"
+      gen: "žezȯl"
+      loc: "žezlah"
+      dat: "žezlam"
+      ins: "žezlami"
+      voc: "žezla"

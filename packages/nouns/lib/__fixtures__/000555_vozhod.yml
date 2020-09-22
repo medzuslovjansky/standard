@@ -1,0 +1,15 @@
+---
+  id: "555"
+  word: "vȯzhod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vȯzhod"
+      acc: "vȯzhod"
+      gen: "vȯzhoda"
+      loc: "vȯzhodu"
+      dat: "vȯzhodu"
+      ins: "vȯzhodom"
+      voc: "vȯzhode"

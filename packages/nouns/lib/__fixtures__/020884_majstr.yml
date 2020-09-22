@@ -1,0 +1,23 @@
+---
+  id: "20884"
+  word: "majstr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "majstr"
+      acc: "majstra"
+      gen: "majstra"
+      loc: "majstru"
+      dat: "majstru"
+      ins: "majstrom"
+      voc: "majstre"
+    plural: 
+      nom: "majstri"
+      acc: "majstrov"
+      gen: "majstrov"
+      loc: "majstrah"
+      dat: "majstram"
+      ins: "majstrami"
+      voc: "majstri"

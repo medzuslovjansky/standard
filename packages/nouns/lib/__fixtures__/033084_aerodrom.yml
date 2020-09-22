@@ -1,0 +1,22 @@
+---
+  id: "33084"
+  word: "aerodrom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aerodrom"
+      acc: "aerodrom"
+      gen: "aerodroma"
+      loc: "aerodromu"
+      dat: "aerodromu"
+      ins: "aerodromom"
+      voc: "aerodrome"
+    plural: 
+      nom: "aerodromy"
+      acc: "aerodromy"
+      gen: "aerodromov"
+      loc: "aerodromah"
+      dat: "aerodromam"
+      ins: "aerodromami"
+      voc: "aerodromy"

@@ -1,0 +1,22 @@
+---
+  id: "35972"
+  word: "tipologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tipologija"
+      acc: "tipologijų"
+      gen: "tipologije"
+      loc: "tipologiji"
+      dat: "tipologiji"
+      ins: "tipologijejų"
+      voc: "tipologijo"
+    plural: 
+      nom: "tipologije"
+      acc: "tipologije"
+      gen: "tipologij"
+      loc: "tipologijah"
+      dat: "tipologijam"
+      ins: "tipologijami"
+      voc: "tipologije"

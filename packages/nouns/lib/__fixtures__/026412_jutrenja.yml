@@ -1,0 +1,22 @@
+---
+  id: "26412"
+  word: "jutrenja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jutrenja"
+      acc: "jutrenjų"
+      gen: "jutrenje"
+      loc: "jutrenji"
+      dat: "jutrenji"
+      ins: "jutrenjejų"
+      voc: "jutrenjo"
+    plural: 
+      nom: "jutrenje"
+      acc: "jutrenje"
+      gen: "jutrenej"
+      loc: "jutrenjah"
+      dat: "jutrenjam"
+      ins: "jutrenjami"
+      voc: "jutrenje"

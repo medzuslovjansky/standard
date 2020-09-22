@@ -1,0 +1,22 @@
+---
+  id: "33502"
+  word: "haos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "haos"
+      acc: "haos"
+      gen: "haosa"
+      loc: "haosu"
+      dat: "haosu"
+      ins: "haosom"
+      voc: "haose"
+    plural: 
+      nom: "haosy"
+      acc: "haosy"
+      gen: "haosov"
+      loc: "haosah"
+      dat: "haosam"
+      ins: "haosami"
+      voc: "haosy"

@@ -1,0 +1,22 @@
+---
+  id: "360"
+  word: "kyj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kyj"
+      acc: "kyj"
+      gen: "kyja"
+      loc: "kyju"
+      dat: "kyju"
+      ins: "kyjem"
+      voc: "kyju"
+    plural: 
+      nom: "kyje"
+      acc: "kyje"
+      gen: "kyjev"
+      loc: "kyjah"
+      dat: "kyjam"
+      ins: "kyjami"
+      voc: "kyje"

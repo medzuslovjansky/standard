@@ -1,0 +1,22 @@
+---
+  id: "36838"
+  word: "kvarta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvarta"
+      acc: "kvartų"
+      gen: "kvarty"
+      loc: "kvartě"
+      dat: "kvartě"
+      ins: "kvartojų"
+      voc: "kvarto"
+    plural: 
+      nom: "kvarty"
+      acc: "kvarty"
+      gen: "kvart"
+      loc: "kvartah"
+      dat: "kvartam"
+      ins: "kvartami"
+      voc: "kvarty"

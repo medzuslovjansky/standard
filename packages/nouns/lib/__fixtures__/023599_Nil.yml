@@ -1,0 +1,15 @@
+---
+  id: "23599"
+  word: "Nil"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Nil"
+      acc: "Nil"
+      gen: "Nila"
+      loc: "Nilu"
+      dat: "Nilu"
+      ins: "Nilom"
+      voc: "Nile"

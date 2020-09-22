@@ -1,0 +1,22 @@
+---
+  id: "11549"
+  word: "prodavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prodavica"
+      acc: "prodavicų"
+      gen: "prodavice"
+      loc: "prodavici"
+      dat: "prodavici"
+      ins: "prodavicejų"
+      voc: "prodavico"
+    plural: 
+      nom: "prodavice"
+      acc: "prodavice"
+      gen: "prodavic"
+      loc: "prodavicah"
+      dat: "prodavicam"
+      ins: "prodavicami"
+      voc: "prodavice"

@@ -1,0 +1,23 @@
+---
+  id: "22988"
+  word: "dobyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dobyvatelj"
+      acc: "dobyvatelja"
+      gen: "dobyvatelja"
+      loc: "dobyvatelju"
+      dat: "dobyvatelju"
+      ins: "dobyvateljem"
+      voc: "dobyvatelju"
+    plural: 
+      nom: "dobyvatelji"
+      acc: "dobyvateljev"
+      gen: "dobyvateljev"
+      loc: "dobyvateljah"
+      dat: "dobyvateljam"
+      ins: "dobyvateljami"
+      voc: "dobyvatelji"

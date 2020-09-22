@@ -1,0 +1,15 @@
+---
+  id: "36382"
+  word: "jugovȯzhod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jugovȯzhod"
+      acc: "jugovȯzhod"
+      gen: "jugovȯzhoda"
+      loc: "jugovȯzhodu"
+      dat: "jugovȯzhodu"
+      ins: "jugovȯzhodom"
+      voc: "jugovȯzhode"

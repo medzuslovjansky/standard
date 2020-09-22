@@ -1,0 +1,22 @@
+---
+  id: "17774"
+  word: "menstruacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "menstruacija"
+      acc: "menstruacijų"
+      gen: "menstruacije"
+      loc: "menstruaciji"
+      dat: "menstruaciji"
+      ins: "menstruacijejų"
+      voc: "menstruacijo"
+    plural: 
+      nom: "menstruacije"
+      acc: "menstruacije"
+      gen: "menstruacij"
+      loc: "menstruacijah"
+      dat: "menstruacijam"
+      ins: "menstruacijami"
+      voc: "menstruacije"

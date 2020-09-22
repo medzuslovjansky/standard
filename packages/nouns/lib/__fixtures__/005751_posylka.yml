@@ -1,0 +1,22 @@
+---
+  id: "5751"
+  word: "posylka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "posylka"
+      acc: "posylkų"
+      gen: "posylky"
+      loc: "posylkě"
+      dat: "posylkě"
+      ins: "posylkojų"
+      voc: "posylko"
+    plural: 
+      nom: "posylky"
+      acc: "posylky"
+      gen: "posylȯk"
+      loc: "posylkah"
+      dat: "posylkam"
+      ins: "posylkami"
+      voc: "posylky"

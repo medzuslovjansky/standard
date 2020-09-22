@@ -1,0 +1,22 @@
+---
+  id: "1451"
+  word: "mak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mak"
+      acc: "mak"
+      gen: "maka"
+      loc: "maku"
+      dat: "maku"
+      ins: "makom"
+      voc: "mače"
+    plural: 
+      nom: "maky"
+      acc: "maky"
+      gen: "makov"
+      loc: "makah"
+      dat: "makam"
+      ins: "makami"
+      voc: "maky"

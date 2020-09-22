@@ -1,0 +1,22 @@
+---
+  id: "32415"
+  word: "kazarna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kazarna"
+      acc: "kazarnų"
+      gen: "kazarny"
+      loc: "kazarně"
+      dat: "kazarně"
+      ins: "kazarnojų"
+      voc: "kazarno"
+    plural: 
+      nom: "kazarny"
+      acc: "kazarny"
+      gen: "kazarn"
+      loc: "kazarnah"
+      dat: "kazarnam"
+      ins: "kazarnami"
+      voc: "kazarny"

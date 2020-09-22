@@ -1,0 +1,22 @@
+---
+  id: "34139"
+  word: "oda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oda"
+      acc: "odų"
+      gen: "ody"
+      loc: "odě"
+      dat: "odě"
+      ins: "odojų"
+      voc: "odo"
+    plural: 
+      nom: "ody"
+      acc: "ody"
+      gen: "od"
+      loc: "odah"
+      dat: "odam"
+      ins: "odami"
+      voc: "ody"

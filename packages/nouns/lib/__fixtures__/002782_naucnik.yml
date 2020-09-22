@@ -1,0 +1,23 @@
+---
+  id: "2782"
+  word: "naučnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "naučnik"
+      acc: "naučnika"
+      gen: "naučnika"
+      loc: "naučniku"
+      dat: "naučniku"
+      ins: "naučnikom"
+      voc: "naučniče"
+    plural: 
+      nom: "naučniki"
+      acc: "naučnikov"
+      gen: "naučnikov"
+      loc: "naučnikah"
+      dat: "naučnikam"
+      ins: "naučnikami"
+      voc: "naučniki"

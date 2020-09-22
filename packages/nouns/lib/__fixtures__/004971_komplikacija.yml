@@ -1,0 +1,22 @@
+---
+  id: "4971"
+  word: "komplikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komplikacija"
+      acc: "komplikacijų"
+      gen: "komplikacije"
+      loc: "komplikaciji"
+      dat: "komplikaciji"
+      ins: "komplikacijejų"
+      voc: "komplikacijo"
+    plural: 
+      nom: "komplikacije"
+      acc: "komplikacije"
+      gen: "komplikacij"
+      loc: "komplikacijah"
+      dat: "komplikacijam"
+      ins: "komplikacijami"
+      voc: "komplikacije"

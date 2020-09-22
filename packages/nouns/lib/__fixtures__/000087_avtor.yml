@@ -1,0 +1,23 @@
+---
+  id: "87"
+  word: "avtor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "avtor"
+      acc: "avtora"
+      gen: "avtora"
+      loc: "avtoru"
+      dat: "avtoru"
+      ins: "avtorom"
+      voc: "avtore"
+    plural: 
+      nom: "avtori"
+      acc: "avtorov"
+      gen: "avtorov"
+      loc: "avtorah"
+      dat: "avtoram"
+      ins: "avtorami"
+      voc: "avtori"

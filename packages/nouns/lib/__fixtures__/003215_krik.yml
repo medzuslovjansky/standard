@@ -1,0 +1,22 @@
+---
+  id: "3215"
+  word: "krik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krik"
+      acc: "krik"
+      gen: "krika"
+      loc: "kriku"
+      dat: "kriku"
+      ins: "krikom"
+      voc: "kriče"
+    plural: 
+      nom: "kriky"
+      acc: "kriky"
+      gen: "krikov"
+      loc: "krikah"
+      dat: "krikam"
+      ins: "krikami"
+      voc: "kriky"

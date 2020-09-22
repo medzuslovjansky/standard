@@ -1,0 +1,22 @@
+---
+  id: "12319"
+  word: "Slovenka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Slovenka"
+      acc: "Slovenkų"
+      gen: "Slovenky"
+      loc: "Slovenkě"
+      dat: "Slovenkě"
+      ins: "Slovenkojų"
+      voc: "Slovenko"
+    plural: 
+      nom: "Slovenky"
+      acc: "Slovenky"
+      gen: "Slovenȯk"
+      loc: "Slovenkah"
+      dat: "Slovenkam"
+      ins: "Slovenkami"
+      voc: "Slovenky"

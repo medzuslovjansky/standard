@@ -1,0 +1,22 @@
+---
+  id: "18284"
+  word: "pohmeľje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pohmeľje"
+      acc: "pohmeľje"
+      gen: "pohmeľja"
+      loc: "pohmeľju"
+      dat: "pohmeľju"
+      ins: "pohmeľjem"
+      voc: "pohmeľje"
+    plural: 
+      nom: "pohmeľja"
+      acc: "pohmeľja"
+      gen: "pohmelij"
+      loc: "pohmeľjah"
+      dat: "pohmeľjam"
+      ins: "pohmeľjami"
+      voc: "pohmeľja"

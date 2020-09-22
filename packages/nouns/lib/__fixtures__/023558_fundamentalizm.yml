@@ -1,0 +1,15 @@
+---
+  id: "23558"
+  word: "fundamentalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fundamentalizm"
+      acc: "fundamentalizm"
+      gen: "fundamentalizma"
+      loc: "fundamentalizmu"
+      dat: "fundamentalizmu"
+      ins: "fundamentalizmom"
+      voc: "fundamentalizme"

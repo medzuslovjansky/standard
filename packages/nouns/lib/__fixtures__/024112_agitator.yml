@@ -1,0 +1,23 @@
+---
+  id: "24112"
+  word: "agitator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "agitator"
+      acc: "agitatora"
+      gen: "agitatora"
+      loc: "agitatoru"
+      dat: "agitatoru"
+      ins: "agitatorom"
+      voc: "agitatore"
+    plural: 
+      nom: "agitatori"
+      acc: "agitatorov"
+      gen: "agitatorov"
+      loc: "agitatorah"
+      dat: "agitatoram"
+      ins: "agitatorami"
+      voc: "agitatori"

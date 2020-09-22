@@ -1,0 +1,23 @@
+---
+  id: "31476"
+  word: "zabijaka"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zabijaka"
+      acc: "zabijakų"
+      gen: "zabijaky"
+      loc: "zabijakě"
+      dat: "zabijakě"
+      ins: "zabijakojų"
+      voc: "zabijako"
+    plural: 
+      nom: "zabijaki"
+      acc: "zabijakov"
+      gen: "zabijakov"
+      loc: "zabijakah"
+      dat: "zabijakam"
+      ins: "zabijakami"
+      voc: "zabijaki"

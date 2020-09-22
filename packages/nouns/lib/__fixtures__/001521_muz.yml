@@ -1,0 +1,23 @@
+---
+  id: "1521"
+  word: "mųž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mųž"
+      acc: "mųža"
+      gen: "mųža"
+      loc: "mųžu"
+      dat: "mųžu"
+      ins: "mųžem"
+      voc: "mųžu"
+    plural: 
+      nom: "mųži"
+      acc: "mųžev"
+      gen: "mųžev"
+      loc: "mųžah"
+      dat: "mųžam"
+      ins: "mųžami"
+      voc: "mųži"

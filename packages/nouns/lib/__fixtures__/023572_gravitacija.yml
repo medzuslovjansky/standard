@@ -1,0 +1,22 @@
+---
+  id: "23572"
+  word: "gravitacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gravitacija"
+      acc: "gravitacijų"
+      gen: "gravitacije"
+      loc: "gravitaciji"
+      dat: "gravitaciji"
+      ins: "gravitacijejų"
+      voc: "gravitacijo"
+    plural: 
+      nom: "gravitacije"
+      acc: "gravitacije"
+      gen: "gravitacij"
+      loc: "gravitacijah"
+      dat: "gravitacijam"
+      ins: "gravitacijami"
+      voc: "gravitacije"

@@ -1,0 +1,22 @@
+---
+  id: "2261"
+  word: "plakat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plakat"
+      acc: "plakat"
+      gen: "plakata"
+      loc: "plakatu"
+      dat: "plakatu"
+      ins: "plakatom"
+      voc: "plakate"
+    plural: 
+      nom: "plakaty"
+      acc: "plakaty"
+      gen: "plakatov"
+      loc: "plakatah"
+      dat: "plakatam"
+      ins: "plakatami"
+      voc: "plakaty"

@@ -1,0 +1,22 @@
+---
+  id: "13576"
+  word: "věrojętnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věrojętnosť"
+      acc: "věrojętnosť"
+      gen: "věrojętnosti"
+      loc: "věrojętnosti"
+      dat: "věrojętnosti"
+      ins: "věrojętnosťjų"
+      voc: "věrojętnosti"
+    plural: 
+      nom: "věrojętnosti"
+      acc: "věrojętnosti"
+      gen: "věrojętnostij"
+      loc: "věrojętnosťah"
+      dat: "věrojętnosťam"
+      ins: "věrojętnosťami"
+      voc: "věrojętnosti"

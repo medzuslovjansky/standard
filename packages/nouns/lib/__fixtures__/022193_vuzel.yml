@@ -1,0 +1,23 @@
+---
+  id: "22193"
+  word: "vųzel"
+  meta: 
+    irregularity: "(vųzla)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vųzėl"
+      acc: "vųzėl"
+      gen: "vųzla"
+      loc: "vųzlu"
+      dat: "vųzlu"
+      ins: "vųzlom"
+      voc: "vųzle"
+    plural: 
+      nom: "vųzly"
+      acc: "vųzly"
+      gen: "vųzlov"
+      loc: "vųzlah"
+      dat: "vųzlam"
+      ins: "vųzlami"
+      voc: "vųzly"

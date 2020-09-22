@@ -1,0 +1,22 @@
+---
+  id: "2961"
+  word: "trevoga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trevoga"
+      acc: "trevogų"
+      gen: "trevogy"
+      loc: "trevogě"
+      dat: "trevogě"
+      ins: "trevogojų"
+      voc: "trevogo"
+    plural: 
+      nom: "trevogy"
+      acc: "trevogy"
+      gen: "trevog"
+      loc: "trevogah"
+      dat: "trevogam"
+      ins: "trevogami"
+      voc: "trevogy"

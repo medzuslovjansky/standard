@@ -1,0 +1,15 @@
+---
+  id: "3049"
+  word: "Ukrajina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Ukrajina"
+      acc: "Ukrajinų"
+      gen: "Ukrajiny"
+      loc: "Ukrajině"
+      dat: "Ukrajině"
+      ins: "Ukrajinojų"
+      voc: "Ukrajino"

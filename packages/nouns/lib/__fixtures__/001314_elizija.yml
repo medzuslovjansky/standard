@@ -1,0 +1,15 @@
+---
+  id: "1314"
+  word: "elizija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "elizija"
+      acc: "elizijų"
+      gen: "elizije"
+      loc: "eliziji"
+      dat: "eliziji"
+      ins: "elizijejų"
+      voc: "elizijo"

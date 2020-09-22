@@ -1,0 +1,22 @@
+---
+  id: "35487"
+  word: "falsifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "falsifikacija"
+      acc: "falsifikacijų"
+      gen: "falsifikacije"
+      loc: "falsifikaciji"
+      dat: "falsifikaciji"
+      ins: "falsifikacijejų"
+      voc: "falsifikacijo"
+    plural: 
+      nom: "falsifikacije"
+      acc: "falsifikacije"
+      gen: "falsifikacij"
+      loc: "falsifikacijah"
+      dat: "falsifikacijam"
+      ins: "falsifikacijami"
+      voc: "falsifikacije"

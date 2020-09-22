@@ -1,0 +1,15 @@
+---
+  id: "12960"
+  word: "teplo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "teplo"
+      acc: "teplo"
+      gen: "tepla"
+      loc: "teplu"
+      dat: "teplu"
+      ins: "teplom"
+      voc: "teplo"

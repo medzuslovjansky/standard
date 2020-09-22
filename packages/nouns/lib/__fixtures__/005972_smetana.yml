@@ -1,0 +1,22 @@
+---
+  id: "5972"
+  word: "smetana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smetana"
+      acc: "smetanų"
+      gen: "smetany"
+      loc: "smetaně"
+      dat: "smetaně"
+      ins: "smetanojų"
+      voc: "smetano"
+    plural: 
+      nom: "smetany"
+      acc: "smetany"
+      gen: "smetan"
+      loc: "smetanah"
+      dat: "smetanam"
+      ins: "smetanami"
+      voc: "smetany"

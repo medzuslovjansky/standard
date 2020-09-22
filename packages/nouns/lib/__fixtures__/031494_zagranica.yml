@@ -1,0 +1,22 @@
+---
+  id: "31494"
+  word: "zagranica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zagranica"
+      acc: "zagranicų"
+      gen: "zagranice"
+      loc: "zagranici"
+      dat: "zagranici"
+      ins: "zagranicejų"
+      voc: "zagranico"
+    plural: 
+      nom: "zagranice"
+      acc: "zagranice"
+      gen: "zagranic"
+      loc: "zagranicah"
+      dat: "zagranicam"
+      ins: "zagranicami"
+      voc: "zagranice"

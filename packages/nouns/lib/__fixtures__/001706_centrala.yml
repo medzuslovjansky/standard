@@ -1,0 +1,22 @@
+---
+  id: "1706"
+  word: "centrala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "centrala"
+      acc: "centralų"
+      gen: "centraly"
+      loc: "centralě"
+      dat: "centralě"
+      ins: "centralojų"
+      voc: "centralo"
+    plural: 
+      nom: "centraly"
+      acc: "centraly"
+      gen: "central"
+      loc: "centralah"
+      dat: "centralam"
+      ins: "centralami"
+      voc: "centraly"

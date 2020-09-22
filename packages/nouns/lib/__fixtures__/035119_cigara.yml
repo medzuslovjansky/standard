@@ -1,0 +1,22 @@
+---
+  id: "35119"
+  word: "cigara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cigara"
+      acc: "cigarų"
+      gen: "cigary"
+      loc: "cigarě"
+      dat: "cigarě"
+      ins: "cigarojų"
+      voc: "cigaro"
+    plural: 
+      nom: "cigary"
+      acc: "cigary"
+      gen: "cigar"
+      loc: "cigarah"
+      dat: "cigaram"
+      ins: "cigarami"
+      voc: "cigary"

@@ -1,0 +1,15 @@
+---
+  id: "24238"
+  word: "alhimija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "alhimija"
+      acc: "alhimijų"
+      gen: "alhimije"
+      loc: "alhimiji"
+      dat: "alhimiji"
+      ins: "alhimijejų"
+      voc: "alhimijo"

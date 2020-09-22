@@ -1,0 +1,23 @@
+---
+  id: "12724"
+  word: "sųprųg"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųprųg"
+      acc: "sųprųga"
+      gen: "sųprųga"
+      loc: "sųprųgu"
+      dat: "sųprųgu"
+      ins: "sųprųgom"
+      voc: "sųprųže"
+    plural: 
+      nom: "sųprųgi"
+      acc: "sųprųgov"
+      gen: "sųprųgov"
+      loc: "sųprųgah"
+      dat: "sųprųgam"
+      ins: "sųprųgami"
+      voc: "sųprųgi"

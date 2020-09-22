@@ -1,0 +1,23 @@
+---
+  id: "12577"
+  word: "srodnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "srodnik"
+      acc: "srodnika"
+      gen: "srodnika"
+      loc: "srodniku"
+      dat: "srodniku"
+      ins: "srodnikom"
+      voc: "srodniče"
+    plural: 
+      nom: "srodniki"
+      acc: "srodnikov"
+      gen: "srodnikov"
+      loc: "srodnikah"
+      dat: "srodnikam"
+      ins: "srodnikami"
+      voc: "srodniki"

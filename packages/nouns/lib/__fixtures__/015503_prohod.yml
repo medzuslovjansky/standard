@@ -1,0 +1,22 @@
+---
+  id: "15503"
+  word: "prohod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prohod"
+      acc: "prohod"
+      gen: "prohoda"
+      loc: "prohodu"
+      dat: "prohodu"
+      ins: "prohodom"
+      voc: "prohode"
+    plural: 
+      nom: "prohody"
+      acc: "prohody"
+      gen: "prohodov"
+      loc: "prohodah"
+      dat: "prohodam"
+      ins: "prohodami"
+      voc: "prohody"

@@ -1,0 +1,22 @@
+---
+  id: "21171"
+  word: "sȯobčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯobčeńje"
+      acc: "sȯobčeńje"
+      gen: "sȯobčeńja"
+      loc: "sȯobčeńju"
+      dat: "sȯobčeńju"
+      ins: "sȯobčeńjem"
+      voc: "sȯobčeńje"
+    plural: 
+      nom: "sȯobčeńja"
+      acc: "sȯobčeńja"
+      gen: "sȯobčenij"
+      loc: "sȯobčeńjah"
+      dat: "sȯobčeńjam"
+      ins: "sȯobčeńjami"
+      voc: "sȯobčeńja"

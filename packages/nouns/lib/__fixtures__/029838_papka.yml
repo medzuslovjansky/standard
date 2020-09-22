@@ -1,0 +1,22 @@
+---
+  id: "29838"
+  word: "papka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "papka"
+      acc: "papkų"
+      gen: "papky"
+      loc: "papkě"
+      dat: "papkě"
+      ins: "papkojų"
+      voc: "papko"
+    plural: 
+      nom: "papky"
+      acc: "papky"
+      gen: "papȯk"
+      loc: "papkah"
+      dat: "papkam"
+      ins: "papkami"
+      voc: "papky"

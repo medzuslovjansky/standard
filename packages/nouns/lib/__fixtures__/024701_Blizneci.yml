@@ -1,0 +1,15 @@
+---
+  id: "24701"
+  word: "Blizneci"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Blizneci"
+      acc: "Blizneci"
+      gen: "Bliznecov"
+      loc: "Bliznecah"
+      dat: "Bliznecam"
+      ins: "Bliznecami"
+      voc: "Blizneci"

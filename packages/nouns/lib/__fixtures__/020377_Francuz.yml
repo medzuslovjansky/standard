@@ -1,0 +1,23 @@
+---
+  id: "20377"
+  word: "Francuz"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Francuz"
+      acc: "Francuza"
+      gen: "Francuza"
+      loc: "Francuzu"
+      dat: "Francuzu"
+      ins: "Francuzom"
+      voc: "Francuze"
+    plural: 
+      nom: "Francuzi"
+      acc: "Francuzov"
+      gen: "Francuzov"
+      loc: "Francuzah"
+      dat: "Francuzam"
+      ins: "Francuzami"
+      voc: "Francuzi"

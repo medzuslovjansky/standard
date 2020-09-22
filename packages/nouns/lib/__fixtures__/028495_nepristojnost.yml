@@ -1,0 +1,22 @@
+---
+  id: "28495"
+  word: "nepristojnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepristojnosť"
+      acc: "nepristojnosť"
+      gen: "nepristojnosti"
+      loc: "nepristojnosti"
+      dat: "nepristojnosti"
+      ins: "nepristojnosťjų"
+      voc: "nepristojnosti"
+    plural: 
+      nom: "nepristojnosti"
+      acc: "nepristojnosti"
+      gen: "nepristojnostij"
+      loc: "nepristojnosťah"
+      dat: "nepristojnosťam"
+      ins: "nepristojnosťami"
+      voc: "nepristojnosti"

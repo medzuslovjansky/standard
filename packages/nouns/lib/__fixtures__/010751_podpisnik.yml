@@ -1,0 +1,23 @@
+---
+  id: "10751"
+  word: "podpisnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podpisnik"
+      acc: "podpisnika"
+      gen: "podpisnika"
+      loc: "podpisniku"
+      dat: "podpisniku"
+      ins: "podpisnikom"
+      voc: "podpisniče"
+    plural: 
+      nom: "podpisniki"
+      acc: "podpisnikov"
+      gen: "podpisnikov"
+      loc: "podpisnikah"
+      dat: "podpisnikam"
+      ins: "podpisnikami"
+      voc: "podpisniki"

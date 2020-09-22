@@ -1,0 +1,22 @@
+---
+  id: "454"
+  word: "sova"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sova"
+      acc: "sovų"
+      gen: "sovy"
+      loc: "sově"
+      dat: "sově"
+      ins: "sovojų"
+      voc: "sovo"
+    plural: 
+      nom: "sovy"
+      acc: "sovy"
+      gen: "sov"
+      loc: "sovah"
+      dat: "sovam"
+      ins: "sovami"
+      voc: "sovy"

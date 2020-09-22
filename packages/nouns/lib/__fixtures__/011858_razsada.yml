@@ -1,0 +1,22 @@
+---
+  id: "11858"
+  word: "råzsada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzsada"
+      acc: "råzsadų"
+      gen: "råzsady"
+      loc: "råzsadě"
+      dat: "råzsadě"
+      ins: "råzsadojų"
+      voc: "råzsado"
+    plural: 
+      nom: "råzsady"
+      acc: "råzsady"
+      gen: "råzsad"
+      loc: "råzsadah"
+      dat: "råzsadam"
+      ins: "råzsadami"
+      voc: "råzsady"

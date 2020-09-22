@@ -1,0 +1,15 @@
+---
+  id: "188"
+  word: "Irlandija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Irlandija"
+      acc: "Irlandijų"
+      gen: "Irlandije"
+      loc: "Irlandiji"
+      dat: "Irlandiji"
+      ins: "Irlandijejų"
+      voc: "Irlandijo"

@@ -1,0 +1,22 @@
+---
+  id: "27066"
+  word: "laznja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "laznja"
+      acc: "laznjų"
+      gen: "laznje"
+      loc: "laznji"
+      dat: "laznji"
+      ins: "laznjejų"
+      voc: "laznjo"
+    plural: 
+      nom: "laznje"
+      acc: "laznje"
+      gen: "laznej"
+      loc: "laznjah"
+      dat: "laznjam"
+      ins: "laznjami"
+      voc: "laznje"

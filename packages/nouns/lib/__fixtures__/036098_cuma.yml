@@ -1,0 +1,22 @@
+---
+  id: "36098"
+  word: "čuma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čuma"
+      acc: "čumų"
+      gen: "čumy"
+      loc: "čumě"
+      dat: "čumě"
+      ins: "čumojų"
+      voc: "čumo"
+    plural: 
+      nom: "čumy"
+      acc: "čumy"
+      gen: "čum"
+      loc: "čumah"
+      dat: "čumam"
+      ins: "čumami"
+      voc: "čumy"

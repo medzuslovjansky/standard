@@ -1,0 +1,22 @@
+---
+  id: "17643"
+  word: "katę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "katę"
+      acc: "katę"
+      gen: "katęte / katęta"
+      loc: "katęti / katętu"
+      dat: "katęti / katętu"
+      ins: "katętem / katętom"
+      voc: "katę"
+    plural: 
+      nom: "katęta"
+      acc: "katęta"
+      gen: "katęt"
+      loc: "katętah"
+      dat: "katętam"
+      ins: "katętami"
+      voc: "katęta"

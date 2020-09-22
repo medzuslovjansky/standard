@@ -1,0 +1,22 @@
+---
+  id: "3585"
+  word: "obměn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obměn"
+      acc: "obměn"
+      gen: "obměna"
+      loc: "obměnu"
+      dat: "obměnu"
+      ins: "obměnom"
+      voc: "obměne"
+    plural: 
+      nom: "obměny"
+      acc: "obměny"
+      gen: "obměnov"
+      loc: "obměnah"
+      dat: "obměnam"
+      ins: "obměnami"
+      voc: "obměny"

@@ -1,0 +1,23 @@
+---
+  id: "20981"
+  word: "pastyŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pastyŕ"
+      acc: "pastyŕa"
+      gen: "pastyŕa"
+      loc: "pastyŕu"
+      dat: "pastyŕu"
+      ins: "pastyŕem"
+      voc: "pastyŕu"
+    plural: 
+      nom: "pastyri"
+      acc: "pastyŕev"
+      gen: "pastyŕev"
+      loc: "pastyŕah"
+      dat: "pastyŕam"
+      ins: "pastyŕami"
+      voc: "pastyri"

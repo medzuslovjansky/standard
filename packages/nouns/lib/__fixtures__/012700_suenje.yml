@@ -1,0 +1,22 @@
+---
+  id: "12700"
+  word: "sųđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųđeńje"
+      acc: "sųđeńje"
+      gen: "sųđeńja"
+      loc: "sųđeńju"
+      dat: "sųđeńju"
+      ins: "sųđeńjem"
+      voc: "sųđeńje"
+    plural: 
+      nom: "sųđeńja"
+      acc: "sųđeńja"
+      gen: "sųđenij"
+      loc: "sųđeńjah"
+      dat: "sųđeńjam"
+      ins: "sųđeńjami"
+      voc: "sųđeńja"

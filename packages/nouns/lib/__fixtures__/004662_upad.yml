@@ -1,0 +1,22 @@
+---
+  id: "4662"
+  word: "upad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "upad"
+      acc: "upad"
+      gen: "upada"
+      loc: "upadu"
+      dat: "upadu"
+      ins: "upadom"
+      voc: "upade"
+    plural: 
+      nom: "upady"
+      acc: "upady"
+      gen: "upadov"
+      loc: "upadah"
+      dat: "upadam"
+      ins: "upadami"
+      voc: "upady"

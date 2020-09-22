@@ -1,0 +1,22 @@
+---
+  id: "19444"
+  word: "zemjedělišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zemjedělišče"
+      acc: "zemjedělišče"
+      gen: "zemjedělišča"
+      loc: "zemjedělišču"
+      dat: "zemjedělišču"
+      ins: "zemjeděliščem"
+      voc: "zemjedělišče"
+    plural: 
+      nom: "zemjedělišča"
+      acc: "zemjedělišča"
+      gen: "zemjedělišč"
+      loc: "zemjeděliščah"
+      dat: "zemjeděliščam"
+      ins: "zemjeděliščami"
+      voc: "zemjedělišča"

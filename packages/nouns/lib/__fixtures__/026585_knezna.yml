@@ -1,0 +1,22 @@
+---
+  id: "26585"
+  word: "knęžna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "knęžna"
+      acc: "knęžnų"
+      gen: "knęžny"
+      loc: "knęžně"
+      dat: "knęžně"
+      ins: "knęžnojų"
+      voc: "knęžno"
+    plural: 
+      nom: "knęžny"
+      acc: "knęžny"
+      gen: "knęžen"
+      loc: "knęžnah"
+      dat: "knęžnam"
+      ins: "knęžnami"
+      voc: "knęžny"

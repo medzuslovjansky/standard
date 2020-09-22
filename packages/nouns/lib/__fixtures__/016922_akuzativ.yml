@@ -1,0 +1,22 @@
+---
+  id: "16922"
+  word: "akuzativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akuzativ"
+      acc: "akuzativ"
+      gen: "akuzativa"
+      loc: "akuzativu"
+      dat: "akuzativu"
+      ins: "akuzativom"
+      voc: "akuzative"
+    plural: 
+      nom: "akuzativy"
+      acc: "akuzativy"
+      gen: "akuzativov"
+      loc: "akuzativah"
+      dat: "akuzativam"
+      ins: "akuzativami"
+      voc: "akuzativy"

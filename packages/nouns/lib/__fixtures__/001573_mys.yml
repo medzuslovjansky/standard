@@ -1,0 +1,22 @@
+---
+  id: "1573"
+  word: "myš"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "myš"
+      acc: "myš"
+      gen: "myši"
+      loc: "myši"
+      dat: "myši"
+      ins: "myšjų"
+      voc: "myši"
+    plural: 
+      nom: "myši"
+      acc: "myši"
+      gen: "myšij"
+      loc: "myšah"
+      dat: "myšam"
+      ins: "myšami"
+      voc: "myši"

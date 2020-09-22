@@ -1,0 +1,22 @@
+---
+  id: "18168"
+  word: "ostroumje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ostroumje"
+      acc: "ostroumje"
+      gen: "ostroumja"
+      loc: "ostroumju"
+      dat: "ostroumju"
+      ins: "ostroumjem"
+      voc: "ostroumje"
+    plural: 
+      nom: "ostroumja"
+      acc: "ostroumja"
+      gen: "ostroumij"
+      loc: "ostroumjah"
+      dat: "ostroumjam"
+      ins: "ostroumjami"
+      voc: "ostroumja"

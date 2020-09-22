@@ -1,0 +1,22 @@
+---
+  id: "5201"
+  word: "miska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "miska"
+      acc: "miskų"
+      gen: "misky"
+      loc: "miskě"
+      dat: "miskě"
+      ins: "miskojų"
+      voc: "misko"
+    plural: 
+      nom: "misky"
+      acc: "misky"
+      gen: "misȯk"
+      loc: "miskah"
+      dat: "miskam"
+      ins: "miskami"
+      voc: "misky"

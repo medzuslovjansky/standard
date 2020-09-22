@@ -1,0 +1,22 @@
+---
+  id: "32986"
+  word: "žoviaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žoviaľnosť"
+      acc: "žoviaľnosť"
+      gen: "žoviaľnosti"
+      loc: "žoviaľnosti"
+      dat: "žoviaľnosti"
+      ins: "žoviaľnosťjų"
+      voc: "žoviaľnosti"
+    plural: 
+      nom: "žoviaľnosti"
+      acc: "žoviaľnosti"
+      gen: "žoviaľnostij"
+      loc: "žoviaľnosťah"
+      dat: "žoviaľnosťam"
+      ins: "žoviaľnosťami"
+      voc: "žoviaľnosti"

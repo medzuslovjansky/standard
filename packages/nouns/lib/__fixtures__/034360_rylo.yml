@@ -1,0 +1,22 @@
+---
+  id: "34360"
+  word: "rylo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rylo"
+      acc: "rylo"
+      gen: "ryla"
+      loc: "rylu"
+      dat: "rylu"
+      ins: "rylom"
+      voc: "rylo"
+    plural: 
+      nom: "ryla"
+      acc: "ryla"
+      gen: "ryl"
+      loc: "rylah"
+      dat: "rylam"
+      ins: "rylami"
+      voc: "ryla"

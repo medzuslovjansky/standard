@@ -1,0 +1,22 @@
+---
+  id: "26181"
+  word: "izguba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izguba"
+      acc: "izgubų"
+      gen: "izguby"
+      loc: "izgubě"
+      dat: "izgubě"
+      ins: "izgubojų"
+      voc: "izgubo"
+    plural: 
+      nom: "izguby"
+      acc: "izguby"
+      gen: "izgub"
+      loc: "izgubah"
+      dat: "izgubam"
+      ins: "izgubami"
+      voc: "izguby"

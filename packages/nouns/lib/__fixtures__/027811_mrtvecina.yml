@@ -1,0 +1,22 @@
+---
+  id: "27811"
+  word: "mŕtvečina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mŕtvečina"
+      acc: "mŕtvečinų"
+      gen: "mŕtvečiny"
+      loc: "mŕtvečině"
+      dat: "mŕtvečině"
+      ins: "mŕtvečinojų"
+      voc: "mŕtvečino"
+    plural: 
+      nom: "mŕtvečiny"
+      acc: "mŕtvečiny"
+      gen: "mŕtvečin"
+      loc: "mŕtvečinah"
+      dat: "mŕtvečinam"
+      ins: "mŕtvečinami"
+      voc: "mŕtvečiny"

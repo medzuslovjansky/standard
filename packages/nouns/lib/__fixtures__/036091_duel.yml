@@ -1,0 +1,22 @@
+---
+  id: "36091"
+  word: "duel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "duel"
+      acc: "duel"
+      gen: "duela"
+      loc: "duelu"
+      dat: "duelu"
+      ins: "duelom"
+      voc: "duele"
+    plural: 
+      nom: "duely"
+      acc: "duely"
+      gen: "duelov"
+      loc: "duelah"
+      dat: "duelam"
+      ins: "duelami"
+      voc: "duely"

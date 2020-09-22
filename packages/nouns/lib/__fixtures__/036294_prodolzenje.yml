@@ -1,0 +1,22 @@
+---
+  id: "36294"
+  word: "prodȯlžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prodȯlžeńje"
+      acc: "prodȯlžeńje"
+      gen: "prodȯlžeńja"
+      loc: "prodȯlžeńju"
+      dat: "prodȯlžeńju"
+      ins: "prodȯlžeńjem"
+      voc: "prodȯlžeńje"
+    plural: 
+      nom: "prodȯlžeńja"
+      acc: "prodȯlžeńja"
+      gen: "prodȯlženij"
+      loc: "prodȯlžeńjah"
+      dat: "prodȯlžeńjam"
+      ins: "prodȯlžeńjami"
+      voc: "prodȯlžeńja"

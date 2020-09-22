@@ -1,0 +1,23 @@
+---
+  id: "36374"
+  word: "elektrotehnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "elektrotehnik"
+      acc: "elektrotehnika"
+      gen: "elektrotehnika"
+      loc: "elektrotehniku"
+      dat: "elektrotehniku"
+      ins: "elektrotehnikom"
+      voc: "elektrotehniče"
+    plural: 
+      nom: "elektrotehniki"
+      acc: "elektrotehnikov"
+      gen: "elektrotehnikov"
+      loc: "elektrotehnikah"
+      dat: "elektrotehnikam"
+      ins: "elektrotehnikami"
+      voc: "elektrotehniki"

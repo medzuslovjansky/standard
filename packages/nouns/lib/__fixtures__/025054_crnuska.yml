@@ -1,0 +1,22 @@
+---
+  id: "25054"
+  word: "črnuška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črnuška"
+      acc: "črnuškų"
+      gen: "črnušky"
+      loc: "črnuškě"
+      dat: "črnuškě"
+      ins: "črnuškojų"
+      voc: "črnuško"
+    plural: 
+      nom: "črnušky"
+      acc: "črnušky"
+      gen: "črnušek"
+      loc: "črnuškah"
+      dat: "črnuškam"
+      ins: "črnuškami"
+      voc: "črnušky"

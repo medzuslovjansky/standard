@@ -1,0 +1,22 @@
+---
+  id: "20475"
+  word: "měšanina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měšanina"
+      acc: "měšaninų"
+      gen: "měšaniny"
+      loc: "měšanině"
+      dat: "měšanině"
+      ins: "měšaninojų"
+      voc: "měšanino"
+    plural: 
+      nom: "měšany"
+      acc: "měšany"
+      gen: "měšan"
+      loc: "měšanah"
+      dat: "měšanam"
+      ins: "měšanami"
+      voc: "měšany"

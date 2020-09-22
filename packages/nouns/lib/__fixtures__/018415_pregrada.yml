@@ -1,0 +1,22 @@
+---
+  id: "18415"
+  word: "prěgråda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěgråda"
+      acc: "prěgrådų"
+      gen: "prěgrådy"
+      loc: "prěgrådě"
+      dat: "prěgrådě"
+      ins: "prěgrådojų"
+      voc: "prěgrådo"
+    plural: 
+      nom: "prěgrådy"
+      acc: "prěgrådy"
+      gen: "prěgråd"
+      loc: "prěgrådah"
+      dat: "prěgrådam"
+      ins: "prěgrådami"
+      voc: "prěgrådy"

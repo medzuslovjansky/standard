@@ -1,0 +1,22 @@
+---
+  id: "12563"
+  word: "srědišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "srědišče"
+      acc: "srědišče"
+      gen: "srědišča"
+      loc: "srědišču"
+      dat: "srědišču"
+      ins: "srědiščem"
+      voc: "srědišče"
+    plural: 
+      nom: "srědišča"
+      acc: "srědišča"
+      gen: "srědišč"
+      loc: "srědiščah"
+      dat: "srědiščam"
+      ins: "srědiščami"
+      voc: "srědišča"

@@ -1,0 +1,23 @@
+---
+  id: "16795"
+  word: "ekonom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ekonom"
+      acc: "ekonoma"
+      gen: "ekonoma"
+      loc: "ekonomu"
+      dat: "ekonomu"
+      ins: "ekonomom"
+      voc: "ekonome"
+    plural: 
+      nom: "ekonomi"
+      acc: "ekonomov"
+      gen: "ekonomov"
+      loc: "ekonomah"
+      dat: "ekonomam"
+      ins: "ekonomami"
+      voc: "ekonomi"

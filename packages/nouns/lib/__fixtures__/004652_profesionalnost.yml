@@ -1,0 +1,22 @@
+---
+  id: "4652"
+  word: "profesionaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "profesionaľnosť"
+      acc: "profesionaľnosť"
+      gen: "profesionaľnosti"
+      loc: "profesionaľnosti"
+      dat: "profesionaľnosti"
+      ins: "profesionaľnosťjų"
+      voc: "profesionaľnosti"
+    plural: 
+      nom: "profesionaľnosti"
+      acc: "profesionaľnosti"
+      gen: "profesionaľnostij"
+      loc: "profesionaľnosťah"
+      dat: "profesionaľnosťam"
+      ins: "profesionaľnosťami"
+      voc: "profesionaľnosti"

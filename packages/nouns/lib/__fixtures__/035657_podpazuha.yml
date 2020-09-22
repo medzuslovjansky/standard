@@ -1,0 +1,22 @@
+---
+  id: "35657"
+  word: "podpazuha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podpazuha"
+      acc: "podpazuhų"
+      gen: "podpazuhy"
+      loc: "podpazuhě"
+      dat: "podpazuhě"
+      ins: "podpazuhojų"
+      voc: "podpazuho"
+    plural: 
+      nom: "podpazuhy"
+      acc: "podpazuhy"
+      gen: "podpazuh"
+      loc: "podpazuhah"
+      dat: "podpazuham"
+      ins: "podpazuhami"
+      voc: "podpazuhy"

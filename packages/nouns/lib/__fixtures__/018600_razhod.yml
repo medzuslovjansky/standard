@@ -1,0 +1,22 @@
+---
+  id: "18600"
+  word: "råzhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzhod"
+      acc: "råzhod"
+      gen: "råzhoda"
+      loc: "råzhodu"
+      dat: "råzhodu"
+      ins: "råzhodom"
+      voc: "råzhode"
+    plural: 
+      nom: "råzhody"
+      acc: "råzhody"
+      gen: "råzhodov"
+      loc: "råzhodah"
+      dat: "råzhodam"
+      ins: "råzhodami"
+      voc: "råzhody"

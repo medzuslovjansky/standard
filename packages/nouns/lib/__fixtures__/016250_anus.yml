@@ -1,0 +1,22 @@
+---
+  id: "16250"
+  word: "anus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "anus"
+      acc: "anus"
+      gen: "anusa"
+      loc: "anusu"
+      dat: "anusu"
+      ins: "anusom"
+      voc: "anuse"
+    plural: 
+      nom: "anusy"
+      acc: "anusy"
+      gen: "anusov"
+      loc: "anusah"
+      dat: "anusam"
+      ins: "anusami"
+      voc: "anusy"

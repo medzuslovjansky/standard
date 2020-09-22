@@ -1,0 +1,22 @@
+---
+  id: "657"
+  word: "råzum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzum"
+      acc: "råzum"
+      gen: "råzuma"
+      loc: "råzumu"
+      dat: "råzumu"
+      ins: "råzumom"
+      voc: "råzum"
+    plural: 
+      nom: "råzuma"
+      acc: "råzuma"
+      gen: "råzum"
+      loc: "råzumah"
+      dat: "råzumam"
+      ins: "råzumami"
+      voc: "råzuma"

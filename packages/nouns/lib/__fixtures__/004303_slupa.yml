@@ -1,0 +1,22 @@
+---
+  id: "4303"
+  word: "šlupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šlupa"
+      acc: "šlupų"
+      gen: "šlupy"
+      loc: "šlupě"
+      dat: "šlupě"
+      ins: "šlupojų"
+      voc: "šlupo"
+    plural: 
+      nom: "šlupy"
+      acc: "šlupy"
+      gen: "šlup"
+      loc: "šlupah"
+      dat: "šlupam"
+      ins: "šlupami"
+      voc: "šlupy"

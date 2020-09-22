@@ -1,0 +1,15 @@
+---
+  id: "4534"
+  word: "nevrologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nevrologija"
+      acc: "nevrologijų"
+      gen: "nevrologije"
+      loc: "nevrologiji"
+      dat: "nevrologiji"
+      ins: "nevrologijejų"
+      voc: "nevrologijo"

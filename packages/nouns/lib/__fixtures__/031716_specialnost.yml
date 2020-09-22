@@ -1,0 +1,22 @@
+---
+  id: "31716"
+  word: "speciaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "speciaľnosť"
+      acc: "speciaľnosť"
+      gen: "speciaľnosti"
+      loc: "speciaľnosti"
+      dat: "speciaľnosti"
+      ins: "speciaľnosťjų"
+      voc: "speciaľnosti"
+    plural: 
+      nom: "speciaľnosti"
+      acc: "speciaľnosti"
+      gen: "speciaľnostij"
+      loc: "speciaľnosťah"
+      dat: "speciaľnosťam"
+      ins: "speciaľnosťami"
+      voc: "speciaľnosti"

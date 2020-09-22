@@ -1,0 +1,15 @@
+---
+  id: "16906"
+  word: "ekstremizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ekstremizm"
+      acc: "ekstremizm"
+      gen: "ekstremizma"
+      loc: "ekstremizmu"
+      dat: "ekstremizmu"
+      ins: "ekstremizmom"
+      voc: "ekstremizme"

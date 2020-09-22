@@ -1,0 +1,15 @@
+---
+  id: "12757"
+  word: "svědomje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "svědomje"
+      acc: "svědomje"
+      gen: "svědomja"
+      loc: "svědomju"
+      dat: "svědomju"
+      ins: "svědomjem"
+      voc: "svědomje"

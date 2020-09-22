@@ -1,0 +1,22 @@
+---
+  id: "34934"
+  word: "diapozitiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diapozitiv"
+      acc: "diapozitiv"
+      gen: "diapozitiva"
+      loc: "diapozitivu"
+      dat: "diapozitivu"
+      ins: "diapozitivom"
+      voc: "diapozitive"
+    plural: 
+      nom: "diapozitivy"
+      acc: "diapozitivy"
+      gen: "diapozitivov"
+      loc: "diapozitivah"
+      dat: "diapozitivam"
+      ins: "diapozitivami"
+      voc: "diapozitivy"

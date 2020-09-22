@@ -1,0 +1,22 @@
+---
+  id: "4549"
+  word: "pobyťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pobyťje"
+      acc: "pobyťje"
+      gen: "pobyťja"
+      loc: "pobyťju"
+      dat: "pobyťju"
+      ins: "pobyťjem"
+      voc: "pobyťje"
+    plural: 
+      nom: "pobyťja"
+      acc: "pobyťja"
+      gen: "pobytij"
+      loc: "pobyťjah"
+      dat: "pobyťjam"
+      ins: "pobyťjami"
+      voc: "pobyťja"

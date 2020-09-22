@@ -1,0 +1,22 @@
+---
+  id: "8809"
+  word: "lěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lěčeńje"
+      acc: "lěčeńje"
+      gen: "lěčeńja"
+      loc: "lěčeńju"
+      dat: "lěčeńju"
+      ins: "lěčeńjem"
+      voc: "lěčeńje"
+    plural: 
+      nom: "lěčeńja"
+      acc: "lěčeńja"
+      gen: "lěčenij"
+      loc: "lěčeńjah"
+      dat: "lěčeńjam"
+      ins: "lěčeńjami"
+      voc: "lěčeńja"

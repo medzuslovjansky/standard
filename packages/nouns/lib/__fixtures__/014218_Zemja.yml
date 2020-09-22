@@ -1,0 +1,22 @@
+---
+  id: "14218"
+  word: "Zemja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Zemja"
+      acc: "Zemjų"
+      gen: "Zemje"
+      loc: "Zemji"
+      dat: "Zemji"
+      ins: "Zemjejų"
+      voc: "Zemjo"
+    plural: 
+      nom: "Zemje"
+      acc: "Zemje"
+      gen: "Zemej"
+      loc: "Zemjah"
+      dat: "Zemjam"
+      ins: "Zemjami"
+      voc: "Zemje"

@@ -1,0 +1,22 @@
+---
+  id: "1759"
+  word: "resurs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "resurs"
+      acc: "resurs"
+      gen: "resursa"
+      loc: "resursu"
+      dat: "resursu"
+      ins: "resursom"
+      voc: "resurse"
+    plural: 
+      nom: "resursy"
+      acc: "resursy"
+      gen: "resursov"
+      loc: "resursah"
+      dat: "resursam"
+      ins: "resursami"
+      voc: "resursy"

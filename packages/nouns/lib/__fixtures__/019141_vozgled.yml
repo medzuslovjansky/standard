@@ -1,0 +1,22 @@
+---
+  id: "19141"
+  word: "vȯzględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzględ"
+      acc: "vȯzględ"
+      gen: "vȯzględa"
+      loc: "vȯzględu"
+      dat: "vȯzględu"
+      ins: "vȯzględom"
+      voc: "vȯzględe"
+    plural: 
+      nom: "vȯzględy"
+      acc: "vȯzględy"
+      gen: "vȯzględov"
+      loc: "vȯzględah"
+      dat: "vȯzględam"
+      ins: "vȯzględami"
+      voc: "vȯzględy"

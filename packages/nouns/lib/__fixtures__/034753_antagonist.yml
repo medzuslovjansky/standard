@@ -1,0 +1,23 @@
+---
+  id: "34753"
+  word: "antagonist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "antagonist"
+      acc: "antagonista"
+      gen: "antagonista"
+      loc: "antagonistu"
+      dat: "antagonistu"
+      ins: "antagonistom"
+      voc: "antagoniste"
+    plural: 
+      nom: "antagonisti"
+      acc: "antagonistov"
+      gen: "antagonistov"
+      loc: "antagonistah"
+      dat: "antagonistam"
+      ins: "antagonistami"
+      voc: "antagonisti"

@@ -1,0 +1,22 @@
+---
+  id: "35693"
+  word: "cěsaŕstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "cěsaŕstvo"
+      acc: "cěsaŕstvo"
+      gen: "cěsaŕstva"
+      loc: "cěsaŕstvu"
+      dat: "cěsaŕstvu"
+      ins: "cěsaŕstvom"
+      voc: "cěsaŕstvo"
+    plural: 
+      nom: "cěsaŕstva"
+      acc: "cěsaŕstva"
+      gen: "cěsaŕstv"
+      loc: "cěsaŕstvah"
+      dat: "cěsaŕstvam"
+      ins: "cěsaŕstvami"
+      voc: "cěsaŕstva"

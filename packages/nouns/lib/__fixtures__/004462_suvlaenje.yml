@@ -1,0 +1,22 @@
+---
+  id: "4462"
+  word: "sųvlađeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųvlađeńje"
+      acc: "sųvlađeńje"
+      gen: "sųvlađeńja"
+      loc: "sųvlađeńju"
+      dat: "sųvlađeńju"
+      ins: "sųvlađeńjem"
+      voc: "sųvlađeńje"
+    plural: 
+      nom: "sųvlađeńja"
+      acc: "sųvlađeńja"
+      gen: "sųvlađenij"
+      loc: "sųvlađeńjah"
+      dat: "sųvlađeńjam"
+      ins: "sųvlađeńjami"
+      voc: "sųvlađeńja"

@@ -1,0 +1,22 @@
+---
+  id: "23467"
+  word: "rubin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rubin"
+      acc: "rubin"
+      gen: "rubina"
+      loc: "rubinu"
+      dat: "rubinu"
+      ins: "rubinom"
+      voc: "rubine"
+    plural: 
+      nom: "rubiny"
+      acc: "rubiny"
+      gen: "rubinov"
+      loc: "rubinah"
+      dat: "rubinam"
+      ins: "rubinami"
+      voc: "rubiny"

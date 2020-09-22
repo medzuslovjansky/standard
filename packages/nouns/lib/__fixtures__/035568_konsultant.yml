@@ -1,0 +1,23 @@
+---
+  id: "35568"
+  word: "konsultant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konsultant"
+      acc: "konsultanta"
+      gen: "konsultanta"
+      loc: "konsultantu"
+      dat: "konsultantu"
+      ins: "konsultantom"
+      voc: "konsultante"
+    plural: 
+      nom: "konsultanti"
+      acc: "konsultantov"
+      gen: "konsultantov"
+      loc: "konsultantah"
+      dat: "konsultantam"
+      ins: "konsultantami"
+      voc: "konsultanti"

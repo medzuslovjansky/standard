@@ -1,0 +1,23 @@
+---
+  id: "23604"
+  word: "pedagog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pedagog"
+      acc: "pedagoga"
+      gen: "pedagoga"
+      loc: "pedagogu"
+      dat: "pedagogu"
+      ins: "pedagogom"
+      voc: "pedagože"
+    plural: 
+      nom: "pedagogi"
+      acc: "pedagogov"
+      gen: "pedagogov"
+      loc: "pedagogah"
+      dat: "pedagogam"
+      ins: "pedagogami"
+      voc: "pedagogi"

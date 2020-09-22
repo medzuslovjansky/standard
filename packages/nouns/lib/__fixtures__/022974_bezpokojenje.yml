@@ -1,0 +1,22 @@
+---
+  id: "22974"
+  word: "bezpokojeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bezpokojeńje"
+      acc: "bezpokojeńje"
+      gen: "bezpokojeńja"
+      loc: "bezpokojeńju"
+      dat: "bezpokojeńju"
+      ins: "bezpokojeńjem"
+      voc: "bezpokojeńje"
+    plural: 
+      nom: "bezpokojeńja"
+      acc: "bezpokojeńja"
+      gen: "bezpokojenij"
+      loc: "bezpokojeńjah"
+      dat: "bezpokojeńjam"
+      ins: "bezpokojeńjami"
+      voc: "bezpokojeńja"

@@ -1,0 +1,23 @@
+---
+  id: "1485"
+  word: "tělo"
+  meta: 
+    irregularity: "(těla/tělese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tělo"
+      acc: "tělo"
+      gen: "těla / tělese"
+      loc: "tělu / tělesi"
+      dat: "tělu / tělesi"
+      ins: "tělom / tělesem"
+      voc: "tělo"
+    plural: 
+      nom: "těla / tělesa"
+      acc: "těla / tělesa"
+      gen: "těl / těles"
+      loc: "tělah / tělesah"
+      dat: "tělam / tělesam"
+      ins: "tělami / tělesami"
+      voc: "těla / tělesa"

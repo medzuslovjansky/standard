@@ -1,0 +1,22 @@
+---
+  id: "2879"
+  word: "spravědlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spravědlivosť"
+      acc: "spravědlivosť"
+      gen: "spravědlivosti"
+      loc: "spravědlivosti"
+      dat: "spravědlivosti"
+      ins: "spravědlivosťjų"
+      voc: "spravědlivosti"
+    plural: 
+      nom: "spravědlivosti"
+      acc: "spravědlivosti"
+      gen: "spravědlivostij"
+      loc: "spravědlivosťah"
+      dat: "spravědlivosťam"
+      ins: "spravědlivosťami"
+      voc: "spravědlivosti"

@@ -1,0 +1,22 @@
+---
+  id: "16780"
+  word: "firma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "firma"
+      acc: "firmų"
+      gen: "firmy"
+      loc: "firmě"
+      dat: "firmě"
+      ins: "firmojų"
+      voc: "firmo"
+    plural: 
+      nom: "firmy"
+      acc: "firmy"
+      gen: "firm"
+      loc: "firmah"
+      dat: "firmam"
+      ins: "firmami"
+      voc: "firmy"

@@ -1,0 +1,22 @@
+---
+  id: "31422"
+  word: "izkup"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izkup"
+      acc: "izkup"
+      gen: "izkupa"
+      loc: "izkupu"
+      dat: "izkupu"
+      ins: "izkupom"
+      voc: "izkupe"
+    plural: 
+      nom: "izkupy"
+      acc: "izkupy"
+      gen: "izkupov"
+      loc: "izkupah"
+      dat: "izkupam"
+      ins: "izkupami"
+      voc: "izkupy"

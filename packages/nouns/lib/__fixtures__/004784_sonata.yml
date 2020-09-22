@@ -1,0 +1,22 @@
+---
+  id: "4784"
+  word: "sonata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sonata"
+      acc: "sonatų"
+      gen: "sonaty"
+      loc: "sonatě"
+      dat: "sonatě"
+      ins: "sonatojų"
+      voc: "sonato"
+    plural: 
+      nom: "sonaty"
+      acc: "sonaty"
+      gen: "sonat"
+      loc: "sonatah"
+      dat: "sonatam"
+      ins: "sonatami"
+      voc: "sonaty"

@@ -1,0 +1,22 @@
+---
+  id: "12992"
+  word: "tipka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tipka"
+      acc: "tipkų"
+      gen: "tipky"
+      loc: "tipkě"
+      dat: "tipkě"
+      ins: "tipkojų"
+      voc: "tipko"
+    plural: 
+      nom: "tipky"
+      acc: "tipky"
+      gen: "tipȯk"
+      loc: "tipkah"
+      dat: "tipkam"
+      ins: "tipkami"
+      voc: "tipky"

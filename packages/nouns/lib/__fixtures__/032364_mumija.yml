@@ -1,0 +1,22 @@
+---
+  id: "32364"
+  word: "mumija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mumija"
+      acc: "mumijų"
+      gen: "mumije"
+      loc: "mumiji"
+      dat: "mumiji"
+      ins: "mumijejų"
+      voc: "mumijo"
+    plural: 
+      nom: "mumije"
+      acc: "mumije"
+      gen: "mumij"
+      loc: "mumijah"
+      dat: "mumijam"
+      ins: "mumijami"
+      voc: "mumije"

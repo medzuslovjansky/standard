@@ -1,0 +1,22 @@
+---
+  id: "32759"
+  word: "uzda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uzda"
+      acc: "uzdų"
+      gen: "uzdy"
+      loc: "uzdě"
+      dat: "uzdě"
+      ins: "uzdojų"
+      voc: "uzdo"
+    plural: 
+      nom: "uzdy"
+      acc: "uzdy"
+      gen: "uzd"
+      loc: "uzdah"
+      dat: "uzdam"
+      ins: "uzdami"
+      voc: "uzdy"

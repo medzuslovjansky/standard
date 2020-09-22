@@ -1,0 +1,15 @@
+---
+  id: "32447"
+  word: "Katar"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Katar"
+      acc: "Katar"
+      gen: "Katara"
+      loc: "Kataru"
+      dat: "Kataru"
+      ins: "Katarom"
+      voc: "Katare"

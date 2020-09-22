@@ -1,0 +1,22 @@
+---
+  id: "11177"
+  word: "pravovųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pravovųgȯľnik"
+      acc: "pravovųgȯľnik"
+      gen: "pravovųgȯľnika"
+      loc: "pravovųgȯľniku"
+      dat: "pravovųgȯľniku"
+      ins: "pravovųgȯľnikom"
+      voc: "pravovųgȯľniče"
+    plural: 
+      nom: "pravovųgȯľniky"
+      acc: "pravovųgȯľniky"
+      gen: "pravovųgȯľnikov"
+      loc: "pravovųgȯľnikah"
+      dat: "pravovųgȯľnikam"
+      ins: "pravovųgȯľnikami"
+      voc: "pravovųgȯľniky"

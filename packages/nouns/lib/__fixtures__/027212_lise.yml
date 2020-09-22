@@ -1,0 +1,22 @@
+---
+  id: "27212"
+  word: "lisę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lisę"
+      acc: "lisę"
+      gen: "lisęte / lisęta"
+      loc: "lisęti / lisętu"
+      dat: "lisęti / lisętu"
+      ins: "lisętem / lisętom"
+      voc: "lisę"
+    plural: 
+      nom: "lisęta"
+      acc: "lisęta"
+      gen: "lisęt"
+      loc: "lisętah"
+      dat: "lisętam"
+      ins: "lisętami"
+      voc: "lisęta"

@@ -1,0 +1,22 @@
+---
+  id: "36839"
+  word: "kvinta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvinta"
+      acc: "kvintų"
+      gen: "kvinty"
+      loc: "kvintě"
+      dat: "kvintě"
+      ins: "kvintojų"
+      voc: "kvinto"
+    plural: 
+      nom: "kvinty"
+      acc: "kvinty"
+      gen: "kvint"
+      loc: "kvintah"
+      dat: "kvintam"
+      ins: "kvintami"
+      voc: "kvinty"

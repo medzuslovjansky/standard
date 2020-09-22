@@ -1,0 +1,22 @@
+---
+  id: "2703"
+  word: "maslina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maslina"
+      acc: "maslinų"
+      gen: "masliny"
+      loc: "maslině"
+      dat: "maslině"
+      ins: "maslinojų"
+      voc: "maslino"
+    plural: 
+      nom: "masliny"
+      acc: "masliny"
+      gen: "maslin"
+      loc: "maslinah"
+      dat: "maslinam"
+      ins: "maslinami"
+      voc: "masliny"

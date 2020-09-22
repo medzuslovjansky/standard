@@ -1,0 +1,23 @@
+---
+  id: "14471"
+  word: "bogač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bogač"
+      acc: "bogača"
+      gen: "bogača"
+      loc: "bogaču"
+      dat: "bogaču"
+      ins: "bogačem"
+      voc: "bogaču"
+    plural: 
+      nom: "bogači"
+      acc: "bogačev"
+      gen: "bogačev"
+      loc: "bogačah"
+      dat: "bogačam"
+      ins: "bogačami"
+      voc: "bogači"

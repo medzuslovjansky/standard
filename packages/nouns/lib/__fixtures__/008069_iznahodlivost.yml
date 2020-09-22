@@ -1,0 +1,22 @@
+---
+  id: "8069"
+  word: "iznahodlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iznahodlivosť"
+      acc: "iznahodlivosť"
+      gen: "iznahodlivosti"
+      loc: "iznahodlivosti"
+      dat: "iznahodlivosti"
+      ins: "iznahodlivosťjų"
+      voc: "iznahodlivosti"
+    plural: 
+      nom: "iznahodlivosti"
+      acc: "iznahodlivosti"
+      gen: "iznahodlivostij"
+      loc: "iznahodlivosťah"
+      dat: "iznahodlivosťam"
+      ins: "iznahodlivosťami"
+      voc: "iznahodlivosti"

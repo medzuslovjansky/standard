@@ -1,0 +1,22 @@
+---
+  id: "35910"
+  word: "generator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "generator"
+      acc: "generator"
+      gen: "generatora"
+      loc: "generatoru"
+      dat: "generatoru"
+      ins: "generatorom"
+      voc: "generatore"
+    plural: 
+      nom: "generatory"
+      acc: "generatory"
+      gen: "generatorov"
+      loc: "generatorah"
+      dat: "generatoram"
+      ins: "generatorami"
+      voc: "generatory"

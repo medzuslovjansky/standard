@@ -1,0 +1,23 @@
+---
+  id: "1861"
+  word: "molj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "molj"
+      acc: "molja"
+      gen: "molja"
+      loc: "molju"
+      dat: "molju"
+      ins: "moljem"
+      voc: "molju"
+    plural: 
+      nom: "molji"
+      acc: "moljev"
+      gen: "moljev"
+      loc: "moljah"
+      dat: "moljam"
+      ins: "moljami"
+      voc: "molji"

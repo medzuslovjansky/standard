@@ -1,0 +1,22 @@
+---
+  id: "35193"
+  word: "keramika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "keramika"
+      acc: "keramikų"
+      gen: "keramiky"
+      loc: "keramikě"
+      dat: "keramikě"
+      ins: "keramikojų"
+      voc: "keramiko"
+    plural: 
+      nom: "keramiky"
+      acc: "keramiky"
+      gen: "keramik"
+      loc: "keramikah"
+      dat: "keramikam"
+      ins: "keramikami"
+      voc: "keramiky"

@@ -1,0 +1,22 @@
+---
+  id: "27358"
+  word: "luščina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "luščina"
+      acc: "luščinų"
+      gen: "luščiny"
+      loc: "luščině"
+      dat: "luščině"
+      ins: "luščinojų"
+      voc: "luščino"
+    plural: 
+      nom: "luščiny"
+      acc: "luščiny"
+      gen: "luščin"
+      loc: "luščinah"
+      dat: "luščinam"
+      ins: "luščinami"
+      voc: "luščiny"

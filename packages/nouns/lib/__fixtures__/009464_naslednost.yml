@@ -1,0 +1,22 @@
+---
+  id: "9464"
+  word: "naslědnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naslědnosť"
+      acc: "naslědnosť"
+      gen: "naslědnosti"
+      loc: "naslědnosti"
+      dat: "naslědnosti"
+      ins: "naslědnosťjų"
+      voc: "naslědnosti"
+    plural: 
+      nom: "naslědnosti"
+      acc: "naslědnosti"
+      gen: "naslědnostij"
+      loc: "naslědnosťah"
+      dat: "naslědnosťam"
+      ins: "naslědnosťami"
+      voc: "naslědnosti"

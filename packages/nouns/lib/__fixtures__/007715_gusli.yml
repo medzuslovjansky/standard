@@ -1,0 +1,15 @@
+---
+  id: "7715"
+  word: "gųsli"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "gųsli"
+      acc: "gųsli"
+      gen: "gųslov"
+      loc: "gųslah"
+      dat: "gųslam"
+      ins: "gųslami"
+      voc: "gųsli"

@@ -1,0 +1,22 @@
+---
+  id: "2570"
+  word: "gruša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gruša"
+      acc: "grušų"
+      gen: "gruše"
+      loc: "gruši"
+      dat: "gruši"
+      ins: "grušejų"
+      voc: "grušo"
+    plural: 
+      nom: "gruše"
+      acc: "gruše"
+      gen: "gruš"
+      loc: "grušah"
+      dat: "grušam"
+      ins: "grušami"
+      voc: "gruše"

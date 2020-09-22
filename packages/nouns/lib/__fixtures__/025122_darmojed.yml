@@ -1,0 +1,23 @@
+---
+  id: "25122"
+  word: "darmojed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "darmojed"
+      acc: "darmojeda"
+      gen: "darmojeda"
+      loc: "darmojedu"
+      dat: "darmojedu"
+      ins: "darmojedom"
+      voc: "darmojede"
+    plural: 
+      nom: "darmojedi"
+      acc: "darmojedov"
+      gen: "darmojedov"
+      loc: "darmojedah"
+      dat: "darmojedam"
+      ins: "darmojedami"
+      voc: "darmojedi"

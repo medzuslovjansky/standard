@@ -1,0 +1,22 @@
+---
+  id: "3956"
+  word: "vklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vklad"
+      acc: "vklad"
+      gen: "vklada"
+      loc: "vkladu"
+      dat: "vkladu"
+      ins: "vkladom"
+      voc: "vklade"
+    plural: 
+      nom: "vklady"
+      acc: "vklady"
+      gen: "vkladov"
+      loc: "vkladah"
+      dat: "vkladam"
+      ins: "vkladami"
+      voc: "vklady"

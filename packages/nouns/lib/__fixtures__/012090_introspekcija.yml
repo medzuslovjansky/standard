@@ -1,0 +1,22 @@
+---
+  id: "12090"
+  word: "introspekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "introspekcija"
+      acc: "introspekcijų"
+      gen: "introspekcije"
+      loc: "introspekciji"
+      dat: "introspekciji"
+      ins: "introspekcijejų"
+      voc: "introspekcijo"
+    plural: 
+      nom: "introspekcije"
+      acc: "introspekcije"
+      gen: "introspekcij"
+      loc: "introspekcijah"
+      dat: "introspekcijam"
+      ins: "introspekcijami"
+      voc: "introspekcije"

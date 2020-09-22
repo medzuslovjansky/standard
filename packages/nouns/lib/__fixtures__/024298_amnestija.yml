@@ -1,0 +1,15 @@
+---
+  id: "24298"
+  word: "amnestija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "amnestija"
+      acc: "amnestijų"
+      gen: "amnestije"
+      loc: "amnestiji"
+      dat: "amnestiji"
+      ins: "amnestijejų"
+      voc: "amnestijo"

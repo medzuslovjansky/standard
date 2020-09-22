@@ -1,0 +1,23 @@
+---
+  id: "13052"
+  word: "trener"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "trener"
+      acc: "trenera"
+      gen: "trenera"
+      loc: "treneru"
+      dat: "treneru"
+      ins: "trenerom"
+      voc: "trenere"
+    plural: 
+      nom: "treneri"
+      acc: "trenerov"
+      gen: "trenerov"
+      loc: "trenerah"
+      dat: "treneram"
+      ins: "trenerami"
+      voc: "treneri"

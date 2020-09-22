@@ -1,0 +1,22 @@
+---
+  id: "30736"
+  word: "Sněgurȯčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Sněgurȯčka"
+      acc: "Sněgurȯčkų"
+      gen: "Sněgurȯčky"
+      loc: "Sněgurȯčkě"
+      dat: "Sněgurȯčkě"
+      ins: "Sněgurȯčkojų"
+      voc: "Sněgurȯčko"
+    plural: 
+      nom: "Sněgurȯčky"
+      acc: "Sněgurȯčky"
+      gen: "Sněgurȯček"
+      loc: "Sněgurȯčkah"
+      dat: "Sněgurȯčkam"
+      ins: "Sněgurȯčkami"
+      voc: "Sněgurȯčky"

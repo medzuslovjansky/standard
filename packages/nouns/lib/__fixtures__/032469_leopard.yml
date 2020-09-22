@@ -1,0 +1,23 @@
+---
+  id: "32469"
+  word: "leopard"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "leopard"
+      acc: "leoparda"
+      gen: "leoparda"
+      loc: "leopardu"
+      dat: "leopardu"
+      ins: "leopardom"
+      voc: "leoparde"
+    plural: 
+      nom: "leopardi"
+      acc: "leopardov"
+      gen: "leopardov"
+      loc: "leopardah"
+      dat: "leopardam"
+      ins: "leopardami"
+      voc: "leopardi"

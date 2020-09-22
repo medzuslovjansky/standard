@@ -1,0 +1,22 @@
+---
+  id: "15858"
+  word: "eskadron"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "eskadron"
+      acc: "eskadron"
+      gen: "eskadrona"
+      loc: "eskadronu"
+      dat: "eskadronu"
+      ins: "eskadronom"
+      voc: "eskadrone"
+    plural: 
+      nom: "eskadrony"
+      acc: "eskadrony"
+      gen: "eskadronov"
+      loc: "eskadronah"
+      dat: "eskadronam"
+      ins: "eskadronami"
+      voc: "eskadrony"

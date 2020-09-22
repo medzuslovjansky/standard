@@ -1,0 +1,22 @@
+---
+  id: "11394"
+  word: "prězimę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prězimę"
+      acc: "prězimę"
+      gen: "prězimene / prězimena"
+      loc: "prězimeni / prězimenu"
+      dat: "prězimeni / prězimenu"
+      ins: "prězimenem / prězimenom"
+      voc: "prězimę"
+    plural: 
+      nom: "prězimena"
+      acc: "prězimena"
+      gen: "prězimen"
+      loc: "prězimenah"
+      dat: "prězimenam"
+      ins: "prězimenami"
+      voc: "prězimena"

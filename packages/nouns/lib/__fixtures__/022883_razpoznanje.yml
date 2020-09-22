@@ -1,0 +1,22 @@
+---
+  id: "22883"
+  word: "råzpoznańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzpoznańje"
+      acc: "råzpoznańje"
+      gen: "råzpoznańja"
+      loc: "råzpoznańju"
+      dat: "råzpoznańju"
+      ins: "råzpoznańjem"
+      voc: "råzpoznańje"
+    plural: 
+      nom: "råzpoznańja"
+      acc: "råzpoznańja"
+      gen: "råzpoznanij"
+      loc: "råzpoznańjah"
+      dat: "råzpoznańjam"
+      ins: "råzpoznańjami"
+      voc: "råzpoznańja"

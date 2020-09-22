@@ -1,0 +1,22 @@
+---
+  id: "23915"
+  word: "protęga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "protęga"
+      acc: "protęgų"
+      gen: "protęgy"
+      loc: "protęgě"
+      dat: "protęgě"
+      ins: "protęgojų"
+      voc: "protęgo"
+    plural: 
+      nom: "protęgy"
+      acc: "protęgy"
+      gen: "protęg"
+      loc: "protęgah"
+      dat: "protęgam"
+      ins: "protęgami"
+      voc: "protęgy"

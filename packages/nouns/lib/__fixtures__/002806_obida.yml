@@ -1,0 +1,22 @@
+---
+  id: "2806"
+  word: "obida"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obida"
+      acc: "obidų"
+      gen: "obidy"
+      loc: "obidě"
+      dat: "obidě"
+      ins: "obidojų"
+      voc: "obido"
+    plural: 
+      nom: "obidy"
+      acc: "obidy"
+      gen: "obid"
+      loc: "obidah"
+      dat: "obidam"
+      ins: "obidami"
+      voc: "obidy"

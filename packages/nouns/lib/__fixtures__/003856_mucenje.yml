@@ -1,0 +1,22 @@
+---
+  id: "3856"
+  word: "mųčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mųčeńje"
+      acc: "mųčeńje"
+      gen: "mųčeńja"
+      loc: "mųčeńju"
+      dat: "mųčeńju"
+      ins: "mųčeńjem"
+      voc: "mųčeńje"
+    plural: 
+      nom: "mųčeńja"
+      acc: "mųčeńja"
+      gen: "mųčenij"
+      loc: "mųčeńjah"
+      dat: "mųčeńjam"
+      ins: "mųčeńjami"
+      voc: "mųčeńja"

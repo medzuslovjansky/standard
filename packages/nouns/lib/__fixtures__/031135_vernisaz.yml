@@ -1,0 +1,22 @@
+---
+  id: "31135"
+  word: "vernisaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vernisaž"
+      acc: "vernisaž"
+      gen: "vernisaža"
+      loc: "vernisažu"
+      dat: "vernisažu"
+      ins: "vernisažem"
+      voc: "vernisažu"
+    plural: 
+      nom: "vernisaže"
+      acc: "vernisaže"
+      gen: "vernisažev"
+      loc: "vernisažah"
+      dat: "vernisažam"
+      ins: "vernisažami"
+      voc: "vernisaže"

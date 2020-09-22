@@ -1,0 +1,22 @@
+---
+  id: "35225"
+  word: "koordinata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koordinata"
+      acc: "koordinatų"
+      gen: "koordinaty"
+      loc: "koordinatě"
+      dat: "koordinatě"
+      ins: "koordinatojų"
+      voc: "koordinato"
+    plural: 
+      nom: "koordinaty"
+      acc: "koordinaty"
+      gen: "koordinat"
+      loc: "koordinatah"
+      dat: "koordinatam"
+      ins: "koordinatami"
+      voc: "koordinaty"

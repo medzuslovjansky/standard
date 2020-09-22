@@ -1,0 +1,22 @@
+---
+  id: "24871"
+  word: "bukvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bukvica"
+      acc: "bukvicų"
+      gen: "bukvice"
+      loc: "bukvici"
+      dat: "bukvici"
+      ins: "bukvicejų"
+      voc: "bukvico"
+    plural: 
+      nom: "bukvice"
+      acc: "bukvice"
+      gen: "bukvic"
+      loc: "bukvicah"
+      dat: "bukvicam"
+      ins: "bukvicami"
+      voc: "bukvice"

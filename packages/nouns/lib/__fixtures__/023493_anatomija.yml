@@ -1,0 +1,15 @@
+---
+  id: "23493"
+  word: "anatomija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "anatomija"
+      acc: "anatomijų"
+      gen: "anatomije"
+      loc: "anatomiji"
+      dat: "anatomiji"
+      ins: "anatomijejų"
+      voc: "anatomijo"

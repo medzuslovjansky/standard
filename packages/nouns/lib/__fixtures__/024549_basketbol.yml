@@ -1,0 +1,15 @@
+---
+  id: "24549"
+  word: "basketbol"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "basketbol"
+      acc: "basketbol"
+      gen: "basketbola"
+      loc: "basketbolu"
+      dat: "basketbolu"
+      ins: "basketbolom"
+      voc: "basketbole"

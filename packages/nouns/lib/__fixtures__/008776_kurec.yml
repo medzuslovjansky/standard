@@ -1,0 +1,22 @@
+---
+  id: "8776"
+  word: "kurec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kurec"
+      acc: "kurec"
+      gen: "kurca"
+      loc: "kurcu"
+      dat: "kurcu"
+      ins: "kurcem"
+      voc: "kurče"
+    plural: 
+      nom: "kurce"
+      acc: "kurce"
+      gen: "kurcev"
+      loc: "kurcah"
+      dat: "kurcam"
+      ins: "kurcami"
+      voc: "kurce"

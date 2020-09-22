@@ -1,0 +1,22 @@
+---
+  id: "2281"
+  word: "cěnnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cěnnosť"
+      acc: "cěnnosť"
+      gen: "cěnnosti"
+      loc: "cěnnosti"
+      dat: "cěnnosti"
+      ins: "cěnnosťjų"
+      voc: "cěnnosti"
+    plural: 
+      nom: "cěnnosti"
+      acc: "cěnnosti"
+      gen: "cěnnostij"
+      loc: "cěnnosťah"
+      dat: "cěnnosťam"
+      ins: "cěnnosťami"
+      voc: "cěnnosti"

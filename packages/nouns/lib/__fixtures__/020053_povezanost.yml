@@ -1,0 +1,22 @@
+---
+  id: "20053"
+  word: "povęzanosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povęzanosť"
+      acc: "povęzanosť"
+      gen: "povęzanosti"
+      loc: "povęzanosti"
+      dat: "povęzanosti"
+      ins: "povęzanosťjų"
+      voc: "povęzanosti"
+    plural: 
+      nom: "povęzanosti"
+      acc: "povęzanosti"
+      gen: "povęzanostij"
+      loc: "povęzanosťah"
+      dat: "povęzanosťam"
+      ins: "povęzanosťami"
+      voc: "povęzanosti"

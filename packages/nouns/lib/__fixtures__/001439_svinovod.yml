@@ -1,0 +1,23 @@
+---
+  id: "1439"
+  word: "svinovod"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svinovod"
+      acc: "svinovoda"
+      gen: "svinovoda"
+      loc: "svinovodu"
+      dat: "svinovodu"
+      ins: "svinovodom"
+      voc: "svinovode"
+    plural: 
+      nom: "svinovodi"
+      acc: "svinovodov"
+      gen: "svinovodov"
+      loc: "svinovodah"
+      dat: "svinovodam"
+      ins: "svinovodami"
+      voc: "svinovodi"

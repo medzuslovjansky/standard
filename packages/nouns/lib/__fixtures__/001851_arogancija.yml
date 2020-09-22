@@ -1,0 +1,15 @@
+---
+  id: "1851"
+  word: "arogancija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "arogancija"
+      acc: "arogancijų"
+      gen: "arogancije"
+      loc: "aroganciji"
+      dat: "aroganciji"
+      ins: "arogancijejų"
+      voc: "arogancijo"

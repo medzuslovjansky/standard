@@ -1,0 +1,23 @@
+---
+  id: "9891"
+  word: "obslědovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obslědovatelj"
+      acc: "obslědovatelja"
+      gen: "obslědovatelja"
+      loc: "obslědovatelju"
+      dat: "obslědovatelju"
+      ins: "obslědovateljem"
+      voc: "obslědovatelju"
+    plural: 
+      nom: "obslědovatelji"
+      acc: "obslědovateljev"
+      gen: "obslědovateljev"
+      loc: "obslědovateljah"
+      dat: "obslědovateljam"
+      ins: "obslědovateljami"
+      voc: "obslědovatelji"

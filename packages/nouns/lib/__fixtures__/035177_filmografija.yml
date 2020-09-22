@@ -1,0 +1,22 @@
+---
+  id: "35177"
+  word: "filmografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "filmografija"
+      acc: "filmografijų"
+      gen: "filmografije"
+      loc: "filmografiji"
+      dat: "filmografiji"
+      ins: "filmografijejų"
+      voc: "filmografijo"
+    plural: 
+      nom: "filmografije"
+      acc: "filmografije"
+      gen: "filmografij"
+      loc: "filmografijah"
+      dat: "filmografijam"
+      ins: "filmografijami"
+      voc: "filmografije"

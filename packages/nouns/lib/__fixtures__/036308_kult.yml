@@ -1,0 +1,22 @@
+---
+  id: "36308"
+  word: "kult"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kult"
+      acc: "kult"
+      gen: "kulta"
+      loc: "kultu"
+      dat: "kultu"
+      ins: "kultom"
+      voc: "kulte"
+    plural: 
+      nom: "kulty"
+      acc: "kulty"
+      gen: "kultov"
+      loc: "kultah"
+      dat: "kultam"
+      ins: "kultami"
+      voc: "kulty"

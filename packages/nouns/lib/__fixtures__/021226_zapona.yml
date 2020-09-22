@@ -1,0 +1,22 @@
+---
+  id: "21226"
+  word: "zapona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zapona"
+      acc: "zaponų"
+      gen: "zapony"
+      loc: "zaponě"
+      dat: "zaponě"
+      ins: "zaponojų"
+      voc: "zapono"
+    plural: 
+      nom: "zapony"
+      acc: "zapony"
+      gen: "zapon"
+      loc: "zaponah"
+      dat: "zaponam"
+      ins: "zaponami"
+      voc: "zapony"

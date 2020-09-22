@@ -1,0 +1,23 @@
+---
+  id: "31021"
+  word: "variete"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "variete"
+      acc: "variete"
+      gen: "variete"
+      loc: "variete"
+      dat: "variete"
+      ins: "variete"
+      voc: "variete"
+    plural: 
+      nom: "variete"
+      acc: "variete"
+      gen: "variete"
+      loc: "variete"
+      dat: "variete"
+      ins: "variete"
+      voc: "variete"

@@ -1,0 +1,22 @@
+---
+  id: "21301"
+  word: "izrěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izrěčeńje"
+      acc: "izrěčeńje"
+      gen: "izrěčeńja"
+      loc: "izrěčeńju"
+      dat: "izrěčeńju"
+      ins: "izrěčeńjem"
+      voc: "izrěčeńje"
+    plural: 
+      nom: "izrěčeńja"
+      acc: "izrěčeńja"
+      gen: "izrěčenij"
+      loc: "izrěčeńjah"
+      dat: "izrěčeńjam"
+      ins: "izrěčeńjami"
+      voc: "izrěčeńja"

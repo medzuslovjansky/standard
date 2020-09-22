@@ -1,0 +1,22 @@
+---
+  id: "22065"
+  word: "krvotok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krvotok"
+      acc: "krvotok"
+      gen: "krvotoka"
+      loc: "krvotoku"
+      dat: "krvotoku"
+      ins: "krvotokom"
+      voc: "krvotoče"
+    plural: 
+      nom: "krvotoky"
+      acc: "krvotoky"
+      gen: "krvotokov"
+      loc: "krvotokah"
+      dat: "krvotokam"
+      ins: "krvotokami"
+      voc: "krvotoky"

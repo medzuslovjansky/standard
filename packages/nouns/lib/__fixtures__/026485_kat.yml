@@ -1,0 +1,23 @@
+---
+  id: "26485"
+  word: "kat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kat"
+      acc: "kata"
+      gen: "kata"
+      loc: "katu"
+      dat: "katu"
+      ins: "katom"
+      voc: "kate"
+    plural: 
+      nom: "kati"
+      acc: "katov"
+      gen: "katov"
+      loc: "katah"
+      dat: "katam"
+      ins: "katami"
+      voc: "kati"

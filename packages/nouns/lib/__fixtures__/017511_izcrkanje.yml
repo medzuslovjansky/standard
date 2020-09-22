@@ -1,0 +1,22 @@
+---
+  id: "17511"
+  word: "izčrkańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izčrkańje"
+      acc: "izčrkańje"
+      gen: "izčrkańja"
+      loc: "izčrkańju"
+      dat: "izčrkańju"
+      ins: "izčrkańjem"
+      voc: "izčrkańje"
+    plural: 
+      nom: "izčrkańja"
+      acc: "izčrkańja"
+      gen: "izčrkanij"
+      loc: "izčrkańjah"
+      dat: "izčrkańjam"
+      ins: "izčrkańjami"
+      voc: "izčrkańja"

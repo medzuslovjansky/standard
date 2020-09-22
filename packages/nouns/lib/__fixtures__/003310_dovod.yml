@@ -1,0 +1,22 @@
+---
+  id: "3310"
+  word: "dovod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dovod"
+      acc: "dovod"
+      gen: "dovoda"
+      loc: "dovodu"
+      dat: "dovodu"
+      ins: "dovodom"
+      voc: "dovode"
+    plural: 
+      nom: "dovody"
+      acc: "dovody"
+      gen: "dovodov"
+      loc: "dovodah"
+      dat: "dovodam"
+      ins: "dovodami"
+      voc: "dovody"

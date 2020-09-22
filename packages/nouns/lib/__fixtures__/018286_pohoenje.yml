@@ -1,0 +1,22 @@
+---
+  id: "18286"
+  word: "pohođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pohođeńje"
+      acc: "pohođeńje"
+      gen: "pohođeńja"
+      loc: "pohođeńju"
+      dat: "pohođeńju"
+      ins: "pohođeńjem"
+      voc: "pohođeńje"
+    plural: 
+      nom: "pohođeńja"
+      acc: "pohođeńja"
+      gen: "pohođenij"
+      loc: "pohođeńjah"
+      dat: "pohođeńjam"
+      ins: "pohođeńjami"
+      voc: "pohođeńja"

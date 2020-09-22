@@ -1,0 +1,22 @@
+---
+  id: "1513"
+  word: "zima"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zima"
+      acc: "zimų"
+      gen: "zimy"
+      loc: "zimě"
+      dat: "zimě"
+      ins: "zimojų"
+      voc: "zimo"
+    plural: 
+      nom: "zimy"
+      acc: "zimy"
+      gen: "zim"
+      loc: "zimah"
+      dat: "zimam"
+      ins: "zimami"
+      voc: "zimy"

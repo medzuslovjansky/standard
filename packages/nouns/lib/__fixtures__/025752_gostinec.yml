@@ -1,0 +1,22 @@
+---
+  id: "25752"
+  word: "gostinec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gostinec"
+      acc: "gostinec"
+      gen: "gostinca"
+      loc: "gostincu"
+      dat: "gostincu"
+      ins: "gostincem"
+      voc: "gostinče"
+    plural: 
+      nom: "gostince"
+      acc: "gostince"
+      gen: "gostincev"
+      loc: "gostincah"
+      dat: "gostincam"
+      ins: "gostincami"
+      voc: "gostince"

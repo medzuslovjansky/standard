@@ -1,0 +1,22 @@
+---
+  id: "32347"
+  word: "rafinerija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rafinerija"
+      acc: "rafinerijų"
+      gen: "rafinerije"
+      loc: "rafineriji"
+      dat: "rafineriji"
+      ins: "rafinerijejų"
+      voc: "rafinerijo"
+    plural: 
+      nom: "rafinerije"
+      acc: "rafinerije"
+      gen: "rafinerij"
+      loc: "rafinerijah"
+      dat: "rafinerijam"
+      ins: "rafinerijami"
+      voc: "rafinerije"

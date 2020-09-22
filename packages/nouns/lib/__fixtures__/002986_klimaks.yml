@@ -1,0 +1,22 @@
+---
+  id: "2986"
+  word: "klimaks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klimaks"
+      acc: "klimaks"
+      gen: "klimaksa"
+      loc: "klimaksu"
+      dat: "klimaksu"
+      ins: "klimaksom"
+      voc: "klimakse"
+    plural: 
+      nom: "klimaksy"
+      acc: "klimaksy"
+      gen: "klimaksov"
+      loc: "klimaksah"
+      dat: "klimaksam"
+      ins: "klimaksami"
+      voc: "klimaksy"

@@ -1,0 +1,22 @@
+---
+  id: "22222"
+  word: "nevěža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevěža"
+      acc: "nevěžų"
+      gen: "nevěže"
+      loc: "nevěži"
+      dat: "nevěži"
+      ins: "nevěžejų"
+      voc: "nevěžo"
+    plural: 
+      nom: "nevěže"
+      acc: "nevěže"
+      gen: "nevěž"
+      loc: "nevěžah"
+      dat: "nevěžam"
+      ins: "nevěžami"
+      voc: "nevěže"

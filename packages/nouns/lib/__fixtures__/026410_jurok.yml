@@ -1,0 +1,23 @@
+---
+  id: "26410"
+  word: "jurȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jurȯk"
+      acc: "jurka"
+      gen: "jurka"
+      loc: "jurku"
+      dat: "jurku"
+      ins: "jurkom"
+      voc: "jurče"
+    plural: 
+      nom: "jurki"
+      acc: "jurkov"
+      gen: "jurkov"
+      loc: "jurkah"
+      dat: "jurkam"
+      ins: "jurkami"
+      voc: "jurki"

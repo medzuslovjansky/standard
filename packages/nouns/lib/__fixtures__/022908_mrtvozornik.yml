@@ -1,0 +1,23 @@
+---
+  id: "22908"
+  word: "mŕtvozornik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mŕtvozornik"
+      acc: "mŕtvozornika"
+      gen: "mŕtvozornika"
+      loc: "mŕtvozorniku"
+      dat: "mŕtvozorniku"
+      ins: "mŕtvozornikom"
+      voc: "mŕtvozorniče"
+    plural: 
+      nom: "mŕtvozorniki"
+      acc: "mŕtvozornikov"
+      gen: "mŕtvozornikov"
+      loc: "mŕtvozornikah"
+      dat: "mŕtvozornikam"
+      ins: "mŕtvozornikami"
+      voc: "mŕtvozorniki"

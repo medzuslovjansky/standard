@@ -1,0 +1,22 @@
+---
+  id: "22186"
+  word: "naval"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naval"
+      acc: "naval"
+      gen: "navala"
+      loc: "navalu"
+      dat: "navalu"
+      ins: "navalom"
+      voc: "navale"
+    plural: 
+      nom: "navaly"
+      acc: "navaly"
+      gen: "navalov"
+      loc: "navalah"
+      dat: "navalam"
+      ins: "navalami"
+      voc: "navaly"

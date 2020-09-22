@@ -1,0 +1,22 @@
+---
+  id: "4146"
+  word: "izjasnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izjasnjeńje"
+      acc: "izjasnjeńje"
+      gen: "izjasnjeńja"
+      loc: "izjasnjeńju"
+      dat: "izjasnjeńju"
+      ins: "izjasnjeńjem"
+      voc: "izjasnjeńje"
+    plural: 
+      nom: "izjasnjeńja"
+      acc: "izjasnjeńja"
+      gen: "izjasnjenij"
+      loc: "izjasnjeńjah"
+      dat: "izjasnjeńjam"
+      ins: "izjasnjeńjami"
+      voc: "izjasnjeńja"

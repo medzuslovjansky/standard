@@ -1,0 +1,22 @@
+---
+  id: "14316"
+  word: "izvěstoglåšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izvěstoglåšeńje"
+      acc: "izvěstoglåšeńje"
+      gen: "izvěstoglåšeńja"
+      loc: "izvěstoglåšeńju"
+      dat: "izvěstoglåšeńju"
+      ins: "izvěstoglåšeńjem"
+      voc: "izvěstoglåšeńje"
+    plural: 
+      nom: "izvěstoglåšeńja"
+      acc: "izvěstoglåšeńja"
+      gen: "izvěstoglåšenij"
+      loc: "izvěstoglåšeńjah"
+      dat: "izvěstoglåšeńjam"
+      ins: "izvěstoglåšeńjami"
+      voc: "izvěstoglåšeńja"

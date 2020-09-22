@@ -1,0 +1,22 @@
+---
+  id: "3436"
+  word: "městnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "městnosť"
+      acc: "městnosť"
+      gen: "městnosti"
+      loc: "městnosti"
+      dat: "městnosti"
+      ins: "městnosťjų"
+      voc: "městnosti"
+    plural: 
+      nom: "městnosti"
+      acc: "městnosti"
+      gen: "městnostij"
+      loc: "městnosťah"
+      dat: "městnosťam"
+      ins: "městnosťami"
+      voc: "městnosti"

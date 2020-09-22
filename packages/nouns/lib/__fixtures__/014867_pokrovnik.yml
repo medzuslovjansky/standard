@@ -1,0 +1,23 @@
+---
+  id: "14867"
+  word: "pokrȯvnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pokrȯvnik"
+      acc: "pokrȯvnika"
+      gen: "pokrȯvnika"
+      loc: "pokrȯvniku"
+      dat: "pokrȯvniku"
+      ins: "pokrȯvnikom"
+      voc: "pokrȯvniče"
+    plural: 
+      nom: "pokrȯvniki"
+      acc: "pokrȯvnikov"
+      gen: "pokrȯvnikov"
+      loc: "pokrȯvnikah"
+      dat: "pokrȯvnikam"
+      ins: "pokrȯvnikami"
+      voc: "pokrȯvniki"

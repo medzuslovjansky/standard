@@ -1,0 +1,23 @@
+---
+  id: "25238"
+  word: "dezerter"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dezerter"
+      acc: "dezertera"
+      gen: "dezertera"
+      loc: "dezerteru"
+      dat: "dezerteru"
+      ins: "dezerterom"
+      voc: "dezertere"
+    plural: 
+      nom: "dezerteri"
+      acc: "dezerterov"
+      gen: "dezerterov"
+      loc: "dezerterah"
+      dat: "dezerteram"
+      ins: "dezerterami"
+      voc: "dezerteri"

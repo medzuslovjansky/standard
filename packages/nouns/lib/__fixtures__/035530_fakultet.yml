@@ -1,0 +1,22 @@
+---
+  id: "35530"
+  word: "fakultet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fakultet"
+      acc: "fakultet"
+      gen: "fakulteta"
+      loc: "fakultetu"
+      dat: "fakultetu"
+      ins: "fakultetom"
+      voc: "fakultete"
+    plural: 
+      nom: "fakultety"
+      acc: "fakultety"
+      gen: "fakultetov"
+      loc: "fakultetah"
+      dat: "fakultetam"
+      ins: "fakultetami"
+      voc: "fakultety"

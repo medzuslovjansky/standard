@@ -1,0 +1,22 @@
+---
+  id: "22713"
+  word: "råzvråtnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzvråtnica"
+      acc: "råzvråtnicų"
+      gen: "råzvråtnice"
+      loc: "råzvråtnici"
+      dat: "råzvråtnici"
+      ins: "råzvråtnicejų"
+      voc: "råzvråtnico"
+    plural: 
+      nom: "råzvråtnice"
+      acc: "råzvråtnice"
+      gen: "råzvråtnic"
+      loc: "råzvråtnicah"
+      dat: "råzvråtnicam"
+      ins: "råzvråtnicami"
+      voc: "råzvråtnice"

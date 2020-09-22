@@ -1,0 +1,23 @@
+---
+  id: "32263"
+  word: "lateks"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lateks"
+      acc: "lateksa"
+      gen: "lateksa"
+      loc: "lateksu"
+      dat: "lateksu"
+      ins: "lateksom"
+      voc: "latekse"
+    plural: 
+      nom: "lateksi"
+      acc: "lateksov"
+      gen: "lateksov"
+      loc: "lateksah"
+      dat: "lateksam"
+      ins: "lateksami"
+      voc: "lateksi"

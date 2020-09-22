@@ -1,0 +1,15 @@
+---
+  id: "23641"
+  word: "Turkmenistan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Turkmenistan"
+      acc: "Turkmenistan"
+      gen: "Turkmenistana"
+      loc: "Turkmenistanu"
+      dat: "Turkmenistanu"
+      ins: "Turkmenistanom"
+      voc: "Turkmenistane"

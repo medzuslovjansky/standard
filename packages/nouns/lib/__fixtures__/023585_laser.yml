@@ -1,0 +1,22 @@
+---
+  id: "23585"
+  word: "laser"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "laser"
+      acc: "laser"
+      gen: "lasera"
+      loc: "laseru"
+      dat: "laseru"
+      ins: "laserom"
+      voc: "lasere"
+    plural: 
+      nom: "lasery"
+      acc: "lasery"
+      gen: "laserov"
+      loc: "laserah"
+      dat: "laseram"
+      ins: "laserami"
+      voc: "lasery"

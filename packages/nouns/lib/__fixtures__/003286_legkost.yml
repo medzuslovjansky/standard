@@ -1,0 +1,22 @@
+---
+  id: "3286"
+  word: "legkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "legkosť"
+      acc: "legkosť"
+      gen: "legkosti"
+      loc: "legkosti"
+      dat: "legkosti"
+      ins: "legkosťjų"
+      voc: "legkosti"
+    plural: 
+      nom: "legkosti"
+      acc: "legkosti"
+      gen: "legkostij"
+      loc: "legkosťah"
+      dat: "legkosťam"
+      ins: "legkosťami"
+      voc: "legkosti"

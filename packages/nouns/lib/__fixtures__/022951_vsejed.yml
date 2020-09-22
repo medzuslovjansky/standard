@@ -1,0 +1,23 @@
+---
+  id: "22951"
+  word: "vsejed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vsejed"
+      acc: "vsejeda"
+      gen: "vsejeda"
+      loc: "vsejedu"
+      dat: "vsejedu"
+      ins: "vsejedom"
+      voc: "vsejede"
+    plural: 
+      nom: "vsejedi"
+      acc: "vsejedov"
+      gen: "vsejedov"
+      loc: "vsejedah"
+      dat: "vsejedam"
+      ins: "vsejedami"
+      voc: "vsejedi"

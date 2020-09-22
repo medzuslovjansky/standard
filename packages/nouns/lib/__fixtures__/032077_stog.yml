@@ -1,0 +1,22 @@
+---
+  id: "32077"
+  word: "stog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stog"
+      acc: "stog"
+      gen: "stoga"
+      loc: "stogu"
+      dat: "stogu"
+      ins: "stogom"
+      voc: "stože"
+    plural: 
+      nom: "stogy"
+      acc: "stogy"
+      gen: "stogov"
+      loc: "stogah"
+      dat: "stogam"
+      ins: "stogami"
+      voc: "stogy"

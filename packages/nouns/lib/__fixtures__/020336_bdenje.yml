@@ -1,0 +1,15 @@
+---
+  id: "20336"
+  word: "bděńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bděńje"
+      acc: "bděńje"
+      gen: "bděńja"
+      loc: "bděńju"
+      dat: "bděńju"
+      ins: "bděńjem"
+      voc: "bděńje"

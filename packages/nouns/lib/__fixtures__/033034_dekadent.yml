@@ -1,0 +1,23 @@
+---
+  id: "33034"
+  word: "dekadent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dekadent"
+      acc: "dekadenta"
+      gen: "dekadenta"
+      loc: "dekadentu"
+      dat: "dekadentu"
+      ins: "dekadentom"
+      voc: "dekadente"
+    plural: 
+      nom: "dekadenti"
+      acc: "dekadentov"
+      gen: "dekadentov"
+      loc: "dekadentah"
+      dat: "dekadentam"
+      ins: "dekadentami"
+      voc: "dekadenti"

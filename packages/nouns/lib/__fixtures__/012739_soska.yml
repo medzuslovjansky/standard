@@ -1,0 +1,22 @@
+---
+  id: "12739"
+  word: "sȯska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sȯska"
+      acc: "sȯskų"
+      gen: "sȯsky"
+      loc: "sȯskě"
+      dat: "sȯskě"
+      ins: "sȯskojų"
+      voc: "sȯsko"
+    plural: 
+      nom: "sȯsky"
+      acc: "sȯsky"
+      gen: "sȯsȯk"
+      loc: "sȯskah"
+      dat: "sȯskam"
+      ins: "sȯskami"
+      voc: "sȯsky"

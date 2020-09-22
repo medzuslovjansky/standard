@@ -1,0 +1,22 @@
+---
+  id: "7057"
+  word: "dyh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dyh"
+      acc: "dyh"
+      gen: "dyha"
+      loc: "dyhu"
+      dat: "dyhu"
+      ins: "dyhom"
+      voc: "dyše"
+    plural: 
+      nom: "dyhy"
+      acc: "dyhy"
+      gen: "dyhov"
+      loc: "dyhah"
+      dat: "dyham"
+      ins: "dyhami"
+      voc: "dyhy"

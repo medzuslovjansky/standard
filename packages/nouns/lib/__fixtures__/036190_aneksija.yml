@@ -1,0 +1,22 @@
+---
+  id: "36190"
+  word: "aneksija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aneksija"
+      acc: "aneksijų"
+      gen: "aneksije"
+      loc: "aneksiji"
+      dat: "aneksiji"
+      ins: "aneksijejų"
+      voc: "aneksijo"
+    plural: 
+      nom: "aneksije"
+      acc: "aneksije"
+      gen: "aneksij"
+      loc: "aneksijah"
+      dat: "aneksijam"
+      ins: "aneksijami"
+      voc: "aneksije"

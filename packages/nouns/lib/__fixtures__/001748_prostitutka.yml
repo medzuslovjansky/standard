@@ -1,0 +1,22 @@
+---
+  id: "1748"
+  word: "prostitutka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prostitutka"
+      acc: "prostitutkų"
+      gen: "prostitutky"
+      loc: "prostitutkě"
+      dat: "prostitutkě"
+      ins: "prostitutkojų"
+      voc: "prostitutko"
+    plural: 
+      nom: "prostitutky"
+      acc: "prostitutky"
+      gen: "prostitutȯk"
+      loc: "prostitutkah"
+      dat: "prostitutkam"
+      ins: "prostitutkami"
+      voc: "prostitutky"

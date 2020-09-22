@@ -1,0 +1,22 @@
+---
+  id: "15973"
+  word: "kontingent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontingent"
+      acc: "kontingent"
+      gen: "kontingenta"
+      loc: "kontingentu"
+      dat: "kontingentu"
+      ins: "kontingentom"
+      voc: "kontingente"
+    plural: 
+      nom: "kontingenty"
+      acc: "kontingenty"
+      gen: "kontingentov"
+      loc: "kontingentah"
+      dat: "kontingentam"
+      ins: "kontingentami"
+      voc: "kontingenty"

@@ -1,0 +1,22 @@
+---
+  id: "2877"
+  word: "komentaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komentaŕ"
+      acc: "komentaŕ"
+      gen: "komentaŕa"
+      loc: "komentaŕu"
+      dat: "komentaŕu"
+      ins: "komentaŕem"
+      voc: "komentaŕu"
+    plural: 
+      nom: "komentaŕe"
+      acc: "komentaŕe"
+      gen: "komentaŕev"
+      loc: "komentaŕah"
+      dat: "komentaŕam"
+      ins: "komentaŕami"
+      voc: "komentaŕe"

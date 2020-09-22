@@ -1,0 +1,22 @@
+---
+  id: "276"
+  word: "dęsna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dęsna"
+      acc: "dęsnų"
+      gen: "dęsny"
+      loc: "dęsně"
+      dat: "dęsně"
+      ins: "dęsnojų"
+      voc: "dęsno"
+    plural: 
+      nom: "dęsny"
+      acc: "dęsny"
+      gen: "dęsen"
+      loc: "dęsnah"
+      dat: "dęsnam"
+      ins: "dęsnami"
+      voc: "dęsny"

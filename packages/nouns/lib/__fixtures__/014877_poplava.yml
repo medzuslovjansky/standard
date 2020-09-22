@@ -1,0 +1,22 @@
+---
+  id: "14877"
+  word: "poplava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poplava"
+      acc: "poplavų"
+      gen: "poplavy"
+      loc: "poplavě"
+      dat: "poplavě"
+      ins: "poplavojų"
+      voc: "poplavo"
+    plural: 
+      nom: "poplavy"
+      acc: "poplavy"
+      gen: "poplav"
+      loc: "poplavah"
+      dat: "poplavam"
+      ins: "poplavami"
+      voc: "poplavy"

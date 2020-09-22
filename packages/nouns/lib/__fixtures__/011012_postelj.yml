@@ -1,0 +1,22 @@
+---
+  id: "11012"
+  word: "postelj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "postelj"
+      acc: "postelj"
+      gen: "postelji"
+      loc: "postelji"
+      dat: "postelji"
+      ins: "posteljjų"
+      voc: "postelji"
+    plural: 
+      nom: "postelji"
+      acc: "postelji"
+      gen: "posteljij"
+      loc: "posteljah"
+      dat: "posteljam"
+      ins: "posteljami"
+      voc: "postelji"

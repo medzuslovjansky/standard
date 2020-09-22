@@ -1,0 +1,22 @@
+---
+  id: "20759"
+  word: "sųråzměrnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųråzměrnosť"
+      acc: "sųråzměrnosť"
+      gen: "sųråzměrnosti"
+      loc: "sųråzměrnosti"
+      dat: "sųråzměrnosti"
+      ins: "sųråzměrnosťjų"
+      voc: "sųråzměrnosti"
+    plural: 
+      nom: "sųråzměrnosti"
+      acc: "sųråzměrnosti"
+      gen: "sųråzměrnostij"
+      loc: "sųråzměrnosťah"
+      dat: "sųråzměrnosťam"
+      ins: "sųråzměrnosťami"
+      voc: "sųråzměrnosti"

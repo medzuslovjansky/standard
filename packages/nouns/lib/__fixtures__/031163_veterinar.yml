@@ -1,0 +1,23 @@
+---
+  id: "31163"
+  word: "veterinaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "veterinaŕ"
+      acc: "veterinaŕa"
+      gen: "veterinaŕa"
+      loc: "veterinaŕu"
+      dat: "veterinaŕu"
+      ins: "veterinaŕem"
+      voc: "veterinaŕu"
+    plural: 
+      nom: "veterinari"
+      acc: "veterinaŕev"
+      gen: "veterinaŕev"
+      loc: "veterinaŕah"
+      dat: "veterinaŕam"
+      ins: "veterinaŕami"
+      voc: "veterinari"

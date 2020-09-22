@@ -1,0 +1,23 @@
+---
+  id: "3131"
+  word: "prědsědatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědsědatelj"
+      acc: "prědsědatelja"
+      gen: "prědsědatelja"
+      loc: "prědsědatelju"
+      dat: "prědsědatelju"
+      ins: "prědsědateljem"
+      voc: "prědsědatelju"
+    plural: 
+      nom: "prědsědatelji"
+      acc: "prědsědateljev"
+      gen: "prědsědateljev"
+      loc: "prědsědateljah"
+      dat: "prědsědateljam"
+      ins: "prědsědateljami"
+      voc: "prědsědatelji"

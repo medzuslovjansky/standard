@@ -1,0 +1,22 @@
+---
+  id: "29169"
+  word: "odpravjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odpravjeńje"
+      acc: "odpravjeńje"
+      gen: "odpravjeńja"
+      loc: "odpravjeńju"
+      dat: "odpravjeńju"
+      ins: "odpravjeńjem"
+      voc: "odpravjeńje"
+    plural: 
+      nom: "odpravjeńja"
+      acc: "odpravjeńja"
+      gen: "odpravjenij"
+      loc: "odpravjeńjah"
+      dat: "odpravjeńjam"
+      ins: "odpravjeńjami"
+      voc: "odpravjeńja"

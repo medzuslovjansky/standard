@@ -1,0 +1,15 @@
+---
+  id: "29855"
+  word: "parazitizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "parazitizm"
+      acc: "parazitizm"
+      gen: "parazitizma"
+      loc: "parazitizmu"
+      dat: "parazitizmu"
+      ins: "parazitizmom"
+      voc: "parazitizme"

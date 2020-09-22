@@ -1,0 +1,22 @@
+---
+  id: "8664"
+  word: "krasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasnosť"
+      acc: "krasnosť"
+      gen: "krasnosti"
+      loc: "krasnosti"
+      dat: "krasnosti"
+      ins: "krasnosťjų"
+      voc: "krasnosti"
+    plural: 
+      nom: "krasnosti"
+      acc: "krasnosti"
+      gen: "krasnostij"
+      loc: "krasnosťah"
+      dat: "krasnosťam"
+      ins: "krasnosťami"
+      voc: "krasnosti"

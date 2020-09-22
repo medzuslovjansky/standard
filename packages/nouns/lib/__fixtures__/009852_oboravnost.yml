@@ -1,0 +1,22 @@
+---
+  id: "9852"
+  word: "oboråvnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oboråvnosť"
+      acc: "oboråvnosť"
+      gen: "oboråvnosti"
+      loc: "oboråvnosti"
+      dat: "oboråvnosti"
+      ins: "oboråvnosťjų"
+      voc: "oboråvnosti"
+    plural: 
+      nom: "oboråvnosti"
+      acc: "oboråvnosti"
+      gen: "oboråvnostij"
+      loc: "oboråvnosťah"
+      dat: "oboråvnosťam"
+      ins: "oboråvnosťami"
+      voc: "oboråvnosti"

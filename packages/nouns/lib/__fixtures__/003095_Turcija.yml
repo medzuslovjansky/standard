@@ -1,0 +1,15 @@
+---
+  id: "3095"
+  word: "Turcija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Turcija"
+      acc: "Turcijų"
+      gen: "Turcije"
+      loc: "Turciji"
+      dat: "Turciji"
+      ins: "Turcijejų"
+      voc: "Turcijo"

@@ -1,0 +1,22 @@
+---
+  id: "3958"
+  word: "zadańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zadańje"
+      acc: "zadańje"
+      gen: "zadańja"
+      loc: "zadańju"
+      dat: "zadańju"
+      ins: "zadańjem"
+      voc: "zadańje"
+    plural: 
+      nom: "zadańja"
+      acc: "zadańja"
+      gen: "zadanij"
+      loc: "zadańjah"
+      dat: "zadańjam"
+      ins: "zadańjami"
+      voc: "zadańja"

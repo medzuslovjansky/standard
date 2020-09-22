@@ -1,0 +1,22 @@
+---
+  id: "74"
+  word: "koza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koza"
+      acc: "kozų"
+      gen: "kozy"
+      loc: "kozě"
+      dat: "kozě"
+      ins: "kozojų"
+      voc: "kozo"
+    plural: 
+      nom: "kozy"
+      acc: "kozy"
+      gen: "koz"
+      loc: "kozah"
+      dat: "kozam"
+      ins: "kozami"
+      voc: "kozy"

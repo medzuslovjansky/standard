@@ -1,0 +1,22 @@
+---
+  id: "11802"
+  word: "råzličnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzličnosť"
+      acc: "råzličnosť"
+      gen: "råzličnosti"
+      loc: "råzličnosti"
+      dat: "råzličnosti"
+      ins: "råzličnosťjų"
+      voc: "råzličnosti"
+    plural: 
+      nom: "råzličnosti"
+      acc: "råzličnosti"
+      gen: "råzličnostij"
+      loc: "råzličnosťah"
+      dat: "råzličnosťam"
+      ins: "råzličnosťami"
+      voc: "råzličnosti"

@@ -1,0 +1,22 @@
+---
+  id: "36328"
+  word: "okȯnnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okȯnnica"
+      acc: "okȯnnicų"
+      gen: "okȯnnice"
+      loc: "okȯnnici"
+      dat: "okȯnnici"
+      ins: "okȯnnicejų"
+      voc: "okȯnnico"
+    plural: 
+      nom: "okȯnnice"
+      acc: "okȯnnice"
+      gen: "okȯnnic"
+      loc: "okȯnnicah"
+      dat: "okȯnnicam"
+      ins: "okȯnnicami"
+      voc: "okȯnnice"

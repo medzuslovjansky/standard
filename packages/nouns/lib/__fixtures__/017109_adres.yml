@@ -1,0 +1,22 @@
+---
+  id: "17109"
+  word: "adres"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "adres"
+      acc: "adres"
+      gen: "adresa"
+      loc: "adresu"
+      dat: "adresu"
+      ins: "adresom"
+      voc: "adrese"
+    plural: 
+      nom: "adresy"
+      acc: "adresy"
+      gen: "adresov"
+      loc: "adresah"
+      dat: "adresam"
+      ins: "adresami"
+      voc: "adresy"

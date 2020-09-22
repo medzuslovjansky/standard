@@ -1,0 +1,22 @@
+---
+  id: "32377"
+  word: "inicializacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inicializacija"
+      acc: "inicializacijų"
+      gen: "inicializacije"
+      loc: "inicializaciji"
+      dat: "inicializaciji"
+      ins: "inicializacijejų"
+      voc: "inicializacijo"
+    plural: 
+      nom: "inicializacije"
+      acc: "inicializacije"
+      gen: "inicializacij"
+      loc: "inicializacijah"
+      dat: "inicializacijam"
+      ins: "inicializacijami"
+      voc: "inicializacije"

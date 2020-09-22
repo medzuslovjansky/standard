@@ -1,0 +1,22 @@
+---
+  id: "2530"
+  word: "vlåkno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vlåkno"
+      acc: "vlåkno"
+      gen: "vlåkna"
+      loc: "vlåknu"
+      dat: "vlåknu"
+      ins: "vlåknom"
+      voc: "vlåkno"
+    plural: 
+      nom: "vlåkna"
+      acc: "vlåkna"
+      gen: "vlåkȯn"
+      loc: "vlåknah"
+      dat: "vlåknam"
+      ins: "vlåknami"
+      voc: "vlåkna"

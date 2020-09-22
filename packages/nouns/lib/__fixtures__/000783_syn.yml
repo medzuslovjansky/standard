@@ -1,0 +1,23 @@
+---
+  id: "783"
+  word: "syn"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "syn"
+      acc: "syna"
+      gen: "syna"
+      loc: "synu"
+      dat: "synu"
+      ins: "synom"
+      voc: "syne"
+    plural: 
+      nom: "syni"
+      acc: "synov"
+      gen: "synov"
+      loc: "synah"
+      dat: "synam"
+      ins: "synami"
+      voc: "syni"

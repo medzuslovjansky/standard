@@ -1,0 +1,22 @@
+---
+  id: "32123"
+  word: "kus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kus"
+      acc: "kus"
+      gen: "kusa"
+      loc: "kusu"
+      dat: "kusu"
+      ins: "kusom"
+      voc: "kuse"
+    plural: 
+      nom: "kusy"
+      acc: "kusy"
+      gen: "kusov"
+      loc: "kusah"
+      dat: "kusam"
+      ins: "kusami"
+      voc: "kusy"

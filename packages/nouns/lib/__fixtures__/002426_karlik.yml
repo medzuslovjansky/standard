@@ -1,0 +1,23 @@
+---
+  id: "2426"
+  word: "karlik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "karlik"
+      acc: "karlika"
+      gen: "karlika"
+      loc: "karliku"
+      dat: "karliku"
+      ins: "karlikom"
+      voc: "karliče"
+    plural: 
+      nom: "karliki"
+      acc: "karlikov"
+      gen: "karlikov"
+      loc: "karlikah"
+      dat: "karlikam"
+      ins: "karlikami"
+      voc: "karliki"

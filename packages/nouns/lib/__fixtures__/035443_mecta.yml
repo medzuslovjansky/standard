@@ -1,0 +1,22 @@
+---
+  id: "35443"
+  word: "mečta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mečta"
+      acc: "mečtų"
+      gen: "mečty"
+      loc: "mečtě"
+      dat: "mečtě"
+      ins: "mečtojų"
+      voc: "mečto"
+    plural: 
+      nom: "mečty"
+      acc: "mečty"
+      gen: "mečt"
+      loc: "mečtah"
+      dat: "mečtam"
+      ins: "mečtami"
+      voc: "mečty"

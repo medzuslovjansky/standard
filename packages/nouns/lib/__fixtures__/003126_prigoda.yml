@@ -1,0 +1,22 @@
+---
+  id: "3126"
+  word: "prigoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prigoda"
+      acc: "prigodų"
+      gen: "prigody"
+      loc: "prigodě"
+      dat: "prigodě"
+      ins: "prigodojų"
+      voc: "prigodo"
+    plural: 
+      nom: "prigody"
+      acc: "prigody"
+      gen: "prigod"
+      loc: "prigodah"
+      dat: "prigodam"
+      ins: "prigodami"
+      voc: "prigody"

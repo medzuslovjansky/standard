@@ -1,0 +1,15 @@
+---
+  id: "35231"
+  word: "Bohemija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bohemija"
+      acc: "Bohemijų"
+      gen: "Bohemije"
+      loc: "Bohemiji"
+      dat: "Bohemiji"
+      ins: "Bohemijejų"
+      voc: "Bohemijo"

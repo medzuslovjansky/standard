@@ -1,0 +1,22 @@
+---
+  id: "36542"
+  word: "toster"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "toster"
+      acc: "toster"
+      gen: "tostera"
+      loc: "tosteru"
+      dat: "tosteru"
+      ins: "tosterom"
+      voc: "tostere"
+    plural: 
+      nom: "tostery"
+      acc: "tostery"
+      gen: "tosterov"
+      loc: "tosterah"
+      dat: "tosteram"
+      ins: "tosterami"
+      voc: "tostery"

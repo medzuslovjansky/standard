@@ -1,0 +1,22 @@
+---
+  id: "25896"
+  word: "gųšća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gųšća"
+      acc: "gųšćų"
+      gen: "gųšće"
+      loc: "gųšći"
+      dat: "gųšći"
+      ins: "gųšćejų"
+      voc: "gųšćo"
+    plural: 
+      nom: "gųšće"
+      acc: "gųšće"
+      gen: "gųšć"
+      loc: "gųšćah"
+      dat: "gųšćam"
+      ins: "gųšćami"
+      voc: "gųšće"

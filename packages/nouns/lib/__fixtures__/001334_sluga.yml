@@ -1,0 +1,23 @@
+---
+  id: "1334"
+  word: "sluga"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sluga"
+      acc: "slugų"
+      gen: "slugy"
+      loc: "slugě"
+      dat: "slugě"
+      ins: "slugojų"
+      voc: "slugo"
+    plural: 
+      nom: "slugi"
+      acc: "slugov"
+      gen: "slugov"
+      loc: "slugah"
+      dat: "slugam"
+      ins: "slugami"
+      voc: "slugi"

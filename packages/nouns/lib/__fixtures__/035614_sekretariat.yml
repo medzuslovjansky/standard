@@ -1,0 +1,22 @@
+---
+  id: "35614"
+  word: "sekretariat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sekretariat"
+      acc: "sekretariat"
+      gen: "sekretariata"
+      loc: "sekretariatu"
+      dat: "sekretariatu"
+      ins: "sekretariatom"
+      voc: "sekretariate"
+    plural: 
+      nom: "sekretariaty"
+      acc: "sekretariaty"
+      gen: "sekretariatov"
+      loc: "sekretariatah"
+      dat: "sekretariatam"
+      ins: "sekretariatami"
+      voc: "sekretariaty"

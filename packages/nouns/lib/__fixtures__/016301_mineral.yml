@@ -1,0 +1,22 @@
+---
+  id: "16301"
+  word: "mineral"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mineral"
+      acc: "mineral"
+      gen: "minerala"
+      loc: "mineralu"
+      dat: "mineralu"
+      ins: "mineralom"
+      voc: "minerale"
+    plural: 
+      nom: "mineraly"
+      acc: "mineraly"
+      gen: "mineralov"
+      loc: "mineralah"
+      dat: "mineralam"
+      ins: "mineralami"
+      voc: "mineraly"

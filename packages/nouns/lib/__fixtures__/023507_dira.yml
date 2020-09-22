@@ -1,0 +1,22 @@
+---
+  id: "23507"
+  word: "dira"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dira"
+      acc: "dirų"
+      gen: "diry"
+      loc: "dirě"
+      dat: "dirě"
+      ins: "dirojų"
+      voc: "diro"
+    plural: 
+      nom: "diry"
+      acc: "diry"
+      gen: "dir"
+      loc: "dirah"
+      dat: "diram"
+      ins: "dirami"
+      voc: "diry"

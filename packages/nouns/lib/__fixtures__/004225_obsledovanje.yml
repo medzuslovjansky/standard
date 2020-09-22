@@ -1,0 +1,22 @@
+---
+  id: "4225"
+  word: "obslědovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obslědovańje"
+      acc: "obslědovańje"
+      gen: "obslědovańja"
+      loc: "obslědovańju"
+      dat: "obslědovańju"
+      ins: "obslědovańjem"
+      voc: "obslědovańje"
+    plural: 
+      nom: "obslědovańja"
+      acc: "obslědovańja"
+      gen: "obslědovanij"
+      loc: "obslědovańjah"
+      dat: "obslědovańjam"
+      ins: "obslědovańjami"
+      voc: "obslědovańja"

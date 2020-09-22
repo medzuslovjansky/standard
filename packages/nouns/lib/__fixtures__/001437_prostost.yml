@@ -1,0 +1,22 @@
+---
+  id: "1437"
+  word: "prostosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prostosť"
+      acc: "prostosť"
+      gen: "prostosti"
+      loc: "prostosti"
+      dat: "prostosti"
+      ins: "prostosťjų"
+      voc: "prostosti"
+    plural: 
+      nom: "prostosti"
+      acc: "prostosti"
+      gen: "prostostij"
+      loc: "prostosťah"
+      dat: "prostosťam"
+      ins: "prostosťami"
+      voc: "prostosti"

@@ -1,0 +1,22 @@
+---
+  id: "36166"
+  word: "organ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "organ"
+      acc: "organ"
+      gen: "organa"
+      loc: "organu"
+      dat: "organu"
+      ins: "organom"
+      voc: "organe"
+    plural: 
+      nom: "organy"
+      acc: "organy"
+      gen: "organov"
+      loc: "organah"
+      dat: "organam"
+      ins: "organami"
+      voc: "organy"

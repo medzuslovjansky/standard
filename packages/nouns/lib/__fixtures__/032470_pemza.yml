@@ -1,0 +1,22 @@
+---
+  id: "32470"
+  word: "pemza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pemza"
+      acc: "pemzų"
+      gen: "pemzy"
+      loc: "pemzě"
+      dat: "pemzě"
+      ins: "pemzojų"
+      voc: "pemzo"
+    plural: 
+      nom: "pemzy"
+      acc: "pemzy"
+      gen: "pemz"
+      loc: "pemzah"
+      dat: "pemzam"
+      ins: "pemzami"
+      voc: "pemzy"

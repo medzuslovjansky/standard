@@ -1,0 +1,22 @@
+---
+  id: "820"
+  word: "kompeticija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompeticija"
+      acc: "kompeticijų"
+      gen: "kompeticije"
+      loc: "kompeticiji"
+      dat: "kompeticiji"
+      ins: "kompeticijejų"
+      voc: "kompeticijo"
+    plural: 
+      nom: "kompeticije"
+      acc: "kompeticije"
+      gen: "kompeticij"
+      loc: "kompeticijah"
+      dat: "kompeticijam"
+      ins: "kompeticijami"
+      voc: "kompeticije"

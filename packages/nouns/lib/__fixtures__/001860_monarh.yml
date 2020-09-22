@@ -1,0 +1,23 @@
+---
+  id: "1860"
+  word: "monarh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "monarh"
+      acc: "monarha"
+      gen: "monarha"
+      loc: "monarhu"
+      dat: "monarhu"
+      ins: "monarhom"
+      voc: "monarše"
+    plural: 
+      nom: "monarhi"
+      acc: "monarhov"
+      gen: "monarhov"
+      loc: "monarhah"
+      dat: "monarham"
+      ins: "monarhami"
+      voc: "monarhi"

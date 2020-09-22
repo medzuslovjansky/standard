@@ -1,0 +1,23 @@
+---
+  id: "1925"
+  word: "zęť"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zęť"
+      acc: "zęťa"
+      gen: "zęťa"
+      loc: "zęťu"
+      dat: "zęťu"
+      ins: "zęťem"
+      voc: "zęťu"
+    plural: 
+      nom: "zęti"
+      acc: "zęťev"
+      gen: "zęťev"
+      loc: "zęťah"
+      dat: "zęťam"
+      ins: "zęťami"
+      voc: "zęti"

@@ -1,0 +1,22 @@
+---
+  id: "24973"
+  word: "čemerica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čemerica"
+      acc: "čemericų"
+      gen: "čemerice"
+      loc: "čemerici"
+      dat: "čemerici"
+      ins: "čemericejų"
+      voc: "čemerico"
+    plural: 
+      nom: "čemerice"
+      acc: "čemerice"
+      gen: "čemeric"
+      loc: "čemericah"
+      dat: "čemericam"
+      ins: "čemericami"
+      voc: "čemerice"

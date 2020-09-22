@@ -1,0 +1,23 @@
+---
+  id: "6167"
+  word: "apostol"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "apostol"
+      acc: "apostola"
+      gen: "apostola"
+      loc: "apostolu"
+      dat: "apostolu"
+      ins: "apostolom"
+      voc: "apostole"
+    plural: 
+      nom: "apostoli"
+      acc: "apostolov"
+      gen: "apostolov"
+      loc: "apostolah"
+      dat: "apostolam"
+      ins: "apostolami"
+      voc: "apostoli"

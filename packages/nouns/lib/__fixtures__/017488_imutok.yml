@@ -1,0 +1,22 @@
+---
+  id: "17488"
+  word: "imųtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "imųtȯk"
+      acc: "imųtȯk"
+      gen: "imųtka"
+      loc: "imųtku"
+      dat: "imųtku"
+      ins: "imųtkom"
+      voc: "imųtče"
+    plural: 
+      nom: "imųtky"
+      acc: "imųtky"
+      gen: "imųtkov"
+      loc: "imųtkah"
+      dat: "imųtkam"
+      ins: "imųtkami"
+      voc: "imųtky"

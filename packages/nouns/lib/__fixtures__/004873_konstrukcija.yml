@@ -1,0 +1,22 @@
+---
+  id: "4873"
+  word: "konstrukcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konstrukcija"
+      acc: "konstrukcijų"
+      gen: "konstrukcije"
+      loc: "konstrukciji"
+      dat: "konstrukciji"
+      ins: "konstrukcijejų"
+      voc: "konstrukcijo"
+    plural: 
+      nom: "konstrukcije"
+      acc: "konstrukcije"
+      gen: "konstrukcij"
+      loc: "konstrukcijah"
+      dat: "konstrukcijam"
+      ins: "konstrukcijami"
+      voc: "konstrukcije"

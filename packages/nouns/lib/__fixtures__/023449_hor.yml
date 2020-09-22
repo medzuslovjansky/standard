@@ -1,0 +1,22 @@
+---
+  id: "23449"
+  word: "hor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hor"
+      acc: "hor"
+      gen: "hora"
+      loc: "horu"
+      dat: "horu"
+      ins: "horom"
+      voc: "hore"
+    plural: 
+      nom: "hory"
+      acc: "hory"
+      gen: "horov"
+      loc: "horah"
+      dat: "horam"
+      ins: "horami"
+      voc: "hory"

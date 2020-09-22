@@ -1,0 +1,22 @@
+---
+  id: "33697"
+  word: "rekviem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rekviem"
+      acc: "rekviem"
+      gen: "rekviema"
+      loc: "rekviemu"
+      dat: "rekviemu"
+      ins: "rekviemom"
+      voc: "rekvieme"
+    plural: 
+      nom: "rekviemy"
+      acc: "rekviemy"
+      gen: "rekviemov"
+      loc: "rekviemah"
+      dat: "rekviemam"
+      ins: "rekviemami"
+      voc: "rekviemy"

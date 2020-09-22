@@ -1,0 +1,15 @@
+---
+  id: "21265"
+  word: "bridž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bridž"
+      acc: "bridž"
+      gen: "bridža"
+      loc: "bridžu"
+      dat: "bridžu"
+      ins: "bridžem"
+      voc: "bridžu"

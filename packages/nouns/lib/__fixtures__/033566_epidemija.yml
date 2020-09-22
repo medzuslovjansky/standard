@@ -1,0 +1,22 @@
+---
+  id: "33566"
+  word: "epidemija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "epidemija"
+      acc: "epidemijų"
+      gen: "epidemije"
+      loc: "epidemiji"
+      dat: "epidemiji"
+      ins: "epidemijejų"
+      voc: "epidemijo"
+    plural: 
+      nom: "epidemije"
+      acc: "epidemije"
+      gen: "epidemij"
+      loc: "epidemijah"
+      dat: "epidemijam"
+      ins: "epidemijami"
+      voc: "epidemije"

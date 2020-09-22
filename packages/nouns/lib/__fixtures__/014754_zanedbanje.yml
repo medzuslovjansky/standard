@@ -1,0 +1,22 @@
+---
+  id: "14754"
+  word: "zanedbańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zanedbańje"
+      acc: "zanedbańje"
+      gen: "zanedbańja"
+      loc: "zanedbańju"
+      dat: "zanedbańju"
+      ins: "zanedbańjem"
+      voc: "zanedbańje"
+    plural: 
+      nom: "zanedbańja"
+      acc: "zanedbańja"
+      gen: "zanedbanij"
+      loc: "zanedbańjah"
+      dat: "zanedbańjam"
+      ins: "zanedbańjami"
+      voc: "zanedbańja"

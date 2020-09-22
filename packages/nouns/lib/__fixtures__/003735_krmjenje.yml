@@ -1,0 +1,22 @@
+---
+  id: "3735"
+  word: "krmjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krmjeńje"
+      acc: "krmjeńje"
+      gen: "krmjeńja"
+      loc: "krmjeńju"
+      dat: "krmjeńju"
+      ins: "krmjeńjem"
+      voc: "krmjeńje"
+    plural: 
+      nom: "krmjeńja"
+      acc: "krmjeńja"
+      gen: "krmjenij"
+      loc: "krmjeńjah"
+      dat: "krmjeńjam"
+      ins: "krmjeńjami"
+      voc: "krmjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "28628"
+  word: "njuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "njuh"
+      acc: "njuh"
+      gen: "njuha"
+      loc: "njuhu"
+      dat: "njuhu"
+      ins: "njuhom"
+      voc: "njuše"
+    plural: 
+      nom: "njuhy"
+      acc: "njuhy"
+      gen: "njuhov"
+      loc: "njuhah"
+      dat: "njuham"
+      ins: "njuhami"
+      voc: "njuhy"

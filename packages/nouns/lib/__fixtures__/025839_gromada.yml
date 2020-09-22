@@ -1,0 +1,22 @@
+---
+  id: "25839"
+  word: "gromada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gromada"
+      acc: "gromadų"
+      gen: "gromady"
+      loc: "gromadě"
+      dat: "gromadě"
+      ins: "gromadojų"
+      voc: "gromado"
+    plural: 
+      nom: "gromady"
+      acc: "gromady"
+      gen: "gromad"
+      loc: "gromadah"
+      dat: "gromadam"
+      ins: "gromadami"
+      voc: "gromady"

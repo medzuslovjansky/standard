@@ -1,0 +1,22 @@
+---
+  id: "852"
+  word: "krok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krok"
+      acc: "krok"
+      gen: "kroka"
+      loc: "kroku"
+      dat: "kroku"
+      ins: "krokom"
+      voc: "kroče"
+    plural: 
+      nom: "kroky"
+      acc: "kroky"
+      gen: "krokov"
+      loc: "krokah"
+      dat: "krokam"
+      ins: "krokami"
+      voc: "kroky"

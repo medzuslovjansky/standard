@@ -1,0 +1,22 @@
+---
+  id: "33088"
+  word: "kompakt-disk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kompakt-disk"
+      acc: "kompakt-disk"
+      gen: "kompakt-diska"
+      loc: "kompakt-disku"
+      dat: "kompakt-disku"
+      ins: "kompakt-diskom"
+      voc: "kompakt-disče"
+    plural: 
+      nom: "kompakt-disky"
+      acc: "kompakt-disky"
+      gen: "kompakt-diskov"
+      loc: "kompakt-diskah"
+      dat: "kompakt-diskam"
+      ins: "kompakt-diskami"
+      voc: "kompakt-disky"

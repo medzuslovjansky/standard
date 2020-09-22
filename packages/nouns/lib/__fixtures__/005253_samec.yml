@@ -1,0 +1,23 @@
+---
+  id: "5253"
+  word: "samec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "samec"
+      acc: "samca"
+      gen: "samca"
+      loc: "samcu"
+      dat: "samcu"
+      ins: "samcem"
+      voc: "samče"
+    plural: 
+      nom: "samci"
+      acc: "samcev"
+      gen: "samcev"
+      loc: "samcah"
+      dat: "samcam"
+      ins: "samcami"
+      voc: "samci"

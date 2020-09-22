@@ -1,0 +1,22 @@
+---
+  id: "19776"
+  word: "kategorizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kategorizacija"
+      acc: "kategorizacijų"
+      gen: "kategorizacije"
+      loc: "kategorizaciji"
+      dat: "kategorizaciji"
+      ins: "kategorizacijejų"
+      voc: "kategorizacijo"
+    plural: 
+      nom: "kategorizacije"
+      acc: "kategorizacije"
+      gen: "kategorizacij"
+      loc: "kategorizacijah"
+      dat: "kategorizacijam"
+      ins: "kategorizacijami"
+      voc: "kategorizacije"

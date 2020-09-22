@@ -1,0 +1,24 @@
+---
+  id: "2398"
+  word: "orel"
+  meta: 
+    irregularity: "(orla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "orėl"
+      acc: "orla"
+      gen: "orla"
+      loc: "orlu"
+      dat: "orlu"
+      ins: "orlom"
+      voc: "orle"
+    plural: 
+      nom: "orli"
+      acc: "orlov"
+      gen: "orlov"
+      loc: "orlah"
+      dat: "orlam"
+      ins: "orlami"
+      voc: "orli"

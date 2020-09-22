@@ -1,0 +1,22 @@
+---
+  id: "17957"
+  word: "nezavisnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nezavisnosť"
+      acc: "nezavisnosť"
+      gen: "nezavisnosti"
+      loc: "nezavisnosti"
+      dat: "nezavisnosti"
+      ins: "nezavisnosťjų"
+      voc: "nezavisnosti"
+    plural: 
+      nom: "nezavisnosti"
+      acc: "nezavisnosti"
+      gen: "nezavisnostij"
+      loc: "nezavisnosťah"
+      dat: "nezavisnosťam"
+      ins: "nezavisnosťami"
+      voc: "nezavisnosti"

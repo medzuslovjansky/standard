@@ -1,0 +1,22 @@
+---
+  id: "4123"
+  word: "popŕśje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "popŕśje"
+      acc: "popŕśje"
+      gen: "popŕśja"
+      loc: "popŕśju"
+      dat: "popŕśju"
+      ins: "popŕśjem"
+      voc: "popŕśje"
+    plural: 
+      nom: "popŕśja"
+      acc: "popŕśja"
+      gen: "popŕsij"
+      loc: "popŕśjah"
+      dat: "popŕśjam"
+      ins: "popŕśjami"
+      voc: "popŕśja"

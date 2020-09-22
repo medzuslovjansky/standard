@@ -1,0 +1,22 @@
+---
+  id: "2203"
+  word: "garnizon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "garnizon"
+      acc: "garnizon"
+      gen: "garnizona"
+      loc: "garnizonu"
+      dat: "garnizonu"
+      ins: "garnizonom"
+      voc: "garnizone"
+    plural: 
+      nom: "garnizony"
+      acc: "garnizony"
+      gen: "garnizonov"
+      loc: "garnizonah"
+      dat: "garnizonam"
+      ins: "garnizonami"
+      voc: "garnizony"

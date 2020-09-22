@@ -1,0 +1,22 @@
+---
+  id: "26213"
+  word: "izoglosa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izoglosa"
+      acc: "izoglosų"
+      gen: "izoglosy"
+      loc: "izoglosě"
+      dat: "izoglosě"
+      ins: "izoglosojų"
+      voc: "izogloso"
+    plural: 
+      nom: "izoglosy"
+      acc: "izoglosy"
+      gen: "izoglos"
+      loc: "izoglosah"
+      dat: "izoglosam"
+      ins: "izoglosami"
+      voc: "izoglosy"

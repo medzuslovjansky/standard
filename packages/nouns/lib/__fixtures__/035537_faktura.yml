@@ -1,0 +1,22 @@
+---
+  id: "35537"
+  word: "faktura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "faktura"
+      acc: "fakturų"
+      gen: "faktury"
+      loc: "fakturě"
+      dat: "fakturě"
+      ins: "fakturojų"
+      voc: "fakturo"
+    plural: 
+      nom: "faktury"
+      acc: "faktury"
+      gen: "faktur"
+      loc: "fakturah"
+      dat: "fakturam"
+      ins: "fakturami"
+      voc: "faktury"

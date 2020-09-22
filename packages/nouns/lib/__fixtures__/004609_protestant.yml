@@ -1,0 +1,23 @@
+---
+  id: "4609"
+  word: "protestant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "protestant"
+      acc: "protestanta"
+      gen: "protestanta"
+      loc: "protestantu"
+      dat: "protestantu"
+      ins: "protestantom"
+      voc: "protestante"
+    plural: 
+      nom: "protestanti"
+      acc: "protestantov"
+      gen: "protestantov"
+      loc: "protestantah"
+      dat: "protestantam"
+      ins: "protestantami"
+      voc: "protestanti"

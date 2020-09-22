@@ -1,0 +1,22 @@
+---
+  id: "32982"
+  word: "žętva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žętva"
+      acc: "žętvų"
+      gen: "žętvy"
+      loc: "žętvě"
+      dat: "žętvě"
+      ins: "žętvojų"
+      voc: "žętvo"
+    plural: 
+      nom: "žętvy"
+      acc: "žętvy"
+      gen: "žętv"
+      loc: "žętvah"
+      dat: "žętvam"
+      ins: "žętvami"
+      voc: "žętvy"

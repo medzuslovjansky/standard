@@ -1,0 +1,22 @@
+---
+  id: "20200"
+  word: "světoględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "světoględ"
+      acc: "světoględ"
+      gen: "světoględa"
+      loc: "světoględu"
+      dat: "světoględu"
+      ins: "světoględom"
+      voc: "světoględe"
+    plural: 
+      nom: "světoględy"
+      acc: "světoględy"
+      gen: "světoględov"
+      loc: "světoględah"
+      dat: "světoględam"
+      ins: "světoględami"
+      voc: "světoględy"

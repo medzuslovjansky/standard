@@ -1,0 +1,22 @@
+---
+  id: "2867"
+  word: "metoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "metoda"
+      acc: "metodų"
+      gen: "metody"
+      loc: "metodě"
+      dat: "metodě"
+      ins: "metodojų"
+      voc: "metodo"
+    plural: 
+      nom: "metody"
+      acc: "metody"
+      gen: "metod"
+      loc: "metodah"
+      dat: "metodam"
+      ins: "metodami"
+      voc: "metody"

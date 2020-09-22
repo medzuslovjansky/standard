@@ -1,0 +1,22 @@
+---
+  id: "5197"
+  word: "spaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spaljnja"
+      acc: "spaljnjų"
+      gen: "spaljnje"
+      loc: "spaljnji"
+      dat: "spaljnji"
+      ins: "spaljnjejų"
+      voc: "spaljnjo"
+    plural: 
+      nom: "spaljnje"
+      acc: "spaljnje"
+      gen: "spaljnej"
+      loc: "spaljnjah"
+      dat: "spaljnjam"
+      ins: "spaljnjami"
+      voc: "spaljnje"

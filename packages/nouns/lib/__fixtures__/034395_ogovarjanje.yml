@@ -1,0 +1,22 @@
+---
+  id: "34395"
+  word: "ogovarjańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ogovarjańje"
+      acc: "ogovarjańje"
+      gen: "ogovarjańja"
+      loc: "ogovarjańju"
+      dat: "ogovarjańju"
+      ins: "ogovarjańjem"
+      voc: "ogovarjańje"
+    plural: 
+      nom: "ogovarjańja"
+      acc: "ogovarjańja"
+      gen: "ogovarjanij"
+      loc: "ogovarjańjah"
+      dat: "ogovarjańjam"
+      ins: "ogovarjańjami"
+      voc: "ogovarjańja"

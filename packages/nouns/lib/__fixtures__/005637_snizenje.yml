@@ -1,0 +1,22 @@
+---
+  id: "5637"
+  word: "snižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "snižeńje"
+      acc: "snižeńje"
+      gen: "snižeńja"
+      loc: "snižeńju"
+      dat: "snižeńju"
+      ins: "snižeńjem"
+      voc: "snižeńje"
+    plural: 
+      nom: "snižeńja"
+      acc: "snižeńja"
+      gen: "sniženij"
+      loc: "snižeńjah"
+      dat: "snižeńjam"
+      ins: "snižeńjami"
+      voc: "snižeńja"

@@ -1,0 +1,23 @@
+---
+  id: "2577"
+  word: "hrt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hrt"
+      acc: "hrta"
+      gen: "hrta"
+      loc: "hrtu"
+      dat: "hrtu"
+      ins: "hrtom"
+      voc: "hrte"
+    plural: 
+      nom: "hrti"
+      acc: "hrtov"
+      gen: "hrtov"
+      loc: "hrtah"
+      dat: "hrtam"
+      ins: "hrtami"
+      voc: "hrti"

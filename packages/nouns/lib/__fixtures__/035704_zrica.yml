@@ -1,0 +1,22 @@
+---
+  id: "35704"
+  word: "žrica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žrica"
+      acc: "žricų"
+      gen: "žrice"
+      loc: "žrici"
+      dat: "žrici"
+      ins: "žricejų"
+      voc: "žrico"
+    plural: 
+      nom: "žrice"
+      acc: "žrice"
+      gen: "žric"
+      loc: "žricah"
+      dat: "žricam"
+      ins: "žricami"
+      voc: "žrice"

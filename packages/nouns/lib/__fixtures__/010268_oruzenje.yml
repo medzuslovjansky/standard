@@ -1,0 +1,22 @@
+---
+  id: "10268"
+  word: "orųžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "orųžeńje"
+      acc: "orųžeńje"
+      gen: "orųžeńja"
+      loc: "orųžeńju"
+      dat: "orųžeńju"
+      ins: "orųžeńjem"
+      voc: "orųžeńje"
+    plural: 
+      nom: "orųžeńja"
+      acc: "orųžeńja"
+      gen: "orųženij"
+      loc: "orųžeńjah"
+      dat: "orųžeńjam"
+      ins: "orųžeńjami"
+      voc: "orųžeńja"

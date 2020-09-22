@@ -1,0 +1,22 @@
+---
+  id: "5050"
+  word: "mȯlnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mȯlnja"
+      acc: "mȯlnjų"
+      gen: "mȯlnje"
+      loc: "mȯlnji"
+      dat: "mȯlnji"
+      ins: "mȯlnjejų"
+      voc: "mȯlnjo"
+    plural: 
+      nom: "mȯlnje"
+      acc: "mȯlnje"
+      gen: "mȯlnej"
+      loc: "mȯlnjah"
+      dat: "mȯlnjam"
+      ins: "mȯlnjami"
+      voc: "mȯlnje"

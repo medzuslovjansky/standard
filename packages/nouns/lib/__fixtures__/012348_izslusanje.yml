@@ -1,0 +1,22 @@
+---
+  id: "12348"
+  word: "izslušańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izslušańje"
+      acc: "izslušańje"
+      gen: "izslušańja"
+      loc: "izslušańju"
+      dat: "izslušańju"
+      ins: "izslušańjem"
+      voc: "izslušańje"
+    plural: 
+      nom: "izslušańja"
+      acc: "izslušańja"
+      gen: "izslušanij"
+      loc: "izslušańjah"
+      dat: "izslušańjam"
+      ins: "izslušańjami"
+      voc: "izslušańja"

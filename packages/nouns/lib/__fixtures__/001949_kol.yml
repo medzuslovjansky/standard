@@ -1,0 +1,22 @@
+---
+  id: "1949"
+  word: "kol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kol"
+      acc: "kol"
+      gen: "kola"
+      loc: "kolu"
+      dat: "kolu"
+      ins: "kolom"
+      voc: "kole"
+    plural: 
+      nom: "koly"
+      acc: "koly"
+      gen: "kolov"
+      loc: "kolah"
+      dat: "kolam"
+      ins: "kolami"
+      voc: "koly"

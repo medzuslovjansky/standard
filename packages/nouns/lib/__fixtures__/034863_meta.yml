@@ -1,0 +1,22 @@
+---
+  id: "34863"
+  word: "meta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "meta"
+      acc: "metų"
+      gen: "mety"
+      loc: "metě"
+      dat: "metě"
+      ins: "metojų"
+      voc: "meto"
+    plural: 
+      nom: "mety"
+      acc: "mety"
+      gen: "met"
+      loc: "metah"
+      dat: "metam"
+      ins: "metami"
+      voc: "mety"

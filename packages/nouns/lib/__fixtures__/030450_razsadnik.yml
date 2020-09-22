@@ -1,0 +1,22 @@
+---
+  id: "30450"
+  word: "råzsadnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzsadnik"
+      acc: "råzsadnik"
+      gen: "råzsadnika"
+      loc: "råzsadniku"
+      dat: "råzsadniku"
+      ins: "råzsadnikom"
+      voc: "råzsadniče"
+    plural: 
+      nom: "råzsadniky"
+      acc: "råzsadniky"
+      gen: "råzsadnikov"
+      loc: "råzsadnikah"
+      dat: "råzsadnikam"
+      ins: "råzsadnikami"
+      voc: "råzsadniky"

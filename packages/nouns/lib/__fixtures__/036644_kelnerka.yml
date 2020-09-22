@@ -1,0 +1,22 @@
+---
+  id: "36644"
+  word: "kelnerka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kelnerka"
+      acc: "kelnerkų"
+      gen: "kelnerky"
+      loc: "kelnerkě"
+      dat: "kelnerkě"
+      ins: "kelnerkojų"
+      voc: "kelnerko"
+    plural: 
+      nom: "kelnerky"
+      acc: "kelnerky"
+      gen: "kelnerȯk"
+      loc: "kelnerkah"
+      dat: "kelnerkam"
+      ins: "kelnerkami"
+      voc: "kelnerky"

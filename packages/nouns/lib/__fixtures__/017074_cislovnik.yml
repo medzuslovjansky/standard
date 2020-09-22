@@ -1,0 +1,22 @@
+---
+  id: "17074"
+  word: "čislovnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čislovnik"
+      acc: "čislovnik"
+      gen: "čislovnika"
+      loc: "čislovniku"
+      dat: "čislovniku"
+      ins: "čislovnikom"
+      voc: "čislovniče"
+    plural: 
+      nom: "čislovniky"
+      acc: "čislovniky"
+      gen: "čislovnikov"
+      loc: "čislovnikah"
+      dat: "čislovnikam"
+      ins: "čislovnikami"
+      voc: "čislovniky"

@@ -1,0 +1,22 @@
+---
+  id: "10098"
+  word: "odvožeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odvožeńje"
+      acc: "odvožeńje"
+      gen: "odvožeńja"
+      loc: "odvožeńju"
+      dat: "odvožeńju"
+      ins: "odvožeńjem"
+      voc: "odvožeńje"
+    plural: 
+      nom: "odvožeńja"
+      acc: "odvožeńja"
+      gen: "odvoženij"
+      loc: "odvožeńjah"
+      dat: "odvožeńjam"
+      ins: "odvožeńjami"
+      voc: "odvožeńja"

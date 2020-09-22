@@ -1,0 +1,22 @@
+---
+  id: "23052"
+  word: "vzajemnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vzajemnosť"
+      acc: "vzajemnosť"
+      gen: "vzajemnosti"
+      loc: "vzajemnosti"
+      dat: "vzajemnosti"
+      ins: "vzajemnosťjų"
+      voc: "vzajemnosti"
+    plural: 
+      nom: "vzajemnosti"
+      acc: "vzajemnosti"
+      gen: "vzajemnostij"
+      loc: "vzajemnosťah"
+      dat: "vzajemnosťam"
+      ins: "vzajemnosťami"
+      voc: "vzajemnosti"

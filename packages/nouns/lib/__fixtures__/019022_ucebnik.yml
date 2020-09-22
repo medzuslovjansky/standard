@@ -1,0 +1,22 @@
+---
+  id: "19022"
+  word: "učebnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "učebnik"
+      acc: "učebnik"
+      gen: "učebnika"
+      loc: "učebniku"
+      dat: "učebniku"
+      ins: "učebnikom"
+      voc: "učebniče"
+    plural: 
+      nom: "učebniky"
+      acc: "učebniky"
+      gen: "učebnikov"
+      loc: "učebnikah"
+      dat: "učebnikam"
+      ins: "učebnikami"
+      voc: "učebniky"

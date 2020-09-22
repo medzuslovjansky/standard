@@ -1,0 +1,22 @@
+---
+  id: "25882"
+  word: "gųsę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gųsę"
+      acc: "gųsę"
+      gen: "gųsęte / gųsęta"
+      loc: "gųsęti / gųsętu"
+      dat: "gųsęti / gųsętu"
+      ins: "gųsętem / gųsętom"
+      voc: "gųsę"
+    plural: 
+      nom: "gųsęta"
+      acc: "gųsęta"
+      gen: "gųsęt"
+      loc: "gųsętah"
+      dat: "gųsętam"
+      ins: "gųsętami"
+      voc: "gųsęta"

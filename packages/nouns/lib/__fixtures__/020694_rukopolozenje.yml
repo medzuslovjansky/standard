@@ -1,0 +1,22 @@
+---
+  id: "20694"
+  word: "rųkopoložeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rųkopoložeńje"
+      acc: "rųkopoložeńje"
+      gen: "rųkopoložeńja"
+      loc: "rųkopoložeńju"
+      dat: "rųkopoložeńju"
+      ins: "rųkopoložeńjem"
+      voc: "rųkopoložeńje"
+    plural: 
+      nom: "rųkopoložeńja"
+      acc: "rųkopoložeńja"
+      gen: "rųkopoloženij"
+      loc: "rųkopoložeńjah"
+      dat: "rųkopoložeńjam"
+      ins: "rųkopoložeńjami"
+      voc: "rųkopoložeńja"

@@ -1,0 +1,22 @@
+---
+  id: "23283"
+  word: "mitologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mitologija"
+      acc: "mitologijų"
+      gen: "mitologije"
+      loc: "mitologiji"
+      dat: "mitologiji"
+      ins: "mitologijejų"
+      voc: "mitologijo"
+    plural: 
+      nom: "mitologije"
+      acc: "mitologije"
+      gen: "mitologij"
+      loc: "mitologijah"
+      dat: "mitologijam"
+      ins: "mitologijami"
+      voc: "mitologije"

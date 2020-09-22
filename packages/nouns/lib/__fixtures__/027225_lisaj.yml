@@ -1,0 +1,22 @@
+---
+  id: "27225"
+  word: "lišaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lišaj"
+      acc: "lišaj"
+      gen: "lišaja"
+      loc: "lišaju"
+      dat: "lišaju"
+      ins: "lišajem"
+      voc: "lišaju"
+    plural: 
+      nom: "lišaje"
+      acc: "lišaje"
+      gen: "lišajev"
+      loc: "lišajah"
+      dat: "lišajam"
+      ins: "lišajami"
+      voc: "lišaje"

@@ -1,0 +1,22 @@
+---
+  id: "1346"
+  word: "plod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plod"
+      acc: "plod"
+      gen: "ploda"
+      loc: "plodu"
+      dat: "plodu"
+      ins: "plodom"
+      voc: "plode"
+    plural: 
+      nom: "plody"
+      acc: "plody"
+      gen: "plodov"
+      loc: "plodah"
+      dat: "plodam"
+      ins: "plodami"
+      voc: "plody"

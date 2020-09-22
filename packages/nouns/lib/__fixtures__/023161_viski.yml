@@ -1,0 +1,45 @@
+---
+  - 
+    id: "23161"
+    word: "viski"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "viski"
+        acc: "viskų"
+        gen: "viske"
+        loc: "viski"
+        dat: "viski"
+        ins: "viskejų"
+        voc: "visko"
+      plural: 
+        nom: "viske"
+        acc: "viske"
+        gen: "visȯk"
+        loc: "viskah"
+        dat: "viskam"
+        ins: "viskami"
+        voc: "viske"
+  - 
+    id: "23161"
+    word: "viski"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "viski"
+        acc: "viskų"
+        gen: "viske"
+        loc: "viski"
+        dat: "viski"
+        ins: "viskejų"
+        voc: "visko"
+      plural: 
+        nom: "viske"
+        acc: "viske"
+        gen: "visȯk"
+        loc: "viskah"
+        dat: "viskam"
+        ins: "viskami"
+        voc: "viske"

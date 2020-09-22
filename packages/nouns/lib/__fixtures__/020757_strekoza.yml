@@ -1,0 +1,22 @@
+---
+  id: "20757"
+  word: "strekoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strekoza"
+      acc: "strekozų"
+      gen: "strekozy"
+      loc: "strekozě"
+      dat: "strekozě"
+      ins: "strekozojų"
+      voc: "strekozo"
+    plural: 
+      nom: "strekozy"
+      acc: "strekozy"
+      gen: "strekoz"
+      loc: "strekozah"
+      dat: "strekozam"
+      ins: "strekozami"
+      voc: "strekozy"

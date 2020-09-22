@@ -1,0 +1,22 @@
+---
+  id: "19008"
+  word: "tjuŕma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tjuŕma"
+      acc: "tjuŕmų"
+      gen: "tjuŕmy"
+      loc: "tjuŕmě"
+      dat: "tjuŕmě"
+      ins: "tjuŕmojų"
+      voc: "tjuŕmo"
+    plural: 
+      nom: "tjuŕmy"
+      acc: "tjuŕmy"
+      gen: "tjuŕm"
+      loc: "tjuŕmah"
+      dat: "tjuŕmam"
+      ins: "tjuŕmami"
+      voc: "tjuŕmy"

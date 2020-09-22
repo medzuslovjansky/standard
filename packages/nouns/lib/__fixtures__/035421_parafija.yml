@@ -1,0 +1,22 @@
+---
+  id: "35421"
+  word: "parafija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "parafija"
+      acc: "parafijų"
+      gen: "parafije"
+      loc: "parafiji"
+      dat: "parafiji"
+      ins: "parafijejų"
+      voc: "parafijo"
+    plural: 
+      nom: "parafije"
+      acc: "parafije"
+      gen: "parafij"
+      loc: "parafijah"
+      dat: "parafijam"
+      ins: "parafijami"
+      voc: "parafije"

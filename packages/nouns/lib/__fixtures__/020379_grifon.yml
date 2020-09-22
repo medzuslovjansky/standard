@@ -1,0 +1,23 @@
+---
+  id: "20379"
+  word: "grifon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grifon"
+      acc: "grifona"
+      gen: "grifona"
+      loc: "grifonu"
+      dat: "grifonu"
+      ins: "grifonom"
+      voc: "grifone"
+    plural: 
+      nom: "grifoni"
+      acc: "grifonov"
+      gen: "grifonov"
+      loc: "grifonah"
+      dat: "grifonam"
+      ins: "grifonami"
+      voc: "grifoni"

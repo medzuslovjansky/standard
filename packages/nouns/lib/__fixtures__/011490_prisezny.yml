@@ -1,0 +1,24 @@
+---
+  id: "11490"
+  word: "prisęžny"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prisęžny"
+      acc: "prisęžnogo"
+      gen: "prisęžnogo"
+      loc: "prisęžnom"
+      dat: "prisęžnomu"
+      ins: "prisęžnym"
+      voc: "prisęžny"
+    plural: 
+      nom: "prisęžni"
+      acc: "prisęžnyh"
+      gen: "prisęžnyh"
+      loc: "prisęžnyh"
+      dat: "prisęžnym"
+      ins: "prisęžnymi"
+      voc: "prisęžni"

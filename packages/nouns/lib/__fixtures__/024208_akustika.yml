@@ -1,0 +1,22 @@
+---
+  id: "24208"
+  word: "akustika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akustika"
+      acc: "akustikų"
+      gen: "akustiky"
+      loc: "akustikě"
+      dat: "akustikě"
+      ins: "akustikojų"
+      voc: "akustiko"
+    plural: 
+      nom: "akustiky"
+      acc: "akustiky"
+      gen: "akustik"
+      loc: "akustikah"
+      dat: "akustikam"
+      ins: "akustikami"
+      voc: "akustiky"

@@ -1,0 +1,22 @@
+---
+  id: "2624"
+  word: "definicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "definicija"
+      acc: "definicijų"
+      gen: "definicije"
+      loc: "definiciji"
+      dat: "definiciji"
+      ins: "definicijejų"
+      voc: "definicijo"
+    plural: 
+      nom: "definicije"
+      acc: "definicije"
+      gen: "definicij"
+      loc: "definicijah"
+      dat: "definicijam"
+      ins: "definicijami"
+      voc: "definicije"

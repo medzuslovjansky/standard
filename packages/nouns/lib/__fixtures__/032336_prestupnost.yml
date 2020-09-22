@@ -1,0 +1,22 @@
+---
+  id: "32336"
+  word: "prěstųpnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěstųpnosť"
+      acc: "prěstųpnosť"
+      gen: "prěstųpnosti"
+      loc: "prěstųpnosti"
+      dat: "prěstųpnosti"
+      ins: "prěstųpnosťjų"
+      voc: "prěstųpnosti"
+    plural: 
+      nom: "prěstųpnosti"
+      acc: "prěstųpnosti"
+      gen: "prěstųpnostij"
+      loc: "prěstųpnosťah"
+      dat: "prěstųpnosťam"
+      ins: "prěstųpnosťami"
+      voc: "prěstųpnosti"

@@ -1,0 +1,22 @@
+---
+  id: "23851"
+  word: "inventarizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inventarizacija"
+      acc: "inventarizacijų"
+      gen: "inventarizacije"
+      loc: "inventarizaciji"
+      dat: "inventarizaciji"
+      ins: "inventarizacijejų"
+      voc: "inventarizacijo"
+    plural: 
+      nom: "inventarizacije"
+      acc: "inventarizacije"
+      gen: "inventarizacij"
+      loc: "inventarizacijah"
+      dat: "inventarizacijam"
+      ins: "inventarizacijami"
+      voc: "inventarizacije"

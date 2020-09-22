@@ -1,0 +1,22 @@
+---
+  id: "380"
+  word: "plåmenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plåmen / plåmenj"
+      acc: "plåmen / plåmenj"
+      gen: "plåmene / plåmenja"
+      loc: "plåmeni / plåmenju"
+      dat: "plåmeni / plåmenju"
+      ins: "plåmenem / plåmenjem"
+      voc: "plåmen / plåmenju"
+    plural: 
+      nom: "plåmeni / plåmenje"
+      acc: "plåmeni / plåmenje"
+      gen: "plåmenev / plåmenjev"
+      loc: "plåmenah / plåmenjah"
+      dat: "plåmenam / plåmenjam"
+      ins: "plåmenami / plåmenjami"
+      voc: "plåmeni / plåmenje"

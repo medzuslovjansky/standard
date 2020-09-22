@@ -1,0 +1,22 @@
+---
+  id: "36446"
+  word: "podtip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podtip"
+      acc: "podtip"
+      gen: "podtipa"
+      loc: "podtipu"
+      dat: "podtipu"
+      ins: "podtipom"
+      voc: "podtipe"
+    plural: 
+      nom: "podtipy"
+      acc: "podtipy"
+      gen: "podtipov"
+      loc: "podtipah"
+      dat: "podtipam"
+      ins: "podtipami"
+      voc: "podtipy"

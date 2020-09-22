@@ -1,0 +1,22 @@
+---
+  id: "15205"
+  word: "zagadka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zagadka"
+      acc: "zagadkų"
+      gen: "zagadky"
+      loc: "zagadkě"
+      dat: "zagadkě"
+      ins: "zagadkojų"
+      voc: "zagadko"
+    plural: 
+      nom: "zagadky"
+      acc: "zagadky"
+      gen: "zagadȯk"
+      loc: "zagadkah"
+      dat: "zagadkam"
+      ins: "zagadkami"
+      voc: "zagadky"

@@ -1,0 +1,22 @@
+---
+  id: "25511"
+  word: "formovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "formovańje"
+      acc: "formovańje"
+      gen: "formovańja"
+      loc: "formovańju"
+      dat: "formovańju"
+      ins: "formovańjem"
+      voc: "formovańje"
+    plural: 
+      nom: "formovańja"
+      acc: "formovańja"
+      gen: "formovanij"
+      loc: "formovańjah"
+      dat: "formovańjam"
+      ins: "formovańjami"
+      voc: "formovańja"

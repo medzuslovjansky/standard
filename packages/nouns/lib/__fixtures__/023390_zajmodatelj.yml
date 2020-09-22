@@ -1,0 +1,23 @@
+---
+  id: "23390"
+  word: "zajmodatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zajmodatelj"
+      acc: "zajmodatelja"
+      gen: "zajmodatelja"
+      loc: "zajmodatelju"
+      dat: "zajmodatelju"
+      ins: "zajmodateljem"
+      voc: "zajmodatelju"
+    plural: 
+      nom: "zajmodatelji"
+      acc: "zajmodateljev"
+      gen: "zajmodateljev"
+      loc: "zajmodateljah"
+      dat: "zajmodateljam"
+      ins: "zajmodateljami"
+      voc: "zajmodatelji"

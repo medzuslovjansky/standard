@@ -1,0 +1,22 @@
+---
+  id: "20574"
+  word: "odliv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odliv"
+      acc: "odliv"
+      gen: "odliva"
+      loc: "odlivu"
+      dat: "odlivu"
+      ins: "odlivom"
+      voc: "odlive"
+    plural: 
+      nom: "odlivy"
+      acc: "odlivy"
+      gen: "odlivov"
+      loc: "odlivah"
+      dat: "odlivam"
+      ins: "odlivami"
+      voc: "odlivy"

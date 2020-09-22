@@ -1,0 +1,15 @@
+---
+  id: "13644"
+  word: "vędneńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vędneńje"
+      acc: "vędneńje"
+      gen: "vędneńja"
+      loc: "vędneńju"
+      dat: "vędneńju"
+      ins: "vędneńjem"
+      voc: "vędneńje"

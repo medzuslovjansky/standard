@@ -1,0 +1,22 @@
+---
+  id: "6130"
+  word: "akcent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akcent"
+      acc: "akcent"
+      gen: "akcenta"
+      loc: "akcentu"
+      dat: "akcentu"
+      ins: "akcentom"
+      voc: "akcente"
+    plural: 
+      nom: "akcenty"
+      acc: "akcenty"
+      gen: "akcentov"
+      loc: "akcentah"
+      dat: "akcentam"
+      ins: "akcentami"
+      voc: "akcenty"

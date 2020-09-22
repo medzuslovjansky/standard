@@ -1,0 +1,15 @@
+---
+  id: "25155"
+  word: "decembr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "decembr"
+      acc: "decembr"
+      gen: "decembra"
+      loc: "decembru"
+      dat: "decembru"
+      ins: "decembrom"
+      voc: "decembre"

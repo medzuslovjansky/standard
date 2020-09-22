@@ -1,0 +1,22 @@
+---
+  id: "1251"
+  word: "rešta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rešta"
+      acc: "reštų"
+      gen: "rešty"
+      loc: "reště"
+      dat: "reště"
+      ins: "reštojų"
+      voc: "rešto"
+    plural: 
+      nom: "rešty"
+      acc: "rešty"
+      gen: "rešt"
+      loc: "reštah"
+      dat: "reštam"
+      ins: "reštami"
+      voc: "rešty"

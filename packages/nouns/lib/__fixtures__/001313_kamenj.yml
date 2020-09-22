@@ -1,0 +1,22 @@
+---
+  id: "1313"
+  word: "kamenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kamen / kamenj"
+      acc: "kamen / kamenj"
+      gen: "kamene / kamenja"
+      loc: "kameni / kamenju"
+      dat: "kameni / kamenju"
+      ins: "kamenem / kamenjem"
+      voc: "kamen / kamenju"
+    plural: 
+      nom: "kameni / kamenje"
+      acc: "kameni / kamenje"
+      gen: "kamenev / kamenjev"
+      loc: "kamenah / kamenjah"
+      dat: "kamenam / kamenjam"
+      ins: "kamenami / kamenjami"
+      voc: "kameni / kamenje"

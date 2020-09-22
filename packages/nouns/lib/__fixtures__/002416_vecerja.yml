@@ -1,0 +1,22 @@
+---
+  id: "2416"
+  word: "večerja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "večerja"
+      acc: "večerjų"
+      gen: "večerje"
+      loc: "večerji"
+      dat: "večerji"
+      ins: "večerjejų"
+      voc: "večerjo"
+    plural: 
+      nom: "večerje"
+      acc: "večerje"
+      gen: "večerej"
+      loc: "večerjah"
+      dat: "večerjam"
+      ins: "večerjami"
+      voc: "večerje"

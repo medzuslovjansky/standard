@@ -1,0 +1,15 @@
+---
+  id: "408"
+  word: "Španija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Španija"
+      acc: "Španijų"
+      gen: "Španije"
+      loc: "Španiji"
+      dat: "Španiji"
+      ins: "Španijejų"
+      voc: "Španijo"

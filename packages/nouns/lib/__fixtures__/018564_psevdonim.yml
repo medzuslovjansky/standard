@@ -1,0 +1,22 @@
+---
+  id: "18564"
+  word: "psevdonim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "psevdonim"
+      acc: "psevdonim"
+      gen: "psevdonima"
+      loc: "psevdonimu"
+      dat: "psevdonimu"
+      ins: "psevdonimom"
+      voc: "psevdonime"
+    plural: 
+      nom: "psevdonimy"
+      acc: "psevdonimy"
+      gen: "psevdonimov"
+      loc: "psevdonimah"
+      dat: "psevdonimam"
+      ins: "psevdonimami"
+      voc: "psevdonimy"

@@ -1,0 +1,15 @@
+---
+  id: "3031"
+  word: "Dagestan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Dagestan"
+      acc: "Dagestan"
+      gen: "Dagestana"
+      loc: "Dagestanu"
+      dat: "Dagestanu"
+      ins: "Dagestanom"
+      voc: "Dagestane"

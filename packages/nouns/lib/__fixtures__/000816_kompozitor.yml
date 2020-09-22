@@ -1,0 +1,23 @@
+---
+  id: "816"
+  word: "kompozitor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kompozitor"
+      acc: "kompozitora"
+      gen: "kompozitora"
+      loc: "kompozitoru"
+      dat: "kompozitoru"
+      ins: "kompozitorom"
+      voc: "kompozitore"
+    plural: 
+      nom: "kompozitori"
+      acc: "kompozitorov"
+      gen: "kompozitorov"
+      loc: "kompozitorah"
+      dat: "kompozitoram"
+      ins: "kompozitorami"
+      voc: "kompozitori"

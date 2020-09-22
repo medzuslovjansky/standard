@@ -1,0 +1,22 @@
+---
+  id: "15011"
+  word: "slovničstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "slovničstvo"
+      acc: "slovničstvo"
+      gen: "slovničstva"
+      loc: "slovničstvu"
+      dat: "slovničstvu"
+      ins: "slovničstvom"
+      voc: "slovničstvo"
+    plural: 
+      nom: "slovničstva"
+      acc: "slovničstva"
+      gen: "slovničstv"
+      loc: "slovničstvah"
+      dat: "slovničstvam"
+      ins: "slovničstvami"
+      voc: "slovničstva"

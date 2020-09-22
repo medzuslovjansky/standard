@@ -1,0 +1,22 @@
+---
+  id: "24925"
+  word: "cirkulj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cirkulj"
+      acc: "cirkulj"
+      gen: "cirkulja"
+      loc: "cirkulju"
+      dat: "cirkulju"
+      ins: "cirkuljem"
+      voc: "cirkulju"
+    plural: 
+      nom: "cirkulje"
+      acc: "cirkulje"
+      gen: "cirkuljev"
+      loc: "cirkuljah"
+      dat: "cirkuljam"
+      ins: "cirkuljami"
+      voc: "cirkulje"

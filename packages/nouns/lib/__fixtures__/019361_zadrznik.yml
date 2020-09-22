@@ -1,0 +1,22 @@
+---
+  id: "19361"
+  word: "zadŕžnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zadŕžnik"
+      acc: "zadŕžnik"
+      gen: "zadŕžnika"
+      loc: "zadŕžniku"
+      dat: "zadŕžniku"
+      ins: "zadŕžnikom"
+      voc: "zadŕžniče"
+    plural: 
+      nom: "zadŕžniky"
+      acc: "zadŕžniky"
+      gen: "zadŕžnikov"
+      loc: "zadŕžnikah"
+      dat: "zadŕžnikam"
+      ins: "zadŕžnikami"
+      voc: "zadŕžniky"

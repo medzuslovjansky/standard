@@ -1,0 +1,22 @@
+---
+  id: "15059"
+  word: "svojnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svojnosť"
+      acc: "svojnosť"
+      gen: "svojnosti"
+      loc: "svojnosti"
+      dat: "svojnosti"
+      ins: "svojnosťjų"
+      voc: "svojnosti"
+    plural: 
+      nom: "svojnosti"
+      acc: "svojnosti"
+      gen: "svojnostij"
+      loc: "svojnosťah"
+      dat: "svojnosťam"
+      ins: "svojnosťami"
+      voc: "svojnosti"

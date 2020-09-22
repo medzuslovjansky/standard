@@ -1,0 +1,22 @@
+---
+  id: "31750"
+  word: "palačinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palačinka"
+      acc: "palačinkų"
+      gen: "palačinky"
+      loc: "palačinkě"
+      dat: "palačinkě"
+      ins: "palačinkojų"
+      voc: "palačinko"
+    plural: 
+      nom: "palačinky"
+      acc: "palačinky"
+      gen: "palačinȯk"
+      loc: "palačinkah"
+      dat: "palačinkam"
+      ins: "palačinkami"
+      voc: "palačinky"

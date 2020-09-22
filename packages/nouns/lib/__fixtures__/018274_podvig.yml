@@ -1,0 +1,22 @@
+---
+  id: "18274"
+  word: "podvig"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podvig"
+      acc: "podvig"
+      gen: "podviga"
+      loc: "podvigu"
+      dat: "podvigu"
+      ins: "podvigom"
+      voc: "podviže"
+    plural: 
+      nom: "podvigy"
+      acc: "podvigy"
+      gen: "podvigov"
+      loc: "podvigah"
+      dat: "podvigam"
+      ins: "podvigami"
+      voc: "podvigy"

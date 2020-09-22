@@ -1,0 +1,22 @@
+---
+  id: "32556"
+  word: "apostrof"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "apostrof"
+      acc: "apostrof"
+      gen: "apostrofa"
+      loc: "apostrofu"
+      dat: "apostrofu"
+      ins: "apostrofom"
+      voc: "apostrofe"
+    plural: 
+      nom: "apostrofy"
+      acc: "apostrofy"
+      gen: "apostrofov"
+      loc: "apostrofah"
+      dat: "apostrofam"
+      ins: "apostrofami"
+      voc: "apostrofy"

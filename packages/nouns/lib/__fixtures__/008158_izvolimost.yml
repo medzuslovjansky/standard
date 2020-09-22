@@ -1,0 +1,22 @@
+---
+  id: "8158"
+  word: "izvolimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izvolimosť"
+      acc: "izvolimosť"
+      gen: "izvolimosti"
+      loc: "izvolimosti"
+      dat: "izvolimosti"
+      ins: "izvolimosťjų"
+      voc: "izvolimosti"
+    plural: 
+      nom: "izvolimosti"
+      acc: "izvolimosti"
+      gen: "izvolimostij"
+      loc: "izvolimosťah"
+      dat: "izvolimosťam"
+      ins: "izvolimosťami"
+      voc: "izvolimosti"

@@ -1,0 +1,22 @@
+---
+  id: "18982"
+  word: "topišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "topišče"
+      acc: "topišče"
+      gen: "topišča"
+      loc: "topišču"
+      dat: "topišču"
+      ins: "topiščem"
+      voc: "topišče"
+    plural: 
+      nom: "topišča"
+      acc: "topišča"
+      gen: "topišč"
+      loc: "topiščah"
+      dat: "topiščam"
+      ins: "topiščami"
+      voc: "topišča"

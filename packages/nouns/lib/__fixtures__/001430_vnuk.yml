@@ -1,0 +1,23 @@
+---
+  id: "1430"
+  word: "vnuk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vnuk"
+      acc: "vnuka"
+      gen: "vnuka"
+      loc: "vnuku"
+      dat: "vnuku"
+      ins: "vnukom"
+      voc: "vnuče"
+    plural: 
+      nom: "vnuki"
+      acc: "vnukov"
+      gen: "vnukov"
+      loc: "vnukah"
+      dat: "vnukam"
+      ins: "vnukami"
+      voc: "vnuki"

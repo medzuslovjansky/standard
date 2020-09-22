@@ -1,0 +1,22 @@
+---
+  id: "36051"
+  word: "ovråtnik"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ovråtnik"
+      acc: "ovråtnik"
+      gen: "ovråtniki"
+      loc: "ovråtniki"
+      dat: "ovråtniki"
+      ins: "ovråtnikjų"
+      voc: "ovråtniki"
+    plural: 
+      nom: "ovråtniki"
+      acc: "ovråtniki"
+      gen: "ovråtnikij"
+      loc: "ovråtnikah"
+      dat: "ovråtnikam"
+      ins: "ovråtnikami"
+      voc: "ovråtniki"

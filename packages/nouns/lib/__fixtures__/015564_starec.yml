@@ -1,0 +1,23 @@
+---
+  id: "15564"
+  word: "starec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "starec"
+      acc: "starca"
+      gen: "starca"
+      loc: "starcu"
+      dat: "starcu"
+      ins: "starcem"
+      voc: "starče"
+    plural: 
+      nom: "starci"
+      acc: "starcev"
+      gen: "starcev"
+      loc: "starcah"
+      dat: "starcam"
+      ins: "starcami"
+      voc: "starci"

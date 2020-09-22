@@ -1,0 +1,22 @@
+---
+  id: "17558"
+  word: "ejakulat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ejakulat"
+      acc: "ejakulat"
+      gen: "ejakulata"
+      loc: "ejakulatu"
+      dat: "ejakulatu"
+      ins: "ejakulatom"
+      voc: "ejakulate"
+    plural: 
+      nom: "ejakulaty"
+      acc: "ejakulaty"
+      gen: "ejakulatov"
+      loc: "ejakulatah"
+      dat: "ejakulatam"
+      ins: "ejakulatami"
+      voc: "ejakulaty"

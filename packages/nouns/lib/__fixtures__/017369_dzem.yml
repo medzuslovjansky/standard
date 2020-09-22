@@ -1,0 +1,22 @@
+---
+  id: "17369"
+  word: "džem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "džem"
+      acc: "džem"
+      gen: "džema"
+      loc: "džemu"
+      dat: "džemu"
+      ins: "džemom"
+      voc: "džeme"
+    plural: 
+      nom: "džemy"
+      acc: "džemy"
+      gen: "džemov"
+      loc: "džemah"
+      dat: "džemam"
+      ins: "džemami"
+      voc: "džemy"

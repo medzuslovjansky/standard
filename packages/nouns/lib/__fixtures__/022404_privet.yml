@@ -1,0 +1,22 @@
+---
+  id: "22404"
+  word: "privět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "privět"
+      acc: "privět"
+      gen: "privěta"
+      loc: "privětu"
+      dat: "privětu"
+      ins: "privětom"
+      voc: "privěte"
+    plural: 
+      nom: "privěty"
+      acc: "privěty"
+      gen: "privětov"
+      loc: "privětah"
+      dat: "privětam"
+      ins: "privětami"
+      voc: "privěty"

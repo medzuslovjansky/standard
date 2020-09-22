@@ -1,0 +1,22 @@
+---
+  id: "36312"
+  word: "vějaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vějaŕ"
+      acc: "vějaŕ"
+      gen: "vějaŕa"
+      loc: "vějaŕu"
+      dat: "vějaŕu"
+      ins: "vějaŕem"
+      voc: "vějaŕu"
+    plural: 
+      nom: "vějaŕe"
+      acc: "vějaŕe"
+      gen: "vějaŕev"
+      loc: "vějaŕah"
+      dat: "vějaŕam"
+      ins: "vějaŕami"
+      voc: "vějaŕe"

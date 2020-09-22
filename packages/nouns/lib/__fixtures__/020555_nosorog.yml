@@ -1,0 +1,23 @@
+---
+  id: "20555"
+  word: "nosorog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nosorog"
+      acc: "nosoroga"
+      gen: "nosoroga"
+      loc: "nosorogu"
+      dat: "nosorogu"
+      ins: "nosorogom"
+      voc: "nosorože"
+    plural: 
+      nom: "nosorogi"
+      acc: "nosorogov"
+      gen: "nosorogov"
+      loc: "nosorogah"
+      dat: "nosorogam"
+      ins: "nosorogami"
+      voc: "nosorogi"

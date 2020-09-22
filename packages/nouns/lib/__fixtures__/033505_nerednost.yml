@@ -1,0 +1,22 @@
+---
+  id: "33505"
+  word: "nerędnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nerędnosť"
+      acc: "nerędnosť"
+      gen: "nerędnosti"
+      loc: "nerędnosti"
+      dat: "nerędnosti"
+      ins: "nerędnosťjų"
+      voc: "nerędnosti"
+    plural: 
+      nom: "nerędnosti"
+      acc: "nerędnosti"
+      gen: "nerędnostij"
+      loc: "nerędnosťah"
+      dat: "nerędnosťam"
+      ins: "nerędnosťami"
+      voc: "nerędnosti"

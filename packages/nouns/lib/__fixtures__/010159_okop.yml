@@ -1,0 +1,22 @@
+---
+  id: "10159"
+  word: "okop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "okop"
+      acc: "okop"
+      gen: "okopa"
+      loc: "okopu"
+      dat: "okopu"
+      ins: "okopom"
+      voc: "okope"
+    plural: 
+      nom: "okopy"
+      acc: "okopy"
+      gen: "okopov"
+      loc: "okopah"
+      dat: "okopam"
+      ins: "okopami"
+      voc: "okopy"

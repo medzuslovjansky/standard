@@ -1,0 +1,22 @@
+---
+  id: "6190"
+  word: "tęžba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tęžba"
+      acc: "tęžbų"
+      gen: "tęžby"
+      loc: "tęžbě"
+      dat: "tęžbě"
+      ins: "tęžbojų"
+      voc: "tęžbo"
+    plural: 
+      nom: "tęžby"
+      acc: "tęžby"
+      gen: "tęžb"
+      loc: "tęžbah"
+      dat: "tęžbam"
+      ins: "tęžbami"
+      voc: "tęžby"

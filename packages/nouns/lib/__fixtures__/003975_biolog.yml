@@ -1,0 +1,23 @@
+---
+  id: "3975"
+  word: "biolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "biolog"
+      acc: "biologa"
+      gen: "biologa"
+      loc: "biologu"
+      dat: "biologu"
+      ins: "biologom"
+      voc: "biolože"
+    plural: 
+      nom: "biologi"
+      acc: "biologov"
+      gen: "biologov"
+      loc: "biologah"
+      dat: "biologam"
+      ins: "biologami"
+      voc: "biologi"

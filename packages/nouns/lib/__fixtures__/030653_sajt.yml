@@ -1,0 +1,22 @@
+---
+  id: "30653"
+  word: "sajt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sajt"
+      acc: "sajt"
+      gen: "sajta"
+      loc: "sajtu"
+      dat: "sajtu"
+      ins: "sajtom"
+      voc: "sajte"
+    plural: 
+      nom: "sajty"
+      acc: "sajty"
+      gen: "sajtov"
+      loc: "sajtah"
+      dat: "sajtam"
+      ins: "sajtami"
+      voc: "sajty"

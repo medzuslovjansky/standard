@@ -1,0 +1,22 @@
+---
+  id: "23627"
+  word: "pop-muzika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pop-muzika"
+      acc: "pop-muzikų"
+      gen: "pop-muziky"
+      loc: "pop-muzikě"
+      dat: "pop-muzikě"
+      ins: "pop-muzikojų"
+      voc: "pop-muziko"
+    plural: 
+      nom: "pop-muziky"
+      acc: "pop-muziky"
+      gen: "pop-muzik"
+      loc: "pop-muzikah"
+      dat: "pop-muzikam"
+      ins: "pop-muzikami"
+      voc: "pop-muziky"

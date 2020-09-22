@@ -1,0 +1,22 @@
+---
+  id: "7438"
+  word: "ekran"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ekran"
+      acc: "ekran"
+      gen: "ekrana"
+      loc: "ekranu"
+      dat: "ekranu"
+      ins: "ekranom"
+      voc: "ekrane"
+    plural: 
+      nom: "ekrany"
+      acc: "ekrany"
+      gen: "ekranov"
+      loc: "ekranah"
+      dat: "ekranam"
+      ins: "ekranami"
+      voc: "ekrany"

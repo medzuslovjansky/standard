@@ -1,0 +1,22 @@
+---
+  id: "12106"
+  word: "sȯdŕžnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sȯdŕžnik"
+      acc: "sȯdŕžnik"
+      gen: "sȯdŕžnika"
+      loc: "sȯdŕžniku"
+      dat: "sȯdŕžniku"
+      ins: "sȯdŕžnikom"
+      voc: "sȯdŕžniče"
+    plural: 
+      nom: "sȯdŕžniky"
+      acc: "sȯdŕžniky"
+      gen: "sȯdŕžnikov"
+      loc: "sȯdŕžnikah"
+      dat: "sȯdŕžnikam"
+      ins: "sȯdŕžnikami"
+      voc: "sȯdŕžniky"

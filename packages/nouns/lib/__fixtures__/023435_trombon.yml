@@ -1,0 +1,22 @@
+---
+  id: "23435"
+  word: "trombon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trombon"
+      acc: "trombon"
+      gen: "trombona"
+      loc: "trombonu"
+      dat: "trombonu"
+      ins: "trombonom"
+      voc: "trombone"
+    plural: 
+      nom: "trombony"
+      acc: "trombony"
+      gen: "trombonov"
+      loc: "trombonah"
+      dat: "trombonam"
+      ins: "trombonami"
+      voc: "trombony"

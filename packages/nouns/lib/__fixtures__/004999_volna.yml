@@ -1,0 +1,22 @@
+---
+  id: "4999"
+  word: "vȯlna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯlna"
+      acc: "vȯlnų"
+      gen: "vȯlny"
+      loc: "vȯlně"
+      dat: "vȯlně"
+      ins: "vȯlnojų"
+      voc: "vȯlno"
+    plural: 
+      nom: "vȯlny"
+      acc: "vȯlny"
+      gen: "vȯln"
+      loc: "vȯlnah"
+      dat: "vȯlnam"
+      ins: "vȯlnami"
+      voc: "vȯlny"

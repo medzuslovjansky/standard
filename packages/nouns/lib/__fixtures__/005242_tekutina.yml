@@ -1,0 +1,22 @@
+---
+  id: "5242"
+  word: "tekųtina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tekųtina"
+      acc: "tekųtinų"
+      gen: "tekųtiny"
+      loc: "tekųtině"
+      dat: "tekųtině"
+      ins: "tekųtinojų"
+      voc: "tekųtino"
+    plural: 
+      nom: "tekųtiny"
+      acc: "tekųtiny"
+      gen: "tekųtin"
+      loc: "tekųtinah"
+      dat: "tekųtinam"
+      ins: "tekųtinami"
+      voc: "tekųtiny"

@@ -1,0 +1,22 @@
+---
+  id: "1129"
+  word: "pocělunȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pocělunȯk"
+      acc: "pocělunȯk"
+      gen: "pocělunka"
+      loc: "pocělunku"
+      dat: "pocělunku"
+      ins: "pocělunkom"
+      voc: "pocělunče"
+    plural: 
+      nom: "pocělunky"
+      acc: "pocělunky"
+      gen: "pocělunkov"
+      loc: "pocělunkah"
+      dat: "pocělunkam"
+      ins: "pocělunkami"
+      voc: "pocělunky"

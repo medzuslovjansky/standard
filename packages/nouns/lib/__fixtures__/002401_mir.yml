@@ -1,0 +1,15 @@
+---
+  id: "2401"
+  word: "mir"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mir"
+      acc: "mir"
+      gen: "mira"
+      loc: "miru"
+      dat: "miru"
+      ins: "mirom"
+      voc: "mire"

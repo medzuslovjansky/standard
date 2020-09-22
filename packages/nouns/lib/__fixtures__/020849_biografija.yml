@@ -1,0 +1,22 @@
+---
+  id: "20849"
+  word: "biografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "biografija"
+      acc: "biografijų"
+      gen: "biografije"
+      loc: "biografiji"
+      dat: "biografiji"
+      ins: "biografijejų"
+      voc: "biografijo"
+    plural: 
+      nom: "biografije"
+      acc: "biografije"
+      gen: "biografij"
+      loc: "biografijah"
+      dat: "biografijam"
+      ins: "biografijami"
+      voc: "biografije"

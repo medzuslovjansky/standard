@@ -1,0 +1,15 @@
+---
+  id: "4165"
+  word: "čutlivosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čutlivosť"
+      acc: "čutlivosť"
+      gen: "čutlivosti"
+      loc: "čutlivosti"
+      dat: "čutlivosti"
+      ins: "čutlivosťjų"
+      voc: "čutlivosti"

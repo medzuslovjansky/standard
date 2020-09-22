@@ -1,0 +1,22 @@
+---
+  id: "2326"
+  word: "presa-konferencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "presa-konferencija"
+      acc: "presa-konferencijų"
+      gen: "presa-konferencije"
+      loc: "presa-konferenciji"
+      dat: "presa-konferenciji"
+      ins: "presa-konferencijejų"
+      voc: "presa-konferencijo"
+    plural: 
+      nom: "presa-konferencije"
+      acc: "presa-konferencije"
+      gen: "presa-konferencij"
+      loc: "presa-konferencijah"
+      dat: "presa-konferencijam"
+      ins: "presa-konferencijami"
+      voc: "presa-konferencije"

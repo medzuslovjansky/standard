@@ -1,0 +1,22 @@
+---
+  id: "20850"
+  word: "boa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "boa"
+      acc: "boų"
+      gen: "boy"
+      loc: "boě"
+      dat: "boě"
+      ins: "boojų"
+      voc: "boo"
+    plural: 
+      nom: "boy"
+      acc: "boy"
+      gen: "bo"
+      loc: "boah"
+      dat: "boam"
+      ins: "boami"
+      voc: "boy"

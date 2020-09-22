@@ -1,0 +1,22 @@
+---
+  id: "32345"
+  word: "tajfun"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tajfun"
+      acc: "tajfun"
+      gen: "tajfuna"
+      loc: "tajfunu"
+      dat: "tajfunu"
+      ins: "tajfunom"
+      voc: "tajfune"
+    plural: 
+      nom: "tajfuny"
+      acc: "tajfuny"
+      gen: "tajfunov"
+      loc: "tajfunah"
+      dat: "tajfunam"
+      ins: "tajfunami"
+      voc: "tajfuny"

@@ -1,0 +1,22 @@
+---
+  id: "4231"
+  word: "postųpańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "postųpańje"
+      acc: "postųpańje"
+      gen: "postųpańja"
+      loc: "postųpańju"
+      dat: "postųpańju"
+      ins: "postųpańjem"
+      voc: "postųpańje"
+    plural: 
+      nom: "postųpańja"
+      acc: "postųpańja"
+      gen: "postųpanij"
+      loc: "postųpańjah"
+      dat: "postųpańjam"
+      ins: "postųpańjami"
+      voc: "postųpańja"

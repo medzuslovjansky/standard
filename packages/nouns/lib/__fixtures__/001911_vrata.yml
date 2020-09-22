@@ -1,0 +1,15 @@
+---
+  id: "1911"
+  word: "vråta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "vråta"
+      acc: "vråta"
+      gen: "vråt"
+      loc: "vråtah"
+      dat: "vråtam"
+      ins: "vråtami"
+      voc: "vråta"

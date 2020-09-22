@@ -1,0 +1,23 @@
+---
+  id: "5935"
+  word: "morjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "morjak"
+      acc: "morjaka"
+      gen: "morjaka"
+      loc: "morjaku"
+      dat: "morjaku"
+      ins: "morjakom"
+      voc: "morjače"
+    plural: 
+      nom: "morjaki"
+      acc: "morjakov"
+      gen: "morjakov"
+      loc: "morjakah"
+      dat: "morjakam"
+      ins: "morjakami"
+      voc: "morjaki"

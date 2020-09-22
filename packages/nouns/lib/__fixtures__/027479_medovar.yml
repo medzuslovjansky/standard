@@ -1,0 +1,23 @@
+---
+  id: "27479"
+  word: "medovar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medovar"
+      acc: "medovara"
+      gen: "medovara"
+      loc: "medovaru"
+      dat: "medovaru"
+      ins: "medovarom"
+      voc: "medovare"
+    plural: 
+      nom: "medovari"
+      acc: "medovarov"
+      gen: "medovarov"
+      loc: "medovarah"
+      dat: "medovaram"
+      ins: "medovarami"
+      voc: "medovari"

@@ -1,0 +1,22 @@
+---
+  id: "1243"
+  word: "reforma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reforma"
+      acc: "reformų"
+      gen: "reformy"
+      loc: "reformě"
+      dat: "reformě"
+      ins: "reformojų"
+      voc: "reformo"
+    plural: 
+      nom: "reformy"
+      acc: "reformy"
+      gen: "reform"
+      loc: "reformah"
+      dat: "reformam"
+      ins: "reformami"
+      voc: "reformy"

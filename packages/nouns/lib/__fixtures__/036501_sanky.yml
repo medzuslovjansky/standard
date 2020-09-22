@@ -1,0 +1,15 @@
+---
+  id: "36501"
+  word: "sańky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "sańky"
+      acc: "sańky"
+      gen: "sańk"
+      loc: "sańkah"
+      dat: "sańkam"
+      ins: "sańkami"
+      voc: "sańky"

@@ -1,0 +1,23 @@
+---
+  id: "5331"
+  word: "råb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råb"
+      acc: "råba"
+      gen: "råba"
+      loc: "råbu"
+      dat: "råbu"
+      ins: "råbom"
+      voc: "råbe"
+    plural: 
+      nom: "råbi"
+      acc: "råbov"
+      gen: "råbov"
+      loc: "råbah"
+      dat: "råbam"
+      ins: "råbami"
+      voc: "råbi"

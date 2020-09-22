@@ -1,0 +1,22 @@
+---
+  id: "23132"
+  word: "mahinacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mahinacija"
+      acc: "mahinacijų"
+      gen: "mahinacije"
+      loc: "mahinaciji"
+      dat: "mahinaciji"
+      ins: "mahinacijejų"
+      voc: "mahinacijo"
+    plural: 
+      nom: "mahinacije"
+      acc: "mahinacije"
+      gen: "mahinacij"
+      loc: "mahinacijah"
+      dat: "mahinacijam"
+      ins: "mahinacijami"
+      voc: "mahinacije"

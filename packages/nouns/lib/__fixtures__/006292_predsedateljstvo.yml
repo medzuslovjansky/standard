@@ -1,0 +1,15 @@
+---
+  id: "6292"
+  word: "prědsědateljstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prědsědateljstvo"
+      acc: "prědsědateljstvo"
+      gen: "prědsědateljstva"
+      loc: "prědsědateljstvu"
+      dat: "prědsědateljstvu"
+      ins: "prědsědateljstvom"
+      voc: "prědsědateljstvo"

@@ -1,0 +1,22 @@
+---
+  id: "1509"
+  word: "korisť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korisť"
+      acc: "korisť"
+      gen: "koristi"
+      loc: "koristi"
+      dat: "koristi"
+      ins: "korisťjų"
+      voc: "koristi"
+    plural: 
+      nom: "koristi"
+      acc: "koristi"
+      gen: "koristij"
+      loc: "korisťah"
+      dat: "korisťam"
+      ins: "korisťami"
+      voc: "koristi"

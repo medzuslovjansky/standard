@@ -1,0 +1,22 @@
+---
+  id: "10668"
+  word: "pocěluvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pocěluvka"
+      acc: "pocěluvkų"
+      gen: "pocěluvky"
+      loc: "pocěluvkě"
+      dat: "pocěluvkě"
+      ins: "pocěluvkojų"
+      voc: "pocěluvko"
+    plural: 
+      nom: "pocěluvky"
+      acc: "pocěluvky"
+      gen: "pocěluvȯk"
+      loc: "pocěluvkah"
+      dat: "pocěluvkam"
+      ins: "pocěluvkami"
+      voc: "pocěluvky"

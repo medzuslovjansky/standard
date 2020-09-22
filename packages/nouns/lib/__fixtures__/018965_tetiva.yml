@@ -1,0 +1,22 @@
+---
+  id: "18965"
+  word: "tętiva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tętiva"
+      acc: "tętivų"
+      gen: "tętivy"
+      loc: "tętivě"
+      dat: "tętivě"
+      ins: "tętivojų"
+      voc: "tętivo"
+    plural: 
+      nom: "tętivy"
+      acc: "tętivy"
+      gen: "tętiv"
+      loc: "tętivah"
+      dat: "tętivam"
+      ins: "tętivami"
+      voc: "tętivy"

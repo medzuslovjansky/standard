@@ -1,0 +1,22 @@
+---
+  id: "35243"
+  word: "diaspora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "diaspora"
+      acc: "diasporų"
+      gen: "diaspory"
+      loc: "diasporě"
+      dat: "diasporě"
+      ins: "diasporojų"
+      voc: "diasporo"
+    plural: 
+      nom: "diaspory"
+      acc: "diaspory"
+      gen: "diaspor"
+      loc: "diasporah"
+      dat: "diasporam"
+      ins: "diasporami"
+      voc: "diaspory"

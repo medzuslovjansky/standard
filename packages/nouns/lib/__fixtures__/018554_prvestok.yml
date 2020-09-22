@@ -1,0 +1,22 @@
+---
+  id: "18554"
+  word: "pŕvěstȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕvěstȯk"
+      acc: "pŕvěstȯk"
+      gen: "pŕvěstka"
+      loc: "pŕvěstku"
+      dat: "pŕvěstku"
+      ins: "pŕvěstkom"
+      voc: "pŕvěstče"
+    plural: 
+      nom: "pŕvěstky"
+      acc: "pŕvěstky"
+      gen: "pŕvěstkov"
+      loc: "pŕvěstkah"
+      dat: "pŕvěstkam"
+      ins: "pŕvěstkami"
+      voc: "pŕvěstky"

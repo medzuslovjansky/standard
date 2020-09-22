@@ -1,0 +1,22 @@
+---
+  id: "23423"
+  word: "piknik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "piknik"
+      acc: "piknik"
+      gen: "piknika"
+      loc: "pikniku"
+      dat: "pikniku"
+      ins: "piknikom"
+      voc: "pikniče"
+    plural: 
+      nom: "pikniky"
+      acc: "pikniky"
+      gen: "piknikov"
+      loc: "piknikah"
+      dat: "piknikam"
+      ins: "piknikami"
+      voc: "pikniky"

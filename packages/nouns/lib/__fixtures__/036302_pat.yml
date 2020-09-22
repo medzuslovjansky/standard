@@ -1,0 +1,22 @@
+---
+  id: "36302"
+  word: "pat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pat"
+      acc: "pat"
+      gen: "pata"
+      loc: "patu"
+      dat: "patu"
+      ins: "patom"
+      voc: "pate"
+    plural: 
+      nom: "paty"
+      acc: "paty"
+      gen: "patov"
+      loc: "patah"
+      dat: "patam"
+      ins: "patami"
+      voc: "paty"

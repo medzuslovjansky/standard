@@ -1,0 +1,22 @@
+---
+  id: "4843"
+  word: "proizhođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proizhođeńje"
+      acc: "proizhođeńje"
+      gen: "proizhođeńja"
+      loc: "proizhođeńju"
+      dat: "proizhođeńju"
+      ins: "proizhođeńjem"
+      voc: "proizhođeńje"
+    plural: 
+      nom: "proizhođeńja"
+      acc: "proizhođeńja"
+      gen: "proizhođenij"
+      loc: "proizhođeńjah"
+      dat: "proizhođeńjam"
+      ins: "proizhođeńjami"
+      voc: "proizhođeńja"

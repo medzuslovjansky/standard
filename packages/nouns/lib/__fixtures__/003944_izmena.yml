@@ -1,0 +1,22 @@
+---
+  id: "3944"
+  word: "izměna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izměna"
+      acc: "izměnų"
+      gen: "izměny"
+      loc: "izměně"
+      dat: "izměně"
+      ins: "izměnojų"
+      voc: "izměno"
+    plural: 
+      nom: "izměny"
+      acc: "izměny"
+      gen: "izměn"
+      loc: "izměnah"
+      dat: "izměnam"
+      ins: "izměnami"
+      voc: "izměny"

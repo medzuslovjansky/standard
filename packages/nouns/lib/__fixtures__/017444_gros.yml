@@ -1,0 +1,22 @@
+---
+  id: "17444"
+  word: "groš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "groš"
+      acc: "groš"
+      gen: "groša"
+      loc: "grošu"
+      dat: "grošu"
+      ins: "grošem"
+      voc: "grošu"
+    plural: 
+      nom: "groše"
+      acc: "groše"
+      gen: "grošev"
+      loc: "grošah"
+      dat: "grošam"
+      ins: "grošami"
+      voc: "groše"

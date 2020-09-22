@@ -1,0 +1,22 @@
+---
+  id: "21314"
+  word: "kariera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kariera"
+      acc: "karierų"
+      gen: "kariery"
+      loc: "karierě"
+      dat: "karierě"
+      ins: "karierojų"
+      voc: "kariero"
+    plural: 
+      nom: "kariery"
+      acc: "kariery"
+      gen: "karier"
+      loc: "karierah"
+      dat: "karieram"
+      ins: "karierami"
+      voc: "kariery"

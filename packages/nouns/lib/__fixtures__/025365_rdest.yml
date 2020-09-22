@@ -1,0 +1,22 @@
+---
+  id: "25365"
+  word: "rdest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rdest"
+      acc: "rdest"
+      gen: "rdesta"
+      loc: "rdestu"
+      dat: "rdestu"
+      ins: "rdestom"
+      voc: "rdeste"
+    plural: 
+      nom: "rdesty"
+      acc: "rdesty"
+      gen: "rdestov"
+      loc: "rdestah"
+      dat: "rdestam"
+      ins: "rdestami"
+      voc: "rdesty"

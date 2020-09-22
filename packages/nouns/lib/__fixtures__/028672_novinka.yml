@@ -1,0 +1,22 @@
+---
+  id: "28672"
+  word: "novinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "novinka"
+      acc: "novinkų"
+      gen: "novinky"
+      loc: "novinkě"
+      dat: "novinkě"
+      ins: "novinkojų"
+      voc: "novinko"
+    plural: 
+      nom: "novinky"
+      acc: "novinky"
+      gen: "novinȯk"
+      loc: "novinkah"
+      dat: "novinkam"
+      ins: "novinkami"
+      voc: "novinky"

@@ -1,0 +1,22 @@
+---
+  id: "36800"
+  word: "prědigra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědigra"
+      acc: "prědigrų"
+      gen: "prědigry"
+      loc: "prědigrě"
+      dat: "prědigrě"
+      ins: "prědigrojų"
+      voc: "prědigro"
+    plural: 
+      nom: "prědigry"
+      acc: "prědigry"
+      gen: "prědigr"
+      loc: "prědigrah"
+      dat: "prědigram"
+      ins: "prědigrami"
+      voc: "prědigry"

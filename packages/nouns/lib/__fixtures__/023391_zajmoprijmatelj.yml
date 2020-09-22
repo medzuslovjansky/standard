@@ -1,0 +1,23 @@
+---
+  id: "23391"
+  word: "zajmoprijmatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zajmoprijmatelj"
+      acc: "zajmoprijmatelja"
+      gen: "zajmoprijmatelja"
+      loc: "zajmoprijmatelju"
+      dat: "zajmoprijmatelju"
+      ins: "zajmoprijmateljem"
+      voc: "zajmoprijmatelju"
+    plural: 
+      nom: "zajmoprijmatelji"
+      acc: "zajmoprijmateljev"
+      gen: "zajmoprijmateljev"
+      loc: "zajmoprijmateljah"
+      dat: "zajmoprijmateljam"
+      ins: "zajmoprijmateljami"
+      voc: "zajmoprijmatelji"

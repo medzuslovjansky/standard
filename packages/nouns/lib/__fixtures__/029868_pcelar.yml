@@ -1,0 +1,23 @@
+---
+  id: "29868"
+  word: "pčelaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pčelaŕ"
+      acc: "pčelaŕa"
+      gen: "pčelaŕa"
+      loc: "pčelaŕu"
+      dat: "pčelaŕu"
+      ins: "pčelaŕem"
+      voc: "pčelaŕu"
+    plural: 
+      nom: "pčelari"
+      acc: "pčelaŕev"
+      gen: "pčelaŕev"
+      loc: "pčelaŕah"
+      dat: "pčelaŕam"
+      ins: "pčelaŕami"
+      voc: "pčelari"

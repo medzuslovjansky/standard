@@ -1,0 +1,22 @@
+---
+  id: "35536"
+  word: "aluzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aluzija"
+      acc: "aluzijų"
+      gen: "aluzije"
+      loc: "aluziji"
+      dat: "aluziji"
+      ins: "aluzijejų"
+      voc: "aluzijo"
+    plural: 
+      nom: "aluzije"
+      acc: "aluzije"
+      gen: "aluzij"
+      loc: "aluzijah"
+      dat: "aluzijam"
+      ins: "aluzijami"
+      voc: "aluzije"

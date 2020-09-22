@@ -1,0 +1,22 @@
+---
+  id: "26640"
+  word: "koničina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koničina"
+      acc: "koničinų"
+      gen: "koničiny"
+      loc: "koničině"
+      dat: "koničině"
+      ins: "koničinojų"
+      voc: "koničino"
+    plural: 
+      nom: "koničiny"
+      acc: "koničiny"
+      gen: "koničin"
+      loc: "koničinah"
+      dat: "koničinam"
+      ins: "koničinami"
+      voc: "koničiny"

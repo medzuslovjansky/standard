@@ -1,0 +1,23 @@
+---
+  id: "16062"
+  word: "prěvråtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěvråtnik"
+      acc: "prěvråtnika"
+      gen: "prěvråtnika"
+      loc: "prěvråtniku"
+      dat: "prěvråtniku"
+      ins: "prěvråtnikom"
+      voc: "prěvråtniče"
+    plural: 
+      nom: "prěvråtniki"
+      acc: "prěvråtnikov"
+      gen: "prěvråtnikov"
+      loc: "prěvråtnikah"
+      dat: "prěvråtnikam"
+      ins: "prěvråtnikami"
+      voc: "prěvråtniki"

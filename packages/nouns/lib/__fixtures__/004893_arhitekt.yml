@@ -1,0 +1,23 @@
+---
+  id: "4893"
+  word: "arhitekt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "arhitekt"
+      acc: "arhitekta"
+      gen: "arhitekta"
+      loc: "arhitektu"
+      dat: "arhitektu"
+      ins: "arhitektom"
+      voc: "arhitekte"
+    plural: 
+      nom: "arhitekti"
+      acc: "arhitektov"
+      gen: "arhitektov"
+      loc: "arhitektah"
+      dat: "arhitektam"
+      ins: "arhitektami"
+      voc: "arhitekti"

@@ -1,0 +1,22 @@
+---
+  id: "24334"
+  word: "avanpost"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avanpost"
+      acc: "avanpost"
+      gen: "avanposta"
+      loc: "avanpostu"
+      dat: "avanpostu"
+      ins: "avanpostom"
+      voc: "avanposte"
+    plural: 
+      nom: "avanposty"
+      acc: "avanposty"
+      gen: "avanpostov"
+      loc: "avanpostah"
+      dat: "avanpostam"
+      ins: "avanpostami"
+      voc: "avanposty"

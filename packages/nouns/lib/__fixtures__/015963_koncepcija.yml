@@ -1,0 +1,22 @@
+---
+  id: "15963"
+  word: "koncepcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koncepcija"
+      acc: "koncepcijų"
+      gen: "koncepcije"
+      loc: "koncepciji"
+      dat: "koncepciji"
+      ins: "koncepcijejų"
+      voc: "koncepcijo"
+    plural: 
+      nom: "koncepcije"
+      acc: "koncepcije"
+      gen: "koncepcij"
+      loc: "koncepcijah"
+      dat: "koncepcijam"
+      ins: "koncepcijami"
+      voc: "koncepcije"

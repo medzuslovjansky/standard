@@ -1,0 +1,22 @@
+---
+  id: "21426"
+  word: "podrobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podrobnosť"
+      acc: "podrobnosť"
+      gen: "podrobnosti"
+      loc: "podrobnosti"
+      dat: "podrobnosti"
+      ins: "podrobnosťjų"
+      voc: "podrobnosti"
+    plural: 
+      nom: "podrobnosti"
+      acc: "podrobnosti"
+      gen: "podrobnostij"
+      loc: "podrobnosťah"
+      dat: "podrobnosťam"
+      ins: "podrobnosťami"
+      voc: "podrobnosti"

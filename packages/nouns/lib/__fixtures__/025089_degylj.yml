@@ -1,0 +1,22 @@
+---
+  id: "25089"
+  word: "dęgylj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dęgylj"
+      acc: "dęgylj"
+      gen: "dęgylja"
+      loc: "dęgylju"
+      dat: "dęgylju"
+      ins: "dęgyljem"
+      voc: "dęgylju"
+    plural: 
+      nom: "dęgylje"
+      acc: "dęgylje"
+      gen: "dęgyljev"
+      loc: "dęgyljah"
+      dat: "dęgyljam"
+      ins: "dęgyljami"
+      voc: "dęgylje"

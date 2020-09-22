@@ -1,0 +1,22 @@
+---
+  id: "944"
+  word: "paljto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "paljto"
+      acc: "paljto"
+      gen: "paljta"
+      loc: "paljtu"
+      dat: "paljtu"
+      ins: "paljtom"
+      voc: "paljto"
+    plural: 
+      nom: "paljta"
+      acc: "paljta"
+      gen: "paljt"
+      loc: "paljtah"
+      dat: "paljtam"
+      ins: "paljtami"
+      voc: "paljta"

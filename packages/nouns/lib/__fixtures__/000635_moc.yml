@@ -1,0 +1,22 @@
+---
+  id: "635"
+  word: "moć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moć"
+      acc: "moć"
+      gen: "moći"
+      loc: "moći"
+      dat: "moći"
+      ins: "moćjų"
+      voc: "moći"
+    plural: 
+      nom: "moći"
+      acc: "moći"
+      gen: "moćij"
+      loc: "moćah"
+      dat: "moćam"
+      ins: "moćami"
+      voc: "moći"

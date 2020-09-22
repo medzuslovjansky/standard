@@ -1,0 +1,23 @@
+---
+  id: "1361"
+  word: "slovo"
+  meta: 
+    irregularity: "(slova/slovese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "slovo"
+      acc: "slovo"
+      gen: "slova / slovese"
+      loc: "slovu / slovesi"
+      dat: "slovu / slovesi"
+      ins: "slovom / slovesem"
+      voc: "slovo"
+    plural: 
+      nom: "slova / slovesa"
+      acc: "slova / slovesa"
+      gen: "slov / sloves"
+      loc: "slovah / slovesah"
+      dat: "slovam / slovesam"
+      ins: "slovami / slovesami"
+      voc: "slova / slovesa"

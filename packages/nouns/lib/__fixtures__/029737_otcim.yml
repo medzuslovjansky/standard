@@ -1,0 +1,23 @@
+---
+  id: "29737"
+  word: "otčim"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "otčim"
+      acc: "otčima"
+      gen: "otčima"
+      loc: "otčimu"
+      dat: "otčimu"
+      ins: "otčimom"
+      voc: "otčime"
+    plural: 
+      nom: "otčimi"
+      acc: "otčimov"
+      gen: "otčimov"
+      loc: "otčimah"
+      dat: "otčimam"
+      ins: "otčimami"
+      voc: "otčimi"

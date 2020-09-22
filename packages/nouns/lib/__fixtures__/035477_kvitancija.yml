@@ -1,0 +1,22 @@
+---
+  id: "35477"
+  word: "kvitancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvitancija"
+      acc: "kvitancijų"
+      gen: "kvitancije"
+      loc: "kvitanciji"
+      dat: "kvitanciji"
+      ins: "kvitancijejų"
+      voc: "kvitancijo"
+    plural: 
+      nom: "kvitancije"
+      acc: "kvitancije"
+      gen: "kvitancij"
+      loc: "kvitancijah"
+      dat: "kvitancijam"
+      ins: "kvitancijami"
+      voc: "kvitancije"

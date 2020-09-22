@@ -1,0 +1,23 @@
+---
+  id: "16728"
+  word: "tradicionalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tradicionalist"
+      acc: "tradicionalista"
+      gen: "tradicionalista"
+      loc: "tradicionalistu"
+      dat: "tradicionalistu"
+      ins: "tradicionalistom"
+      voc: "tradicionaliste"
+    plural: 
+      nom: "tradicionalisti"
+      acc: "tradicionalistov"
+      gen: "tradicionalistov"
+      loc: "tradicionalistah"
+      dat: "tradicionalistam"
+      ins: "tradicionalistami"
+      voc: "tradicionalisti"

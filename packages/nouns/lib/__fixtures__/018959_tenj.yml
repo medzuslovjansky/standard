@@ -1,0 +1,45 @@
+---
+  - 
+    id: "18959"
+    word: "těnj"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "těnj"
+        acc: "těnj"
+        gen: "těnja"
+        loc: "těnju"
+        dat: "těnju"
+        ins: "těnjem"
+        voc: "těnju"
+      plural: 
+        nom: "těnje"
+        acc: "těnje"
+        gen: "těnjev"
+        loc: "těnjah"
+        dat: "těnjam"
+        ins: "těnjami"
+        voc: "těnje"
+  - 
+    id: "18959"
+    word: "těnj"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "těnj"
+        acc: "těnj"
+        gen: "těnji"
+        loc: "těnji"
+        dat: "těnji"
+        ins: "těnjjų"
+        voc: "těnji"
+      plural: 
+        nom: "těnji"
+        acc: "těnji"
+        gen: "těnjij"
+        loc: "těnjah"
+        dat: "těnjam"
+        ins: "těnjami"
+        voc: "těnji"

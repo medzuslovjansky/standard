@@ -1,0 +1,23 @@
+---
+  id: "16912"
+  word: "pŕvak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pŕvak"
+      acc: "pŕvaka"
+      gen: "pŕvaka"
+      loc: "pŕvaku"
+      dat: "pŕvaku"
+      ins: "pŕvakom"
+      voc: "pŕvače"
+    plural: 
+      nom: "pŕvaki"
+      acc: "pŕvakov"
+      gen: "pŕvakov"
+      loc: "pŕvakah"
+      dat: "pŕvakam"
+      ins: "pŕvakami"
+      voc: "pŕvaki"

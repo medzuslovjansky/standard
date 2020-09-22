@@ -1,0 +1,22 @@
+---
+  id: "30739"
+  word: "sȯbrańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯbrańje"
+      acc: "sȯbrańje"
+      gen: "sȯbrańja"
+      loc: "sȯbrańju"
+      dat: "sȯbrańju"
+      ins: "sȯbrańjem"
+      voc: "sȯbrańje"
+    plural: 
+      nom: "sȯbrańja"
+      acc: "sȯbrańja"
+      gen: "sȯbranij"
+      loc: "sȯbrańjah"
+      dat: "sȯbrańjam"
+      ins: "sȯbrańjami"
+      voc: "sȯbrańja"

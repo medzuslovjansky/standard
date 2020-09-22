@@ -1,0 +1,22 @@
+---
+  id: "23373"
+  word: "spaseńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "spaseńje"
+      acc: "spaseńje"
+      gen: "spaseńja"
+      loc: "spaseńju"
+      dat: "spaseńju"
+      ins: "spaseńjem"
+      voc: "spaseńje"
+    plural: 
+      nom: "spaseńja"
+      acc: "spaseńja"
+      gen: "spasenij"
+      loc: "spaseńjah"
+      dat: "spaseńjam"
+      ins: "spaseńjami"
+      voc: "spaseńja"

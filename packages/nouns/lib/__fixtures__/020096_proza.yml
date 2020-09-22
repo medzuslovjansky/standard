@@ -1,0 +1,22 @@
+---
+  id: "20096"
+  word: "proza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "proza"
+      acc: "prozų"
+      gen: "prozy"
+      loc: "prozě"
+      dat: "prozě"
+      ins: "prozojų"
+      voc: "prozo"
+    plural: 
+      nom: "prozy"
+      acc: "prozy"
+      gen: "proz"
+      loc: "prozah"
+      dat: "prozam"
+      ins: "prozami"
+      voc: "prozy"

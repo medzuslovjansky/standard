@@ -1,0 +1,22 @@
+---
+  id: "5222"
+  word: "samica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samica"
+      acc: "samicų"
+      gen: "samice"
+      loc: "samici"
+      dat: "samici"
+      ins: "samicejų"
+      voc: "samico"
+    plural: 
+      nom: "samice"
+      acc: "samice"
+      gen: "samic"
+      loc: "samicah"
+      dat: "samicam"
+      ins: "samicami"
+      voc: "samice"

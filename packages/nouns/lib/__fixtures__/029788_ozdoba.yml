@@ -1,0 +1,22 @@
+---
+  id: "29788"
+  word: "ozdoba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ozdoba"
+      acc: "ozdobų"
+      gen: "ozdoby"
+      loc: "ozdobě"
+      dat: "ozdobě"
+      ins: "ozdobojų"
+      voc: "ozdobo"
+    plural: 
+      nom: "ozdoby"
+      acc: "ozdoby"
+      gen: "ozdob"
+      loc: "ozdobah"
+      dat: "ozdobam"
+      ins: "ozdobami"
+      voc: "ozdoby"

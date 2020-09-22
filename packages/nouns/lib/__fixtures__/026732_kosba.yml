@@ -1,0 +1,22 @@
+---
+  id: "26732"
+  word: "kośba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kośba"
+      acc: "kośbų"
+      gen: "kośby"
+      loc: "kośbě"
+      dat: "kośbě"
+      ins: "kośbojų"
+      voc: "kośbo"
+    plural: 
+      nom: "kośby"
+      acc: "kośby"
+      gen: "kośb"
+      loc: "kośbah"
+      dat: "kośbam"
+      ins: "kośbami"
+      voc: "kośby"

@@ -1,0 +1,22 @@
+---
+  id: "31189"
+  word: "vikunja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vikunja"
+      acc: "vikunjų"
+      gen: "vikunje"
+      loc: "vikunji"
+      dat: "vikunji"
+      ins: "vikunjejų"
+      voc: "vikunjo"
+    plural: 
+      nom: "vikunje"
+      acc: "vikunje"
+      gen: "vikunej"
+      loc: "vikunjah"
+      dat: "vikunjam"
+      ins: "vikunjami"
+      voc: "vikunje"

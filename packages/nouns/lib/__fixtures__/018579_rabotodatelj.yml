@@ -1,0 +1,23 @@
+---
+  id: "18579"
+  word: "råbotodatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råbotodatelj"
+      acc: "råbotodatelja"
+      gen: "råbotodatelja"
+      loc: "råbotodatelju"
+      dat: "råbotodatelju"
+      ins: "råbotodateljem"
+      voc: "råbotodatelju"
+    plural: 
+      nom: "råbotodatelji"
+      acc: "råbotodateljev"
+      gen: "råbotodateljev"
+      loc: "råbotodateljah"
+      dat: "råbotodateljam"
+      ins: "råbotodateljami"
+      voc: "råbotodatelji"

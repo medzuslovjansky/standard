@@ -1,0 +1,22 @@
+---
+  id: "35560"
+  word: "laboratorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "laboratorija"
+      acc: "laboratorijų"
+      gen: "laboratorije"
+      loc: "laboratoriji"
+      dat: "laboratoriji"
+      ins: "laboratorijejų"
+      voc: "laboratorijo"
+    plural: 
+      nom: "laboratorije"
+      acc: "laboratorije"
+      gen: "laboratorij"
+      loc: "laboratorijah"
+      dat: "laboratorijam"
+      ins: "laboratorijami"
+      voc: "laboratorije"

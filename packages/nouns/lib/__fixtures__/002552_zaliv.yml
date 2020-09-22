@@ -1,0 +1,22 @@
+---
+  id: "2552"
+  word: "zaliv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zaliv"
+      acc: "zaliv"
+      gen: "zaliva"
+      loc: "zalivu"
+      dat: "zalivu"
+      ins: "zalivom"
+      voc: "zalive"
+    plural: 
+      nom: "zalivy"
+      acc: "zalivy"
+      gen: "zalivov"
+      loc: "zalivah"
+      dat: "zalivam"
+      ins: "zalivami"
+      voc: "zalivy"

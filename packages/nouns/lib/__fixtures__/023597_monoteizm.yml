@@ -1,0 +1,15 @@
+---
+  id: "23597"
+  word: "monoteizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "monoteizm"
+      acc: "monoteizm"
+      gen: "monoteizma"
+      loc: "monoteizmu"
+      dat: "monoteizmu"
+      ins: "monoteizmom"
+      voc: "monoteizme"

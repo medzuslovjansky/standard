@@ -1,0 +1,22 @@
+---
+  id: "27639"
+  word: "mlådež"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådež"
+      acc: "mlådež"
+      gen: "mlådeži"
+      loc: "mlådeži"
+      dat: "mlådeži"
+      ins: "mlådežjų"
+      voc: "mlådeži"
+    plural: 
+      nom: "mlådeži"
+      acc: "mlådeži"
+      gen: "mlådežij"
+      loc: "mlådežah"
+      dat: "mlådežam"
+      ins: "mlådežami"
+      voc: "mlådeži"

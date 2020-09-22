@@ -1,0 +1,22 @@
+---
+  id: "2886"
+  word: "lodka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lodka"
+      acc: "lodkų"
+      gen: "lodky"
+      loc: "lodkě"
+      dat: "lodkě"
+      ins: "lodkojų"
+      voc: "lodko"
+    plural: 
+      nom: "lodky"
+      acc: "lodky"
+      gen: "lodȯk"
+      loc: "lodkah"
+      dat: "lodkam"
+      ins: "lodkami"
+      voc: "lodky"

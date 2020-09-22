@@ -1,0 +1,22 @@
+---
+  id: "2116"
+  word: "kopyto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kopyto"
+      acc: "kopyto"
+      gen: "kopyta"
+      loc: "kopytu"
+      dat: "kopytu"
+      ins: "kopytom"
+      voc: "kopyto"
+    plural: 
+      nom: "kopyta"
+      acc: "kopyta"
+      gen: "kopyt"
+      loc: "kopytah"
+      dat: "kopytam"
+      ins: "kopytami"
+      voc: "kopyta"

@@ -1,0 +1,22 @@
+---
+  id: "1878"
+  word: "mylo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mylo"
+      acc: "mylo"
+      gen: "myla"
+      loc: "mylu"
+      dat: "mylu"
+      ins: "mylom"
+      voc: "mylo"
+    plural: 
+      nom: "myla"
+      acc: "myla"
+      gen: "myl"
+      loc: "mylah"
+      dat: "mylam"
+      ins: "mylami"
+      voc: "myla"

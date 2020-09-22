@@ -1,0 +1,22 @@
+---
+  id: "396"
+  word: "medsestra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medsestra"
+      acc: "medsestrų"
+      gen: "medsestry"
+      loc: "medsestrě"
+      dat: "medsestrě"
+      ins: "medsestrojų"
+      voc: "medsestro"
+    plural: 
+      nom: "medsestry"
+      acc: "medsestry"
+      gen: "medsestr"
+      loc: "medsestrah"
+      dat: "medsestram"
+      ins: "medsestrami"
+      voc: "medsestry"

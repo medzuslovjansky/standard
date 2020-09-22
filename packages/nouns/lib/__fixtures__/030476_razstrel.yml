@@ -1,0 +1,22 @@
+---
+  id: "30476"
+  word: "råzstrěl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzstrěl"
+      acc: "råzstrěl"
+      gen: "råzstrěla"
+      loc: "råzstrělu"
+      dat: "råzstrělu"
+      ins: "råzstrělom"
+      voc: "råzstrěle"
+    plural: 
+      nom: "råzstrěly"
+      acc: "råzstrěly"
+      gen: "råzstrělov"
+      loc: "råzstrělah"
+      dat: "råzstrělam"
+      ins: "råzstrělami"
+      voc: "råzstrěly"

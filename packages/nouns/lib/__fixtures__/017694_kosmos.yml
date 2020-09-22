@@ -1,0 +1,22 @@
+---
+  id: "17694"
+  word: "kosmos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kosmos"
+      acc: "kosmos"
+      gen: "kosmosa"
+      loc: "kosmosu"
+      dat: "kosmosu"
+      ins: "kosmosom"
+      voc: "kosmose"
+    plural: 
+      nom: "kosmosy"
+      acc: "kosmosy"
+      gen: "kosmosov"
+      loc: "kosmosah"
+      dat: "kosmosam"
+      ins: "kosmosami"
+      voc: "kosmosy"

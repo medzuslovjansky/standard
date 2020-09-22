@@ -1,0 +1,15 @@
+---
+  id: "23200"
+  word: "opij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "opij"
+      acc: "opij"
+      gen: "opija"
+      loc: "opiju"
+      dat: "opiju"
+      ins: "opijem"
+      voc: "opiju"

@@ -1,0 +1,22 @@
+---
+  id: "2006"
+  word: "infekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "infekcija"
+      acc: "infekcijų"
+      gen: "infekcije"
+      loc: "infekciji"
+      dat: "infekciji"
+      ins: "infekcijejų"
+      voc: "infekcijo"
+    plural: 
+      nom: "infekcije"
+      acc: "infekcije"
+      gen: "infekcij"
+      loc: "infekcijah"
+      dat: "infekcijam"
+      ins: "infekcijami"
+      voc: "infekcije"

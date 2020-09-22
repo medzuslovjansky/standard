@@ -1,0 +1,22 @@
+---
+  id: "20089"
+  word: "produkcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "produkcija"
+      acc: "produkcijų"
+      gen: "produkcije"
+      loc: "produkciji"
+      dat: "produkciji"
+      ins: "produkcijejų"
+      voc: "produkcijo"
+    plural: 
+      nom: "produkcije"
+      acc: "produkcije"
+      gen: "produkcij"
+      loc: "produkcijah"
+      dat: "produkcijam"
+      ins: "produkcijami"
+      voc: "produkcije"

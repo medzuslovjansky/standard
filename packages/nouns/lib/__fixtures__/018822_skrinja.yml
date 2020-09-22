@@ -1,0 +1,22 @@
+---
+  id: "18822"
+  word: "skrinja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skrinja"
+      acc: "skrinjų"
+      gen: "skrinje"
+      loc: "skrinji"
+      dat: "skrinji"
+      ins: "skrinjejų"
+      voc: "skrinjo"
+    plural: 
+      nom: "skrinje"
+      acc: "skrinje"
+      gen: "skrinej"
+      loc: "skrinjah"
+      dat: "skrinjam"
+      ins: "skrinjami"
+      voc: "skrinje"

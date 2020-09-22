@@ -1,0 +1,22 @@
+---
+  id: "17436"
+  word: "grafitka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grafitka"
+      acc: "grafitkų"
+      gen: "grafitky"
+      loc: "grafitkě"
+      dat: "grafitkě"
+      ins: "grafitkojų"
+      voc: "grafitko"
+    plural: 
+      nom: "grafitky"
+      acc: "grafitky"
+      gen: "grafitȯk"
+      loc: "grafitkah"
+      dat: "grafitkam"
+      ins: "grafitkami"
+      voc: "grafitky"

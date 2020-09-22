@@ -1,0 +1,22 @@
+---
+  id: "3761"
+  word: "ofis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ofis"
+      acc: "ofis"
+      gen: "ofisa"
+      loc: "ofisu"
+      dat: "ofisu"
+      ins: "ofisom"
+      voc: "ofise"
+    plural: 
+      nom: "ofisy"
+      acc: "ofisy"
+      gen: "ofisov"
+      loc: "ofisah"
+      dat: "ofisam"
+      ins: "ofisami"
+      voc: "ofisy"

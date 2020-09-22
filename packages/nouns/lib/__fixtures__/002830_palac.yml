@@ -1,0 +1,22 @@
+---
+  id: "2830"
+  word: "palac"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "palac"
+      acc: "palac"
+      gen: "palaca"
+      loc: "palacu"
+      dat: "palacu"
+      ins: "palacem"
+      voc: "palacu"
+    plural: 
+      nom: "palace"
+      acc: "palace"
+      gen: "palacev"
+      loc: "palacah"
+      dat: "palacam"
+      ins: "palacami"
+      voc: "palace"

@@ -1,0 +1,22 @@
+---
+  id: "5064"
+  word: "žrtva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žrtva"
+      acc: "žrtvų"
+      gen: "žrtvy"
+      loc: "žrtvě"
+      dat: "žrtvě"
+      ins: "žrtvojų"
+      voc: "žrtvo"
+    plural: 
+      nom: "žrtvy"
+      acc: "žrtvy"
+      gen: "žrtv"
+      loc: "žrtvah"
+      dat: "žrtvam"
+      ins: "žrtvami"
+      voc: "žrtvy"

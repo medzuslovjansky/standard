@@ -1,0 +1,22 @@
+---
+  id: "18563"
+  word: "pryšč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pryšč"
+      acc: "pryšč"
+      gen: "pryšča"
+      loc: "pryšču"
+      dat: "pryšču"
+      ins: "pryščem"
+      voc: "pryšču"
+    plural: 
+      nom: "pryšče"
+      acc: "pryšče"
+      gen: "pryščev"
+      loc: "pryščah"
+      dat: "pryščam"
+      ins: "pryščami"
+      voc: "pryšče"

@@ -1,0 +1,22 @@
+---
+  id: "23014"
+  word: "milimetr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "milimetr"
+      acc: "milimetr"
+      gen: "milimetra"
+      loc: "milimetru"
+      dat: "milimetru"
+      ins: "milimetrom"
+      voc: "milimetre"
+    plural: 
+      nom: "milimetry"
+      acc: "milimetry"
+      gen: "milimetrov"
+      loc: "milimetrah"
+      dat: "milimetram"
+      ins: "milimetrami"
+      voc: "milimetry"

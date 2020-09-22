@@ -1,0 +1,23 @@
+---
+  id: "1969"
+  word: "tigr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tigr"
+      acc: "tigra"
+      gen: "tigra"
+      loc: "tigru"
+      dat: "tigru"
+      ins: "tigrom"
+      voc: "tigre"
+    plural: 
+      nom: "tigri"
+      acc: "tigrov"
+      gen: "tigrov"
+      loc: "tigrah"
+      dat: "tigram"
+      ins: "tigrami"
+      voc: "tigri"

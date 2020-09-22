@@ -1,0 +1,22 @@
+---
+  id: "36771"
+  word: "toponim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "toponim"
+      acc: "toponim"
+      gen: "toponima"
+      loc: "toponimu"
+      dat: "toponimu"
+      ins: "toponimom"
+      voc: "toponime"
+    plural: 
+      nom: "toponimy"
+      acc: "toponimy"
+      gen: "toponimov"
+      loc: "toponimah"
+      dat: "toponimam"
+      ins: "toponimami"
+      voc: "toponimy"

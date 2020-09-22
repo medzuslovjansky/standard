@@ -1,0 +1,23 @@
+---
+  id: "22830"
+  word: "znajema"
+  meta: 
+    irregularity: "(znajemoj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "znajema"
+      acc: "znajemų"
+      gen: "znajemoj"
+      loc: "znajemoj"
+      dat: "znajemoj"
+      ins: "znajemojų"
+      voc: "znajema"
+    plural: 
+      nom: "znajeme"
+      acc: "znajeme"
+      gen: "znajemyh"
+      loc: "znajemyh"
+      dat: "znajemym"
+      ins: "znajemymi"
+      voc: "znajeme"

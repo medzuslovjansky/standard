@@ -1,0 +1,22 @@
+---
+  id: "33085"
+  word: "blokflejta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blokflejta"
+      acc: "blokflejtų"
+      gen: "blokflejty"
+      loc: "blokflejtě"
+      dat: "blokflejtě"
+      ins: "blokflejtojų"
+      voc: "blokflejto"
+    plural: 
+      nom: "blokflejty"
+      acc: "blokflejty"
+      gen: "blokflejt"
+      loc: "blokflejtah"
+      dat: "blokflejtam"
+      ins: "blokflejtami"
+      voc: "blokflejty"

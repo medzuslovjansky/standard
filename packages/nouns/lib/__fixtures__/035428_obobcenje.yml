@@ -1,0 +1,22 @@
+---
+  id: "35428"
+  word: "obobćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obobćeńje"
+      acc: "obobćeńje"
+      gen: "obobćeńja"
+      loc: "obobćeńju"
+      dat: "obobćeńju"
+      ins: "obobćeńjem"
+      voc: "obobćeńje"
+    plural: 
+      nom: "obobćeńja"
+      acc: "obobćeńja"
+      gen: "obobćenij"
+      loc: "obobćeńjah"
+      dat: "obobćeńjam"
+      ins: "obobćeńjami"
+      voc: "obobćeńja"

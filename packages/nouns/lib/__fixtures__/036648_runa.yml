@@ -1,0 +1,22 @@
+---
+  id: "36648"
+  word: "runa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "runa"
+      acc: "runų"
+      gen: "runy"
+      loc: "runě"
+      dat: "runě"
+      ins: "runojų"
+      voc: "runo"
+    plural: 
+      nom: "runy"
+      acc: "runy"
+      gen: "run"
+      loc: "runah"
+      dat: "runam"
+      ins: "runami"
+      voc: "runy"

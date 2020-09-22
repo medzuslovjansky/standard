@@ -1,0 +1,22 @@
+---
+  id: "27683"
+  word: "močevina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "močevina"
+      acc: "močevinų"
+      gen: "močeviny"
+      loc: "močevině"
+      dat: "močevině"
+      ins: "močevinojų"
+      voc: "močevino"
+    plural: 
+      nom: "močeviny"
+      acc: "močeviny"
+      gen: "močevin"
+      loc: "močevinah"
+      dat: "močevinam"
+      ins: "močevinami"
+      voc: "močeviny"

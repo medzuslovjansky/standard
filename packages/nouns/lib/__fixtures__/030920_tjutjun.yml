@@ -1,0 +1,15 @@
+---
+  id: "30920"
+  word: "tjutjun"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "tjutjun"
+      acc: "tjutjun"
+      gen: "tjutjuna"
+      loc: "tjutjunu"
+      dat: "tjutjunu"
+      ins: "tjutjunom"
+      voc: "tjutjune"

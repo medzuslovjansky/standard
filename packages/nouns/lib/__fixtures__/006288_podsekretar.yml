@@ -1,0 +1,23 @@
+---
+  id: "6288"
+  word: "podsekretaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podsekretaŕ"
+      acc: "podsekretaŕa"
+      gen: "podsekretaŕa"
+      loc: "podsekretaŕu"
+      dat: "podsekretaŕu"
+      ins: "podsekretaŕem"
+      voc: "podsekretaŕu"
+    plural: 
+      nom: "podsekretari"
+      acc: "podsekretaŕev"
+      gen: "podsekretaŕev"
+      loc: "podsekretaŕah"
+      dat: "podsekretaŕam"
+      ins: "podsekretaŕami"
+      voc: "podsekretari"

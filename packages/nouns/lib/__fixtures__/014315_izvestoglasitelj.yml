@@ -1,0 +1,23 @@
+---
+  id: "14315"
+  word: "izvěstoglåsitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izvěstoglåsitelj"
+      acc: "izvěstoglåsitelja"
+      gen: "izvěstoglåsitelja"
+      loc: "izvěstoglåsitelju"
+      dat: "izvěstoglåsitelju"
+      ins: "izvěstoglåsiteljem"
+      voc: "izvěstoglåsitelju"
+    plural: 
+      nom: "izvěstoglåsitelji"
+      acc: "izvěstoglåsiteljev"
+      gen: "izvěstoglåsiteljev"
+      loc: "izvěstoglåsiteljah"
+      dat: "izvěstoglåsiteljam"
+      ins: "izvěstoglåsiteljami"
+      voc: "izvěstoglåsitelji"

@@ -1,0 +1,22 @@
+---
+  id: "161"
+  word: "naslědȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naslědȯk"
+      acc: "naslědȯk"
+      gen: "naslědka"
+      loc: "naslědku"
+      dat: "naslědku"
+      ins: "naslědkom"
+      voc: "naslědče"
+    plural: 
+      nom: "naslědky"
+      acc: "naslědky"
+      gen: "naslědkov"
+      loc: "naslědkah"
+      dat: "naslědkam"
+      ins: "naslědkami"
+      voc: "naslědky"

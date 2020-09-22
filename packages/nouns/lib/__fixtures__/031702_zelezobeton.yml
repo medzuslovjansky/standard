@@ -1,0 +1,15 @@
+---
+  id: "31702"
+  word: "želězobeton"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "želězobeton"
+      acc: "želězobeton"
+      gen: "želězobetona"
+      loc: "želězobetonu"
+      dat: "želězobetonu"
+      ins: "želězobetonom"
+      voc: "želězobetone"

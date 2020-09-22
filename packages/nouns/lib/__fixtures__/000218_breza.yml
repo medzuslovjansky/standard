@@ -1,0 +1,22 @@
+---
+  id: "218"
+  word: "brěza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brěza"
+      acc: "brězų"
+      gen: "brězy"
+      loc: "brězě"
+      dat: "brězě"
+      ins: "brězojų"
+      voc: "brězo"
+    plural: 
+      nom: "brězy"
+      acc: "brězy"
+      gen: "brěz"
+      loc: "brězah"
+      dat: "brězam"
+      ins: "brězami"
+      voc: "brězy"

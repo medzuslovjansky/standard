@@ -1,0 +1,22 @@
+---
+  id: "28795"
+  word: "oblegčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oblegčeńje"
+      acc: "oblegčeńje"
+      gen: "oblegčeńja"
+      loc: "oblegčeńju"
+      dat: "oblegčeńju"
+      ins: "oblegčeńjem"
+      voc: "oblegčeńje"
+    plural: 
+      nom: "oblegčeńja"
+      acc: "oblegčeńja"
+      gen: "oblegčenij"
+      loc: "oblegčeńjah"
+      dat: "oblegčeńjam"
+      ins: "oblegčeńjami"
+      voc: "oblegčeńja"

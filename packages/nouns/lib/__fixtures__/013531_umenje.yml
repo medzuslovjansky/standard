@@ -1,0 +1,22 @@
+---
+  id: "13531"
+  word: "uměńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uměńje"
+      acc: "uměńje"
+      gen: "uměńja"
+      loc: "uměńju"
+      dat: "uměńju"
+      ins: "uměńjem"
+      voc: "uměńje"
+    plural: 
+      nom: "uměńja"
+      acc: "uměńja"
+      gen: "uměnij"
+      loc: "uměńjah"
+      dat: "uměńjam"
+      ins: "uměńjami"
+      voc: "uměńja"

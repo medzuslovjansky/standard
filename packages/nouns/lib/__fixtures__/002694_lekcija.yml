@@ -1,0 +1,22 @@
+---
+  id: "2694"
+  word: "lekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lekcija"
+      acc: "lekcijų"
+      gen: "lekcije"
+      loc: "lekciji"
+      dat: "lekciji"
+      ins: "lekcijejų"
+      voc: "lekcijo"
+    plural: 
+      nom: "lekcije"
+      acc: "lekcije"
+      gen: "lekcij"
+      loc: "lekcijah"
+      dat: "lekcijam"
+      ins: "lekcijami"
+      voc: "lekcije"

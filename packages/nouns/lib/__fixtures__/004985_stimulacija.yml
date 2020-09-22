@@ -1,0 +1,22 @@
+---
+  id: "4985"
+  word: "stimulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stimulacija"
+      acc: "stimulacijų"
+      gen: "stimulacije"
+      loc: "stimulaciji"
+      dat: "stimulaciji"
+      ins: "stimulacijejų"
+      voc: "stimulacijo"
+    plural: 
+      nom: "stimulacije"
+      acc: "stimulacije"
+      gen: "stimulacij"
+      loc: "stimulacijah"
+      dat: "stimulacijam"
+      ins: "stimulacijami"
+      voc: "stimulacije"

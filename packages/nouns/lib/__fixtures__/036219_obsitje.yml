@@ -1,0 +1,22 @@
+---
+  id: "36219"
+  word: "obšiťje"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obšiťje"
+      acc: "obšiťje"
+      gen: "obšiťja"
+      loc: "obšiťju"
+      dat: "obšiťju"
+      ins: "obšiťjem"
+      voc: "obšiťje"
+    plural: 
+      nom: "obšiťja"
+      acc: "obšiťja"
+      gen: "obšitij"
+      loc: "obšiťjah"
+      dat: "obšiťjam"
+      ins: "obšiťjami"
+      voc: "obšiťja"

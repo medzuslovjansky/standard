@@ -1,0 +1,22 @@
+---
+  id: "2812"
+  word: "nominacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nominacija"
+      acc: "nominacijų"
+      gen: "nominacije"
+      loc: "nominaciji"
+      dat: "nominaciji"
+      ins: "nominacijejų"
+      voc: "nominacijo"
+    plural: 
+      nom: "nominacije"
+      acc: "nominacije"
+      gen: "nominacij"
+      loc: "nominacijah"
+      dat: "nominacijam"
+      ins: "nominacijami"
+      voc: "nominacije"

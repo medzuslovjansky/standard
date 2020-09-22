@@ -1,0 +1,22 @@
+---
+  id: "3502"
+  word: "okoľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okoľnosť"
+      acc: "okoľnosť"
+      gen: "okoľnosti"
+      loc: "okoľnosti"
+      dat: "okoľnosti"
+      ins: "okoľnosťjų"
+      voc: "okoľnosti"
+    plural: 
+      nom: "okoľnosti"
+      acc: "okoľnosti"
+      gen: "okoľnostij"
+      loc: "okoľnosťah"
+      dat: "okoľnosťam"
+      ins: "okoľnosťami"
+      voc: "okoľnosti"

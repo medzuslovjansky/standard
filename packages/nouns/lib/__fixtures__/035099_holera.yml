@@ -1,0 +1,22 @@
+---
+  id: "35099"
+  word: "holera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "holera"
+      acc: "holerų"
+      gen: "holery"
+      loc: "holerě"
+      dat: "holerě"
+      ins: "holerojų"
+      voc: "holero"
+    plural: 
+      nom: "holery"
+      acc: "holery"
+      gen: "holer"
+      loc: "holerah"
+      dat: "holeram"
+      ins: "holerami"
+      voc: "holery"

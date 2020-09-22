@@ -1,0 +1,22 @@
+---
+  id: "25583"
+  word: "gasilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gasilo"
+      acc: "gasilo"
+      gen: "gasila"
+      loc: "gasilu"
+      dat: "gasilu"
+      ins: "gasilom"
+      voc: "gasilo"
+    plural: 
+      nom: "gasila"
+      acc: "gasila"
+      gen: "gasil"
+      loc: "gasilah"
+      dat: "gasilam"
+      ins: "gasilami"
+      voc: "gasila"

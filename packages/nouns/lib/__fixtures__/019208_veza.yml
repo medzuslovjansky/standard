@@ -1,0 +1,22 @@
+---
+  id: "19208"
+  word: "věža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věža"
+      acc: "věžų"
+      gen: "věže"
+      loc: "věži"
+      dat: "věži"
+      ins: "věžejų"
+      voc: "věžo"
+    plural: 
+      nom: "věže"
+      acc: "věže"
+      gen: "věž"
+      loc: "věžah"
+      dat: "věžam"
+      ins: "věžami"
+      voc: "věže"

@@ -1,0 +1,22 @@
+---
+  id: "32736"
+  word: "opereta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opereta"
+      acc: "operetų"
+      gen: "operety"
+      loc: "operetě"
+      dat: "operetě"
+      ins: "operetojų"
+      voc: "opereto"
+    plural: 
+      nom: "operety"
+      acc: "operety"
+      gen: "operet"
+      loc: "operetah"
+      dat: "operetam"
+      ins: "operetami"
+      voc: "operety"

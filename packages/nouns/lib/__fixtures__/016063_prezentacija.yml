@@ -1,0 +1,22 @@
+---
+  id: "16063"
+  word: "prezentacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prezentacija"
+      acc: "prezentacijų"
+      gen: "prezentacije"
+      loc: "prezentaciji"
+      dat: "prezentaciji"
+      ins: "prezentacijejų"
+      voc: "prezentacijo"
+    plural: 
+      nom: "prezentacije"
+      acc: "prezentacije"
+      gen: "prezentacij"
+      loc: "prezentacijah"
+      dat: "prezentacijam"
+      ins: "prezentacijami"
+      voc: "prezentacije"

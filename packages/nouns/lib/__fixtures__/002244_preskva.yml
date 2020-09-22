@@ -1,0 +1,22 @@
+---
+  id: "2244"
+  word: "preskva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "preskva"
+      acc: "preskvų"
+      gen: "preskvy"
+      loc: "preskvě"
+      dat: "preskvě"
+      ins: "preskvojų"
+      voc: "preskvo"
+    plural: 
+      nom: "preskvy"
+      acc: "preskvy"
+      gen: "preskv"
+      loc: "preskvah"
+      dat: "preskvam"
+      ins: "preskvami"
+      voc: "preskvy"

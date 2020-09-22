@@ -1,0 +1,15 @@
+---
+  id: "24120"
+  word: "agonija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "agonija"
+      acc: "agonijų"
+      gen: "agonije"
+      loc: "agoniji"
+      dat: "agoniji"
+      ins: "agonijejų"
+      voc: "agonijo"

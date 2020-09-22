@@ -1,0 +1,22 @@
+---
+  id: "35352"
+  word: "legion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "legion"
+      acc: "legion"
+      gen: "legiona"
+      loc: "legionu"
+      dat: "legionu"
+      ins: "legionom"
+      voc: "legione"
+    plural: 
+      nom: "legiony"
+      acc: "legiony"
+      gen: "legionov"
+      loc: "legionah"
+      dat: "legionam"
+      ins: "legionami"
+      voc: "legiony"

@@ -1,0 +1,22 @@
+---
+  id: "30279"
+  word: "råzliťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzliťje"
+      acc: "råzliťje"
+      gen: "råzliťja"
+      loc: "råzliťju"
+      dat: "råzliťju"
+      ins: "råzliťjem"
+      voc: "råzliťje"
+    plural: 
+      nom: "råzliťja"
+      acc: "råzliťja"
+      gen: "råzlitij"
+      loc: "råzliťjah"
+      dat: "råzliťjam"
+      ins: "råzliťjami"
+      voc: "råzliťja"

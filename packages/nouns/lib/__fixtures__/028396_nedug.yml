@@ -1,0 +1,22 @@
+---
+  id: "28396"
+  word: "nedųg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nedųg"
+      acc: "nedųg"
+      gen: "nedųga"
+      loc: "nedųgu"
+      dat: "nedųgu"
+      ins: "nedųgom"
+      voc: "nedųže"
+    plural: 
+      nom: "nedųgy"
+      acc: "nedųgy"
+      gen: "nedųgov"
+      loc: "nedųgah"
+      dat: "nedųgam"
+      ins: "nedųgami"
+      voc: "nedųgy"

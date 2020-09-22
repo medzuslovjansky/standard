@@ -1,0 +1,22 @@
+---
+  id: "2324"
+  word: "bojka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bojka"
+      acc: "bojkų"
+      gen: "bojky"
+      loc: "bojkě"
+      dat: "bojkě"
+      ins: "bojkojų"
+      voc: "bojko"
+    plural: 
+      nom: "bojky"
+      acc: "bojky"
+      gen: "bojek"
+      loc: "bojkah"
+      dat: "bojkam"
+      ins: "bojkami"
+      voc: "bojky"

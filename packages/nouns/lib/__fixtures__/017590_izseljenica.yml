@@ -1,0 +1,22 @@
+---
+  id: "17590"
+  word: "izseljenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izseljenica"
+      acc: "izseljenicų"
+      gen: "izseljenice"
+      loc: "izseljenici"
+      dat: "izseljenici"
+      ins: "izseljenicejų"
+      voc: "izseljenico"
+    plural: 
+      nom: "izseljenice"
+      acc: "izseljenice"
+      gen: "izseljenic"
+      loc: "izseljenicah"
+      dat: "izseljenicam"
+      ins: "izseljenicami"
+      voc: "izseljenice"

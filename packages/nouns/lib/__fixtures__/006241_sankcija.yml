@@ -1,0 +1,22 @@
+---
+  id: "6241"
+  word: "sankcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sankcija"
+      acc: "sankcijų"
+      gen: "sankcije"
+      loc: "sankciji"
+      dat: "sankciji"
+      ins: "sankcijejų"
+      voc: "sankcijo"
+    plural: 
+      nom: "sankcije"
+      acc: "sankcije"
+      gen: "sankcij"
+      loc: "sankcijah"
+      dat: "sankcijam"
+      ins: "sankcijami"
+      voc: "sankcije"

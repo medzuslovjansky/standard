@@ -1,0 +1,22 @@
+---
+  id: "11340"
+  word: "prěryvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěryvańje"
+      acc: "prěryvańje"
+      gen: "prěryvańja"
+      loc: "prěryvańju"
+      dat: "prěryvańju"
+      ins: "prěryvańjem"
+      voc: "prěryvańje"
+    plural: 
+      nom: "prěryvańja"
+      acc: "prěryvańja"
+      gen: "prěryvanij"
+      loc: "prěryvańjah"
+      dat: "prěryvańjam"
+      ins: "prěryvańjami"
+      voc: "prěryvańja"

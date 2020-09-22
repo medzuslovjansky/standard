@@ -1,0 +1,22 @@
+---
+  id: "10772"
+  word: "podstrěkańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podstrěkańje"
+      acc: "podstrěkańje"
+      gen: "podstrěkańja"
+      loc: "podstrěkańju"
+      dat: "podstrěkańju"
+      ins: "podstrěkańjem"
+      voc: "podstrěkańje"
+    plural: 
+      nom: "podstrěkańja"
+      acc: "podstrěkańja"
+      gen: "podstrěkanij"
+      loc: "podstrěkańjah"
+      dat: "podstrěkańjam"
+      ins: "podstrěkańjami"
+      voc: "podstrěkańja"

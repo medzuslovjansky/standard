@@ -1,0 +1,22 @@
+---
+  id: "36824"
+  word: "tempo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tempo"
+      acc: "tempo"
+      gen: "tempa"
+      loc: "tempu"
+      dat: "tempu"
+      ins: "tempom"
+      voc: "tempo"
+    plural: 
+      nom: "tempa"
+      acc: "tempa"
+      gen: "temp"
+      loc: "tempah"
+      dat: "tempam"
+      ins: "tempami"
+      voc: "tempa"

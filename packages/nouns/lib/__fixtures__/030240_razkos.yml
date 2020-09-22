@@ -1,0 +1,22 @@
+---
+  id: "30240"
+  word: "råzkoš"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzkoš"
+      acc: "råzkoš"
+      gen: "råzkoši"
+      loc: "råzkoši"
+      dat: "råzkoši"
+      ins: "råzkošjų"
+      voc: "råzkoši"
+    plural: 
+      nom: "råzkoši"
+      acc: "råzkoši"
+      gen: "råzkošij"
+      loc: "råzkošah"
+      dat: "råzkošam"
+      ins: "råzkošami"
+      voc: "råzkoši"

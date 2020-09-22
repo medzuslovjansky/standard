@@ -1,0 +1,22 @@
+---
+  id: "21345"
+  word: "motor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "motor"
+      acc: "motor"
+      gen: "motora"
+      loc: "motoru"
+      dat: "motoru"
+      ins: "motorom"
+      voc: "motore"
+    plural: 
+      nom: "motory"
+      acc: "motory"
+      gen: "motorov"
+      loc: "motorah"
+      dat: "motoram"
+      ins: "motorami"
+      voc: "motory"

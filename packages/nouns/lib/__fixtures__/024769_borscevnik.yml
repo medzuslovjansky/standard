@@ -1,0 +1,22 @@
+---
+  id: "24769"
+  word: "bȯrščevnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bȯrščevnik"
+      acc: "bȯrščevnik"
+      gen: "bȯrščevnika"
+      loc: "bȯrščevniku"
+      dat: "bȯrščevniku"
+      ins: "bȯrščevnikom"
+      voc: "bȯrščevniče"
+    plural: 
+      nom: "bȯrščevniky"
+      acc: "bȯrščevniky"
+      gen: "bȯrščevnikov"
+      loc: "bȯrščevnikah"
+      dat: "bȯrščevnikam"
+      ins: "bȯrščevnikami"
+      voc: "bȯrščevniky"

@@ -1,0 +1,22 @@
+---
+  id: "23437"
+  word: "fagot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fagot"
+      acc: "fagot"
+      gen: "fagota"
+      loc: "fagotu"
+      dat: "fagotu"
+      ins: "fagotom"
+      voc: "fagote"
+    plural: 
+      nom: "fagoty"
+      acc: "fagoty"
+      gen: "fagotov"
+      loc: "fagotah"
+      dat: "fagotam"
+      ins: "fagotami"
+      voc: "fagoty"

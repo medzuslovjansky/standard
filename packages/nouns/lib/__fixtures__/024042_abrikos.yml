@@ -1,0 +1,22 @@
+---
+  id: "24042"
+  word: "abrikos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abrikos"
+      acc: "abrikos"
+      gen: "abrikosa"
+      loc: "abrikosu"
+      dat: "abrikosu"
+      ins: "abrikosom"
+      voc: "abrikose"
+    plural: 
+      nom: "abrikosy"
+      acc: "abrikosy"
+      gen: "abrikosov"
+      loc: "abrikosah"
+      dat: "abrikosam"
+      ins: "abrikosami"
+      voc: "abrikosy"

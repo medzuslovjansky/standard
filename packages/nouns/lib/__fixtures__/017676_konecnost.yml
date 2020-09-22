@@ -1,0 +1,22 @@
+---
+  id: "17676"
+  word: "konečnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konečnosť"
+      acc: "konečnosť"
+      gen: "konečnosti"
+      loc: "konečnosti"
+      dat: "konečnosti"
+      ins: "konečnosťjų"
+      voc: "konečnosti"
+    plural: 
+      nom: "konečnosti"
+      acc: "konečnosti"
+      gen: "konečnostij"
+      loc: "konečnosťah"
+      dat: "konečnosťam"
+      ins: "konečnosťami"
+      voc: "konečnosti"

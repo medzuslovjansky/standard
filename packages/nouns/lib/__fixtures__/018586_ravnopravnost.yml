@@ -1,0 +1,22 @@
+---
+  id: "18586"
+  word: "råvnopravnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnopravnosť"
+      acc: "råvnopravnosť"
+      gen: "råvnopravnosti"
+      loc: "råvnopravnosti"
+      dat: "råvnopravnosti"
+      ins: "råvnopravnosťjų"
+      voc: "råvnopravnosti"
+    plural: 
+      nom: "råvnopravnosti"
+      acc: "råvnopravnosti"
+      gen: "råvnopravnostij"
+      loc: "råvnopravnosťah"
+      dat: "råvnopravnosťam"
+      ins: "råvnopravnosťami"
+      voc: "råvnopravnosti"

@@ -1,0 +1,22 @@
+---
+  id: "31622"
+  word: "zigzag"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zigzag"
+      acc: "zigzag"
+      gen: "zigzaga"
+      loc: "zigzagu"
+      dat: "zigzagu"
+      ins: "zigzagom"
+      voc: "zigzaže"
+    plural: 
+      nom: "zigzagy"
+      acc: "zigzagy"
+      gen: "zigzagov"
+      loc: "zigzagah"
+      dat: "zigzagam"
+      ins: "zigzagami"
+      voc: "zigzagy"

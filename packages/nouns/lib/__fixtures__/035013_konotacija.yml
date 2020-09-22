@@ -1,0 +1,22 @@
+---
+  id: "35013"
+  word: "konotacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konotacija"
+      acc: "konotacijų"
+      gen: "konotacije"
+      loc: "konotaciji"
+      dat: "konotaciji"
+      ins: "konotacijejų"
+      voc: "konotacijo"
+    plural: 
+      nom: "konotacije"
+      acc: "konotacije"
+      gen: "konotacij"
+      loc: "konotacijah"
+      dat: "konotacijam"
+      ins: "konotacijami"
+      voc: "konotacije"

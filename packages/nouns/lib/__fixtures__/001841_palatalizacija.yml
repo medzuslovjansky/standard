@@ -1,0 +1,22 @@
+---
+  id: "1841"
+  word: "palatalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palatalizacija"
+      acc: "palatalizacijų"
+      gen: "palatalizacije"
+      loc: "palatalizaciji"
+      dat: "palatalizaciji"
+      ins: "palatalizacijejų"
+      voc: "palatalizacijo"
+    plural: 
+      nom: "palatalizacije"
+      acc: "palatalizacije"
+      gen: "palatalizacij"
+      loc: "palatalizacijah"
+      dat: "palatalizacijam"
+      ins: "palatalizacijami"
+      voc: "palatalizacije"

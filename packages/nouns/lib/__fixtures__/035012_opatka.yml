@@ -1,0 +1,22 @@
+---
+  id: "35012"
+  word: "opatka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opatka"
+      acc: "opatkų"
+      gen: "opatky"
+      loc: "opatkě"
+      dat: "opatkě"
+      ins: "opatkojų"
+      voc: "opatko"
+    plural: 
+      nom: "opatky"
+      acc: "opatky"
+      gen: "opatȯk"
+      loc: "opatkah"
+      dat: "opatkam"
+      ins: "opatkami"
+      voc: "opatky"

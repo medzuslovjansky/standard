@@ -1,0 +1,22 @@
+---
+  id: "2848"
+  word: "administracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "administracija"
+      acc: "administracijų"
+      gen: "administracije"
+      loc: "administraciji"
+      dat: "administraciji"
+      ins: "administracijejų"
+      voc: "administracijo"
+    plural: 
+      nom: "administracije"
+      acc: "administracije"
+      gen: "administracij"
+      loc: "administracijah"
+      dat: "administracijam"
+      ins: "administracijami"
+      voc: "administracije"

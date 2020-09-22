@@ -1,0 +1,23 @@
+---
+  id: "27110"
+  word: "lelek"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lelek"
+      acc: "leleka"
+      gen: "leleka"
+      loc: "leleku"
+      dat: "leleku"
+      ins: "lelekom"
+      voc: "leleče"
+    plural: 
+      nom: "leleki"
+      acc: "lelekov"
+      gen: "lelekov"
+      loc: "lelekah"
+      dat: "lelekam"
+      ins: "lelekami"
+      voc: "leleki"

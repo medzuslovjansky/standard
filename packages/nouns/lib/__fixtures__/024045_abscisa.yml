@@ -1,0 +1,22 @@
+---
+  id: "24045"
+  word: "abscisa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "abscisa"
+      acc: "abscisų"
+      gen: "abscisy"
+      loc: "abscisě"
+      dat: "abscisě"
+      ins: "abscisojų"
+      voc: "absciso"
+    plural: 
+      nom: "abscisy"
+      acc: "abscisy"
+      gen: "abscis"
+      loc: "abscisah"
+      dat: "abscisam"
+      ins: "abscisami"
+      voc: "abscisy"

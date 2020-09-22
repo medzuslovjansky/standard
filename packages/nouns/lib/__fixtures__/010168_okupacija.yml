@@ -1,0 +1,22 @@
+---
+  id: "10168"
+  word: "okupacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okupacija"
+      acc: "okupacijų"
+      gen: "okupacije"
+      loc: "okupaciji"
+      dat: "okupaciji"
+      ins: "okupacijejų"
+      voc: "okupacijo"
+    plural: 
+      nom: "okupacije"
+      acc: "okupacije"
+      gen: "okupacij"
+      loc: "okupacijah"
+      dat: "okupacijam"
+      ins: "okupacijami"
+      voc: "okupacije"

@@ -1,0 +1,15 @@
+---
+  id: "370"
+  word: "Rumunija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Rumunija"
+      acc: "Rumunijų"
+      gen: "Rumunije"
+      loc: "Rumuniji"
+      dat: "Rumuniji"
+      ins: "Rumunijejų"
+      voc: "Rumunijo"

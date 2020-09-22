@@ -1,0 +1,15 @@
+---
+  id: "3082"
+  word: "Slovenija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Slovenija"
+      acc: "Slovenijų"
+      gen: "Slovenije"
+      loc: "Sloveniji"
+      dat: "Sloveniji"
+      ins: "Slovenijejų"
+      voc: "Slovenijo"

@@ -1,0 +1,22 @@
+---
+  id: "3017"
+  word: "jemela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jemela"
+      acc: "jemelų"
+      gen: "jemely"
+      loc: "jemelě"
+      dat: "jemelě"
+      ins: "jemelojų"
+      voc: "jemelo"
+    plural: 
+      nom: "jemely"
+      acc: "jemely"
+      gen: "jemel"
+      loc: "jemelah"
+      dat: "jemelam"
+      ins: "jemelami"
+      voc: "jemely"

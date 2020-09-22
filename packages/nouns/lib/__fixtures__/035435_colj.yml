@@ -1,0 +1,22 @@
+---
+  id: "35435"
+  word: "colj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "colj"
+      acc: "colj"
+      gen: "colja"
+      loc: "colju"
+      dat: "colju"
+      ins: "coljem"
+      voc: "colju"
+    plural: 
+      nom: "colje"
+      acc: "colje"
+      gen: "coljev"
+      loc: "coljah"
+      dat: "coljam"
+      ins: "coljami"
+      voc: "colje"

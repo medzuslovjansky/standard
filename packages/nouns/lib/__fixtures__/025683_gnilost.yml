@@ -1,0 +1,22 @@
+---
+  id: "25683"
+  word: "gnilosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gnilosť"
+      acc: "gnilosť"
+      gen: "gnilosti"
+      loc: "gnilosti"
+      dat: "gnilosti"
+      ins: "gnilosťjų"
+      voc: "gnilosti"
+    plural: 
+      nom: "gnilosti"
+      acc: "gnilosti"
+      gen: "gnilostij"
+      loc: "gnilosťah"
+      dat: "gnilosťam"
+      ins: "gnilosťami"
+      voc: "gnilosti"

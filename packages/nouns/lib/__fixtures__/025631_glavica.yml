@@ -1,0 +1,22 @@
+---
+  id: "25631"
+  word: "glåvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glåvica"
+      acc: "glåvicų"
+      gen: "glåvice"
+      loc: "glåvici"
+      dat: "glåvici"
+      ins: "glåvicejų"
+      voc: "glåvico"
+    plural: 
+      nom: "glåvice"
+      acc: "glåvice"
+      gen: "glåvic"
+      loc: "glåvicah"
+      dat: "glåvicam"
+      ins: "glåvicami"
+      voc: "glåvice"

@@ -1,0 +1,22 @@
+---
+  id: "36633"
+  word: "triceratops"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "triceratops"
+      acc: "triceratops"
+      gen: "triceratopsa"
+      loc: "triceratopsu"
+      dat: "triceratopsu"
+      ins: "triceratopsom"
+      voc: "triceratopse"
+    plural: 
+      nom: "triceratopsy"
+      acc: "triceratopsy"
+      gen: "triceratopsov"
+      loc: "triceratopsah"
+      dat: "triceratopsam"
+      ins: "triceratopsami"
+      voc: "triceratopsy"

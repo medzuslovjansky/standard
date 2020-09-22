@@ -1,0 +1,22 @@
+---
+  id: "18495"
+  word: "prisposobjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prisposobjeńje"
+      acc: "prisposobjeńje"
+      gen: "prisposobjeńja"
+      loc: "prisposobjeńju"
+      dat: "prisposobjeńju"
+      ins: "prisposobjeńjem"
+      voc: "prisposobjeńje"
+    plural: 
+      nom: "prisposobjeńja"
+      acc: "prisposobjeńja"
+      gen: "prisposobjenij"
+      loc: "prisposobjeńjah"
+      dat: "prisposobjeńjam"
+      ins: "prisposobjeńjami"
+      voc: "prisposobjeńja"

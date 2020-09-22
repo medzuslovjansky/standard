@@ -1,0 +1,22 @@
+---
+  id: "29458"
+  word: "pomylka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pomylka"
+      acc: "pomylkų"
+      gen: "pomylky"
+      loc: "pomylkě"
+      dat: "pomylkě"
+      ins: "pomylkojų"
+      voc: "pomylko"
+    plural: 
+      nom: "pomylky"
+      acc: "pomylky"
+      gen: "pomylȯk"
+      loc: "pomylkah"
+      dat: "pomylkam"
+      ins: "pomylkami"
+      voc: "pomylky"

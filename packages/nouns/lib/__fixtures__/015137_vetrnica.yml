@@ -1,0 +1,22 @@
+---
+  id: "15137"
+  word: "větrnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "větrnica"
+      acc: "větrnicų"
+      gen: "větrnice"
+      loc: "větrnici"
+      dat: "větrnici"
+      ins: "větrnicejų"
+      voc: "větrnico"
+    plural: 
+      nom: "větrnice"
+      acc: "větrnice"
+      gen: "větrnic"
+      loc: "větrnicah"
+      dat: "větrnicam"
+      ins: "větrnicami"
+      voc: "větrnice"

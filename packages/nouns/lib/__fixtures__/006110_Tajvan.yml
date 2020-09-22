@@ -1,0 +1,15 @@
+---
+  id: "6110"
+  word: "Tajvan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Tajvan"
+      acc: "Tajvan"
+      gen: "Tajvana"
+      loc: "Tajvanu"
+      dat: "Tajvanu"
+      ins: "Tajvanom"
+      voc: "Tajvane"

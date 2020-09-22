@@ -1,0 +1,22 @@
+---
+  id: "36127"
+  word: "ritual"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ritual"
+      acc: "ritual"
+      gen: "rituala"
+      loc: "ritualu"
+      dat: "ritualu"
+      ins: "ritualom"
+      voc: "rituale"
+    plural: 
+      nom: "ritualy"
+      acc: "ritualy"
+      gen: "ritualov"
+      loc: "ritualah"
+      dat: "ritualam"
+      ins: "ritualami"
+      voc: "ritualy"

@@ -1,0 +1,15 @@
+---
+  id: "23544"
+  word: "etika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "etika"
+      acc: "etikų"
+      gen: "etiky"
+      loc: "etikě"
+      dat: "etikě"
+      ins: "etikojų"
+      voc: "etiko"

@@ -1,0 +1,15 @@
+---
+  id: "32458"
+  word: "kaperstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kaperstvo"
+      acc: "kaperstvo"
+      gen: "kaperstva"
+      loc: "kaperstvu"
+      dat: "kaperstvu"
+      ins: "kaperstvom"
+      voc: "kaperstvo"

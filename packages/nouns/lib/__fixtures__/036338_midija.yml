@@ -1,0 +1,22 @@
+---
+  id: "36338"
+  word: "midija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "midija"
+      acc: "midijų"
+      gen: "midije"
+      loc: "midiji"
+      dat: "midiji"
+      ins: "midijejų"
+      voc: "midijo"
+    plural: 
+      nom: "midije"
+      acc: "midije"
+      gen: "midij"
+      loc: "midijah"
+      dat: "midijam"
+      ins: "midijami"
+      voc: "midije"

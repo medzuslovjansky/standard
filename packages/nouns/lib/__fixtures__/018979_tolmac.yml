@@ -1,0 +1,23 @@
+---
+  id: "18979"
+  word: "tȯlmač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tȯlmač"
+      acc: "tȯlmača"
+      gen: "tȯlmača"
+      loc: "tȯlmaču"
+      dat: "tȯlmaču"
+      ins: "tȯlmačem"
+      voc: "tȯlmaču"
+    plural: 
+      nom: "tȯlmači"
+      acc: "tȯlmačev"
+      gen: "tȯlmačev"
+      loc: "tȯlmačah"
+      dat: "tȯlmačam"
+      ins: "tȯlmačami"
+      voc: "tȯlmači"

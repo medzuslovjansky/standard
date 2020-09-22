@@ -1,0 +1,22 @@
+---
+  id: "27"
+  word: "råzličje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzličje"
+      acc: "råzličje"
+      gen: "råzličja"
+      loc: "råzličju"
+      dat: "råzličju"
+      ins: "råzličjem"
+      voc: "råzličje"
+    plural: 
+      nom: "råzličja"
+      acc: "råzličja"
+      gen: "råzličij"
+      loc: "råzličjah"
+      dat: "råzličjam"
+      ins: "råzličjami"
+      voc: "råzličja"

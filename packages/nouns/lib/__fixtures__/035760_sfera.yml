@@ -1,0 +1,22 @@
+---
+  id: "35760"
+  word: "sfera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sfera"
+      acc: "sferų"
+      gen: "sfery"
+      loc: "sferě"
+      dat: "sferě"
+      ins: "sferojų"
+      voc: "sfero"
+    plural: 
+      nom: "sfery"
+      acc: "sfery"
+      gen: "sfer"
+      loc: "sferah"
+      dat: "sferam"
+      ins: "sferami"
+      voc: "sfery"

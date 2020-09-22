@@ -1,0 +1,22 @@
+---
+  id: "17463"
+  word: "homonim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "homonim"
+      acc: "homonim"
+      gen: "homonima"
+      loc: "homonimu"
+      dat: "homonimu"
+      ins: "homonimom"
+      voc: "homonime"
+    plural: 
+      nom: "homonimy"
+      acc: "homonimy"
+      gen: "homonimov"
+      loc: "homonimah"
+      dat: "homonimam"
+      ins: "homonimami"
+      voc: "homonimy"

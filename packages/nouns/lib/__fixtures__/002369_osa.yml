@@ -1,0 +1,22 @@
+---
+  id: "2369"
+  word: "osa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osa"
+      acc: "osų"
+      gen: "osy"
+      loc: "osě"
+      dat: "osě"
+      ins: "osojų"
+      voc: "oso"
+    plural: 
+      nom: "osy"
+      acc: "osy"
+      gen: "os"
+      loc: "osah"
+      dat: "osam"
+      ins: "osami"
+      voc: "osy"

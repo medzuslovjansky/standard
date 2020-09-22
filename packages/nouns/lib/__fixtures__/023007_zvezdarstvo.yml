@@ -1,0 +1,15 @@
+---
+  id: "23007"
+  word: "zvězdaŕstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zvězdaŕstvo"
+      acc: "zvězdaŕstvo"
+      gen: "zvězdaŕstva"
+      loc: "zvězdaŕstvu"
+      dat: "zvězdaŕstvu"
+      ins: "zvězdaŕstvom"
+      voc: "zvězdaŕstvo"

@@ -1,0 +1,22 @@
+---
+  id: "19206"
+  word: "větrnoplåtnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "větrnoplåtnica"
+      acc: "větrnoplåtnicų"
+      gen: "větrnoplåtnice"
+      loc: "větrnoplåtnici"
+      dat: "větrnoplåtnici"
+      ins: "větrnoplåtnicejų"
+      voc: "větrnoplåtnico"
+    plural: 
+      nom: "větrnoplåtnice"
+      acc: "větrnoplåtnice"
+      gen: "větrnoplåtnic"
+      loc: "větrnoplåtnicah"
+      dat: "větrnoplåtnicam"
+      ins: "větrnoplåtnicami"
+      voc: "větrnoplåtnice"

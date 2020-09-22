@@ -1,0 +1,23 @@
+---
+  id: "2792"
+  word: "nebo"
+  meta: 
+    irregularity: "(neba/nebese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nebo"
+      acc: "nebo"
+      gen: "neba / nebese"
+      loc: "nebu / nebesi"
+      dat: "nebu / nebesi"
+      ins: "nebom / nebesem"
+      voc: "nebo"
+    plural: 
+      nom: "neba / nebesa"
+      acc: "neba / nebesa"
+      gen: "neb / nebes"
+      loc: "nebah / nebesah"
+      dat: "nebam / nebesam"
+      ins: "nebami / nebesami"
+      voc: "neba / nebesa"

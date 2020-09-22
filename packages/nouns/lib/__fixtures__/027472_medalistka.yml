@@ -1,0 +1,22 @@
+---
+  id: "27472"
+  word: "medalistka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medalistka"
+      acc: "medalistkų"
+      gen: "medalistky"
+      loc: "medalistkě"
+      dat: "medalistkě"
+      ins: "medalistkojų"
+      voc: "medalistko"
+    plural: 
+      nom: "medalistky"
+      acc: "medalistky"
+      gen: "medalistȯk"
+      loc: "medalistkah"
+      dat: "medalistkam"
+      ins: "medalistkami"
+      voc: "medalistky"

@@ -1,0 +1,22 @@
+---
+  id: "4421"
+  word: "kilometr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kilometr"
+      acc: "kilometr"
+      gen: "kilometra"
+      loc: "kilometru"
+      dat: "kilometru"
+      ins: "kilometrom"
+      voc: "kilometre"
+    plural: 
+      nom: "kilometry"
+      acc: "kilometry"
+      gen: "kilometrov"
+      loc: "kilometrah"
+      dat: "kilometram"
+      ins: "kilometrami"
+      voc: "kilometry"

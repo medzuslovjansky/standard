@@ -1,0 +1,22 @@
+---
+  id: "23016"
+  word: "miligram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "miligram"
+      acc: "miligram"
+      gen: "miligrama"
+      loc: "miligramu"
+      dat: "miligramu"
+      ins: "miligramom"
+      voc: "miligrame"
+    plural: 
+      nom: "miligramy"
+      acc: "miligramy"
+      gen: "miligramov"
+      loc: "miligramah"
+      dat: "miligramam"
+      ins: "miligramami"
+      voc: "miligramy"

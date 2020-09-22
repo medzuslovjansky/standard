@@ -1,0 +1,22 @@
+---
+  id: "22016"
+  word: "råzsvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzsvět"
+      acc: "råzsvět"
+      gen: "råzsvěta"
+      loc: "råzsvětu"
+      dat: "råzsvětu"
+      ins: "råzsvětom"
+      voc: "råzsvěte"
+    plural: 
+      nom: "råzsvěty"
+      acc: "råzsvěty"
+      gen: "råzsvětov"
+      loc: "råzsvětah"
+      dat: "råzsvětam"
+      ins: "råzsvětami"
+      voc: "råzsvěty"

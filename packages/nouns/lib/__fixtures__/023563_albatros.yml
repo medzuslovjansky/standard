@@ -1,0 +1,23 @@
+---
+  id: "23563"
+  word: "albatros"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "albatros"
+      acc: "albatrosa"
+      gen: "albatrosa"
+      loc: "albatrosu"
+      dat: "albatrosu"
+      ins: "albatrosom"
+      voc: "albatrose"
+    plural: 
+      nom: "albatrosi"
+      acc: "albatrosov"
+      gen: "albatrosov"
+      loc: "albatrosah"
+      dat: "albatrosam"
+      ins: "albatrosami"
+      voc: "albatrosi"

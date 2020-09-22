@@ -1,0 +1,22 @@
+---
+  id: "14336"
+  word: "žaloba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žaloba"
+      acc: "žalobų"
+      gen: "žaloby"
+      loc: "žalobě"
+      dat: "žalobě"
+      ins: "žalobojų"
+      voc: "žalobo"
+    plural: 
+      nom: "žaloby"
+      acc: "žaloby"
+      gen: "žalob"
+      loc: "žalobah"
+      dat: "žalobam"
+      ins: "žalobami"
+      voc: "žaloby"

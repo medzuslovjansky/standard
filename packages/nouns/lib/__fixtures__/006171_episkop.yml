@@ -1,0 +1,23 @@
+---
+  id: "6171"
+  word: "episkop"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "episkop"
+      acc: "episkopa"
+      gen: "episkopa"
+      loc: "episkopu"
+      dat: "episkopu"
+      ins: "episkopom"
+      voc: "episkope"
+    plural: 
+      nom: "episkopi"
+      acc: "episkopov"
+      gen: "episkopov"
+      loc: "episkopah"
+      dat: "episkopam"
+      ins: "episkopami"
+      voc: "episkopi"

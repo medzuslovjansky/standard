@@ -1,0 +1,22 @@
+---
+  id: "2429"
+  word: "věra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věra"
+      acc: "věrų"
+      gen: "věry"
+      loc: "věrě"
+      dat: "věrě"
+      ins: "věrojų"
+      voc: "věro"
+    plural: 
+      nom: "věry"
+      acc: "věry"
+      gen: "věr"
+      loc: "věrah"
+      dat: "věram"
+      ins: "věrami"
+      voc: "věry"

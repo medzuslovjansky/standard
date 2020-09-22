@@ -1,0 +1,22 @@
+---
+  id: "32500"
+  word: "sintezator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sintezator"
+      acc: "sintezator"
+      gen: "sintezatora"
+      loc: "sintezatoru"
+      dat: "sintezatoru"
+      ins: "sintezatorom"
+      voc: "sintezatore"
+    plural: 
+      nom: "sintezatory"
+      acc: "sintezatory"
+      gen: "sintezatorov"
+      loc: "sintezatorah"
+      dat: "sintezatoram"
+      ins: "sintezatorami"
+      voc: "sintezatory"

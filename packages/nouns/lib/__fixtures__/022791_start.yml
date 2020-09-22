@@ -1,0 +1,22 @@
+---
+  id: "22791"
+  word: "start"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "start"
+      acc: "start"
+      gen: "starta"
+      loc: "startu"
+      dat: "startu"
+      ins: "startom"
+      voc: "starte"
+    plural: 
+      nom: "starty"
+      acc: "starty"
+      gen: "startov"
+      loc: "startah"
+      dat: "startam"
+      ins: "startami"
+      voc: "starty"

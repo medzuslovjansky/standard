@@ -1,0 +1,22 @@
+---
+  id: "18322"
+  word: "posěćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "posěćeńje"
+      acc: "posěćeńje"
+      gen: "posěćeńja"
+      loc: "posěćeńju"
+      dat: "posěćeńju"
+      ins: "posěćeńjem"
+      voc: "posěćeńje"
+    plural: 
+      nom: "posěćeńja"
+      acc: "posěćeńja"
+      gen: "posěćenij"
+      loc: "posěćeńjah"
+      dat: "posěćeńjam"
+      ins: "posěćeńjami"
+      voc: "posěćeńja"

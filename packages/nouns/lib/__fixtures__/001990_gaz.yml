@@ -1,0 +1,22 @@
+---
+  id: "1990"
+  word: "gaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gaz"
+      acc: "gaz"
+      gen: "gaza"
+      loc: "gazu"
+      dat: "gazu"
+      ins: "gazom"
+      voc: "gaze"
+    plural: 
+      nom: "gazy"
+      acc: "gazy"
+      gen: "gazov"
+      loc: "gazah"
+      dat: "gazam"
+      ins: "gazami"
+      voc: "gazy"

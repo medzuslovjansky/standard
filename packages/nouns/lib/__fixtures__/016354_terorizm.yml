@@ -1,0 +1,15 @@
+---
+  id: "16354"
+  word: "terorizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "terorizm"
+      acc: "terorizm"
+      gen: "terorizma"
+      loc: "terorizmu"
+      dat: "terorizmu"
+      ins: "terorizmom"
+      voc: "terorizme"

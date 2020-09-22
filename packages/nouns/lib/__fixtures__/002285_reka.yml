@@ -1,0 +1,22 @@
+---
+  id: "2285"
+  word: "rěka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rěka"
+      acc: "rěkų"
+      gen: "rěky"
+      loc: "rěkě"
+      dat: "rěkě"
+      ins: "rěkojų"
+      voc: "rěko"
+    plural: 
+      nom: "rěky"
+      acc: "rěky"
+      gen: "rěk"
+      loc: "rěkah"
+      dat: "rěkam"
+      ins: "rěkami"
+      voc: "rěky"

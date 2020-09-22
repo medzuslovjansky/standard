@@ -1,0 +1,15 @@
+---
+  id: "22996"
+  word: "dinamika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dinamika"
+      acc: "dinamikų"
+      gen: "dinamiky"
+      loc: "dinamikě"
+      dat: "dinamikě"
+      ins: "dinamikojų"
+      voc: "dinamiko"

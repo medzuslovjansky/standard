@@ -1,0 +1,22 @@
+---
+  id: "33358"
+  word: "iznuda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iznuda"
+      acc: "iznudų"
+      gen: "iznudy"
+      loc: "iznudě"
+      dat: "iznudě"
+      ins: "iznudojų"
+      voc: "iznudo"
+    plural: 
+      nom: "iznudy"
+      acc: "iznudy"
+      gen: "iznud"
+      loc: "iznudah"
+      dat: "iznudam"
+      ins: "iznudami"
+      voc: "iznudy"

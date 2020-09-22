@@ -1,0 +1,22 @@
+---
+  id: "2376"
+  word: "tetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tetka"
+      acc: "tetkų"
+      gen: "tetky"
+      loc: "tetkě"
+      dat: "tetkě"
+      ins: "tetkojų"
+      voc: "tetko"
+    plural: 
+      nom: "tetky"
+      acc: "tetky"
+      gen: "tetȯk"
+      loc: "tetkah"
+      dat: "tetkam"
+      ins: "tetkami"
+      voc: "tetky"

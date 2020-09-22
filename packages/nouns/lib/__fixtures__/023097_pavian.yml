@@ -1,0 +1,23 @@
+---
+  id: "23097"
+  word: "pavian"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pavian"
+      acc: "paviana"
+      gen: "paviana"
+      loc: "pavianu"
+      dat: "pavianu"
+      ins: "pavianom"
+      voc: "paviane"
+    plural: 
+      nom: "paviani"
+      acc: "pavianov"
+      gen: "pavianov"
+      loc: "pavianah"
+      dat: "pavianam"
+      ins: "pavianami"
+      voc: "paviani"

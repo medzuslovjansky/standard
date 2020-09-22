@@ -1,0 +1,22 @@
+---
+  id: "32670"
+  word: "dozvoljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dozvoljeńje"
+      acc: "dozvoljeńje"
+      gen: "dozvoljeńja"
+      loc: "dozvoljeńju"
+      dat: "dozvoljeńju"
+      ins: "dozvoljeńjem"
+      voc: "dozvoljeńje"
+    plural: 
+      nom: "dozvoljeńja"
+      acc: "dozvoljeńja"
+      gen: "dozvoljenij"
+      loc: "dozvoljeńjah"
+      dat: "dozvoljeńjam"
+      ins: "dozvoljeńjami"
+      voc: "dozvoljeńja"

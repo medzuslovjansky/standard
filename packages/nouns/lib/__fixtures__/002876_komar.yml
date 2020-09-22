@@ -1,0 +1,23 @@
+---
+  id: "2876"
+  word: "komar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "komar"
+      acc: "komara"
+      gen: "komara"
+      loc: "komaru"
+      dat: "komaru"
+      ins: "komarom"
+      voc: "komare"
+    plural: 
+      nom: "komari"
+      acc: "komarov"
+      gen: "komarov"
+      loc: "komarah"
+      dat: "komaram"
+      ins: "komarami"
+      voc: "komari"

@@ -1,0 +1,22 @@
+---
+  id: "586"
+  word: "svěsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svěsť"
+      acc: "svěsť"
+      gen: "svěsti"
+      loc: "svěsti"
+      dat: "svěsti"
+      ins: "svěsťjų"
+      voc: "svěsti"
+    plural: 
+      nom: "svěsti"
+      acc: "svěsti"
+      gen: "svěstij"
+      loc: "svěsťah"
+      dat: "svěsťam"
+      ins: "svěsťami"
+      voc: "svěsti"

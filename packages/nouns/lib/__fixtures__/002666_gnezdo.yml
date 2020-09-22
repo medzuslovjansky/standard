@@ -1,0 +1,22 @@
+---
+  id: "2666"
+  word: "gnězdo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gnězdo"
+      acc: "gnězdo"
+      gen: "gnězda"
+      loc: "gnězdu"
+      dat: "gnězdu"
+      ins: "gnězdom"
+      voc: "gnězdo"
+    plural: 
+      nom: "gnězda"
+      acc: "gnězda"
+      gen: "gnězd"
+      loc: "gnězdah"
+      dat: "gnězdam"
+      ins: "gnězdami"
+      voc: "gnězda"

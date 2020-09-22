@@ -1,0 +1,22 @@
+---
+  id: "32106"
+  word: "pręđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pręđa"
+      acc: "pręđų"
+      gen: "pręđy"
+      loc: "pręđě"
+      dat: "pręđě"
+      ins: "pręđojų"
+      voc: "pręđo"
+    plural: 
+      nom: "pręđy"
+      acc: "pręđy"
+      gen: "pręđ"
+      loc: "pręđah"
+      dat: "pręđam"
+      ins: "pręđami"
+      voc: "pręđy"

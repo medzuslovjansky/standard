@@ -1,0 +1,22 @@
+---
+  id: "5914"
+  word: "pospěh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pospěh"
+      acc: "pospěh"
+      gen: "pospěha"
+      loc: "pospěhu"
+      dat: "pospěhu"
+      ins: "pospěhom"
+      voc: "pospěše"
+    plural: 
+      nom: "pospěhy"
+      acc: "pospěhy"
+      gen: "pospěhov"
+      loc: "pospěhah"
+      dat: "pospěham"
+      ins: "pospěhami"
+      voc: "pospěhy"

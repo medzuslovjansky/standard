@@ -1,0 +1,22 @@
+---
+  id: "36284"
+  word: "narkomanija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "narkomanija"
+      acc: "narkomanijų"
+      gen: "narkomanije"
+      loc: "narkomaniji"
+      dat: "narkomaniji"
+      ins: "narkomanijejų"
+      voc: "narkomanijo"
+    plural: 
+      nom: "narkomanije"
+      acc: "narkomanije"
+      gen: "narkomanij"
+      loc: "narkomanijah"
+      dat: "narkomanijam"
+      ins: "narkomanijami"
+      voc: "narkomanije"

@@ -1,0 +1,22 @@
+---
+  id: "140"
+  word: "faulj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "faulj"
+      acc: "faulj"
+      gen: "faulja"
+      loc: "faulju"
+      dat: "faulju"
+      ins: "fauljem"
+      voc: "faulju"
+    plural: 
+      nom: "faulje"
+      acc: "faulje"
+      gen: "fauljev"
+      loc: "fauljah"
+      dat: "fauljam"
+      ins: "fauljami"
+      voc: "faulje"

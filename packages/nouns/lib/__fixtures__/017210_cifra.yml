@@ -1,0 +1,22 @@
+---
+  id: "17210"
+  word: "cifra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cifra"
+      acc: "cifrų"
+      gen: "cifry"
+      loc: "cifrě"
+      dat: "cifrě"
+      ins: "cifrojų"
+      voc: "cifro"
+    plural: 
+      nom: "cifry"
+      acc: "cifry"
+      gen: "cifr"
+      loc: "cifrah"
+      dat: "cifram"
+      ins: "ciframi"
+      voc: "cifry"

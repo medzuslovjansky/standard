@@ -1,0 +1,23 @@
+---
+  id: "5139"
+  word: "klient"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "klient"
+      acc: "klienta"
+      gen: "klienta"
+      loc: "klientu"
+      dat: "klientu"
+      ins: "klientom"
+      voc: "kliente"
+    plural: 
+      nom: "klienti"
+      acc: "klientov"
+      gen: "klientov"
+      loc: "klientah"
+      dat: "klientam"
+      ins: "klientami"
+      voc: "klienti"

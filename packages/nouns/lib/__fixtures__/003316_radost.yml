@@ -1,0 +1,22 @@
+---
+  id: "3316"
+  word: "radosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "radosť"
+      acc: "radosť"
+      gen: "radosti"
+      loc: "radosti"
+      dat: "radosti"
+      ins: "radosťjų"
+      voc: "radosti"
+    plural: 
+      nom: "radosti"
+      acc: "radosti"
+      gen: "radostij"
+      loc: "radosťah"
+      dat: "radosťam"
+      ins: "radosťami"
+      voc: "radosti"

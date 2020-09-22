@@ -1,0 +1,22 @@
+---
+  id: "3382"
+  word: "stvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stvor"
+      acc: "stvor"
+      gen: "stvora"
+      loc: "stvoru"
+      dat: "stvoru"
+      ins: "stvorom"
+      voc: "stvore"
+    plural: 
+      nom: "stvory"
+      acc: "stvory"
+      gen: "stvorov"
+      loc: "stvorah"
+      dat: "stvoram"
+      ins: "stvorami"
+      voc: "stvory"

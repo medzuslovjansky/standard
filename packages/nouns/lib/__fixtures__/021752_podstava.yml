@@ -1,0 +1,22 @@
+---
+  id: "21752"
+  word: "podstava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podstava"
+      acc: "podstavų"
+      gen: "podstavy"
+      loc: "podstavě"
+      dat: "podstavě"
+      ins: "podstavojų"
+      voc: "podstavo"
+    plural: 
+      nom: "podstavy"
+      acc: "podstavy"
+      gen: "podstav"
+      loc: "podstavah"
+      dat: "podstavam"
+      ins: "podstavami"
+      voc: "podstavy"

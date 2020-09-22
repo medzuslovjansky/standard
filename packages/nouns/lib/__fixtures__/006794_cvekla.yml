@@ -1,0 +1,22 @@
+---
+  id: "6794"
+  word: "cvekla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cvekla"
+      acc: "cveklų"
+      gen: "cvekly"
+      loc: "cveklě"
+      dat: "cveklě"
+      ins: "cveklojų"
+      voc: "cveklo"
+    plural: 
+      nom: "cvekly"
+      acc: "cvekly"
+      gen: "cvekȯl"
+      loc: "cveklah"
+      dat: "cveklam"
+      ins: "cveklami"
+      voc: "cvekly"

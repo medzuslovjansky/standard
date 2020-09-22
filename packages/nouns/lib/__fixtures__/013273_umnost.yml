@@ -1,0 +1,22 @@
+---
+  id: "13273"
+  word: "umnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "umnosť"
+      acc: "umnosť"
+      gen: "umnosti"
+      loc: "umnosti"
+      dat: "umnosti"
+      ins: "umnosťjų"
+      voc: "umnosti"
+    plural: 
+      nom: "umnosti"
+      acc: "umnosti"
+      gen: "umnostij"
+      loc: "umnosťah"
+      dat: "umnosťam"
+      ins: "umnosťami"
+      voc: "umnosti"

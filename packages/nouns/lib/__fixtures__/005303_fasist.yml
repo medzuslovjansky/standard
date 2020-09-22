@@ -1,0 +1,23 @@
+---
+  id: "5303"
+  word: "fašist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fašist"
+      acc: "fašista"
+      gen: "fašista"
+      loc: "fašistu"
+      dat: "fašistu"
+      ins: "fašistom"
+      voc: "fašiste"
+    plural: 
+      nom: "fašisti"
+      acc: "fašistov"
+      gen: "fašistov"
+      loc: "fašistah"
+      dat: "fašistam"
+      ins: "fašistami"
+      voc: "fašisti"

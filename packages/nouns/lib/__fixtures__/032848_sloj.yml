@@ -1,0 +1,22 @@
+---
+  id: "32848"
+  word: "sloj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sloj"
+      acc: "sloj"
+      gen: "sloja"
+      loc: "sloju"
+      dat: "sloju"
+      ins: "slojem"
+      voc: "sloju"
+    plural: 
+      nom: "sloje"
+      acc: "sloje"
+      gen: "slojev"
+      loc: "slojah"
+      dat: "slojam"
+      ins: "slojami"
+      voc: "sloje"

@@ -1,0 +1,22 @@
+---
+  id: "14807"
+  word: "opustošeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opustošeńje"
+      acc: "opustošeńje"
+      gen: "opustošeńja"
+      loc: "opustošeńju"
+      dat: "opustošeńju"
+      ins: "opustošeńjem"
+      voc: "opustošeńje"
+    plural: 
+      nom: "opustošeńja"
+      acc: "opustošeńja"
+      gen: "opustošenij"
+      loc: "opustošeńjah"
+      dat: "opustošeńjam"
+      ins: "opustošeńjami"
+      voc: "opustošeńja"

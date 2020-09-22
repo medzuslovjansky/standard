@@ -1,0 +1,22 @@
+---
+  id: "33086"
+  word: "magnetofon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "magnetofon"
+      acc: "magnetofon"
+      gen: "magnetofona"
+      loc: "magnetofonu"
+      dat: "magnetofonu"
+      ins: "magnetofonom"
+      voc: "magnetofone"
+    plural: 
+      nom: "magnetofony"
+      acc: "magnetofony"
+      gen: "magnetofonov"
+      loc: "magnetofonah"
+      dat: "magnetofonam"
+      ins: "magnetofonami"
+      voc: "magnetofony"

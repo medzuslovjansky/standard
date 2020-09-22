@@ -1,0 +1,15 @@
+---
+  id: "207"
+  word: "boŕba"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "boŕba"
+      acc: "boŕbų"
+      gen: "boŕby"
+      loc: "boŕbě"
+      dat: "boŕbě"
+      ins: "boŕbojų"
+      voc: "boŕbo"

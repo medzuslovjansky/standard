@@ -1,0 +1,22 @@
+---
+  id: "25407"
+  word: "duda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "duda"
+      acc: "dudų"
+      gen: "dudy"
+      loc: "dudě"
+      dat: "dudě"
+      ins: "dudojų"
+      voc: "dudo"
+    plural: 
+      nom: "dudy"
+      acc: "dudy"
+      gen: "dud"
+      loc: "dudah"
+      dat: "dudam"
+      ins: "dudami"
+      voc: "dudy"

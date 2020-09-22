@@ -1,0 +1,22 @@
+---
+  id: "15478"
+  word: "instruktorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "instruktorka"
+      acc: "instruktorkų"
+      gen: "instruktorky"
+      loc: "instruktorkě"
+      dat: "instruktorkě"
+      ins: "instruktorkojų"
+      voc: "instruktorko"
+    plural: 
+      nom: "instruktorky"
+      acc: "instruktorky"
+      gen: "instruktorȯk"
+      loc: "instruktorkah"
+      dat: "instruktorkam"
+      ins: "instruktorkami"
+      voc: "instruktorky"

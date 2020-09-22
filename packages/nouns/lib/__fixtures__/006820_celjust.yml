@@ -1,0 +1,22 @@
+---
+  id: "6820"
+  word: "čeljusť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čeljusť"
+      acc: "čeljusť"
+      gen: "čeljusti"
+      loc: "čeljusti"
+      dat: "čeljusti"
+      ins: "čeljusťjų"
+      voc: "čeljusti"
+    plural: 
+      nom: "čeljusti"
+      acc: "čeljusti"
+      gen: "čeljustij"
+      loc: "čeljusťah"
+      dat: "čeljusťam"
+      ins: "čeljusťami"
+      voc: "čeljusti"

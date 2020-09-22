@@ -1,0 +1,22 @@
+---
+  id: "3741"
+  word: "režim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "režim"
+      acc: "režim"
+      gen: "režima"
+      loc: "režimu"
+      dat: "režimu"
+      ins: "režimom"
+      voc: "režime"
+    plural: 
+      nom: "režimy"
+      acc: "režimy"
+      gen: "režimov"
+      loc: "režimah"
+      dat: "režimam"
+      ins: "režimami"
+      voc: "režimy"

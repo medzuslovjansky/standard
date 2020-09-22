@@ -1,0 +1,22 @@
+---
+  id: "36837"
+  word: "tercija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tercija"
+      acc: "tercijų"
+      gen: "tercije"
+      loc: "terciji"
+      dat: "terciji"
+      ins: "tercijejų"
+      voc: "tercijo"
+    plural: 
+      nom: "tercije"
+      acc: "tercije"
+      gen: "tercij"
+      loc: "tercijah"
+      dat: "tercijam"
+      ins: "tercijami"
+      voc: "tercije"

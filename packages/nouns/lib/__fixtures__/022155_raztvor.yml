@@ -1,0 +1,22 @@
+---
+  id: "22155"
+  word: "råztvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råztvor"
+      acc: "råztvor"
+      gen: "råztvora"
+      loc: "råztvoru"
+      dat: "råztvoru"
+      ins: "råztvorom"
+      voc: "råztvore"
+    plural: 
+      nom: "råztvory"
+      acc: "råztvory"
+      gen: "råztvorov"
+      loc: "råztvorah"
+      dat: "råztvoram"
+      ins: "råztvorami"
+      voc: "råztvory"

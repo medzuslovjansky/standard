@@ -1,0 +1,22 @@
+---
+  id: "23750"
+  word: "prihod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prihod"
+      acc: "prihod"
+      gen: "prihoda"
+      loc: "prihodu"
+      dat: "prihodu"
+      ins: "prihodom"
+      voc: "prihode"
+    plural: 
+      nom: "prihody"
+      acc: "prihody"
+      gen: "prihodov"
+      loc: "prihodah"
+      dat: "prihodam"
+      ins: "prihodami"
+      voc: "prihody"

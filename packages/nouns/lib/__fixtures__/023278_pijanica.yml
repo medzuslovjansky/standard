@@ -1,0 +1,45 @@
+---
+  - 
+    id: "23278"
+    word: "pijanica"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "pijanica"
+        acc: "pijanicų"
+        gen: "pijanice"
+        loc: "pijanici"
+        dat: "pijanici"
+        ins: "pijanicejų"
+        voc: "pijanico"
+      plural: 
+        nom: "pijanice"
+        acc: "pijanice"
+        gen: "pijanic"
+        loc: "pijanicah"
+        dat: "pijanicam"
+        ins: "pijanicami"
+        voc: "pijanice"
+  - 
+    id: "23278"
+    word: "pijanica"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "pijanica"
+        acc: "pijanicų"
+        gen: "pijanice"
+        loc: "pijanici"
+        dat: "pijanici"
+        ins: "pijanicejų"
+        voc: "pijanico"
+      plural: 
+        nom: "pijanice"
+        acc: "pijanice"
+        gen: "pijanic"
+        loc: "pijanicah"
+        dat: "pijanicam"
+        ins: "pijanicami"
+        voc: "pijanice"

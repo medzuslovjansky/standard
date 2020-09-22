@@ -1,0 +1,22 @@
+---
+  id: "3833"
+  word: "prųžina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prųžina"
+      acc: "prųžinų"
+      gen: "prųžiny"
+      loc: "prųžině"
+      dat: "prųžině"
+      ins: "prųžinojų"
+      voc: "prųžino"
+    plural: 
+      nom: "prųžiny"
+      acc: "prųžiny"
+      gen: "prųžin"
+      loc: "prųžinah"
+      dat: "prųžinam"
+      ins: "prųžinami"
+      voc: "prųžiny"

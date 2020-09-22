@@ -1,0 +1,23 @@
+---
+  id: "16141"
+  word: "violinist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "violinist"
+      acc: "violinista"
+      gen: "violinista"
+      loc: "violinistu"
+      dat: "violinistu"
+      ins: "violinistom"
+      voc: "violiniste"
+    plural: 
+      nom: "violinisti"
+      acc: "violinistov"
+      gen: "violinistov"
+      loc: "violinistah"
+      dat: "violinistam"
+      ins: "violinistami"
+      voc: "violinisti"

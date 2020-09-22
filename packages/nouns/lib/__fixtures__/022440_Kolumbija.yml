@@ -1,0 +1,15 @@
+---
+  id: "22440"
+  word: "Kolumbija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kolumbija"
+      acc: "Kolumbijų"
+      gen: "Kolumbije"
+      loc: "Kolumbiji"
+      dat: "Kolumbiji"
+      ins: "Kolumbijejų"
+      voc: "Kolumbijo"

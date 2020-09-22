@@ -1,0 +1,23 @@
+---
+  id: "3256"
+  word: "Makedonec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Makedonec"
+      acc: "Makedonca"
+      gen: "Makedonca"
+      loc: "Makedoncu"
+      dat: "Makedoncu"
+      ins: "Makedoncem"
+      voc: "Makedonče"
+    plural: 
+      nom: "Makedonci"
+      acc: "Makedoncev"
+      gen: "Makedoncev"
+      loc: "Makedoncah"
+      dat: "Makedoncam"
+      ins: "Makedoncami"
+      voc: "Makedonci"

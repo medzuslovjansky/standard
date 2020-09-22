@@ -1,0 +1,22 @@
+---
+  id: "31965"
+  word: "cukina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cukina"
+      acc: "cukinų"
+      gen: "cukiny"
+      loc: "cukině"
+      dat: "cukině"
+      ins: "cukinojų"
+      voc: "cukino"
+    plural: 
+      nom: "cukiny"
+      acc: "cukiny"
+      gen: "cukin"
+      loc: "cukinah"
+      dat: "cukinam"
+      ins: "cukinami"
+      voc: "cukiny"

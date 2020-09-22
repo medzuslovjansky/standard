@@ -1,0 +1,22 @@
+---
+  id: "1698"
+  word: "valuta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "valuta"
+      acc: "valutų"
+      gen: "valuty"
+      loc: "valutě"
+      dat: "valutě"
+      ins: "valutojų"
+      voc: "valuto"
+    plural: 
+      nom: "valuty"
+      acc: "valuty"
+      gen: "valut"
+      loc: "valutah"
+      dat: "valutam"
+      ins: "valutami"
+      voc: "valuty"

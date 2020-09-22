@@ -1,0 +1,22 @@
+---
+  id: "2060"
+  word: "nomer"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nomer"
+      acc: "nomer"
+      gen: "nomera"
+      loc: "nomeru"
+      dat: "nomeru"
+      ins: "nomerom"
+      voc: "nomere"
+    plural: 
+      nom: "nomery"
+      acc: "nomery"
+      gen: "nomerov"
+      loc: "nomerah"
+      dat: "nomeram"
+      ins: "nomerami"
+      voc: "nomery"

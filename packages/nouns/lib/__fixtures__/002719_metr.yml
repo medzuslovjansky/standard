@@ -1,0 +1,22 @@
+---
+  id: "2719"
+  word: "metr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "metr"
+      acc: "metr"
+      gen: "metra"
+      loc: "metru"
+      dat: "metru"
+      ins: "metrom"
+      voc: "metre"
+    plural: 
+      nom: "metry"
+      acc: "metry"
+      gen: "metrov"
+      loc: "metrah"
+      dat: "metram"
+      ins: "metrami"
+      voc: "metry"

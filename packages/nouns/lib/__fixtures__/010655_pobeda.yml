@@ -1,0 +1,22 @@
+---
+  id: "10655"
+  word: "poběda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poběda"
+      acc: "pobědų"
+      gen: "pobědy"
+      loc: "pobědě"
+      dat: "pobědě"
+      ins: "pobědojų"
+      voc: "pobědo"
+    plural: 
+      nom: "pobědy"
+      acc: "pobědy"
+      gen: "poběd"
+      loc: "pobědah"
+      dat: "pobědam"
+      ins: "pobědami"
+      voc: "pobědy"

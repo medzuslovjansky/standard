@@ -1,0 +1,22 @@
+---
+  id: "9167"
+  word: "moćnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moćnosť"
+      acc: "moćnosť"
+      gen: "moćnosti"
+      loc: "moćnosti"
+      dat: "moćnosti"
+      ins: "moćnosťjų"
+      voc: "moćnosti"
+    plural: 
+      nom: "moćnosti"
+      acc: "moćnosti"
+      gen: "moćnostij"
+      loc: "moćnosťah"
+      dat: "moćnosťam"
+      ins: "moćnosťami"
+      voc: "moćnosti"

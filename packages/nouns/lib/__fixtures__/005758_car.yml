@@ -1,0 +1,23 @@
+---
+  id: "5758"
+  word: "caŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "caŕ"
+      acc: "caŕa"
+      gen: "caŕa"
+      loc: "caŕu"
+      dat: "caŕu"
+      ins: "caŕem"
+      voc: "caŕu"
+    plural: 
+      nom: "cari"
+      acc: "caŕev"
+      gen: "caŕev"
+      loc: "caŕah"
+      dat: "caŕam"
+      ins: "caŕami"
+      voc: "cari"

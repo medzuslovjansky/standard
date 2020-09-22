@@ -1,0 +1,15 @@
+---
+  id: "14686"
+  word: "ljudobijstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ljudobijstvo"
+      acc: "ljudobijstvo"
+      gen: "ljudobijstva"
+      loc: "ljudobijstvu"
+      dat: "ljudobijstvu"
+      ins: "ljudobijstvom"
+      voc: "ljudobijstvo"

@@ -1,0 +1,15 @@
+---
+  id: "6990"
+  word: "dějateljnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dějateljnosť"
+      acc: "dějateljnosť"
+      gen: "dějateljnosti"
+      loc: "dějateljnosti"
+      dat: "dějateljnosti"
+      ins: "dějateljnosťjų"
+      voc: "dějateljnosti"

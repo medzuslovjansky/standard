@@ -1,0 +1,22 @@
+---
+  id: "4780"
+  word: "ščetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ščetka"
+      acc: "ščetkų"
+      gen: "ščetky"
+      loc: "ščetkě"
+      dat: "ščetkě"
+      ins: "ščetkojų"
+      voc: "ščetko"
+    plural: 
+      nom: "ščetky"
+      acc: "ščetky"
+      gen: "ščetȯk"
+      loc: "ščetkah"
+      dat: "ščetkam"
+      ins: "ščetkami"
+      voc: "ščetky"

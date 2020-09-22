@@ -1,0 +1,22 @@
+---
+  id: "31178"
+  word: "vibracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vibracija"
+      acc: "vibracijų"
+      gen: "vibracije"
+      loc: "vibraciji"
+      dat: "vibraciji"
+      ins: "vibracijejų"
+      voc: "vibracijo"
+    plural: 
+      nom: "vibracije"
+      acc: "vibracije"
+      gen: "vibracij"
+      loc: "vibracijah"
+      dat: "vibracijam"
+      ins: "vibracijami"
+      voc: "vibracije"

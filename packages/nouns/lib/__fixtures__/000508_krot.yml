@@ -1,0 +1,23 @@
+---
+  id: "508"
+  word: "krȯt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krȯt"
+      acc: "krta"
+      gen: "krta"
+      loc: "krtu"
+      dat: "krtu"
+      ins: "krtom"
+      voc: "krte"
+    plural: 
+      nom: "krti"
+      acc: "krtov"
+      gen: "krtov"
+      loc: "krtah"
+      dat: "krtam"
+      ins: "krtami"
+      voc: "krti"

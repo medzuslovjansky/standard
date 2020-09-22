@@ -1,0 +1,22 @@
+---
+  id: "3773"
+  word: "žalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žalosť"
+      acc: "žalosť"
+      gen: "žalosti"
+      loc: "žalosti"
+      dat: "žalosti"
+      ins: "žalosťjų"
+      voc: "žalosti"
+    plural: 
+      nom: "žalosti"
+      acc: "žalosti"
+      gen: "žalostij"
+      loc: "žalosťah"
+      dat: "žalosťam"
+      ins: "žalosťami"
+      voc: "žalosti"

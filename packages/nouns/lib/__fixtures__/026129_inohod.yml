@@ -1,0 +1,15 @@
+---
+  id: "26129"
+  word: "inohod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "inohod"
+      acc: "inohod"
+      gen: "inohoda"
+      loc: "inohodu"
+      dat: "inohodu"
+      ins: "inohodom"
+      voc: "inohode"

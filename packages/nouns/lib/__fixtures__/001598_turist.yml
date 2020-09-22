@@ -1,0 +1,23 @@
+---
+  id: "1598"
+  word: "turist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "turist"
+      acc: "turista"
+      gen: "turista"
+      loc: "turistu"
+      dat: "turistu"
+      ins: "turistom"
+      voc: "turiste"
+    plural: 
+      nom: "turisti"
+      acc: "turistov"
+      gen: "turistov"
+      loc: "turistah"
+      dat: "turistam"
+      ins: "turistami"
+      voc: "turisti"

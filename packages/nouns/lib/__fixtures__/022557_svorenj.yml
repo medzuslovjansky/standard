@@ -1,0 +1,22 @@
+---
+  id: "22557"
+  word: "svorenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svorenj"
+      acc: "svorenj"
+      gen: "svorenja"
+      loc: "svorenju"
+      dat: "svorenju"
+      ins: "svorenjem"
+      voc: "svorenju"
+    plural: 
+      nom: "svorenje"
+      acc: "svorenje"
+      gen: "svorenjev"
+      loc: "svorenjah"
+      dat: "svorenjam"
+      ins: "svorenjami"
+      voc: "svorenje"

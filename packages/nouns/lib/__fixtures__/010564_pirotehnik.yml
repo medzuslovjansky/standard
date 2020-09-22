@@ -1,0 +1,23 @@
+---
+  id: "10564"
+  word: "pirotehnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pirotehnik"
+      acc: "pirotehnika"
+      gen: "pirotehnika"
+      loc: "pirotehniku"
+      dat: "pirotehniku"
+      ins: "pirotehnikom"
+      voc: "pirotehniče"
+    plural: 
+      nom: "pirotehniki"
+      acc: "pirotehnikov"
+      gen: "pirotehnikov"
+      loc: "pirotehnikah"
+      dat: "pirotehnikam"
+      ins: "pirotehnikami"
+      voc: "pirotehniki"

@@ -1,0 +1,22 @@
+---
+  id: "1917"
+  word: "pojezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pojezd"
+      acc: "pojezd"
+      gen: "pojezda"
+      loc: "pojezdu"
+      dat: "pojezdu"
+      ins: "pojezdom"
+      voc: "pojezde"
+    plural: 
+      nom: "pojezdy"
+      acc: "pojezdy"
+      gen: "pojezdov"
+      loc: "pojezdah"
+      dat: "pojezdam"
+      ins: "pojezdami"
+      voc: "pojezdy"

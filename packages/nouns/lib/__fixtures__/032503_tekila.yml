@@ -1,0 +1,22 @@
+---
+  id: "32503"
+  word: "tekila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tekila"
+      acc: "tekilų"
+      gen: "tekily"
+      loc: "tekilě"
+      dat: "tekilě"
+      ins: "tekilojų"
+      voc: "tekilo"
+    plural: 
+      nom: "tekily"
+      acc: "tekily"
+      gen: "tekil"
+      loc: "tekilah"
+      dat: "tekilam"
+      ins: "tekilami"
+      voc: "tekily"

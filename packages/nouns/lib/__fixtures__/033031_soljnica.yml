@@ -1,0 +1,22 @@
+---
+  id: "33031"
+  word: "soljnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "soljnica"
+      acc: "soljnicų"
+      gen: "soljnice"
+      loc: "soljnici"
+      dat: "soljnici"
+      ins: "soljnicejų"
+      voc: "soljnico"
+    plural: 
+      nom: "soljnice"
+      acc: "soljnice"
+      gen: "soljnic"
+      loc: "soljnicah"
+      dat: "soljnicam"
+      ins: "soljnicami"
+      voc: "soljnice"

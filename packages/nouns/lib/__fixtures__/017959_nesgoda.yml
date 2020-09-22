@@ -1,0 +1,22 @@
+---
+  id: "17959"
+  word: "nesgoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nesgoda"
+      acc: "nesgodų"
+      gen: "nesgody"
+      loc: "nesgodě"
+      dat: "nesgodě"
+      ins: "nesgodojų"
+      voc: "nesgodo"
+    plural: 
+      nom: "nesgody"
+      acc: "nesgody"
+      gen: "nesgod"
+      loc: "nesgodah"
+      dat: "nesgodam"
+      ins: "nesgodami"
+      voc: "nesgody"

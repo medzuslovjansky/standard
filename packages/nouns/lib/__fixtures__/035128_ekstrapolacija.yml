@@ -1,0 +1,22 @@
+---
+  id: "35128"
+  word: "ekstrapolacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ekstrapolacija"
+      acc: "ekstrapolacijų"
+      gen: "ekstrapolacije"
+      loc: "ekstrapolaciji"
+      dat: "ekstrapolaciji"
+      ins: "ekstrapolacijejų"
+      voc: "ekstrapolacijo"
+    plural: 
+      nom: "ekstrapolacije"
+      acc: "ekstrapolacije"
+      gen: "ekstrapolacij"
+      loc: "ekstrapolacijah"
+      dat: "ekstrapolacijam"
+      ins: "ekstrapolacijami"
+      voc: "ekstrapolacije"

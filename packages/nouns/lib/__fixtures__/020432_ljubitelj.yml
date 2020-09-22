@@ -1,0 +1,23 @@
+---
+  id: "20432"
+  word: "ljubitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljubitelj"
+      acc: "ljubitelja"
+      gen: "ljubitelja"
+      loc: "ljubitelju"
+      dat: "ljubitelju"
+      ins: "ljubiteljem"
+      voc: "ljubitelju"
+    plural: 
+      nom: "ljubitelji"
+      acc: "ljubiteljev"
+      gen: "ljubiteljev"
+      loc: "ljubiteljah"
+      dat: "ljubiteljam"
+      ins: "ljubiteljami"
+      voc: "ljubitelji"

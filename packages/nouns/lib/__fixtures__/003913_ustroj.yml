@@ -1,0 +1,22 @@
+---
+  id: "3913"
+  word: "ustroj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ustroj"
+      acc: "ustroj"
+      gen: "ustroja"
+      loc: "ustroju"
+      dat: "ustroju"
+      ins: "ustrojem"
+      voc: "ustroju"
+    plural: 
+      nom: "ustroje"
+      acc: "ustroje"
+      gen: "ustrojev"
+      loc: "ustrojah"
+      dat: "ustrojam"
+      ins: "ustrojami"
+      voc: "ustroje"

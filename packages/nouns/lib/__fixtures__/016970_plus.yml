@@ -1,0 +1,22 @@
+---
+  id: "16970"
+  word: "plus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plus"
+      acc: "plus"
+      gen: "plusa"
+      loc: "plusu"
+      dat: "plusu"
+      ins: "plusom"
+      voc: "pluse"
+    plural: 
+      nom: "plusy"
+      acc: "plusy"
+      gen: "plusov"
+      loc: "plusah"
+      dat: "plusam"
+      ins: "plusami"
+      voc: "plusy"

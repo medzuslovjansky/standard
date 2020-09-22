@@ -1,0 +1,23 @@
+---
+  id: "20617"
+  word: "prěběglik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěběglik"
+      acc: "prěběglika"
+      gen: "prěběglika"
+      loc: "prěběgliku"
+      dat: "prěběgliku"
+      ins: "prěběglikom"
+      voc: "prěběgliče"
+    plural: 
+      nom: "prěběgliki"
+      acc: "prěběglikov"
+      gen: "prěběglikov"
+      loc: "prěběglikah"
+      dat: "prěběglikam"
+      ins: "prěběglikami"
+      voc: "prěběgliki"

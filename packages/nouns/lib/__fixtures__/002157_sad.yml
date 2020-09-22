@@ -1,0 +1,22 @@
+---
+  id: "2157"
+  word: "sad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sad"
+      acc: "sad"
+      gen: "sada"
+      loc: "sadu"
+      dat: "sadu"
+      ins: "sadom"
+      voc: "sade"
+    plural: 
+      nom: "sady"
+      acc: "sady"
+      gen: "sadov"
+      loc: "sadah"
+      dat: "sadam"
+      ins: "sadami"
+      voc: "sady"

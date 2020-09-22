@@ -1,0 +1,22 @@
+---
+  id: "19224"
+  word: "vlåga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlåga"
+      acc: "vlågų"
+      gen: "vlågy"
+      loc: "vlågě"
+      dat: "vlågě"
+      ins: "vlågojų"
+      voc: "vlågo"
+    plural: 
+      nom: "vlågy"
+      acc: "vlågy"
+      gen: "vlåg"
+      loc: "vlågah"
+      dat: "vlågam"
+      ins: "vlågami"
+      voc: "vlågy"

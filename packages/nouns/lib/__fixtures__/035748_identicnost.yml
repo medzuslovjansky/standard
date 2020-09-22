@@ -1,0 +1,22 @@
+---
+  id: "35748"
+  word: "identičnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "identičnosť"
+      acc: "identičnosť"
+      gen: "identičnosti"
+      loc: "identičnosti"
+      dat: "identičnosti"
+      ins: "identičnosťjų"
+      voc: "identičnosti"
+    plural: 
+      nom: "identičnosti"
+      acc: "identičnosti"
+      gen: "identičnostij"
+      loc: "identičnosťah"
+      dat: "identičnosťam"
+      ins: "identičnosťami"
+      voc: "identičnosti"

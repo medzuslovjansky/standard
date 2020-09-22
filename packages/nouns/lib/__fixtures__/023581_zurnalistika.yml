@@ -1,0 +1,22 @@
+---
+  id: "23581"
+  word: "žurnalistika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žurnalistika"
+      acc: "žurnalistikų"
+      gen: "žurnalistiky"
+      loc: "žurnalistikě"
+      dat: "žurnalistikě"
+      ins: "žurnalistikojų"
+      voc: "žurnalistiko"
+    plural: 
+      nom: "žurnalistiky"
+      acc: "žurnalistiky"
+      gen: "žurnalistik"
+      loc: "žurnalistikah"
+      dat: "žurnalistikam"
+      ins: "žurnalistikami"
+      voc: "žurnalistiky"

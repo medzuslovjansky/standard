@@ -1,0 +1,22 @@
+---
+  id: "1518"
+  word: "volja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "volja"
+      acc: "voljų"
+      gen: "volje"
+      loc: "volji"
+      dat: "volji"
+      ins: "voljejų"
+      voc: "voljo"
+    plural: 
+      nom: "volje"
+      acc: "volje"
+      gen: "volej"
+      loc: "voljah"
+      dat: "voljam"
+      ins: "voljami"
+      voc: "volje"

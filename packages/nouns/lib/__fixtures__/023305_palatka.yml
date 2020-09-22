@@ -1,0 +1,22 @@
+---
+  id: "23305"
+  word: "palatka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palatka"
+      acc: "palatkų"
+      gen: "palatky"
+      loc: "palatkě"
+      dat: "palatkě"
+      ins: "palatkojų"
+      voc: "palatko"
+    plural: 
+      nom: "palatky"
+      acc: "palatky"
+      gen: "palatȯk"
+      loc: "palatkah"
+      dat: "palatkam"
+      ins: "palatkami"
+      voc: "palatky"

@@ -1,0 +1,23 @@
+---
+  id: "35265"
+  word: "žrěbec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žrěbec"
+      acc: "žrěbca"
+      gen: "žrěbca"
+      loc: "žrěbcu"
+      dat: "žrěbcu"
+      ins: "žrěbcem"
+      voc: "žrěbče"
+    plural: 
+      nom: "žrěbci"
+      acc: "žrěbcev"
+      gen: "žrěbcev"
+      loc: "žrěbcah"
+      dat: "žrěbcam"
+      ins: "žrěbcami"
+      voc: "žrěbci"

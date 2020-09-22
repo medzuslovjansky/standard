@@ -1,0 +1,22 @@
+---
+  id: "2277"
+  word: "pelena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pelena"
+      acc: "pelenų"
+      gen: "peleny"
+      loc: "peleně"
+      dat: "peleně"
+      ins: "pelenojų"
+      voc: "peleno"
+    plural: 
+      nom: "peleny"
+      acc: "peleny"
+      gen: "pelen"
+      loc: "pelenah"
+      dat: "pelenam"
+      ins: "pelenami"
+      voc: "peleny"

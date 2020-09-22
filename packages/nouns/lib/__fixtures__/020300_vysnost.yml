@@ -1,0 +1,22 @@
+---
+  id: "20300"
+  word: "vyšnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vyšnosť"
+      acc: "vyšnosť"
+      gen: "vyšnosti"
+      loc: "vyšnosti"
+      dat: "vyšnosti"
+      ins: "vyšnosťjų"
+      voc: "vyšnosti"
+    plural: 
+      nom: "vyšnosti"
+      acc: "vyšnosti"
+      gen: "vyšnostij"
+      loc: "vyšnosťah"
+      dat: "vyšnosťam"
+      ins: "vyšnosťami"
+      voc: "vyšnosti"

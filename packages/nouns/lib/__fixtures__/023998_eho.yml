@@ -1,0 +1,22 @@
+---
+  id: "23998"
+  word: "eho"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "eho"
+      acc: "eho"
+      gen: "eha"
+      loc: "ehu"
+      dat: "ehu"
+      ins: "ehom"
+      voc: "eho"
+    plural: 
+      nom: "eha"
+      acc: "eha"
+      gen: "eh"
+      loc: "ehah"
+      dat: "eham"
+      ins: "ehami"
+      voc: "eha"

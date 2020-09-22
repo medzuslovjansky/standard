@@ -1,0 +1,22 @@
+---
+  id: "21433"
+  word: "poražka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poražka"
+      acc: "poražkų"
+      gen: "poražky"
+      loc: "poražkě"
+      dat: "poražkě"
+      ins: "poražkojų"
+      voc: "poražko"
+    plural: 
+      nom: "poražky"
+      acc: "poražky"
+      gen: "poražek"
+      loc: "poražkah"
+      dat: "poražkam"
+      ins: "poražkami"
+      voc: "poražky"

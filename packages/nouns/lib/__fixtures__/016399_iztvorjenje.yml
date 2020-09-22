@@ -1,0 +1,15 @@
+---
+  id: "16399"
+  word: "iztvorjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "iztvorjeńje"
+      acc: "iztvorjeńje"
+      gen: "iztvorjeńja"
+      loc: "iztvorjeńju"
+      dat: "iztvorjeńju"
+      ins: "iztvorjeńjem"
+      voc: "iztvorjeńje"

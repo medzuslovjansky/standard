@@ -1,0 +1,22 @@
+---
+  id: "30219"
+  word: "råzkajańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzkajańje"
+      acc: "råzkajańje"
+      gen: "råzkajańja"
+      loc: "råzkajańju"
+      dat: "råzkajańju"
+      ins: "råzkajańjem"
+      voc: "råzkajańje"
+    plural: 
+      nom: "råzkajańja"
+      acc: "råzkajańja"
+      gen: "råzkajanij"
+      loc: "råzkajańjah"
+      dat: "råzkajańjam"
+      ins: "råzkajańjami"
+      voc: "råzkajańja"

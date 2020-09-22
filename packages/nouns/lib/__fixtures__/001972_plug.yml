@@ -1,0 +1,22 @@
+---
+  id: "1972"
+  word: "plug"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plug"
+      acc: "plug"
+      gen: "pluga"
+      loc: "plugu"
+      dat: "plugu"
+      ins: "plugom"
+      voc: "pluže"
+    plural: 
+      nom: "plugy"
+      acc: "plugy"
+      gen: "plugov"
+      loc: "plugah"
+      dat: "plugam"
+      ins: "plugami"
+      voc: "plugy"

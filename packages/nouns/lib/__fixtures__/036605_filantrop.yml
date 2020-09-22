@@ -1,0 +1,23 @@
+---
+  id: "36605"
+  word: "filantrop"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "filantrop"
+      acc: "filantropa"
+      gen: "filantropa"
+      loc: "filantropu"
+      dat: "filantropu"
+      ins: "filantropom"
+      voc: "filantrope"
+    plural: 
+      nom: "filantropi"
+      acc: "filantropov"
+      gen: "filantropov"
+      loc: "filantropah"
+      dat: "filantropam"
+      ins: "filantropami"
+      voc: "filantropi"

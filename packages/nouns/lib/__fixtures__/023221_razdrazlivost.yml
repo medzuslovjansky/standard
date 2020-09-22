@@ -1,0 +1,22 @@
+---
+  id: "23221"
+  word: "råzdražlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzdražlivosť"
+      acc: "råzdražlivosť"
+      gen: "råzdražlivosti"
+      loc: "råzdražlivosti"
+      dat: "råzdražlivosti"
+      ins: "råzdražlivosťjų"
+      voc: "råzdražlivosti"
+    plural: 
+      nom: "råzdražlivosti"
+      acc: "råzdražlivosti"
+      gen: "råzdražlivostij"
+      loc: "råzdražlivosťah"
+      dat: "råzdražlivosťam"
+      ins: "råzdražlivosťami"
+      voc: "råzdražlivosti"

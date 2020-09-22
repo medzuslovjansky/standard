@@ -1,0 +1,22 @@
+---
+  id: "35429"
+  word: "tkanj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tkanj"
+      acc: "tkanj"
+      gen: "tkanji"
+      loc: "tkanji"
+      dat: "tkanji"
+      ins: "tkanjjų"
+      voc: "tkanji"
+    plural: 
+      nom: "tkanji"
+      acc: "tkanji"
+      gen: "tkanjij"
+      loc: "tkanjah"
+      dat: "tkanjam"
+      ins: "tkanjami"
+      voc: "tkanji"

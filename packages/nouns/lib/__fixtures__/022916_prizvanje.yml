@@ -1,0 +1,22 @@
+---
+  id: "22916"
+  word: "prizvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prizvańje"
+      acc: "prizvańje"
+      gen: "prizvańja"
+      loc: "prizvańju"
+      dat: "prizvańju"
+      ins: "prizvańjem"
+      voc: "prizvańje"
+    plural: 
+      nom: "prizvańja"
+      acc: "prizvańja"
+      gen: "prizvanij"
+      loc: "prizvańjah"
+      dat: "prizvańjam"
+      ins: "prizvańjami"
+      voc: "prizvańja"

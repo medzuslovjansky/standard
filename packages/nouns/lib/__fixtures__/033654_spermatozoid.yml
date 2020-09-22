@@ -1,0 +1,22 @@
+---
+  id: "33654"
+  word: "spermatozoid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spermatozoid"
+      acc: "spermatozoid"
+      gen: "spermatozoida"
+      loc: "spermatozoidu"
+      dat: "spermatozoidu"
+      ins: "spermatozoidom"
+      voc: "spermatozoide"
+    plural: 
+      nom: "spermatozoidy"
+      acc: "spermatozoidy"
+      gen: "spermatozoidov"
+      loc: "spermatozoidah"
+      dat: "spermatozoidam"
+      ins: "spermatozoidami"
+      voc: "spermatozoidy"

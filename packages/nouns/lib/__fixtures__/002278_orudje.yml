@@ -1,0 +1,22 @@
+---
+  id: "2278"
+  word: "orųďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "orųďje"
+      acc: "orųďje"
+      gen: "orųďja"
+      loc: "orųďju"
+      dat: "orųďju"
+      ins: "orųďjem"
+      voc: "orųďje"
+    plural: 
+      nom: "orųďja"
+      acc: "orųďja"
+      gen: "orųdij"
+      loc: "orųďjah"
+      dat: "orųďjam"
+      ins: "orųďjami"
+      voc: "orųďja"

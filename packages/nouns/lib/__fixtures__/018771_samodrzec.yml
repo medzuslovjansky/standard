@@ -1,0 +1,23 @@
+---
+  id: "18771"
+  word: "samodŕžec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "samodŕžec"
+      acc: "samodŕžca"
+      gen: "samodŕžca"
+      loc: "samodŕžcu"
+      dat: "samodŕžcu"
+      ins: "samodŕžcem"
+      voc: "samodŕžče"
+    plural: 
+      nom: "samodŕžci"
+      acc: "samodŕžcev"
+      gen: "samodŕžcev"
+      loc: "samodŕžcah"
+      dat: "samodŕžcam"
+      ins: "samodŕžcami"
+      voc: "samodŕžci"

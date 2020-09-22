@@ -1,0 +1,22 @@
+---
+  id: "32990"
+  word: "gong"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gong"
+      acc: "gong"
+      gen: "gonga"
+      loc: "gongu"
+      dat: "gongu"
+      ins: "gongom"
+      voc: "gonže"
+    plural: 
+      nom: "gongy"
+      acc: "gongy"
+      gen: "gongov"
+      loc: "gongah"
+      dat: "gongam"
+      ins: "gongami"
+      voc: "gongy"

@@ -1,0 +1,22 @@
+---
+  id: "32020"
+  word: "žuravina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žuravina"
+      acc: "žuravinų"
+      gen: "žuraviny"
+      loc: "žuravině"
+      dat: "žuravině"
+      ins: "žuravinojų"
+      voc: "žuravino"
+    plural: 
+      nom: "žuraviny"
+      acc: "žuraviny"
+      gen: "žuravin"
+      loc: "žuravinah"
+      dat: "žuravinam"
+      ins: "žuravinami"
+      voc: "žuraviny"

@@ -1,0 +1,22 @@
+---
+  id: "32508"
+  word: "medvědik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "medvědik"
+      acc: "medvědik"
+      gen: "medvědika"
+      loc: "medvědiku"
+      dat: "medvědiku"
+      ins: "medvědikom"
+      voc: "medvědiče"
+    plural: 
+      nom: "medvědiky"
+      acc: "medvědiky"
+      gen: "medvědikov"
+      loc: "medvědikah"
+      dat: "medvědikam"
+      ins: "medvědikami"
+      voc: "medvědiky"

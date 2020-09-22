@@ -1,0 +1,22 @@
+---
+  id: "3175"
+  word: "dekret"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dekret"
+      acc: "dekret"
+      gen: "dekreta"
+      loc: "dekretu"
+      dat: "dekretu"
+      ins: "dekretom"
+      voc: "dekrete"
+    plural: 
+      nom: "dekrety"
+      acc: "dekrety"
+      gen: "dekretov"
+      loc: "dekretah"
+      dat: "dekretam"
+      ins: "dekretami"
+      voc: "dekrety"

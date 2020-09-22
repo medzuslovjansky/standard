@@ -1,0 +1,22 @@
+---
+  id: "23769"
+  word: "patent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "patent"
+      acc: "patent"
+      gen: "patenta"
+      loc: "patentu"
+      dat: "patentu"
+      ins: "patentom"
+      voc: "patente"
+    plural: 
+      nom: "patenty"
+      acc: "patenty"
+      gen: "patentov"
+      loc: "patentah"
+      dat: "patentam"
+      ins: "patentami"
+      voc: "patenty"

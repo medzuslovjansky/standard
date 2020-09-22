@@ -1,0 +1,22 @@
+---
+  id: "26128"
+  word: "injekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "injekcija"
+      acc: "injekcijų"
+      gen: "injekcije"
+      loc: "injekciji"
+      dat: "injekciji"
+      ins: "injekcijejų"
+      voc: "injekcijo"
+    plural: 
+      nom: "injekcije"
+      acc: "injekcije"
+      gen: "injekcij"
+      loc: "injekcijah"
+      dat: "injekcijam"
+      ins: "injekcijami"
+      voc: "injekcije"

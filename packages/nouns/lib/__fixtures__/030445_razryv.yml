@@ -1,0 +1,22 @@
+---
+  id: "30445"
+  word: "råzryv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzryv"
+      acc: "råzryv"
+      gen: "råzryva"
+      loc: "råzryvu"
+      dat: "råzryvu"
+      ins: "råzryvom"
+      voc: "råzryve"
+    plural: 
+      nom: "råzryvy"
+      acc: "råzryvy"
+      gen: "råzryvov"
+      loc: "råzryvah"
+      dat: "råzryvam"
+      ins: "råzryvami"
+      voc: "råzryvy"

@@ -1,0 +1,22 @@
+---
+  id: "4618"
+  word: "korpus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "korpus"
+      acc: "korpus"
+      gen: "korpusa"
+      loc: "korpusu"
+      dat: "korpusu"
+      ins: "korpusom"
+      voc: "korpuse"
+    plural: 
+      nom: "korpusy"
+      acc: "korpusy"
+      gen: "korpusov"
+      loc: "korpusah"
+      dat: "korpusam"
+      ins: "korpusami"
+      voc: "korpusy"

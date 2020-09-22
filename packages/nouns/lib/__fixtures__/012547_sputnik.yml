@@ -1,0 +1,22 @@
+---
+  id: "12547"
+  word: "spųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spųtnik"
+      acc: "spųtnik"
+      gen: "spųtnika"
+      loc: "spųtniku"
+      dat: "spųtniku"
+      ins: "spųtnikom"
+      voc: "spųtniče"
+    plural: 
+      nom: "spųtniky"
+      acc: "spųtniky"
+      gen: "spųtnikov"
+      loc: "spųtnikah"
+      dat: "spųtnikam"
+      ins: "spųtnikami"
+      voc: "spųtniky"

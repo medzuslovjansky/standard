@@ -1,0 +1,15 @@
+---
+  id: "15566"
+  word: "starci"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "starci"
+      acc: "starci"
+      gen: "starcov"
+      loc: "starcah"
+      dat: "starcam"
+      ins: "starcami"
+      voc: "starci"

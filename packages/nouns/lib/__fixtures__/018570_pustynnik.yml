@@ -1,0 +1,23 @@
+---
+  id: "18570"
+  word: "pustynnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pustynnik"
+      acc: "pustynnika"
+      gen: "pustynnika"
+      loc: "pustynniku"
+      dat: "pustynniku"
+      ins: "pustynnikom"
+      voc: "pustynniče"
+    plural: 
+      nom: "pustynniki"
+      acc: "pustynnikov"
+      gen: "pustynnikov"
+      loc: "pustynnikah"
+      dat: "pustynnikam"
+      ins: "pustynnikami"
+      voc: "pustynniki"

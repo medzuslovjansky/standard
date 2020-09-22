@@ -1,0 +1,22 @@
+---
+  id: "24044"
+  word: "absces"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "absces"
+      acc: "absces"
+      gen: "abscesa"
+      loc: "abscesu"
+      dat: "abscesu"
+      ins: "abscesom"
+      voc: "abscese"
+    plural: 
+      nom: "abscesy"
+      acc: "abscesy"
+      gen: "abscesov"
+      loc: "abscesah"
+      dat: "abscesam"
+      ins: "abscesami"
+      voc: "abscesy"

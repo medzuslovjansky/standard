@@ -1,0 +1,22 @@
+---
+  id: "34611"
+  word: "oskųdnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oskųdnosť"
+      acc: "oskųdnosť"
+      gen: "oskųdnosti"
+      loc: "oskųdnosti"
+      dat: "oskųdnosti"
+      ins: "oskųdnosťjų"
+      voc: "oskųdnosti"
+    plural: 
+      nom: "oskųdnosti"
+      acc: "oskųdnosti"
+      gen: "oskųdnostij"
+      loc: "oskųdnosťah"
+      dat: "oskųdnosťam"
+      ins: "oskųdnosťami"
+      voc: "oskųdnosti"

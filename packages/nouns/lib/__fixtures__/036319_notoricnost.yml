@@ -1,0 +1,22 @@
+---
+  id: "36319"
+  word: "notoričnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "notoričnosť"
+      acc: "notoričnosť"
+      gen: "notoričnosti"
+      loc: "notoričnosti"
+      dat: "notoričnosti"
+      ins: "notoričnosťjų"
+      voc: "notoričnosti"
+    plural: 
+      nom: "notoričnosti"
+      acc: "notoričnosti"
+      gen: "notoričnostij"
+      loc: "notoričnosťah"
+      dat: "notoričnosťam"
+      ins: "notoričnosťami"
+      voc: "notoričnosti"

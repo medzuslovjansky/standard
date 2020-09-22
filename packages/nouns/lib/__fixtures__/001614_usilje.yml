@@ -1,0 +1,22 @@
+---
+  id: "1614"
+  word: "usiľje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "usiľje"
+      acc: "usiľje"
+      gen: "usiľja"
+      loc: "usiľju"
+      dat: "usiľju"
+      ins: "usiľjem"
+      voc: "usiľje"
+    plural: 
+      nom: "usiľja"
+      acc: "usiľja"
+      gen: "usilij"
+      loc: "usiľjah"
+      dat: "usiľjam"
+      ins: "usiľjami"
+      voc: "usiľja"

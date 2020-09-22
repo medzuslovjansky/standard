@@ -1,0 +1,22 @@
+---
+  id: "7743"
+  word: "hepa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hepa"
+      acc: "hepų"
+      gen: "hepy"
+      loc: "hepě"
+      dat: "hepě"
+      ins: "hepojų"
+      voc: "hepo"
+    plural: 
+      nom: "hepy"
+      acc: "hepy"
+      gen: "hep"
+      loc: "hepah"
+      dat: "hepam"
+      ins: "hepami"
+      voc: "hepy"

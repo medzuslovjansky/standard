@@ -1,0 +1,22 @@
+---
+  id: "22195"
+  word: "podvęzka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podvęzka"
+      acc: "podvęzkų"
+      gen: "podvęzky"
+      loc: "podvęzkě"
+      dat: "podvęzkě"
+      ins: "podvęzkojų"
+      voc: "podvęzko"
+    plural: 
+      nom: "podvęzky"
+      acc: "podvęzky"
+      gen: "podvęzȯk"
+      loc: "podvęzkah"
+      dat: "podvęzkam"
+      ins: "podvęzkami"
+      voc: "podvęzky"

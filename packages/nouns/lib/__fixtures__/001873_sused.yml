@@ -1,0 +1,23 @@
+---
+  id: "1873"
+  word: "sųsěd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųsěd"
+      acc: "sųsěda"
+      gen: "sųsěda"
+      loc: "sųsědu"
+      dat: "sųsědu"
+      ins: "sųsědom"
+      voc: "sųsěde"
+    plural: 
+      nom: "sųsědi"
+      acc: "sųsědov"
+      gen: "sųsědov"
+      loc: "sųsědah"
+      dat: "sųsědam"
+      ins: "sųsědami"
+      voc: "sųsědi"

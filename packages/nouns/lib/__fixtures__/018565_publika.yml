@@ -1,0 +1,22 @@
+---
+  id: "18565"
+  word: "publika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "publika"
+      acc: "publikų"
+      gen: "publiky"
+      loc: "publikě"
+      dat: "publikě"
+      ins: "publikojų"
+      voc: "publiko"
+    plural: 
+      nom: "publiky"
+      acc: "publiky"
+      gen: "publik"
+      loc: "publikah"
+      dat: "publikam"
+      ins: "publikami"
+      voc: "publiky"

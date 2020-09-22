@@ -1,0 +1,22 @@
+---
+  id: "35049"
+  word: "panorama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "panorama"
+      acc: "panoramų"
+      gen: "panoramy"
+      loc: "panoramě"
+      dat: "panoramě"
+      ins: "panoramojų"
+      voc: "panoramo"
+    plural: 
+      nom: "panoramy"
+      acc: "panoramy"
+      gen: "panoram"
+      loc: "panoramah"
+      dat: "panoramam"
+      ins: "panoramami"
+      voc: "panoramy"

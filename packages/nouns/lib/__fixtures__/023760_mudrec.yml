@@ -1,0 +1,23 @@
+---
+  id: "23760"
+  word: "mųdrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mųdrec"
+      acc: "mųdreca"
+      gen: "mųdreca"
+      loc: "mųdrecu"
+      dat: "mųdrecu"
+      ins: "mųdrecem"
+      voc: "mųdreče"
+    plural: 
+      nom: "mųdreci"
+      acc: "mųdrecev"
+      gen: "mųdrecev"
+      loc: "mųdrecah"
+      dat: "mųdrecam"
+      ins: "mųdrecami"
+      voc: "mųdreci"

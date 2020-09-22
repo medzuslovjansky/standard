@@ -1,0 +1,22 @@
+---
+  id: "33007"
+  word: "gluhuněmota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gluhuněmota"
+      acc: "gluhuněmotų"
+      gen: "gluhuněmoty"
+      loc: "gluhuněmotě"
+      dat: "gluhuněmotě"
+      ins: "gluhuněmotojų"
+      voc: "gluhuněmoto"
+    plural: 
+      nom: "gluhuněmoty"
+      acc: "gluhuněmoty"
+      gen: "gluhuněmot"
+      loc: "gluhuněmotah"
+      dat: "gluhuněmotam"
+      ins: "gluhuněmotami"
+      voc: "gluhuněmoty"

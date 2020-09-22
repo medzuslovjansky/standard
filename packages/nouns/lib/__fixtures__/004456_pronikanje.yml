@@ -1,0 +1,22 @@
+---
+  id: "4456"
+  word: "pronikańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pronikańje"
+      acc: "pronikańje"
+      gen: "pronikańja"
+      loc: "pronikańju"
+      dat: "pronikańju"
+      ins: "pronikańjem"
+      voc: "pronikańje"
+    plural: 
+      nom: "pronikańja"
+      acc: "pronikańja"
+      gen: "pronikanij"
+      loc: "pronikańjah"
+      dat: "pronikańjam"
+      ins: "pronikańjami"
+      voc: "pronikańja"

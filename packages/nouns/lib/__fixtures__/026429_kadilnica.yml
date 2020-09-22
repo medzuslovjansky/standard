@@ -1,0 +1,22 @@
+---
+  id: "26429"
+  word: "kadiľnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kadiľnica"
+      acc: "kadiľnicų"
+      gen: "kadiľnice"
+      loc: "kadiľnici"
+      dat: "kadiľnici"
+      ins: "kadiľnicejų"
+      voc: "kadiľnico"
+    plural: 
+      nom: "kadiľnice"
+      acc: "kadiľnice"
+      gen: "kadiľnic"
+      loc: "kadiľnicah"
+      dat: "kadiľnicam"
+      ins: "kadiľnicami"
+      voc: "kadiľnice"

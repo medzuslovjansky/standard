@@ -1,0 +1,24 @@
+---
+  id: "1112"
+  word: "osel"
+  meta: 
+    irregularity: "(osla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "osėl"
+      acc: "osla"
+      gen: "osla"
+      loc: "oslu"
+      dat: "oslu"
+      ins: "oslom"
+      voc: "osle"
+    plural: 
+      nom: "osli"
+      acc: "oslov"
+      gen: "oslov"
+      loc: "oslah"
+      dat: "oslam"
+      ins: "oslami"
+      voc: "osli"

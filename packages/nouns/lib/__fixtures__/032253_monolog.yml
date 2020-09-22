@@ -1,0 +1,22 @@
+---
+  id: "32253"
+  word: "monolog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monolog"
+      acc: "monolog"
+      gen: "monologa"
+      loc: "monologu"
+      dat: "monologu"
+      ins: "monologom"
+      voc: "monolože"
+    plural: 
+      nom: "monology"
+      acc: "monology"
+      gen: "monologov"
+      loc: "monologah"
+      dat: "monologam"
+      ins: "monologami"
+      voc: "monology"

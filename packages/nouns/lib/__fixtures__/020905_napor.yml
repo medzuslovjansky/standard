@@ -1,0 +1,22 @@
+---
+  id: "20905"
+  word: "napor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napor"
+      acc: "napor"
+      gen: "napora"
+      loc: "naporu"
+      dat: "naporu"
+      ins: "naporom"
+      voc: "napore"
+    plural: 
+      nom: "napory"
+      acc: "napory"
+      gen: "naporov"
+      loc: "naporah"
+      dat: "naporam"
+      ins: "naporami"
+      voc: "napory"

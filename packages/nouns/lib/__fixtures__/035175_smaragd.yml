@@ -1,0 +1,22 @@
+---
+  id: "35175"
+  word: "smaragd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smaragd"
+      acc: "smaragd"
+      gen: "smaragda"
+      loc: "smaragdu"
+      dat: "smaragdu"
+      ins: "smaragdom"
+      voc: "smaragde"
+    plural: 
+      nom: "smaragdy"
+      acc: "smaragdy"
+      gen: "smaragdov"
+      loc: "smaragdah"
+      dat: "smaragdam"
+      ins: "smaragdami"
+      voc: "smaragdy"

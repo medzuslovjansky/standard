@@ -1,0 +1,22 @@
+---
+  id: "17723"
+  word: "lancuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lancuh"
+      acc: "lancuh"
+      gen: "lancuha"
+      loc: "lancuhu"
+      dat: "lancuhu"
+      ins: "lancuhom"
+      voc: "lancuše"
+    plural: 
+      nom: "lancuhy"
+      acc: "lancuhy"
+      gen: "lancuhov"
+      loc: "lancuhah"
+      dat: "lancuham"
+      ins: "lancuhami"
+      voc: "lancuhy"

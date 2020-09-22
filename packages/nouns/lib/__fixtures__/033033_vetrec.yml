@@ -1,0 +1,22 @@
+---
+  id: "33033"
+  word: "větrec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "větrec"
+      acc: "větrec"
+      gen: "větreca"
+      loc: "větrecu"
+      dat: "větrecu"
+      ins: "větrecem"
+      voc: "větreče"
+    plural: 
+      nom: "větrece"
+      acc: "větrece"
+      gen: "větrecev"
+      loc: "větrecah"
+      dat: "větrecam"
+      ins: "větrecami"
+      voc: "větrece"

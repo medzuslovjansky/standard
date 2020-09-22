@@ -1,0 +1,23 @@
+---
+  id: "9275"
+  word: "mųčitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mųčitelj"
+      acc: "mųčitelja"
+      gen: "mųčitelja"
+      loc: "mųčitelju"
+      dat: "mųčitelju"
+      ins: "mųčiteljem"
+      voc: "mųčitelju"
+    plural: 
+      nom: "mųčitelji"
+      acc: "mųčiteljev"
+      gen: "mųčiteljev"
+      loc: "mųčiteljah"
+      dat: "mųčiteljam"
+      ins: "mųčiteljami"
+      voc: "mųčitelji"

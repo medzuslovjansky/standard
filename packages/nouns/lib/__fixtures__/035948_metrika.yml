@@ -1,0 +1,22 @@
+---
+  id: "35948"
+  word: "metrika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "metrika"
+      acc: "metrikų"
+      gen: "metriky"
+      loc: "metrikě"
+      dat: "metrikě"
+      ins: "metrikojų"
+      voc: "metriko"
+    plural: 
+      nom: "metriky"
+      acc: "metriky"
+      gen: "metrik"
+      loc: "metrikah"
+      dat: "metrikam"
+      ins: "metrikami"
+      voc: "metriky"

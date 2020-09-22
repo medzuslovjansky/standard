@@ -1,0 +1,22 @@
+---
+  id: "35892"
+  word: "sěmejstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sěmejstvo"
+      acc: "sěmejstvo"
+      gen: "sěmejstva"
+      loc: "sěmejstvu"
+      dat: "sěmejstvu"
+      ins: "sěmejstvom"
+      voc: "sěmejstvo"
+    plural: 
+      nom: "sěmejstva"
+      acc: "sěmejstva"
+      gen: "sěmejstv"
+      loc: "sěmejstvah"
+      dat: "sěmejstvam"
+      ins: "sěmejstvami"
+      voc: "sěmejstva"

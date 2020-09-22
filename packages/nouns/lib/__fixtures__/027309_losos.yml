@@ -1,0 +1,23 @@
+---
+  id: "27309"
+  word: "losoś"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "losoś"
+      acc: "losośa"
+      gen: "losośa"
+      loc: "losośu"
+      dat: "losośu"
+      ins: "losośem"
+      voc: "losośu"
+    plural: 
+      nom: "lososi"
+      acc: "losośev"
+      gen: "losośev"
+      loc: "losośah"
+      dat: "losośam"
+      ins: "losośami"
+      voc: "lososi"

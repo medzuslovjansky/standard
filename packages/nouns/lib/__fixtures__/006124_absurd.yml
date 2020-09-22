@@ -1,0 +1,22 @@
+---
+  id: "6124"
+  word: "absurd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "absurd"
+      acc: "absurd"
+      gen: "absurda"
+      loc: "absurdu"
+      dat: "absurdu"
+      ins: "absurdom"
+      voc: "absurde"
+    plural: 
+      nom: "absurdy"
+      acc: "absurdy"
+      gen: "absurdov"
+      loc: "absurdah"
+      dat: "absurdam"
+      ins: "absurdami"
+      voc: "absurdy"

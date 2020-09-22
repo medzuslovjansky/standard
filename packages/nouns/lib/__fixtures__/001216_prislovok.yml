@@ -1,0 +1,22 @@
+---
+  id: "1216"
+  word: "prislovȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prislovȯk"
+      acc: "prislovȯk"
+      gen: "prislovka"
+      loc: "prislovku"
+      dat: "prislovku"
+      ins: "prislovkom"
+      voc: "prislovče"
+    plural: 
+      nom: "prislovky"
+      acc: "prislovky"
+      gen: "prislovkov"
+      loc: "prislovkah"
+      dat: "prislovkam"
+      ins: "prislovkami"
+      voc: "prislovky"

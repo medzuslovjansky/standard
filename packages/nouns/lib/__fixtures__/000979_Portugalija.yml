@@ -1,0 +1,15 @@
+---
+  id: "979"
+  word: "Portugalija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Portugalija"
+      acc: "Portugalijų"
+      gen: "Portugalije"
+      loc: "Portugaliji"
+      dat: "Portugaliji"
+      ins: "Portugalijejų"
+      voc: "Portugalijo"

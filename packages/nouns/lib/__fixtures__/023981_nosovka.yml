@@ -1,0 +1,22 @@
+---
+  id: "23981"
+  word: "nosovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nosovka"
+      acc: "nosovkų"
+      gen: "nosovky"
+      loc: "nosovkě"
+      dat: "nosovkě"
+      ins: "nosovkojų"
+      voc: "nosovko"
+    plural: 
+      nom: "nosovky"
+      acc: "nosovky"
+      gen: "nosovȯk"
+      loc: "nosovkah"
+      dat: "nosovkam"
+      ins: "nosovkami"
+      voc: "nosovky"

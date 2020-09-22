@@ -1,0 +1,22 @@
+---
+  id: "6965"
+  word: "darovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "darovańje"
+      acc: "darovańje"
+      gen: "darovańja"
+      loc: "darovańju"
+      dat: "darovańju"
+      ins: "darovańjem"
+      voc: "darovańje"
+    plural: 
+      nom: "darovańja"
+      acc: "darovańja"
+      gen: "darovanij"
+      loc: "darovańjah"
+      dat: "darovańjam"
+      ins: "darovańjami"
+      voc: "darovańja"

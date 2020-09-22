@@ -1,0 +1,23 @@
+---
+  id: "27165"
+  word: "lěvak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lěvak"
+      acc: "lěvaka"
+      gen: "lěvaka"
+      loc: "lěvaku"
+      dat: "lěvaku"
+      ins: "lěvakom"
+      voc: "lěvače"
+    plural: 
+      nom: "lěvaki"
+      acc: "lěvakov"
+      gen: "lěvakov"
+      loc: "lěvakah"
+      dat: "lěvakam"
+      ins: "lěvakami"
+      voc: "lěvaki"

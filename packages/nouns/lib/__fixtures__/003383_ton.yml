@@ -1,0 +1,22 @@
+---
+  id: "3383"
+  word: "ton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ton"
+      acc: "ton"
+      gen: "tona"
+      loc: "tonu"
+      dat: "tonu"
+      ins: "tonom"
+      voc: "tone"
+    plural: 
+      nom: "tony"
+      acc: "tony"
+      gen: "tonov"
+      loc: "tonah"
+      dat: "tonam"
+      ins: "tonami"
+      voc: "tony"

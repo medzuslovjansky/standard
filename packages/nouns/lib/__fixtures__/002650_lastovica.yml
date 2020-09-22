@@ -1,0 +1,22 @@
+---
+  id: "2650"
+  word: "lastovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lastovica"
+      acc: "lastovicų"
+      gen: "lastovice"
+      loc: "lastovici"
+      dat: "lastovici"
+      ins: "lastovicejų"
+      voc: "lastovico"
+    plural: 
+      nom: "lastovice"
+      acc: "lastovice"
+      gen: "lastovic"
+      loc: "lastovicah"
+      dat: "lastovicam"
+      ins: "lastovicami"
+      voc: "lastovice"

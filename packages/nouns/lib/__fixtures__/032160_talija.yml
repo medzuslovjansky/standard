@@ -1,0 +1,22 @@
+---
+  id: "32160"
+  word: "talija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "talija"
+      acc: "talijų"
+      gen: "talije"
+      loc: "taliji"
+      dat: "taliji"
+      ins: "talijejų"
+      voc: "talijo"
+    plural: 
+      nom: "talije"
+      acc: "talije"
+      gen: "talij"
+      loc: "talijah"
+      dat: "talijam"
+      ins: "talijami"
+      voc: "talije"

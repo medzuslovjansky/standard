@@ -1,0 +1,15 @@
+---
+  id: "36888"
+  word: "Laba"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Laba"
+      acc: "Labų"
+      gen: "Laby"
+      loc: "Labě"
+      dat: "Labě"
+      ins: "Labojų"
+      voc: "Labo"

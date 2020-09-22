@@ -1,0 +1,22 @@
+---
+  id: "15389"
+  word: "moda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moda"
+      acc: "modų"
+      gen: "mody"
+      loc: "modě"
+      dat: "modě"
+      ins: "modojų"
+      voc: "modo"
+    plural: 
+      nom: "mody"
+      acc: "mody"
+      gen: "mod"
+      loc: "modah"
+      dat: "modam"
+      ins: "modami"
+      voc: "mody"

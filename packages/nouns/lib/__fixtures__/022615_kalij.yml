@@ -1,0 +1,15 @@
+---
+  id: "22615"
+  word: "kalij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kalij"
+      acc: "kalij"
+      gen: "kalija"
+      loc: "kaliju"
+      dat: "kaliju"
+      ins: "kalijem"
+      voc: "kaliju"

@@ -1,0 +1,22 @@
+---
+  id: "22276"
+  word: "izvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izvod"
+      acc: "izvod"
+      gen: "izvoda"
+      loc: "izvodu"
+      dat: "izvodu"
+      ins: "izvodom"
+      voc: "izvode"
+    plural: 
+      nom: "izvody"
+      acc: "izvody"
+      gen: "izvodov"
+      loc: "izvodah"
+      dat: "izvodam"
+      ins: "izvodami"
+      voc: "izvody"

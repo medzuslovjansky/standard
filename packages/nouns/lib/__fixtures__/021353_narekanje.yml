@@ -1,0 +1,22 @@
+---
+  id: "21353"
+  word: "narěkańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "narěkańje"
+      acc: "narěkańje"
+      gen: "narěkańja"
+      loc: "narěkańju"
+      dat: "narěkańju"
+      ins: "narěkańjem"
+      voc: "narěkańje"
+    plural: 
+      nom: "narěkańja"
+      acc: "narěkańja"
+      gen: "narěkanij"
+      loc: "narěkańjah"
+      dat: "narěkańjam"
+      ins: "narěkańjami"
+      voc: "narěkańja"

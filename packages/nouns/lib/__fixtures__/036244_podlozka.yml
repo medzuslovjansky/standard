@@ -1,0 +1,22 @@
+---
+  id: "36244"
+  word: "podložka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podložka"
+      acc: "podložkų"
+      gen: "podložky"
+      loc: "podložkě"
+      dat: "podložkě"
+      ins: "podložkojų"
+      voc: "podložko"
+    plural: 
+      nom: "podložky"
+      acc: "podložky"
+      gen: "podložek"
+      loc: "podložkah"
+      dat: "podložkam"
+      ins: "podložkami"
+      voc: "podložky"

@@ -1,0 +1,22 @@
+---
+  id: "15439"
+  word: "pikirovnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pikirovnica"
+      acc: "pikirovnicų"
+      gen: "pikirovnice"
+      loc: "pikirovnici"
+      dat: "pikirovnici"
+      ins: "pikirovnicejų"
+      voc: "pikirovnico"
+    plural: 
+      nom: "pikirovnice"
+      acc: "pikirovnice"
+      gen: "pikirovnic"
+      loc: "pikirovnicah"
+      dat: "pikirovnicam"
+      ins: "pikirovnicami"
+      voc: "pikirovnice"

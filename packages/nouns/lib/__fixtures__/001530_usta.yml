@@ -1,0 +1,15 @@
+---
+  id: "1530"
+  word: "usta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "usta"
+      acc: "usta"
+      gen: "ust"
+      loc: "ustah"
+      dat: "ustam"
+      ins: "ustami"
+      voc: "usta"

@@ -1,0 +1,22 @@
+---
+  id: "32081"
+  word: "rublj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rublj"
+      acc: "rublj"
+      gen: "rublja"
+      loc: "rublju"
+      dat: "rublju"
+      ins: "rubljem"
+      voc: "rublju"
+    plural: 
+      nom: "rublje"
+      acc: "rublje"
+      gen: "rubljev"
+      loc: "rubljah"
+      dat: "rubljam"
+      ins: "rubljami"
+      voc: "rublje"

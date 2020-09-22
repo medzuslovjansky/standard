@@ -1,0 +1,22 @@
+---
+  id: "4155"
+  word: "měšatelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měšatelj"
+      acc: "měšatelj"
+      gen: "měšatelja"
+      loc: "měšatelju"
+      dat: "měšatelju"
+      ins: "měšateljem"
+      voc: "měšatelju"
+    plural: 
+      nom: "měšatelje"
+      acc: "měšatelje"
+      gen: "měšateljev"
+      loc: "měšateljah"
+      dat: "měšateljam"
+      ins: "měšateljami"
+      voc: "měšatelje"

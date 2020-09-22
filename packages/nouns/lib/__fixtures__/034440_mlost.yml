@@ -1,0 +1,22 @@
+---
+  id: "34440"
+  word: "mlosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlosť"
+      acc: "mlosť"
+      gen: "mlosti"
+      loc: "mlosti"
+      dat: "mlosti"
+      ins: "mlosťjų"
+      voc: "mlosti"
+    plural: 
+      nom: "mlosti"
+      acc: "mlosti"
+      gen: "mlostij"
+      loc: "mlosťah"
+      dat: "mlosťam"
+      ins: "mlosťami"
+      voc: "mlosti"

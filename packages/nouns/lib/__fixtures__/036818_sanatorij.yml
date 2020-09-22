@@ -1,0 +1,22 @@
+---
+  id: "36818"
+  word: "sanatorij"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sanatorij"
+      acc: "sanatorij"
+      gen: "sanatorija"
+      loc: "sanatoriju"
+      dat: "sanatoriju"
+      ins: "sanatorijem"
+      voc: "sanatoriju"
+    plural: 
+      nom: "sanatorije"
+      acc: "sanatorije"
+      gen: "sanatorijev"
+      loc: "sanatorijah"
+      dat: "sanatorijam"
+      ins: "sanatorijami"
+      voc: "sanatorije"

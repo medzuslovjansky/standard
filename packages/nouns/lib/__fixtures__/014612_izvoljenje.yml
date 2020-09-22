@@ -1,0 +1,22 @@
+---
+  id: "14612"
+  word: "izvoljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izvoljeńje"
+      acc: "izvoljeńje"
+      gen: "izvoljeńja"
+      loc: "izvoljeńju"
+      dat: "izvoljeńju"
+      ins: "izvoljeńjem"
+      voc: "izvoljeńje"
+    plural: 
+      nom: "izvoljeńja"
+      acc: "izvoljeńja"
+      gen: "izvoljenij"
+      loc: "izvoljeńjah"
+      dat: "izvoljeńjam"
+      ins: "izvoljeńjami"
+      voc: "izvoljeńja"

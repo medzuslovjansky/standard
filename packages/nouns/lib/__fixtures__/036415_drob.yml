@@ -1,0 +1,22 @@
+---
+  id: "36415"
+  word: "drob"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "drob"
+      acc: "drob"
+      gen: "droba"
+      loc: "drobu"
+      dat: "drobu"
+      ins: "drobom"
+      voc: "drobe"
+    plural: 
+      nom: "droby"
+      acc: "droby"
+      gen: "drobov"
+      loc: "drobah"
+      dat: "drobam"
+      ins: "drobami"
+      voc: "droby"

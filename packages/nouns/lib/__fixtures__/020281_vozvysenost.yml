@@ -1,0 +1,22 @@
+---
+  id: "20281"
+  word: "vȯzvyšenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯzvyšenosť"
+      acc: "vȯzvyšenosť"
+      gen: "vȯzvyšenosti"
+      loc: "vȯzvyšenosti"
+      dat: "vȯzvyšenosti"
+      ins: "vȯzvyšenosťjų"
+      voc: "vȯzvyšenosti"
+    plural: 
+      nom: "vȯzvyšenosti"
+      acc: "vȯzvyšenosti"
+      gen: "vȯzvyšenostij"
+      loc: "vȯzvyšenosťah"
+      dat: "vȯzvyšenosťam"
+      ins: "vȯzvyšenosťami"
+      voc: "vȯzvyšenosti"

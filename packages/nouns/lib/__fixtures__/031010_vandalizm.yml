@@ -1,0 +1,15 @@
+---
+  id: "31010"
+  word: "vandalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vandalizm"
+      acc: "vandalizm"
+      gen: "vandalizma"
+      loc: "vandalizmu"
+      dat: "vandalizmu"
+      ins: "vandalizmom"
+      voc: "vandalizme"

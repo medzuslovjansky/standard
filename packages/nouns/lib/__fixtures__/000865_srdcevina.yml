@@ -1,0 +1,22 @@
+---
+  id: "865"
+  word: "sŕdcevina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sŕdcevina"
+      acc: "sŕdcevinų"
+      gen: "sŕdceviny"
+      loc: "sŕdcevině"
+      dat: "sŕdcevině"
+      ins: "sŕdcevinojų"
+      voc: "sŕdcevino"
+    plural: 
+      nom: "sŕdceviny"
+      acc: "sŕdceviny"
+      gen: "sŕdcevin"
+      loc: "sŕdcevinah"
+      dat: "sŕdcevinam"
+      ins: "sŕdcevinami"
+      voc: "sŕdceviny"

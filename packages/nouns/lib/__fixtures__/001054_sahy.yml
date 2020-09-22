@@ -1,0 +1,15 @@
+---
+  id: "1054"
+  word: "šahy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "šahy"
+      acc: "šahy"
+      gen: "šahov"
+      loc: "šahah"
+      dat: "šaham"
+      ins: "šahami"
+      voc: "šahy"

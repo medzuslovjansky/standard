@@ -1,0 +1,22 @@
+---
+  id: "2735"
+  word: "mlěko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mlěko"
+      acc: "mlěko"
+      gen: "mlěka"
+      loc: "mlěku"
+      dat: "mlěku"
+      ins: "mlěkom"
+      voc: "mlěko"
+    plural: 
+      nom: "mlěka"
+      acc: "mlěka"
+      gen: "mlěk"
+      loc: "mlěkah"
+      dat: "mlěkam"
+      ins: "mlěkami"
+      voc: "mlěka"

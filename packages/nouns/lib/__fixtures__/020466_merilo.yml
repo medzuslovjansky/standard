@@ -1,0 +1,22 @@
+---
+  id: "20466"
+  word: "měrilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "měrilo"
+      acc: "měrilo"
+      gen: "měrila"
+      loc: "měrilu"
+      dat: "měrilu"
+      ins: "měrilom"
+      voc: "měrilo"
+    plural: 
+      nom: "měrila"
+      acc: "měrila"
+      gen: "měril"
+      loc: "měrilah"
+      dat: "měrilam"
+      ins: "měrilami"
+      voc: "měrila"

@@ -1,0 +1,22 @@
+---
+  id: "20659"
+  word: "proběg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proběg"
+      acc: "proběg"
+      gen: "proběga"
+      loc: "proběgu"
+      dat: "proběgu"
+      ins: "proběgom"
+      voc: "proběže"
+    plural: 
+      nom: "proběgy"
+      acc: "proběgy"
+      gen: "proběgov"
+      loc: "proběgah"
+      dat: "proběgam"
+      ins: "proběgami"
+      voc: "proběgy"

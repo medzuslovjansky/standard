@@ -1,0 +1,22 @@
+---
+  id: "34760"
+  word: "ljuljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljuljka"
+      acc: "ljuljkų"
+      gen: "ljuljky"
+      loc: "ljuljkě"
+      dat: "ljuljkě"
+      ins: "ljuljkojų"
+      voc: "ljuljko"
+    plural: 
+      nom: "ljuljky"
+      acc: "ljuljky"
+      gen: "ljuljek"
+      loc: "ljuljkah"
+      dat: "ljuljkam"
+      ins: "ljuljkami"
+      voc: "ljuljky"

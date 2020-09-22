@@ -1,0 +1,22 @@
+---
+  id: "2626"
+  word: "žaba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žaba"
+      acc: "žabų"
+      gen: "žaby"
+      loc: "žabě"
+      dat: "žabě"
+      ins: "žabojų"
+      voc: "žabo"
+    plural: 
+      nom: "žaby"
+      acc: "žaby"
+      gen: "žab"
+      loc: "žabah"
+      dat: "žabam"
+      ins: "žabami"
+      voc: "žaby"

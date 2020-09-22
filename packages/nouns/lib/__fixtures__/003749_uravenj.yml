@@ -1,0 +1,47 @@
+---
+  - 
+    id: "3749"
+    word: "uråvenj"
+    meta: 
+      irregularity: "(uråvnja)"
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "uråvėnj"
+        acc: "uråvėnj"
+        gen: "uråvnja"
+        loc: "uråvnju"
+        dat: "uråvnju"
+        ins: "uråvnjem"
+        voc: "uråvnju"
+      plural: 
+        nom: "uråvnje"
+        acc: "uråvnje"
+        gen: "uråvnjev"
+        loc: "uråvnjah"
+        dat: "uråvnjam"
+        ins: "uråvnjami"
+        voc: "uråvnje"
+  - 
+    id: "3749"
+    word: "uråvenj"
+    meta: 
+      irregularity: "(uråvnja)"
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "uråvėnj"
+        acc: "uråvėnj"
+        gen: "uråvnji"
+        loc: "uråvnji"
+        dat: "uråvnji"
+        ins: "uråvnjjų"
+        voc: "uråvnji"
+      plural: 
+        nom: "uråvnji"
+        acc: "uråvnji"
+        gen: "uråvnjij"
+        loc: "uråvnjah"
+        dat: "uråvnjam"
+        ins: "uråvnjami"
+        voc: "uråvnji"

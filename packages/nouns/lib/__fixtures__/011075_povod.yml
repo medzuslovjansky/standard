@@ -1,0 +1,22 @@
+---
+  id: "11075"
+  word: "povod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "povod"
+      acc: "povod"
+      gen: "povoda"
+      loc: "povodu"
+      dat: "povodu"
+      ins: "povodom"
+      voc: "povode"
+    plural: 
+      nom: "povody"
+      acc: "povody"
+      gen: "povodov"
+      loc: "povodah"
+      dat: "povodam"
+      ins: "povodami"
+      voc: "povody"

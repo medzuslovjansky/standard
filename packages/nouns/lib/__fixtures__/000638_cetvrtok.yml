@@ -1,0 +1,22 @@
+---
+  id: "638"
+  word: "četvŕtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "četvŕtȯk"
+      acc: "četvŕtȯk"
+      gen: "četvŕtka"
+      loc: "četvŕtku"
+      dat: "četvŕtku"
+      ins: "četvŕtkom"
+      voc: "četvŕtče"
+    plural: 
+      nom: "četvŕtky"
+      acc: "četvŕtky"
+      gen: "četvŕtkov"
+      loc: "četvŕtkah"
+      dat: "četvŕtkam"
+      ins: "četvŕtkami"
+      voc: "četvŕtky"

@@ -1,0 +1,23 @@
+---
+  id: "6146"
+  word: "prědoplatnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědoplatnik"
+      acc: "prědoplatnika"
+      gen: "prědoplatnika"
+      loc: "prědoplatniku"
+      dat: "prědoplatniku"
+      ins: "prědoplatnikom"
+      voc: "prědoplatniče"
+    plural: 
+      nom: "prědoplatniki"
+      acc: "prědoplatnikov"
+      gen: "prědoplatnikov"
+      loc: "prědoplatnikah"
+      dat: "prědoplatnikam"
+      ins: "prědoplatnikami"
+      voc: "prědoplatniki"

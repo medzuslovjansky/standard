@@ -1,0 +1,22 @@
+---
+  id: "20009"
+  word: "ovčarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ovčarnja"
+      acc: "ovčarnjų"
+      gen: "ovčarnje"
+      loc: "ovčarnji"
+      dat: "ovčarnji"
+      ins: "ovčarnjejų"
+      voc: "ovčarnjo"
+    plural: 
+      nom: "ovčarnje"
+      acc: "ovčarnje"
+      gen: "ovčarnej"
+      loc: "ovčarnjah"
+      dat: "ovčarnjam"
+      ins: "ovčarnjami"
+      voc: "ovčarnje"

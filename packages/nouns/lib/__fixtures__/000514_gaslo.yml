@@ -1,0 +1,22 @@
+---
+  id: "514"
+  word: "gaslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gaslo"
+      acc: "gaslo"
+      gen: "gasla"
+      loc: "gaslu"
+      dat: "gaslu"
+      ins: "gaslom"
+      voc: "gaslo"
+    plural: 
+      nom: "gasla"
+      acc: "gasla"
+      gen: "gasel"
+      loc: "gaslah"
+      dat: "gaslam"
+      ins: "gaslami"
+      voc: "gasla"

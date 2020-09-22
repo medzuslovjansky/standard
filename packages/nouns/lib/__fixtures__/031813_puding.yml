@@ -1,0 +1,22 @@
+---
+  id: "31813"
+  word: "puding"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "puding"
+      acc: "puding"
+      gen: "pudinga"
+      loc: "pudingu"
+      dat: "pudingu"
+      ins: "pudingom"
+      voc: "pudinže"
+    plural: 
+      nom: "pudingy"
+      acc: "pudingy"
+      gen: "pudingov"
+      loc: "pudingah"
+      dat: "pudingam"
+      ins: "pudingami"
+      voc: "pudingy"

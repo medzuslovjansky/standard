@@ -1,0 +1,23 @@
+---
+  id: "23171"
+  word: "trutenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "trutenj"
+      acc: "trutenja"
+      gen: "trutenja"
+      loc: "trutenju"
+      dat: "trutenju"
+      ins: "trutenjem"
+      voc: "trutenju"
+    plural: 
+      nom: "trutenji"
+      acc: "trutenjev"
+      gen: "trutenjev"
+      loc: "trutenjah"
+      dat: "trutenjam"
+      ins: "trutenjami"
+      voc: "trutenji"

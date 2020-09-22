@@ -1,0 +1,22 @@
+---
+  id: "32114"
+  word: "pokupka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pokupka"
+      acc: "pokupkų"
+      gen: "pokupky"
+      loc: "pokupkě"
+      dat: "pokupkě"
+      ins: "pokupkojų"
+      voc: "pokupko"
+    plural: 
+      nom: "pokupky"
+      acc: "pokupky"
+      gen: "pokupȯk"
+      loc: "pokupkah"
+      dat: "pokupkam"
+      ins: "pokupkami"
+      voc: "pokupky"

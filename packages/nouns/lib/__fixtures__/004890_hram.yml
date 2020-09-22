@@ -1,0 +1,22 @@
+---
+  id: "4890"
+  word: "hram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hram"
+      acc: "hram"
+      gen: "hrama"
+      loc: "hramu"
+      dat: "hramu"
+      ins: "hramom"
+      voc: "hrame"
+    plural: 
+      nom: "hramy"
+      acc: "hramy"
+      gen: "hramov"
+      loc: "hramah"
+      dat: "hramam"
+      ins: "hramami"
+      voc: "hramy"

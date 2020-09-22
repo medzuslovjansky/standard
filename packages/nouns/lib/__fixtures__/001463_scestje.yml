@@ -1,0 +1,22 @@
+---
+  id: "1463"
+  word: "ščęsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ščęsťje"
+      acc: "ščęsťje"
+      gen: "ščęsťja"
+      loc: "ščęsťju"
+      dat: "ščęsťju"
+      ins: "ščęsťjem"
+      voc: "ščęsťje"
+    plural: 
+      nom: "ščęsťja"
+      acc: "ščęsťja"
+      gen: "ščęstij"
+      loc: "ščęsťjah"
+      dat: "ščęsťjam"
+      ins: "ščęsťjami"
+      voc: "ščęsťja"

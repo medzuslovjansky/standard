@@ -1,0 +1,24 @@
+---
+  id: "29775"
+  word: "Oven"
+  meta: 
+    irregularity: "(ovna)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Oven"
+      acc: "Ovena"
+      gen: "Ovena"
+      loc: "Ovenu"
+      dat: "Ovenu"
+      ins: "Ovenom"
+      voc: "Ovene"
+    plural: 
+      nom: "Oveni"
+      acc: "Ovenov"
+      gen: "Ovenov"
+      loc: "Ovenah"
+      dat: "Ovenam"
+      ins: "Ovenami"
+      voc: "Oveni"

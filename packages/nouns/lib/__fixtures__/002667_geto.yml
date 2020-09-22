@@ -1,0 +1,22 @@
+---
+  id: "2667"
+  word: "geto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "geto"
+      acc: "geto"
+      gen: "geta"
+      loc: "getu"
+      dat: "getu"
+      ins: "getom"
+      voc: "geto"
+    plural: 
+      nom: "geta"
+      acc: "geta"
+      gen: "get"
+      loc: "getah"
+      dat: "getam"
+      ins: "getami"
+      voc: "geta"

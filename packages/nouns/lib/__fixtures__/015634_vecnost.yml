@@ -1,0 +1,22 @@
+---
+  id: "15634"
+  word: "věčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věčnosť"
+      acc: "věčnosť"
+      gen: "věčnosti"
+      loc: "věčnosti"
+      dat: "věčnosti"
+      ins: "věčnosťjų"
+      voc: "věčnosti"
+    plural: 
+      nom: "věčnosti"
+      acc: "věčnosti"
+      gen: "věčnostij"
+      loc: "věčnosťah"
+      dat: "věčnosťam"
+      ins: "věčnosťami"
+      voc: "věčnosti"

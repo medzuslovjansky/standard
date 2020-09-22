@@ -1,0 +1,23 @@
+---
+  id: "35210"
+  word: "lektor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lektor"
+      acc: "lektora"
+      gen: "lektora"
+      loc: "lektoru"
+      dat: "lektoru"
+      ins: "lektorom"
+      voc: "lektore"
+    plural: 
+      nom: "lektori"
+      acc: "lektorov"
+      gen: "lektorov"
+      loc: "lektorah"
+      dat: "lektoram"
+      ins: "lektorami"
+      voc: "lektori"

@@ -1,0 +1,22 @@
+---
+  id: "31521"
+  word: "zalp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zalp"
+      acc: "zalp"
+      gen: "zalpa"
+      loc: "zalpu"
+      dat: "zalpu"
+      ins: "zalpom"
+      voc: "zalpe"
+    plural: 
+      nom: "zalpy"
+      acc: "zalpy"
+      gen: "zalpov"
+      loc: "zalpah"
+      dat: "zalpam"
+      ins: "zalpami"
+      voc: "zalpy"

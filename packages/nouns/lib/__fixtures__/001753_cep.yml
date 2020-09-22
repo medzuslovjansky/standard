@@ -1,0 +1,22 @@
+---
+  id: "1753"
+  word: "čep"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čep"
+      acc: "čep"
+      gen: "čepa"
+      loc: "čepu"
+      dat: "čepu"
+      ins: "čepom"
+      voc: "čepe"
+    plural: 
+      nom: "čepy"
+      acc: "čepy"
+      gen: "čepov"
+      loc: "čepah"
+      dat: "čepam"
+      ins: "čepami"
+      voc: "čepy"

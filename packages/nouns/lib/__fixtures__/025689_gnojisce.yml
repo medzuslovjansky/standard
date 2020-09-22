@@ -1,0 +1,22 @@
+---
+  id: "25689"
+  word: "gnojišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gnojišče"
+      acc: "gnojišče"
+      gen: "gnojišča"
+      loc: "gnojišču"
+      dat: "gnojišču"
+      ins: "gnojiščem"
+      voc: "gnojišče"
+    plural: 
+      nom: "gnojišča"
+      acc: "gnojišča"
+      gen: "gnojišč"
+      loc: "gnojiščah"
+      dat: "gnojiščam"
+      ins: "gnojiščami"
+      voc: "gnojišča"

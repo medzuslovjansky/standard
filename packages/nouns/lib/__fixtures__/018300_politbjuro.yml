@@ -1,0 +1,22 @@
+---
+  id: "18300"
+  word: "politbjuro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "politbjuro"
+      acc: "politbjuro"
+      gen: "politbjura"
+      loc: "politbjuru"
+      dat: "politbjuru"
+      ins: "politbjurom"
+      voc: "politbjuro"
+    plural: 
+      nom: "politbjura"
+      acc: "politbjura"
+      gen: "politbjur"
+      loc: "politbjurah"
+      dat: "politbjuram"
+      ins: "politbjurami"
+      voc: "politbjura"

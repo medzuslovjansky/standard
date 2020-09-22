@@ -1,0 +1,22 @@
+---
+  id: "27391"
+  word: "majak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "majak"
+      acc: "majak"
+      gen: "majaka"
+      loc: "majaku"
+      dat: "majaku"
+      ins: "majakom"
+      voc: "majače"
+    plural: 
+      nom: "majaky"
+      acc: "majaky"
+      gen: "majakov"
+      loc: "majakah"
+      dat: "majakam"
+      ins: "majakami"
+      voc: "majaky"

@@ -1,0 +1,22 @@
+---
+  id: "14236"
+  word: "zimnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zimnosť"
+      acc: "zimnosť"
+      gen: "zimnosti"
+      loc: "zimnosti"
+      dat: "zimnosti"
+      ins: "zimnosťjų"
+      voc: "zimnosti"
+    plural: 
+      nom: "zimnosti"
+      acc: "zimnosti"
+      gen: "zimnostij"
+      loc: "zimnosťah"
+      dat: "zimnosťam"
+      ins: "zimnosťami"
+      voc: "zimnosti"

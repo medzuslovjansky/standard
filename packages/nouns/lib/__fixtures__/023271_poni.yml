@@ -1,0 +1,23 @@
+---
+  id: "23271"
+  word: "poni"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poni"
+      acc: "ponų"
+      gen: "pone"
+      loc: "poni"
+      dat: "poni"
+      ins: "ponejų"
+      voc: "pono"
+    plural: 
+      nom: "poni"
+      acc: "ponev"
+      gen: "ponev"
+      loc: "ponah"
+      dat: "ponam"
+      ins: "ponami"
+      voc: "poni"

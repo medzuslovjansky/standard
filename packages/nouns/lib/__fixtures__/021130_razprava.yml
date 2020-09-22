@@ -1,0 +1,22 @@
+---
+  id: "21130"
+  word: "råzprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzprava"
+      acc: "råzpravų"
+      gen: "råzpravy"
+      loc: "råzpravě"
+      dat: "råzpravě"
+      ins: "råzpravojų"
+      voc: "råzpravo"
+    plural: 
+      nom: "råzpravy"
+      acc: "råzpravy"
+      gen: "råzprav"
+      loc: "råzpravah"
+      dat: "råzpravam"
+      ins: "råzpravami"
+      voc: "råzpravy"

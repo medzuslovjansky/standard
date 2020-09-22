@@ -1,0 +1,15 @@
+---
+  id: "22759"
+  word: "noty"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "noty"
+      acc: "noty"
+      gen: "not"
+      loc: "notah"
+      dat: "notam"
+      ins: "notami"
+      voc: "noty"

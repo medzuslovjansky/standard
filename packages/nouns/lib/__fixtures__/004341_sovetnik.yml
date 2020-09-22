@@ -1,0 +1,23 @@
+---
+  id: "4341"
+  word: "sȯvětnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sȯvětnik"
+      acc: "sȯvětnika"
+      gen: "sȯvětnika"
+      loc: "sȯvětniku"
+      dat: "sȯvětniku"
+      ins: "sȯvětnikom"
+      voc: "sȯvětniče"
+    plural: 
+      nom: "sȯvětniki"
+      acc: "sȯvětnikov"
+      gen: "sȯvětnikov"
+      loc: "sȯvětnikah"
+      dat: "sȯvětnikam"
+      ins: "sȯvětnikami"
+      voc: "sȯvětniki"

@@ -1,0 +1,22 @@
+---
+  id: "28196"
+  word: "naslědovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "naslědovańje"
+      acc: "naslědovańje"
+      gen: "naslědovańja"
+      loc: "naslědovańju"
+      dat: "naslědovańju"
+      ins: "naslědovańjem"
+      voc: "naslědovańje"
+    plural: 
+      nom: "naslědovańja"
+      acc: "naslědovańja"
+      gen: "naslědovanij"
+      loc: "naslědovańjah"
+      dat: "naslědovańjam"
+      ins: "naslědovańjami"
+      voc: "naslědovańja"

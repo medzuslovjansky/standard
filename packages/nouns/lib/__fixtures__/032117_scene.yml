@@ -1,0 +1,22 @@
+---
+  id: "32117"
+  word: "ščenę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ščenę"
+      acc: "ščenę"
+      gen: "ščenęte / ščenęta"
+      loc: "ščenęti / ščenętu"
+      dat: "ščenęti / ščenętu"
+      ins: "ščenętem / ščenętom"
+      voc: "ščenę"
+    plural: 
+      nom: "ščenęta"
+      acc: "ščenęta"
+      gen: "ščenęt"
+      loc: "ščenętah"
+      dat: "ščenętam"
+      ins: "ščenętami"
+      voc: "ščenęta"

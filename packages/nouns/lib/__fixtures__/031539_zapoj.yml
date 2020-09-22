@@ -1,0 +1,22 @@
+---
+  id: "31539"
+  word: "zapoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapoj"
+      acc: "zapoj"
+      gen: "zapoja"
+      loc: "zapoju"
+      dat: "zapoju"
+      ins: "zapojem"
+      voc: "zapoju"
+    plural: 
+      nom: "zapoje"
+      acc: "zapoje"
+      gen: "zapojev"
+      loc: "zapojah"
+      dat: "zapojam"
+      ins: "zapojami"
+      voc: "zapoje"

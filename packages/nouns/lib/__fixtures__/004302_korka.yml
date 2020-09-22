@@ -1,0 +1,22 @@
+---
+  id: "4302"
+  word: "korka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korka"
+      acc: "korkų"
+      gen: "korky"
+      loc: "korkě"
+      dat: "korkě"
+      ins: "korkojų"
+      voc: "korko"
+    plural: 
+      nom: "korky"
+      acc: "korky"
+      gen: "korȯk"
+      loc: "korkah"
+      dat: "korkam"
+      ins: "korkami"
+      voc: "korky"

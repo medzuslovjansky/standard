@@ -1,0 +1,22 @@
+---
+  id: "36030"
+  word: "svetr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svetr"
+      acc: "svetr"
+      gen: "svetra"
+      loc: "svetru"
+      dat: "svetru"
+      ins: "svetrom"
+      voc: "svetre"
+    plural: 
+      nom: "svetry"
+      acc: "svetry"
+      gen: "svetrov"
+      loc: "svetrah"
+      dat: "svetram"
+      ins: "svetrami"
+      voc: "svetry"

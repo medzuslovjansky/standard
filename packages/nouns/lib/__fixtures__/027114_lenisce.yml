@@ -1,0 +1,22 @@
+---
+  id: "27114"
+  word: "lenišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lenišče"
+      acc: "lenišče"
+      gen: "lenišča"
+      loc: "lenišču"
+      dat: "lenišču"
+      ins: "leniščem"
+      voc: "lenišče"
+    plural: 
+      nom: "lenišča"
+      acc: "lenišča"
+      gen: "lenišč"
+      loc: "leniščah"
+      dat: "leniščam"
+      ins: "leniščami"
+      voc: "lenišča"

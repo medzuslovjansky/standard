@@ -1,0 +1,22 @@
+---
+  id: "23531"
+  word: "tanec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tanec"
+      acc: "tanec"
+      gen: "tanca"
+      loc: "tancu"
+      dat: "tancu"
+      ins: "tancem"
+      voc: "tanče"
+    plural: 
+      nom: "tance"
+      acc: "tance"
+      gen: "tancev"
+      loc: "tancah"
+      dat: "tancam"
+      ins: "tancami"
+      voc: "tance"

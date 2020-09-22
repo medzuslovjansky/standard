@@ -1,0 +1,23 @@
+---
+  id: "10549"
+  word: "pikirovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pikirovnik"
+      acc: "pikirovnika"
+      gen: "pikirovnika"
+      loc: "pikirovniku"
+      dat: "pikirovniku"
+      ins: "pikirovnikom"
+      voc: "pikirovniče"
+    plural: 
+      nom: "pikirovniki"
+      acc: "pikirovnikov"
+      gen: "pikirovnikov"
+      loc: "pikirovnikah"
+      dat: "pikirovnikam"
+      ins: "pikirovnikami"
+      voc: "pikirovniki"

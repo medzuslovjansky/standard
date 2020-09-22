@@ -1,0 +1,22 @@
+---
+  id: "16723"
+  word: "kancelarija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kancelarija"
+      acc: "kancelarijų"
+      gen: "kancelarije"
+      loc: "kancelariji"
+      dat: "kancelariji"
+      ins: "kancelarijejų"
+      voc: "kancelarijo"
+    plural: 
+      nom: "kancelarije"
+      acc: "kancelarije"
+      gen: "kancelarij"
+      loc: "kancelarijah"
+      dat: "kancelarijam"
+      ins: "kancelarijami"
+      voc: "kancelarije"

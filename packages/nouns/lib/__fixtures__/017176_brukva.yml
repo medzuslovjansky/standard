@@ -1,0 +1,22 @@
+---
+  id: "17176"
+  word: "brukva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brukva"
+      acc: "brukvų"
+      gen: "brukvy"
+      loc: "brukvě"
+      dat: "brukvě"
+      ins: "brukvojų"
+      voc: "brukvo"
+    plural: 
+      nom: "brukvy"
+      acc: "brukvy"
+      gen: "brukv"
+      loc: "brukvah"
+      dat: "brukvam"
+      ins: "brukvami"
+      voc: "brukvy"

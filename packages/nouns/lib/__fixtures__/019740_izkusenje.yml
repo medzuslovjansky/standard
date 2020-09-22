@@ -1,0 +1,22 @@
+---
+  id: "19740"
+  word: "izkušeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izkušeńje"
+      acc: "izkušeńje"
+      gen: "izkušeńja"
+      loc: "izkušeńju"
+      dat: "izkušeńju"
+      ins: "izkušeńjem"
+      voc: "izkušeńje"
+    plural: 
+      nom: "izkušeńja"
+      acc: "izkušeńja"
+      gen: "izkušenij"
+      loc: "izkušeńjah"
+      dat: "izkušeńjam"
+      ins: "izkušeńjami"
+      voc: "izkušeńja"

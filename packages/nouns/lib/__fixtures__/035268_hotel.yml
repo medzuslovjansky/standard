@@ -1,0 +1,22 @@
+---
+  id: "35268"
+  word: "hotel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hotel"
+      acc: "hotel"
+      gen: "hotela"
+      loc: "hotelu"
+      dat: "hotelu"
+      ins: "hotelom"
+      voc: "hotele"
+    plural: 
+      nom: "hotely"
+      acc: "hotely"
+      gen: "hotelov"
+      loc: "hotelah"
+      dat: "hotelam"
+      ins: "hotelami"
+      voc: "hotely"

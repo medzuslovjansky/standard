@@ -1,0 +1,22 @@
+---
+  id: "36009"
+  word: "flomaster"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "flomaster"
+      acc: "flomaster"
+      gen: "flomastera"
+      loc: "flomasteru"
+      dat: "flomasteru"
+      ins: "flomasterom"
+      voc: "flomastere"
+    plural: 
+      nom: "flomastery"
+      acc: "flomastery"
+      gen: "flomasterov"
+      loc: "flomasterah"
+      dat: "flomasteram"
+      ins: "flomasterami"
+      voc: "flomastery"

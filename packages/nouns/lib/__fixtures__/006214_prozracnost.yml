@@ -1,0 +1,22 @@
+---
+  id: "6214"
+  word: "prozråčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prozråčnosť"
+      acc: "prozråčnosť"
+      gen: "prozråčnosti"
+      loc: "prozråčnosti"
+      dat: "prozråčnosti"
+      ins: "prozråčnosťjų"
+      voc: "prozråčnosti"
+    plural: 
+      nom: "prozråčnosti"
+      acc: "prozråčnosti"
+      gen: "prozråčnostij"
+      loc: "prozråčnosťah"
+      dat: "prozråčnosťam"
+      ins: "prozråčnosťami"
+      voc: "prozråčnosti"

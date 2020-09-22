@@ -1,0 +1,22 @@
+---
+  id: "19517"
+  word: "hipoteza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hipoteza"
+      acc: "hipotezų"
+      gen: "hipotezy"
+      loc: "hipotezě"
+      dat: "hipotezě"
+      ins: "hipotezojų"
+      voc: "hipotezo"
+    plural: 
+      nom: "hipotezy"
+      acc: "hipotezy"
+      gen: "hipotez"
+      loc: "hipotezah"
+      dat: "hipotezam"
+      ins: "hipotezami"
+      voc: "hipotezy"

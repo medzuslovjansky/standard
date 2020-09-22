@@ -1,0 +1,22 @@
+---
+  id: "706"
+  word: "horųgva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "horųgva"
+      acc: "horųgvų"
+      gen: "horųgvy"
+      loc: "horųgvě"
+      dat: "horųgvě"
+      ins: "horųgvojų"
+      voc: "horųgvo"
+    plural: 
+      nom: "horųgvy"
+      acc: "horųgvy"
+      gen: "horųgv"
+      loc: "horųgvah"
+      dat: "horųgvam"
+      ins: "horųgvami"
+      voc: "horųgvy"

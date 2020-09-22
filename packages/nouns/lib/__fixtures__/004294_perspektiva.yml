@@ -1,0 +1,22 @@
+---
+  id: "4294"
+  word: "perspektiva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "perspektiva"
+      acc: "perspektivų"
+      gen: "perspektivy"
+      loc: "perspektivě"
+      dat: "perspektivě"
+      ins: "perspektivojų"
+      voc: "perspektivo"
+    plural: 
+      nom: "perspektivy"
+      acc: "perspektivy"
+      gen: "perspektiv"
+      loc: "perspektivah"
+      dat: "perspektivam"
+      ins: "perspektivami"
+      voc: "perspektivy"

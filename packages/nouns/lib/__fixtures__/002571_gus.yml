@@ -1,0 +1,23 @@
+---
+  id: "2571"
+  word: "gųś"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gųś"
+      acc: "gųśa"
+      gen: "gųśa"
+      loc: "gųśu"
+      dat: "gųśu"
+      ins: "gųśem"
+      voc: "gųśu"
+    plural: 
+      nom: "gųsi"
+      acc: "gųśev"
+      gen: "gųśev"
+      loc: "gųśah"
+      dat: "gųśam"
+      ins: "gųśami"
+      voc: "gųsi"

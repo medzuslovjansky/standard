@@ -1,0 +1,23 @@
+---
+  id: "1605"
+  word: "general"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "general"
+      acc: "generala"
+      gen: "generala"
+      loc: "generalu"
+      dat: "generalu"
+      ins: "generalom"
+      voc: "generale"
+    plural: 
+      nom: "generali"
+      acc: "generalov"
+      gen: "generalov"
+      loc: "generalah"
+      dat: "generalam"
+      ins: "generalami"
+      voc: "generali"

@@ -1,0 +1,47 @@
+---
+  - 
+    id: "6405"
+    word: "Indijan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Indijan"
+        acc: "Indijana"
+        gen: "Indijana"
+        loc: "Indijanu"
+        dat: "Indijanu"
+        ins: "Indijanom"
+        voc: "Indijane"
+      plural: 
+        nom: "Indijani"
+        acc: "Indijanov"
+        gen: "Indijanov"
+        loc: "Indijanah"
+        dat: "Indijanam"
+        ins: "Indijanami"
+        voc: "Indijani"
+  - 
+    id: "6405"
+    word: "Indijanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Indijanin"
+        acc: "Indijanina"
+        gen: "Indijanina"
+        loc: "Indijaninu"
+        dat: "Indijaninu"
+        ins: "Indijaninom"
+        voc: "Indijanine"
+      plural: 
+        nom: "Indijani"
+        acc: "Indijanov"
+        gen: "Indijanov"
+        loc: "Indijanah"
+        dat: "Indijanam"
+        ins: "Indijanami"
+        voc: "Indijani"

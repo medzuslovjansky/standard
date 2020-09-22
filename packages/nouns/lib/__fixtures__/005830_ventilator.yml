@@ -1,0 +1,22 @@
+---
+  id: "5830"
+  word: "ventilator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ventilator"
+      acc: "ventilator"
+      gen: "ventilatora"
+      loc: "ventilatoru"
+      dat: "ventilatoru"
+      ins: "ventilatorom"
+      voc: "ventilatore"
+    plural: 
+      nom: "ventilatory"
+      acc: "ventilatory"
+      gen: "ventilatorov"
+      loc: "ventilatorah"
+      dat: "ventilatoram"
+      ins: "ventilatorami"
+      voc: "ventilatory"

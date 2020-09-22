@@ -1,0 +1,23 @@
+---
+  id: "6126"
+  word: "adept"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "adept"
+      acc: "adepta"
+      gen: "adepta"
+      loc: "adeptu"
+      dat: "adeptu"
+      ins: "adeptom"
+      voc: "adepte"
+    plural: 
+      nom: "adepti"
+      acc: "adeptov"
+      gen: "adeptov"
+      loc: "adeptah"
+      dat: "adeptam"
+      ins: "adeptami"
+      voc: "adepti"

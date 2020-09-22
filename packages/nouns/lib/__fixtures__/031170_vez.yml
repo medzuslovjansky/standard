@@ -1,0 +1,22 @@
+---
+  id: "31170"
+  word: "vęz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vęz"
+      acc: "vęz"
+      gen: "vęza"
+      loc: "vęzu"
+      dat: "vęzu"
+      ins: "vęzom"
+      voc: "vęze"
+    plural: 
+      nom: "vęzy"
+      acc: "vęzy"
+      gen: "vęzov"
+      loc: "vęzah"
+      dat: "vęzam"
+      ins: "vęzami"
+      voc: "vęzy"

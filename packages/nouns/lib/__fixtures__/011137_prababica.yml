@@ -1,0 +1,22 @@
+---
+  id: "11137"
+  word: "prababica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prababica"
+      acc: "prababicų"
+      gen: "prababice"
+      loc: "prababici"
+      dat: "prababici"
+      ins: "prababicejų"
+      voc: "prababico"
+    plural: 
+      nom: "prababice"
+      acc: "prababice"
+      gen: "prababic"
+      loc: "prababicah"
+      dat: "prababicam"
+      ins: "prababicami"
+      voc: "prababice"

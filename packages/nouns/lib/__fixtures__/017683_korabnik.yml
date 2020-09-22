@@ -1,0 +1,23 @@
+---
+  id: "17683"
+  word: "korabnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "korabnik"
+      acc: "korabnika"
+      gen: "korabnika"
+      loc: "korabniku"
+      dat: "korabniku"
+      ins: "korabnikom"
+      voc: "korabniče"
+    plural: 
+      nom: "korabniki"
+      acc: "korabnikov"
+      gen: "korabnikov"
+      loc: "korabnikah"
+      dat: "korabnikam"
+      ins: "korabnikami"
+      voc: "korabniki"

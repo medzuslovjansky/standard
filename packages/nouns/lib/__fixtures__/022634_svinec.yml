@@ -1,0 +1,15 @@
+---
+  id: "22634"
+  word: "svinec"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "svinec"
+      acc: "svinec"
+      gen: "svinca"
+      loc: "svincu"
+      dat: "svincu"
+      ins: "svincem"
+      voc: "svinče"

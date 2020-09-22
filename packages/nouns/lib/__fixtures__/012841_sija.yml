@@ -1,0 +1,22 @@
+---
+  id: "12841"
+  word: "šija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šija"
+      acc: "šijų"
+      gen: "šije"
+      loc: "šiji"
+      dat: "šiji"
+      ins: "šijejų"
+      voc: "šijo"
+    plural: 
+      nom: "šije"
+      acc: "šije"
+      gen: "šij"
+      loc: "šijah"
+      dat: "šijam"
+      ins: "šijami"
+      voc: "šije"

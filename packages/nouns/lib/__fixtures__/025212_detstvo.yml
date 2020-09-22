@@ -1,0 +1,15 @@
+---
+  id: "25212"
+  word: "dětstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dětstvo"
+      acc: "dětstvo"
+      gen: "dětstva"
+      loc: "dětstvu"
+      dat: "dětstvu"
+      ins: "dětstvom"
+      voc: "dětstvo"

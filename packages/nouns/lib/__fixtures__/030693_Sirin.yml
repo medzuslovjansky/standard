@@ -1,0 +1,23 @@
+---
+  id: "30693"
+  word: "Sirin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Sirin"
+      acc: "Sirina"
+      gen: "Sirina"
+      loc: "Sirinu"
+      dat: "Sirinu"
+      ins: "Sirinom"
+      voc: "Sirine"
+    plural: 
+      nom: "Sirini"
+      acc: "Sirinov"
+      gen: "Sirinov"
+      loc: "Sirinah"
+      dat: "Sirinam"
+      ins: "Sirinami"
+      voc: "Sirini"

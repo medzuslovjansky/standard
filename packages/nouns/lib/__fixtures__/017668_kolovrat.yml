@@ -1,0 +1,22 @@
+---
+  id: "17668"
+  word: "kolovråt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolovråt"
+      acc: "kolovråt"
+      gen: "kolovråta"
+      loc: "kolovråtu"
+      dat: "kolovråtu"
+      ins: "kolovråtom"
+      voc: "kolovråte"
+    plural: 
+      nom: "kolovråty"
+      acc: "kolovråty"
+      gen: "kolovråtov"
+      loc: "kolovråtah"
+      dat: "kolovråtam"
+      ins: "kolovråtami"
+      voc: "kolovråty"

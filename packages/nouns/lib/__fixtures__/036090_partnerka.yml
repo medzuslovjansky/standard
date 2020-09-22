@@ -1,0 +1,22 @@
+---
+  id: "36090"
+  word: "partnerka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "partnerka"
+      acc: "partnerkų"
+      gen: "partnerky"
+      loc: "partnerkě"
+      dat: "partnerkě"
+      ins: "partnerkojų"
+      voc: "partnerko"
+    plural: 
+      nom: "partnerky"
+      acc: "partnerky"
+      gen: "partnerȯk"
+      loc: "partnerkah"
+      dat: "partnerkam"
+      ins: "partnerkami"
+      voc: "partnerky"

@@ -1,0 +1,22 @@
+---
+  id: "13923"
+  word: "izględka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izględka"
+      acc: "izględkų"
+      gen: "izględky"
+      loc: "izględkě"
+      dat: "izględkě"
+      ins: "izględkojų"
+      voc: "izględko"
+    plural: 
+      nom: "izględky"
+      acc: "izględky"
+      gen: "izględȯk"
+      loc: "izględkah"
+      dat: "izględkam"
+      ins: "izględkami"
+      voc: "izględky"

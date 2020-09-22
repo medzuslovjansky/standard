@@ -1,0 +1,15 @@
+---
+  id: "17575"
+  word: "izprobovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izprobovańje"
+      acc: "izprobovańje"
+      gen: "izprobovańja"
+      loc: "izprobovańju"
+      dat: "izprobovańju"
+      ins: "izprobovańjem"
+      voc: "izprobovańje"

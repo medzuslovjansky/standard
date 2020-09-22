@@ -1,0 +1,22 @@
+---
+  id: "15130"
+  word: "vědnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vědnosť"
+      acc: "vědnosť"
+      gen: "vědnosti"
+      loc: "vědnosti"
+      dat: "vědnosti"
+      ins: "vědnosťjų"
+      voc: "vědnosti"
+    plural: 
+      nom: "vědnosti"
+      acc: "vědnosti"
+      gen: "vědnostij"
+      loc: "vědnosťah"
+      dat: "vědnosťam"
+      ins: "vědnosťami"
+      voc: "vědnosti"

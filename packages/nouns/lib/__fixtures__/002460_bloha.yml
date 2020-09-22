@@ -1,0 +1,22 @@
+---
+  id: "2460"
+  word: "blȯha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blȯha"
+      acc: "blhų"
+      gen: "blhy"
+      loc: "blhě"
+      dat: "blhě"
+      ins: "blhojų"
+      voc: "blho"
+    plural: 
+      nom: "blhy"
+      acc: "blhy"
+      gen: "blh"
+      loc: "blhah"
+      dat: "blham"
+      ins: "blhami"
+      voc: "blhy"

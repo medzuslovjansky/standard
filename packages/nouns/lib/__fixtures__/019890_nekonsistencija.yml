@@ -1,0 +1,22 @@
+---
+  id: "19890"
+  word: "nekonsistencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nekonsistencija"
+      acc: "nekonsistencijų"
+      gen: "nekonsistencije"
+      loc: "nekonsistenciji"
+      dat: "nekonsistenciji"
+      ins: "nekonsistencijejų"
+      voc: "nekonsistencijo"
+    plural: 
+      nom: "nekonsistencije"
+      acc: "nekonsistencije"
+      gen: "nekonsistencij"
+      loc: "nekonsistencijah"
+      dat: "nekonsistencijam"
+      ins: "nekonsistencijami"
+      voc: "nekonsistencije"

@@ -1,0 +1,15 @@
+---
+  id: "34931"
+  word: "Romantizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Romantizm"
+      acc: "Romantizm"
+      gen: "Romantizma"
+      loc: "Romantizmu"
+      dat: "Romantizmu"
+      ins: "Romantizmom"
+      voc: "Romantizme"

@@ -1,0 +1,22 @@
+---
+  id: "21722"
+  word: "dostojenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dostojenstvo"
+      acc: "dostojenstvo"
+      gen: "dostojenstva"
+      loc: "dostojenstvu"
+      dat: "dostojenstvu"
+      ins: "dostojenstvom"
+      voc: "dostojenstvo"
+    plural: 
+      nom: "dostojenstva"
+      acc: "dostojenstva"
+      gen: "dostojenstv"
+      loc: "dostojenstvah"
+      dat: "dostojenstvam"
+      ins: "dostojenstvami"
+      voc: "dostojenstva"

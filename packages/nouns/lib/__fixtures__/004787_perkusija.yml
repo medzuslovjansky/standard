@@ -1,0 +1,22 @@
+---
+  id: "4787"
+  word: "perkusija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "perkusija"
+      acc: "perkusijų"
+      gen: "perkusije"
+      loc: "perkusiji"
+      dat: "perkusiji"
+      ins: "perkusijejų"
+      voc: "perkusijo"
+    plural: 
+      nom: "perkusije"
+      acc: "perkusije"
+      gen: "perkusij"
+      loc: "perkusijah"
+      dat: "perkusijam"
+      ins: "perkusijami"
+      voc: "perkusije"

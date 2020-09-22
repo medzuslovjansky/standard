@@ -1,0 +1,22 @@
+---
+  id: "25561"
+  word: "gamaša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gamaša"
+      acc: "gamašų"
+      gen: "gamaše"
+      loc: "gamaši"
+      dat: "gamaši"
+      ins: "gamašejų"
+      voc: "gamašo"
+    plural: 
+      nom: "gamaše"
+      acc: "gamaše"
+      gen: "gamaš"
+      loc: "gamašah"
+      dat: "gamašam"
+      ins: "gamašami"
+      voc: "gamaše"

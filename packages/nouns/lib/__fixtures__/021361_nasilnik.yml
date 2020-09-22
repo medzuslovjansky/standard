@@ -1,0 +1,23 @@
+---
+  id: "21361"
+  word: "nasiľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nasiľnik"
+      acc: "nasiľnika"
+      gen: "nasiľnika"
+      loc: "nasiľniku"
+      dat: "nasiľniku"
+      ins: "nasiľnikom"
+      voc: "nasiľniče"
+    plural: 
+      nom: "nasiľniki"
+      acc: "nasiľnikov"
+      gen: "nasiľnikov"
+      loc: "nasiľnikah"
+      dat: "nasiľnikam"
+      ins: "nasiľnikami"
+      voc: "nasiľniki"

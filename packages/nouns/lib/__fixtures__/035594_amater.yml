@@ -1,0 +1,23 @@
+---
+  id: "35594"
+  word: "amater"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "amater"
+      acc: "amatera"
+      gen: "amatera"
+      loc: "amateru"
+      dat: "amateru"
+      ins: "amaterom"
+      voc: "amatere"
+    plural: 
+      nom: "amateri"
+      acc: "amaterov"
+      gen: "amaterov"
+      loc: "amaterah"
+      dat: "amateram"
+      ins: "amaterami"
+      voc: "amateri"

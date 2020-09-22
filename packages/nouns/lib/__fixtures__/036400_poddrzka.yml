@@ -1,0 +1,22 @@
+---
+  id: "36400"
+  word: "poddŕžka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poddŕžka"
+      acc: "poddŕžkų"
+      gen: "poddŕžky"
+      loc: "poddŕžkě"
+      dat: "poddŕžkě"
+      ins: "poddŕžkojų"
+      voc: "poddŕžko"
+    plural: 
+      nom: "poddŕžky"
+      acc: "poddŕžky"
+      gen: "poddŕžek"
+      loc: "poddŕžkah"
+      dat: "poddŕžkam"
+      ins: "poddŕžkami"
+      voc: "poddŕžky"

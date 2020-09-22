@@ -1,0 +1,15 @@
+---
+  id: "12388"
+  word: "smysly"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "smysly"
+      acc: "smysly"
+      gen: "smyslov"
+      loc: "smyslah"
+      dat: "smyslam"
+      ins: "smyslami"
+      voc: "smysly"

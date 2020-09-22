@@ -1,0 +1,22 @@
+---
+  id: "22233"
+  word: "propověď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "propověď"
+      acc: "propověď"
+      gen: "propovědi"
+      loc: "propovědi"
+      dat: "propovědi"
+      ins: "propověďjų"
+      voc: "propovědi"
+    plural: 
+      nom: "propovědi"
+      acc: "propovědi"
+      gen: "propovědij"
+      loc: "propověďah"
+      dat: "propověďam"
+      ins: "propověďami"
+      voc: "propovědi"

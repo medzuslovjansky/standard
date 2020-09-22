@@ -1,0 +1,22 @@
+---
+  id: "29067"
+  word: "oddańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oddańje"
+      acc: "oddańje"
+      gen: "oddańja"
+      loc: "oddańju"
+      dat: "oddańju"
+      ins: "oddańjem"
+      voc: "oddańje"
+    plural: 
+      nom: "oddańja"
+      acc: "oddańja"
+      gen: "oddanij"
+      loc: "oddańjah"
+      dat: "oddańjam"
+      ins: "oddańjami"
+      voc: "oddańja"

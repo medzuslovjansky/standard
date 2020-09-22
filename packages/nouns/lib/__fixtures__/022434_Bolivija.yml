@@ -1,0 +1,15 @@
+---
+  id: "22434"
+  word: "Bolivija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bolivija"
+      acc: "Bolivijų"
+      gen: "Bolivije"
+      loc: "Boliviji"
+      dat: "Boliviji"
+      ins: "Bolivijejų"
+      voc: "Bolivijo"

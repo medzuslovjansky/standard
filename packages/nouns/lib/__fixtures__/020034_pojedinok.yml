@@ -1,0 +1,22 @@
+---
+  id: "20034"
+  word: "pojedinȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pojedinȯk"
+      acc: "pojedinȯk"
+      gen: "pojedinka"
+      loc: "pojedinku"
+      dat: "pojedinku"
+      ins: "pojedinkom"
+      voc: "pojedinče"
+    plural: 
+      nom: "pojedinky"
+      acc: "pojedinky"
+      gen: "pojedinkov"
+      loc: "pojedinkah"
+      dat: "pojedinkam"
+      ins: "pojedinkami"
+      voc: "pojedinky"

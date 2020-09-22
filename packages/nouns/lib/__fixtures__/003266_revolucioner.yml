@@ -1,0 +1,23 @@
+---
+  id: "3266"
+  word: "revolucioner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "revolucioner"
+      acc: "revolucionera"
+      gen: "revolucionera"
+      loc: "revolucioneru"
+      dat: "revolucioneru"
+      ins: "revolucionerom"
+      voc: "revolucionere"
+    plural: 
+      nom: "revolucioneri"
+      acc: "revolucionerov"
+      gen: "revolucionerov"
+      loc: "revolucionerah"
+      dat: "revolucioneram"
+      ins: "revolucionerami"
+      voc: "revolucioneri"

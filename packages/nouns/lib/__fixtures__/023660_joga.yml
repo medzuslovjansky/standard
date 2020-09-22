@@ -1,0 +1,22 @@
+---
+  id: "23660"
+  word: "joga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "joga"
+      acc: "jogų"
+      gen: "jogy"
+      loc: "jogě"
+      dat: "jogě"
+      ins: "jogojų"
+      voc: "jogo"
+    plural: 
+      nom: "jogy"
+      acc: "jogy"
+      gen: "jog"
+      loc: "jogah"
+      dat: "jogam"
+      ins: "jogami"
+      voc: "jogy"

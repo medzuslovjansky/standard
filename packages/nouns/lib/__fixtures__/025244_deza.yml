@@ -1,0 +1,22 @@
+---
+  id: "25244"
+  word: "děža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "děža"
+      acc: "děžų"
+      gen: "děže"
+      loc: "děži"
+      dat: "děži"
+      ins: "děžejų"
+      voc: "děžo"
+    plural: 
+      nom: "děže"
+      acc: "děže"
+      gen: "děž"
+      loc: "děžah"
+      dat: "děžam"
+      ins: "děžami"
+      voc: "děže"

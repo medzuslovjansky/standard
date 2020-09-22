@@ -1,0 +1,22 @@
+---
+  id: "4714"
+  word: "studija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "studija"
+      acc: "studijų"
+      gen: "studije"
+      loc: "studiji"
+      dat: "studiji"
+      ins: "studijejų"
+      voc: "studijo"
+    plural: 
+      nom: "studije"
+      acc: "studije"
+      gen: "studij"
+      loc: "studijah"
+      dat: "studijam"
+      ins: "studijami"
+      voc: "studije"

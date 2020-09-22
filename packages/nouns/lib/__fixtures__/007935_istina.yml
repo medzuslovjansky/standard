@@ -1,0 +1,22 @@
+---
+  id: "7935"
+  word: "istina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "istina"
+      acc: "istinų"
+      gen: "istiny"
+      loc: "istině"
+      dat: "istině"
+      ins: "istinojų"
+      voc: "istino"
+    plural: 
+      nom: "istiny"
+      acc: "istiny"
+      gen: "istin"
+      loc: "istinah"
+      dat: "istinam"
+      ins: "istinami"
+      voc: "istiny"

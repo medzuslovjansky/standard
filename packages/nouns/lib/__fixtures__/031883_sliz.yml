@@ -1,0 +1,45 @@
+---
+  - 
+    id: "31883"
+    word: "sliź"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "sliź"
+        acc: "sliź"
+        gen: "sliźa"
+        loc: "sliźu"
+        dat: "sliźu"
+        ins: "sliźem"
+        voc: "sliźu"
+      plural: 
+        nom: "sliźe"
+        acc: "sliźe"
+        gen: "sliźev"
+        loc: "sliźah"
+        dat: "sliźam"
+        ins: "sliźami"
+        voc: "sliźe"
+  - 
+    id: "31883"
+    word: "sliź"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sliź"
+        acc: "sliź"
+        gen: "slizi"
+        loc: "slizi"
+        dat: "slizi"
+        ins: "sliźjų"
+        voc: "slizi"
+      plural: 
+        nom: "slizi"
+        acc: "slizi"
+        gen: "slizij"
+        loc: "sliźah"
+        dat: "sliźam"
+        ins: "sliźami"
+        voc: "slizi"

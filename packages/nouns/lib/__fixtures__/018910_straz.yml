@@ -1,0 +1,23 @@
+---
+  id: "18910"
+  word: "stråž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "stråž"
+      acc: "stråža"
+      gen: "stråža"
+      loc: "stråžu"
+      dat: "stråžu"
+      ins: "stråžem"
+      voc: "stråžu"
+    plural: 
+      nom: "stråži"
+      acc: "stråžev"
+      gen: "stråžev"
+      loc: "stråžah"
+      dat: "stråžam"
+      ins: "stråžami"
+      voc: "stråži"

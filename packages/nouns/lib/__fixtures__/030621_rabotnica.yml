@@ -1,0 +1,22 @@
+---
+  id: "30621"
+  word: "råbotnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råbotnica"
+      acc: "råbotnicų"
+      gen: "råbotnice"
+      loc: "råbotnici"
+      dat: "råbotnici"
+      ins: "råbotnicejų"
+      voc: "råbotnico"
+    plural: 
+      nom: "råbotnice"
+      acc: "råbotnice"
+      gen: "råbotnic"
+      loc: "råbotnicah"
+      dat: "råbotnicam"
+      ins: "råbotnicami"
+      voc: "råbotnice"

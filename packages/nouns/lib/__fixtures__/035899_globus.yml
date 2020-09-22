@@ -1,0 +1,22 @@
+---
+  id: "35899"
+  word: "globus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "globus"
+      acc: "globus"
+      gen: "globusa"
+      loc: "globusu"
+      dat: "globusu"
+      ins: "globusom"
+      voc: "globuse"
+    plural: 
+      nom: "globusy"
+      acc: "globusy"
+      gen: "globusov"
+      loc: "globusah"
+      dat: "globusam"
+      ins: "globusami"
+      voc: "globusy"

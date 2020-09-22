@@ -1,0 +1,24 @@
+---
+  id: "36025"
+  word: "rędovy"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rędovy"
+      acc: "rędovogo"
+      gen: "rędovogo"
+      loc: "rędovom"
+      dat: "rędovomu"
+      ins: "rędovym"
+      voc: "rędovy"
+    plural: 
+      nom: "rędovi"
+      acc: "rędovyh"
+      gen: "rędovyh"
+      loc: "rędovyh"
+      dat: "rędovym"
+      ins: "rędovymi"
+      voc: "rędovi"

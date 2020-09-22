@@ -1,0 +1,22 @@
+---
+  id: "10054"
+  word: "odstava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odstava"
+      acc: "odstavų"
+      gen: "odstavy"
+      loc: "odstavě"
+      dat: "odstavě"
+      ins: "odstavojų"
+      voc: "odstavo"
+    plural: 
+      nom: "odstavy"
+      acc: "odstavy"
+      gen: "odstav"
+      loc: "odstavah"
+      dat: "odstavam"
+      ins: "odstavami"
+      voc: "odstavy"

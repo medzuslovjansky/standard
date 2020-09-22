@@ -1,0 +1,22 @@
+---
+  id: "24759"
+  word: "bor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bor"
+      acc: "bor"
+      gen: "bora"
+      loc: "boru"
+      dat: "boru"
+      ins: "borom"
+      voc: "bore"
+    plural: 
+      nom: "bory"
+      acc: "bory"
+      gen: "borov"
+      loc: "borah"
+      dat: "boram"
+      ins: "borami"
+      voc: "bory"

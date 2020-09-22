@@ -1,0 +1,23 @@
+---
+  id: "24119"
+  word: "agnostik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "agnostik"
+      acc: "agnostika"
+      gen: "agnostika"
+      loc: "agnostiku"
+      dat: "agnostiku"
+      ins: "agnostikom"
+      voc: "agnostiče"
+    plural: 
+      nom: "agnostiki"
+      acc: "agnostikov"
+      gen: "agnostikov"
+      loc: "agnostikah"
+      dat: "agnostikam"
+      ins: "agnostikami"
+      voc: "agnostiki"

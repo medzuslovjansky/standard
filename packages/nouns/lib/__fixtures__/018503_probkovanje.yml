@@ -1,0 +1,22 @@
+---
+  id: "18503"
+  word: "probkovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "probkovańje"
+      acc: "probkovańje"
+      gen: "probkovańja"
+      loc: "probkovańju"
+      dat: "probkovańju"
+      ins: "probkovańjem"
+      voc: "probkovańje"
+    plural: 
+      nom: "probkovańja"
+      acc: "probkovańja"
+      gen: "probkovanij"
+      loc: "probkovańjah"
+      dat: "probkovańjam"
+      ins: "probkovańjami"
+      voc: "probkovańja"

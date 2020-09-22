@@ -1,0 +1,22 @@
+---
+  id: "5142"
+  word: "aktivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktivnosť"
+      acc: "aktivnosť"
+      gen: "aktivnosti"
+      loc: "aktivnosti"
+      dat: "aktivnosti"
+      ins: "aktivnosťjų"
+      voc: "aktivnosti"
+    plural: 
+      nom: "aktivnosti"
+      acc: "aktivnosti"
+      gen: "aktivnostij"
+      loc: "aktivnosťah"
+      dat: "aktivnosťam"
+      ins: "aktivnosťami"
+      voc: "aktivnosti"

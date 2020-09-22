@@ -1,0 +1,22 @@
+---
+  id: "24259"
+  word: "alternativa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "alternativa"
+      acc: "alternativų"
+      gen: "alternativy"
+      loc: "alternativě"
+      dat: "alternativě"
+      ins: "alternativojų"
+      voc: "alternativo"
+    plural: 
+      nom: "alternativy"
+      acc: "alternativy"
+      gen: "alternativ"
+      loc: "alternativah"
+      dat: "alternativam"
+      ins: "alternativami"
+      voc: "alternativy"

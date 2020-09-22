@@ -1,0 +1,22 @@
+---
+  id: "35587"
+  word: "prohoďka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prohoďka"
+      acc: "prohoďkų"
+      gen: "prohoďky"
+      loc: "prohoďkě"
+      dat: "prohoďkě"
+      ins: "prohoďkojų"
+      voc: "prohoďko"
+    plural: 
+      nom: "prohoďky"
+      acc: "prohoďky"
+      gen: "prohoďek"
+      loc: "prohoďkah"
+      dat: "prohoďkam"
+      ins: "prohoďkami"
+      voc: "prohoďky"

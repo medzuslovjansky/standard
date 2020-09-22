@@ -1,0 +1,22 @@
+---
+  id: "18099"
+  word: "oględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oględ"
+      acc: "oględ"
+      gen: "oględa"
+      loc: "oględu"
+      dat: "oględu"
+      ins: "oględom"
+      voc: "oględe"
+    plural: 
+      nom: "oględy"
+      acc: "oględy"
+      gen: "oględov"
+      loc: "oględah"
+      dat: "oględam"
+      ins: "oględami"
+      voc: "oględy"

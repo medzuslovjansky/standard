@@ -1,0 +1,22 @@
+---
+  id: "32882"
+  word: "metropolija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "metropolija"
+      acc: "metropolijų"
+      gen: "metropolije"
+      loc: "metropoliji"
+      dat: "metropoliji"
+      ins: "metropolijejų"
+      voc: "metropolijo"
+    plural: 
+      nom: "metropolije"
+      acc: "metropolije"
+      gen: "metropolij"
+      loc: "metropolijah"
+      dat: "metropolijam"
+      ins: "metropolijami"
+      voc: "metropolije"

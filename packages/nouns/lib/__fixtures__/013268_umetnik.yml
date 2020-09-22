@@ -1,0 +1,23 @@
+---
+  id: "13268"
+  word: "umětnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "umětnik"
+      acc: "umětnika"
+      gen: "umětnika"
+      loc: "umětniku"
+      dat: "umětniku"
+      ins: "umětnikom"
+      voc: "umětniče"
+    plural: 
+      nom: "umětniki"
+      acc: "umětnikov"
+      gen: "umětnikov"
+      loc: "umětnikah"
+      dat: "umětnikam"
+      ins: "umětnikami"
+      voc: "umětniki"

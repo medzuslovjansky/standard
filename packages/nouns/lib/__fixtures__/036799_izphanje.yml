@@ -1,0 +1,22 @@
+---
+  id: "36799"
+  word: "izphańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izphańje"
+      acc: "izphańje"
+      gen: "izphańja"
+      loc: "izphańju"
+      dat: "izphańju"
+      ins: "izphańjem"
+      voc: "izphańje"
+    plural: 
+      nom: "izphańja"
+      acc: "izphańja"
+      gen: "izphanij"
+      loc: "izphańjah"
+      dat: "izphańjam"
+      ins: "izphańjami"
+      voc: "izphańja"

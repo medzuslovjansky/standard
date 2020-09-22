@@ -1,0 +1,23 @@
+---
+  id: "18789"
+  word: "ščur"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ščur"
+      acc: "ščura"
+      gen: "ščura"
+      loc: "ščuru"
+      dat: "ščuru"
+      ins: "ščurom"
+      voc: "ščure"
+    plural: 
+      nom: "ščuri"
+      acc: "ščurov"
+      gen: "ščurov"
+      loc: "ščurah"
+      dat: "ščuram"
+      ins: "ščurami"
+      voc: "ščuri"

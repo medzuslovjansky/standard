@@ -1,0 +1,22 @@
+---
+  id: "5285"
+  word: "umyvaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "umyvaľnik"
+      acc: "umyvaľnik"
+      gen: "umyvaľnika"
+      loc: "umyvaľniku"
+      dat: "umyvaľniku"
+      ins: "umyvaľnikom"
+      voc: "umyvaľniče"
+    plural: 
+      nom: "umyvaľniky"
+      acc: "umyvaľniky"
+      gen: "umyvaľnikov"
+      loc: "umyvaľnikah"
+      dat: "umyvaľnikam"
+      ins: "umyvaľnikami"
+      voc: "umyvaľniky"

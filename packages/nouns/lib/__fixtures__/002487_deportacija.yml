@@ -1,0 +1,22 @@
+---
+  id: "2487"
+  word: "deportacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "deportacija"
+      acc: "deportacijų"
+      gen: "deportacije"
+      loc: "deportaciji"
+      dat: "deportaciji"
+      ins: "deportacijejų"
+      voc: "deportacijo"
+    plural: 
+      nom: "deportacije"
+      acc: "deportacije"
+      gen: "deportacij"
+      loc: "deportacijah"
+      dat: "deportacijam"
+      ins: "deportacijami"
+      voc: "deportacije"

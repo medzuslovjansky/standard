@@ -1,0 +1,22 @@
+---
+  id: "36457"
+  word: "nadmnožstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nadmnožstvo"
+      acc: "nadmnožstvo"
+      gen: "nadmnožstva"
+      loc: "nadmnožstvu"
+      dat: "nadmnožstvu"
+      ins: "nadmnožstvom"
+      voc: "nadmnožstvo"
+    plural: 
+      nom: "nadmnožstva"
+      acc: "nadmnožstva"
+      gen: "nadmnožstv"
+      loc: "nadmnožstvah"
+      dat: "nadmnožstvam"
+      ins: "nadmnožstvami"
+      voc: "nadmnožstva"

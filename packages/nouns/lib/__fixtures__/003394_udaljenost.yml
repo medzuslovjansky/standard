@@ -1,0 +1,22 @@
+---
+  id: "3394"
+  word: "udaljenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "udaljenosť"
+      acc: "udaljenosť"
+      gen: "udaljenosti"
+      loc: "udaljenosti"
+      dat: "udaljenosti"
+      ins: "udaljenosťjų"
+      voc: "udaljenosti"
+    plural: 
+      nom: "udaljenosti"
+      acc: "udaljenosti"
+      gen: "udaljenostij"
+      loc: "udaljenosťah"
+      dat: "udaljenosťam"
+      ins: "udaljenosťami"
+      voc: "udaljenosti"

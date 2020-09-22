@@ -1,0 +1,22 @@
+---
+  id: "31186"
+  word: "viděńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "viděńje"
+      acc: "viděńje"
+      gen: "viděńja"
+      loc: "viděńju"
+      dat: "viděńju"
+      ins: "viděńjem"
+      voc: "viděńje"
+    plural: 
+      nom: "viděńja"
+      acc: "viděńja"
+      gen: "viděnij"
+      loc: "viděńjah"
+      dat: "viděńjam"
+      ins: "viděńjami"
+      voc: "viděńja"

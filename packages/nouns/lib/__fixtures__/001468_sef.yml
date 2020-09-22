@@ -1,0 +1,23 @@
+---
+  id: "1468"
+  word: "šef"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šef"
+      acc: "šefa"
+      gen: "šefa"
+      loc: "šefu"
+      dat: "šefu"
+      ins: "šefom"
+      voc: "šefe"
+    plural: 
+      nom: "šefi"
+      acc: "šefov"
+      gen: "šefov"
+      loc: "šefah"
+      dat: "šefam"
+      ins: "šefami"
+      voc: "šefi"

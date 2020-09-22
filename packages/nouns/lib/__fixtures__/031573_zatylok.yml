@@ -1,0 +1,22 @@
+---
+  id: "31573"
+  word: "zatylȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zatylȯk"
+      acc: "zatylȯk"
+      gen: "zatylka"
+      loc: "zatylku"
+      dat: "zatylku"
+      ins: "zatylkom"
+      voc: "zatylče"
+    plural: 
+      nom: "zatylky"
+      acc: "zatylky"
+      gen: "zatylkov"
+      loc: "zatylkah"
+      dat: "zatylkam"
+      ins: "zatylkami"
+      voc: "zatylky"

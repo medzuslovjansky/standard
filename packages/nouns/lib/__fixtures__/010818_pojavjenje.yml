@@ -1,0 +1,22 @@
+---
+  id: "10818"
+  word: "pojavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pojavjeńje"
+      acc: "pojavjeńje"
+      gen: "pojavjeńja"
+      loc: "pojavjeńju"
+      dat: "pojavjeńju"
+      ins: "pojavjeńjem"
+      voc: "pojavjeńje"
+    plural: 
+      nom: "pojavjeńja"
+      acc: "pojavjeńja"
+      gen: "pojavjenij"
+      loc: "pojavjeńjah"
+      dat: "pojavjeńjam"
+      ins: "pojavjeńjami"
+      voc: "pojavjeńja"

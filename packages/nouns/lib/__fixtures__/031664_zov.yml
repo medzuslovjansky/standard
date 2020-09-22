@@ -1,0 +1,22 @@
+---
+  id: "31664"
+  word: "zȯv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zȯv"
+      acc: "zȯv"
+      gen: "zva"
+      loc: "zvu"
+      dat: "zvu"
+      ins: "zvom"
+      voc: "zve"
+    plural: 
+      nom: "zvy"
+      acc: "zvy"
+      gen: "zvov"
+      loc: "zvah"
+      dat: "zvam"
+      ins: "zvami"
+      voc: "zvy"

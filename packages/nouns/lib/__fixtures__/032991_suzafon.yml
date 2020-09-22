@@ -1,0 +1,22 @@
+---
+  id: "32991"
+  word: "suzafon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "suzafon"
+      acc: "suzafon"
+      gen: "suzafona"
+      loc: "suzafonu"
+      dat: "suzafonu"
+      ins: "suzafonom"
+      voc: "suzafone"
+    plural: 
+      nom: "suzafony"
+      acc: "suzafony"
+      gen: "suzafonov"
+      loc: "suzafonah"
+      dat: "suzafonam"
+      ins: "suzafonami"
+      voc: "suzafony"

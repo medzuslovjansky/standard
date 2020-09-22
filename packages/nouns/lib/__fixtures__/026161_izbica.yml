@@ -1,0 +1,22 @@
+---
+  id: "26161"
+  word: "izbica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izbica"
+      acc: "izbicų"
+      gen: "izbice"
+      loc: "izbici"
+      dat: "izbici"
+      ins: "izbicejų"
+      voc: "izbico"
+    plural: 
+      nom: "izbice"
+      acc: "izbice"
+      gen: "izbic"
+      loc: "izbicah"
+      dat: "izbicam"
+      ins: "izbicami"
+      voc: "izbice"

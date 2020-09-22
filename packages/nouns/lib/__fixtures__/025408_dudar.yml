@@ -1,0 +1,23 @@
+---
+  id: "25408"
+  word: "dudaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dudaŕ"
+      acc: "dudaŕa"
+      gen: "dudaŕa"
+      loc: "dudaŕu"
+      dat: "dudaŕu"
+      ins: "dudaŕem"
+      voc: "dudaŕu"
+    plural: 
+      nom: "dudari"
+      acc: "dudaŕev"
+      gen: "dudaŕev"
+      loc: "dudaŕah"
+      dat: "dudaŕam"
+      ins: "dudaŕami"
+      voc: "dudari"

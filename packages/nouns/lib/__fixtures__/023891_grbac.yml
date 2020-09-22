@@ -1,0 +1,23 @@
+---
+  id: "23891"
+  word: "grbač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grbač"
+      acc: "grbača"
+      gen: "grbača"
+      loc: "grbaču"
+      dat: "grbaču"
+      ins: "grbačem"
+      voc: "grbaču"
+    plural: 
+      nom: "grbači"
+      acc: "grbačev"
+      gen: "grbačev"
+      loc: "grbačah"
+      dat: "grbačam"
+      ins: "grbačami"
+      voc: "grbači"

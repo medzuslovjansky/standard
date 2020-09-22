@@ -1,0 +1,22 @@
+---
+  id: "1568"
+  word: "cěna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cěna"
+      acc: "cěnų"
+      gen: "cěny"
+      loc: "cěně"
+      dat: "cěně"
+      ins: "cěnojų"
+      voc: "cěno"
+    plural: 
+      nom: "cěny"
+      acc: "cěny"
+      gen: "cěn"
+      loc: "cěnah"
+      dat: "cěnam"
+      ins: "cěnami"
+      voc: "cěny"

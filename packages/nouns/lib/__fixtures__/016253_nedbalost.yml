@@ -1,0 +1,22 @@
+---
+  id: "16253"
+  word: "nedbalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedbalosť"
+      acc: "nedbalosť"
+      gen: "nedbalosti"
+      loc: "nedbalosti"
+      dat: "nedbalosti"
+      ins: "nedbalosťjų"
+      voc: "nedbalosti"
+    plural: 
+      nom: "nedbalosti"
+      acc: "nedbalosti"
+      gen: "nedbalostij"
+      loc: "nedbalosťah"
+      dat: "nedbalosťam"
+      ins: "nedbalosťami"
+      voc: "nedbalosti"

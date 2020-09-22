@@ -1,0 +1,22 @@
+---
+  id: "8240"
+  word: "javjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "javjeńje"
+      acc: "javjeńje"
+      gen: "javjeńja"
+      loc: "javjeńju"
+      dat: "javjeńju"
+      ins: "javjeńjem"
+      voc: "javjeńje"
+    plural: 
+      nom: "javjeńja"
+      acc: "javjeńja"
+      gen: "javjenij"
+      loc: "javjeńjah"
+      dat: "javjeńjam"
+      ins: "javjeńjami"
+      voc: "javjeńja"

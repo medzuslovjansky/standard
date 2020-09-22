@@ -1,0 +1,22 @@
+---
+  id: "6251"
+  word: "zapiska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zapiska"
+      acc: "zapiskų"
+      gen: "zapisky"
+      loc: "zapiskě"
+      dat: "zapiskě"
+      ins: "zapiskojų"
+      voc: "zapisko"
+    plural: 
+      nom: "zapisky"
+      acc: "zapisky"
+      gen: "zapisȯk"
+      loc: "zapiskah"
+      dat: "zapiskam"
+      ins: "zapiskami"
+      voc: "zapisky"

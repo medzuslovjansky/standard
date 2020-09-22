@@ -1,0 +1,22 @@
+---
+  id: "34767"
+  word: "sěmę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sěmę"
+      acc: "sěmę"
+      gen: "sěmene / sěmena"
+      loc: "sěmeni / sěmenu"
+      dat: "sěmeni / sěmenu"
+      ins: "sěmenem / sěmenom"
+      voc: "sěmę"
+    plural: 
+      nom: "sěmena"
+      acc: "sěmena"
+      gen: "sěmen"
+      loc: "sěmenah"
+      dat: "sěmenam"
+      ins: "sěmenami"
+      voc: "sěmena"

@@ -1,0 +1,22 @@
+---
+  id: "5276"
+  word: "hlådiľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hlådiľnik"
+      acc: "hlådiľnik"
+      gen: "hlådiľnika"
+      loc: "hlådiľniku"
+      dat: "hlådiľniku"
+      ins: "hlådiľnikom"
+      voc: "hlådiľniče"
+    plural: 
+      nom: "hlådiľniky"
+      acc: "hlådiľniky"
+      gen: "hlådiľnikov"
+      loc: "hlådiľnikah"
+      dat: "hlådiľnikam"
+      ins: "hlådiľnikami"
+      voc: "hlådiľniky"

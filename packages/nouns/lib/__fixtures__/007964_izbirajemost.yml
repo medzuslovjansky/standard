@@ -1,0 +1,22 @@
+---
+  id: "7964"
+  word: "izbirajemosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izbirajemosť"
+      acc: "izbirajemosť"
+      gen: "izbirajemosti"
+      loc: "izbirajemosti"
+      dat: "izbirajemosti"
+      ins: "izbirajemosťjų"
+      voc: "izbirajemosti"
+    plural: 
+      nom: "izbirajemosti"
+      acc: "izbirajemosti"
+      gen: "izbirajemostij"
+      loc: "izbirajemosťah"
+      dat: "izbirajemosťam"
+      ins: "izbirajemosťami"
+      voc: "izbirajemosti"

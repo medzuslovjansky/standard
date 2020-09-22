@@ -1,0 +1,22 @@
+---
+  id: "35923"
+  word: "sultanat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sultanat"
+      acc: "sultanat"
+      gen: "sultanata"
+      loc: "sultanatu"
+      dat: "sultanatu"
+      ins: "sultanatom"
+      voc: "sultanate"
+    plural: 
+      nom: "sultanaty"
+      acc: "sultanaty"
+      gen: "sultanatov"
+      loc: "sultanatah"
+      dat: "sultanatam"
+      ins: "sultanatami"
+      voc: "sultanaty"

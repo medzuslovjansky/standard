@@ -1,0 +1,15 @@
+---
+  id: "21176"
+  word: "sųprųgi"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "sųprųgi"
+      acc: "sųprųgi"
+      gen: "sųprųgov"
+      loc: "sųprųgah"
+      dat: "sųprųgam"
+      ins: "sųprųgami"
+      voc: "sųprųgi"

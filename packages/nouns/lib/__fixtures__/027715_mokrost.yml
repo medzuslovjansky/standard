@@ -1,0 +1,22 @@
+---
+  id: "27715"
+  word: "mokrosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mokrosť"
+      acc: "mokrosť"
+      gen: "mokrosti"
+      loc: "mokrosti"
+      dat: "mokrosti"
+      ins: "mokrosťjų"
+      voc: "mokrosti"
+    plural: 
+      nom: "mokrosti"
+      acc: "mokrosti"
+      gen: "mokrostij"
+      loc: "mokrosťah"
+      dat: "mokrosťam"
+      ins: "mokrosťami"
+      voc: "mokrosti"

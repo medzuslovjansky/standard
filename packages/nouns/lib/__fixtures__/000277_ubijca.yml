@@ -1,0 +1,23 @@
+---
+  id: "277"
+  word: "ubijca"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ubijca"
+      acc: "ubijcų"
+      gen: "ubijce"
+      loc: "ubijci"
+      dat: "ubijci"
+      ins: "ubijcejų"
+      voc: "ubijco"
+    plural: 
+      nom: "ubijci"
+      acc: "ubijcev"
+      gen: "ubijcev"
+      loc: "ubijcah"
+      dat: "ubijcam"
+      ins: "ubijcami"
+      voc: "ubijci"

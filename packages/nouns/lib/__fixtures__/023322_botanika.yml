@@ -1,0 +1,15 @@
+---
+  id: "23322"
+  word: "botanika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "botanika"
+      acc: "botanikų"
+      gen: "botaniky"
+      loc: "botanikě"
+      dat: "botanikě"
+      ins: "botanikojų"
+      voc: "botaniko"

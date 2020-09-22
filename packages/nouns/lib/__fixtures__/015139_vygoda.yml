@@ -1,0 +1,22 @@
+---
+  id: "15139"
+  word: "vygoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vygoda"
+      acc: "vygodų"
+      gen: "vygody"
+      loc: "vygodě"
+      dat: "vygodě"
+      ins: "vygodojų"
+      voc: "vygodo"
+    plural: 
+      nom: "vygody"
+      acc: "vygody"
+      gen: "vygod"
+      loc: "vygodah"
+      dat: "vygodam"
+      ins: "vygodami"
+      voc: "vygody"

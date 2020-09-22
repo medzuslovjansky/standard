@@ -1,0 +1,22 @@
+---
+  id: "35783"
+  word: "obćežiťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obćežiťje"
+      acc: "obćežiťje"
+      gen: "obćežiťja"
+      loc: "obćežiťju"
+      dat: "obćežiťju"
+      ins: "obćežiťjem"
+      voc: "obćežiťje"
+    plural: 
+      nom: "obćežiťja"
+      acc: "obćežiťja"
+      gen: "obćežitij"
+      loc: "obćežiťjah"
+      dat: "obćežiťjam"
+      ins: "obćežiťjami"
+      voc: "obćežiťja"

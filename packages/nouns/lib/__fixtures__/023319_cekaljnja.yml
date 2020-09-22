@@ -1,0 +1,22 @@
+---
+  id: "23319"
+  word: "čekaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čekaljnja"
+      acc: "čekaljnjų"
+      gen: "čekaljnje"
+      loc: "čekaljnji"
+      dat: "čekaljnji"
+      ins: "čekaljnjejų"
+      voc: "čekaljnjo"
+    plural: 
+      nom: "čekaljnje"
+      acc: "čekaljnje"
+      gen: "čekaljnej"
+      loc: "čekaljnjah"
+      dat: "čekaljnjam"
+      ins: "čekaljnjami"
+      voc: "čekaljnje"

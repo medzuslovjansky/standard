@@ -1,0 +1,22 @@
+---
+  id: "17371"
+  word: "ekonomija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ekonomija"
+      acc: "ekonomijų"
+      gen: "ekonomije"
+      loc: "ekonomiji"
+      dat: "ekonomiji"
+      ins: "ekonomijejų"
+      voc: "ekonomijo"
+    plural: 
+      nom: "ekonomije"
+      acc: "ekonomije"
+      gen: "ekonomij"
+      loc: "ekonomijah"
+      dat: "ekonomijam"
+      ins: "ekonomijami"
+      voc: "ekonomije"

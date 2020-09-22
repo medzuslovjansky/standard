@@ -1,0 +1,22 @@
+---
+  id: "36467"
+  word: "daoizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "daoizm"
+      acc: "daoizm"
+      gen: "daoizma"
+      loc: "daoizmu"
+      dat: "daoizmu"
+      ins: "daoizmom"
+      voc: "daoizme"
+    plural: 
+      nom: "daoizmy"
+      acc: "daoizmy"
+      gen: "daoizmov"
+      loc: "daoizmah"
+      dat: "daoizmam"
+      ins: "daoizmami"
+      voc: "daoizmy"

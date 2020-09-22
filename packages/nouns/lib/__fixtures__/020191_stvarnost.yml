@@ -1,0 +1,22 @@
+---
+  id: "20191"
+  word: "stvårnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stvårnosť"
+      acc: "stvårnosť"
+      gen: "stvårnosti"
+      loc: "stvårnosti"
+      dat: "stvårnosti"
+      ins: "stvårnosťjų"
+      voc: "stvårnosti"
+    plural: 
+      nom: "stvårnosti"
+      acc: "stvårnosti"
+      gen: "stvårnostij"
+      loc: "stvårnosťah"
+      dat: "stvårnosťam"
+      ins: "stvårnosťami"
+      voc: "stvårnosti"

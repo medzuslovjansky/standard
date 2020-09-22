@@ -1,0 +1,22 @@
+---
+  id: "16730"
+  word: "bazar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bazar"
+      acc: "bazar"
+      gen: "bazara"
+      loc: "bazaru"
+      dat: "bazaru"
+      ins: "bazarom"
+      voc: "bazare"
+    plural: 
+      nom: "bazary"
+      acc: "bazary"
+      gen: "bazarov"
+      loc: "bazarah"
+      dat: "bazaram"
+      ins: "bazarami"
+      voc: "bazary"

@@ -1,0 +1,23 @@
+---
+  id: "29851"
+  word: "parašutist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "parašutist"
+      acc: "parašutista"
+      gen: "parašutista"
+      loc: "parašutistu"
+      dat: "parašutistu"
+      ins: "parašutistom"
+      voc: "parašutiste"
+    plural: 
+      nom: "parašutisti"
+      acc: "parašutistov"
+      gen: "parašutistov"
+      loc: "parašutistah"
+      dat: "parašutistam"
+      ins: "parašutistami"
+      voc: "parašutisti"

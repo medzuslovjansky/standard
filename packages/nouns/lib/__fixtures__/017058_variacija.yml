@@ -1,0 +1,22 @@
+---
+  id: "17058"
+  word: "variacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "variacija"
+      acc: "variacijų"
+      gen: "variacije"
+      loc: "variaciji"
+      dat: "variaciji"
+      ins: "variacijejų"
+      voc: "variacijo"
+    plural: 
+      nom: "variacije"
+      acc: "variacije"
+      gen: "variacij"
+      loc: "variacijah"
+      dat: "variacijam"
+      ins: "variacijami"
+      voc: "variacije"

@@ -1,0 +1,23 @@
+---
+  id: "1791"
+  word: "byk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "byk"
+      acc: "byka"
+      gen: "byka"
+      loc: "byku"
+      dat: "byku"
+      ins: "bykom"
+      voc: "byče"
+    plural: 
+      nom: "byki"
+      acc: "bykov"
+      gen: "bykov"
+      loc: "bykah"
+      dat: "bykam"
+      ins: "bykami"
+      voc: "byki"

@@ -1,0 +1,23 @@
+---
+  id: "17635"
+  word: "kačer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kačer"
+      acc: "kačera"
+      gen: "kačera"
+      loc: "kačeru"
+      dat: "kačeru"
+      ins: "kačerom"
+      voc: "kačere"
+    plural: 
+      nom: "kačeri"
+      acc: "kačerov"
+      gen: "kačerov"
+      loc: "kačerah"
+      dat: "kačeram"
+      ins: "kačerami"
+      voc: "kačeri"

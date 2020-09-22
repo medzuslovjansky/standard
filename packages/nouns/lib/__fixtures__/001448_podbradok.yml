@@ -1,0 +1,22 @@
+---
+  id: "1448"
+  word: "podbrådȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podbrådȯk"
+      acc: "podbrådȯk"
+      gen: "podbrådka"
+      loc: "podbrådku"
+      dat: "podbrådku"
+      ins: "podbrådkom"
+      voc: "podbrådče"
+    plural: 
+      nom: "podbrådky"
+      acc: "podbrådky"
+      gen: "podbrådkov"
+      loc: "podbrådkah"
+      dat: "podbrådkam"
+      ins: "podbrådkami"
+      voc: "podbrådky"

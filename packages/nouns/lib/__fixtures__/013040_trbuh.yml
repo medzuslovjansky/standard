@@ -1,0 +1,22 @@
+---
+  id: "13040"
+  word: "tŕbuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tŕbuh"
+      acc: "tŕbuh"
+      gen: "tŕbuha"
+      loc: "tŕbuhu"
+      dat: "tŕbuhu"
+      ins: "tŕbuhom"
+      voc: "tŕbuše"
+    plural: 
+      nom: "tŕbuhy"
+      acc: "tŕbuhy"
+      gen: "tŕbuhov"
+      loc: "tŕbuhah"
+      dat: "tŕbuham"
+      ins: "tŕbuhami"
+      voc: "tŕbuhy"

@@ -1,0 +1,22 @@
+---
+  id: "22750"
+  word: "prizemje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prizemje"
+      acc: "prizemje"
+      gen: "prizemja"
+      loc: "prizemju"
+      dat: "prizemju"
+      ins: "prizemjem"
+      voc: "prizemje"
+    plural: 
+      nom: "prizemja"
+      acc: "prizemja"
+      gen: "prizemij"
+      loc: "prizemjah"
+      dat: "prizemjam"
+      ins: "prizemjami"
+      voc: "prizemja"

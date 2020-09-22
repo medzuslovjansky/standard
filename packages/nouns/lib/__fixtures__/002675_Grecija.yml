@@ -1,0 +1,15 @@
+---
+  id: "2675"
+  word: "Grecija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Grecija"
+      acc: "Grecijų"
+      gen: "Grecije"
+      loc: "Greciji"
+      dat: "Greciji"
+      ins: "Grecijejų"
+      voc: "Grecijo"

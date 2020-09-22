@@ -1,0 +1,22 @@
+---
+  id: "17275"
+  word: "dobročinstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dobročinstvo"
+      acc: "dobročinstvo"
+      gen: "dobročinstva"
+      loc: "dobročinstvu"
+      dat: "dobročinstvu"
+      ins: "dobročinstvom"
+      voc: "dobročinstvo"
+    plural: 
+      nom: "dobročinstva"
+      acc: "dobročinstva"
+      gen: "dobročinstv"
+      loc: "dobročinstvah"
+      dat: "dobročinstvam"
+      ins: "dobročinstvami"
+      voc: "dobročinstva"

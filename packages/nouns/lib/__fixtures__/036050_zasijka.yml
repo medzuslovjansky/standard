@@ -1,0 +1,22 @@
+---
+  id: "36050"
+  word: "zašijka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zašijka"
+      acc: "zašijkų"
+      gen: "zašijky"
+      loc: "zašijkě"
+      dat: "zašijkě"
+      ins: "zašijkojų"
+      voc: "zašijko"
+    plural: 
+      nom: "zašijky"
+      acc: "zašijky"
+      gen: "zašijek"
+      loc: "zašijkah"
+      dat: "zašijkam"
+      ins: "zašijkami"
+      voc: "zašijky"

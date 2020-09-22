@@ -1,0 +1,22 @@
+---
+  id: "24231"
+  word: "aleja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aleja"
+      acc: "alejų"
+      gen: "aleje"
+      loc: "aleji"
+      dat: "aleji"
+      ins: "alejejų"
+      voc: "alejo"
+    plural: 
+      nom: "aleje"
+      acc: "aleje"
+      gen: "alej"
+      loc: "alejah"
+      dat: "alejam"
+      ins: "alejami"
+      voc: "aleje"

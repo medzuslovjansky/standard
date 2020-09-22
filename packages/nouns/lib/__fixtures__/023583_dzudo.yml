@@ -1,0 +1,15 @@
+---
+  id: "23583"
+  word: "džudo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "džudo"
+      acc: "džudo"
+      gen: "džuda"
+      loc: "džudu"
+      dat: "džudu"
+      ins: "džudom"
+      voc: "džudo"

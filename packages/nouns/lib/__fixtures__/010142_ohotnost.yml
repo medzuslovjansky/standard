@@ -1,0 +1,22 @@
+---
+  id: "10142"
+  word: "ohotnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ohotnosť"
+      acc: "ohotnosť"
+      gen: "ohotnosti"
+      loc: "ohotnosti"
+      dat: "ohotnosti"
+      ins: "ohotnosťjų"
+      voc: "ohotnosti"
+    plural: 
+      nom: "ohotnosti"
+      acc: "ohotnosti"
+      gen: "ohotnostij"
+      loc: "ohotnosťah"
+      dat: "ohotnosťam"
+      ins: "ohotnosťami"
+      voc: "ohotnosti"

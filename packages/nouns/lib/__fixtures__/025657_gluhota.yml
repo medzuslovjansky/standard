@@ -1,0 +1,22 @@
+---
+  id: "25657"
+  word: "gluhota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gluhota"
+      acc: "gluhotų"
+      gen: "gluhoty"
+      loc: "gluhotě"
+      dat: "gluhotě"
+      ins: "gluhotojų"
+      voc: "gluhoto"
+    plural: 
+      nom: "gluhoty"
+      acc: "gluhoty"
+      gen: "gluhot"
+      loc: "gluhotah"
+      dat: "gluhotam"
+      ins: "gluhotami"
+      voc: "gluhoty"

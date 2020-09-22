@@ -1,0 +1,22 @@
+---
+  id: "22839"
+  word: "znak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "znak"
+      acc: "znak"
+      gen: "znaka"
+      loc: "znaku"
+      dat: "znaku"
+      ins: "znakom"
+      voc: "znače"
+    plural: 
+      nom: "znaky"
+      acc: "znaky"
+      gen: "znakov"
+      loc: "znakah"
+      dat: "znakam"
+      ins: "znakami"
+      voc: "znaky"

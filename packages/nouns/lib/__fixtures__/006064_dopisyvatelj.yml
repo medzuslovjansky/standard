@@ -1,0 +1,23 @@
+---
+  id: "6064"
+  word: "dopisyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dopisyvatelj"
+      acc: "dopisyvatelja"
+      gen: "dopisyvatelja"
+      loc: "dopisyvatelju"
+      dat: "dopisyvatelju"
+      ins: "dopisyvateljem"
+      voc: "dopisyvatelju"
+    plural: 
+      nom: "dopisyvatelji"
+      acc: "dopisyvateljev"
+      gen: "dopisyvateljev"
+      loc: "dopisyvateljah"
+      dat: "dopisyvateljam"
+      ins: "dopisyvateljami"
+      voc: "dopisyvatelji"

@@ -1,0 +1,22 @@
+---
+  id: "1682"
+  word: "ryba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ryba"
+      acc: "rybų"
+      gen: "ryby"
+      loc: "rybě"
+      dat: "rybě"
+      ins: "rybojų"
+      voc: "rybo"
+    plural: 
+      nom: "ryby"
+      acc: "ryby"
+      gen: "ryb"
+      loc: "rybah"
+      dat: "rybam"
+      ins: "rybami"
+      voc: "ryby"

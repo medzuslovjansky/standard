@@ -1,0 +1,23 @@
+---
+  id: "25826"
+  word: "grnčaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grnčaŕ"
+      acc: "grnčaŕa"
+      gen: "grnčaŕa"
+      loc: "grnčaŕu"
+      dat: "grnčaŕu"
+      ins: "grnčaŕem"
+      voc: "grnčaŕu"
+    plural: 
+      nom: "grnčari"
+      acc: "grnčaŕev"
+      gen: "grnčaŕev"
+      loc: "grnčaŕah"
+      dat: "grnčaŕam"
+      ins: "grnčaŕami"
+      voc: "grnčari"

@@ -1,0 +1,15 @@
+---
+  id: "6723"
+  word: "bujnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bujnosť"
+      acc: "bujnosť"
+      gen: "bujnosti"
+      loc: "bujnosti"
+      dat: "bujnosti"
+      ins: "bujnosťjų"
+      voc: "bujnosti"

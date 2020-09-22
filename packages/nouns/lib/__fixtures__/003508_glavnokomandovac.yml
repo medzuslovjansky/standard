@@ -1,0 +1,23 @@
+---
+  id: "3508"
+  word: "glåvnokomandovač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glåvnokomandovač"
+      acc: "glåvnokomandovača"
+      gen: "glåvnokomandovača"
+      loc: "glåvnokomandovaču"
+      dat: "glåvnokomandovaču"
+      ins: "glåvnokomandovačem"
+      voc: "glåvnokomandovaču"
+    plural: 
+      nom: "glåvnokomandovači"
+      acc: "glåvnokomandovačev"
+      gen: "glåvnokomandovačev"
+      loc: "glåvnokomandovačah"
+      dat: "glåvnokomandovačam"
+      ins: "glåvnokomandovačami"
+      voc: "glåvnokomandovači"

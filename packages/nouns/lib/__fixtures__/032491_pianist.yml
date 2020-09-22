@@ -1,0 +1,23 @@
+---
+  id: "32491"
+  word: "pianist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pianist"
+      acc: "pianista"
+      gen: "pianista"
+      loc: "pianistu"
+      dat: "pianistu"
+      ins: "pianistom"
+      voc: "pianiste"
+    plural: 
+      nom: "pianisti"
+      acc: "pianistov"
+      gen: "pianistov"
+      loc: "pianistah"
+      dat: "pianistam"
+      ins: "pianistami"
+      voc: "pianisti"

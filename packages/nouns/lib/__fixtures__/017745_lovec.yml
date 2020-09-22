@@ -1,0 +1,23 @@
+---
+  id: "17745"
+  word: "lovec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lovec"
+      acc: "lovca"
+      gen: "lovca"
+      loc: "lovcu"
+      dat: "lovcu"
+      ins: "lovcem"
+      voc: "lovče"
+    plural: 
+      nom: "lovci"
+      acc: "lovcev"
+      gen: "lovcev"
+      loc: "lovcah"
+      dat: "lovcam"
+      ins: "lovcami"
+      voc: "lovci"

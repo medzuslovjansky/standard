@@ -1,0 +1,22 @@
+---
+  id: "6102"
+  word: "balet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balet"
+      acc: "balet"
+      gen: "baleta"
+      loc: "baletu"
+      dat: "baletu"
+      ins: "baletom"
+      voc: "balete"
+    plural: 
+      nom: "balety"
+      acc: "balety"
+      gen: "baletov"
+      loc: "baletah"
+      dat: "baletam"
+      ins: "baletami"
+      voc: "balety"

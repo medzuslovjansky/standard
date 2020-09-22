@@ -1,0 +1,23 @@
+---
+  id: "35667"
+  word: "prědložitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědložitelj"
+      acc: "prědložitelja"
+      gen: "prědložitelja"
+      loc: "prědložitelju"
+      dat: "prědložitelju"
+      ins: "prědložiteljem"
+      voc: "prědložitelju"
+    plural: 
+      nom: "prědložitelji"
+      acc: "prědložiteljev"
+      gen: "prědložiteljev"
+      loc: "prědložiteljah"
+      dat: "prědložiteljam"
+      ins: "prědložiteljami"
+      voc: "prědložitelji"

@@ -1,0 +1,22 @@
+---
+  id: "6222"
+  word: "nesvědomosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nesvědomosť"
+      acc: "nesvědomosť"
+      gen: "nesvědomosti"
+      loc: "nesvědomosti"
+      dat: "nesvědomosti"
+      ins: "nesvědomosťjų"
+      voc: "nesvědomosti"
+    plural: 
+      nom: "nesvědomosti"
+      acc: "nesvědomosti"
+      gen: "nesvědomostij"
+      loc: "nesvědomosťah"
+      dat: "nesvědomosťam"
+      ins: "nesvědomosťami"
+      voc: "nesvědomosti"

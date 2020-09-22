@@ -1,0 +1,22 @@
+---
+  id: "787"
+  word: "klětka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klětka"
+      acc: "klětkų"
+      gen: "klětky"
+      loc: "klětkě"
+      dat: "klětkě"
+      ins: "klětkojų"
+      voc: "klětko"
+    plural: 
+      nom: "klětky"
+      acc: "klětky"
+      gen: "klětȯk"
+      loc: "klětkah"
+      dat: "klětkam"
+      ins: "klětkami"
+      voc: "klětky"

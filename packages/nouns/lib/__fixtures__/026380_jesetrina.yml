@@ -1,0 +1,22 @@
+---
+  id: "26380"
+  word: "jesetrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jesetrina"
+      acc: "jesetrinų"
+      gen: "jesetriny"
+      loc: "jesetrině"
+      dat: "jesetrině"
+      ins: "jesetrinojų"
+      voc: "jesetrino"
+    plural: 
+      nom: "jesetriny"
+      acc: "jesetriny"
+      gen: "jesetrin"
+      loc: "jesetrinah"
+      dat: "jesetrinam"
+      ins: "jesetrinami"
+      voc: "jesetriny"

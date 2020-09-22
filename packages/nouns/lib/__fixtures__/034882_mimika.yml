@@ -1,0 +1,22 @@
+---
+  id: "34882"
+  word: "mimika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mimika"
+      acc: "mimikų"
+      gen: "mimiky"
+      loc: "mimikě"
+      dat: "mimikě"
+      ins: "mimikojų"
+      voc: "mimiko"
+    plural: 
+      nom: "mimiky"
+      acc: "mimiky"
+      gen: "mimik"
+      loc: "mimikah"
+      dat: "mimikam"
+      ins: "mimikami"
+      voc: "mimiky"

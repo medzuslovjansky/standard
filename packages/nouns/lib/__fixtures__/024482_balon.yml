@@ -1,0 +1,22 @@
+---
+  id: "24482"
+  word: "balon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balon"
+      acc: "balon"
+      gen: "balona"
+      loc: "balonu"
+      dat: "balonu"
+      ins: "balonom"
+      voc: "balone"
+    plural: 
+      nom: "balony"
+      acc: "balony"
+      gen: "balonov"
+      loc: "balonah"
+      dat: "balonam"
+      ins: "balonami"
+      voc: "balony"

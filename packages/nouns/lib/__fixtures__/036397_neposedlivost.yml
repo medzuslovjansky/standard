@@ -1,0 +1,22 @@
+---
+  id: "36397"
+  word: "neposědlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neposědlivosť"
+      acc: "neposědlivosť"
+      gen: "neposědlivosti"
+      loc: "neposědlivosti"
+      dat: "neposědlivosti"
+      ins: "neposědlivosťjų"
+      voc: "neposědlivosti"
+    plural: 
+      nom: "neposědlivosti"
+      acc: "neposědlivosti"
+      gen: "neposědlivostij"
+      loc: "neposědlivosťah"
+      dat: "neposědlivosťam"
+      ins: "neposědlivosťami"
+      voc: "neposědlivosti"

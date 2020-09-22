@@ -1,0 +1,15 @@
+---
+  id: "3454"
+  word: "kųpańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kųpańje"
+      acc: "kųpańje"
+      gen: "kųpańja"
+      loc: "kųpańju"
+      dat: "kųpańju"
+      ins: "kųpańjem"
+      voc: "kųpańje"

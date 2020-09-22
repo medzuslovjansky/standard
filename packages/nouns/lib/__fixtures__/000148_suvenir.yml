@@ -1,0 +1,22 @@
+---
+  id: "148"
+  word: "suvenir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "suvenir"
+      acc: "suvenir"
+      gen: "suvenira"
+      loc: "suveniru"
+      dat: "suveniru"
+      ins: "suvenirom"
+      voc: "suvenire"
+    plural: 
+      nom: "suveniry"
+      acc: "suveniry"
+      gen: "suvenirov"
+      loc: "suvenirah"
+      dat: "suveniram"
+      ins: "suvenirami"
+      voc: "suveniry"

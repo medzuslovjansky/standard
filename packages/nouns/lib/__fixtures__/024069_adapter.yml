@@ -1,0 +1,22 @@
+---
+  id: "24069"
+  word: "adapter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "adapter"
+      acc: "adapter"
+      gen: "adaptera"
+      loc: "adapteru"
+      dat: "adapteru"
+      ins: "adapterom"
+      voc: "adaptere"
+    plural: 
+      nom: "adaptery"
+      acc: "adaptery"
+      gen: "adapterov"
+      loc: "adapterah"
+      dat: "adapteram"
+      ins: "adapterami"
+      voc: "adaptery"

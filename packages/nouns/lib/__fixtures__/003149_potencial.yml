@@ -1,0 +1,22 @@
+---
+  id: "3149"
+  word: "potencial"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "potencial"
+      acc: "potencial"
+      gen: "potenciala"
+      loc: "potencialu"
+      dat: "potencialu"
+      ins: "potencialom"
+      voc: "potenciale"
+    plural: 
+      nom: "potencialy"
+      acc: "potencialy"
+      gen: "potencialov"
+      loc: "potencialah"
+      dat: "potencialam"
+      ins: "potencialami"
+      voc: "potencialy"

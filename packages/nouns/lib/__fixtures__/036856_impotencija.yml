@@ -1,0 +1,22 @@
+---
+  id: "36856"
+  word: "impotencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "impotencija"
+      acc: "impotencijų"
+      gen: "impotencije"
+      loc: "impotenciji"
+      dat: "impotenciji"
+      ins: "impotencijejų"
+      voc: "impotencijo"
+    plural: 
+      nom: "impotencije"
+      acc: "impotencije"
+      gen: "impotencij"
+      loc: "impotencijah"
+      dat: "impotencijam"
+      ins: "impotencijami"
+      voc: "impotencije"

@@ -1,0 +1,22 @@
+---
+  id: "17170"
+  word: "brěmennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brěmennosť"
+      acc: "brěmennosť"
+      gen: "brěmennosti"
+      loc: "brěmennosti"
+      dat: "brěmennosti"
+      ins: "brěmennosťjų"
+      voc: "brěmennosti"
+    plural: 
+      nom: "brěmennosti"
+      acc: "brěmennosti"
+      gen: "brěmennostij"
+      loc: "brěmennosťah"
+      dat: "brěmennosťam"
+      ins: "brěmennosťami"
+      voc: "brěmennosti"

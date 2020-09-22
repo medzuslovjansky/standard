@@ -1,0 +1,22 @@
+---
+  id: "36285"
+  word: "narkoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "narkoza"
+      acc: "narkozų"
+      gen: "narkozy"
+      loc: "narkozě"
+      dat: "narkozě"
+      ins: "narkozojų"
+      voc: "narkozo"
+    plural: 
+      nom: "narkozy"
+      acc: "narkozy"
+      gen: "narkoz"
+      loc: "narkozah"
+      dat: "narkozam"
+      ins: "narkozami"
+      voc: "narkozy"

@@ -1,0 +1,22 @@
+---
+  id: "26462"
+  word: "kamion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kamion"
+      acc: "kamion"
+      gen: "kamiona"
+      loc: "kamionu"
+      dat: "kamionu"
+      ins: "kamionom"
+      voc: "kamione"
+    plural: 
+      nom: "kamiony"
+      acc: "kamiony"
+      gen: "kamionov"
+      loc: "kamionah"
+      dat: "kamionam"
+      ins: "kamionami"
+      voc: "kamiony"

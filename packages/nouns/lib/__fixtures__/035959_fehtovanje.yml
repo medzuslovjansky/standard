@@ -1,0 +1,15 @@
+---
+  id: "35959"
+  word: "fehtovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fehtovańje"
+      acc: "fehtovańje"
+      gen: "fehtovańja"
+      loc: "fehtovańju"
+      dat: "fehtovańju"
+      ins: "fehtovańjem"
+      voc: "fehtovańje"

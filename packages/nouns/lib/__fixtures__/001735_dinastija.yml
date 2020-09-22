@@ -1,0 +1,22 @@
+---
+  id: "1735"
+  word: "dinastija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dinastija"
+      acc: "dinastijų"
+      gen: "dinastije"
+      loc: "dinastiji"
+      dat: "dinastiji"
+      ins: "dinastijejų"
+      voc: "dinastijo"
+    plural: 
+      nom: "dinastije"
+      acc: "dinastije"
+      gen: "dinastij"
+      loc: "dinastijah"
+      dat: "dinastijam"
+      ins: "dinastijami"
+      voc: "dinastije"

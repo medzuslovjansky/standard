@@ -1,0 +1,22 @@
+---
+  id: "30091"
+  word: "råvnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnosť"
+      acc: "råvnosť"
+      gen: "råvnosti"
+      loc: "råvnosti"
+      dat: "råvnosti"
+      ins: "råvnosťjų"
+      voc: "råvnosti"
+    plural: 
+      nom: "råvnosti"
+      acc: "råvnosti"
+      gen: "råvnostij"
+      loc: "råvnosťah"
+      dat: "råvnosťam"
+      ins: "råvnosťami"
+      voc: "råvnosti"

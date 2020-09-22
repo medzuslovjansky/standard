@@ -1,0 +1,23 @@
+---
+  id: "35570"
+  word: "fabrikant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fabrikant"
+      acc: "fabrikanta"
+      gen: "fabrikanta"
+      loc: "fabrikantu"
+      dat: "fabrikantu"
+      ins: "fabrikantom"
+      voc: "fabrikante"
+    plural: 
+      nom: "fabrikanti"
+      acc: "fabrikantov"
+      gen: "fabrikantov"
+      loc: "fabrikantah"
+      dat: "fabrikantam"
+      ins: "fabrikantami"
+      voc: "fabrikanti"

@@ -1,0 +1,22 @@
+---
+  id: "13017"
+  word: "tȯlstosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tȯlstosť"
+      acc: "tȯlstosť"
+      gen: "tȯlstosti"
+      loc: "tȯlstosti"
+      dat: "tȯlstosti"
+      ins: "tȯlstosťjų"
+      voc: "tȯlstosti"
+    plural: 
+      nom: "tȯlstosti"
+      acc: "tȯlstosti"
+      gen: "tȯlstostij"
+      loc: "tȯlstosťah"
+      dat: "tȯlstosťam"
+      ins: "tȯlstosťami"
+      voc: "tȯlstosti"

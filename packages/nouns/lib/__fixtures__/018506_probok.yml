@@ -1,0 +1,22 @@
+---
+  id: "18506"
+  word: "probȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "probȯk"
+      acc: "probȯk"
+      gen: "probka"
+      loc: "probku"
+      dat: "probku"
+      ins: "probkom"
+      voc: "probče"
+    plural: 
+      nom: "probky"
+      acc: "probky"
+      gen: "probkov"
+      loc: "probkah"
+      dat: "probkam"
+      ins: "probkami"
+      voc: "probky"

@@ -1,0 +1,22 @@
+---
+  id: "35581"
+  word: "epizod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "epizod"
+      acc: "epizod"
+      gen: "epizoda"
+      loc: "epizodu"
+      dat: "epizodu"
+      ins: "epizodom"
+      voc: "epizode"
+    plural: 
+      nom: "epizody"
+      acc: "epizody"
+      gen: "epizodov"
+      loc: "epizodah"
+      dat: "epizodam"
+      ins: "epizodami"
+      voc: "epizody"

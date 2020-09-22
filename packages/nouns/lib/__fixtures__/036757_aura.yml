@@ -1,0 +1,22 @@
+---
+  id: "36757"
+  word: "aura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aura"
+      acc: "aurų"
+      gen: "aury"
+      loc: "aurě"
+      dat: "aurě"
+      ins: "aurojų"
+      voc: "auro"
+    plural: 
+      nom: "aury"
+      acc: "aury"
+      gen: "aur"
+      loc: "aurah"
+      dat: "auram"
+      ins: "aurami"
+      voc: "aury"

@@ -1,0 +1,22 @@
+---
+  id: "33326"
+  word: "banka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "banka"
+      acc: "bankų"
+      gen: "banky"
+      loc: "bankě"
+      dat: "bankě"
+      ins: "bankojų"
+      voc: "banko"
+    plural: 
+      nom: "banky"
+      acc: "banky"
+      gen: "banȯk"
+      loc: "bankah"
+      dat: "bankam"
+      ins: "bankami"
+      voc: "banky"

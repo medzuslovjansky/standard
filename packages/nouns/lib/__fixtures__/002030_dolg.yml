@@ -1,0 +1,22 @@
+---
+  id: "2030"
+  word: "dȯlg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dȯlg"
+      acc: "dȯlg"
+      gen: "dȯlga"
+      loc: "dȯlgu"
+      dat: "dȯlgu"
+      ins: "dȯlgom"
+      voc: "dȯlže"
+    plural: 
+      nom: "dȯlgy"
+      acc: "dȯlgy"
+      gen: "dȯlgov"
+      loc: "dȯlgah"
+      dat: "dȯlgam"
+      ins: "dȯlgami"
+      voc: "dȯlgy"

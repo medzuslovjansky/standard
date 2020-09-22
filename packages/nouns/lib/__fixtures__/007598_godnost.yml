@@ -1,0 +1,22 @@
+---
+  id: "7598"
+  word: "godnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "godnosť"
+      acc: "godnosť"
+      gen: "godnosti"
+      loc: "godnosti"
+      dat: "godnosti"
+      ins: "godnosťjų"
+      voc: "godnosti"
+    plural: 
+      nom: "godnosti"
+      acc: "godnosti"
+      gen: "godnostij"
+      loc: "godnosťah"
+      dat: "godnosťam"
+      ins: "godnosťami"
+      voc: "godnosti"

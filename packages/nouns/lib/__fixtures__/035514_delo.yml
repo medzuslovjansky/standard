@@ -1,0 +1,22 @@
+---
+  id: "35514"
+  word: "dělo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dělo"
+      acc: "dělo"
+      gen: "děla / dělese"
+      loc: "dělu / dělesi"
+      dat: "dělu / dělesi"
+      ins: "dělom / dělesem"
+      voc: "dělo"
+    plural: 
+      nom: "děla / dělesa"
+      acc: "děla / dělesa"
+      gen: "děl / děles"
+      loc: "dělah / dělesah"
+      dat: "dělam / dělesam"
+      ins: "dělami / dělesami"
+      voc: "děla / dělesa"

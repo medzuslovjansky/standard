@@ -1,0 +1,15 @@
+---
+  id: "22776"
+  word: "Etiopija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Etiopija"
+      acc: "Etiopijų"
+      gen: "Etiopije"
+      loc: "Etiopiji"
+      dat: "Etiopiji"
+      ins: "Etiopijejų"
+      voc: "Etiopijo"

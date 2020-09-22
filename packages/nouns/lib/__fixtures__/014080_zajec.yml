@@ -1,0 +1,23 @@
+---
+  id: "14080"
+  word: "zajęc"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zajęc"
+      acc: "zajęca"
+      gen: "zajęca"
+      loc: "zajęcu"
+      dat: "zajęcu"
+      ins: "zajęcem"
+      voc: "zajęcu"
+    plural: 
+      nom: "zajęci"
+      acc: "zajęcev"
+      gen: "zajęcev"
+      loc: "zajęcah"
+      dat: "zajęcam"
+      ins: "zajęcami"
+      voc: "zajęci"

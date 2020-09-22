@@ -1,0 +1,15 @@
+---
+  id: "2687"
+  word: "Lihtenštejn"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Lihtenštejn"
+      acc: "Lihtenštejn"
+      gen: "Lihtenštejna"
+      loc: "Lihtenštejnu"
+      dat: "Lihtenštejnu"
+      ins: "Lihtenštejnom"
+      voc: "Lihtenštejne"

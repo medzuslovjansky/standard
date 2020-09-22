@@ -1,0 +1,22 @@
+---
+  id: "31011"
+  word: "vanilja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vanilja"
+      acc: "vaniljų"
+      gen: "vanilje"
+      loc: "vanilji"
+      dat: "vanilji"
+      ins: "vaniljejų"
+      voc: "vaniljo"
+    plural: 
+      nom: "vanilje"
+      acc: "vanilje"
+      gen: "vanilej"
+      loc: "vaniljah"
+      dat: "vaniljam"
+      ins: "vaniljami"
+      voc: "vanilje"

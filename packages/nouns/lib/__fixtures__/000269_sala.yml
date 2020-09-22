@@ -1,0 +1,22 @@
+---
+  id: "269"
+  word: "sala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sala"
+      acc: "salų"
+      gen: "saly"
+      loc: "salě"
+      dat: "salě"
+      ins: "salojų"
+      voc: "salo"
+    plural: 
+      nom: "saly"
+      acc: "saly"
+      gen: "sal"
+      loc: "salah"
+      dat: "salam"
+      ins: "salami"
+      voc: "saly"

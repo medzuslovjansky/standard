@@ -1,0 +1,23 @@
+---
+  id: "4211"
+  word: "tovariš"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tovariš"
+      acc: "tovariša"
+      gen: "tovariša"
+      loc: "tovarišu"
+      dat: "tovarišu"
+      ins: "tovarišem"
+      voc: "tovarišu"
+    plural: 
+      nom: "tovariši"
+      acc: "tovarišev"
+      gen: "tovarišev"
+      loc: "tovarišah"
+      dat: "tovarišam"
+      ins: "tovarišami"
+      voc: "tovariši"

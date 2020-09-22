@@ -1,0 +1,23 @@
+---
+  id: "22746"
+  word: "zemjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zemjak"
+      acc: "zemjaka"
+      gen: "zemjaka"
+      loc: "zemjaku"
+      dat: "zemjaku"
+      ins: "zemjakom"
+      voc: "zemjače"
+    plural: 
+      nom: "zemjaki"
+      acc: "zemjakov"
+      gen: "zemjakov"
+      loc: "zemjakah"
+      dat: "zemjakam"
+      ins: "zemjakami"
+      voc: "zemjaki"

@@ -1,0 +1,22 @@
+---
+  id: "34918"
+  word: "primětka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "primětka"
+      acc: "primětkų"
+      gen: "primětky"
+      loc: "primětkě"
+      dat: "primětkě"
+      ins: "primětkojų"
+      voc: "primětko"
+    plural: 
+      nom: "primětky"
+      acc: "primětky"
+      gen: "primětȯk"
+      loc: "primětkah"
+      dat: "primětkam"
+      ins: "primětkami"
+      voc: "primětky"

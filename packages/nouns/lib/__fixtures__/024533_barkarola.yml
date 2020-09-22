@@ -1,0 +1,22 @@
+---
+  id: "24533"
+  word: "barkarola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "barkarola"
+      acc: "barkarolų"
+      gen: "barkaroly"
+      loc: "barkarolě"
+      dat: "barkarolě"
+      ins: "barkarolojų"
+      voc: "barkarolo"
+    plural: 
+      nom: "barkaroly"
+      acc: "barkaroly"
+      gen: "barkarol"
+      loc: "barkarolah"
+      dat: "barkarolam"
+      ins: "barkarolami"
+      voc: "barkaroly"

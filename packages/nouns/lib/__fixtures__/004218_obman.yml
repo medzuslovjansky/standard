@@ -1,0 +1,22 @@
+---
+  id: "4218"
+  word: "obman"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obman"
+      acc: "obman"
+      gen: "obmana"
+      loc: "obmanu"
+      dat: "obmanu"
+      ins: "obmanom"
+      voc: "obmane"
+    plural: 
+      nom: "obmany"
+      acc: "obmany"
+      gen: "obmanov"
+      loc: "obmanah"
+      dat: "obmanam"
+      ins: "obmanami"
+      voc: "obmany"

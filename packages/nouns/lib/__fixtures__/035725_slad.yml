@@ -1,0 +1,15 @@
+---
+  id: "35725"
+  word: "slåd"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "slåd"
+      acc: "slåd"
+      gen: "slåda"
+      loc: "slådu"
+      dat: "slådu"
+      ins: "slådom"
+      voc: "slåde"

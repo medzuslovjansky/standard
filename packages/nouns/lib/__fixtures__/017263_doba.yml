@@ -1,0 +1,22 @@
+---
+  id: "17263"
+  word: "doba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "doba"
+      acc: "dobų"
+      gen: "doby"
+      loc: "době"
+      dat: "době"
+      ins: "dobojų"
+      voc: "dobo"
+    plural: 
+      nom: "doby"
+      acc: "doby"
+      gen: "dob"
+      loc: "dobah"
+      dat: "dobam"
+      ins: "dobami"
+      voc: "doby"

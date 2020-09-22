@@ -1,0 +1,22 @@
+---
+  id: "35489"
+  word: "knot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "knot"
+      acc: "knot"
+      gen: "knota"
+      loc: "knotu"
+      dat: "knotu"
+      ins: "knotom"
+      voc: "knote"
+    plural: 
+      nom: "knoty"
+      acc: "knoty"
+      gen: "knotov"
+      loc: "knotah"
+      dat: "knotam"
+      ins: "knotami"
+      voc: "knoty"

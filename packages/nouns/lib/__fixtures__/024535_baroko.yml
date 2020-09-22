@@ -1,0 +1,22 @@
+---
+  id: "24535"
+  word: "baroko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "baroko"
+      acc: "baroko"
+      gen: "baroka"
+      loc: "baroku"
+      dat: "baroku"
+      ins: "barokom"
+      voc: "baroko"
+    plural: 
+      nom: "baroka"
+      acc: "baroka"
+      gen: "barok"
+      loc: "barokah"
+      dat: "barokam"
+      ins: "barokami"
+      voc: "baroka"

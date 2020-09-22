@@ -1,0 +1,22 @@
+---
+  id: "6063"
+  word: "korespondencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korespondencija"
+      acc: "korespondencijų"
+      gen: "korespondencije"
+      loc: "korespondenciji"
+      dat: "korespondenciji"
+      ins: "korespondencijejų"
+      voc: "korespondencijo"
+    plural: 
+      nom: "korespondencije"
+      acc: "korespondencije"
+      gen: "korespondencij"
+      loc: "korespondencijah"
+      dat: "korespondencijam"
+      ins: "korespondencijami"
+      voc: "korespondencije"

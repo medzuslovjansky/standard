@@ -1,0 +1,22 @@
+---
+  id: "1077"
+  word: "počętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "počętȯk"
+      acc: "počętȯk"
+      gen: "počętka"
+      loc: "počętku"
+      dat: "počętku"
+      ins: "počętkom"
+      voc: "počętče"
+    plural: 
+      nom: "počętky"
+      acc: "počętky"
+      gen: "počętkov"
+      loc: "počętkah"
+      dat: "počętkam"
+      ins: "počętkami"
+      voc: "počętky"

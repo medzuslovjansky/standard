@@ -1,0 +1,23 @@
+---
+  id: "275"
+  word: "diplomat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "diplomat"
+      acc: "diplomata"
+      gen: "diplomata"
+      loc: "diplomatu"
+      dat: "diplomatu"
+      ins: "diplomatom"
+      voc: "diplomate"
+    plural: 
+      nom: "diplomati"
+      acc: "diplomatov"
+      gen: "diplomatov"
+      loc: "diplomatah"
+      dat: "diplomatam"
+      ins: "diplomatami"
+      voc: "diplomati"

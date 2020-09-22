@@ -1,0 +1,22 @@
+---
+  id: "7117"
+  word: "dȯćerka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯćerka"
+      acc: "dȯćerkų"
+      gen: "dȯćerky"
+      loc: "dȯćerkě"
+      dat: "dȯćerkě"
+      ins: "dȯćerkojų"
+      voc: "dȯćerko"
+    plural: 
+      nom: "dȯćerky"
+      acc: "dȯćerky"
+      gen: "dȯćerȯk"
+      loc: "dȯćerkah"
+      dat: "dȯćerkam"
+      ins: "dȯćerkami"
+      voc: "dȯćerky"

@@ -1,0 +1,23 @@
+---
+  id: "34983"
+  word: "ustanovitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ustanovitelj"
+      acc: "ustanovitelja"
+      gen: "ustanovitelja"
+      loc: "ustanovitelju"
+      dat: "ustanovitelju"
+      ins: "ustanoviteljem"
+      voc: "ustanovitelju"
+    plural: 
+      nom: "ustanovitelji"
+      acc: "ustanoviteljev"
+      gen: "ustanoviteljev"
+      loc: "ustanoviteljah"
+      dat: "ustanoviteljam"
+      ins: "ustanoviteljami"
+      voc: "ustanovitelji"

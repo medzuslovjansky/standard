@@ -1,0 +1,22 @@
+---
+  id: "35103"
+  word: "bufet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bufet"
+      acc: "bufet"
+      gen: "bufeta"
+      loc: "bufetu"
+      dat: "bufetu"
+      ins: "bufetom"
+      voc: "bufete"
+    plural: 
+      nom: "bufety"
+      acc: "bufety"
+      gen: "bufetov"
+      loc: "bufetah"
+      dat: "bufetam"
+      ins: "bufetami"
+      voc: "bufety"

@@ -1,0 +1,22 @@
+---
+  id: "6729"
+  word: "Bulgarka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Bulgarka"
+      acc: "Bulgarkų"
+      gen: "Bulgarky"
+      loc: "Bulgarkě"
+      dat: "Bulgarkě"
+      ins: "Bulgarkojų"
+      voc: "Bulgarko"
+    plural: 
+      nom: "Bulgarky"
+      acc: "Bulgarky"
+      gen: "Bulgarȯk"
+      loc: "Bulgarkah"
+      dat: "Bulgarkam"
+      ins: "Bulgarkami"
+      voc: "Bulgarky"

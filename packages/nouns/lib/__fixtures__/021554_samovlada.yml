@@ -1,0 +1,22 @@
+---
+  id: "21554"
+  word: "samovlada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samovlada"
+      acc: "samovladų"
+      gen: "samovlady"
+      loc: "samovladě"
+      dat: "samovladě"
+      ins: "samovladojų"
+      voc: "samovlado"
+    plural: 
+      nom: "samovlady"
+      acc: "samovlady"
+      gen: "samovlad"
+      loc: "samovladah"
+      dat: "samovladam"
+      ins: "samovladami"
+      voc: "samovlady"

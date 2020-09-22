@@ -1,0 +1,22 @@
+---
+  id: "19809"
+  word: "krivda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krivda"
+      acc: "krivdų"
+      gen: "krivdy"
+      loc: "krivdě"
+      dat: "krivdě"
+      ins: "krivdojų"
+      voc: "krivdo"
+    plural: 
+      nom: "krivdy"
+      acc: "krivdy"
+      gen: "krivd"
+      loc: "krivdah"
+      dat: "krivdam"
+      ins: "krivdami"
+      voc: "krivdy"

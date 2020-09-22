@@ -1,0 +1,22 @@
+---
+  id: "2651"
+  word: "lěs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lěs"
+      acc: "lěs"
+      gen: "lěsa"
+      loc: "lěsu"
+      dat: "lěsu"
+      ins: "lěsom"
+      voc: "lěse"
+    plural: 
+      nom: "lěsy"
+      acc: "lěsy"
+      gen: "lěsov"
+      loc: "lěsah"
+      dat: "lěsam"
+      ins: "lěsami"
+      voc: "lěsy"

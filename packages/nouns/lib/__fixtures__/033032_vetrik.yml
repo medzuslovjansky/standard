@@ -1,0 +1,22 @@
+---
+  id: "33032"
+  word: "větrik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "větrik"
+      acc: "větrik"
+      gen: "větrika"
+      loc: "větriku"
+      dat: "větriku"
+      ins: "větrikom"
+      voc: "větriče"
+    plural: 
+      nom: "větriky"
+      acc: "větriky"
+      gen: "větrikov"
+      loc: "větrikah"
+      dat: "větrikam"
+      ins: "větrikami"
+      voc: "větriky"

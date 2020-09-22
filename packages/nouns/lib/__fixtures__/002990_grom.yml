@@ -1,0 +1,22 @@
+---
+  id: "2990"
+  word: "grom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grom"
+      acc: "grom"
+      gen: "groma"
+      loc: "gromu"
+      dat: "gromu"
+      ins: "gromom"
+      voc: "grome"
+    plural: 
+      nom: "gromy"
+      acc: "gromy"
+      gen: "gromov"
+      loc: "gromah"
+      dat: "gromam"
+      ins: "gromami"
+      voc: "gromy"

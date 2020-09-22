@@ -1,0 +1,22 @@
+---
+  id: "24161"
+  word: "akomodacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akomodacija"
+      acc: "akomodacijų"
+      gen: "akomodacije"
+      loc: "akomodaciji"
+      dat: "akomodaciji"
+      ins: "akomodacijejų"
+      voc: "akomodacijo"
+    plural: 
+      nom: "akomodacije"
+      acc: "akomodacije"
+      gen: "akomodacij"
+      loc: "akomodacijah"
+      dat: "akomodacijam"
+      ins: "akomodacijami"
+      voc: "akomodacije"

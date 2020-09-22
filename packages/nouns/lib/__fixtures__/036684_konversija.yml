@@ -1,0 +1,22 @@
+---
+  id: "36684"
+  word: "konversija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konversija"
+      acc: "konversijų"
+      gen: "konversije"
+      loc: "konversiji"
+      dat: "konversiji"
+      ins: "konversijejų"
+      voc: "konversijo"
+    plural: 
+      nom: "konversije"
+      acc: "konversije"
+      gen: "konversij"
+      loc: "konversijah"
+      dat: "konversijam"
+      ins: "konversijami"
+      voc: "konversije"

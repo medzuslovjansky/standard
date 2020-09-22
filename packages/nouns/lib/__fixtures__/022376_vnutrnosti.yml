@@ -1,0 +1,15 @@
+---
+  id: "22376"
+  word: "vnųtrnosti"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "vnųtrnosti"
+      acc: "vnųtrnosti"
+      gen: "vnųtrnostij"
+      loc: "vnųtrnostjah"
+      dat: "vnųtrnostjam"
+      ins: "vnųtrnostjami"
+      voc: "vnųtrnosti"

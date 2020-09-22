@@ -1,0 +1,23 @@
+---
+  id: "33816"
+  word: "nenasytnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nenasytnik"
+      acc: "nenasytnika"
+      gen: "nenasytnika"
+      loc: "nenasytniku"
+      dat: "nenasytniku"
+      ins: "nenasytnikom"
+      voc: "nenasytniče"
+    plural: 
+      nom: "nenasytniki"
+      acc: "nenasytnikov"
+      gen: "nenasytnikov"
+      loc: "nenasytnikah"
+      dat: "nenasytnikam"
+      ins: "nenasytnikami"
+      voc: "nenasytniki"

@@ -1,0 +1,22 @@
+---
+  id: "29832"
+  word: "pancyŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "panciŕ"
+      acc: "panciŕ"
+      gen: "panciŕa"
+      loc: "panciŕu"
+      dat: "panciŕu"
+      ins: "panciŕem"
+      voc: "panciŕu"
+    plural: 
+      nom: "panciŕe"
+      acc: "panciŕe"
+      gen: "panciŕev"
+      loc: "panciŕah"
+      dat: "panciŕam"
+      ins: "panciŕami"
+      voc: "panciŕe"

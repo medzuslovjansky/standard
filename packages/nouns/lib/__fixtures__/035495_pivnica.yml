@@ -1,0 +1,22 @@
+---
+  id: "35495"
+  word: "pivnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pivnica"
+      acc: "pivnicų"
+      gen: "pivnice"
+      loc: "pivnici"
+      dat: "pivnici"
+      ins: "pivnicejų"
+      voc: "pivnico"
+    plural: 
+      nom: "pivnice"
+      acc: "pivnice"
+      gen: "pivnic"
+      loc: "pivnicah"
+      dat: "pivnicam"
+      ins: "pivnicami"
+      voc: "pivnice"

@@ -1,0 +1,22 @@
+---
+  id: "2020"
+  word: "neadekvatnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neadekvatnosť"
+      acc: "neadekvatnosť"
+      gen: "neadekvatnosti"
+      loc: "neadekvatnosti"
+      dat: "neadekvatnosti"
+      ins: "neadekvatnosťjų"
+      voc: "neadekvatnosti"
+    plural: 
+      nom: "neadekvatnosti"
+      acc: "neadekvatnosti"
+      gen: "neadekvatnostij"
+      loc: "neadekvatnosťah"
+      dat: "neadekvatnosťam"
+      ins: "neadekvatnosťami"
+      voc: "neadekvatnosti"

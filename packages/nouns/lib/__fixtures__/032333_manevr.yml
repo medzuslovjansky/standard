@@ -1,0 +1,22 @@
+---
+  id: "32333"
+  word: "manevr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "manevr"
+      acc: "manevr"
+      gen: "manevra"
+      loc: "manevru"
+      dat: "manevru"
+      ins: "manevrom"
+      voc: "manevre"
+    plural: 
+      nom: "manevry"
+      acc: "manevry"
+      gen: "manevrov"
+      loc: "manevrah"
+      dat: "manevram"
+      ins: "manevrami"
+      voc: "manevry"

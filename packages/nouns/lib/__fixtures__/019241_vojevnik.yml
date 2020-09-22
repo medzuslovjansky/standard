@@ -1,0 +1,23 @@
+---
+  id: "19241"
+  word: "vojevnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vojevnik"
+      acc: "vojevnika"
+      gen: "vojevnika"
+      loc: "vojevniku"
+      dat: "vojevniku"
+      ins: "vojevnikom"
+      voc: "vojevniče"
+    plural: 
+      nom: "vojevniki"
+      acc: "vojevnikov"
+      gen: "vojevnikov"
+      loc: "vojevnikah"
+      dat: "vojevnikam"
+      ins: "vojevnikami"
+      voc: "vojevniki"

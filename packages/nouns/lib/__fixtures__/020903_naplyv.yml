@@ -1,0 +1,22 @@
+---
+  id: "20903"
+  word: "naplyv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naplyv"
+      acc: "naplyv"
+      gen: "naplyva"
+      loc: "naplyvu"
+      dat: "naplyvu"
+      ins: "naplyvom"
+      voc: "naplyve"
+    plural: 
+      nom: "naplyvy"
+      acc: "naplyvy"
+      gen: "naplyvov"
+      loc: "naplyvah"
+      dat: "naplyvam"
+      ins: "naplyvami"
+      voc: "naplyvy"

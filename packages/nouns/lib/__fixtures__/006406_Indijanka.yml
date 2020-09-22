@@ -1,0 +1,22 @@
+---
+  id: "6406"
+  word: "Indijanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Indijanka"
+      acc: "Indijankų"
+      gen: "Indijanky"
+      loc: "Indijankě"
+      dat: "Indijankě"
+      ins: "Indijankojų"
+      voc: "Indijanko"
+    plural: 
+      nom: "Indijanky"
+      acc: "Indijanky"
+      gen: "Indijanȯk"
+      loc: "Indijankah"
+      dat: "Indijankam"
+      ins: "Indijankami"
+      voc: "Indijanky"

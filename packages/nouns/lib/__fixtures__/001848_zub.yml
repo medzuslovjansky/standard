@@ -1,0 +1,22 @@
+---
+  id: "1848"
+  word: "zųb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zųb"
+      acc: "zųb"
+      gen: "zųba"
+      loc: "zųbu"
+      dat: "zųbu"
+      ins: "zųbom"
+      voc: "zųbe"
+    plural: 
+      nom: "zųby"
+      acc: "zųby"
+      gen: "zųbov"
+      loc: "zųbah"
+      dat: "zųbam"
+      ins: "zųbami"
+      voc: "zųby"

@@ -1,0 +1,22 @@
+---
+  id: "4350"
+  word: "pohyćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pohyćeńje"
+      acc: "pohyćeńje"
+      gen: "pohyćeńja"
+      loc: "pohyćeńju"
+      dat: "pohyćeńju"
+      ins: "pohyćeńjem"
+      voc: "pohyćeńje"
+    plural: 
+      nom: "pohyćeńja"
+      acc: "pohyćeńja"
+      gen: "pohyćenij"
+      loc: "pohyćeńjah"
+      dat: "pohyćeńjam"
+      ins: "pohyćeńjami"
+      voc: "pohyćeńja"

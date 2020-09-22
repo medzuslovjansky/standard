@@ -1,0 +1,15 @@
+---
+  id: "32729"
+  word: "potomstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "potomstvo"
+      acc: "potomstvo"
+      gen: "potomstva"
+      loc: "potomstvu"
+      dat: "potomstvu"
+      ins: "potomstvom"
+      voc: "potomstvo"

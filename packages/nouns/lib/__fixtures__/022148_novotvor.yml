@@ -1,0 +1,22 @@
+---
+  id: "22148"
+  word: "novotvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "novotvor"
+      acc: "novotvor"
+      gen: "novotvora"
+      loc: "novotvoru"
+      dat: "novotvoru"
+      ins: "novotvorom"
+      voc: "novotvore"
+    plural: 
+      nom: "novotvory"
+      acc: "novotvory"
+      gen: "novotvorov"
+      loc: "novotvorah"
+      dat: "novotvoram"
+      ins: "novotvorami"
+      voc: "novotvory"

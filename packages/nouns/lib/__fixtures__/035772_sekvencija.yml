@@ -1,0 +1,22 @@
+---
+  id: "35772"
+  word: "sekvencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sekvencija"
+      acc: "sekvencijų"
+      gen: "sekvencije"
+      loc: "sekvenciji"
+      dat: "sekvenciji"
+      ins: "sekvencijejų"
+      voc: "sekvencijo"
+    plural: 
+      nom: "sekvencije"
+      acc: "sekvencije"
+      gen: "sekvencij"
+      loc: "sekvencijah"
+      dat: "sekvencijam"
+      ins: "sekvencijami"
+      voc: "sekvencije"

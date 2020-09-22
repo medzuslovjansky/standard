@@ -1,0 +1,22 @@
+---
+  id: "2775"
+  word: "natisk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "natisk"
+      acc: "natisk"
+      gen: "natiska"
+      loc: "natisku"
+      dat: "natisku"
+      ins: "natiskom"
+      voc: "natisče"
+    plural: 
+      nom: "natisky"
+      acc: "natisky"
+      gen: "natiskov"
+      loc: "natiskah"
+      dat: "natiskam"
+      ins: "natiskami"
+      voc: "natisky"

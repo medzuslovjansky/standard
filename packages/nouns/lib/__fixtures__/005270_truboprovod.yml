@@ -1,0 +1,22 @@
+---
+  id: "5270"
+  word: "trųboprovod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trųboprovod"
+      acc: "trųboprovod"
+      gen: "trųboprovoda"
+      loc: "trųboprovodu"
+      dat: "trųboprovodu"
+      ins: "trųboprovodom"
+      voc: "trųboprovode"
+    plural: 
+      nom: "trųboprovody"
+      acc: "trųboprovody"
+      gen: "trųboprovodov"
+      loc: "trųboprovodah"
+      dat: "trųboprovodam"
+      ins: "trųboprovodami"
+      voc: "trųboprovody"

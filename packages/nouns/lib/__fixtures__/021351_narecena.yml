@@ -1,0 +1,23 @@
+---
+  id: "21351"
+  word: "narěčena"
+  meta: 
+    irregularity: "(narěčenoj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "narěčena"
+      acc: "narěčenų"
+      gen: "narěčenoj"
+      loc: "narěčenoj"
+      dat: "narěčenoj"
+      ins: "narěčenojų"
+      voc: "narěčena"
+    plural: 
+      nom: "narěčene"
+      acc: "narěčene"
+      gen: "narěčenyh"
+      loc: "narěčenyh"
+      dat: "narěčenym"
+      ins: "narěčenymi"
+      voc: "narěčene"

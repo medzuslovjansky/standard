@@ -1,0 +1,22 @@
+---
+  id: "36774"
+  word: "orbita"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "orbita"
+      acc: "orbitų"
+      gen: "orbity"
+      loc: "orbitě"
+      dat: "orbitě"
+      ins: "orbitojų"
+      voc: "orbito"
+    plural: 
+      nom: "orbity"
+      acc: "orbity"
+      gen: "orbit"
+      loc: "orbitah"
+      dat: "orbitam"
+      ins: "orbitami"
+      voc: "orbity"

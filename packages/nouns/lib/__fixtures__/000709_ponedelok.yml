@@ -1,0 +1,22 @@
+---
+  id: "709"
+  word: "ponedělȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ponedělȯk"
+      acc: "ponedělȯk"
+      gen: "ponedělka"
+      loc: "ponedělku"
+      dat: "ponedělku"
+      ins: "ponedělkom"
+      voc: "ponedělče"
+    plural: 
+      nom: "ponedělky"
+      acc: "ponedělky"
+      gen: "ponedělkov"
+      loc: "ponedělkah"
+      dat: "ponedělkam"
+      ins: "ponedělkami"
+      voc: "ponedělky"

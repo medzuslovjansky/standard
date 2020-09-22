@@ -1,0 +1,22 @@
+---
+  id: "3372"
+  word: "ideja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ideja"
+      acc: "idejų"
+      gen: "ideje"
+      loc: "ideji"
+      dat: "ideji"
+      ins: "idejejų"
+      voc: "idejo"
+    plural: 
+      nom: "ideje"
+      acc: "ideje"
+      gen: "idej"
+      loc: "idejah"
+      dat: "idejam"
+      ins: "idejami"
+      voc: "ideje"

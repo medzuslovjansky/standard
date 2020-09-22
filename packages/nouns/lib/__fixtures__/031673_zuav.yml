@@ -1,0 +1,23 @@
+---
+  id: "31673"
+  word: "zuav"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zuav"
+      acc: "zuava"
+      gen: "zuava"
+      loc: "zuavu"
+      dat: "zuavu"
+      ins: "zuavom"
+      voc: "zuave"
+    plural: 
+      nom: "zuavi"
+      acc: "zuavov"
+      gen: "zuavov"
+      loc: "zuavah"
+      dat: "zuavam"
+      ins: "zuavami"
+      voc: "zuavi"

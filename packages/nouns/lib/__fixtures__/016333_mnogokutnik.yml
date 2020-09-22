@@ -1,0 +1,22 @@
+---
+  id: "16333"
+  word: "mnogokųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mnogokųtnik"
+      acc: "mnogokųtnik"
+      gen: "mnogokųtnika"
+      loc: "mnogokųtniku"
+      dat: "mnogokųtniku"
+      ins: "mnogokųtnikom"
+      voc: "mnogokųtniče"
+    plural: 
+      nom: "mnogokųtniky"
+      acc: "mnogokųtniky"
+      gen: "mnogokųtnikov"
+      loc: "mnogokųtnikah"
+      dat: "mnogokųtnikam"
+      ins: "mnogokųtnikami"
+      voc: "mnogokųtniky"

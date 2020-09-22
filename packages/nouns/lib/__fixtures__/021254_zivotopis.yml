@@ -1,0 +1,22 @@
+---
+  id: "21254"
+  word: "životopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "životopis"
+      acc: "životopis"
+      gen: "životopisa"
+      loc: "životopisu"
+      dat: "životopisu"
+      ins: "životopisom"
+      voc: "životopise"
+    plural: 
+      nom: "životopisy"
+      acc: "životopisy"
+      gen: "životopisov"
+      loc: "životopisah"
+      dat: "životopisam"
+      ins: "životopisami"
+      voc: "životopisy"

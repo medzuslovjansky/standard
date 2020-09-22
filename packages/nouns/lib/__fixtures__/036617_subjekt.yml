@@ -1,0 +1,22 @@
+---
+  id: "36617"
+  word: "subjekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "subjekt"
+      acc: "subjekt"
+      gen: "subjekta"
+      loc: "subjektu"
+      dat: "subjektu"
+      ins: "subjektom"
+      voc: "subjekte"
+    plural: 
+      nom: "subjekty"
+      acc: "subjekty"
+      gen: "subjektov"
+      loc: "subjektah"
+      dat: "subjektam"
+      ins: "subjektami"
+      voc: "subjekty"

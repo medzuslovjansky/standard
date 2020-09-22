@@ -1,0 +1,23 @@
+---
+  id: "27636"
+  word: "mlådenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlådenec"
+      acc: "mlådenca"
+      gen: "mlådenca"
+      loc: "mlådencu"
+      dat: "mlådencu"
+      ins: "mlådencem"
+      voc: "mlådenče"
+    plural: 
+      nom: "mlådenci"
+      acc: "mlådencev"
+      gen: "mlådencev"
+      loc: "mlådencah"
+      dat: "mlådencam"
+      ins: "mlådencami"
+      voc: "mlådenci"

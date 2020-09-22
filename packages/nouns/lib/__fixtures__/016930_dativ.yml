@@ -1,0 +1,22 @@
+---
+  id: "16930"
+  word: "dativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dativ"
+      acc: "dativ"
+      gen: "dativa"
+      loc: "dativu"
+      dat: "dativu"
+      ins: "dativom"
+      voc: "dative"
+    plural: 
+      nom: "dativy"
+      acc: "dativy"
+      gen: "dativov"
+      loc: "dativah"
+      dat: "dativam"
+      ins: "dativami"
+      voc: "dativy"

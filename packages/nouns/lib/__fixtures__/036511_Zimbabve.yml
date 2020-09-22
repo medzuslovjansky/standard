@@ -1,0 +1,22 @@
+---
+  id: "36511"
+  word: "Zimbabve"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "Zimbabve"
+      acc: "Zimbabve"
+      gen: "Zimbabvęte / Zimbabvęta"
+      loc: "Zimbabvęti / Zimbabvętu"
+      dat: "Zimbabvęti / Zimbabvętu"
+      ins: "Zimbabvętem / Zimbabvętom"
+      voc: "Zimbabve"
+    plural: 
+      nom: "Zimbabvęta"
+      acc: "Zimbabvęta"
+      gen: "Zimbabvęt"
+      loc: "Zimbabvętah"
+      dat: "Zimbabvętam"
+      ins: "Zimbabvętami"
+      voc: "Zimbabvęta"

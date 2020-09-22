@@ -1,0 +1,22 @@
+---
+  id: "35962"
+  word: "letȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "letȯk"
+      acc: "letȯk"
+      gen: "letka"
+      loc: "letku"
+      dat: "letku"
+      ins: "letkom"
+      voc: "letče"
+    plural: 
+      nom: "letky"
+      acc: "letky"
+      gen: "letkov"
+      loc: "letkah"
+      dat: "letkam"
+      ins: "letkami"
+      voc: "letky"

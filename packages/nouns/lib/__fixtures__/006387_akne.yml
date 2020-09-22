@@ -1,0 +1,15 @@
+---
+  id: "6387"
+  word: "akne"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akne"
+      acc: "akne"
+      gen: "aknęte / aknęta"
+      loc: "aknęti / aknętu"
+      dat: "aknęti / aknętu"
+      ins: "aknętem / aknętom"
+      voc: "akne"

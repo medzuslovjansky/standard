@@ -1,0 +1,22 @@
+---
+  id: "34041"
+  word: "råztrata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råztrata"
+      acc: "råztratų"
+      gen: "råztraty"
+      loc: "råztratě"
+      dat: "råztratě"
+      ins: "råztratojų"
+      voc: "råztrato"
+    plural: 
+      nom: "råztraty"
+      acc: "råztraty"
+      gen: "råztrat"
+      loc: "råztratah"
+      dat: "råztratam"
+      ins: "råztratami"
+      voc: "råztraty"

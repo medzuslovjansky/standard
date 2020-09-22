@@ -1,0 +1,22 @@
+---
+  id: "13409"
+  word: "utes"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "utes"
+      acc: "utes"
+      gen: "utesa"
+      loc: "utesu"
+      dat: "utesu"
+      ins: "utesom"
+      voc: "utese"
+    plural: 
+      nom: "utesy"
+      acc: "utesy"
+      gen: "utesov"
+      loc: "utesah"
+      dat: "utesam"
+      ins: "utesami"
+      voc: "utesy"

@@ -1,0 +1,22 @@
+---
+  id: "2280"
+  word: "međa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "međa"
+      acc: "međų"
+      gen: "međy"
+      loc: "međě"
+      dat: "međě"
+      ins: "međojų"
+      voc: "međo"
+    plural: 
+      nom: "međy"
+      acc: "međy"
+      gen: "međ"
+      loc: "međah"
+      dat: "međam"
+      ins: "međami"
+      voc: "međy"

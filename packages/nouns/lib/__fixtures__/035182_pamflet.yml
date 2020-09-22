@@ -1,0 +1,22 @@
+---
+  id: "35182"
+  word: "pamflet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pamflet"
+      acc: "pamflet"
+      gen: "pamfleta"
+      loc: "pamfletu"
+      dat: "pamfletu"
+      ins: "pamfletom"
+      voc: "pamflete"
+    plural: 
+      nom: "pamflety"
+      acc: "pamflety"
+      gen: "pamfletov"
+      loc: "pamfletah"
+      dat: "pamfletam"
+      ins: "pamfletami"
+      voc: "pamflety"

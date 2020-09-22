@@ -1,0 +1,23 @@
+---
+  id: "4365"
+  word: "bibliotekaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bibliotekaŕ"
+      acc: "bibliotekaŕa"
+      gen: "bibliotekaŕa"
+      loc: "bibliotekaŕu"
+      dat: "bibliotekaŕu"
+      ins: "bibliotekaŕem"
+      voc: "bibliotekaŕu"
+    plural: 
+      nom: "bibliotekari"
+      acc: "bibliotekaŕev"
+      gen: "bibliotekaŕev"
+      loc: "bibliotekaŕah"
+      dat: "bibliotekaŕam"
+      ins: "bibliotekaŕami"
+      voc: "bibliotekari"

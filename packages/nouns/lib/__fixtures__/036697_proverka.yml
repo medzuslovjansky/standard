@@ -1,0 +1,22 @@
+---
+  id: "36697"
+  word: "prověrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prověrka"
+      acc: "prověrkų"
+      gen: "prověrky"
+      loc: "prověrkě"
+      dat: "prověrkě"
+      ins: "prověrkojų"
+      voc: "prověrko"
+    plural: 
+      nom: "prověrky"
+      acc: "prověrky"
+      gen: "prověrȯk"
+      loc: "prověrkah"
+      dat: "prověrkam"
+      ins: "prověrkami"
+      voc: "prověrky"

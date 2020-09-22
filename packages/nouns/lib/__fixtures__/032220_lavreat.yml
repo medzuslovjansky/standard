@@ -1,0 +1,23 @@
+---
+  id: "32220"
+  word: "lavreat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lavreat"
+      acc: "lavreata"
+      gen: "lavreata"
+      loc: "lavreatu"
+      dat: "lavreatu"
+      ins: "lavreatom"
+      voc: "lavreate"
+    plural: 
+      nom: "lavreati"
+      acc: "lavreatov"
+      gen: "lavreatov"
+      loc: "lavreatah"
+      dat: "lavreatam"
+      ins: "lavreatami"
+      voc: "lavreati"

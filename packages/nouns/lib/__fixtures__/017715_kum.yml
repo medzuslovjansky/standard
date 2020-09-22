@@ -1,0 +1,23 @@
+---
+  id: "17715"
+  word: "kum"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kum"
+      acc: "kum"
+      gen: "kuma"
+      loc: "kumu"
+      dat: "kumu"
+      ins: "kumom"
+      voc: "kum"
+    plural: 
+      nom: "kuma"
+      acc: "kuma"
+      gen: "kum"
+      loc: "kumah"
+      dat: "kumam"
+      ins: "kumami"
+      voc: "kuma"

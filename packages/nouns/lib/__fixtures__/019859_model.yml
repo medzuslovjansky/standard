@@ -1,0 +1,22 @@
+---
+  id: "19859"
+  word: "model"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "model"
+      acc: "model"
+      gen: "modela"
+      loc: "modelu"
+      dat: "modelu"
+      ins: "modelom"
+      voc: "modele"
+    plural: 
+      nom: "modely"
+      acc: "modely"
+      gen: "modelov"
+      loc: "modelah"
+      dat: "modelam"
+      ins: "modelami"
+      voc: "modely"

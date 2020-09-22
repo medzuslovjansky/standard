@@ -1,0 +1,23 @@
+---
+  id: "22749"
+  word: "tuzemec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tuzemec"
+      acc: "tuzemca"
+      gen: "tuzemca"
+      loc: "tuzemcu"
+      dat: "tuzemcu"
+      ins: "tuzemcem"
+      voc: "tuzemče"
+    plural: 
+      nom: "tuzemci"
+      acc: "tuzemcev"
+      gen: "tuzemcev"
+      loc: "tuzemcah"
+      dat: "tuzemcam"
+      ins: "tuzemcami"
+      voc: "tuzemci"

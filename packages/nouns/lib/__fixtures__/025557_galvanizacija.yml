@@ -1,0 +1,22 @@
+---
+  id: "25557"
+  word: "galvanizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galvanizacija"
+      acc: "galvanizacijų"
+      gen: "galvanizacije"
+      loc: "galvanizaciji"
+      dat: "galvanizaciji"
+      ins: "galvanizacijejų"
+      voc: "galvanizacijo"
+    plural: 
+      nom: "galvanizacije"
+      acc: "galvanizacije"
+      gen: "galvanizacij"
+      loc: "galvanizacijah"
+      dat: "galvanizacijam"
+      ins: "galvanizacijami"
+      voc: "galvanizacije"

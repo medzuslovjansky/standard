@@ -1,0 +1,23 @@
+---
+  id: "35239"
+  word: "superheroj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "superheroj"
+      acc: "superheroja"
+      gen: "superheroja"
+      loc: "superheroju"
+      dat: "superheroju"
+      ins: "superherojem"
+      voc: "superheroju"
+    plural: 
+      nom: "superheroji"
+      acc: "superherojev"
+      gen: "superherojev"
+      loc: "superherojah"
+      dat: "superherojam"
+      ins: "superherojami"
+      voc: "superheroji"

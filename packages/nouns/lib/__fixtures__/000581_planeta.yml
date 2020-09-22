@@ -1,0 +1,22 @@
+---
+  id: "581"
+  word: "planeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "planeta"
+      acc: "planetų"
+      gen: "planety"
+      loc: "planetě"
+      dat: "planetě"
+      ins: "planetojų"
+      voc: "planeto"
+    plural: 
+      nom: "planety"
+      acc: "planety"
+      gen: "planet"
+      loc: "planetah"
+      dat: "planetam"
+      ins: "planetami"
+      voc: "planety"

@@ -1,0 +1,15 @@
+---
+  id: "24130"
+  word: "agrikultura"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "agrikultura"
+      acc: "agrikulturų"
+      gen: "agrikultury"
+      loc: "agrikulturě"
+      dat: "agrikulturě"
+      ins: "agrikulturojų"
+      voc: "agrikulturo"

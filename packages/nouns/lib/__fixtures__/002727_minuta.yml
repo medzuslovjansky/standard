@@ -1,0 +1,22 @@
+---
+  id: "2727"
+  word: "minuta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "minuta"
+      acc: "minutų"
+      gen: "minuty"
+      loc: "minutě"
+      dat: "minutě"
+      ins: "minutojų"
+      voc: "minuto"
+    plural: 
+      nom: "minuty"
+      acc: "minuty"
+      gen: "minut"
+      loc: "minutah"
+      dat: "minutam"
+      ins: "minutami"
+      voc: "minuty"

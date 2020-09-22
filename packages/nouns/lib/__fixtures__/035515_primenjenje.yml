@@ -1,0 +1,22 @@
+---
+  id: "35515"
+  word: "priměnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "priměnjeńje"
+      acc: "priměnjeńje"
+      gen: "priměnjeńja"
+      loc: "priměnjeńju"
+      dat: "priměnjeńju"
+      ins: "priměnjeńjem"
+      voc: "priměnjeńje"
+    plural: 
+      nom: "priměnjeńja"
+      acc: "priměnjeńja"
+      gen: "priměnjenij"
+      loc: "priměnjeńjah"
+      dat: "priměnjeńjam"
+      ins: "priměnjeńjami"
+      voc: "priměnjeńja"

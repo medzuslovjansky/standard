@@ -1,0 +1,22 @@
+---
+  id: "22328"
+  word: "pověŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pověŕje"
+      acc: "pověŕje"
+      gen: "pověŕja"
+      loc: "pověŕju"
+      dat: "pověŕju"
+      ins: "pověŕjem"
+      voc: "pověŕje"
+    plural: 
+      nom: "pověŕja"
+      acc: "pověŕja"
+      gen: "pověrij"
+      loc: "pověŕjah"
+      dat: "pověŕjam"
+      ins: "pověŕjami"
+      voc: "pověŕja"

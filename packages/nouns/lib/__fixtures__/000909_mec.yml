@@ -1,0 +1,22 @@
+---
+  id: "909"
+  word: "męč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "męč"
+      acc: "męč"
+      gen: "męča"
+      loc: "męču"
+      dat: "męču"
+      ins: "męčem"
+      voc: "męču"
+    plural: 
+      nom: "męče"
+      acc: "męče"
+      gen: "męčev"
+      loc: "męčah"
+      dat: "męčam"
+      ins: "męčami"
+      voc: "męče"

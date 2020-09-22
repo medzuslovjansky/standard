@@ -1,0 +1,22 @@
+---
+  id: "1351"
+  word: "pol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pol"
+      acc: "pol"
+      gen: "pola"
+      loc: "polu"
+      dat: "polu"
+      ins: "polom"
+      voc: "pole"
+    plural: 
+      nom: "poly"
+      acc: "poly"
+      gen: "polov"
+      loc: "polah"
+      dat: "polam"
+      ins: "polami"
+      voc: "poly"

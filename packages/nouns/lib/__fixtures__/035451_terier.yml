@@ -1,0 +1,23 @@
+---
+  id: "35451"
+  word: "terier"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "terier"
+      acc: "teriera"
+      gen: "teriera"
+      loc: "terieru"
+      dat: "terieru"
+      ins: "terierom"
+      voc: "teriere"
+    plural: 
+      nom: "terieri"
+      acc: "terierov"
+      gen: "terierov"
+      loc: "terierah"
+      dat: "terieram"
+      ins: "terierami"
+      voc: "terieri"

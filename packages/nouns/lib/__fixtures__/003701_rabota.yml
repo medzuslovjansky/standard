@@ -1,0 +1,22 @@
+---
+  id: "3701"
+  word: "råbota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råbota"
+      acc: "råbotų"
+      gen: "råboty"
+      loc: "råbotě"
+      dat: "råbotě"
+      ins: "råbotojų"
+      voc: "råboto"
+    plural: 
+      nom: "råboty"
+      acc: "råboty"
+      gen: "råbot"
+      loc: "råbotah"
+      dat: "råbotam"
+      ins: "råbotami"
+      voc: "råboty"

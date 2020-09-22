@@ -1,0 +1,22 @@
+---
+  id: "36436"
+  word: "krvavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krvavjeńje"
+      acc: "krvavjeńje"
+      gen: "krvavjeńja"
+      loc: "krvavjeńju"
+      dat: "krvavjeńju"
+      ins: "krvavjeńjem"
+      voc: "krvavjeńje"
+    plural: 
+      nom: "krvavjeńja"
+      acc: "krvavjeńja"
+      gen: "krvavjenij"
+      loc: "krvavjeńjah"
+      dat: "krvavjeńjam"
+      ins: "krvavjeńjami"
+      voc: "krvavjeńja"

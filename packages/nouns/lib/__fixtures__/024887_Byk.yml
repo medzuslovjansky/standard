@@ -1,0 +1,23 @@
+---
+  id: "24887"
+  word: "Byk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Byk"
+      acc: "Byka"
+      gen: "Byka"
+      loc: "Byku"
+      dat: "Byku"
+      ins: "Bykom"
+      voc: "Byče"
+    plural: 
+      nom: "Byki"
+      acc: "Bykov"
+      gen: "Bykov"
+      loc: "Bykah"
+      dat: "Bykam"
+      ins: "Bykami"
+      voc: "Byki"

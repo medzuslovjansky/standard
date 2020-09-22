@@ -1,0 +1,22 @@
+---
+  id: "36071"
+  word: "mango"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mango"
+      acc: "mango"
+      gen: "manga"
+      loc: "mangu"
+      dat: "mangu"
+      ins: "mangom"
+      voc: "mango"
+    plural: 
+      nom: "manga"
+      acc: "manga"
+      gen: "mang"
+      loc: "mangah"
+      dat: "mangam"
+      ins: "mangami"
+      voc: "manga"

@@ -1,0 +1,22 @@
+---
+  id: "25087"
+  word: "dača"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dača"
+      acc: "dačų"
+      gen: "dače"
+      loc: "dači"
+      dat: "dači"
+      ins: "dačejų"
+      voc: "dačo"
+    plural: 
+      nom: "dače"
+      acc: "dače"
+      gen: "dač"
+      loc: "dačah"
+      dat: "dačam"
+      ins: "dačami"
+      voc: "dače"

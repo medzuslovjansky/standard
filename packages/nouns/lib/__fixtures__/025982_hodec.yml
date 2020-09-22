@@ -1,0 +1,23 @@
+---
+  id: "25982"
+  word: "hodec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hodec"
+      acc: "hodca"
+      gen: "hodca"
+      loc: "hodcu"
+      dat: "hodcu"
+      ins: "hodcem"
+      voc: "hodče"
+    plural: 
+      nom: "hodci"
+      acc: "hodcev"
+      gen: "hodcev"
+      loc: "hodcah"
+      dat: "hodcam"
+      ins: "hodcami"
+      voc: "hodci"

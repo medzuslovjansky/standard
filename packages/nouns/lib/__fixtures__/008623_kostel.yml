@@ -1,0 +1,22 @@
+---
+  id: "8623"
+  word: "kostel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kostel"
+      acc: "kostel"
+      gen: "kostela"
+      loc: "kostelu"
+      dat: "kostelu"
+      ins: "kostelom"
+      voc: "kostele"
+    plural: 
+      nom: "kostely"
+      acc: "kostely"
+      gen: "kostelov"
+      loc: "kostelah"
+      dat: "kostelam"
+      ins: "kostelami"
+      voc: "kostely"

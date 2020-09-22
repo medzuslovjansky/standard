@@ -1,0 +1,22 @@
+---
+  id: "3662"
+  word: "otvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "otvor"
+      acc: "otvor"
+      gen: "otvora"
+      loc: "otvoru"
+      dat: "otvoru"
+      ins: "otvorom"
+      voc: "otvore"
+    plural: 
+      nom: "otvory"
+      acc: "otvory"
+      gen: "otvorov"
+      loc: "otvorah"
+      dat: "otvoram"
+      ins: "otvorami"
+      voc: "otvory"

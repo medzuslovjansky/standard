@@ -1,0 +1,22 @@
+---
+  id: "18101"
+  word: "ognišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ognišče"
+      acc: "ognišče"
+      gen: "ognišča"
+      loc: "ognišču"
+      dat: "ognišču"
+      ins: "ogniščem"
+      voc: "ognišče"
+    plural: 
+      nom: "ognišča"
+      acc: "ognišča"
+      gen: "ognišč"
+      loc: "ogniščah"
+      dat: "ogniščam"
+      ins: "ogniščami"
+      voc: "ognišča"

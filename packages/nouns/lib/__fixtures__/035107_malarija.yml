@@ -1,0 +1,22 @@
+---
+  id: "35107"
+  word: "malarija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "malarija"
+      acc: "malarijų"
+      gen: "malarije"
+      loc: "malariji"
+      dat: "malariji"
+      ins: "malarijejų"
+      voc: "malarijo"
+    plural: 
+      nom: "malarije"
+      acc: "malarije"
+      gen: "malarij"
+      loc: "malarijah"
+      dat: "malarijam"
+      ins: "malarijami"
+      voc: "malarije"

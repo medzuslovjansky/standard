@@ -1,0 +1,23 @@
+---
+  id: "31028"
+  word: "vasal"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vasal"
+      acc: "vasala"
+      gen: "vasala"
+      loc: "vasalu"
+      dat: "vasalu"
+      ins: "vasalom"
+      voc: "vasale"
+    plural: 
+      nom: "vasali"
+      acc: "vasalov"
+      gen: "vasalov"
+      loc: "vasalah"
+      dat: "vasalam"
+      ins: "vasalami"
+      voc: "vasali"

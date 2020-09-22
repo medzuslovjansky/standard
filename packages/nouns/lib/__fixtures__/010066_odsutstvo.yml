@@ -1,0 +1,15 @@
+---
+  id: "10066"
+  word: "odsųtstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "odsųtstvo"
+      acc: "odsųtstvo"
+      gen: "odsųtstva"
+      loc: "odsųtstvu"
+      dat: "odsųtstvu"
+      ins: "odsųtstvom"
+      voc: "odsųtstvo"

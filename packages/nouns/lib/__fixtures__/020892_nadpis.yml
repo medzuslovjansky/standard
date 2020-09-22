@@ -1,0 +1,22 @@
+---
+  id: "20892"
+  word: "nadpis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nadpis"
+      acc: "nadpis"
+      gen: "nadpisa"
+      loc: "nadpisu"
+      dat: "nadpisu"
+      ins: "nadpisom"
+      voc: "nadpise"
+    plural: 
+      nom: "nadpisy"
+      acc: "nadpisy"
+      gen: "nadpisov"
+      loc: "nadpisah"
+      dat: "nadpisam"
+      ins: "nadpisami"
+      voc: "nadpisy"

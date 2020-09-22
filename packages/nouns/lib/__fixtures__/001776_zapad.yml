@@ -1,0 +1,15 @@
+---
+  id: "1776"
+  word: "zapad"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zapad"
+      acc: "zapad"
+      gen: "zapada"
+      loc: "zapadu"
+      dat: "zapadu"
+      ins: "zapadom"
+      voc: "zapade"

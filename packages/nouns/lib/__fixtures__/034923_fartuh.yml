@@ -1,0 +1,22 @@
+---
+  id: "34923"
+  word: "fartuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fartuh"
+      acc: "fartuh"
+      gen: "fartuha"
+      loc: "fartuhu"
+      dat: "fartuhu"
+      ins: "fartuhom"
+      voc: "fartuše"
+    plural: 
+      nom: "fartuhy"
+      acc: "fartuhy"
+      gen: "fartuhov"
+      loc: "fartuhah"
+      dat: "fartuham"
+      ins: "fartuhami"
+      voc: "fartuhy"

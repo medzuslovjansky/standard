@@ -1,0 +1,23 @@
+---
+  id: "20406"
+  word: "kenguru"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kenguru"
+      acc: "kengurua"
+      gen: "kengurua"
+      loc: "kenguruu"
+      dat: "kenguruu"
+      ins: "kenguruom"
+      voc: "kengurue"
+    plural: 
+      nom: "kengurui"
+      acc: "kenguruov"
+      gen: "kenguruov"
+      loc: "kenguruah"
+      dat: "kenguruam"
+      ins: "kenguruami"
+      voc: "kengurui"

@@ -1,0 +1,22 @@
+---
+  id: "35155"
+  word: "glagolica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glagolica"
+      acc: "glagolicų"
+      gen: "glagolice"
+      loc: "glagolici"
+      dat: "glagolici"
+      ins: "glagolicejų"
+      voc: "glagolico"
+    plural: 
+      nom: "glagolice"
+      acc: "glagolice"
+      gen: "glagolic"
+      loc: "glagolicah"
+      dat: "glagolicam"
+      ins: "glagolicami"
+      voc: "glagolice"

@@ -1,0 +1,22 @@
+---
+  id: "2304"
+  word: "rybnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rybnik"
+      acc: "rybnik"
+      gen: "rybnika"
+      loc: "rybniku"
+      dat: "rybniku"
+      ins: "rybnikom"
+      voc: "rybniče"
+    plural: 
+      nom: "rybniky"
+      acc: "rybniky"
+      gen: "rybnikov"
+      loc: "rybnikah"
+      dat: "rybnikam"
+      ins: "rybnikami"
+      voc: "rybniky"

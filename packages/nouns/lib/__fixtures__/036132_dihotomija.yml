@@ -1,0 +1,22 @@
+---
+  id: "36132"
+  word: "dihotomija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dihotomija"
+      acc: "dihotomijų"
+      gen: "dihotomije"
+      loc: "dihotomiji"
+      dat: "dihotomiji"
+      ins: "dihotomijejų"
+      voc: "dihotomijo"
+    plural: 
+      nom: "dihotomije"
+      acc: "dihotomije"
+      gen: "dihotomij"
+      loc: "dihotomijah"
+      dat: "dihotomijam"
+      ins: "dihotomijami"
+      voc: "dihotomije"

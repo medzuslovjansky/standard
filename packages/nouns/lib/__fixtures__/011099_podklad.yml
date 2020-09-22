@@ -1,0 +1,22 @@
+---
+  id: "11099"
+  word: "podklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podklad"
+      acc: "podklad"
+      gen: "podklada"
+      loc: "podkladu"
+      dat: "podkladu"
+      ins: "podkladom"
+      voc: "podklade"
+    plural: 
+      nom: "podklady"
+      acc: "podklady"
+      gen: "podkladov"
+      loc: "podkladah"
+      dat: "podkladam"
+      ins: "podkladami"
+      voc: "podklady"

@@ -1,0 +1,15 @@
+---
+  id: "32617"
+  word: "mnogonožky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "mnogonožky"
+      acc: "mnogonožky"
+      gen: "mnogonožk"
+      loc: "mnogonožkah"
+      dat: "mnogonožkam"
+      ins: "mnogonožkami"
+      voc: "mnogonožky"

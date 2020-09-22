@@ -1,0 +1,22 @@
+---
+  id: "35006"
+  word: "olivka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "olivka"
+      acc: "olivkų"
+      gen: "olivky"
+      loc: "olivkě"
+      dat: "olivkě"
+      ins: "olivkojų"
+      voc: "olivko"
+    plural: 
+      nom: "olivky"
+      acc: "olivky"
+      gen: "olivȯk"
+      loc: "olivkah"
+      dat: "olivkam"
+      ins: "olivkami"
+      voc: "olivky"

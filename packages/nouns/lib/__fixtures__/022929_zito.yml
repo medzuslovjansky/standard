@@ -1,0 +1,22 @@
+---
+  id: "22929"
+  word: "žito"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žito"
+      acc: "žito"
+      gen: "žita"
+      loc: "žitu"
+      dat: "žitu"
+      ins: "žitom"
+      voc: "žito"
+    plural: 
+      nom: "žita"
+      acc: "žita"
+      gen: "žit"
+      loc: "žitah"
+      dat: "žitam"
+      ins: "žitami"
+      voc: "žita"

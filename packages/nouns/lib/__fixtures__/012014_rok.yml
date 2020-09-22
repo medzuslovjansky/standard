@@ -1,0 +1,22 @@
+---
+  id: "12014"
+  word: "rok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rok"
+      acc: "rok"
+      gen: "roka"
+      loc: "roku"
+      dat: "roku"
+      ins: "rokom"
+      voc: "roče"
+    plural: 
+      nom: "roky"
+      acc: "roky"
+      gen: "rokov"
+      loc: "rokah"
+      dat: "rokam"
+      ins: "rokami"
+      voc: "roky"

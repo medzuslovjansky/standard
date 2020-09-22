@@ -1,0 +1,22 @@
+---
+  id: "845"
+  word: "tank"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tank"
+      acc: "tank"
+      gen: "tanka"
+      loc: "tanku"
+      dat: "tanku"
+      ins: "tankom"
+      voc: "tanče"
+    plural: 
+      nom: "tanky"
+      acc: "tanky"
+      gen: "tankov"
+      loc: "tankah"
+      dat: "tankam"
+      ins: "tankami"
+      voc: "tanky"

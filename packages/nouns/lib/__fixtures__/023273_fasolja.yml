@@ -1,0 +1,22 @@
+---
+  id: "23273"
+  word: "fasolja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fasolja"
+      acc: "fasoljų"
+      gen: "fasolje"
+      loc: "fasolji"
+      dat: "fasolji"
+      ins: "fasoljejų"
+      voc: "fasoljo"
+    plural: 
+      nom: "fasolje"
+      acc: "fasolje"
+      gen: "fasolej"
+      loc: "fasoljah"
+      dat: "fasoljam"
+      ins: "fasoljami"
+      voc: "fasolje"

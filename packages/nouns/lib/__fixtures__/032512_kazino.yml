@@ -1,0 +1,22 @@
+---
+  id: "32512"
+  word: "kazino"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kazino"
+      acc: "kazino"
+      gen: "kazina"
+      loc: "kazinu"
+      dat: "kazinu"
+      ins: "kazinom"
+      voc: "kazino"
+    plural: 
+      nom: "kazina"
+      acc: "kazina"
+      gen: "kazin"
+      loc: "kazinah"
+      dat: "kazinam"
+      ins: "kazinami"
+      voc: "kazina"

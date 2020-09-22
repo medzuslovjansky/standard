@@ -1,0 +1,22 @@
+---
+  id: "33525"
+  word: "skeč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skeč"
+      acc: "skeč"
+      gen: "skeča"
+      loc: "skeču"
+      dat: "skeču"
+      ins: "skečem"
+      voc: "skeču"
+    plural: 
+      nom: "skeče"
+      acc: "skeče"
+      gen: "skečev"
+      loc: "skečah"
+      dat: "skečam"
+      ins: "skečami"
+      voc: "skeče"

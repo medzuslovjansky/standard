@@ -1,0 +1,15 @@
+---
+  id: "6830"
+  word: "črvenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "črvenj"
+      acc: "črvenj"
+      gen: "črvenja"
+      loc: "črvenju"
+      dat: "črvenju"
+      ins: "črvenjem"
+      voc: "črvenju"

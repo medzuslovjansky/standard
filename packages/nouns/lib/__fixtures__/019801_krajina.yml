@@ -1,0 +1,22 @@
+---
+  id: "19801"
+  word: "krajina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krajina"
+      acc: "krajinų"
+      gen: "krajiny"
+      loc: "krajině"
+      dat: "krajině"
+      ins: "krajinojų"
+      voc: "krajino"
+    plural: 
+      nom: "krajiny"
+      acc: "krajiny"
+      gen: "krajin"
+      loc: "krajinah"
+      dat: "krajinam"
+      ins: "krajinami"
+      voc: "krajiny"

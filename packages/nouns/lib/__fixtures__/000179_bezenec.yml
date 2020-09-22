@@ -1,0 +1,23 @@
+---
+  id: "179"
+  word: "běženec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "běženec"
+      acc: "běženca"
+      gen: "běženca"
+      loc: "běžencu"
+      dat: "běžencu"
+      ins: "běžencem"
+      voc: "běženče"
+    plural: 
+      nom: "běženci"
+      acc: "běžencev"
+      gen: "běžencev"
+      loc: "běžencah"
+      dat: "běžencam"
+      ins: "běžencami"
+      voc: "běženci"

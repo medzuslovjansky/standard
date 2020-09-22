@@ -1,0 +1,23 @@
+---
+  id: "26719"
+  word: "koryfej"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "koryfej"
+      acc: "koryfeja"
+      gen: "koryfeja"
+      loc: "koryfeju"
+      dat: "koryfeju"
+      ins: "koryfejem"
+      voc: "koryfeju"
+    plural: 
+      nom: "koryfeji"
+      acc: "koryfejev"
+      gen: "koryfejev"
+      loc: "koryfejah"
+      dat: "koryfejam"
+      ins: "koryfejami"
+      voc: "koryfeji"

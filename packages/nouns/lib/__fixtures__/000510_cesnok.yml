@@ -1,0 +1,15 @@
+---
+  id: "510"
+  word: "česnȯk"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "česnȯk"
+      acc: "česnȯk"
+      gen: "česnka"
+      loc: "česnku"
+      dat: "česnku"
+      ins: "česnkom"
+      voc: "česnče"

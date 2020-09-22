@@ -1,0 +1,22 @@
+---
+  id: "25230"
+  word: "deviz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "deviz"
+      acc: "deviz"
+      gen: "deviza"
+      loc: "devizu"
+      dat: "devizu"
+      ins: "devizom"
+      voc: "devize"
+    plural: 
+      nom: "devizy"
+      acc: "devizy"
+      gen: "devizov"
+      loc: "devizah"
+      dat: "devizam"
+      ins: "devizami"
+      voc: "devizy"

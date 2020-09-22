@@ -1,0 +1,15 @@
+---
+  id: "8855"
+  word: "lětańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lětańje"
+      acc: "lětańje"
+      gen: "lětańja"
+      loc: "lětańju"
+      dat: "lětańju"
+      ins: "lětańjem"
+      voc: "lětańje"

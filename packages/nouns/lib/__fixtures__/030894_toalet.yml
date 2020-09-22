@@ -1,0 +1,22 @@
+---
+  id: "30894"
+  word: "toalet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "toalet"
+      acc: "toalet"
+      gen: "toaleta"
+      loc: "toaletu"
+      dat: "toaletu"
+      ins: "toaletom"
+      voc: "toalete"
+    plural: 
+      nom: "toalety"
+      acc: "toalety"
+      gen: "toaletov"
+      loc: "toaletah"
+      dat: "toaletam"
+      ins: "toaletami"
+      voc: "toalety"

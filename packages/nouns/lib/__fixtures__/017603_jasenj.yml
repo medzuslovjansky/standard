@@ -1,0 +1,22 @@
+---
+  id: "17603"
+  word: "jasenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jasenj"
+      acc: "jasenj"
+      gen: "jasenja"
+      loc: "jasenju"
+      dat: "jasenju"
+      ins: "jasenjem"
+      voc: "jasenju"
+    plural: 
+      nom: "jasenje"
+      acc: "jasenje"
+      gen: "jasenjev"
+      loc: "jasenjah"
+      dat: "jasenjam"
+      ins: "jasenjami"
+      voc: "jasenje"

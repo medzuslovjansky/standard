@@ -1,0 +1,22 @@
+---
+  id: "2254"
+  word: "spolȯčenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "spolȯčenstvo"
+      acc: "spolȯčenstvo"
+      gen: "spolȯčenstva"
+      loc: "spolȯčenstvu"
+      dat: "spolȯčenstvu"
+      ins: "spolȯčenstvom"
+      voc: "spolȯčenstvo"
+    plural: 
+      nom: "spolȯčenstva"
+      acc: "spolȯčenstva"
+      gen: "spolȯčenstv"
+      loc: "spolȯčenstvah"
+      dat: "spolȯčenstvam"
+      ins: "spolȯčenstvami"
+      voc: "spolȯčenstva"

@@ -1,0 +1,22 @@
+---
+  id: "26501"
+  word: "kyla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kyla"
+      acc: "kylų"
+      gen: "kyly"
+      loc: "kylě"
+      dat: "kylě"
+      ins: "kylojų"
+      voc: "kylo"
+    plural: 
+      nom: "kyly"
+      acc: "kyly"
+      gen: "kyl"
+      loc: "kylah"
+      dat: "kylam"
+      ins: "kylami"
+      voc: "kyly"

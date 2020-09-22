@@ -1,0 +1,23 @@
+---
+  id: "1469"
+  word: "pěvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pěvatelj"
+      acc: "pěvatelja"
+      gen: "pěvatelja"
+      loc: "pěvatelju"
+      dat: "pěvatelju"
+      ins: "pěvateljem"
+      voc: "pěvatelju"
+    plural: 
+      nom: "pěvatelji"
+      acc: "pěvateljev"
+      gen: "pěvateljev"
+      loc: "pěvateljah"
+      dat: "pěvateljam"
+      ins: "pěvateljami"
+      voc: "pěvatelji"

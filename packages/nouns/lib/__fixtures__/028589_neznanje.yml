@@ -1,0 +1,15 @@
+---
+  id: "28589"
+  word: "neznańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neznańje"
+      acc: "neznańje"
+      gen: "neznańja"
+      loc: "neznańju"
+      dat: "neznańju"
+      ins: "neznańjem"
+      voc: "neznańje"

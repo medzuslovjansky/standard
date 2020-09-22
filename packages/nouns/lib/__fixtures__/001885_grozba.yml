@@ -1,0 +1,22 @@
+---
+  id: "1885"
+  word: "groźba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "groźba"
+      acc: "groźbų"
+      gen: "groźby"
+      loc: "groźbě"
+      dat: "groźbě"
+      ins: "groźbojų"
+      voc: "groźbo"
+    plural: 
+      nom: "groźby"
+      acc: "groźby"
+      gen: "groźb"
+      loc: "groźbah"
+      dat: "groźbam"
+      ins: "groźbami"
+      voc: "groźby"

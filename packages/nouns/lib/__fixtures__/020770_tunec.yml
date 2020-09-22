@@ -1,0 +1,23 @@
+---
+  id: "20770"
+  word: "tunec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tunec"
+      acc: "tunca"
+      gen: "tunca"
+      loc: "tuncu"
+      dat: "tuncu"
+      ins: "tuncem"
+      voc: "tunče"
+    plural: 
+      nom: "tunci"
+      acc: "tuncev"
+      gen: "tuncev"
+      loc: "tuncah"
+      dat: "tuncam"
+      ins: "tuncami"
+      voc: "tunci"

@@ -1,0 +1,22 @@
+---
+  id: "17361"
+  word: "dvupěv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dvupěv"
+      acc: "dvupěv"
+      gen: "dvupěva"
+      loc: "dvupěvu"
+      dat: "dvupěvu"
+      ins: "dvupěvom"
+      voc: "dvupěve"
+    plural: 
+      nom: "dvupěvy"
+      acc: "dvupěvy"
+      gen: "dvupěvov"
+      loc: "dvupěvah"
+      dat: "dvupěvam"
+      ins: "dvupěvami"
+      voc: "dvupěvy"

@@ -1,0 +1,22 @@
+---
+  id: "32056"
+  word: "knigarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "knigarnja"
+      acc: "knigarnjų"
+      gen: "knigarnje"
+      loc: "knigarnji"
+      dat: "knigarnji"
+      ins: "knigarnjejų"
+      voc: "knigarnjo"
+    plural: 
+      nom: "knigarnje"
+      acc: "knigarnje"
+      gen: "knigarnej"
+      loc: "knigarnjah"
+      dat: "knigarnjam"
+      ins: "knigarnjami"
+      voc: "knigarnje"

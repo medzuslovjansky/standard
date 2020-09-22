@@ -1,0 +1,22 @@
+---
+  id: "18353"
+  word: "pouka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pouka"
+      acc: "poukų"
+      gen: "pouky"
+      loc: "poukě"
+      dat: "poukě"
+      ins: "poukojų"
+      voc: "pouko"
+    plural: 
+      nom: "pouky"
+      acc: "pouky"
+      gen: "pouk"
+      loc: "poukah"
+      dat: "poukam"
+      ins: "poukami"
+      voc: "pouky"

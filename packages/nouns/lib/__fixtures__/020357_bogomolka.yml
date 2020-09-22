@@ -1,0 +1,22 @@
+---
+  id: "20357"
+  word: "bogomolka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bogomolka"
+      acc: "bogomolkų"
+      gen: "bogomolky"
+      loc: "bogomolkě"
+      dat: "bogomolkě"
+      ins: "bogomolkojų"
+      voc: "bogomolko"
+    plural: 
+      nom: "bogomolky"
+      acc: "bogomolky"
+      gen: "bogomolȯk"
+      loc: "bogomolkah"
+      dat: "bogomolkam"
+      ins: "bogomolkami"
+      voc: "bogomolky"

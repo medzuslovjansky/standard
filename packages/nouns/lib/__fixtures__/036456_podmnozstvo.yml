@@ -1,0 +1,22 @@
+---
+  id: "36456"
+  word: "podmnožstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podmnožstvo"
+      acc: "podmnožstvo"
+      gen: "podmnožstva"
+      loc: "podmnožstvu"
+      dat: "podmnožstvu"
+      ins: "podmnožstvom"
+      voc: "podmnožstvo"
+    plural: 
+      nom: "podmnožstva"
+      acc: "podmnožstva"
+      gen: "podmnožstv"
+      loc: "podmnožstvah"
+      dat: "podmnožstvam"
+      ins: "podmnožstvami"
+      voc: "podmnožstva"

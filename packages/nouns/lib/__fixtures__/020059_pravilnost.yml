@@ -1,0 +1,22 @@
+---
+  id: "20059"
+  word: "praviľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "praviľnosť"
+      acc: "praviľnosť"
+      gen: "praviľnosti"
+      loc: "praviľnosti"
+      dat: "praviľnosti"
+      ins: "praviľnosťjų"
+      voc: "praviľnosti"
+    plural: 
+      nom: "praviľnosti"
+      acc: "praviľnosti"
+      gen: "praviľnostij"
+      loc: "praviľnosťah"
+      dat: "praviľnosťam"
+      ins: "praviľnosťami"
+      voc: "praviľnosti"

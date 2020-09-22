@@ -1,0 +1,23 @@
+---
+  id: "35837"
+  word: "husit"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "husit"
+      acc: "husita"
+      gen: "husita"
+      loc: "husitu"
+      dat: "husitu"
+      ins: "husitom"
+      voc: "husite"
+    plural: 
+      nom: "husiti"
+      acc: "husitov"
+      gen: "husitov"
+      loc: "husitah"
+      dat: "husitam"
+      ins: "husitami"
+      voc: "husiti"

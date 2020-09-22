@@ -1,0 +1,22 @@
+---
+  id: "3076"
+  word: "vŕh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vŕh"
+      acc: "vŕh"
+      gen: "vŕha"
+      loc: "vŕhu"
+      dat: "vŕhu"
+      ins: "vŕhom"
+      voc: "vŕše"
+    plural: 
+      nom: "vŕhy"
+      acc: "vŕhy"
+      gen: "vŕhov"
+      loc: "vŕhah"
+      dat: "vŕham"
+      ins: "vŕhami"
+      voc: "vŕhy"

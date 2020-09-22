@@ -1,0 +1,15 @@
+---
+  id: "36607"
+  word: "filantropija"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "filantropija"
+      acc: "filantropijų"
+      gen: "filantropije"
+      loc: "filantropiji"
+      dat: "filantropiji"
+      ins: "filantropijejų"
+      voc: "filantropijo"

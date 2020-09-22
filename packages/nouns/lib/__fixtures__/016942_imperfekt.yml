@@ -1,0 +1,15 @@
+---
+  id: "16942"
+  word: "imperfekt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "imperfekt"
+      acc: "imperfekt"
+      gen: "imperfekta"
+      loc: "imperfektu"
+      dat: "imperfektu"
+      ins: "imperfektom"
+      voc: "imperfekte"

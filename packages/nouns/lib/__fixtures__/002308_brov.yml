@@ -1,0 +1,22 @@
+---
+  id: "2308"
+  word: "brȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brȯv"
+      acc: "brȯv"
+      gen: "brve / brvi"
+      loc: "brvi"
+      dat: "brvi"
+      ins: "brȯvjų"
+      voc: "brȯv"
+    plural: 
+      nom: "brvi"
+      acc: "brvi"
+      gen: "brvij"
+      loc: "brvah"
+      dat: "brvam"
+      ins: "brvami"
+      voc: "brvi"

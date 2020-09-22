@@ -1,0 +1,23 @@
+---
+  id: "5831"
+  word: "pomoćnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pomoćnik"
+      acc: "pomoćnika"
+      gen: "pomoćnika"
+      loc: "pomoćniku"
+      dat: "pomoćniku"
+      ins: "pomoćnikom"
+      voc: "pomoćniče"
+    plural: 
+      nom: "pomoćniki"
+      acc: "pomoćnikov"
+      gen: "pomoćnikov"
+      loc: "pomoćnikah"
+      dat: "pomoćnikam"
+      ins: "pomoćnikami"
+      voc: "pomoćniki"

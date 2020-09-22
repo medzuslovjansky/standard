@@ -1,0 +1,23 @@
+---
+  id: "36210"
+  word: "Bask"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Bask"
+      acc: "Baska"
+      gen: "Baska"
+      loc: "Basku"
+      dat: "Basku"
+      ins: "Baskom"
+      voc: "Basče"
+    plural: 
+      nom: "Baski"
+      acc: "Baskov"
+      gen: "Baskov"
+      loc: "Baskah"
+      dat: "Baskam"
+      ins: "Baskami"
+      voc: "Baski"

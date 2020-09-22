@@ -1,0 +1,22 @@
+---
+  id: "23662"
+  word: "črvenogrlka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črvenogrlka"
+      acc: "črvenogrlkų"
+      gen: "črvenogrlky"
+      loc: "črvenogrlkě"
+      dat: "črvenogrlkě"
+      ins: "črvenogrlkojų"
+      voc: "črvenogrlko"
+    plural: 
+      nom: "črvenogrlky"
+      acc: "črvenogrlky"
+      gen: "črvenogrlȯk"
+      loc: "črvenogrlkah"
+      dat: "črvenogrlkam"
+      ins: "črvenogrlkami"
+      voc: "črvenogrlky"

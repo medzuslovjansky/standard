@@ -1,0 +1,15 @@
+---
+  id: "26160"
+  word: "izbavjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izbavjeńje"
+      acc: "izbavjeńje"
+      gen: "izbavjeńja"
+      loc: "izbavjeńju"
+      dat: "izbavjeńju"
+      ins: "izbavjeńjem"
+      voc: "izbavjeńje"

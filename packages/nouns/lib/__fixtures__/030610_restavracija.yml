@@ -1,0 +1,22 @@
+---
+  id: "30610"
+  word: "restavracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "restavracija"
+      acc: "restavracijų"
+      gen: "restavracije"
+      loc: "restavraciji"
+      dat: "restavraciji"
+      ins: "restavracijejų"
+      voc: "restavracijo"
+    plural: 
+      nom: "restavracije"
+      acc: "restavracije"
+      gen: "restavracij"
+      loc: "restavracijah"
+      dat: "restavracijam"
+      ins: "restavracijami"
+      voc: "restavracije"

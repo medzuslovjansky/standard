@@ -1,0 +1,22 @@
+---
+  id: "24873"
+  word: "bulka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bulka"
+      acc: "bulkų"
+      gen: "bulky"
+      loc: "bulkě"
+      dat: "bulkě"
+      ins: "bulkojų"
+      voc: "bulko"
+    plural: 
+      nom: "bulky"
+      acc: "bulky"
+      gen: "bulȯk"
+      loc: "bulkah"
+      dat: "bulkam"
+      ins: "bulkami"
+      voc: "bulky"

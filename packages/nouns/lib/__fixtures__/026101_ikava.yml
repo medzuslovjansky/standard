@@ -1,0 +1,22 @@
+---
+  id: "26101"
+  word: "ikava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ikava"
+      acc: "ikavų"
+      gen: "ikavy"
+      loc: "ikavě"
+      dat: "ikavě"
+      ins: "ikavojų"
+      voc: "ikavo"
+    plural: 
+      nom: "ikavy"
+      acc: "ikavy"
+      gen: "ikav"
+      loc: "ikavah"
+      dat: "ikavam"
+      ins: "ikavami"
+      voc: "ikavy"

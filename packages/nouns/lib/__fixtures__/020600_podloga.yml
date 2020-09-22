@@ -1,0 +1,22 @@
+---
+  id: "20600"
+  word: "podloga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podloga"
+      acc: "podlogų"
+      gen: "podlogy"
+      loc: "podlogě"
+      dat: "podlogě"
+      ins: "podlogojų"
+      voc: "podlogo"
+    plural: 
+      nom: "podlogy"
+      acc: "podlogy"
+      gen: "podlog"
+      loc: "podlogah"
+      dat: "podlogam"
+      ins: "podlogami"
+      voc: "podlogy"

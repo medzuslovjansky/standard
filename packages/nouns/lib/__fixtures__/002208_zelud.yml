@@ -1,0 +1,22 @@
+---
+  id: "2208"
+  word: "želųď"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "želųď"
+      acc: "želųď"
+      gen: "želųďa"
+      loc: "želųďu"
+      dat: "želųďu"
+      ins: "želųďem"
+      voc: "želųďu"
+    plural: 
+      nom: "želųďe"
+      acc: "želųďe"
+      gen: "želųďev"
+      loc: "želųďah"
+      dat: "želųďam"
+      ins: "želųďami"
+      voc: "želųďe"

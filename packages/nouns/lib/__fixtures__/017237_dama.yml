@@ -1,0 +1,22 @@
+---
+  id: "17237"
+  word: "dama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dama"
+      acc: "damų"
+      gen: "damy"
+      loc: "damě"
+      dat: "damě"
+      ins: "damojų"
+      voc: "damo"
+    plural: 
+      nom: "damy"
+      acc: "damy"
+      gen: "dam"
+      loc: "damah"
+      dat: "damam"
+      ins: "damami"
+      voc: "damy"

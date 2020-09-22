@@ -1,0 +1,23 @@
+---
+  id: "23429"
+  word: "zapęta"
+  meta: 
+    irregularity: "(zapętoj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zapęta"
+      acc: "zapętų"
+      gen: "zapętoj"
+      loc: "zapętoj"
+      dat: "zapętoj"
+      ins: "zapętojų"
+      voc: "zapęta"
+    plural: 
+      nom: "zapęte"
+      acc: "zapęte"
+      gen: "zapętyh"
+      loc: "zapętyh"
+      dat: "zapętym"
+      ins: "zapętymi"
+      voc: "zapęte"

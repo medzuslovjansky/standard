@@ -1,0 +1,22 @@
+---
+  id: "28966"
+  word: "obučeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obučeńje"
+      acc: "obučeńje"
+      gen: "obučeńja"
+      loc: "obučeńju"
+      dat: "obučeńju"
+      ins: "obučeńjem"
+      voc: "obučeńje"
+    plural: 
+      nom: "obučeńja"
+      acc: "obučeńja"
+      gen: "obučenij"
+      loc: "obučeńjah"
+      dat: "obučeńjam"
+      ins: "obučeńjami"
+      voc: "obučeńja"

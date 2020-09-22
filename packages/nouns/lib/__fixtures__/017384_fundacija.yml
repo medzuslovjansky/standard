@@ -1,0 +1,22 @@
+---
+  id: "17384"
+  word: "fundacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fundacija"
+      acc: "fundacijų"
+      gen: "fundacije"
+      loc: "fundaciji"
+      dat: "fundaciji"
+      ins: "fundacijejų"
+      voc: "fundacijo"
+    plural: 
+      nom: "fundacije"
+      acc: "fundacije"
+      gen: "fundacij"
+      loc: "fundacijah"
+      dat: "fundacijam"
+      ins: "fundacijami"
+      voc: "fundacije"

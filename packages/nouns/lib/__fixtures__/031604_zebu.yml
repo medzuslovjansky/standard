@@ -1,0 +1,23 @@
+---
+  id: "31604"
+  word: "zebu"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zebu"
+      acc: "zebua"
+      gen: "zebua"
+      loc: "zebuu"
+      dat: "zebuu"
+      ins: "zebuom"
+      voc: "zebue"
+    plural: 
+      nom: "zebui"
+      acc: "zebuov"
+      gen: "zebuov"
+      loc: "zebuah"
+      dat: "zebuam"
+      ins: "zebuami"
+      voc: "zebui"

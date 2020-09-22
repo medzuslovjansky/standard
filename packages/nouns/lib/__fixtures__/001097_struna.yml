@@ -1,0 +1,22 @@
+---
+  id: "1097"
+  word: "struna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "struna"
+      acc: "strunų"
+      gen: "struny"
+      loc: "struně"
+      dat: "struně"
+      ins: "strunojų"
+      voc: "struno"
+    plural: 
+      nom: "struny"
+      acc: "struny"
+      gen: "strun"
+      loc: "strunah"
+      dat: "strunam"
+      ins: "strunami"
+      voc: "struny"

@@ -1,0 +1,22 @@
+---
+  id: "6471"
+  word: "barel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barel"
+      acc: "barel"
+      gen: "barela"
+      loc: "barelu"
+      dat: "barelu"
+      ins: "barelom"
+      voc: "barele"
+    plural: 
+      nom: "barely"
+      acc: "barely"
+      gen: "barelov"
+      loc: "barelah"
+      dat: "barelam"
+      ins: "barelami"
+      voc: "barely"

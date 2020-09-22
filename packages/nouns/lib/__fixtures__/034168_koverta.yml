@@ -1,0 +1,22 @@
+---
+  id: "34168"
+  word: "koverta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koverta"
+      acc: "kovertų"
+      gen: "koverty"
+      loc: "kovertě"
+      dat: "kovertě"
+      ins: "kovertojų"
+      voc: "koverto"
+    plural: 
+      nom: "koverty"
+      acc: "koverty"
+      gen: "kovert"
+      loc: "kovertah"
+      dat: "kovertam"
+      ins: "kovertami"
+      voc: "koverty"

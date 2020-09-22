@@ -1,0 +1,22 @@
+---
+  id: "745"
+  word: "problem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "problem"
+      acc: "problem"
+      gen: "problema"
+      loc: "problemu"
+      dat: "problemu"
+      ins: "problemom"
+      voc: "probleme"
+    plural: 
+      nom: "problemy"
+      acc: "problemy"
+      gen: "problemov"
+      loc: "problemah"
+      dat: "problemam"
+      ins: "problemami"
+      voc: "problemy"

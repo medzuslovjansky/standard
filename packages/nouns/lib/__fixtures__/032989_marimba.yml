@@ -1,0 +1,22 @@
+---
+  id: "32989"
+  word: "marimba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marimba"
+      acc: "marimbų"
+      gen: "marimby"
+      loc: "marimbě"
+      dat: "marimbě"
+      ins: "marimbojų"
+      voc: "marimbo"
+    plural: 
+      nom: "marimby"
+      acc: "marimby"
+      gen: "marimb"
+      loc: "marimbah"
+      dat: "marimbam"
+      ins: "marimbami"
+      voc: "marimby"

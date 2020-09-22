@@ -1,0 +1,15 @@
+---
+  id: "27237"
+  word: "lizańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lizańje"
+      acc: "lizańje"
+      gen: "lizańja"
+      loc: "lizańju"
+      dat: "lizańju"
+      ins: "lizańjem"
+      voc: "lizańje"

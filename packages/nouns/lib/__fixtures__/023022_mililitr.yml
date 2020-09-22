@@ -1,0 +1,22 @@
+---
+  id: "23022"
+  word: "mililitr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mililitr"
+      acc: "mililitr"
+      gen: "mililitra"
+      loc: "mililitru"
+      dat: "mililitru"
+      ins: "mililitrom"
+      voc: "mililitre"
+    plural: 
+      nom: "mililitry"
+      acc: "mililitry"
+      gen: "mililitrov"
+      loc: "mililitrah"
+      dat: "mililitram"
+      ins: "mililitrami"
+      voc: "mililitry"

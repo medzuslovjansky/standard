@@ -1,0 +1,22 @@
+---
+  id: "1206"
+  word: "impuls"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "impuls"
+      acc: "impuls"
+      gen: "impulsa"
+      loc: "impulsu"
+      dat: "impulsu"
+      ins: "impulsom"
+      voc: "impulse"
+    plural: 
+      nom: "impulsy"
+      acc: "impulsy"
+      gen: "impulsov"
+      loc: "impulsah"
+      dat: "impulsam"
+      ins: "impulsami"
+      voc: "impulsy"

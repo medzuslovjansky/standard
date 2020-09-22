@@ -1,0 +1,22 @@
+---
+  id: "32026"
+  word: "ksenofobija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ksenofobija"
+      acc: "ksenofobijų"
+      gen: "ksenofobije"
+      loc: "ksenofobiji"
+      dat: "ksenofobiji"
+      ins: "ksenofobijejų"
+      voc: "ksenofobijo"
+    plural: 
+      nom: "ksenofobije"
+      acc: "ksenofobije"
+      gen: "ksenofobij"
+      loc: "ksenofobijah"
+      dat: "ksenofobijam"
+      ins: "ksenofobijami"
+      voc: "ksenofobije"

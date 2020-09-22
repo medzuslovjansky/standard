@@ -1,0 +1,22 @@
+---
+  id: "2480"
+  word: "britva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "britva"
+      acc: "britvų"
+      gen: "britvy"
+      loc: "britvě"
+      dat: "britvě"
+      ins: "britvojų"
+      voc: "britvo"
+    plural: 
+      nom: "britvy"
+      acc: "britvy"
+      gen: "britv"
+      loc: "britvah"
+      dat: "britvam"
+      ins: "britvami"
+      voc: "britvy"

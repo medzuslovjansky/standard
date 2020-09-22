@@ -1,0 +1,22 @@
+---
+  id: "31134"
+  word: "vermut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vermut"
+      acc: "vermut"
+      gen: "vermuta"
+      loc: "vermutu"
+      dat: "vermutu"
+      ins: "vermutom"
+      voc: "vermute"
+    plural: 
+      nom: "vermuty"
+      acc: "vermuty"
+      gen: "vermutov"
+      loc: "vermutah"
+      dat: "vermutam"
+      ins: "vermutami"
+      voc: "vermuty"

@@ -1,0 +1,22 @@
+---
+  id: "22412"
+  word: "vozilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vozilo"
+      acc: "vozilo"
+      gen: "vozila"
+      loc: "vozilu"
+      dat: "vozilu"
+      ins: "vozilom"
+      voc: "vozilo"
+    plural: 
+      nom: "vozila"
+      acc: "vozila"
+      gen: "vozil"
+      loc: "vozilah"
+      dat: "vozilam"
+      ins: "vozilami"
+      voc: "vozila"

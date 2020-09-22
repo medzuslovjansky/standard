@@ -1,0 +1,22 @@
+---
+  id: "2290"
+  word: "umětnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "umětnosť"
+      acc: "umětnosť"
+      gen: "umětnosti"
+      loc: "umětnosti"
+      dat: "umětnosti"
+      ins: "umětnosťjų"
+      voc: "umětnosti"
+    plural: 
+      nom: "umětnosti"
+      acc: "umětnosti"
+      gen: "umětnostij"
+      loc: "umětnosťah"
+      dat: "umětnosťam"
+      ins: "umětnosťami"
+      voc: "umětnosti"

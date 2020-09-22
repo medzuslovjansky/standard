@@ -1,0 +1,22 @@
+---
+  id: "36423"
+  word: "kapusta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapusta"
+      acc: "kapustų"
+      gen: "kapusty"
+      loc: "kapustě"
+      dat: "kapustě"
+      ins: "kapustojų"
+      voc: "kapusto"
+    plural: 
+      nom: "kapusty"
+      acc: "kapusty"
+      gen: "kapust"
+      loc: "kapustah"
+      dat: "kapustam"
+      ins: "kapustami"
+      voc: "kapusty"

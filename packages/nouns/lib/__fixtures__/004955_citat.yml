@@ -1,0 +1,22 @@
+---
+  id: "4955"
+  word: "citat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "citat"
+      acc: "citat"
+      gen: "citata"
+      loc: "citatu"
+      dat: "citatu"
+      ins: "citatom"
+      voc: "citate"
+    plural: 
+      nom: "citaty"
+      acc: "citaty"
+      gen: "citatov"
+      loc: "citatah"
+      dat: "citatam"
+      ins: "citatami"
+      voc: "citaty"

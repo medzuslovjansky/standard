@@ -1,0 +1,22 @@
+---
+  id: "6083"
+  word: "vŕtolet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vŕtolet"
+      acc: "vŕtolet"
+      gen: "vŕtoleta"
+      loc: "vŕtoletu"
+      dat: "vŕtoletu"
+      ins: "vŕtoletom"
+      voc: "vŕtolete"
+    plural: 
+      nom: "vŕtolety"
+      acc: "vŕtolety"
+      gen: "vŕtoletov"
+      loc: "vŕtoletah"
+      dat: "vŕtoletam"
+      ins: "vŕtoletami"
+      voc: "vŕtolety"

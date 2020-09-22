@@ -1,0 +1,15 @@
+---
+  id: "879"
+  word: "Latvija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Latvija"
+      acc: "Latvijų"
+      gen: "Latvije"
+      loc: "Latviji"
+      dat: "Latviji"
+      ins: "Latvijejų"
+      voc: "Latvijo"

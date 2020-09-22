@@ -1,0 +1,22 @@
+---
+  id: "21705"
+  word: "staja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "staja"
+      acc: "stajų"
+      gen: "staje"
+      loc: "staji"
+      dat: "staji"
+      ins: "stajejų"
+      voc: "stajo"
+    plural: 
+      nom: "staje"
+      acc: "staje"
+      gen: "staj"
+      loc: "stajah"
+      dat: "stajam"
+      ins: "stajami"
+      voc: "staje"

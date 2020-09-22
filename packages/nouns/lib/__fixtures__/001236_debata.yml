@@ -1,0 +1,22 @@
+---
+  id: "1236"
+  word: "debata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "debata"
+      acc: "debatų"
+      gen: "debaty"
+      loc: "debatě"
+      dat: "debatě"
+      ins: "debatojų"
+      voc: "debato"
+    plural: 
+      nom: "debaty"
+      acc: "debaty"
+      gen: "debat"
+      loc: "debatah"
+      dat: "debatam"
+      ins: "debatami"
+      voc: "debaty"

@@ -1,0 +1,23 @@
+---
+  id: "1845"
+  word: "denj"
+  meta: 
+    irregularity: "(dnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "den / denj"
+      acc: "den / denj"
+      gen: "dne / dnja"
+      loc: "dni / dnju"
+      dat: "dni / dnju"
+      ins: "dnem / dnjem"
+      voc: "den / dnju"
+    plural: 
+      nom: "dni / dnje"
+      acc: "dni / dnje"
+      gen: "dnev / dnjev"
+      loc: "dnah / dnjah"
+      dat: "dnam / dnjam"
+      ins: "dnami / dnjami"
+      voc: "dni / dnje"

@@ -1,0 +1,15 @@
+---
+  id: "23526"
+  word: "Atiny"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Atiny"
+      acc: "Atiny"
+      gen: "Atin"
+      loc: "Atinah"
+      dat: "Atinam"
+      ins: "Atinami"
+      voc: "Atiny"

@@ -1,0 +1,22 @@
+---
+  id: "35157"
+  word: "gadžet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gadžet"
+      acc: "gadžet"
+      gen: "gadžeta"
+      loc: "gadžetu"
+      dat: "gadžetu"
+      ins: "gadžetom"
+      voc: "gadžete"
+    plural: 
+      nom: "gadžety"
+      acc: "gadžety"
+      gen: "gadžetov"
+      loc: "gadžetah"
+      dat: "gadžetam"
+      ins: "gadžetami"
+      voc: "gadžety"

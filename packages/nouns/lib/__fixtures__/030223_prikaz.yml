@@ -1,0 +1,22 @@
+---
+  id: "30223"
+  word: "prikaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prikaz"
+      acc: "prikaz"
+      gen: "prikaza"
+      loc: "prikazu"
+      dat: "prikazu"
+      ins: "prikazom"
+      voc: "prikaze"
+    plural: 
+      nom: "prikazy"
+      acc: "prikazy"
+      gen: "prikazov"
+      loc: "prikazah"
+      dat: "prikazam"
+      ins: "prikazami"
+      voc: "prikazy"

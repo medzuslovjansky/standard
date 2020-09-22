@@ -1,0 +1,22 @@
+---
+  id: "29660"
+  word: "osnovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osnovańje"
+      acc: "osnovańje"
+      gen: "osnovańja"
+      loc: "osnovańju"
+      dat: "osnovańju"
+      ins: "osnovańjem"
+      voc: "osnovańje"
+    plural: 
+      nom: "osnovańja"
+      acc: "osnovańja"
+      gen: "osnovanij"
+      loc: "osnovańjah"
+      dat: "osnovańjam"
+      ins: "osnovańjami"
+      voc: "osnovańja"

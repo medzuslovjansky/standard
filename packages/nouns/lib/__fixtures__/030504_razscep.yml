@@ -1,0 +1,22 @@
+---
+  id: "30504"
+  word: "råzščep"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzščep"
+      acc: "råzščep"
+      gen: "råzščepa"
+      loc: "råzščepu"
+      dat: "råzščepu"
+      ins: "råzščepom"
+      voc: "råzščepe"
+    plural: 
+      nom: "råzščepy"
+      acc: "råzščepy"
+      gen: "råzščepov"
+      loc: "råzščepah"
+      dat: "råzščepam"
+      ins: "råzščepami"
+      voc: "råzščepy"

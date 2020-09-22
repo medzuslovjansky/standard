@@ -1,0 +1,15 @@
+---
+  id: "698"
+  word: "Gruzija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Gruzija"
+      acc: "Gruzijų"
+      gen: "Gruzije"
+      loc: "Gruziji"
+      dat: "Gruziji"
+      ins: "Gruzijejų"
+      voc: "Gruzijo"

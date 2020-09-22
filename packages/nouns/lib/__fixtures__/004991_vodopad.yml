@@ -1,0 +1,22 @@
+---
+  id: "4991"
+  word: "vodopad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodopad"
+      acc: "vodopad"
+      gen: "vodopada"
+      loc: "vodopadu"
+      dat: "vodopadu"
+      ins: "vodopadom"
+      voc: "vodopade"
+    plural: 
+      nom: "vodopady"
+      acc: "vodopady"
+      gen: "vodopadov"
+      loc: "vodopadah"
+      dat: "vodopadam"
+      ins: "vodopadami"
+      voc: "vodopady"

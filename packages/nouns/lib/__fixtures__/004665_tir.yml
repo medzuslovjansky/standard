@@ -1,0 +1,22 @@
+---
+  id: "4665"
+  word: "tir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tir"
+      acc: "tir"
+      gen: "tira"
+      loc: "tiru"
+      dat: "tiru"
+      ins: "tirom"
+      voc: "tire"
+    plural: 
+      nom: "tiry"
+      acc: "tiry"
+      gen: "tirov"
+      loc: "tirah"
+      dat: "tiram"
+      ins: "tirami"
+      voc: "tiry"

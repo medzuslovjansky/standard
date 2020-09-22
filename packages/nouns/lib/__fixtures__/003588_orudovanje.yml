@@ -1,0 +1,22 @@
+---
+  id: "3588"
+  word: "orųdovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "orųdovańje"
+      acc: "orųdovańje"
+      gen: "orųdovańja"
+      loc: "orųdovańju"
+      dat: "orųdovańju"
+      ins: "orųdovańjem"
+      voc: "orųdovańje"
+    plural: 
+      nom: "orųdovańja"
+      acc: "orųdovańja"
+      gen: "orųdovanij"
+      loc: "orųdovańjah"
+      dat: "orųdovańjam"
+      ins: "orųdovańjami"
+      voc: "orųdovańja"

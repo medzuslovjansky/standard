@@ -1,0 +1,22 @@
+---
+  id: "17616"
+  word: "jelo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jelo"
+      acc: "jelo"
+      gen: "jela"
+      loc: "jelu"
+      dat: "jelu"
+      ins: "jelom"
+      voc: "jelo"
+    plural: 
+      nom: "jela"
+      acc: "jela"
+      gen: "jel"
+      loc: "jelah"
+      dat: "jelam"
+      ins: "jelami"
+      voc: "jela"

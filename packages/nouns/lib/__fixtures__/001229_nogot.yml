@@ -1,0 +1,23 @@
+---
+  id: "1229"
+  word: "nogȯť"
+  meta: 
+    irregularity: "(nogťa)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nog(ȯ)ť"
+      acc: "nog(ȯ)ť"
+      gen: "nog(ȯ)ťa"
+      loc: "nog(ȯ)ťu"
+      dat: "nog(ȯ)ťu"
+      ins: "nog(ȯ)ťem"
+      voc: "nog(ȯ)ťu"
+    plural: 
+      nom: "nog(ȯ)ťe"
+      acc: "nog(ȯ)ťe"
+      gen: "nog(ȯ)ťev"
+      loc: "nog(ȯ)ťah"
+      dat: "nog(ȯ)ťam"
+      ins: "nog(ȯ)ťami"
+      voc: "nog(ȯ)ťe"

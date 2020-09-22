@@ -1,0 +1,22 @@
+---
+  id: "18328"
+  word: "poslědica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poslědica"
+      acc: "poslědicų"
+      gen: "poslědice"
+      loc: "poslědici"
+      dat: "poslědici"
+      ins: "poslědicejų"
+      voc: "poslědico"
+    plural: 
+      nom: "poslědice"
+      acc: "poslědice"
+      gen: "poslědic"
+      loc: "poslědicah"
+      dat: "poslědicam"
+      ins: "poslědicami"
+      voc: "poslědice"

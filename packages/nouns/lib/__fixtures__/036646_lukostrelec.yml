@@ -1,0 +1,23 @@
+---
+  id: "36646"
+  word: "lųkostrělėc"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lųkostrělėc"
+      acc: "lųkostrělca"
+      gen: "lųkostrělca"
+      loc: "lųkostrělcu"
+      dat: "lųkostrělcu"
+      ins: "lųkostrělcem"
+      voc: "lųkostrělcu"
+    plural: 
+      nom: "lųkostrělci"
+      acc: "lųkostrělcev"
+      gen: "lųkostrělcev"
+      loc: "lųkostrělcah"
+      dat: "lųkostrělcam"
+      ins: "lųkostrělcami"
+      voc: "lųkostrělci"

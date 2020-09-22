@@ -1,0 +1,22 @@
+---
+  id: "3039"
+  word: "kremenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kremen / kremenj"
+      acc: "kremen / kremenj"
+      gen: "kremene / kremenja"
+      loc: "kremeni / kremenju"
+      dat: "kremeni / kremenju"
+      ins: "kremenem / kremenjem"
+      voc: "kremen / kremenju"
+    plural: 
+      nom: "kremeni / kremenje"
+      acc: "kremeni / kremenje"
+      gen: "kremenev / kremenjev"
+      loc: "kremenah / kremenjah"
+      dat: "kremenam / kremenjam"
+      ins: "kremenami / kremenjami"
+      voc: "kremeni / kremenje"

@@ -1,0 +1,22 @@
+---
+  id: "23601"
+  word: "roman"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "roman"
+      acc: "roman"
+      gen: "romana"
+      loc: "romanu"
+      dat: "romanu"
+      ins: "romanom"
+      voc: "romane"
+    plural: 
+      nom: "romany"
+      acc: "romany"
+      gen: "romanov"
+      loc: "romanah"
+      dat: "romanam"
+      ins: "romanami"
+      voc: "romany"

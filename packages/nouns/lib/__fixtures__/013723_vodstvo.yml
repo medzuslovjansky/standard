@@ -1,0 +1,15 @@
+---
+  id: "13723"
+  word: "vodstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vodstvo"
+      acc: "vodstvo"
+      gen: "vodstva"
+      loc: "vodstvu"
+      dat: "vodstvu"
+      ins: "vodstvom"
+      voc: "vodstvo"

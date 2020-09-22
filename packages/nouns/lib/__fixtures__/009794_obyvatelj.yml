@@ -1,0 +1,23 @@
+---
+  id: "9794"
+  word: "obyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obyvatelj"
+      acc: "obyvatelja"
+      gen: "obyvatelja"
+      loc: "obyvatelju"
+      dat: "obyvatelju"
+      ins: "obyvateljem"
+      voc: "obyvatelju"
+    plural: 
+      nom: "obyvatelji"
+      acc: "obyvateljev"
+      gen: "obyvateljev"
+      loc: "obyvateljah"
+      dat: "obyvateljam"
+      ins: "obyvateljami"
+      voc: "obyvatelji"

@@ -1,0 +1,22 @@
+---
+  id: "20605"
+  word: "polivka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polivka"
+      acc: "polivkų"
+      gen: "polivky"
+      loc: "polivkě"
+      dat: "polivkě"
+      ins: "polivkojų"
+      voc: "polivko"
+    plural: 
+      nom: "polivky"
+      acc: "polivky"
+      gen: "polivȯk"
+      loc: "polivkah"
+      dat: "polivkam"
+      ins: "polivkami"
+      voc: "polivky"

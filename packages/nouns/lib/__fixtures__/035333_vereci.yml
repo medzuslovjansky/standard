@@ -1,0 +1,24 @@
+---
+  id: "35333"
+  word: "věręći"
+  meta: 
+    irregularity: "(-ego)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věręći"
+      acc: "věręćego"
+      gen: "věręćego"
+      loc: "věręćem"
+      dat: "věręćemu"
+      ins: "věręćim"
+      voc: "věręći"
+    plural: 
+      nom: "věręći"
+      acc: "věręćih"
+      gen: "věręćih"
+      loc: "věręćih"
+      dat: "věręćim"
+      ins: "věręćimi"
+      voc: "věręći"

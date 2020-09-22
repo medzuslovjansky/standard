@@ -1,0 +1,15 @@
+---
+  id: "19234"
+  word: "vnimańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vnimańje"
+      acc: "vnimańje"
+      gen: "vnimańja"
+      loc: "vnimańju"
+      dat: "vnimańju"
+      ins: "vnimańjem"
+      voc: "vnimańje"

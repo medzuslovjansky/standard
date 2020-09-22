@@ -1,0 +1,15 @@
+---
+  id: "28554"
+  word: "nevěŕje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nevěŕje"
+      acc: "nevěŕje"
+      gen: "nevěŕja"
+      loc: "nevěŕju"
+      dat: "nevěŕju"
+      ins: "nevěŕjem"
+      voc: "nevěŕje"

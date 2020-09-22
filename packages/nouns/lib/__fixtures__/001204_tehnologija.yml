@@ -1,0 +1,22 @@
+---
+  id: "1204"
+  word: "tehnologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tehnologija"
+      acc: "tehnologijų"
+      gen: "tehnologije"
+      loc: "tehnologiji"
+      dat: "tehnologiji"
+      ins: "tehnologijejų"
+      voc: "tehnologijo"
+    plural: 
+      nom: "tehnologije"
+      acc: "tehnologije"
+      gen: "tehnologij"
+      loc: "tehnologijah"
+      dat: "tehnologijam"
+      ins: "tehnologijami"
+      voc: "tehnologije"

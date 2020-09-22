@@ -1,0 +1,22 @@
+---
+  id: "19520"
+  word: "monopol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monopol"
+      acc: "monopol"
+      gen: "monopola"
+      loc: "monopolu"
+      dat: "monopolu"
+      ins: "monopolom"
+      voc: "monopole"
+    plural: 
+      nom: "monopoly"
+      acc: "monopoly"
+      gen: "monopolov"
+      loc: "monopolah"
+      dat: "monopolam"
+      ins: "monopolami"
+      voc: "monopoly"

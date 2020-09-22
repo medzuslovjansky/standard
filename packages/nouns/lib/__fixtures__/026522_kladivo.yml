@@ -1,0 +1,22 @@
+---
+  id: "26522"
+  word: "kladivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kladivo"
+      acc: "kladivo"
+      gen: "kladiva"
+      loc: "kladivu"
+      dat: "kladivu"
+      ins: "kladivom"
+      voc: "kladivo"
+    plural: 
+      nom: "kladiva"
+      acc: "kladiva"
+      gen: "kladiv"
+      loc: "kladivah"
+      dat: "kladivam"
+      ins: "kladivami"
+      voc: "kladiva"

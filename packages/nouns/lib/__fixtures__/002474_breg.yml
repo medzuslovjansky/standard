@@ -1,0 +1,22 @@
+---
+  id: "2474"
+  word: "brěg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brěg"
+      acc: "brěg"
+      gen: "brěga"
+      loc: "brěgu"
+      dat: "brěgu"
+      ins: "brěgom"
+      voc: "brěže"
+    plural: 
+      nom: "brěgy"
+      acc: "brěgy"
+      gen: "brěgov"
+      loc: "brěgah"
+      dat: "brěgam"
+      ins: "brěgami"
+      voc: "brěgy"

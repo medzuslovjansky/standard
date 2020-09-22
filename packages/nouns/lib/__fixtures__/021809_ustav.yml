@@ -1,0 +1,22 @@
+---
+  id: "21809"
+  word: "ustav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ustav"
+      acc: "ustav"
+      gen: "ustava"
+      loc: "ustavu"
+      dat: "ustavu"
+      ins: "ustavom"
+      voc: "ustave"
+    plural: 
+      nom: "ustavy"
+      acc: "ustavy"
+      gen: "ustavov"
+      loc: "ustavah"
+      dat: "ustavam"
+      ins: "ustavami"
+      voc: "ustavy"

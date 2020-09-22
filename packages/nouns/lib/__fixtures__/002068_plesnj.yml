@@ -1,0 +1,22 @@
+---
+  id: "2068"
+  word: "plěsnj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plěsnj"
+      acc: "plěsnj"
+      gen: "plěsnji"
+      loc: "plěsnji"
+      dat: "plěsnji"
+      ins: "plěsnjjų"
+      voc: "plěsnji"
+    plural: 
+      nom: "plěsnji"
+      acc: "plěsnji"
+      gen: "plěsnjij"
+      loc: "plěsnjah"
+      dat: "plěsnjam"
+      ins: "plěsnjami"
+      voc: "plěsnji"

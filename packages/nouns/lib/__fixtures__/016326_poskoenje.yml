@@ -1,0 +1,22 @@
+---
+  id: "16326"
+  word: "poškođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poškođeńje"
+      acc: "poškođeńje"
+      gen: "poškođeńja"
+      loc: "poškođeńju"
+      dat: "poškođeńju"
+      ins: "poškođeńjem"
+      voc: "poškođeńje"
+    plural: 
+      nom: "poškođeńja"
+      acc: "poškođeńja"
+      gen: "poškođenij"
+      loc: "poškođeńjah"
+      dat: "poškođeńjam"
+      ins: "poškođeńjami"
+      voc: "poškođeńja"

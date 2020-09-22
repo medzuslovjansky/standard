@@ -1,0 +1,22 @@
+---
+  id: "673"
+  word: "grib"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grib"
+      acc: "grib"
+      gen: "griba"
+      loc: "gribu"
+      dat: "gribu"
+      ins: "gribom"
+      voc: "gribe"
+    plural: 
+      nom: "griby"
+      acc: "griby"
+      gen: "gribov"
+      loc: "gribah"
+      dat: "gribam"
+      ins: "gribami"
+      voc: "griby"

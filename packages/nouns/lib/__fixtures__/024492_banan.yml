@@ -1,0 +1,22 @@
+---
+  id: "24492"
+  word: "banan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "banan"
+      acc: "banan"
+      gen: "banana"
+      loc: "bananu"
+      dat: "bananu"
+      ins: "bananom"
+      voc: "banane"
+    plural: 
+      nom: "banany"
+      acc: "banany"
+      gen: "bananov"
+      loc: "bananah"
+      dat: "bananam"
+      ins: "bananami"
+      voc: "banany"

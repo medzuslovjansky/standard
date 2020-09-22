@@ -1,0 +1,22 @@
+---
+  id: "11592"
+  word: "propasť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "propasť"
+      acc: "propasť"
+      gen: "propasti"
+      loc: "propasti"
+      dat: "propasti"
+      ins: "propasťjų"
+      voc: "propasti"
+    plural: 
+      nom: "propasti"
+      acc: "propasti"
+      gen: "propastij"
+      loc: "propasťah"
+      dat: "propasťam"
+      ins: "propasťami"
+      voc: "propasti"

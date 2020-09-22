@@ -1,0 +1,22 @@
+---
+  id: "18365"
+  word: "povŕhnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povŕhnja"
+      acc: "povŕhnjų"
+      gen: "povŕhnje"
+      loc: "povŕhnji"
+      dat: "povŕhnji"
+      ins: "povŕhnjejų"
+      voc: "povŕhnjo"
+    plural: 
+      nom: "povŕhnje"
+      acc: "povŕhnje"
+      gen: "povŕhnej"
+      loc: "povŕhnjah"
+      dat: "povŕhnjam"
+      ins: "povŕhnjami"
+      voc: "povŕhnje"

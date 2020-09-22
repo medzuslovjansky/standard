@@ -1,0 +1,22 @@
+---
+  id: "3440"
+  word: "porųčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "porųčeńje"
+      acc: "porųčeńje"
+      gen: "porųčeńja"
+      loc: "porųčeńju"
+      dat: "porųčeńju"
+      ins: "porųčeńjem"
+      voc: "porųčeńje"
+    plural: 
+      nom: "porųčeńja"
+      acc: "porųčeńja"
+      gen: "porųčenij"
+      loc: "porųčeńjah"
+      dat: "porųčeńjam"
+      ins: "porųčeńjami"
+      voc: "porųčeńja"

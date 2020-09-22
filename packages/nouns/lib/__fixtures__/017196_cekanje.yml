@@ -1,0 +1,15 @@
+---
+  id: "17196"
+  word: "čekańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čekańje"
+      acc: "čekańje"
+      gen: "čekańja"
+      loc: "čekańju"
+      dat: "čekańju"
+      ins: "čekańjem"
+      voc: "čekańje"

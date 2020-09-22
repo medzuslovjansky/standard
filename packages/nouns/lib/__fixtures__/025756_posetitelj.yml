@@ -1,0 +1,23 @@
+---
+  id: "25756"
+  word: "posětitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "posětitelj"
+      acc: "posětitelja"
+      gen: "posětitelja"
+      loc: "posětitelju"
+      dat: "posětitelju"
+      ins: "posětiteljem"
+      voc: "posětitelju"
+    plural: 
+      nom: "posětitelji"
+      acc: "posětiteljev"
+      gen: "posětiteljev"
+      loc: "posětiteljah"
+      dat: "posětiteljam"
+      ins: "posětiteljami"
+      voc: "posětitelji"

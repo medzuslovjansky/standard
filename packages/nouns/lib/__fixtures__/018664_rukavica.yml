@@ -1,0 +1,22 @@
+---
+  id: "18664"
+  word: "rųkavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rųkavica"
+      acc: "rųkavicų"
+      gen: "rųkavice"
+      loc: "rųkavici"
+      dat: "rųkavici"
+      ins: "rųkavicejų"
+      voc: "rųkavico"
+    plural: 
+      nom: "rųkavice"
+      acc: "rųkavice"
+      gen: "rųkavic"
+      loc: "rųkavicah"
+      dat: "rųkavicam"
+      ins: "rųkavicami"
+      voc: "rųkavice"

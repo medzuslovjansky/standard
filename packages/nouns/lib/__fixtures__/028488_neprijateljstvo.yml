@@ -1,0 +1,15 @@
+---
+  id: "28488"
+  word: "neprijateljstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neprijateljstvo"
+      acc: "neprijateljstvo"
+      gen: "neprijateljstva"
+      loc: "neprijateljstvu"
+      dat: "neprijateljstvu"
+      ins: "neprijateljstvom"
+      voc: "neprijateljstvo"

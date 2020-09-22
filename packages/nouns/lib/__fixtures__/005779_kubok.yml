@@ -1,0 +1,22 @@
+---
+  id: "5779"
+  word: "kubȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kubȯk"
+      acc: "kubȯk"
+      gen: "kubka"
+      loc: "kubku"
+      dat: "kubku"
+      ins: "kubkom"
+      voc: "kubče"
+    plural: 
+      nom: "kubky"
+      acc: "kubky"
+      gen: "kubkov"
+      loc: "kubkah"
+      dat: "kubkam"
+      ins: "kubkami"
+      voc: "kubky"

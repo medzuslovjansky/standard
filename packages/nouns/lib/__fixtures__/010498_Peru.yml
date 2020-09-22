@@ -1,0 +1,23 @@
+---
+  id: "10498"
+  word: "Peru"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "Peru"
+      acc: "Peru"
+      gen: "Peru"
+      loc: "Peru"
+      dat: "Peru"
+      ins: "Peru"
+      voc: "Peru"
+    plural: 
+      nom: "Peru"
+      acc: "Peru"
+      gen: "Peru"
+      loc: "Peru"
+      dat: "Peru"
+      ins: "Peru"
+      voc: "Peru"

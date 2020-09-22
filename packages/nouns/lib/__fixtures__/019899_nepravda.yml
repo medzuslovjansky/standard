@@ -1,0 +1,22 @@
+---
+  id: "19899"
+  word: "nepravda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepravda"
+      acc: "nepravdų"
+      gen: "nepravdy"
+      loc: "nepravdě"
+      dat: "nepravdě"
+      ins: "nepravdojų"
+      voc: "nepravdo"
+    plural: 
+      nom: "nepravdy"
+      acc: "nepravdy"
+      gen: "nepravd"
+      loc: "nepravdah"
+      dat: "nepravdam"
+      ins: "nepravdami"
+      voc: "nepravdy"

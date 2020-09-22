@@ -1,0 +1,23 @@
+---
+  id: "28784"
+  word: "oblaček"
+  meta: 
+    irregularity: "(oblačka)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oblačėk"
+      acc: "oblačėk"
+      gen: "oblačka"
+      loc: "oblačku"
+      dat: "oblačku"
+      ins: "oblačkom"
+      voc: "oblačče"
+    plural: 
+      nom: "oblačky"
+      acc: "oblačky"
+      gen: "oblačkov"
+      loc: "oblačkah"
+      dat: "oblačkam"
+      ins: "oblačkami"
+      voc: "oblačky"

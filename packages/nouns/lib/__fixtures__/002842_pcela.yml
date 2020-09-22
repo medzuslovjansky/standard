@@ -1,0 +1,22 @@
+---
+  id: "2842"
+  word: "pčela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pčela"
+      acc: "pčelų"
+      gen: "pčely"
+      loc: "pčelě"
+      dat: "pčelě"
+      ins: "pčelojų"
+      voc: "pčelo"
+    plural: 
+      nom: "pčely"
+      acc: "pčely"
+      gen: "pčel"
+      loc: "pčelah"
+      dat: "pčelam"
+      ins: "pčelami"
+      voc: "pčely"

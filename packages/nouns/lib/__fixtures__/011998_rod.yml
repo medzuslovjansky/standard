@@ -1,0 +1,22 @@
+---
+  id: "11998"
+  word: "rod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rod"
+      acc: "rod"
+      gen: "roda"
+      loc: "rodu"
+      dat: "rodu"
+      ins: "rodom"
+      voc: "rode"
+    plural: 
+      nom: "rody"
+      acc: "rody"
+      gen: "rodov"
+      loc: "rodah"
+      dat: "rodam"
+      ins: "rodami"
+      voc: "rody"

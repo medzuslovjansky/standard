@@ -1,0 +1,22 @@
+---
+  id: "1621"
+  word: "malina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "malina"
+      acc: "malinų"
+      gen: "maliny"
+      loc: "malině"
+      dat: "malině"
+      ins: "malinojų"
+      voc: "malino"
+    plural: 
+      nom: "maliny"
+      acc: "maliny"
+      gen: "malin"
+      loc: "malinah"
+      dat: "malinam"
+      ins: "malinami"
+      voc: "maliny"

@@ -1,0 +1,22 @@
+---
+  id: "35481"
+  word: "dyšnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dyšnik"
+      acc: "dyšnik"
+      gen: "dyšnika"
+      loc: "dyšniku"
+      dat: "dyšniku"
+      ins: "dyšnikom"
+      voc: "dyšniče"
+    plural: 
+      nom: "dyšniky"
+      acc: "dyšniky"
+      gen: "dyšnikov"
+      loc: "dyšnikah"
+      dat: "dyšnikam"
+      ins: "dyšnikami"
+      voc: "dyšniky"

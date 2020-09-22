@@ -1,0 +1,22 @@
+---
+  id: "3800"
+  word: "platform"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "platform"
+      acc: "platform"
+      gen: "platforma"
+      loc: "platformu"
+      dat: "platformu"
+      ins: "platformom"
+      voc: "platforme"
+    plural: 
+      nom: "platformy"
+      acc: "platformy"
+      gen: "platformov"
+      loc: "platformah"
+      dat: "platformam"
+      ins: "platformami"
+      voc: "platformy"

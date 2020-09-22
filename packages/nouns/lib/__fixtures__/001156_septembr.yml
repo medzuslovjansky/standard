@@ -1,0 +1,15 @@
+---
+  id: "1156"
+  word: "septembr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "septembr"
+      acc: "septembr"
+      gen: "septembra"
+      loc: "septembru"
+      dat: "septembru"
+      ins: "septembrom"
+      voc: "septembre"

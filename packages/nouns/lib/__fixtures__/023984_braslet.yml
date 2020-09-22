@@ -1,0 +1,22 @@
+---
+  id: "23984"
+  word: "braslet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "braslet"
+      acc: "braslet"
+      gen: "brasleta"
+      loc: "brasletu"
+      dat: "brasletu"
+      ins: "brasletom"
+      voc: "braslete"
+    plural: 
+      nom: "braslety"
+      acc: "braslety"
+      gen: "brasletov"
+      loc: "brasletah"
+      dat: "brasletam"
+      ins: "brasletami"
+      voc: "braslety"

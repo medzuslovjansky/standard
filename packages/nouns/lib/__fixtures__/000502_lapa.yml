@@ -1,0 +1,22 @@
+---
+  id: "502"
+  word: "lapa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lapa"
+      acc: "lapų"
+      gen: "lapy"
+      loc: "lapě"
+      dat: "lapě"
+      ins: "lapojų"
+      voc: "lapo"
+    plural: 
+      nom: "lapy"
+      acc: "lapy"
+      gen: "lap"
+      loc: "lapah"
+      dat: "lapam"
+      ins: "lapami"
+      voc: "lapy"

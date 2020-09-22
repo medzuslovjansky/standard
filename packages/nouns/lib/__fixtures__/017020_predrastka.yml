@@ -1,0 +1,22 @@
+---
+  id: "17020"
+  word: "prědråstka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědråstka"
+      acc: "prědråstkų"
+      gen: "prědråstky"
+      loc: "prědråstkě"
+      dat: "prědråstkě"
+      ins: "prědråstkojų"
+      voc: "prědråstko"
+    plural: 
+      nom: "prědråstky"
+      acc: "prědråstky"
+      gen: "prědråstȯk"
+      loc: "prědråstkah"
+      dat: "prědråstkam"
+      ins: "prědråstkami"
+      voc: "prědråstky"

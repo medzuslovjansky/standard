@@ -1,0 +1,22 @@
+---
+  id: "36615"
+  word: "zabezpečeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zabezpečeńje"
+      acc: "zabezpečeńje"
+      gen: "zabezpečeńja"
+      loc: "zabezpečeńju"
+      dat: "zabezpečeńju"
+      ins: "zabezpečeńjem"
+      voc: "zabezpečeńje"
+    plural: 
+      nom: "zabezpečeńja"
+      acc: "zabezpečeńja"
+      gen: "zabezpečenij"
+      loc: "zabezpečeńjah"
+      dat: "zabezpečeńjam"
+      ins: "zabezpečeńjami"
+      voc: "zabezpečeńja"

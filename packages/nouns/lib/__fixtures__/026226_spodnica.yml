@@ -1,0 +1,22 @@
+---
+  id: "26226"
+  word: "spodnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spodnica"
+      acc: "spodnicų"
+      gen: "spodnice"
+      loc: "spodnici"
+      dat: "spodnici"
+      ins: "spodnicejų"
+      voc: "spodnico"
+    plural: 
+      nom: "spodnice"
+      acc: "spodnice"
+      gen: "spodnic"
+      loc: "spodnicah"
+      dat: "spodnicam"
+      ins: "spodnicami"
+      voc: "spodnice"

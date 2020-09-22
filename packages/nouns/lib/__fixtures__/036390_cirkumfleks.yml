@@ -1,0 +1,22 @@
+---
+  id: "36390"
+  word: "cirkumfleks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cirkumfleks"
+      acc: "cirkumfleks"
+      gen: "cirkumfleksa"
+      loc: "cirkumfleksu"
+      dat: "cirkumfleksu"
+      ins: "cirkumfleksom"
+      voc: "cirkumflekse"
+    plural: 
+      nom: "cirkumfleksy"
+      acc: "cirkumfleksy"
+      gen: "cirkumfleksov"
+      loc: "cirkumfleksah"
+      dat: "cirkumfleksam"
+      ins: "cirkumfleksami"
+      voc: "cirkumfleksy"

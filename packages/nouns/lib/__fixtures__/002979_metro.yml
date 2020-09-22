@@ -1,0 +1,22 @@
+---
+  id: "2979"
+  word: "metro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "metro"
+      acc: "metro"
+      gen: "metra"
+      loc: "metru"
+      dat: "metru"
+      ins: "metrom"
+      voc: "metro"
+    plural: 
+      nom: "metra"
+      acc: "metra"
+      gen: "metr"
+      loc: "metrah"
+      dat: "metram"
+      ins: "metrami"
+      voc: "metra"

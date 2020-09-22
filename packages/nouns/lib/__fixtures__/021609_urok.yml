@@ -1,0 +1,22 @@
+---
+  id: "21609"
+  word: "urok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "urok"
+      acc: "urok"
+      gen: "uroka"
+      loc: "uroku"
+      dat: "uroku"
+      ins: "urokom"
+      voc: "uroče"
+    plural: 
+      nom: "uroky"
+      acc: "uroky"
+      gen: "urokov"
+      loc: "urokah"
+      dat: "urokam"
+      ins: "urokami"
+      voc: "uroky"

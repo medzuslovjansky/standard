@@ -1,0 +1,22 @@
+---
+  id: "35228"
+  word: "dalekoględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dalekoględ"
+      acc: "dalekoględ"
+      gen: "dalekoględa"
+      loc: "dalekoględu"
+      dat: "dalekoględu"
+      ins: "dalekoględom"
+      voc: "dalekoględe"
+    plural: 
+      nom: "dalekoględy"
+      acc: "dalekoględy"
+      gen: "dalekoględov"
+      loc: "dalekoględah"
+      dat: "dalekoględam"
+      ins: "dalekoględami"
+      voc: "dalekoględy"

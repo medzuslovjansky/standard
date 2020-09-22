@@ -1,0 +1,22 @@
+---
+  id: "4794"
+  word: "košulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "košulja"
+      acc: "košuljų"
+      gen: "košulje"
+      loc: "košulji"
+      dat: "košulji"
+      ins: "košuljejų"
+      voc: "košuljo"
+    plural: 
+      nom: "košulje"
+      acc: "košulje"
+      gen: "košulej"
+      loc: "košuljah"
+      dat: "košuljam"
+      ins: "košuljami"
+      voc: "košulje"

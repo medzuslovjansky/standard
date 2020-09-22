@@ -1,0 +1,22 @@
+---
+  id: "17160"
+  word: "bogoslužeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bogoslužeńje"
+      acc: "bogoslužeńje"
+      gen: "bogoslužeńja"
+      loc: "bogoslužeńju"
+      dat: "bogoslužeńju"
+      ins: "bogoslužeńjem"
+      voc: "bogoslužeńje"
+    plural: 
+      nom: "bogoslužeńja"
+      acc: "bogoslužeńja"
+      gen: "bogosluženij"
+      loc: "bogoslužeńjah"
+      dat: "bogoslužeńjam"
+      ins: "bogoslužeńjami"
+      voc: "bogoslužeńja"

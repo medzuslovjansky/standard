@@ -1,0 +1,22 @@
+---
+  id: "32349"
+  word: "stekľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stekľnik"
+      acc: "stekľnik"
+      gen: "stekľnika"
+      loc: "stekľniku"
+      dat: "stekľniku"
+      ins: "stekľnikom"
+      voc: "stekľniče"
+    plural: 
+      nom: "stekľniky"
+      acc: "stekľniky"
+      gen: "stekľnikov"
+      loc: "stekľnikah"
+      dat: "stekľnikam"
+      ins: "stekľnikami"
+      voc: "stekľniky"

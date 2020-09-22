@@ -1,0 +1,22 @@
+---
+  id: "36778"
+  word: "videokarta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "videokarta"
+      acc: "videokartų"
+      gen: "videokarty"
+      loc: "videokartě"
+      dat: "videokartě"
+      ins: "videokartojų"
+      voc: "videokarto"
+    plural: 
+      nom: "videokarty"
+      acc: "videokarty"
+      gen: "videokart"
+      loc: "videokartah"
+      dat: "videokartam"
+      ins: "videokartami"
+      voc: "videokarty"

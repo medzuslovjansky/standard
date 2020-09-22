@@ -1,0 +1,22 @@
+---
+  id: "27833"
+  word: "mųdo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mųdo"
+      acc: "mųdo"
+      gen: "mųda"
+      loc: "mųdu"
+      dat: "mųdu"
+      ins: "mųdom"
+      voc: "mųdo"
+    plural: 
+      nom: "mųda"
+      acc: "mųda"
+      gen: "mųd"
+      loc: "mųdah"
+      dat: "mųdam"
+      ins: "mųdami"
+      voc: "mųda"

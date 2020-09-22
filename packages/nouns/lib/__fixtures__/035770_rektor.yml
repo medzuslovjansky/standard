@@ -1,0 +1,23 @@
+---
+  id: "35770"
+  word: "rektor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rektor"
+      acc: "rektora"
+      gen: "rektora"
+      loc: "rektoru"
+      dat: "rektoru"
+      ins: "rektorom"
+      voc: "rektore"
+    plural: 
+      nom: "rektori"
+      acc: "rektorov"
+      gen: "rektorov"
+      loc: "rektorah"
+      dat: "rektoram"
+      ins: "rektorami"
+      voc: "rektori"

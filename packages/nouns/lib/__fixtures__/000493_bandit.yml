@@ -1,0 +1,23 @@
+---
+  id: "493"
+  word: "bandit"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bandit"
+      acc: "bandita"
+      gen: "bandita"
+      loc: "banditu"
+      dat: "banditu"
+      ins: "banditom"
+      voc: "bandite"
+    plural: 
+      nom: "banditi"
+      acc: "banditov"
+      gen: "banditov"
+      loc: "banditah"
+      dat: "banditam"
+      ins: "banditami"
+      voc: "banditi"

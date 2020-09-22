@@ -1,0 +1,22 @@
+---
+  id: "32821"
+  word: "obširnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obširnosť"
+      acc: "obširnosť"
+      gen: "obširnosti"
+      loc: "obširnosti"
+      dat: "obširnosti"
+      ins: "obširnosťjų"
+      voc: "obširnosti"
+    plural: 
+      nom: "obširnosti"
+      acc: "obširnosti"
+      gen: "obširnostij"
+      loc: "obširnosťah"
+      dat: "obširnosťam"
+      ins: "obširnosťami"
+      voc: "obširnosti"

@@ -1,0 +1,22 @@
+---
+  id: "3425"
+  word: "vodoråsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vodoråsť"
+      acc: "vodoråsť"
+      gen: "vodoråsti"
+      loc: "vodoråsti"
+      dat: "vodoråsti"
+      ins: "vodoråsťjų"
+      voc: "vodoråsti"
+    plural: 
+      nom: "vodoråsti"
+      acc: "vodoråsti"
+      gen: "vodoråstij"
+      loc: "vodoråsťah"
+      dat: "vodoråsťam"
+      ins: "vodoråsťami"
+      voc: "vodoråsti"

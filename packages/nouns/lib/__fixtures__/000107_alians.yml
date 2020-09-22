@@ -1,0 +1,22 @@
+---
+  id: "107"
+  word: "alians"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alians"
+      acc: "alians"
+      gen: "aliansa"
+      loc: "aliansu"
+      dat: "aliansu"
+      ins: "aliansom"
+      voc: "alianse"
+    plural: 
+      nom: "aliansy"
+      acc: "aliansy"
+      gen: "aliansov"
+      loc: "aliansah"
+      dat: "aliansam"
+      ins: "aliansami"
+      voc: "aliansy"

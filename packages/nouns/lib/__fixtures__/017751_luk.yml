@@ -1,0 +1,22 @@
+---
+  id: "17751"
+  word: "luk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "luk"
+      acc: "luk"
+      gen: "luka"
+      loc: "luku"
+      dat: "luku"
+      ins: "lukom"
+      voc: "luče"
+    plural: 
+      nom: "luky"
+      acc: "luky"
+      gen: "lukov"
+      loc: "lukah"
+      dat: "lukam"
+      ins: "lukami"
+      voc: "luky"

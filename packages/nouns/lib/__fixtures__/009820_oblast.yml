@@ -1,0 +1,22 @@
+---
+  id: "9820"
+  word: "oblasť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oblasť"
+      acc: "oblasť"
+      gen: "oblasti"
+      loc: "oblasti"
+      dat: "oblasti"
+      ins: "oblasťjų"
+      voc: "oblasti"
+    plural: 
+      nom: "oblasti"
+      acc: "oblasti"
+      gen: "oblastij"
+      loc: "oblasťah"
+      dat: "oblasťam"
+      ins: "oblasťami"
+      voc: "oblasti"

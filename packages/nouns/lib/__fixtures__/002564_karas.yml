@@ -1,0 +1,23 @@
+---
+  id: "2564"
+  word: "karaś"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "karaś"
+      acc: "karaśa"
+      gen: "karaśa"
+      loc: "karaśu"
+      dat: "karaśu"
+      ins: "karaśem"
+      voc: "karaśu"
+    plural: 
+      nom: "karasi"
+      acc: "karaśev"
+      gen: "karaśev"
+      loc: "karaśah"
+      dat: "karaśam"
+      ins: "karaśami"
+      voc: "karasi"

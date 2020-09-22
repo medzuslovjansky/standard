@@ -1,0 +1,15 @@
+---
+  id: "5754"
+  word: "Afganistan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Afganistan"
+      acc: "Afganistan"
+      gen: "Afganistana"
+      loc: "Afganistanu"
+      dat: "Afganistanu"
+      ins: "Afganistanom"
+      voc: "Afganistane"

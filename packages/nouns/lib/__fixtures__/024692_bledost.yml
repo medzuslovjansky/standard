@@ -1,0 +1,15 @@
+---
+  id: "24692"
+  word: "blědosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "blědosť"
+      acc: "blědosť"
+      gen: "blědosti"
+      loc: "blědosti"
+      dat: "blědosti"
+      ins: "blědosťjų"
+      voc: "blědosti"

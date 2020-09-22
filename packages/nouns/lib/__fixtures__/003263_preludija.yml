@@ -1,0 +1,22 @@
+---
+  id: "3263"
+  word: "preludija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "preludija"
+      acc: "preludijų"
+      gen: "preludije"
+      loc: "preludiji"
+      dat: "preludiji"
+      ins: "preludijejų"
+      voc: "preludijo"
+    plural: 
+      nom: "preludije"
+      acc: "preludije"
+      gen: "preludij"
+      loc: "preludijah"
+      dat: "preludijam"
+      ins: "preludijami"
+      voc: "preludije"

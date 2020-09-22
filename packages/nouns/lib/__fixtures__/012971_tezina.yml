@@ -1,0 +1,22 @@
+---
+  id: "12971"
+  word: "tęžina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tęžina"
+      acc: "tęžinų"
+      gen: "tęžiny"
+      loc: "tęžině"
+      dat: "tęžině"
+      ins: "tęžinojų"
+      voc: "tęžino"
+    plural: 
+      nom: "tęžiny"
+      acc: "tęžiny"
+      gen: "tęžin"
+      loc: "tęžinah"
+      dat: "tęžinam"
+      ins: "tęžinami"
+      voc: "tęžiny"

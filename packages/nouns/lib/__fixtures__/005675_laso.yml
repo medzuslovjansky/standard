@@ -1,0 +1,22 @@
+---
+  id: "5675"
+  word: "laso"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "laso"
+      acc: "laso"
+      gen: "lasa"
+      loc: "lasu"
+      dat: "lasu"
+      ins: "lasom"
+      voc: "laso"
+    plural: 
+      nom: "lasa"
+      acc: "lasa"
+      gen: "las"
+      loc: "lasah"
+      dat: "lasam"
+      ins: "lasami"
+      voc: "lasa"

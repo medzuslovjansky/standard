@@ -1,0 +1,22 @@
+---
+  id: "2860"
+  word: "revolucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "revolucija"
+      acc: "revolucijų"
+      gen: "revolucije"
+      loc: "revoluciji"
+      dat: "revoluciji"
+      ins: "revolucijejų"
+      voc: "revolucijo"
+    plural: 
+      nom: "revolucije"
+      acc: "revolucije"
+      gen: "revolucij"
+      loc: "revolucijah"
+      dat: "revolucijam"
+      ins: "revolucijami"
+      voc: "revolucije"

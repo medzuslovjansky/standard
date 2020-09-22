@@ -1,0 +1,22 @@
+---
+  id: "36140"
+  word: "saranča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "saranča"
+      acc: "sarančų"
+      gen: "saranče"
+      loc: "saranči"
+      dat: "saranči"
+      ins: "sarančejų"
+      voc: "sarančo"
+    plural: 
+      nom: "saranče"
+      acc: "saranče"
+      gen: "saranč"
+      loc: "sarančah"
+      dat: "sarančam"
+      ins: "sarančami"
+      voc: "saranče"

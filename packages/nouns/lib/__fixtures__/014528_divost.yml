@@ -1,0 +1,15 @@
+---
+  id: "14528"
+  word: "divosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "divosť"
+      acc: "divosť"
+      gen: "divosti"
+      loc: "divosti"
+      dat: "divosti"
+      ins: "divosťjų"
+      voc: "divosti"

@@ -1,0 +1,23 @@
+---
+  id: "2943"
+  word: "prokuror"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prokuror"
+      acc: "prokurora"
+      gen: "prokurora"
+      loc: "prokuroru"
+      dat: "prokuroru"
+      ins: "prokurorom"
+      voc: "prokurore"
+    plural: 
+      nom: "prokurori"
+      acc: "prokurorov"
+      gen: "prokurorov"
+      loc: "prokurorah"
+      dat: "prokuroram"
+      ins: "prokurorami"
+      voc: "prokurori"

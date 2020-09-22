@@ -1,0 +1,23 @@
+---
+  id: "904"
+  word: "analitik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "analitik"
+      acc: "analitika"
+      gen: "analitika"
+      loc: "analitiku"
+      dat: "analitiku"
+      ins: "analitikom"
+      voc: "analitiče"
+    plural: 
+      nom: "analitiki"
+      acc: "analitikov"
+      gen: "analitikov"
+      loc: "analitikah"
+      dat: "analitikam"
+      ins: "analitikami"
+      voc: "analitiki"

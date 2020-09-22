@@ -1,0 +1,15 @@
+---
+  id: "26571"
+  word: "klokot"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "klokot"
+      acc: "klokot"
+      gen: "klokota"
+      loc: "klokotu"
+      dat: "klokotu"
+      ins: "klokotom"
+      voc: "klokote"

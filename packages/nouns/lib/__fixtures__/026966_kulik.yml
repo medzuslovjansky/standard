@@ -1,0 +1,23 @@
+---
+  id: "26966"
+  word: "kulik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kulik"
+      acc: "kulika"
+      gen: "kulika"
+      loc: "kuliku"
+      dat: "kuliku"
+      ins: "kulikom"
+      voc: "kuliče"
+    plural: 
+      nom: "kuliki"
+      acc: "kulikov"
+      gen: "kulikov"
+      loc: "kulikah"
+      dat: "kulikam"
+      ins: "kulikami"
+      voc: "kuliki"

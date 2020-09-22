@@ -1,0 +1,15 @@
+---
+  id: "16428"
+  word: "pęterčęta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "pęterčęta"
+      acc: "pęterčęta"
+      gen: "pęterčęt"
+      loc: "pęterčętah"
+      dat: "pęterčętam"
+      ins: "pęterčętami"
+      voc: "pęterčęta"

@@ -1,0 +1,15 @@
+---
+  id: "488"
+  word: "Estonija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Estonija"
+      acc: "Estonijų"
+      gen: "Estonije"
+      loc: "Estoniji"
+      dat: "Estoniji"
+      ins: "Estonijejų"
+      voc: "Estonijo"

@@ -1,0 +1,22 @@
+---
+  id: "3602"
+  word: "trata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trata"
+      acc: "tratų"
+      gen: "traty"
+      loc: "tratě"
+      dat: "tratě"
+      ins: "tratojų"
+      voc: "trato"
+    plural: 
+      nom: "traty"
+      acc: "traty"
+      gen: "trat"
+      loc: "tratah"
+      dat: "tratam"
+      ins: "tratami"
+      voc: "traty"

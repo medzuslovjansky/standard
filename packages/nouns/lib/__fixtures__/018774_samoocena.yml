@@ -1,0 +1,22 @@
+---
+  id: "18774"
+  word: "samoocěna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samoocěna"
+      acc: "samoocěnų"
+      gen: "samoocěny"
+      loc: "samoocěně"
+      dat: "samoocěně"
+      ins: "samoocěnojų"
+      voc: "samoocěno"
+    plural: 
+      nom: "samoocěny"
+      acc: "samoocěny"
+      gen: "samoocěn"
+      loc: "samoocěnah"
+      dat: "samoocěnam"
+      ins: "samoocěnami"
+      voc: "samoocěny"

@@ -1,0 +1,22 @@
+---
+  id: "2545"
+  word: "gråh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gråh"
+      acc: "gråh"
+      gen: "gråha"
+      loc: "gråhu"
+      dat: "gråhu"
+      ins: "gråhom"
+      voc: "gråše"
+    plural: 
+      nom: "gråhy"
+      acc: "gråhy"
+      gen: "gråhov"
+      loc: "gråhah"
+      dat: "gråham"
+      ins: "gråhami"
+      voc: "gråhy"

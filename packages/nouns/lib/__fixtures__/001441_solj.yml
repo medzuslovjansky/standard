@@ -1,0 +1,22 @@
+---
+  id: "1441"
+  word: "solj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "solj"
+      acc: "solj"
+      gen: "solji"
+      loc: "solji"
+      dat: "solji"
+      ins: "soljjų"
+      voc: "solji"
+    plural: 
+      nom: "solji"
+      acc: "solji"
+      gen: "soljij"
+      loc: "soljah"
+      dat: "soljam"
+      ins: "soljami"
+      voc: "solji"

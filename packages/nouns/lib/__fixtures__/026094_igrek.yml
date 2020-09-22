@@ -1,0 +1,22 @@
+---
+  id: "26094"
+  word: "igrek"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "igrek"
+      acc: "igrek"
+      gen: "igreka"
+      loc: "igreku"
+      dat: "igreku"
+      ins: "igrekom"
+      voc: "igreče"
+    plural: 
+      nom: "igreky"
+      acc: "igreky"
+      gen: "igrekov"
+      loc: "igrekah"
+      dat: "igrekam"
+      ins: "igrekami"
+      voc: "igreky"

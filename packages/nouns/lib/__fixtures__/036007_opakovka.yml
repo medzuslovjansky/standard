@@ -1,0 +1,22 @@
+---
+  id: "36007"
+  word: "opakovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opakovka"
+      acc: "opakovkų"
+      gen: "opakovky"
+      loc: "opakovkě"
+      dat: "opakovkě"
+      ins: "opakovkojų"
+      voc: "opakovko"
+    plural: 
+      nom: "opakovky"
+      acc: "opakovky"
+      gen: "opakovȯk"
+      loc: "opakovkah"
+      dat: "opakovkam"
+      ins: "opakovkami"
+      voc: "opakovky"

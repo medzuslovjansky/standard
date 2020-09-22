@@ -1,0 +1,22 @@
+---
+  id: "14757"
+  word: "nebrěžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nebrěžnosť"
+      acc: "nebrěžnosť"
+      gen: "nebrěžnosti"
+      loc: "nebrěžnosti"
+      dat: "nebrěžnosti"
+      ins: "nebrěžnosťjų"
+      voc: "nebrěžnosti"
+    plural: 
+      nom: "nebrěžnosti"
+      acc: "nebrěžnosti"
+      gen: "nebrěžnostij"
+      loc: "nebrěžnosťah"
+      dat: "nebrěžnosťam"
+      ins: "nebrěžnosťami"
+      voc: "nebrěžnosti"

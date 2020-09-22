@@ -1,0 +1,23 @@
+---
+  id: "6103"
+  word: "cunami"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "cunami"
+      acc: "cunami"
+      gen: "cunami"
+      loc: "cunami"
+      dat: "cunami"
+      ins: "cunami"
+      voc: "cunami"
+    plural: 
+      nom: "cunami"
+      acc: "cunami"
+      gen: "cunami"
+      loc: "cunami"
+      dat: "cunami"
+      ins: "cunami"
+      voc: "cunami"

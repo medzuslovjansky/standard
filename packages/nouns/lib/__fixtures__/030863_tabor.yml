@@ -1,0 +1,22 @@
+---
+  id: "30863"
+  word: "tabor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tabor"
+      acc: "tabor"
+      gen: "tabora"
+      loc: "taboru"
+      dat: "taboru"
+      ins: "taborom"
+      voc: "tabore"
+    plural: 
+      nom: "tabory"
+      acc: "tabory"
+      gen: "taborov"
+      loc: "taborah"
+      dat: "taboram"
+      ins: "taborami"
+      voc: "tabory"

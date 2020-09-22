@@ -1,0 +1,22 @@
+---
+  id: "23151"
+  word: "kuvalda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuvalda"
+      acc: "kuvaldų"
+      gen: "kuvaldy"
+      loc: "kuvaldě"
+      dat: "kuvaldě"
+      ins: "kuvaldojų"
+      voc: "kuvaldo"
+    plural: 
+      nom: "kuvaldy"
+      acc: "kuvaldy"
+      gen: "kuvald"
+      loc: "kuvaldah"
+      dat: "kuvaldam"
+      ins: "kuvaldami"
+      voc: "kuvaldy"

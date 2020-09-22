@@ -1,0 +1,22 @@
+---
+  id: "20056"
+  word: "prajęzyk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prajęzyk"
+      acc: "prajęzyk"
+      gen: "prajęzyka"
+      loc: "prajęzyku"
+      dat: "prajęzyku"
+      ins: "prajęzykom"
+      voc: "prajęzyče"
+    plural: 
+      nom: "prajęzyky"
+      acc: "prajęzyky"
+      gen: "prajęzykov"
+      loc: "prajęzykah"
+      dat: "prajęzykam"
+      ins: "prajęzykami"
+      voc: "prajęzyky"

@@ -1,0 +1,23 @@
+---
+  id: "13455"
+  word: "uzdråvitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "uzdråvitelj"
+      acc: "uzdråvitelja"
+      gen: "uzdråvitelja"
+      loc: "uzdråvitelju"
+      dat: "uzdråvitelju"
+      ins: "uzdråviteljem"
+      voc: "uzdråvitelju"
+    plural: 
+      nom: "uzdråvitelji"
+      acc: "uzdråviteljev"
+      gen: "uzdråviteljev"
+      loc: "uzdråviteljah"
+      dat: "uzdråviteljam"
+      ins: "uzdråviteljami"
+      voc: "uzdråvitelji"

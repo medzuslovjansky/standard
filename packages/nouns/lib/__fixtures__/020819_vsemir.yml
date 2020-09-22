@@ -1,0 +1,22 @@
+---
+  id: "20819"
+  word: "vsemir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vsemir"
+      acc: "vsemir"
+      gen: "vsemira"
+      loc: "vsemiru"
+      dat: "vsemiru"
+      ins: "vsemirom"
+      voc: "vsemire"
+    plural: 
+      nom: "vsemiry"
+      acc: "vsemiry"
+      gen: "vsemirov"
+      loc: "vsemirah"
+      dat: "vsemiram"
+      ins: "vsemirami"
+      voc: "vsemiry"

@@ -1,0 +1,22 @@
+---
+  id: "27286"
+  word: "lom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lom"
+      acc: "lom"
+      gen: "loma"
+      loc: "lomu"
+      dat: "lomu"
+      ins: "lomom"
+      voc: "lome"
+    plural: 
+      nom: "lomy"
+      acc: "lomy"
+      gen: "lomov"
+      loc: "lomah"
+      dat: "lomam"
+      ins: "lomami"
+      voc: "lomy"

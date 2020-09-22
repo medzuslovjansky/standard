@@ -1,0 +1,22 @@
+---
+  id: "35218"
+  word: "parodija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "parodija"
+      acc: "parodijų"
+      gen: "parodije"
+      loc: "parodiji"
+      dat: "parodiji"
+      ins: "parodijejų"
+      voc: "parodijo"
+    plural: 
+      nom: "parodije"
+      acc: "parodije"
+      gen: "parodij"
+      loc: "parodijah"
+      dat: "parodijam"
+      ins: "parodijami"
+      voc: "parodije"

@@ -1,0 +1,23 @@
+---
+  id: "17464"
+  word: "hrånjenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hrånjenec"
+      acc: "hrånjenca"
+      gen: "hrånjenca"
+      loc: "hrånjencu"
+      dat: "hrånjencu"
+      ins: "hrånjencem"
+      voc: "hrånjenče"
+    plural: 
+      nom: "hrånjenci"
+      acc: "hrånjencev"
+      gen: "hrånjencev"
+      loc: "hrånjencah"
+      dat: "hrånjencam"
+      ins: "hrånjencami"
+      voc: "hrånjenci"

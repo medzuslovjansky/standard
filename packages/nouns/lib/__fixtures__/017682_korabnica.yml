@@ -1,0 +1,22 @@
+---
+  id: "17682"
+  word: "korabnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korabnica"
+      acc: "korabnicų"
+      gen: "korabnice"
+      loc: "korabnici"
+      dat: "korabnici"
+      ins: "korabnicejų"
+      voc: "korabnico"
+    plural: 
+      nom: "korabnice"
+      acc: "korabnice"
+      gen: "korabnic"
+      loc: "korabnicah"
+      dat: "korabnicam"
+      ins: "korabnicami"
+      voc: "korabnice"

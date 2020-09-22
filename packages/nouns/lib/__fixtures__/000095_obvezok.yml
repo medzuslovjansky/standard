@@ -1,0 +1,22 @@
+---
+  id: "95"
+  word: "obvęzȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obvęzȯk"
+      acc: "obvęzȯk"
+      gen: "obvęzka"
+      loc: "obvęzku"
+      dat: "obvęzku"
+      ins: "obvęzkom"
+      voc: "obvęzče"
+    plural: 
+      nom: "obvęzky"
+      acc: "obvęzky"
+      gen: "obvęzkov"
+      loc: "obvęzkah"
+      dat: "obvęzkam"
+      ins: "obvęzkami"
+      voc: "obvęzky"

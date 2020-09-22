@@ -1,0 +1,22 @@
+---
+  id: "4989"
+  word: "struja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "struja"
+      acc: "strujų"
+      gen: "struje"
+      loc: "struji"
+      dat: "struji"
+      ins: "strujejų"
+      voc: "strujo"
+    plural: 
+      nom: "struje"
+      acc: "struje"
+      gen: "struj"
+      loc: "strujah"
+      dat: "strujam"
+      ins: "strujami"
+      voc: "struje"

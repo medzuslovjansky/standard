@@ -1,0 +1,22 @@
+---
+  id: "4998"
+  word: "krajevid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krajevid"
+      acc: "krajevid"
+      gen: "krajevida"
+      loc: "krajevidu"
+      dat: "krajevidu"
+      ins: "krajevidom"
+      voc: "krajevide"
+    plural: 
+      nom: "krajevidy"
+      acc: "krajevidy"
+      gen: "krajevidov"
+      loc: "krajevidah"
+      dat: "krajevidam"
+      ins: "krajevidami"
+      voc: "krajevidy"

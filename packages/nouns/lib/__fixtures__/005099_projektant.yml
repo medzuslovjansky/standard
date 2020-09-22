@@ -1,0 +1,23 @@
+---
+  id: "5099"
+  word: "projektant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "projektant"
+      acc: "projektanta"
+      gen: "projektanta"
+      loc: "projektantu"
+      dat: "projektantu"
+      ins: "projektantom"
+      voc: "projektante"
+    plural: 
+      nom: "projektanti"
+      acc: "projektantov"
+      gen: "projektantov"
+      loc: "projektantah"
+      dat: "projektantam"
+      ins: "projektantami"
+      voc: "projektanti"

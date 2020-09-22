@@ -1,0 +1,15 @@
+---
+  id: "22960"
+  word: "kanibalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kanibalizm"
+      acc: "kanibalizm"
+      gen: "kanibalizma"
+      loc: "kanibalizmu"
+      dat: "kanibalizmu"
+      ins: "kanibalizmom"
+      voc: "kanibalizme"

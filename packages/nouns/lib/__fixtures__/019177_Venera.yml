@@ -1,0 +1,22 @@
+---
+  id: "19177"
+  word: "Venera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Venera"
+      acc: "Venerų"
+      gen: "Venery"
+      loc: "Venerě"
+      dat: "Venerě"
+      ins: "Venerojų"
+      voc: "Venero"
+    plural: 
+      nom: "Venery"
+      acc: "Venery"
+      gen: "Vener"
+      loc: "Venerah"
+      dat: "Veneram"
+      ins: "Venerami"
+      voc: "Venery"

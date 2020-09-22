@@ -1,0 +1,22 @@
+---
+  id: "20243"
+  word: "ulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ulja"
+      acc: "uljų"
+      gen: "ulje"
+      loc: "ulji"
+      dat: "ulji"
+      ins: "uljejų"
+      voc: "uljo"
+    plural: 
+      nom: "ulje"
+      acc: "ulje"
+      gen: "ulej"
+      loc: "uljah"
+      dat: "uljam"
+      ins: "uljami"
+      voc: "ulje"

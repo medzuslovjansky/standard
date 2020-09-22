@@ -1,0 +1,23 @@
+---
+  id: "11062"
+  word: "instruktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "instruktor"
+      acc: "instruktora"
+      gen: "instruktora"
+      loc: "instruktoru"
+      dat: "instruktoru"
+      ins: "instruktorom"
+      voc: "instruktore"
+    plural: 
+      nom: "instruktori"
+      acc: "instruktorov"
+      gen: "instruktorov"
+      loc: "instruktorah"
+      dat: "instruktoram"
+      ins: "instruktorami"
+      voc: "instruktori"

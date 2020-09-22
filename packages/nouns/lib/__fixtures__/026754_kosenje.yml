@@ -1,0 +1,15 @@
+---
+  id: "26754"
+  word: "košeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "košeńje"
+      acc: "košeńje"
+      gen: "košeńja"
+      loc: "košeńju"
+      dat: "košeńju"
+      ins: "košeńjem"
+      voc: "košeńje"

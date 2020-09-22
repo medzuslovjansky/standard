@@ -1,0 +1,15 @@
+---
+  id: "5789"
+  word: "arešt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "arešt"
+      acc: "arešt"
+      gen: "arešta"
+      loc: "areštu"
+      dat: "areštu"
+      ins: "areštom"
+      voc: "arešte"

@@ -1,0 +1,23 @@
+---
+  id: "330"
+  word: "organizator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "organizator"
+      acc: "organizatora"
+      gen: "organizatora"
+      loc: "organizatoru"
+      dat: "organizatoru"
+      ins: "organizatorom"
+      voc: "organizatore"
+    plural: 
+      nom: "organizatori"
+      acc: "organizatorov"
+      gen: "organizatorov"
+      loc: "organizatorah"
+      dat: "organizatoram"
+      ins: "organizatorami"
+      voc: "organizatori"

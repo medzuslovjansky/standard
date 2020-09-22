@@ -1,0 +1,22 @@
+---
+  id: "962"
+  word: "obraz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obraz"
+      acc: "obraz"
+      gen: "obraza"
+      loc: "obrazu"
+      dat: "obrazu"
+      ins: "obrazom"
+      voc: "obraze"
+    plural: 
+      nom: "obrazy"
+      acc: "obrazy"
+      gen: "obrazov"
+      loc: "obrazah"
+      dat: "obrazam"
+      ins: "obrazami"
+      voc: "obrazy"

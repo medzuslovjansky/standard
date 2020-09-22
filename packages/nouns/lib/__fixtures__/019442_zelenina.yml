@@ -1,0 +1,22 @@
+---
+  id: "19442"
+  word: "zelenina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zelenina"
+      acc: "zeleninų"
+      gen: "zeleniny"
+      loc: "zelenině"
+      dat: "zelenině"
+      ins: "zeleninojų"
+      voc: "zelenino"
+    plural: 
+      nom: "zeleniny"
+      acc: "zeleniny"
+      gen: "zelenin"
+      loc: "zeleninah"
+      dat: "zeleninam"
+      ins: "zeleninami"
+      voc: "zeleniny"

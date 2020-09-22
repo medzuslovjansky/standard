@@ -1,0 +1,22 @@
+---
+  id: "36000"
+  word: "vųzkokolejka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vųzkokolejka"
+      acc: "vųzkokolejkų"
+      gen: "vųzkokolejky"
+      loc: "vųzkokolejkě"
+      dat: "vųzkokolejkě"
+      ins: "vųzkokolejkojų"
+      voc: "vųzkokolejko"
+    plural: 
+      nom: "vųzkokolejky"
+      acc: "vųzkokolejky"
+      gen: "vųzkokolejek"
+      loc: "vųzkokolejkah"
+      dat: "vųzkokolejkam"
+      ins: "vųzkokolejkami"
+      voc: "vųzkokolejky"

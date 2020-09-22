@@ -1,0 +1,22 @@
+---
+  id: "2490"
+  word: "dno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dno"
+      acc: "dno"
+      gen: "dna"
+      loc: "dnu"
+      dat: "dnu"
+      ins: "dnom"
+      voc: "den / dnju"
+    plural: 
+      nom: "dna"
+      acc: "dna"
+      gen: "dȯn"
+      loc: "dnah"
+      dat: "dnam"
+      ins: "dnami"
+      voc: "dna"

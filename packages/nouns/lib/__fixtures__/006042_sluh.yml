@@ -1,0 +1,22 @@
+---
+  id: "6042"
+  word: "sluh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sluh"
+      acc: "sluh"
+      gen: "sluha"
+      loc: "sluhu"
+      dat: "sluhu"
+      ins: "sluhom"
+      voc: "sluše"
+    plural: 
+      nom: "sluhy"
+      acc: "sluhy"
+      gen: "sluhov"
+      loc: "sluhah"
+      dat: "sluham"
+      ins: "sluhami"
+      voc: "sluhy"

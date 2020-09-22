@@ -1,0 +1,22 @@
+---
+  id: "1369"
+  word: "mězga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mězga"
+      acc: "mězgų"
+      gen: "mězgy"
+      loc: "mězgě"
+      dat: "mězgě"
+      ins: "mězgojų"
+      voc: "mězgo"
+    plural: 
+      nom: "mězgy"
+      acc: "mězgy"
+      gen: "mězg"
+      loc: "mězgah"
+      dat: "mězgam"
+      ins: "mězgami"
+      voc: "mězgy"

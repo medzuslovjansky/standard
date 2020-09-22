@@ -1,0 +1,22 @@
+---
+  id: "14262"
+  word: "zlověsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zlověsť"
+      acc: "zlověsť"
+      gen: "zlověsti"
+      loc: "zlověsti"
+      dat: "zlověsti"
+      ins: "zlověsťjų"
+      voc: "zlověsti"
+    plural: 
+      nom: "zlověsti"
+      acc: "zlověsti"
+      gen: "zlověstij"
+      loc: "zlověsťah"
+      dat: "zlověsťam"
+      ins: "zlověsťami"
+      voc: "zlověsti"

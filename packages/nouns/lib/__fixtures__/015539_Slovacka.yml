@@ -1,0 +1,22 @@
+---
+  id: "15539"
+  word: "Slovačka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Slovačka"
+      acc: "Slovačkų"
+      gen: "Slovačky"
+      loc: "Slovačkě"
+      dat: "Slovačkě"
+      ins: "Slovačkojų"
+      voc: "Slovačko"
+    plural: 
+      nom: "Slovačky"
+      acc: "Slovačky"
+      gen: "Slovaček"
+      loc: "Slovačkah"
+      dat: "Slovačkam"
+      ins: "Slovačkami"
+      voc: "Slovačky"

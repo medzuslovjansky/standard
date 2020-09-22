@@ -1,0 +1,23 @@
+---
+  id: "23509"
+  word: "dirigent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dirigent"
+      acc: "dirigenta"
+      gen: "dirigenta"
+      loc: "dirigentu"
+      dat: "dirigentu"
+      ins: "dirigentom"
+      voc: "dirigente"
+    plural: 
+      nom: "dirigenti"
+      acc: "dirigentov"
+      gen: "dirigentov"
+      loc: "dirigentah"
+      dat: "dirigentam"
+      ins: "dirigentami"
+      voc: "dirigenti"

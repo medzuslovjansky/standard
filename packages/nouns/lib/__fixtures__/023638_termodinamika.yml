@@ -1,0 +1,22 @@
+---
+  id: "23638"
+  word: "termodinamika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "termodinamika"
+      acc: "termodinamikų"
+      gen: "termodinamiky"
+      loc: "termodinamikě"
+      dat: "termodinamikě"
+      ins: "termodinamikojų"
+      voc: "termodinamiko"
+    plural: 
+      nom: "termodinamiky"
+      acc: "termodinamiky"
+      gen: "termodinamik"
+      loc: "termodinamikah"
+      dat: "termodinamikam"
+      ins: "termodinamikami"
+      voc: "termodinamiky"

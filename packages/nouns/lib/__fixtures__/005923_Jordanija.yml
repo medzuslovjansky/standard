@@ -1,0 +1,15 @@
+---
+  id: "5923"
+  word: "Jordanija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Jordanija"
+      acc: "Jordanijų"
+      gen: "Jordanije"
+      loc: "Jordaniji"
+      dat: "Jordaniji"
+      ins: "Jordanijejų"
+      voc: "Jordanijo"

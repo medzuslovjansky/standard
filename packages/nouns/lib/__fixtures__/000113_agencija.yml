@@ -1,0 +1,22 @@
+---
+  id: "113"
+  word: "agencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "agencija"
+      acc: "agencijų"
+      gen: "agencije"
+      loc: "agenciji"
+      dat: "agenciji"
+      ins: "agencijejų"
+      voc: "agencijo"
+    plural: 
+      nom: "agencije"
+      acc: "agencije"
+      gen: "agencij"
+      loc: "agencijah"
+      dat: "agencijam"
+      ins: "agencijami"
+      voc: "agencije"

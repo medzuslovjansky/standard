@@ -1,0 +1,22 @@
+---
+  id: "1616"
+  word: "uspěh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "uspěh"
+      acc: "uspěh"
+      gen: "uspěha"
+      loc: "uspěhu"
+      dat: "uspěhu"
+      ins: "uspěhom"
+      voc: "uspěše"
+    plural: 
+      nom: "uspěhy"
+      acc: "uspěhy"
+      gen: "uspěhov"
+      loc: "uspěhah"
+      dat: "uspěham"
+      ins: "uspěhami"
+      voc: "uspěhy"

@@ -1,0 +1,22 @@
+---
+  id: "4148"
+  word: "vintovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vintovka"
+      acc: "vintovkų"
+      gen: "vintovky"
+      loc: "vintovkě"
+      dat: "vintovkě"
+      ins: "vintovkojų"
+      voc: "vintovko"
+    plural: 
+      nom: "vintovky"
+      acc: "vintovky"
+      gen: "vintovȯk"
+      loc: "vintovkah"
+      dat: "vintovkam"
+      ins: "vintovkami"
+      voc: "vintovky"

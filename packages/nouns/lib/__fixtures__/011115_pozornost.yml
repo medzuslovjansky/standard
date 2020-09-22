@@ -1,0 +1,22 @@
+---
+  id: "11115"
+  word: "pozornosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pozornosť"
+      acc: "pozornosť"
+      gen: "pozornosti"
+      loc: "pozornosti"
+      dat: "pozornosti"
+      ins: "pozornosťjų"
+      voc: "pozornosti"
+    plural: 
+      nom: "pozornosti"
+      acc: "pozornosti"
+      gen: "pozornostij"
+      loc: "pozornosťah"
+      dat: "pozornosťam"
+      ins: "pozornosťami"
+      voc: "pozornosti"

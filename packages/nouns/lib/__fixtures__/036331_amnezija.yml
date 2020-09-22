@@ -1,0 +1,22 @@
+---
+  id: "36331"
+  word: "amnezija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "amnezija"
+      acc: "amnezijų"
+      gen: "amnezije"
+      loc: "amneziji"
+      dat: "amneziji"
+      ins: "amnezijejų"
+      voc: "amnezijo"
+    plural: 
+      nom: "amnezije"
+      acc: "amnezije"
+      gen: "amnezij"
+      loc: "amnezijah"
+      dat: "amnezijam"
+      ins: "amnezijami"
+      voc: "amnezije"

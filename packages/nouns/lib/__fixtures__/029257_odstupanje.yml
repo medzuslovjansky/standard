@@ -1,0 +1,22 @@
+---
+  id: "29257"
+  word: "odstųpańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odstųpańje"
+      acc: "odstųpańje"
+      gen: "odstųpańja"
+      loc: "odstųpańju"
+      dat: "odstųpańju"
+      ins: "odstųpańjem"
+      voc: "odstųpańje"
+    plural: 
+      nom: "odstųpańja"
+      acc: "odstųpańja"
+      gen: "odstųpanij"
+      loc: "odstųpańjah"
+      dat: "odstųpańjam"
+      ins: "odstųpańjami"
+      voc: "odstųpańja"

@@ -1,0 +1,23 @@
+---
+  id: "36551"
+  word: "maljaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "maljaŕ"
+      acc: "maljaŕa"
+      gen: "maljaŕa"
+      loc: "maljaŕu"
+      dat: "maljaŕu"
+      ins: "maljaŕem"
+      voc: "maljaŕu"
+    plural: 
+      nom: "maljari"
+      acc: "maljaŕev"
+      gen: "maljaŕev"
+      loc: "maljaŕah"
+      dat: "maljaŕam"
+      ins: "maljaŕami"
+      voc: "maljari"

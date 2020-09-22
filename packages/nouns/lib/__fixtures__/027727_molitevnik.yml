@@ -1,0 +1,22 @@
+---
+  id: "27727"
+  word: "molitevnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "molitevnik"
+      acc: "molitevnik"
+      gen: "molitevnika"
+      loc: "molitevniku"
+      dat: "molitevniku"
+      ins: "molitevnikom"
+      voc: "molitevniče"
+    plural: 
+      nom: "molitevniky"
+      acc: "molitevniky"
+      gen: "molitevnikov"
+      loc: "molitevnikah"
+      dat: "molitevnikam"
+      ins: "molitevnikami"
+      voc: "molitevniky"

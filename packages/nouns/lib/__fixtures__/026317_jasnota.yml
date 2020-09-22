@@ -1,0 +1,22 @@
+---
+  id: "26317"
+  word: "jasnota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jasnota"
+      acc: "jasnotų"
+      gen: "jasnoty"
+      loc: "jasnotě"
+      dat: "jasnotě"
+      ins: "jasnotojų"
+      voc: "jasnoto"
+    plural: 
+      nom: "jasnoty"
+      acc: "jasnoty"
+      gen: "jasnot"
+      loc: "jasnotah"
+      dat: "jasnotam"
+      ins: "jasnotami"
+      voc: "jasnoty"

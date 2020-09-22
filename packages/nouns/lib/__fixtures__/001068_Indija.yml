@@ -1,0 +1,15 @@
+---
+  id: "1068"
+  word: "Indija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Indija"
+      acc: "Indijų"
+      gen: "Indije"
+      loc: "Indiji"
+      dat: "Indiji"
+      ins: "Indijejų"
+      voc: "Indijo"

@@ -1,0 +1,23 @@
+---
+  id: "3883"
+  word: "skarbnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skarbnik"
+      acc: "skarbnika"
+      gen: "skarbnika"
+      loc: "skarbniku"
+      dat: "skarbniku"
+      ins: "skarbnikom"
+      voc: "skarbniče"
+    plural: 
+      nom: "skarbniki"
+      acc: "skarbnikov"
+      gen: "skarbnikov"
+      loc: "skarbnikah"
+      dat: "skarbnikam"
+      ins: "skarbnikami"
+      voc: "skarbniki"

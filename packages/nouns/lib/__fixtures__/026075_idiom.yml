@@ -1,0 +1,22 @@
+---
+  id: "26075"
+  word: "idiom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "idiom"
+      acc: "idiom"
+      gen: "idioma"
+      loc: "idiomu"
+      dat: "idiomu"
+      ins: "idiomom"
+      voc: "idiome"
+    plural: 
+      nom: "idiomy"
+      acc: "idiomy"
+      gen: "idiomov"
+      loc: "idiomah"
+      dat: "idiomam"
+      ins: "idiomami"
+      voc: "idiomy"

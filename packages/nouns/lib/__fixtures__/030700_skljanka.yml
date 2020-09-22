@@ -1,0 +1,22 @@
+---
+  id: "30700"
+  word: "skljanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skljanka"
+      acc: "skljankų"
+      gen: "skljanky"
+      loc: "skljankě"
+      dat: "skljankě"
+      ins: "skljankojų"
+      voc: "skljanko"
+    plural: 
+      nom: "skljanky"
+      acc: "skljanky"
+      gen: "skljanȯk"
+      loc: "skljankah"
+      dat: "skljankam"
+      ins: "skljankami"
+      voc: "skljanky"

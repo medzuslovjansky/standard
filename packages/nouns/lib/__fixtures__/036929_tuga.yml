@@ -1,0 +1,22 @@
+---
+  id: "36929"
+  word: "tųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tųga"
+      acc: "tųgų"
+      gen: "tųgy"
+      loc: "tųgě"
+      dat: "tųgě"
+      ins: "tųgojų"
+      voc: "tųgo"
+    plural: 
+      nom: "tųgy"
+      acc: "tųgy"
+      gen: "tųg"
+      loc: "tųgah"
+      dat: "tųgam"
+      ins: "tųgami"
+      voc: "tųgy"

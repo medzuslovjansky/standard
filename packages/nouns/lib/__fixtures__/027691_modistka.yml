@@ -1,0 +1,22 @@
+---
+  id: "27691"
+  word: "modistka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "modistka"
+      acc: "modistkų"
+      gen: "modistky"
+      loc: "modistkě"
+      dat: "modistkě"
+      ins: "modistkojų"
+      voc: "modistko"
+    plural: 
+      nom: "modistky"
+      acc: "modistky"
+      gen: "modistȯk"
+      loc: "modistkah"
+      dat: "modistkam"
+      ins: "modistkami"
+      voc: "modistky"

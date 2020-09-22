@@ -1,0 +1,15 @@
+---
+  id: "35833"
+  word: "Bizantija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bizantija"
+      acc: "Bizantijų"
+      gen: "Bizantije"
+      loc: "Bizantiji"
+      dat: "Bizantiji"
+      ins: "Bizantijejų"
+      voc: "Bizantijo"

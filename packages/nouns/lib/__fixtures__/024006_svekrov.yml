@@ -1,0 +1,22 @@
+---
+  id: "24006"
+  word: "svekrȯv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svekrȯv"
+      acc: "svekrȯv"
+      gen: "svekrve / svekrvi"
+      loc: "svekrvi"
+      dat: "svekrvi"
+      ins: "svekrȯvjų"
+      voc: "svekrȯv"
+    plural: 
+      nom: "svekrvi"
+      acc: "svekrvi"
+      gen: "svekrvij"
+      loc: "svekrvah"
+      dat: "svekrvam"
+      ins: "svekrvami"
+      voc: "svekrvi"

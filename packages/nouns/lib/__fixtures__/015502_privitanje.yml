@@ -1,0 +1,22 @@
+---
+  id: "15502"
+  word: "privitańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "privitańje"
+      acc: "privitańje"
+      gen: "privitańja"
+      loc: "privitańju"
+      dat: "privitańju"
+      ins: "privitańjem"
+      voc: "privitańje"
+    plural: 
+      nom: "privitańja"
+      acc: "privitańja"
+      gen: "privitanij"
+      loc: "privitańjah"
+      dat: "privitańjam"
+      ins: "privitańjami"
+      voc: "privitańja"

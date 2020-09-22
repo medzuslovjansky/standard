@@ -1,0 +1,22 @@
+---
+  id: "214"
+  word: "brend"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brend"
+      acc: "brend"
+      gen: "brenda"
+      loc: "brendu"
+      dat: "brendu"
+      ins: "brendom"
+      voc: "brende"
+    plural: 
+      nom: "brendy"
+      acc: "brendy"
+      gen: "brendov"
+      loc: "brendah"
+      dat: "brendam"
+      ins: "brendami"
+      voc: "brendy"

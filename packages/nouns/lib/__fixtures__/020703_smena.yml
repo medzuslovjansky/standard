@@ -1,0 +1,22 @@
+---
+  id: "20703"
+  word: "směna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "směna"
+      acc: "směnų"
+      gen: "směny"
+      loc: "směně"
+      dat: "směně"
+      ins: "směnojų"
+      voc: "směno"
+    plural: 
+      nom: "směny"
+      acc: "směny"
+      gen: "směn"
+      loc: "směnah"
+      dat: "směnam"
+      ins: "směnami"
+      voc: "směny"

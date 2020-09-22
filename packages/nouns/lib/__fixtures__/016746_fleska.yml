@@ -1,0 +1,22 @@
+---
+  id: "16746"
+  word: "fleška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fleška"
+      acc: "fleškų"
+      gen: "flešky"
+      loc: "fleškě"
+      dat: "fleškě"
+      ins: "fleškojų"
+      voc: "fleško"
+    plural: 
+      nom: "flešky"
+      acc: "flešky"
+      gen: "flešek"
+      loc: "fleškah"
+      dat: "fleškam"
+      ins: "fleškami"
+      voc: "flešky"

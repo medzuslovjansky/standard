@@ -1,0 +1,22 @@
+---
+  id: "30889"
+  word: "tiranija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tiranija"
+      acc: "tiranijų"
+      gen: "tiranije"
+      loc: "tiraniji"
+      dat: "tiraniji"
+      ins: "tiranijejų"
+      voc: "tiranijo"
+    plural: 
+      nom: "tiranije"
+      acc: "tiranije"
+      gen: "tiranij"
+      loc: "tiranijah"
+      dat: "tiranijam"
+      ins: "tiranijami"
+      voc: "tiranije"

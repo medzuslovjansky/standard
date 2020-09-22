@@ -1,0 +1,23 @@
+---
+  id: "28469"
+  word: "neposěda"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neposěda"
+      acc: "neposědų"
+      gen: "neposědy"
+      loc: "neposědě"
+      dat: "neposědě"
+      ins: "neposědojų"
+      voc: "neposědo"
+    plural: 
+      nom: "neposědi"
+      acc: "neposědov"
+      gen: "neposědov"
+      loc: "neposědah"
+      dat: "neposědam"
+      ins: "neposědami"
+      voc: "neposědi"

@@ -1,0 +1,22 @@
+---
+  id: "25445"
+  word: "dvojka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvojka"
+      acc: "dvojkų"
+      gen: "dvojky"
+      loc: "dvojkě"
+      dat: "dvojkě"
+      ins: "dvojkojų"
+      voc: "dvojko"
+    plural: 
+      nom: "dvojky"
+      acc: "dvojky"
+      gen: "dvojek"
+      loc: "dvojkah"
+      dat: "dvojkam"
+      ins: "dvojkami"
+      voc: "dvojky"

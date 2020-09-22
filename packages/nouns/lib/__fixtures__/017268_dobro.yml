@@ -1,0 +1,22 @@
+---
+  id: "17268"
+  word: "dobro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dobro"
+      acc: "dobro"
+      gen: "dobra"
+      loc: "dobru"
+      dat: "dobru"
+      ins: "dobrom"
+      voc: "dobro"
+    plural: 
+      nom: "dobra"
+      acc: "dobra"
+      gen: "dobr"
+      loc: "dobrah"
+      dat: "dobram"
+      ins: "dobrami"
+      voc: "dobra"

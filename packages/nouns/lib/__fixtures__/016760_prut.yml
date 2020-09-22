@@ -1,0 +1,22 @@
+---
+  id: "16760"
+  word: "prųt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prųt"
+      acc: "prųt"
+      gen: "prųta"
+      loc: "prųtu"
+      dat: "prųtu"
+      ins: "prųtom"
+      voc: "prųte"
+    plural: 
+      nom: "prųty"
+      acc: "prųty"
+      gen: "prųtov"
+      loc: "prųtah"
+      dat: "prųtam"
+      ins: "prųtami"
+      voc: "prųty"

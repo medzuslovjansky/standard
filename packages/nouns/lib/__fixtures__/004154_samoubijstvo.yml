@@ -1,0 +1,22 @@
+---
+  id: "4154"
+  word: "samoubijstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "samoubijstvo"
+      acc: "samoubijstvo"
+      gen: "samoubijstva"
+      loc: "samoubijstvu"
+      dat: "samoubijstvu"
+      ins: "samoubijstvom"
+      voc: "samoubijstvo"
+    plural: 
+      nom: "samoubijstva"
+      acc: "samoubijstva"
+      gen: "samoubijstv"
+      loc: "samoubijstvah"
+      dat: "samoubijstvam"
+      ins: "samoubijstvami"
+      voc: "samoubijstva"

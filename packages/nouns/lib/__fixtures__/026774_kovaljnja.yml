@@ -1,0 +1,22 @@
+---
+  id: "26774"
+  word: "kovaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kovaljnja"
+      acc: "kovaljnjų"
+      gen: "kovaljnje"
+      loc: "kovaljnji"
+      dat: "kovaljnji"
+      ins: "kovaljnjejų"
+      voc: "kovaljnjo"
+    plural: 
+      nom: "kovaljnje"
+      acc: "kovaljnje"
+      gen: "kovaljnej"
+      loc: "kovaljnjah"
+      dat: "kovaljnjam"
+      ins: "kovaljnjami"
+      voc: "kovaljnje"

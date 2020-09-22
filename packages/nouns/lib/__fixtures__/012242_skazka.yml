@@ -1,0 +1,22 @@
+---
+  id: "12242"
+  word: "skazka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skazka"
+      acc: "skazkų"
+      gen: "skazky"
+      loc: "skazkě"
+      dat: "skazkě"
+      ins: "skazkojų"
+      voc: "skazko"
+    plural: 
+      nom: "skazky"
+      acc: "skazky"
+      gen: "skazȯk"
+      loc: "skazkah"
+      dat: "skazkam"
+      ins: "skazkami"
+      voc: "skazky"

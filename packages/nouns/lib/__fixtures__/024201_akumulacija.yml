@@ -1,0 +1,22 @@
+---
+  id: "24201"
+  word: "akumulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akumulacija"
+      acc: "akumulacijų"
+      gen: "akumulacije"
+      loc: "akumulaciji"
+      dat: "akumulaciji"
+      ins: "akumulacijejų"
+      voc: "akumulacijo"
+    plural: 
+      nom: "akumulacije"
+      acc: "akumulacije"
+      gen: "akumulacij"
+      loc: "akumulacijah"
+      dat: "akumulacijam"
+      ins: "akumulacijami"
+      voc: "akumulacije"

@@ -1,0 +1,23 @@
+---
+  id: "28666"
+  word: "novak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "novak"
+      acc: "novaka"
+      gen: "novaka"
+      loc: "novaku"
+      dat: "novaku"
+      ins: "novakom"
+      voc: "novače"
+    plural: 
+      nom: "novaki"
+      acc: "novakov"
+      gen: "novakov"
+      loc: "novakah"
+      dat: "novakam"
+      ins: "novakami"
+      voc: "novaki"

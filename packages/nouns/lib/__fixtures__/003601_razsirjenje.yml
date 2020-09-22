@@ -1,0 +1,22 @@
+---
+  id: "3601"
+  word: "råzširjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzširjeńje"
+      acc: "råzširjeńje"
+      gen: "råzširjeńja"
+      loc: "råzširjeńju"
+      dat: "råzširjeńju"
+      ins: "råzširjeńjem"
+      voc: "råzširjeńje"
+    plural: 
+      nom: "råzširjeńja"
+      acc: "råzširjeńja"
+      gen: "råzširjenij"
+      loc: "råzširjeńjah"
+      dat: "råzširjeńjam"
+      ins: "råzširjeńjami"
+      voc: "råzširjeńja"

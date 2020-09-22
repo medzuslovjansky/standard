@@ -1,0 +1,22 @@
+---
+  id: "19155"
+  word: "vȯzråstka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯzråstka"
+      acc: "vȯzråstkų"
+      gen: "vȯzråstky"
+      loc: "vȯzråstkě"
+      dat: "vȯzråstkě"
+      ins: "vȯzråstkojų"
+      voc: "vȯzråstko"
+    plural: 
+      nom: "vȯzråstky"
+      acc: "vȯzråstky"
+      gen: "vȯzråstȯk"
+      loc: "vȯzråstkah"
+      dat: "vȯzråstkam"
+      ins: "vȯzråstkami"
+      voc: "vȯzråstky"

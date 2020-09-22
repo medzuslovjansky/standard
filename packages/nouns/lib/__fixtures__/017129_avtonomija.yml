@@ -1,0 +1,15 @@
+---
+  id: "17129"
+  word: "avtonomija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "avtonomija"
+      acc: "avtonomijų"
+      gen: "avtonomije"
+      loc: "avtonomiji"
+      dat: "avtonomiji"
+      ins: "avtonomijejų"
+      voc: "avtonomijo"

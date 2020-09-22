@@ -1,0 +1,22 @@
+---
+  id: "19848"
+  word: "met"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "met"
+      acc: "met"
+      gen: "meta"
+      loc: "metu"
+      dat: "metu"
+      ins: "metom"
+      voc: "mete"
+    plural: 
+      nom: "mety"
+      acc: "mety"
+      gen: "metov"
+      loc: "metah"
+      dat: "metam"
+      ins: "metami"
+      voc: "mety"

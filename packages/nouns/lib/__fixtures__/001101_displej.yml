@@ -1,0 +1,22 @@
+---
+  id: "1101"
+  word: "displej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "displej"
+      acc: "displej"
+      gen: "displeja"
+      loc: "displeju"
+      dat: "displeju"
+      ins: "displejem"
+      voc: "displeju"
+    plural: 
+      nom: "displeje"
+      acc: "displeje"
+      gen: "displejev"
+      loc: "displejah"
+      dat: "displejam"
+      ins: "displejami"
+      voc: "displeje"

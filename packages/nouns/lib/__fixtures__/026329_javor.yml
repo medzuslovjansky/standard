@@ -1,0 +1,22 @@
+---
+  id: "26329"
+  word: "javor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "javor"
+      acc: "javor"
+      gen: "javora"
+      loc: "javoru"
+      dat: "javoru"
+      ins: "javorom"
+      voc: "javore"
+    plural: 
+      nom: "javory"
+      acc: "javory"
+      gen: "javorov"
+      loc: "javorah"
+      dat: "javoram"
+      ins: "javorami"
+      voc: "javory"

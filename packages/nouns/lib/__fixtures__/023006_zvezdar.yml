@@ -1,0 +1,23 @@
+---
+  id: "23006"
+  word: "zvězdaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zvězdaŕ"
+      acc: "zvězdaŕa"
+      gen: "zvězdaŕa"
+      loc: "zvězdaŕu"
+      dat: "zvězdaŕu"
+      ins: "zvězdaŕem"
+      voc: "zvězdaŕu"
+    plural: 
+      nom: "zvězdari"
+      acc: "zvězdaŕev"
+      gen: "zvězdaŕev"
+      loc: "zvězdaŕah"
+      dat: "zvězdaŕam"
+      ins: "zvězdaŕami"
+      voc: "zvězdari"

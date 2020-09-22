@@ -1,0 +1,22 @@
+---
+  id: "3232"
+  word: "polovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polovina"
+      acc: "polovinų"
+      gen: "poloviny"
+      loc: "polovině"
+      dat: "polovině"
+      ins: "polovinojų"
+      voc: "polovino"
+    plural: 
+      nom: "poloviny"
+      acc: "poloviny"
+      gen: "polovin"
+      loc: "polovinah"
+      dat: "polovinam"
+      ins: "polovinami"
+      voc: "poloviny"

@@ -1,0 +1,23 @@
+---
+  id: "14928"
+  word: "prědsědnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědsědnik"
+      acc: "prědsědnika"
+      gen: "prědsědnika"
+      loc: "prědsědniku"
+      dat: "prědsědniku"
+      ins: "prědsědnikom"
+      voc: "prědsědniče"
+    plural: 
+      nom: "prědsědniki"
+      acc: "prědsědnikov"
+      gen: "prědsědnikov"
+      loc: "prědsědnikah"
+      dat: "prědsědnikam"
+      ins: "prědsědnikami"
+      voc: "prědsědniki"

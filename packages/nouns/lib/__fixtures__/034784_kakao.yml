@@ -1,0 +1,23 @@
+---
+  id: "34784"
+  word: "kakao"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "kakao"
+      acc: "kakao"
+      gen: "kakao"
+      loc: "kakao"
+      dat: "kakao"
+      ins: "kakao"
+      voc: "kakao"
+    plural: 
+      nom: "kakao"
+      acc: "kakao"
+      gen: "kakao"
+      loc: "kakao"
+      dat: "kakao"
+      ins: "kakao"
+      voc: "kakao"

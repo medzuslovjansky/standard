@@ -1,0 +1,23 @@
+---
+  id: "35680"
+  word: "patriarh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "patriarh"
+      acc: "patriarha"
+      gen: "patriarha"
+      loc: "patriarhu"
+      dat: "patriarhu"
+      ins: "patriarhom"
+      voc: "patriarše"
+    plural: 
+      nom: "patriarhi"
+      acc: "patriarhov"
+      gen: "patriarhov"
+      loc: "patriarhah"
+      dat: "patriarham"
+      ins: "patriarhami"
+      voc: "patriarhi"

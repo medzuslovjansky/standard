@@ -1,0 +1,15 @@
+---
+  id: "35280"
+  word: "demografija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "demografija"
+      acc: "demografijų"
+      gen: "demografije"
+      loc: "demografiji"
+      dat: "demografiji"
+      ins: "demografijejų"
+      voc: "demografijo"

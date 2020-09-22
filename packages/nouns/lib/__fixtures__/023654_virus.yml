@@ -1,0 +1,22 @@
+---
+  id: "23654"
+  word: "virus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "virus"
+      acc: "virus"
+      gen: "virusa"
+      loc: "virusu"
+      dat: "virusu"
+      ins: "virusom"
+      voc: "viruse"
+    plural: 
+      nom: "virusy"
+      acc: "virusy"
+      gen: "virusov"
+      loc: "virusah"
+      dat: "virusam"
+      ins: "virusami"
+      voc: "virusy"

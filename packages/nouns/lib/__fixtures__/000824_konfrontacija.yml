@@ -1,0 +1,22 @@
+---
+  id: "824"
+  word: "konfrontacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konfrontacija"
+      acc: "konfrontacijų"
+      gen: "konfrontacije"
+      loc: "konfrontaciji"
+      dat: "konfrontaciji"
+      ins: "konfrontacijejų"
+      voc: "konfrontacijo"
+    plural: 
+      nom: "konfrontacije"
+      acc: "konfrontacije"
+      gen: "konfrontacij"
+      loc: "konfrontacijah"
+      dat: "konfrontacijam"
+      ins: "konfrontacijami"
+      voc: "konfrontacije"

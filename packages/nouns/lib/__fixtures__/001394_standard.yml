@@ -1,0 +1,22 @@
+---
+  id: "1394"
+  word: "standard"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "standard"
+      acc: "standard"
+      gen: "standarda"
+      loc: "standardu"
+      dat: "standardu"
+      ins: "standardom"
+      voc: "standarde"
+    plural: 
+      nom: "standardy"
+      acc: "standardy"
+      gen: "standardov"
+      loc: "standardah"
+      dat: "standardam"
+      ins: "standardami"
+      voc: "standardy"

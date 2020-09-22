@@ -1,0 +1,22 @@
+---
+  id: "7782"
+  word: "hodnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hodnik"
+      acc: "hodnik"
+      gen: "hodnika"
+      loc: "hodniku"
+      dat: "hodniku"
+      ins: "hodnikom"
+      voc: "hodniče"
+    plural: 
+      nom: "hodniky"
+      acc: "hodniky"
+      gen: "hodnikov"
+      loc: "hodnikah"
+      dat: "hodnikam"
+      ins: "hodnikami"
+      voc: "hodniky"

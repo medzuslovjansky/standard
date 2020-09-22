@@ -1,0 +1,22 @@
+---
+  id: "5737"
+  word: "izmama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izmama"
+      acc: "izmamų"
+      gen: "izmamy"
+      loc: "izmamě"
+      dat: "izmamě"
+      ins: "izmamojų"
+      voc: "izmamo"
+    plural: 
+      nom: "izmamy"
+      acc: "izmamy"
+      gen: "izmam"
+      loc: "izmamah"
+      dat: "izmamam"
+      ins: "izmamami"
+      voc: "izmamy"

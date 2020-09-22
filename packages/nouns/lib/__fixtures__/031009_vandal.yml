@@ -1,0 +1,23 @@
+---
+  id: "31009"
+  word: "vandal"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vandal"
+      acc: "vandala"
+      gen: "vandala"
+      loc: "vandalu"
+      dat: "vandalu"
+      ins: "vandalom"
+      voc: "vandale"
+    plural: 
+      nom: "vandali"
+      acc: "vandalov"
+      gen: "vandalov"
+      loc: "vandalah"
+      dat: "vandalam"
+      ins: "vandalami"
+      voc: "vandali"

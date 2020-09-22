@@ -1,0 +1,22 @@
+---
+  id: "16414"
+  word: "děva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "děva"
+      acc: "děvų"
+      gen: "děvy"
+      loc: "děvě"
+      dat: "děvě"
+      ins: "děvojų"
+      voc: "děvo"
+    plural: 
+      nom: "děvy"
+      acc: "děvy"
+      gen: "děv"
+      loc: "děvah"
+      dat: "děvam"
+      ins: "děvami"
+      voc: "děvy"

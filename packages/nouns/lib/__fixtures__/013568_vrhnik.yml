@@ -1,0 +1,23 @@
+---
+  id: "13568"
+  word: "vŕhnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vŕhnik"
+      acc: "vŕhnika"
+      gen: "vŕhnika"
+      loc: "vŕhniku"
+      dat: "vŕhniku"
+      ins: "vŕhnikom"
+      voc: "vŕhniče"
+    plural: 
+      nom: "vŕhniki"
+      acc: "vŕhnikov"
+      gen: "vŕhnikov"
+      loc: "vŕhnikah"
+      dat: "vŕhnikam"
+      ins: "vŕhnikami"
+      voc: "vŕhniki"

@@ -1,0 +1,22 @@
+---
+  id: "23244"
+  word: "etap"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "etap"
+      acc: "etap"
+      gen: "etapa"
+      loc: "etapu"
+      dat: "etapu"
+      ins: "etapom"
+      voc: "etape"
+    plural: 
+      nom: "etapy"
+      acc: "etapy"
+      gen: "etapov"
+      loc: "etapah"
+      dat: "etapam"
+      ins: "etapami"
+      voc: "etapy"

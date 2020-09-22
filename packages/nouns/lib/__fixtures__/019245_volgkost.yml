@@ -1,0 +1,22 @@
+---
+  id: "19245"
+  word: "vȯlgkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vȯlgkosť"
+      acc: "vȯlgkosť"
+      gen: "vȯlgkosti"
+      loc: "vȯlgkosti"
+      dat: "vȯlgkosti"
+      ins: "vȯlgkosťjų"
+      voc: "vȯlgkosti"
+    plural: 
+      nom: "vȯlgkosti"
+      acc: "vȯlgkosti"
+      gen: "vȯlgkostij"
+      loc: "vȯlgkosťah"
+      dat: "vȯlgkosťam"
+      ins: "vȯlgkosťami"
+      voc: "vȯlgkosti"

@@ -1,0 +1,22 @@
+---
+  id: "25715"
+  word: "golota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "golota"
+      acc: "golotų"
+      gen: "goloty"
+      loc: "golotě"
+      dat: "golotě"
+      ins: "golotojų"
+      voc: "goloto"
+    plural: 
+      nom: "goloty"
+      acc: "goloty"
+      gen: "golot"
+      loc: "golotah"
+      dat: "golotam"
+      ins: "golotami"
+      voc: "goloty"

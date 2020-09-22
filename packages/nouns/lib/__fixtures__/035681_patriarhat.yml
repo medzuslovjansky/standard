@@ -1,0 +1,22 @@
+---
+  id: "35681"
+  word: "patriarhat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "patriarhat"
+      acc: "patriarhat"
+      gen: "patriarhata"
+      loc: "patriarhatu"
+      dat: "patriarhatu"
+      ins: "patriarhatom"
+      voc: "patriarhate"
+    plural: 
+      nom: "patriarhaty"
+      acc: "patriarhaty"
+      gen: "patriarhatov"
+      loc: "patriarhatah"
+      dat: "patriarhatam"
+      ins: "patriarhatami"
+      voc: "patriarhaty"

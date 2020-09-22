@@ -1,0 +1,23 @@
+---
+  id: "20378"
+  word: "Grek"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Grek"
+      acc: "Greka"
+      gen: "Greka"
+      loc: "Greku"
+      dat: "Greku"
+      ins: "Grekom"
+      voc: "Greče"
+    plural: 
+      nom: "Greki"
+      acc: "Grekov"
+      gen: "Grekov"
+      loc: "Grekah"
+      dat: "Grekam"
+      ins: "Grekami"
+      voc: "Greki"

@@ -1,0 +1,23 @@
+---
+  id: "35116"
+  word: "sųčasnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųčasnik"
+      acc: "sųčasnika"
+      gen: "sųčasnika"
+      loc: "sųčasniku"
+      dat: "sųčasniku"
+      ins: "sųčasnikom"
+      voc: "sųčasniče"
+    plural: 
+      nom: "sųčasniki"
+      acc: "sųčasnikov"
+      gen: "sųčasnikov"
+      loc: "sųčasnikah"
+      dat: "sųčasnikam"
+      ins: "sųčasnikami"
+      voc: "sųčasniki"

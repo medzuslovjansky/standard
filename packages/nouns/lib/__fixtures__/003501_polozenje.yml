@@ -1,0 +1,22 @@
+---
+  id: "3501"
+  word: "položeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "položeńje"
+      acc: "položeńje"
+      gen: "položeńja"
+      loc: "položeńju"
+      dat: "položeńju"
+      ins: "položeńjem"
+      voc: "položeńje"
+    plural: 
+      nom: "položeńja"
+      acc: "položeńja"
+      gen: "položenij"
+      loc: "položeńjah"
+      dat: "položeńjam"
+      ins: "položeńjami"
+      voc: "položeńja"

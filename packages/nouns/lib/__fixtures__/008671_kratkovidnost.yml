@@ -1,0 +1,22 @@
+---
+  id: "8671"
+  word: "kråtkovidnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråtkovidnosť"
+      acc: "kråtkovidnosť"
+      gen: "kråtkovidnosti"
+      loc: "kråtkovidnosti"
+      dat: "kråtkovidnosti"
+      ins: "kråtkovidnosťjų"
+      voc: "kråtkovidnosti"
+    plural: 
+      nom: "kråtkovidnosti"
+      acc: "kråtkovidnosti"
+      gen: "kråtkovidnostij"
+      loc: "kråtkovidnosťah"
+      dat: "kråtkovidnosťam"
+      ins: "kråtkovidnosťami"
+      voc: "kråtkovidnosti"

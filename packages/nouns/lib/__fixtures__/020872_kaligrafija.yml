@@ -1,0 +1,22 @@
+---
+  id: "20872"
+  word: "kaligrafija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaligrafija"
+      acc: "kaligrafijų"
+      gen: "kaligrafije"
+      loc: "kaligrafiji"
+      dat: "kaligrafiji"
+      ins: "kaligrafijejų"
+      voc: "kaligrafijo"
+    plural: 
+      nom: "kaligrafije"
+      acc: "kaligrafije"
+      gen: "kaligrafij"
+      loc: "kaligrafijah"
+      dat: "kaligrafijam"
+      ins: "kaligrafijami"
+      voc: "kaligrafije"

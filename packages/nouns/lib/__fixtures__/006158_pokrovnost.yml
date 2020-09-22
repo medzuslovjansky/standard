@@ -1,0 +1,22 @@
+---
+  id: "6158"
+  word: "pokrȯvnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pokrȯvnosť"
+      acc: "pokrȯvnosť"
+      gen: "pokrȯvnosti"
+      loc: "pokrȯvnosti"
+      dat: "pokrȯvnosti"
+      ins: "pokrȯvnosťjų"
+      voc: "pokrȯvnosti"
+    plural: 
+      nom: "pokrȯvnosti"
+      acc: "pokrȯvnosti"
+      gen: "pokrȯvnostij"
+      loc: "pokrȯvnosťah"
+      dat: "pokrȯvnosťam"
+      ins: "pokrȯvnosťami"
+      voc: "pokrȯvnosti"

@@ -1,0 +1,22 @@
+---
+  id: "36510"
+  word: "Zambija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Zambija"
+      acc: "Zambijų"
+      gen: "Zambije"
+      loc: "Zambiji"
+      dat: "Zambiji"
+      ins: "Zambijejų"
+      voc: "Zambijo"
+    plural: 
+      nom: "Zambije"
+      acc: "Zambije"
+      gen: "Zambij"
+      loc: "Zambijah"
+      dat: "Zambijam"
+      ins: "Zambijami"
+      voc: "Zambije"

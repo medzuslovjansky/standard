@@ -1,0 +1,22 @@
+---
+  id: "35650"
+  word: "gnězdko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gnězdko"
+      acc: "gnězdko"
+      gen: "gnězdka"
+      loc: "gnězdku"
+      dat: "gnězdku"
+      ins: "gnězdkom"
+      voc: "gnězdko"
+    plural: 
+      nom: "gnězdka"
+      acc: "gnězdka"
+      gen: "gnězdȯk"
+      loc: "gnězdkah"
+      dat: "gnězdkam"
+      ins: "gnězdkami"
+      voc: "gnězdka"

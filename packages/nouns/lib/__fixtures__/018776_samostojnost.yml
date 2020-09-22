@@ -1,0 +1,22 @@
+---
+  id: "18776"
+  word: "samostojnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samostojnosť"
+      acc: "samostojnosť"
+      gen: "samostojnosti"
+      loc: "samostojnosti"
+      dat: "samostojnosti"
+      ins: "samostojnosťjų"
+      voc: "samostojnosti"
+    plural: 
+      nom: "samostojnosti"
+      acc: "samostojnosti"
+      gen: "samostojnostij"
+      loc: "samostojnosťah"
+      dat: "samostojnosťam"
+      ins: "samostojnosťami"
+      voc: "samostojnosti"

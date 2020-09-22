@@ -1,0 +1,22 @@
+---
+  id: "30152"
+  word: "råzdor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzdor"
+      acc: "råzdor"
+      gen: "råzdora"
+      loc: "råzdoru"
+      dat: "råzdoru"
+      ins: "råzdorom"
+      voc: "råzdore"
+    plural: 
+      nom: "råzdory"
+      acc: "råzdory"
+      gen: "råzdorov"
+      loc: "råzdorah"
+      dat: "råzdoram"
+      ins: "råzdorami"
+      voc: "råzdory"

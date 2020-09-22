@@ -1,0 +1,22 @@
+---
+  id: "34513"
+  word: "zaostalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaostalosť"
+      acc: "zaostalosť"
+      gen: "zaostalosti"
+      loc: "zaostalosti"
+      dat: "zaostalosti"
+      ins: "zaostalosťjų"
+      voc: "zaostalosti"
+    plural: 
+      nom: "zaostalosti"
+      acc: "zaostalosti"
+      gen: "zaostalostij"
+      loc: "zaostalosťah"
+      dat: "zaostalosťam"
+      ins: "zaostalosťami"
+      voc: "zaostalosti"

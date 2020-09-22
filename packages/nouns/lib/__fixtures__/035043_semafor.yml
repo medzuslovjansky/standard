@@ -1,0 +1,22 @@
+---
+  id: "35043"
+  word: "semafor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "semafor"
+      acc: "semafor"
+      gen: "semafora"
+      loc: "semaforu"
+      dat: "semaforu"
+      ins: "semaforom"
+      voc: "semafore"
+    plural: 
+      nom: "semafory"
+      acc: "semafory"
+      gen: "semaforov"
+      loc: "semaforah"
+      dat: "semaforam"
+      ins: "semaforami"
+      voc: "semafory"

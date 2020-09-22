@@ -1,0 +1,15 @@
+---
+  id: "32248"
+  word: "Ljubljana"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Ljubljana"
+      acc: "Ljubljanų"
+      gen: "Ljubljany"
+      loc: "Ljubljaně"
+      dat: "Ljubljaně"
+      ins: "Ljubljanojų"
+      voc: "Ljubljano"

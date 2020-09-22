@@ -1,0 +1,22 @@
+---
+  id: "20353"
+  word: "bitva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bitva"
+      acc: "bitvų"
+      gen: "bitvy"
+      loc: "bitvě"
+      dat: "bitvě"
+      ins: "bitvojų"
+      voc: "bitvo"
+    plural: 
+      nom: "bitvy"
+      acc: "bitvy"
+      gen: "bitv"
+      loc: "bitvah"
+      dat: "bitvam"
+      ins: "bitvami"
+      voc: "bitvy"

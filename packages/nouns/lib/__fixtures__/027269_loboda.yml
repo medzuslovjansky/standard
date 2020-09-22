@@ -1,0 +1,22 @@
+---
+  id: "27269"
+  word: "loboda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "loboda"
+      acc: "lobodų"
+      gen: "lobody"
+      loc: "lobodě"
+      dat: "lobodě"
+      ins: "lobodojų"
+      voc: "lobodo"
+    plural: 
+      nom: "lobody"
+      acc: "lobody"
+      gen: "lobod"
+      loc: "lobodah"
+      dat: "lobodam"
+      ins: "lobodami"
+      voc: "lobody"

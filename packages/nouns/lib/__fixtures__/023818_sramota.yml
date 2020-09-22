@@ -1,0 +1,22 @@
+---
+  id: "23818"
+  word: "sråmota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sråmota"
+      acc: "sråmotų"
+      gen: "sråmoty"
+      loc: "sråmotě"
+      dat: "sråmotě"
+      ins: "sråmotojų"
+      voc: "sråmoto"
+    plural: 
+      nom: "sråmoty"
+      acc: "sråmoty"
+      gen: "sråmot"
+      loc: "sråmotah"
+      dat: "sråmotam"
+      ins: "sråmotami"
+      voc: "sråmoty"

@@ -1,0 +1,23 @@
+---
+  id: "3696"
+  word: "rųkovoditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rųkovoditelj"
+      acc: "rųkovoditelja"
+      gen: "rųkovoditelja"
+      loc: "rųkovoditelju"
+      dat: "rųkovoditelju"
+      ins: "rųkovoditeljem"
+      voc: "rųkovoditelju"
+    plural: 
+      nom: "rųkovoditelji"
+      acc: "rųkovoditeljev"
+      gen: "rųkovoditeljev"
+      loc: "rųkovoditeljah"
+      dat: "rųkovoditeljam"
+      ins: "rųkovoditeljami"
+      voc: "rųkovoditelji"

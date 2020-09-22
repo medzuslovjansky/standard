@@ -1,0 +1,23 @@
+---
+  id: "31007"
+  word: "vampir"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vampir"
+      acc: "vampira"
+      gen: "vampira"
+      loc: "vampiru"
+      dat: "vampiru"
+      ins: "vampirom"
+      voc: "vampire"
+    plural: 
+      nom: "vampiri"
+      acc: "vampirov"
+      gen: "vampirov"
+      loc: "vampirah"
+      dat: "vampiram"
+      ins: "vampirami"
+      voc: "vampiri"

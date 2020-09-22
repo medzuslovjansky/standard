@@ -1,0 +1,22 @@
+---
+  id: "3102"
+  word: "realizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "realizacija"
+      acc: "realizacijų"
+      gen: "realizacije"
+      loc: "realizaciji"
+      dat: "realizaciji"
+      ins: "realizacijejų"
+      voc: "realizacijo"
+    plural: 
+      nom: "realizacije"
+      acc: "realizacije"
+      gen: "realizacij"
+      loc: "realizacijah"
+      dat: "realizacijam"
+      ins: "realizacijami"
+      voc: "realizacije"

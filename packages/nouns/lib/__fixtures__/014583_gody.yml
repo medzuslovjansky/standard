@@ -1,0 +1,15 @@
+---
+  id: "14583"
+  word: "gody"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "gody"
+      acc: "gody"
+      gen: "godov"
+      loc: "godah"
+      dat: "godam"
+      ins: "godami"
+      voc: "gody"

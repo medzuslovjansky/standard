@@ -1,0 +1,23 @@
+---
+  id: "36261"
+  word: "kinooperator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kinooperator"
+      acc: "kinooperatora"
+      gen: "kinooperatora"
+      loc: "kinooperatoru"
+      dat: "kinooperatoru"
+      ins: "kinooperatorom"
+      voc: "kinooperatore"
+    plural: 
+      nom: "kinooperatori"
+      acc: "kinooperatorov"
+      gen: "kinooperatorov"
+      loc: "kinooperatorah"
+      dat: "kinooperatoram"
+      ins: "kinooperatorami"
+      voc: "kinooperatori"

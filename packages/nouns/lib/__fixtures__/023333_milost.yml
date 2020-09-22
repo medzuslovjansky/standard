@@ -1,0 +1,22 @@
+---
+  id: "23333"
+  word: "milosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "milosť"
+      acc: "milosť"
+      gen: "milosti"
+      loc: "milosti"
+      dat: "milosti"
+      ins: "milosťjų"
+      voc: "milosti"
+    plural: 
+      nom: "milosti"
+      acc: "milosti"
+      gen: "milostij"
+      loc: "milosťah"
+      dat: "milosťam"
+      ins: "milosťami"
+      voc: "milosti"

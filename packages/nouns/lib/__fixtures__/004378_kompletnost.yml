@@ -1,0 +1,22 @@
+---
+  id: "4378"
+  word: "kompletnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kompletnosť"
+      acc: "kompletnosť"
+      gen: "kompletnosti"
+      loc: "kompletnosti"
+      dat: "kompletnosti"
+      ins: "kompletnosťjų"
+      voc: "kompletnosti"
+    plural: 
+      nom: "kompletnosti"
+      acc: "kompletnosti"
+      gen: "kompletnostij"
+      loc: "kompletnosťah"
+      dat: "kompletnosťam"
+      ins: "kompletnosťami"
+      voc: "kompletnosti"

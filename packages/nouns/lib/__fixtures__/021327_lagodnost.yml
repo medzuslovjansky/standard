@@ -1,0 +1,22 @@
+---
+  id: "21327"
+  word: "lagodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lagodnosť"
+      acc: "lagodnosť"
+      gen: "lagodnosti"
+      loc: "lagodnosti"
+      dat: "lagodnosti"
+      ins: "lagodnosťjų"
+      voc: "lagodnosti"
+    plural: 
+      nom: "lagodnosti"
+      acc: "lagodnosti"
+      gen: "lagodnostij"
+      loc: "lagodnosťah"
+      dat: "lagodnosťam"
+      ins: "lagodnosťami"
+      voc: "lagodnosti"

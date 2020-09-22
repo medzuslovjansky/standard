@@ -1,0 +1,23 @@
+---
+  id: "15692"
+  word: "apelant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "apelant"
+      acc: "apelanta"
+      gen: "apelanta"
+      loc: "apelantu"
+      dat: "apelantu"
+      ins: "apelantom"
+      voc: "apelante"
+    plural: 
+      nom: "apelanti"
+      acc: "apelantov"
+      gen: "apelantov"
+      loc: "apelantah"
+      dat: "apelantam"
+      ins: "apelantami"
+      voc: "apelanti"

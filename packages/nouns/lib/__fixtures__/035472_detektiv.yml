@@ -1,0 +1,23 @@
+---
+  id: "35472"
+  word: "detektiv"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "detektiv"
+      acc: "detektiva"
+      gen: "detektiva"
+      loc: "detektivu"
+      dat: "detektivu"
+      ins: "detektivom"
+      voc: "detektive"
+    plural: 
+      nom: "detektivi"
+      acc: "detektivov"
+      gen: "detektivov"
+      loc: "detektivah"
+      dat: "detektivam"
+      ins: "detektivami"
+      voc: "detektivi"

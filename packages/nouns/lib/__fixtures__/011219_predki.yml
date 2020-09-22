@@ -1,0 +1,15 @@
+---
+  id: "11219"
+  word: "prědki"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "prědki"
+      acc: "prědki"
+      gen: "prědkov"
+      loc: "prědkah"
+      dat: "prědkam"
+      ins: "prědkami"
+      voc: "prědki"

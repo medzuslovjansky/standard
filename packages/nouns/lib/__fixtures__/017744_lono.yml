@@ -1,0 +1,22 @@
+---
+  id: "17744"
+  word: "lono"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lono"
+      acc: "lono"
+      gen: "lona"
+      loc: "lonu"
+      dat: "lonu"
+      ins: "lonom"
+      voc: "lono"
+    plural: 
+      nom: "lona"
+      acc: "lona"
+      gen: "lon"
+      loc: "lonah"
+      dat: "lonam"
+      ins: "lonami"
+      voc: "lona"

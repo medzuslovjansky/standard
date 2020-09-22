@@ -1,0 +1,22 @@
+---
+  id: "15040"
+  word: "stryjenka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stryjenka"
+      acc: "stryjenkų"
+      gen: "stryjenky"
+      loc: "stryjenkě"
+      dat: "stryjenkě"
+      ins: "stryjenkojų"
+      voc: "stryjenko"
+    plural: 
+      nom: "stryjenky"
+      acc: "stryjenky"
+      gen: "stryjenȯk"
+      loc: "stryjenkah"
+      dat: "stryjenkam"
+      ins: "stryjenkami"
+      voc: "stryjenky"

@@ -1,0 +1,15 @@
+---
+  id: "32766"
+  word: "badminton"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "badminton"
+      acc: "badminton"
+      gen: "badmintona"
+      loc: "badmintonu"
+      dat: "badmintonu"
+      ins: "badmintonom"
+      voc: "badmintone"

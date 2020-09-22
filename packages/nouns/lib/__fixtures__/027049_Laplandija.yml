@@ -1,0 +1,22 @@
+---
+  id: "27049"
+  word: "Laplandija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Laplandija"
+      acc: "Laplandijų"
+      gen: "Laplandije"
+      loc: "Laplandiji"
+      dat: "Laplandiji"
+      ins: "Laplandijejų"
+      voc: "Laplandijo"
+    plural: 
+      nom: "Laplandije"
+      acc: "Laplandije"
+      gen: "Laplandij"
+      loc: "Laplandijah"
+      dat: "Laplandijam"
+      ins: "Laplandijami"
+      voc: "Laplandije"

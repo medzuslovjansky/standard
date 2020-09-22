@@ -1,0 +1,22 @@
+---
+  id: "4897"
+  word: "medicina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medicina"
+      acc: "medicinų"
+      gen: "mediciny"
+      loc: "medicině"
+      dat: "medicině"
+      ins: "medicinojų"
+      voc: "medicino"
+    plural: 
+      nom: "mediciny"
+      acc: "mediciny"
+      gen: "medicin"
+      loc: "medicinah"
+      dat: "medicinam"
+      ins: "medicinami"
+      voc: "mediciny"

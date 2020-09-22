@@ -1,0 +1,22 @@
+---
+  id: "2563"
+  word: "kaša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaša"
+      acc: "kašų"
+      gen: "kaše"
+      loc: "kaši"
+      dat: "kaši"
+      ins: "kašejų"
+      voc: "kašo"
+    plural: 
+      nom: "kaše"
+      acc: "kaše"
+      gen: "kaš"
+      loc: "kašah"
+      dat: "kašam"
+      ins: "kašami"
+      voc: "kaše"

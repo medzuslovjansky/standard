@@ -1,0 +1,22 @@
+---
+  id: "20525"
+  word: "naložnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naložnica"
+      acc: "naložnicų"
+      gen: "naložnice"
+      loc: "naložnici"
+      dat: "naložnici"
+      ins: "naložnicejų"
+      voc: "naložnico"
+    plural: 
+      nom: "naložnice"
+      acc: "naložnice"
+      gen: "naložnic"
+      loc: "naložnicah"
+      dat: "naložnicam"
+      ins: "naložnicami"
+      voc: "naložnice"

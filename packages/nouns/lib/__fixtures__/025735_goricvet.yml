@@ -1,0 +1,22 @@
+---
+  id: "25735"
+  word: "goricvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "goricvět"
+      acc: "goricvět"
+      gen: "goricvěta"
+      loc: "goricvětu"
+      dat: "goricvětu"
+      ins: "goricvětom"
+      voc: "goricvěte"
+    plural: 
+      nom: "goricvěty"
+      acc: "goricvěty"
+      gen: "goricvětov"
+      loc: "goricvětah"
+      dat: "goricvětam"
+      ins: "goricvětami"
+      voc: "goricvěty"

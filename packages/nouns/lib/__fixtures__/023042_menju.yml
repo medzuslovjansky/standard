@@ -1,0 +1,23 @@
+---
+  id: "23042"
+  word: "menju"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "menju"
+      acc: "menju"
+      gen: "menju"
+      loc: "menju"
+      dat: "menju"
+      ins: "menju"
+      voc: "menju"
+    plural: 
+      nom: "menju"
+      acc: "menju"
+      gen: "menju"
+      loc: "menju"
+      dat: "menju"
+      ins: "menju"
+      voc: "menju"

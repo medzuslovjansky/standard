@@ -1,0 +1,22 @@
+---
+  id: "21733"
+  word: "nastavȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nastavȯk"
+      acc: "nastavȯk"
+      gen: "nastavka"
+      loc: "nastavku"
+      dat: "nastavku"
+      ins: "nastavkom"
+      voc: "nastavče"
+    plural: 
+      nom: "nastavky"
+      acc: "nastavky"
+      gen: "nastavkov"
+      loc: "nastavkah"
+      dat: "nastavkam"
+      ins: "nastavkami"
+      voc: "nastavky"

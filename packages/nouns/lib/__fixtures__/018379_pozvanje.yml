@@ -1,0 +1,22 @@
+---
+  id: "18379"
+  word: "pozvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pozvańje"
+      acc: "pozvańje"
+      gen: "pozvańja"
+      loc: "pozvańju"
+      dat: "pozvańju"
+      ins: "pozvańjem"
+      voc: "pozvańje"
+    plural: 
+      nom: "pozvańja"
+      acc: "pozvańja"
+      gen: "pozvanij"
+      loc: "pozvańjah"
+      dat: "pozvańjam"
+      ins: "pozvańjami"
+      voc: "pozvańja"

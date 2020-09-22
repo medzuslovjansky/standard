@@ -1,0 +1,22 @@
+---
+  id: "29977"
+  word: "preambula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "preambula"
+      acc: "preambulų"
+      gen: "preambuly"
+      loc: "preambulě"
+      dat: "preambulě"
+      ins: "preambulojų"
+      voc: "preambulo"
+    plural: 
+      nom: "preambuly"
+      acc: "preambuly"
+      gen: "preambul"
+      loc: "preambulah"
+      dat: "preambulam"
+      ins: "preambulami"
+      voc: "preambuly"

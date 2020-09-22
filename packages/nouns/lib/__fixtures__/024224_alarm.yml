@@ -1,0 +1,22 @@
+---
+  id: "24224"
+  word: "alarm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alarm"
+      acc: "alarm"
+      gen: "alarma"
+      loc: "alarmu"
+      dat: "alarmu"
+      ins: "alarmom"
+      voc: "alarme"
+    plural: 
+      nom: "alarmy"
+      acc: "alarmy"
+      gen: "alarmov"
+      loc: "alarmah"
+      dat: "alarmam"
+      ins: "alarmami"
+      voc: "alarmy"

@@ -1,0 +1,22 @@
+---
+  id: "6575"
+  word: "blågodarjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "blågodarjeńje"
+      acc: "blågodarjeńje"
+      gen: "blågodarjeńja"
+      loc: "blågodarjeńju"
+      dat: "blågodarjeńju"
+      ins: "blågodarjeńjem"
+      voc: "blågodarjeńje"
+    plural: 
+      nom: "blågodarjeńja"
+      acc: "blågodarjeńja"
+      gen: "blågodarjenij"
+      loc: "blågodarjeńjah"
+      dat: "blågodarjeńjam"
+      ins: "blågodarjeńjami"
+      voc: "blågodarjeńja"

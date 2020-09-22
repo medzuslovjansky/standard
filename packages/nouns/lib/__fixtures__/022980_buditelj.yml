@@ -1,0 +1,23 @@
+---
+  id: "22980"
+  word: "buditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "buditelj"
+      acc: "buditelja"
+      gen: "buditelja"
+      loc: "buditelju"
+      dat: "buditelju"
+      ins: "buditeljem"
+      voc: "buditelju"
+    plural: 
+      nom: "buditelji"
+      acc: "buditeljev"
+      gen: "buditeljev"
+      loc: "buditeljah"
+      dat: "buditeljam"
+      ins: "buditeljami"
+      voc: "buditelji"

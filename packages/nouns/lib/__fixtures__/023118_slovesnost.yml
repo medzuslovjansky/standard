@@ -1,0 +1,22 @@
+---
+  id: "23118"
+  word: "slovesnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slovesnosť"
+      acc: "slovesnosť"
+      gen: "slovesnosti"
+      loc: "slovesnosti"
+      dat: "slovesnosti"
+      ins: "slovesnosťjų"
+      voc: "slovesnosti"
+    plural: 
+      nom: "slovesnosti"
+      acc: "slovesnosti"
+      gen: "slovesnostij"
+      loc: "slovesnosťah"
+      dat: "slovesnosťam"
+      ins: "slovesnosťami"
+      voc: "slovesnosti"

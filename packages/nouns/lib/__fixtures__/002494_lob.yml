@@ -1,0 +1,23 @@
+---
+  id: "2494"
+  word: "lȯb"
+  meta: 
+    irregularity: "(lba)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "l(ȯ)b"
+      acc: "l(ȯ)b"
+      gen: "l(ȯ)ba"
+      loc: "l(ȯ)bu"
+      dat: "l(ȯ)bu"
+      ins: "l(ȯ)bom"
+      voc: "l(ȯ)be"
+    plural: 
+      nom: "l(ȯ)by"
+      acc: "l(ȯ)by"
+      gen: "l(ȯ)bov"
+      loc: "l(ȯ)bah"
+      dat: "l(ȯ)bam"
+      ins: "l(ȯ)bami"
+      voc: "l(ȯ)by"

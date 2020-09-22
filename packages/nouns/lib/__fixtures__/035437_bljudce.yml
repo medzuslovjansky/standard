@@ -1,0 +1,22 @@
+---
+  id: "35437"
+  word: "bljudce"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bljudce"
+      acc: "bljudce"
+      gen: "bljudca"
+      loc: "bljudcu"
+      dat: "bljudcu"
+      ins: "bljudcem"
+      voc: "bljudce"
+    plural: 
+      nom: "bljudca"
+      acc: "bljudca"
+      gen: "bljudc"
+      loc: "bljudcah"
+      dat: "bljudcam"
+      ins: "bljudcami"
+      voc: "bljudca"

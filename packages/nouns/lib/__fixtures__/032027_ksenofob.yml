@@ -1,0 +1,23 @@
+---
+  id: "32027"
+  word: "ksenofob"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ksenofob"
+      acc: "ksenofoba"
+      gen: "ksenofoba"
+      loc: "ksenofobu"
+      dat: "ksenofobu"
+      ins: "ksenofobom"
+      voc: "ksenofobe"
+    plural: 
+      nom: "ksenofobi"
+      acc: "ksenofobov"
+      gen: "ksenofobov"
+      loc: "ksenofobah"
+      dat: "ksenofobam"
+      ins: "ksenofobami"
+      voc: "ksenofobi"

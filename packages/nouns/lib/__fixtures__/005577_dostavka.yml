@@ -1,0 +1,22 @@
+---
+  id: "5577"
+  word: "dostavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dostavka"
+      acc: "dostavkų"
+      gen: "dostavky"
+      loc: "dostavkě"
+      dat: "dostavkě"
+      ins: "dostavkojų"
+      voc: "dostavko"
+    plural: 
+      nom: "dostavky"
+      acc: "dostavky"
+      gen: "dostavȯk"
+      loc: "dostavkah"
+      dat: "dostavkam"
+      ins: "dostavkami"
+      voc: "dostavky"

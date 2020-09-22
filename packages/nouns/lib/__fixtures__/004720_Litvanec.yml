@@ -1,0 +1,23 @@
+---
+  id: "4720"
+  word: "Litvanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Litvanec"
+      acc: "Litvanca"
+      gen: "Litvanca"
+      loc: "Litvancu"
+      dat: "Litvancu"
+      ins: "Litvancem"
+      voc: "Litvanče"
+    plural: 
+      nom: "Litvanci"
+      acc: "Litvancev"
+      gen: "Litvancev"
+      loc: "Litvancah"
+      dat: "Litvancam"
+      ins: "Litvancami"
+      voc: "Litvanci"

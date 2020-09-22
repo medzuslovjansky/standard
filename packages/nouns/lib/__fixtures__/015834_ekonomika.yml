@@ -1,0 +1,15 @@
+---
+  id: "15834"
+  word: "ekonomika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ekonomika"
+      acc: "ekonomikų"
+      gen: "ekonomiky"
+      loc: "ekonomikě"
+      dat: "ekonomikě"
+      ins: "ekonomikojų"
+      voc: "ekonomiko"

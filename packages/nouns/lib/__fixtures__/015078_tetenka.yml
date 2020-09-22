@@ -1,0 +1,22 @@
+---
+  id: "15078"
+  word: "tetenka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tetenka"
+      acc: "tetenkų"
+      gen: "tetenky"
+      loc: "tetenkě"
+      dat: "tetenkě"
+      ins: "tetenkojų"
+      voc: "tetenko"
+    plural: 
+      nom: "tetenky"
+      acc: "tetenky"
+      gen: "tetenȯk"
+      loc: "tetenkah"
+      dat: "tetenkam"
+      ins: "tetenkami"
+      voc: "tetenky"

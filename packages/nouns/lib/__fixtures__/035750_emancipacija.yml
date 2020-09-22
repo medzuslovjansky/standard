@@ -1,0 +1,15 @@
+---
+  id: "35750"
+  word: "emancipacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "emancipacija"
+      acc: "emancipacijų"
+      gen: "emancipacije"
+      loc: "emancipaciji"
+      dat: "emancipaciji"
+      ins: "emancipacijejų"
+      voc: "emancipacijo"

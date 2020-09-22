@@ -1,0 +1,22 @@
+---
+  id: "2826"
+  word: "palivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "palivo"
+      acc: "palivo"
+      gen: "paliva"
+      loc: "palivu"
+      dat: "palivu"
+      ins: "palivom"
+      voc: "palivo"
+    plural: 
+      nom: "paliva"
+      acc: "paliva"
+      gen: "paliv"
+      loc: "palivah"
+      dat: "palivam"
+      ins: "palivami"
+      voc: "paliva"

@@ -1,0 +1,15 @@
+---
+  id: "9750"
+  word: "nyrjańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nyrjańje"
+      acc: "nyrjańje"
+      gen: "nyrjańja"
+      loc: "nyrjańju"
+      dat: "nyrjańju"
+      ins: "nyrjańjem"
+      voc: "nyrjańje"

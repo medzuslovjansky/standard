@@ -1,0 +1,16 @@
+---
+  id: "3548"
+  word: "dane"
+  meta: 
+    irregularity: "(danyh)"
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "dane"
+      acc: "dane"
+      gen: "danyh"
+      loc: "danyh"
+      dat: "danym"
+      ins: "danymi"
+      voc: "dane"

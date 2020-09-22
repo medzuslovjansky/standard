@@ -1,0 +1,22 @@
+---
+  id: "2653"
+  word: "lemeš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lemeš"
+      acc: "lemeš"
+      gen: "lemeša"
+      loc: "lemešu"
+      dat: "lemešu"
+      ins: "lemešem"
+      voc: "lemešu"
+    plural: 
+      nom: "lemeše"
+      acc: "lemeše"
+      gen: "lemešev"
+      loc: "lemešah"
+      dat: "lemešam"
+      ins: "lemešami"
+      voc: "lemeše"

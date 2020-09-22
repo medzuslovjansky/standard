@@ -1,0 +1,22 @@
+---
+  id: "6272"
+  word: "kvestija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvestija"
+      acc: "kvestijų"
+      gen: "kvestije"
+      loc: "kvestiji"
+      dat: "kvestiji"
+      ins: "kvestijejų"
+      voc: "kvestijo"
+    plural: 
+      nom: "kvestije"
+      acc: "kvestije"
+      gen: "kvestij"
+      loc: "kvestijah"
+      dat: "kvestijam"
+      ins: "kvestijami"
+      voc: "kvestije"

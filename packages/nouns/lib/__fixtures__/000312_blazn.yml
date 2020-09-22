@@ -1,0 +1,23 @@
+---
+  id: "312"
+  word: "blazn"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "blazn"
+      acc: "blazna"
+      gen: "blazna"
+      loc: "blaznu"
+      dat: "blaznu"
+      ins: "blaznom"
+      voc: "blazne"
+    plural: 
+      nom: "blazni"
+      acc: "blaznov"
+      gen: "blaznov"
+      loc: "blaznah"
+      dat: "blaznam"
+      ins: "blaznami"
+      voc: "blazni"

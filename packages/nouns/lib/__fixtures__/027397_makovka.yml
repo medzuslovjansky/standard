@@ -1,0 +1,22 @@
+---
+  id: "27397"
+  word: "makovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "makovka"
+      acc: "makovkų"
+      gen: "makovky"
+      loc: "makovkě"
+      dat: "makovkě"
+      ins: "makovkojų"
+      voc: "makovko"
+    plural: 
+      nom: "makovky"
+      acc: "makovky"
+      gen: "makovȯk"
+      loc: "makovkah"
+      dat: "makovkam"
+      ins: "makovkami"
+      voc: "makovky"

@@ -1,0 +1,22 @@
+---
+  id: "24110"
+  word: "agentura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "agentura"
+      acc: "agenturų"
+      gen: "agentury"
+      loc: "agenturě"
+      dat: "agenturě"
+      ins: "agenturojų"
+      voc: "agenturo"
+    plural: 
+      nom: "agentury"
+      acc: "agentury"
+      gen: "agentur"
+      loc: "agenturah"
+      dat: "agenturam"
+      ins: "agenturami"
+      voc: "agentury"

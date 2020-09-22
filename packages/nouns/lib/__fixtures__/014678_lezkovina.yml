@@ -1,0 +1,22 @@
+---
+  id: "14678"
+  word: "ležkovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ležkovina"
+      acc: "ležkovinų"
+      gen: "ležkoviny"
+      loc: "ležkovině"
+      dat: "ležkovině"
+      ins: "ležkovinojų"
+      voc: "ležkovino"
+    plural: 
+      nom: "ležkoviny"
+      acc: "ležkoviny"
+      gen: "ležkovin"
+      loc: "ležkovinah"
+      dat: "ležkovinam"
+      ins: "ležkovinami"
+      voc: "ležkoviny"

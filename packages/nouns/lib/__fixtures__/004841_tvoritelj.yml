@@ -1,0 +1,23 @@
+---
+  id: "4841"
+  word: "tvoritelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tvoritelj"
+      acc: "tvoritelja"
+      gen: "tvoritelja"
+      loc: "tvoritelju"
+      dat: "tvoritelju"
+      ins: "tvoriteljem"
+      voc: "tvoritelju"
+    plural: 
+      nom: "tvoritelji"
+      acc: "tvoriteljev"
+      gen: "tvoriteljev"
+      loc: "tvoriteljah"
+      dat: "tvoriteljam"
+      ins: "tvoriteljami"
+      voc: "tvoritelji"

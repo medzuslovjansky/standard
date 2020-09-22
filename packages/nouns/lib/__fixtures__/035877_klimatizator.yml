@@ -1,0 +1,22 @@
+---
+  id: "35877"
+  word: "klimatizator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klimatizator"
+      acc: "klimatizator"
+      gen: "klimatizatora"
+      loc: "klimatizatoru"
+      dat: "klimatizatoru"
+      ins: "klimatizatorom"
+      voc: "klimatizatore"
+    plural: 
+      nom: "klimatizatory"
+      acc: "klimatizatory"
+      gen: "klimatizatorov"
+      loc: "klimatizatorah"
+      dat: "klimatizatoram"
+      ins: "klimatizatorami"
+      voc: "klimatizatory"

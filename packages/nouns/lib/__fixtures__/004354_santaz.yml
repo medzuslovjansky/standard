@@ -1,0 +1,15 @@
+---
+  id: "4354"
+  word: "šantaž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šantaž"
+      acc: "šantaž"
+      gen: "šantaža"
+      loc: "šantažu"
+      dat: "šantažu"
+      ins: "šantažem"
+      voc: "šantažu"

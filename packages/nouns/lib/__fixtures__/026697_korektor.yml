@@ -1,0 +1,23 @@
+---
+  id: "26697"
+  word: "korektor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "korektor"
+      acc: "korektora"
+      gen: "korektora"
+      loc: "korektoru"
+      dat: "korektoru"
+      ins: "korektorom"
+      voc: "korektore"
+    plural: 
+      nom: "korektori"
+      acc: "korektorov"
+      gen: "korektorov"
+      loc: "korektorah"
+      dat: "korektoram"
+      ins: "korektorami"
+      voc: "korektori"

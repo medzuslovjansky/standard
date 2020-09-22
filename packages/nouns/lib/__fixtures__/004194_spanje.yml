@@ -1,0 +1,15 @@
+---
+  id: "4194"
+  word: "spańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "spańje"
+      acc: "spańje"
+      gen: "spańja"
+      loc: "spańju"
+      dat: "spańju"
+      ins: "spańjem"
+      voc: "spańje"

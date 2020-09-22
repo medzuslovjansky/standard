@@ -1,0 +1,23 @@
+---
+  id: "29028"
+  word: "očistitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "očistitelj"
+      acc: "očistitelja"
+      gen: "očistitelja"
+      loc: "očistitelju"
+      dat: "očistitelju"
+      ins: "očistiteljem"
+      voc: "očistitelju"
+    plural: 
+      nom: "očistitelji"
+      acc: "očistiteljev"
+      gen: "očistiteljev"
+      loc: "očistiteljah"
+      dat: "očistiteljam"
+      ins: "očistiteljami"
+      voc: "očistitelji"

@@ -1,0 +1,15 @@
+---
+  id: "11992"
+  word: "råbotničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "råbotničstvo"
+      acc: "råbotničstvo"
+      gen: "råbotničstva"
+      loc: "råbotničstvu"
+      dat: "råbotničstvu"
+      ins: "råbotničstvom"
+      voc: "råbotničstvo"

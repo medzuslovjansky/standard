@@ -1,0 +1,22 @@
+---
+  id: "1811"
+  word: "besěda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "besěda"
+      acc: "besědų"
+      gen: "besědy"
+      loc: "besědě"
+      dat: "besědě"
+      ins: "besědojų"
+      voc: "besědo"
+    plural: 
+      nom: "besědy"
+      acc: "besědy"
+      gen: "besěd"
+      loc: "besědah"
+      dat: "besědam"
+      ins: "besědami"
+      voc: "besědy"

@@ -1,0 +1,15 @@
+---
+  id: "19501"
+  word: "liberalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "liberalizm"
+      acc: "liberalizm"
+      gen: "liberalizma"
+      loc: "liberalizmu"
+      dat: "liberalizmu"
+      ins: "liberalizmom"
+      voc: "liberalizme"

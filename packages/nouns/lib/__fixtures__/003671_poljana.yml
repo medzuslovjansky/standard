@@ -1,0 +1,22 @@
+---
+  id: "3671"
+  word: "poljana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poljana"
+      acc: "poljanų"
+      gen: "poljany"
+      loc: "poljaně"
+      dat: "poljaně"
+      ins: "poljanojų"
+      voc: "poljano"
+    plural: 
+      nom: "poljany"
+      acc: "poljany"
+      gen: "poljan"
+      loc: "poljanah"
+      dat: "poljanam"
+      ins: "poljanami"
+      voc: "poljany"

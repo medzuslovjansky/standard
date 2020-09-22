@@ -1,0 +1,22 @@
+---
+  id: "2481"
+  word: "nečistota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nečistota"
+      acc: "nečistotų"
+      gen: "nečistoty"
+      loc: "nečistotě"
+      dat: "nečistotě"
+      ins: "nečistotojų"
+      voc: "nečistoto"
+    plural: 
+      nom: "nečistoty"
+      acc: "nečistoty"
+      gen: "nečistot"
+      loc: "nečistotah"
+      dat: "nečistotam"
+      ins: "nečistotami"
+      voc: "nečistoty"

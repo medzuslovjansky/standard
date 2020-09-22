@@ -1,0 +1,22 @@
+---
+  id: "2197"
+  word: "referendum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "referendum"
+      acc: "referendum"
+      gen: "referenduma"
+      loc: "referendumu"
+      dat: "referendumu"
+      ins: "referendumom"
+      voc: "referendum"
+    plural: 
+      nom: "referenduma"
+      acc: "referenduma"
+      gen: "referendum"
+      loc: "referendumah"
+      dat: "referendumam"
+      ins: "referendumami"
+      voc: "referenduma"

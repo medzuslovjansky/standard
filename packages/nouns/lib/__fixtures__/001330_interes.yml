@@ -1,0 +1,22 @@
+---
+  id: "1330"
+  word: "interes"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "interes"
+      acc: "interes"
+      gen: "interesa"
+      loc: "interesu"
+      dat: "interesu"
+      ins: "interesom"
+      voc: "interese"
+    plural: 
+      nom: "interesy"
+      acc: "interesy"
+      gen: "interesov"
+      loc: "interesah"
+      dat: "interesam"
+      ins: "interesami"
+      voc: "interesy"

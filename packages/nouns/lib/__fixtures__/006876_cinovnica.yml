@@ -1,0 +1,22 @@
+---
+  id: "6876"
+  word: "činovnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "činovnica"
+      acc: "činovnicų"
+      gen: "činovnice"
+      loc: "činovnici"
+      dat: "činovnici"
+      ins: "činovnicejų"
+      voc: "činovnico"
+    plural: 
+      nom: "činovnice"
+      acc: "činovnice"
+      gen: "činovnic"
+      loc: "činovnicah"
+      dat: "činovnicam"
+      ins: "činovnicami"
+      voc: "činovnice"

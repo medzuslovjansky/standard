@@ -1,0 +1,22 @@
+---
+  id: "460"
+  word: "cigareta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cigareta"
+      acc: "cigaretų"
+      gen: "cigarety"
+      loc: "cigaretě"
+      dat: "cigaretě"
+      ins: "cigaretojų"
+      voc: "cigareto"
+    plural: 
+      nom: "cigarety"
+      acc: "cigarety"
+      gen: "cigaret"
+      loc: "cigaretah"
+      dat: "cigaretam"
+      ins: "cigaretami"
+      voc: "cigarety"

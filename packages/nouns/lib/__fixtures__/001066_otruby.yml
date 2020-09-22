@@ -1,0 +1,15 @@
+---
+  id: "1066"
+  word: "otrųby"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "otrųby"
+      acc: "otrųby"
+      gen: "otrųb"
+      loc: "otrųbah"
+      dat: "otrųbam"
+      ins: "otrųbami"
+      voc: "otrųby"

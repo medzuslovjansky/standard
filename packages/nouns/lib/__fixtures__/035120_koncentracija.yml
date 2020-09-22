@@ -1,0 +1,22 @@
+---
+  id: "35120"
+  word: "koncentracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koncentracija"
+      acc: "koncentracijų"
+      gen: "koncentracije"
+      loc: "koncentraciji"
+      dat: "koncentraciji"
+      ins: "koncentracijejų"
+      voc: "koncentracijo"
+    plural: 
+      nom: "koncentracije"
+      acc: "koncentracije"
+      gen: "koncentracij"
+      loc: "koncentracijah"
+      dat: "koncentracijam"
+      ins: "koncentracijami"
+      voc: "koncentracije"

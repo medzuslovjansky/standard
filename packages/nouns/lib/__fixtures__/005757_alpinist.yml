@@ -1,0 +1,23 @@
+---
+  id: "5757"
+  word: "alpinist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "alpinist"
+      acc: "alpinista"
+      gen: "alpinista"
+      loc: "alpinistu"
+      dat: "alpinistu"
+      ins: "alpinistom"
+      voc: "alpiniste"
+    plural: 
+      nom: "alpinisti"
+      acc: "alpinistov"
+      gen: "alpinistov"
+      loc: "alpinistah"
+      dat: "alpinistam"
+      ins: "alpinistami"
+      voc: "alpinisti"

@@ -1,0 +1,22 @@
+---
+  id: "36642"
+  word: "Češka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Češka"
+      acc: "Češkų"
+      gen: "Češky"
+      loc: "Češkě"
+      dat: "Češkě"
+      ins: "Češkojų"
+      voc: "Češko"
+    plural: 
+      nom: "Češky"
+      acc: "Češky"
+      gen: "Češek"
+      loc: "Češkah"
+      dat: "Češkam"
+      ins: "Češkami"
+      voc: "Češky"

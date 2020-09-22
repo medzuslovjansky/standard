@@ -1,0 +1,15 @@
+---
+  id: "32334"
+  word: "manevry"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "manevry"
+      acc: "manevry"
+      gen: "manevrov"
+      loc: "manevrah"
+      dat: "manevram"
+      ins: "manevrami"
+      voc: "manevry"

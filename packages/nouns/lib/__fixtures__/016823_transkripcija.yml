@@ -1,0 +1,22 @@
+---
+  id: "16823"
+  word: "transkripcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "transkripcija"
+      acc: "transkripcijų"
+      gen: "transkripcije"
+      loc: "transkripciji"
+      dat: "transkripciji"
+      ins: "transkripcijejų"
+      voc: "transkripcijo"
+    plural: 
+      nom: "transkripcije"
+      acc: "transkripcije"
+      gen: "transkripcij"
+      loc: "transkripcijah"
+      dat: "transkripcijam"
+      ins: "transkripcijami"
+      voc: "transkripcije"

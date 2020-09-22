@@ -1,0 +1,22 @@
+---
+  id: "4783"
+  word: "simfonija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "simfonija"
+      acc: "simfonijų"
+      gen: "simfonije"
+      loc: "simfoniji"
+      dat: "simfoniji"
+      ins: "simfonijejų"
+      voc: "simfonijo"
+    plural: 
+      nom: "simfonije"
+      acc: "simfonije"
+      gen: "simfonij"
+      loc: "simfonijah"
+      dat: "simfonijam"
+      ins: "simfonijami"
+      voc: "simfonije"

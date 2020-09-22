@@ -1,0 +1,15 @@
+---
+  id: "35062"
+  word: "Kavkaz"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kavkaz"
+      acc: "Kavkaz"
+      gen: "Kavkaza"
+      loc: "Kavkazu"
+      dat: "Kavkazu"
+      ins: "Kavkazom"
+      voc: "Kavkaze"

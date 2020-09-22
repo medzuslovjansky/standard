@@ -1,0 +1,22 @@
+---
+  id: "2047"
+  word: "studnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "studnja"
+      acc: "studnjų"
+      gen: "studnje"
+      loc: "studnji"
+      dat: "studnji"
+      ins: "studnjejų"
+      voc: "studnjo"
+    plural: 
+      nom: "studnje"
+      acc: "studnje"
+      gen: "studnej"
+      loc: "studnjah"
+      dat: "studnjam"
+      ins: "studnjami"
+      voc: "studnje"

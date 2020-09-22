@@ -1,0 +1,22 @@
+---
+  id: "33477"
+  word: "obscennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obscennosť"
+      acc: "obscennosť"
+      gen: "obscennosti"
+      loc: "obscennosti"
+      dat: "obscennosti"
+      ins: "obscennosťjų"
+      voc: "obscennosti"
+    plural: 
+      nom: "obscennosti"
+      acc: "obscennosti"
+      gen: "obscennostij"
+      loc: "obscennosťah"
+      dat: "obscennosťam"
+      ins: "obscennosťami"
+      voc: "obscennosti"

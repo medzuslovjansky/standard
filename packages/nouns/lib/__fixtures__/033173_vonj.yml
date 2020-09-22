@@ -1,0 +1,22 @@
+---
+  id: "33173"
+  word: "vonj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vonj"
+      acc: "vonj"
+      gen: "vonji"
+      loc: "vonji"
+      dat: "vonji"
+      ins: "vonjjų"
+      voc: "vonji"
+    plural: 
+      nom: "vonji"
+      acc: "vonji"
+      gen: "vonjij"
+      loc: "vonjah"
+      dat: "vonjam"
+      ins: "vonjami"
+      voc: "vonji"

@@ -1,0 +1,15 @@
+---
+  id: "16818"
+  word: "psihologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "psihologija"
+      acc: "psihologijų"
+      gen: "psihologije"
+      loc: "psihologiji"
+      dat: "psihologiji"
+      ins: "psihologijejų"
+      voc: "psihologijo"

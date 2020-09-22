@@ -1,0 +1,22 @@
+---
+  id: "22124"
+  word: "zatyčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zatyčka"
+      acc: "zatyčkų"
+      gen: "zatyčky"
+      loc: "zatyčkě"
+      dat: "zatyčkě"
+      ins: "zatyčkojų"
+      voc: "zatyčko"
+    plural: 
+      nom: "zatyčky"
+      acc: "zatyčky"
+      gen: "zatyček"
+      loc: "zatyčkah"
+      dat: "zatyčkam"
+      ins: "zatyčkami"
+      voc: "zatyčky"

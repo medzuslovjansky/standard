@@ -1,0 +1,23 @@
+---
+  id: "36451"
+  word: "medium"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medium"
+      acc: "medium"
+      gen: "mediuma"
+      loc: "mediumu"
+      dat: "mediumu"
+      ins: "mediumom"
+      voc: "medium"
+    plural: 
+      nom: "mediuma"
+      acc: "mediuma"
+      gen: "medium"
+      loc: "mediumah"
+      dat: "mediumam"
+      ins: "mediumami"
+      voc: "mediuma"

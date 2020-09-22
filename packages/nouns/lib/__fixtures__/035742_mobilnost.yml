@@ -1,0 +1,22 @@
+---
+  id: "35742"
+  word: "mobiľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mobiľnosť"
+      acc: "mobiľnosť"
+      gen: "mobiľnosti"
+      loc: "mobiľnosti"
+      dat: "mobiľnosti"
+      ins: "mobiľnosťjų"
+      voc: "mobiľnosti"
+    plural: 
+      nom: "mobiľnosti"
+      acc: "mobiľnosti"
+      gen: "mobiľnostij"
+      loc: "mobiľnosťah"
+      dat: "mobiľnosťam"
+      ins: "mobiľnosťami"
+      voc: "mobiľnosti"

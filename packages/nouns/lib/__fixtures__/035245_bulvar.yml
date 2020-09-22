@@ -1,0 +1,22 @@
+---
+  id: "35245"
+  word: "bulvar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bulvar"
+      acc: "bulvar"
+      gen: "bulvara"
+      loc: "bulvaru"
+      dat: "bulvaru"
+      ins: "bulvarom"
+      voc: "bulvare"
+    plural: 
+      nom: "bulvary"
+      acc: "bulvary"
+      gen: "bulvarov"
+      loc: "bulvarah"
+      dat: "bulvaram"
+      ins: "bulvarami"
+      voc: "bulvary"

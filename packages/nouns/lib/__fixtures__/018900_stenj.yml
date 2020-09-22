@@ -1,0 +1,22 @@
+---
+  id: "18900"
+  word: "stěnj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stěnj"
+      acc: "stěnj"
+      gen: "stěnja"
+      loc: "stěnju"
+      dat: "stěnju"
+      ins: "stěnjem"
+      voc: "stěnju"
+    plural: 
+      nom: "stěnje"
+      acc: "stěnje"
+      gen: "stěnjev"
+      loc: "stěnjah"
+      dat: "stěnjam"
+      ins: "stěnjami"
+      voc: "stěnje"

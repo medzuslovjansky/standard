@@ -1,0 +1,22 @@
+---
+  id: "24189"
+  word: "aktivistka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktivistka"
+      acc: "aktivistkų"
+      gen: "aktivistky"
+      loc: "aktivistkě"
+      dat: "aktivistkě"
+      ins: "aktivistkojų"
+      voc: "aktivistko"
+    plural: 
+      nom: "aktivistky"
+      acc: "aktivistky"
+      gen: "aktivistȯk"
+      loc: "aktivistkah"
+      dat: "aktivistkam"
+      ins: "aktivistkami"
+      voc: "aktivistky"

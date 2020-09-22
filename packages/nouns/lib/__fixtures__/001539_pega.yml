@@ -1,0 +1,22 @@
+---
+  id: "1539"
+  word: "pěga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pěga"
+      acc: "pěgų"
+      gen: "pěgy"
+      loc: "pěgě"
+      dat: "pěgě"
+      ins: "pěgojų"
+      voc: "pěgo"
+    plural: 
+      nom: "pěgy"
+      acc: "pěgy"
+      gen: "pěg"
+      loc: "pěgah"
+      dat: "pěgam"
+      ins: "pěgami"
+      voc: "pěgy"

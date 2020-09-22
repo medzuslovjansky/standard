@@ -1,0 +1,22 @@
+---
+  id: "31506"
+  word: "zaklinańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zaklinańje"
+      acc: "zaklinańje"
+      gen: "zaklinańja"
+      loc: "zaklinańju"
+      dat: "zaklinańju"
+      ins: "zaklinańjem"
+      voc: "zaklinańje"
+    plural: 
+      nom: "zaklinańja"
+      acc: "zaklinańja"
+      gen: "zaklinanij"
+      loc: "zaklinańjah"
+      dat: "zaklinańjam"
+      ins: "zaklinańjami"
+      voc: "zaklinańja"

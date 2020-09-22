@@ -1,0 +1,22 @@
+---
+  id: "20144"
+  word: "sklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sklad"
+      acc: "sklad"
+      gen: "sklada"
+      loc: "skladu"
+      dat: "skladu"
+      ins: "skladom"
+      voc: "sklade"
+    plural: 
+      nom: "sklady"
+      acc: "sklady"
+      gen: "skladov"
+      loc: "skladah"
+      dat: "skladam"
+      ins: "skladami"
+      voc: "sklady"

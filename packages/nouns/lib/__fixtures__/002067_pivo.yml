@@ -1,0 +1,22 @@
+---
+  id: "2067"
+  word: "pivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pivo"
+      acc: "pivo"
+      gen: "piva"
+      loc: "pivu"
+      dat: "pivu"
+      ins: "pivom"
+      voc: "pivo"
+    plural: 
+      nom: "piva"
+      acc: "piva"
+      gen: "piv"
+      loc: "pivah"
+      dat: "pivam"
+      ins: "pivami"
+      voc: "piva"

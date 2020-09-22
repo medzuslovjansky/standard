@@ -1,0 +1,22 @@
+---
+  id: "9669"
+  word: "neustrašnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neustrašnosť"
+      acc: "neustrašnosť"
+      gen: "neustrašnosti"
+      loc: "neustrašnosti"
+      dat: "neustrašnosti"
+      ins: "neustrašnosťjų"
+      voc: "neustrašnosti"
+    plural: 
+      nom: "neustrašnosti"
+      acc: "neustrašnosti"
+      gen: "neustrašnostij"
+      loc: "neustrašnosťah"
+      dat: "neustrašnosťam"
+      ins: "neustrašnosťami"
+      voc: "neustrašnosti"

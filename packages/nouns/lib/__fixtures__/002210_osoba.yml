@@ -1,0 +1,22 @@
+---
+  id: "2210"
+  word: "osoba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osoba"
+      acc: "osobų"
+      gen: "osoby"
+      loc: "osobě"
+      dat: "osobě"
+      ins: "osobojų"
+      voc: "osobo"
+    plural: 
+      nom: "osoby"
+      acc: "osoby"
+      gen: "osob"
+      loc: "osobah"
+      dat: "osobam"
+      ins: "osobami"
+      voc: "osoby"

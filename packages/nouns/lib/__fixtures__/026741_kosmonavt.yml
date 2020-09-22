@@ -1,0 +1,23 @@
+---
+  id: "26741"
+  word: "kosmonavt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kosmonavt"
+      acc: "kosmonavta"
+      gen: "kosmonavta"
+      loc: "kosmonavtu"
+      dat: "kosmonavtu"
+      ins: "kosmonavtom"
+      voc: "kosmonavte"
+    plural: 
+      nom: "kosmonavti"
+      acc: "kosmonavtov"
+      gen: "kosmonavtov"
+      loc: "kosmonavtah"
+      dat: "kosmonavtam"
+      ins: "kosmonavtami"
+      voc: "kosmonavti"

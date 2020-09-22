@@ -1,0 +1,23 @@
+---
+  id: "14542"
+  word: "drug"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drug"
+      acc: "druga"
+      gen: "druga"
+      loc: "drugu"
+      dat: "drugu"
+      ins: "drugom"
+      voc: "druže"
+    plural: 
+      nom: "drugi"
+      acc: "drugov"
+      gen: "drugov"
+      loc: "drugah"
+      dat: "drugam"
+      ins: "drugami"
+      voc: "drugi"

@@ -1,0 +1,22 @@
+---
+  id: "34866"
+  word: "monahynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "monahynja"
+      acc: "monahynjų"
+      gen: "monahynje"
+      loc: "monahynji"
+      dat: "monahynji"
+      ins: "monahynjejų"
+      voc: "monahynjo"
+    plural: 
+      nom: "monahynje"
+      acc: "monahynje"
+      gen: "monahynej"
+      loc: "monahynjah"
+      dat: "monahynjam"
+      ins: "monahynjami"
+      voc: "monahynje"

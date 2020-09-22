@@ -1,0 +1,22 @@
+---
+  id: "9269"
+  word: "mråzina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mråzina"
+      acc: "mråzinų"
+      gen: "mråziny"
+      loc: "mråzině"
+      dat: "mråzině"
+      ins: "mråzinojų"
+      voc: "mråzino"
+    plural: 
+      nom: "mråziny"
+      acc: "mråziny"
+      gen: "mråzin"
+      loc: "mråzinah"
+      dat: "mråzinam"
+      ins: "mråzinami"
+      voc: "mråziny"

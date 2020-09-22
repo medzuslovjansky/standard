@@ -1,0 +1,22 @@
+---
+  id: "31270"
+  word: "vodevilj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodevilj"
+      acc: "vodevilj"
+      gen: "vodevilja"
+      loc: "vodevilju"
+      dat: "vodevilju"
+      ins: "vodeviljem"
+      voc: "vodevilju"
+    plural: 
+      nom: "vodevilje"
+      acc: "vodevilje"
+      gen: "vodeviljev"
+      loc: "vodeviljah"
+      dat: "vodeviljam"
+      ins: "vodeviljami"
+      voc: "vodevilje"

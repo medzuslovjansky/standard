@@ -1,0 +1,22 @@
+---
+  id: "18907"
+  word: "stih"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stih"
+      acc: "stih"
+      gen: "stiha"
+      loc: "stihu"
+      dat: "stihu"
+      ins: "stihom"
+      voc: "stiše"
+    plural: 
+      nom: "stihy"
+      acc: "stihy"
+      gen: "stihov"
+      loc: "stihah"
+      dat: "stiham"
+      ins: "stihami"
+      voc: "stihy"

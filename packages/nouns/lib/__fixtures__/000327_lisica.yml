@@ -1,0 +1,22 @@
+---
+  id: "327"
+  word: "lisica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lisica"
+      acc: "lisicų"
+      gen: "lisice"
+      loc: "lisici"
+      dat: "lisici"
+      ins: "lisicejų"
+      voc: "lisico"
+    plural: 
+      nom: "lisice"
+      acc: "lisice"
+      gen: "lisic"
+      loc: "lisicah"
+      dat: "lisicam"
+      ins: "lisicami"
+      voc: "lisice"

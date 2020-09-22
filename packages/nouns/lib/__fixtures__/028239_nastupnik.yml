@@ -1,0 +1,23 @@
+---
+  id: "28239"
+  word: "nastųpnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nastųpnik"
+      acc: "nastųpnika"
+      gen: "nastųpnika"
+      loc: "nastųpniku"
+      dat: "nastųpniku"
+      ins: "nastųpnikom"
+      voc: "nastųpniče"
+    plural: 
+      nom: "nastųpniki"
+      acc: "nastųpnikov"
+      gen: "nastųpnikov"
+      loc: "nastųpnikah"
+      dat: "nastųpnikam"
+      ins: "nastųpnikami"
+      voc: "nastųpniki"

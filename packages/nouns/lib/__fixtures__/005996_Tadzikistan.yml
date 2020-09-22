@@ -1,0 +1,15 @@
+---
+  id: "5996"
+  word: "Tadžikistan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Tadžikistan"
+      acc: "Tadžikistan"
+      gen: "Tadžikistana"
+      loc: "Tadžikistanu"
+      dat: "Tadžikistanu"
+      ins: "Tadžikistanom"
+      voc: "Tadžikistane"

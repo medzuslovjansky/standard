@@ -1,0 +1,22 @@
+---
+  id: "812"
+  word: "konkurs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konkurs"
+      acc: "konkurs"
+      gen: "konkursa"
+      loc: "konkursu"
+      dat: "konkursu"
+      ins: "konkursom"
+      voc: "konkurse"
+    plural: 
+      nom: "konkursy"
+      acc: "konkursy"
+      gen: "konkursov"
+      loc: "konkursah"
+      dat: "konkursam"
+      ins: "konkursami"
+      voc: "konkursy"

@@ -1,0 +1,23 @@
+---
+  id: "36439"
+  word: "Aztek"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Aztek"
+      acc: "Azteka"
+      gen: "Azteka"
+      loc: "Azteku"
+      dat: "Azteku"
+      ins: "Aztekom"
+      voc: "Azteče"
+    plural: 
+      nom: "Azteki"
+      acc: "Aztekov"
+      gen: "Aztekov"
+      loc: "Aztekah"
+      dat: "Aztekam"
+      ins: "Aztekami"
+      voc: "Azteki"

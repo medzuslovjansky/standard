@@ -1,0 +1,22 @@
+---
+  id: "27366"
+  word: "lysina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lysina"
+      acc: "lysinų"
+      gen: "lysiny"
+      loc: "lysině"
+      dat: "lysině"
+      ins: "lysinojų"
+      voc: "lysino"
+    plural: 
+      nom: "lysiny"
+      acc: "lysiny"
+      gen: "lysin"
+      loc: "lysinah"
+      dat: "lysinam"
+      ins: "lysinami"
+      voc: "lysiny"

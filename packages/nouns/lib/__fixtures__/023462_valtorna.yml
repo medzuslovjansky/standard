@@ -1,0 +1,22 @@
+---
+  id: "23462"
+  word: "valtorna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "valtorna"
+      acc: "valtornų"
+      gen: "valtorny"
+      loc: "valtorně"
+      dat: "valtorně"
+      ins: "valtornojų"
+      voc: "valtorno"
+    plural: 
+      nom: "valtorny"
+      acc: "valtorny"
+      gen: "valtorn"
+      loc: "valtornah"
+      dat: "valtornam"
+      ins: "valtornami"
+      voc: "valtorny"

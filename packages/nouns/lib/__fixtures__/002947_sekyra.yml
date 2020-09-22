@@ -1,0 +1,22 @@
+---
+  id: "2947"
+  word: "sěkyra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sěkyra"
+      acc: "sěkyrų"
+      gen: "sěkyry"
+      loc: "sěkyrě"
+      dat: "sěkyrě"
+      ins: "sěkyrojų"
+      voc: "sěkyro"
+    plural: 
+      nom: "sěkyry"
+      acc: "sěkyry"
+      gen: "sěkyr"
+      loc: "sěkyrah"
+      dat: "sěkyram"
+      ins: "sěkyrami"
+      voc: "sěkyry"

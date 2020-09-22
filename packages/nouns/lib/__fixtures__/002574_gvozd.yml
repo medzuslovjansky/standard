@@ -1,0 +1,22 @@
+---
+  id: "2574"
+  word: "gvozď"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gvozď"
+      acc: "gvozď"
+      gen: "gvozďa"
+      loc: "gvozďu"
+      dat: "gvozďu"
+      ins: "gvozďem"
+      voc: "gvozďu"
+    plural: 
+      nom: "gvozďe"
+      acc: "gvozďe"
+      gen: "gvozďev"
+      loc: "gvozďah"
+      dat: "gvozďam"
+      ins: "gvozďami"
+      voc: "gvozďe"

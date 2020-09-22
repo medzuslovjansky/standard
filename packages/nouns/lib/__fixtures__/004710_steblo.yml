@@ -1,0 +1,22 @@
+---
+  id: "4710"
+  word: "steblo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "steblo"
+      acc: "steblo"
+      gen: "stebla"
+      loc: "steblu"
+      dat: "steblu"
+      ins: "steblom"
+      voc: "steblo"
+    plural: 
+      nom: "stebla"
+      acc: "stebla"
+      gen: "stebl"
+      loc: "steblah"
+      dat: "steblam"
+      ins: "steblami"
+      voc: "stebla"

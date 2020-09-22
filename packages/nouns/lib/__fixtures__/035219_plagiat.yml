@@ -1,0 +1,22 @@
+---
+  id: "35219"
+  word: "plagiat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plagiat"
+      acc: "plagiat"
+      gen: "plagiata"
+      loc: "plagiatu"
+      dat: "plagiatu"
+      ins: "plagiatom"
+      voc: "plagiate"
+    plural: 
+      nom: "plagiaty"
+      acc: "plagiaty"
+      gen: "plagiatov"
+      loc: "plagiatah"
+      dat: "plagiatam"
+      ins: "plagiatami"
+      voc: "plagiaty"

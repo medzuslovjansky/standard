@@ -1,0 +1,22 @@
+---
+  id: "46"
+  word: "protest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "protest"
+      acc: "protest"
+      gen: "protesta"
+      loc: "protestu"
+      dat: "protestu"
+      ins: "protestom"
+      voc: "proteste"
+    plural: 
+      nom: "protesty"
+      acc: "protesty"
+      gen: "protestov"
+      loc: "protestah"
+      dat: "protestam"
+      ins: "protestami"
+      voc: "protesty"

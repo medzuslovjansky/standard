@@ -1,0 +1,22 @@
+---
+  id: "4611"
+  word: "hråbrosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hråbrosť"
+      acc: "hråbrosť"
+      gen: "hråbrosti"
+      loc: "hråbrosti"
+      dat: "hråbrosti"
+      ins: "hråbrosťjų"
+      voc: "hråbrosti"
+    plural: 
+      nom: "hråbrosti"
+      acc: "hråbrosti"
+      gen: "hråbrostij"
+      loc: "hråbrosťah"
+      dat: "hråbrosťam"
+      ins: "hråbrosťami"
+      voc: "hråbrosti"

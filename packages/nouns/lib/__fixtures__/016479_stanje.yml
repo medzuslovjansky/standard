@@ -1,0 +1,22 @@
+---
+  id: "16479"
+  word: "stańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stańje"
+      acc: "stańje"
+      gen: "stańja"
+      loc: "stańju"
+      dat: "stańju"
+      ins: "stańjem"
+      voc: "stańje"
+    plural: 
+      nom: "stańja"
+      acc: "stańja"
+      gen: "stanij"
+      loc: "stańjah"
+      dat: "stańjam"
+      ins: "stańjami"
+      voc: "stańja"

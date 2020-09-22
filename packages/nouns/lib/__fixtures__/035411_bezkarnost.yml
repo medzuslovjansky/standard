@@ -1,0 +1,15 @@
+---
+  id: "35411"
+  word: "bezkarnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezkarnosť"
+      acc: "bezkarnosť"
+      gen: "bezkarnosti"
+      loc: "bezkarnosti"
+      dat: "bezkarnosti"
+      ins: "bezkarnosťjų"
+      voc: "bezkarnosti"

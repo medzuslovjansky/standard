@@ -1,0 +1,22 @@
+---
+  id: "32468"
+  word: "lepra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lepra"
+      acc: "leprų"
+      gen: "lepry"
+      loc: "leprě"
+      dat: "leprě"
+      ins: "leprojų"
+      voc: "lepro"
+    plural: 
+      nom: "lepry"
+      acc: "lepry"
+      gen: "lepr"
+      loc: "leprah"
+      dat: "lepram"
+      ins: "leprami"
+      voc: "lepry"

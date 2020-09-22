@@ -1,0 +1,22 @@
+---
+  id: "7916"
+  word: "interfejs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "interfejs"
+      acc: "interfejs"
+      gen: "interfejsa"
+      loc: "interfejsu"
+      dat: "interfejsu"
+      ins: "interfejsom"
+      voc: "interfejse"
+    plural: 
+      nom: "interfejsy"
+      acc: "interfejsy"
+      gen: "interfejsov"
+      loc: "interfejsah"
+      dat: "interfejsam"
+      ins: "interfejsami"
+      voc: "interfejsy"

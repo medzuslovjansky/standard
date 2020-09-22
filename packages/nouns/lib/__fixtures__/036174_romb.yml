@@ -1,0 +1,22 @@
+---
+  id: "36174"
+  word: "romb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "romb"
+      acc: "romb"
+      gen: "romba"
+      loc: "rombu"
+      dat: "rombu"
+      ins: "rombom"
+      voc: "rombe"
+    plural: 
+      nom: "romby"
+      acc: "romby"
+      gen: "rombov"
+      loc: "rombah"
+      dat: "rombam"
+      ins: "rombami"
+      voc: "romby"

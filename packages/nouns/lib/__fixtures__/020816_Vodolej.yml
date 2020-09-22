@@ -1,0 +1,23 @@
+---
+  id: "20816"
+  word: "Vodolěj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Vodolěj"
+      acc: "Vodolěja"
+      gen: "Vodolěja"
+      loc: "Vodolěju"
+      dat: "Vodolěju"
+      ins: "Vodolějem"
+      voc: "Vodolěju"
+    plural: 
+      nom: "Vodolěji"
+      acc: "Vodolějev"
+      gen: "Vodolějev"
+      loc: "Vodolějah"
+      dat: "Vodolějam"
+      ins: "Vodolějami"
+      voc: "Vodolěji"

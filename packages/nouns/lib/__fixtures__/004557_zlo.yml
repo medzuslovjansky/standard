@@ -1,0 +1,23 @@
+---
+  id: "4557"
+  word: "zlo"
+  meta: 
+    irregularity: "(zla)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zlo"
+      acc: "zlo"
+      gen: "zla"
+      loc: "zlu"
+      dat: "zlu"
+      ins: "zlom"
+      voc: "zlo"
+    plural: 
+      nom: "zla"
+      acc: "zla"
+      gen: "zȯl"
+      loc: "zlah"
+      dat: "zlam"
+      ins: "zlami"
+      voc: "zla"

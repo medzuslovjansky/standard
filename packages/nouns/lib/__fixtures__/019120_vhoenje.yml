@@ -1,0 +1,15 @@
+---
+  id: "19120"
+  word: "vhođeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vhođeńje"
+      acc: "vhođeńje"
+      gen: "vhođeńja"
+      loc: "vhođeńju"
+      dat: "vhođeńju"
+      ins: "vhođeńjem"
+      voc: "vhođeńje"

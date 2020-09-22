@@ -1,0 +1,23 @@
+---
+  id: "18926"
+  word: "sutener"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sutener"
+      acc: "sutenera"
+      gen: "sutenera"
+      loc: "suteneru"
+      dat: "suteneru"
+      ins: "sutenerom"
+      voc: "sutenere"
+    plural: 
+      nom: "suteneri"
+      acc: "sutenerov"
+      gen: "sutenerov"
+      loc: "sutenerah"
+      dat: "suteneram"
+      ins: "sutenerami"
+      voc: "suteneri"

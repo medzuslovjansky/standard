@@ -1,0 +1,15 @@
+---
+  id: "32296"
+  word: "mųčeničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mųčeničstvo"
+      acc: "mųčeničstvo"
+      gen: "mųčeničstva"
+      loc: "mųčeničstvu"
+      dat: "mųčeničstvu"
+      ins: "mųčeničstvom"
+      voc: "mųčeničstvo"

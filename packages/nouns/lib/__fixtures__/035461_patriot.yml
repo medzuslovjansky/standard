@@ -1,0 +1,23 @@
+---
+  id: "35461"
+  word: "patriot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "patriot"
+      acc: "patriota"
+      gen: "patriota"
+      loc: "patriotu"
+      dat: "patriotu"
+      ins: "patriotom"
+      voc: "patriote"
+    plural: 
+      nom: "patrioti"
+      acc: "patriotov"
+      gen: "patriotov"
+      loc: "patriotah"
+      dat: "patriotam"
+      ins: "patriotami"
+      voc: "patrioti"

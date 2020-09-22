@@ -1,0 +1,22 @@
+---
+  id: "5194"
+  word: "koš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koš"
+      acc: "koš"
+      gen: "koša"
+      loc: "košu"
+      dat: "košu"
+      ins: "košem"
+      voc: "košu"
+    plural: 
+      nom: "koše"
+      acc: "koše"
+      gen: "košev"
+      loc: "košah"
+      dat: "košam"
+      ins: "košami"
+      voc: "koše"

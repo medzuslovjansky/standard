@@ -1,0 +1,22 @@
+---
+  id: "32186"
+  word: "logopedija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "logopedija"
+      acc: "logopedijų"
+      gen: "logopedije"
+      loc: "logopediji"
+      dat: "logopediji"
+      ins: "logopedijejų"
+      voc: "logopedijo"
+    plural: 
+      nom: "logopedije"
+      acc: "logopedije"
+      gen: "logopedij"
+      loc: "logopedijah"
+      dat: "logopedijam"
+      ins: "logopedijami"
+      voc: "logopedije"

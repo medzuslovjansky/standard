@@ -1,0 +1,23 @@
+---
+  id: "23470"
+  word: "fazan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "fazan"
+      acc: "fazana"
+      gen: "fazana"
+      loc: "fazanu"
+      dat: "fazanu"
+      ins: "fazanom"
+      voc: "fazane"
+    plural: 
+      nom: "fazani"
+      acc: "fazanov"
+      gen: "fazanov"
+      loc: "fazanah"
+      dat: "fazanam"
+      ins: "fazanami"
+      voc: "fazani"

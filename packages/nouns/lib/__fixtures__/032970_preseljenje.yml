@@ -1,0 +1,22 @@
+---
+  id: "32970"
+  word: "prěseljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěseljeńje"
+      acc: "prěseljeńje"
+      gen: "prěseljeńja"
+      loc: "prěseljeńju"
+      dat: "prěseljeńju"
+      ins: "prěseljeńjem"
+      voc: "prěseljeńje"
+    plural: 
+      nom: "prěseljeńja"
+      acc: "prěseljeńja"
+      gen: "prěseljenij"
+      loc: "prěseljeńjah"
+      dat: "prěseljeńjam"
+      ins: "prěseljeńjami"
+      voc: "prěseljeńja"

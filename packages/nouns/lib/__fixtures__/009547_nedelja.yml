@@ -1,0 +1,22 @@
+---
+  id: "9547"
+  word: "nedělja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedělja"
+      acc: "neděljų"
+      gen: "nedělje"
+      loc: "nedělji"
+      dat: "nedělji"
+      ins: "neděljejų"
+      voc: "neděljo"
+    plural: 
+      nom: "nedělje"
+      acc: "nedělje"
+      gen: "nedělej"
+      loc: "neděljah"
+      dat: "neděljam"
+      ins: "neděljami"
+      voc: "nedělje"

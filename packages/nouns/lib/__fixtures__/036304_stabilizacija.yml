@@ -1,0 +1,22 @@
+---
+  id: "36304"
+  word: "stabilizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stabilizacija"
+      acc: "stabilizacijų"
+      gen: "stabilizacije"
+      loc: "stabilizaciji"
+      dat: "stabilizaciji"
+      ins: "stabilizacijejų"
+      voc: "stabilizacijo"
+    plural: 
+      nom: "stabilizacije"
+      acc: "stabilizacije"
+      gen: "stabilizacij"
+      loc: "stabilizacijah"
+      dat: "stabilizacijam"
+      ins: "stabilizacijami"
+      voc: "stabilizacije"

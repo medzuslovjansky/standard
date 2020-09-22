@@ -1,0 +1,22 @@
+---
+  id: "956"
+  word: "niva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "niva"
+      acc: "nivų"
+      gen: "nivy"
+      loc: "nivě"
+      dat: "nivě"
+      ins: "nivojų"
+      voc: "nivo"
+    plural: 
+      nom: "nivy"
+      acc: "nivy"
+      gen: "niv"
+      loc: "nivah"
+      dat: "nivam"
+      ins: "nivami"
+      voc: "nivy"

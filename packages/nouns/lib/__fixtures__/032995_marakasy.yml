@@ -1,0 +1,15 @@
+---
+  id: "32995"
+  word: "marakasy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "marakasy"
+      acc: "marakasy"
+      gen: "marakasov"
+      loc: "marakasah"
+      dat: "marakasam"
+      ins: "marakasami"
+      voc: "marakasy"

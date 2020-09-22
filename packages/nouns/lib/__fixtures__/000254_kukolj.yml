@@ -1,0 +1,22 @@
+---
+  id: "254"
+  word: "kųkolj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kųkolj"
+      acc: "kųkolj"
+      gen: "kųkolja"
+      loc: "kųkolju"
+      dat: "kųkolju"
+      ins: "kųkoljem"
+      voc: "kųkolju"
+    plural: 
+      nom: "kųkolje"
+      acc: "kųkolje"
+      gen: "kųkoljev"
+      loc: "kųkoljah"
+      dat: "kųkoljam"
+      ins: "kųkoljami"
+      voc: "kųkolje"

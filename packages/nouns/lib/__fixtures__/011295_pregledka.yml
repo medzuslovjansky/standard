@@ -1,0 +1,22 @@
+---
+  id: "11295"
+  word: "prěględka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěględka"
+      acc: "prěględkų"
+      gen: "prěględky"
+      loc: "prěględkě"
+      dat: "prěględkě"
+      ins: "prěględkojų"
+      voc: "prěględko"
+    plural: 
+      nom: "prěględky"
+      acc: "prěględky"
+      gen: "prěględȯk"
+      loc: "prěględkah"
+      dat: "prěględkam"
+      ins: "prěględkami"
+      voc: "prěględky"

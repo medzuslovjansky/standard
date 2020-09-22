@@ -1,0 +1,23 @@
+---
+  id: "2339"
+  word: "rybak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rybak"
+      acc: "rybaka"
+      gen: "rybaka"
+      loc: "rybaku"
+      dat: "rybaku"
+      ins: "rybakom"
+      voc: "rybače"
+    plural: 
+      nom: "rybaki"
+      acc: "rybakov"
+      gen: "rybakov"
+      loc: "rybakah"
+      dat: "rybakam"
+      ins: "rybakami"
+      voc: "rybaki"

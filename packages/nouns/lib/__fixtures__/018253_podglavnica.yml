@@ -1,0 +1,22 @@
+---
+  id: "18253"
+  word: "podglåvnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podglåvnica"
+      acc: "podglåvnicų"
+      gen: "podglåvnice"
+      loc: "podglåvnici"
+      dat: "podglåvnici"
+      ins: "podglåvnicejų"
+      voc: "podglåvnico"
+    plural: 
+      nom: "podglåvnice"
+      acc: "podglåvnice"
+      gen: "podglåvnic"
+      loc: "podglåvnicah"
+      dat: "podglåvnicam"
+      ins: "podglåvnicami"
+      voc: "podglåvnice"

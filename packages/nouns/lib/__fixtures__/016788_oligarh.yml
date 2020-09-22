@@ -1,0 +1,23 @@
+---
+  id: "16788"
+  word: "oligarh"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "oligarh"
+      acc: "oligarha"
+      gen: "oligarha"
+      loc: "oligarhu"
+      dat: "oligarhu"
+      ins: "oligarhom"
+      voc: "oligarše"
+    plural: 
+      nom: "oligarhi"
+      acc: "oligarhov"
+      gen: "oligarhov"
+      loc: "oligarhah"
+      dat: "oligarham"
+      ins: "oligarhami"
+      voc: "oligarhi"

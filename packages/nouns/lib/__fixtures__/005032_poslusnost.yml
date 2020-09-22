@@ -1,0 +1,22 @@
+---
+  id: "5032"
+  word: "poslušnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poslušnosť"
+      acc: "poslušnosť"
+      gen: "poslušnosti"
+      loc: "poslušnosti"
+      dat: "poslušnosti"
+      ins: "poslušnosťjų"
+      voc: "poslušnosti"
+    plural: 
+      nom: "poslušnosti"
+      acc: "poslušnosti"
+      gen: "poslušnostij"
+      loc: "poslušnosťah"
+      dat: "poslušnosťam"
+      ins: "poslušnosťami"
+      voc: "poslušnosti"

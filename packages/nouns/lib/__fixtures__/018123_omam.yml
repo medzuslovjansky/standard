@@ -1,0 +1,22 @@
+---
+  id: "18123"
+  word: "omam"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "omam"
+      acc: "omam"
+      gen: "omama"
+      loc: "omamu"
+      dat: "omamu"
+      ins: "omamom"
+      voc: "omame"
+    plural: 
+      nom: "omamy"
+      acc: "omamy"
+      gen: "omamov"
+      loc: "omamah"
+      dat: "omamam"
+      ins: "omamami"
+      voc: "omamy"

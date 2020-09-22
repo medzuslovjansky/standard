@@ -1,0 +1,45 @@
+---
+  - 
+    id: "26520"
+    word: "klådec"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "klådec"
+        acc: "klådec"
+        gen: "klådca"
+        loc: "klådcu"
+        dat: "klådcu"
+        ins: "klådcem"
+        voc: "klådče"
+      plural: 
+        nom: "klådce"
+        acc: "klådce"
+        gen: "klådcev"
+        loc: "klådcah"
+        dat: "klådcam"
+        ins: "klådcami"
+        voc: "klådce"
+  - 
+    id: "26520"
+    word: "klådeź"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "klådeź"
+        acc: "klådeź"
+        gen: "klådeźa"
+        loc: "klådeźu"
+        dat: "klådeźu"
+        ins: "klådeźem"
+        voc: "klådeźu"
+      plural: 
+        nom: "klådeźe"
+        acc: "klådeźe"
+        gen: "klådeźev"
+        loc: "klådeźah"
+        dat: "klådeźam"
+        ins: "klådeźami"
+        voc: "klådeźe"

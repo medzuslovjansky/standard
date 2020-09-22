@@ -1,0 +1,22 @@
+---
+  id: "17100"
+  word: "zona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zona"
+      acc: "zonų"
+      gen: "zony"
+      loc: "zoně"
+      dat: "zoně"
+      ins: "zonojų"
+      voc: "zono"
+    plural: 
+      nom: "zony"
+      acc: "zony"
+      gen: "zon"
+      loc: "zonah"
+      dat: "zonam"
+      ins: "zonami"
+      voc: "zony"

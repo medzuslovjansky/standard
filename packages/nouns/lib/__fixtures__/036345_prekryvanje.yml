@@ -1,0 +1,22 @@
+---
+  id: "36345"
+  word: "prěkryvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěkryvańje"
+      acc: "prěkryvańje"
+      gen: "prěkryvańja"
+      loc: "prěkryvańju"
+      dat: "prěkryvańju"
+      ins: "prěkryvańjem"
+      voc: "prěkryvańje"
+    plural: 
+      nom: "prěkryvańja"
+      acc: "prěkryvańja"
+      gen: "prěkryvanij"
+      loc: "prěkryvańjah"
+      dat: "prěkryvańjam"
+      ins: "prěkryvańjami"
+      voc: "prěkryvańja"

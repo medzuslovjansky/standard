@@ -1,0 +1,22 @@
+---
+  id: "26772"
+  word: "kotva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kotva"
+      acc: "kotvų"
+      gen: "kotvy"
+      loc: "kotvě"
+      dat: "kotvě"
+      ins: "kotvojų"
+      voc: "kotvo"
+    plural: 
+      nom: "kotvy"
+      acc: "kotvy"
+      gen: "kotv"
+      loc: "kotvah"
+      dat: "kotvam"
+      ins: "kotvami"
+      voc: "kotvy"

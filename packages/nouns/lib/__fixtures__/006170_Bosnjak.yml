@@ -1,0 +1,23 @@
+---
+  id: "6170"
+  word: "Bosnjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Bosnjak"
+      acc: "Bosnjaka"
+      gen: "Bosnjaka"
+      loc: "Bosnjaku"
+      dat: "Bosnjaku"
+      ins: "Bosnjakom"
+      voc: "Bosnjače"
+    plural: 
+      nom: "Bosnjaki"
+      acc: "Bosnjakov"
+      gen: "Bosnjakov"
+      loc: "Bosnjakah"
+      dat: "Bosnjakam"
+      ins: "Bosnjakami"
+      voc: "Bosnjaki"

@@ -1,0 +1,23 @@
+---
+  id: "17680"
+  word: "konservativec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konservativec"
+      acc: "konservativca"
+      gen: "konservativca"
+      loc: "konservativcu"
+      dat: "konservativcu"
+      ins: "konservativcem"
+      voc: "konservativče"
+    plural: 
+      nom: "konservativci"
+      acc: "konservativcev"
+      gen: "konservativcev"
+      loc: "konservativcah"
+      dat: "konservativcam"
+      ins: "konservativcami"
+      voc: "konservativci"

@@ -1,0 +1,23 @@
+---
+  id: "18195"
+  word: "pacient"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pacient"
+      acc: "pacienta"
+      gen: "pacienta"
+      loc: "pacientu"
+      dat: "pacientu"
+      ins: "pacientom"
+      voc: "paciente"
+    plural: 
+      nom: "pacienti"
+      acc: "pacientov"
+      gen: "pacientov"
+      loc: "pacientah"
+      dat: "pacientam"
+      ins: "pacientami"
+      voc: "pacienti"

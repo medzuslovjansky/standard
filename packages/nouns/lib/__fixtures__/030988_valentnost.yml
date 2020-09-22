@@ -1,0 +1,22 @@
+---
+  id: "30988"
+  word: "valentnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "valentnosť"
+      acc: "valentnosť"
+      gen: "valentnosti"
+      loc: "valentnosti"
+      dat: "valentnosti"
+      ins: "valentnosťjų"
+      voc: "valentnosti"
+    plural: 
+      nom: "valentnosti"
+      acc: "valentnosti"
+      gen: "valentnostij"
+      loc: "valentnosťah"
+      dat: "valentnosťam"
+      ins: "valentnosťami"
+      voc: "valentnosti"

@@ -1,0 +1,22 @@
+---
+  id: "919"
+  word: "precedent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "precedent"
+      acc: "precedent"
+      gen: "precedenta"
+      loc: "precedentu"
+      dat: "precedentu"
+      ins: "precedentom"
+      voc: "precedente"
+    plural: 
+      nom: "precedenty"
+      acc: "precedenty"
+      gen: "precedentov"
+      loc: "precedentah"
+      dat: "precedentam"
+      ins: "precedentami"
+      voc: "precedenty"

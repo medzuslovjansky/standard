@@ -1,0 +1,22 @@
+---
+  id: "18990"
+  word: "trěbovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "trěbovańje"
+      acc: "trěbovańje"
+      gen: "trěbovańja"
+      loc: "trěbovańju"
+      dat: "trěbovańju"
+      ins: "trěbovańjem"
+      voc: "trěbovańje"
+    plural: 
+      nom: "trěbovańja"
+      acc: "trěbovańja"
+      gen: "trěbovanij"
+      loc: "trěbovańjah"
+      dat: "trěbovańjam"
+      ins: "trěbovańjami"
+      voc: "trěbovańja"

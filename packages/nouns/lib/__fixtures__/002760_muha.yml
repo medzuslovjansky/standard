@@ -1,0 +1,22 @@
+---
+  id: "2760"
+  word: "muha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "muha"
+      acc: "muhų"
+      gen: "muhy"
+      loc: "muhě"
+      dat: "muhě"
+      ins: "muhojų"
+      voc: "muho"
+    plural: 
+      nom: "muhy"
+      acc: "muhy"
+      gen: "muh"
+      loc: "muhah"
+      dat: "muham"
+      ins: "muhami"
+      voc: "muhy"

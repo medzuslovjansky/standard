@@ -1,0 +1,23 @@
+---
+  id: "23503"
+  word: "ateist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ateist"
+      acc: "ateista"
+      gen: "ateista"
+      loc: "ateistu"
+      dat: "ateistu"
+      ins: "ateistom"
+      voc: "ateiste"
+    plural: 
+      nom: "ateisti"
+      acc: "ateistov"
+      gen: "ateistov"
+      loc: "ateistah"
+      dat: "ateistam"
+      ins: "ateistami"
+      voc: "ateisti"

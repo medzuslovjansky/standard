@@ -1,0 +1,22 @@
+---
+  id: "8807"
+  word: "lavina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lavina"
+      acc: "lavinų"
+      gen: "laviny"
+      loc: "lavině"
+      dat: "lavině"
+      ins: "lavinojų"
+      voc: "lavino"
+    plural: 
+      nom: "laviny"
+      acc: "laviny"
+      gen: "lavin"
+      loc: "lavinah"
+      dat: "lavinam"
+      ins: "lavinami"
+      voc: "laviny"

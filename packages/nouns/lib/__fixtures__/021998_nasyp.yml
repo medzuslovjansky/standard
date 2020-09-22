@@ -1,0 +1,22 @@
+---
+  id: "21998"
+  word: "nasyp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nasyp"
+      acc: "nasyp"
+      gen: "nasypa"
+      loc: "nasypu"
+      dat: "nasypu"
+      ins: "nasypom"
+      voc: "nasype"
+    plural: 
+      nom: "nasypy"
+      acc: "nasypy"
+      gen: "nasypov"
+      loc: "nasypah"
+      dat: "nasypam"
+      ins: "nasypami"
+      voc: "nasypy"

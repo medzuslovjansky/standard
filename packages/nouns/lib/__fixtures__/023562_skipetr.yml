@@ -1,0 +1,22 @@
+---
+  id: "23562"
+  word: "skipetr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skipetr"
+      acc: "skipetr"
+      gen: "skipetra"
+      loc: "skipetru"
+      dat: "skipetru"
+      ins: "skipetrom"
+      voc: "skipetre"
+    plural: 
+      nom: "skipetry"
+      acc: "skipetry"
+      gen: "skipetrov"
+      loc: "skipetrah"
+      dat: "skipetram"
+      ins: "skipetrami"
+      voc: "skipetry"

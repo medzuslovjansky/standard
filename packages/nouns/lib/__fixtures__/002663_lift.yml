@@ -1,0 +1,22 @@
+---
+  id: "2663"
+  word: "lift"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lift"
+      acc: "lift"
+      gen: "lifta"
+      loc: "liftu"
+      dat: "liftu"
+      ins: "liftom"
+      voc: "lifte"
+    plural: 
+      nom: "lifty"
+      acc: "lifty"
+      gen: "liftov"
+      loc: "liftah"
+      dat: "liftam"
+      ins: "liftami"
+      voc: "lifty"

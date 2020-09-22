@@ -1,0 +1,22 @@
+---
+  id: "25506"
+  word: "fokus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fokus"
+      acc: "fokus"
+      gen: "fokusa"
+      loc: "fokusu"
+      dat: "fokusu"
+      ins: "fokusom"
+      voc: "fokuse"
+    plural: 
+      nom: "fokusy"
+      acc: "fokusy"
+      gen: "fokusov"
+      loc: "fokusah"
+      dat: "fokusam"
+      ins: "fokusami"
+      voc: "fokusy"

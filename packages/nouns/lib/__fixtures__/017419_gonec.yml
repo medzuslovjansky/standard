@@ -1,0 +1,23 @@
+---
+  id: "17419"
+  word: "gonec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gonec"
+      acc: "gonca"
+      gen: "gonca"
+      loc: "goncu"
+      dat: "goncu"
+      ins: "goncem"
+      voc: "gonče"
+    plural: 
+      nom: "gonci"
+      acc: "goncev"
+      gen: "goncev"
+      loc: "goncah"
+      dat: "goncam"
+      ins: "goncami"
+      voc: "gonci"

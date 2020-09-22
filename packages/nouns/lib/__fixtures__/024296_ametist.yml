@@ -1,0 +1,22 @@
+---
+  id: "24296"
+  word: "ametist"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ametist"
+      acc: "ametist"
+      gen: "ametista"
+      loc: "ametistu"
+      dat: "ametistu"
+      ins: "ametistom"
+      voc: "ametiste"
+    plural: 
+      nom: "ametisty"
+      acc: "ametisty"
+      gen: "ametistov"
+      loc: "ametistah"
+      dat: "ametistam"
+      ins: "ametistami"
+      voc: "ametisty"

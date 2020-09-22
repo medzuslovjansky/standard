@@ -1,0 +1,22 @@
+---
+  id: "25473"
+  word: "eksterier"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "eksterier"
+      acc: "eksterier"
+      gen: "eksteriera"
+      loc: "eksterieru"
+      dat: "eksterieru"
+      ins: "eksterierom"
+      voc: "eksteriere"
+    plural: 
+      nom: "eksteriery"
+      acc: "eksteriery"
+      gen: "eksterierov"
+      loc: "eksterierah"
+      dat: "eksterieram"
+      ins: "eksterierami"
+      voc: "eksteriery"

@@ -1,0 +1,22 @@
+---
+  id: "1653"
+  word: "večer"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "večer"
+      acc: "večer"
+      gen: "večera"
+      loc: "večeru"
+      dat: "večeru"
+      ins: "večerom"
+      voc: "večere"
+    plural: 
+      nom: "večery"
+      acc: "večery"
+      gen: "večerov"
+      loc: "večerah"
+      dat: "večeram"
+      ins: "večerami"
+      voc: "večery"

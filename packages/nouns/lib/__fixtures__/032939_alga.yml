@@ -1,0 +1,22 @@
+---
+  id: "32939"
+  word: "alga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "alga"
+      acc: "algų"
+      gen: "algy"
+      loc: "algě"
+      dat: "algě"
+      ins: "algojų"
+      voc: "algo"
+    plural: 
+      nom: "algy"
+      acc: "algy"
+      gen: "alg"
+      loc: "algah"
+      dat: "algam"
+      ins: "algami"
+      voc: "algy"

@@ -1,0 +1,22 @@
+---
+  id: "1385"
+  word: "sȯjųz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sȯjųz"
+      acc: "sȯjųz"
+      gen: "sȯjųza"
+      loc: "sȯjųzu"
+      dat: "sȯjųzu"
+      ins: "sȯjųzom"
+      voc: "sȯjųze"
+    plural: 
+      nom: "sȯjųzy"
+      acc: "sȯjųzy"
+      gen: "sȯjųzov"
+      loc: "sȯjųzah"
+      dat: "sȯjųzam"
+      ins: "sȯjųzami"
+      voc: "sȯjųzy"

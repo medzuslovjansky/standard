@@ -1,0 +1,22 @@
+---
+  id: "3417"
+  word: "izčisljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izčisljeńje"
+      acc: "izčisljeńje"
+      gen: "izčisljeńja"
+      loc: "izčisljeńju"
+      dat: "izčisljeńju"
+      ins: "izčisljeńjem"
+      voc: "izčisljeńje"
+    plural: 
+      nom: "izčisljeńja"
+      acc: "izčisljeńja"
+      gen: "izčisljenij"
+      loc: "izčisljeńjah"
+      dat: "izčisljeńjam"
+      ins: "izčisljeńjami"
+      voc: "izčisljeńja"

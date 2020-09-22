@@ -1,0 +1,22 @@
+---
+  id: "21372"
+  word: "norka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "norka"
+      acc: "norkų"
+      gen: "norky"
+      loc: "norkě"
+      dat: "norkě"
+      ins: "norkojų"
+      voc: "norko"
+    plural: 
+      nom: "norky"
+      acc: "norky"
+      gen: "norȯk"
+      loc: "norkah"
+      dat: "norkam"
+      ins: "norkami"
+      voc: "norky"

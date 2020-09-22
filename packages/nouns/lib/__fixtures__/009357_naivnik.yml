@@ -1,0 +1,23 @@
+---
+  id: "9357"
+  word: "naivnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "naivnik"
+      acc: "naivnika"
+      gen: "naivnika"
+      loc: "naivniku"
+      dat: "naivniku"
+      ins: "naivnikom"
+      voc: "naivniče"
+    plural: 
+      nom: "naivniki"
+      acc: "naivnikov"
+      gen: "naivnikov"
+      loc: "naivnikah"
+      dat: "naivnikam"
+      ins: "naivnikami"
+      voc: "naivniki"

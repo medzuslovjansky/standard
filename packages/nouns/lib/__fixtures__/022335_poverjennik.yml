@@ -1,0 +1,23 @@
+---
+  id: "22335"
+  word: "pověrjennik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pověrjennik"
+      acc: "pověrjennika"
+      gen: "pověrjennika"
+      loc: "pověrjenniku"
+      dat: "pověrjenniku"
+      ins: "pověrjennikom"
+      voc: "pověrjenniče"
+    plural: 
+      nom: "pověrjenniki"
+      acc: "pověrjennikov"
+      gen: "pověrjennikov"
+      loc: "pověrjennikah"
+      dat: "pověrjennikam"
+      ins: "pověrjennikami"
+      voc: "pověrjenniki"

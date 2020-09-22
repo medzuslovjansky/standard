@@ -1,0 +1,22 @@
+---
+  id: "26097"
+  word: "iguana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iguana"
+      acc: "iguanų"
+      gen: "iguany"
+      loc: "iguaně"
+      dat: "iguaně"
+      ins: "iguanojų"
+      voc: "iguano"
+    plural: 
+      nom: "iguany"
+      acc: "iguany"
+      gen: "iguan"
+      loc: "iguanah"
+      dat: "iguanam"
+      ins: "iguanami"
+      voc: "iguany"

@@ -1,0 +1,22 @@
+---
+  id: "491"
+  word: "pogrěška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pogrěška"
+      acc: "pogrěškų"
+      gen: "pogrěšky"
+      loc: "pogrěškě"
+      dat: "pogrěškě"
+      ins: "pogrěškojų"
+      voc: "pogrěško"
+    plural: 
+      nom: "pogrěšky"
+      acc: "pogrěšky"
+      gen: "pogrěšek"
+      loc: "pogrěškah"
+      dat: "pogrěškam"
+      ins: "pogrěškami"
+      voc: "pogrěšky"

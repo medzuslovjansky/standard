@@ -1,0 +1,22 @@
+---
+  id: "33077"
+  word: "narkotik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "narkotik"
+      acc: "narkotik"
+      gen: "narkotika"
+      loc: "narkotiku"
+      dat: "narkotiku"
+      ins: "narkotikom"
+      voc: "narkotiče"
+    plural: 
+      nom: "narkotiky"
+      acc: "narkotiky"
+      gen: "narkotikov"
+      loc: "narkotikah"
+      dat: "narkotikam"
+      ins: "narkotikami"
+      voc: "narkotiky"

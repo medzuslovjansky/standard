@@ -1,0 +1,22 @@
+---
+  id: "35322"
+  word: "unikaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "unikaľnosť"
+      acc: "unikaľnosť"
+      gen: "unikaľnosti"
+      loc: "unikaľnosti"
+      dat: "unikaľnosti"
+      ins: "unikaľnosťjų"
+      voc: "unikaľnosti"
+    plural: 
+      nom: "unikaľnosti"
+      acc: "unikaľnosti"
+      gen: "unikaľnostij"
+      loc: "unikaľnosťah"
+      dat: "unikaľnosťam"
+      ins: "unikaľnosťami"
+      voc: "unikaľnosti"

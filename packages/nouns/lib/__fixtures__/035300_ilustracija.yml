@@ -1,0 +1,22 @@
+---
+  id: "35300"
+  word: "ilustracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ilustracija"
+      acc: "ilustracijų"
+      gen: "ilustracije"
+      loc: "ilustraciji"
+      dat: "ilustraciji"
+      ins: "ilustracijejų"
+      voc: "ilustracijo"
+    plural: 
+      nom: "ilustracije"
+      acc: "ilustracije"
+      gen: "ilustracij"
+      loc: "ilustracijah"
+      dat: "ilustracijam"
+      ins: "ilustracijami"
+      voc: "ilustracije"

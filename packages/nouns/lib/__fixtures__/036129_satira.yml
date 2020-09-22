@@ -1,0 +1,22 @@
+---
+  id: "36129"
+  word: "satira"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "satira"
+      acc: "satirų"
+      gen: "satiry"
+      loc: "satirě"
+      dat: "satirě"
+      ins: "satirojų"
+      voc: "satiro"
+    plural: 
+      nom: "satiry"
+      acc: "satiry"
+      gen: "satir"
+      loc: "satirah"
+      dat: "satiram"
+      ins: "satirami"
+      voc: "satiry"

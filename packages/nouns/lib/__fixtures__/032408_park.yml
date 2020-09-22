@@ -1,0 +1,22 @@
+---
+  id: "32408"
+  word: "park"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "park"
+      acc: "park"
+      gen: "parka"
+      loc: "parku"
+      dat: "parku"
+      ins: "parkom"
+      voc: "parče"
+    plural: 
+      nom: "parky"
+      acc: "parky"
+      gen: "parkov"
+      loc: "parkah"
+      dat: "parkam"
+      ins: "parkami"
+      voc: "parky"

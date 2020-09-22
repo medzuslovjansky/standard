@@ -1,0 +1,22 @@
+---
+  id: "34859"
+  word: "ponižeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ponižeńje"
+      acc: "ponižeńje"
+      gen: "ponižeńja"
+      loc: "ponižeńju"
+      dat: "ponižeńju"
+      ins: "ponižeńjem"
+      voc: "ponižeńje"
+    plural: 
+      nom: "ponižeńja"
+      acc: "ponižeńja"
+      gen: "poniženij"
+      loc: "ponižeńjah"
+      dat: "ponižeńjam"
+      ins: "ponižeńjami"
+      voc: "ponižeńja"

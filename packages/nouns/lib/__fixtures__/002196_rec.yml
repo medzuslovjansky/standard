@@ -1,0 +1,22 @@
+---
+  id: "2196"
+  word: "rěč"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rěč"
+      acc: "rěč"
+      gen: "rěči"
+      loc: "rěči"
+      dat: "rěči"
+      ins: "rěčjų"
+      voc: "rěči"
+    plural: 
+      nom: "rěči"
+      acc: "rěči"
+      gen: "rěčij"
+      loc: "rěčah"
+      dat: "rěčam"
+      ins: "rěčami"
+      voc: "rěči"

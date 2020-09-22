@@ -1,0 +1,22 @@
+---
+  id: "17714"
+  word: "kukučka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kukučka"
+      acc: "kukučkų"
+      gen: "kukučky"
+      loc: "kukučkě"
+      dat: "kukučkě"
+      ins: "kukučkojų"
+      voc: "kukučko"
+    plural: 
+      nom: "kukučky"
+      acc: "kukučky"
+      gen: "kukuček"
+      loc: "kukučkah"
+      dat: "kukučkam"
+      ins: "kukučkami"
+      voc: "kukučky"

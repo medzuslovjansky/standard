@@ -1,0 +1,22 @@
+---
+  id: "23711"
+  word: "něžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "něžnosť"
+      acc: "něžnosť"
+      gen: "něžnosti"
+      loc: "něžnosti"
+      dat: "něžnosti"
+      ins: "něžnosťjų"
+      voc: "něžnosti"
+    plural: 
+      nom: "něžnosti"
+      acc: "něžnosti"
+      gen: "něžnostij"
+      loc: "něžnosťah"
+      dat: "něžnosťam"
+      ins: "něžnosťami"
+      voc: "něžnosti"

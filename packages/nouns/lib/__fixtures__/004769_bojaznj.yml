@@ -1,0 +1,22 @@
+---
+  id: "4769"
+  word: "bojaznj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bojaznj"
+      acc: "bojaznj"
+      gen: "bojaznji"
+      loc: "bojaznji"
+      dat: "bojaznji"
+      ins: "bojaznjjų"
+      voc: "bojaznji"
+    plural: 
+      nom: "bojaznji"
+      acc: "bojaznji"
+      gen: "bojaznjij"
+      loc: "bojaznjah"
+      dat: "bojaznjam"
+      ins: "bojaznjami"
+      voc: "bojaznji"

@@ -1,0 +1,22 @@
+---
+  id: "25594"
+  word: "gazela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gazela"
+      acc: "gazelų"
+      gen: "gazely"
+      loc: "gazelě"
+      dat: "gazelě"
+      ins: "gazelojų"
+      voc: "gazelo"
+    plural: 
+      nom: "gazely"
+      acc: "gazely"
+      gen: "gazel"
+      loc: "gazelah"
+      dat: "gazelam"
+      ins: "gazelami"
+      voc: "gazely"

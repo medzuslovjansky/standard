@@ -1,0 +1,15 @@
+---
+  id: "5877"
+  word: "uspokojeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "uspokojeńje"
+      acc: "uspokojeńje"
+      gen: "uspokojeńja"
+      loc: "uspokojeńju"
+      dat: "uspokojeńju"
+      ins: "uspokojeńjem"
+      voc: "uspokojeńje"

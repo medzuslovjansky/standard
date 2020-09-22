@@ -1,0 +1,22 @@
+---
+  id: "18764"
+  word: "šahovnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šahovnica"
+      acc: "šahovnicų"
+      gen: "šahovnice"
+      loc: "šahovnici"
+      dat: "šahovnici"
+      ins: "šahovnicejų"
+      voc: "šahovnico"
+    plural: 
+      nom: "šahovnice"
+      acc: "šahovnice"
+      gen: "šahovnic"
+      loc: "šahovnicah"
+      dat: "šahovnicam"
+      ins: "šahovnicami"
+      voc: "šahovnice"

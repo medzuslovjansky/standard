@@ -1,0 +1,22 @@
+---
+  id: "32573"
+  word: "klička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klička"
+      acc: "kličkų"
+      gen: "kličky"
+      loc: "kličkě"
+      dat: "kličkě"
+      ins: "kličkojų"
+      voc: "kličko"
+    plural: 
+      nom: "kličky"
+      acc: "kličky"
+      gen: "kliček"
+      loc: "kličkah"
+      dat: "kličkam"
+      ins: "kličkami"
+      voc: "kličky"

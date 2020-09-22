@@ -1,0 +1,22 @@
+---
+  id: "4344"
+  word: "pomaranča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pomaranča"
+      acc: "pomarančų"
+      gen: "pomaranče"
+      loc: "pomaranči"
+      dat: "pomaranči"
+      ins: "pomarančejų"
+      voc: "pomarančo"
+    plural: 
+      nom: "pomaranče"
+      acc: "pomaranče"
+      gen: "pomaranč"
+      loc: "pomarančah"
+      dat: "pomarančam"
+      ins: "pomarančami"
+      voc: "pomaranče"

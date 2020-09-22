@@ -1,0 +1,22 @@
+---
+  id: "36359"
+  word: "svęznik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svęznik"
+      acc: "svęznik"
+      gen: "svęznika"
+      loc: "svęzniku"
+      dat: "svęzniku"
+      ins: "svęznikom"
+      voc: "svęzniče"
+    plural: 
+      nom: "svęzniky"
+      acc: "svęzniky"
+      gen: "svęznikov"
+      loc: "svęznikah"
+      dat: "svęznikam"
+      ins: "svęznikami"
+      voc: "svęzniky"

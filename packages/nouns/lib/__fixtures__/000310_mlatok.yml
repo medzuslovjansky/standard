@@ -1,0 +1,22 @@
+---
+  id: "310"
+  word: "mlåtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mlåtȯk"
+      acc: "mlåtȯk"
+      gen: "mlåtka"
+      loc: "mlåtku"
+      dat: "mlåtku"
+      ins: "mlåtkom"
+      voc: "mlåtče"
+    plural: 
+      nom: "mlåtky"
+      acc: "mlåtky"
+      gen: "mlåtkov"
+      loc: "mlåtkah"
+      dat: "mlåtkam"
+      ins: "mlåtkami"
+      voc: "mlåtky"

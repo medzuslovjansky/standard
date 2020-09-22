@@ -1,0 +1,23 @@
+---
+  id: "98"
+  word: "imigrant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "imigrant"
+      acc: "imigranta"
+      gen: "imigranta"
+      loc: "imigrantu"
+      dat: "imigrantu"
+      ins: "imigrantom"
+      voc: "imigrante"
+    plural: 
+      nom: "imigranti"
+      acc: "imigrantov"
+      gen: "imigrantov"
+      loc: "imigrantah"
+      dat: "imigrantam"
+      ins: "imigrantami"
+      voc: "imigranti"

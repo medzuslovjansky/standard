@@ -1,0 +1,22 @@
+---
+  id: "36645"
+  word: "komedija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komedija"
+      acc: "komedijų"
+      gen: "komedije"
+      loc: "komediji"
+      dat: "komediji"
+      ins: "komedijejų"
+      voc: "komedijo"
+    plural: 
+      nom: "komedije"
+      acc: "komedije"
+      gen: "komedij"
+      loc: "komedijah"
+      dat: "komedijam"
+      ins: "komedijami"
+      voc: "komedije"

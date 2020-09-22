@@ -1,0 +1,22 @@
+---
+  id: "29052"
+  word: "odblěsk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odblěsk"
+      acc: "odblěsk"
+      gen: "odblěska"
+      loc: "odblěsku"
+      dat: "odblěsku"
+      ins: "odblěskom"
+      voc: "odblěsče"
+    plural: 
+      nom: "odblěsky"
+      acc: "odblěsky"
+      gen: "odblěskov"
+      loc: "odblěskah"
+      dat: "odblěskam"
+      ins: "odblěskami"
+      voc: "odblěsky"

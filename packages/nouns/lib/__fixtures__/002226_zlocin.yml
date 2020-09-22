@@ -1,0 +1,22 @@
+---
+  id: "2226"
+  word: "zločin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zločin"
+      acc: "zločin"
+      gen: "zločina"
+      loc: "zločinu"
+      dat: "zločinu"
+      ins: "zločinom"
+      voc: "zločine"
+    plural: 
+      nom: "zločiny"
+      acc: "zločiny"
+      gen: "zločinov"
+      loc: "zločinah"
+      dat: "zločinam"
+      ins: "zločinami"
+      voc: "zločiny"

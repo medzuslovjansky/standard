@@ -1,0 +1,22 @@
+---
+  id: "3381"
+  word: "stvorjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stvorjeńje"
+      acc: "stvorjeńje"
+      gen: "stvorjeńja"
+      loc: "stvorjeńju"
+      dat: "stvorjeńju"
+      ins: "stvorjeńjem"
+      voc: "stvorjeńje"
+    plural: 
+      nom: "stvorjeńja"
+      acc: "stvorjeńja"
+      gen: "stvorjenij"
+      loc: "stvorjeńjah"
+      dat: "stvorjeńjam"
+      ins: "stvorjeńjami"
+      voc: "stvorjeńja"

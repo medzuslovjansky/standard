@@ -1,0 +1,22 @@
+---
+  id: "27582"
+  word: "mezalians"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mezalians"
+      acc: "mezalians"
+      gen: "mezaliansa"
+      loc: "mezaliansu"
+      dat: "mezaliansu"
+      ins: "mezaliansom"
+      voc: "mezalianse"
+    plural: 
+      nom: "mezaliansy"
+      acc: "mezaliansy"
+      gen: "mezaliansov"
+      loc: "mezaliansah"
+      dat: "mezaliansam"
+      ins: "mezaliansami"
+      voc: "mezaliansy"

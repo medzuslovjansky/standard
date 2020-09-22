@@ -1,0 +1,22 @@
+---
+  id: "26430"
+  word: "kadilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kadilo"
+      acc: "kadilo"
+      gen: "kadila"
+      loc: "kadilu"
+      dat: "kadilu"
+      ins: "kadilom"
+      voc: "kadilo"
+    plural: 
+      nom: "kadila"
+      acc: "kadila"
+      gen: "kadil"
+      loc: "kadilah"
+      dat: "kadilam"
+      ins: "kadilami"
+      voc: "kadila"

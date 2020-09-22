@@ -1,0 +1,15 @@
+---
+  id: "4214"
+  word: "bezusiľje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezusiľje"
+      acc: "bezusiľje"
+      gen: "bezusiľja"
+      loc: "bezusiľju"
+      dat: "bezusiľju"
+      ins: "bezusiľjem"
+      voc: "bezusiľje"

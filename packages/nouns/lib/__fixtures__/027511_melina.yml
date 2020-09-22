@@ -1,0 +1,22 @@
+---
+  id: "27511"
+  word: "mělina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mělina"
+      acc: "mělinų"
+      gen: "měliny"
+      loc: "mělině"
+      dat: "mělině"
+      ins: "mělinojų"
+      voc: "mělino"
+    plural: 
+      nom: "měliny"
+      acc: "měliny"
+      gen: "mělin"
+      loc: "mělinah"
+      dat: "mělinam"
+      ins: "mělinami"
+      voc: "měliny"

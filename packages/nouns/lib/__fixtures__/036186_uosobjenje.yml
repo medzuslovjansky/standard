@@ -1,0 +1,22 @@
+---
+  id: "36186"
+  word: "uosobjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uosobjeńje"
+      acc: "uosobjeńje"
+      gen: "uosobjeńja"
+      loc: "uosobjeńju"
+      dat: "uosobjeńju"
+      ins: "uosobjeńjem"
+      voc: "uosobjeńje"
+    plural: 
+      nom: "uosobjeńja"
+      acc: "uosobjeńja"
+      gen: "uosobjenij"
+      loc: "uosobjeńjah"
+      dat: "uosobjeńjam"
+      ins: "uosobjeńjami"
+      voc: "uosobjeńja"

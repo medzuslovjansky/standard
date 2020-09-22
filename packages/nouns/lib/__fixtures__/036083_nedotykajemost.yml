@@ -1,0 +1,22 @@
+---
+  id: "36083"
+  word: "nedotykajemosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedotykajemosť"
+      acc: "nedotykajemosť"
+      gen: "nedotykajemosti"
+      loc: "nedotykajemosti"
+      dat: "nedotykajemosti"
+      ins: "nedotykajemosťjų"
+      voc: "nedotykajemosti"
+    plural: 
+      nom: "nedotykajemosti"
+      acc: "nedotykajemosti"
+      gen: "nedotykajemostij"
+      loc: "nedotykajemosťah"
+      dat: "nedotykajemosťam"
+      ins: "nedotykajemosťami"
+      voc: "nedotykajemosti"

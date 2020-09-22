@@ -1,0 +1,15 @@
+---
+  id: "8259"
+  word: "jedańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jedańje"
+      acc: "jedańje"
+      gen: "jedańja"
+      loc: "jedańju"
+      dat: "jedańju"
+      ins: "jedańjem"
+      voc: "jedańje"

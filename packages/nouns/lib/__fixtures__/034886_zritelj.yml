@@ -1,0 +1,23 @@
+---
+  id: "34886"
+  word: "zritelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zritelj"
+      acc: "zritelja"
+      gen: "zritelja"
+      loc: "zritelju"
+      dat: "zritelju"
+      ins: "zriteljem"
+      voc: "zritelju"
+    plural: 
+      nom: "zritelji"
+      acc: "zriteljev"
+      gen: "zriteljev"
+      loc: "zriteljah"
+      dat: "zriteljam"
+      ins: "zriteljami"
+      voc: "zritelji"

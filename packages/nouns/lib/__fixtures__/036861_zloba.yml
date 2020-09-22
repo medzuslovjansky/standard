@@ -1,0 +1,22 @@
+---
+  id: "36861"
+  word: "zloba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zloba"
+      acc: "zlobų"
+      gen: "zloby"
+      loc: "zlobě"
+      dat: "zlobě"
+      ins: "zlobojų"
+      voc: "zlobo"
+    plural: 
+      nom: "zloby"
+      acc: "zloby"
+      gen: "zlob"
+      loc: "zlobah"
+      dat: "zlobam"
+      ins: "zlobami"
+      voc: "zloby"

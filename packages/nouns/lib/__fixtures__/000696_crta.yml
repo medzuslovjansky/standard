@@ -1,0 +1,22 @@
+---
+  id: "696"
+  word: "črta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črta"
+      acc: "črtų"
+      gen: "črty"
+      loc: "črtě"
+      dat: "črtě"
+      ins: "črtojų"
+      voc: "črto"
+    plural: 
+      nom: "črty"
+      acc: "črty"
+      gen: "črt"
+      loc: "črtah"
+      dat: "črtam"
+      ins: "črtami"
+      voc: "črty"

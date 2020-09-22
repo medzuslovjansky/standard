@@ -1,0 +1,22 @@
+---
+  id: "27513"
+  word: "mělj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mělj"
+      acc: "mělj"
+      gen: "mělji"
+      loc: "mělji"
+      dat: "mělji"
+      ins: "měljjų"
+      voc: "mělji"
+    plural: 
+      nom: "mělji"
+      acc: "mělji"
+      gen: "měljij"
+      loc: "měljah"
+      dat: "měljam"
+      ins: "měljami"
+      voc: "mělji"

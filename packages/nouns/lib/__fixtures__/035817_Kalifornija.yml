@@ -1,0 +1,15 @@
+---
+  id: "35817"
+  word: "Kalifornija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kalifornija"
+      acc: "Kalifornijų"
+      gen: "Kalifornije"
+      loc: "Kaliforniji"
+      dat: "Kaliforniji"
+      ins: "Kalifornijejų"
+      voc: "Kalifornijo"

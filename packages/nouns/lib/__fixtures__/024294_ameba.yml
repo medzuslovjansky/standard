@@ -1,0 +1,22 @@
+---
+  id: "24294"
+  word: "ameba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ameba"
+      acc: "amebų"
+      gen: "ameby"
+      loc: "amebě"
+      dat: "amebě"
+      ins: "amebojų"
+      voc: "amebo"
+    plural: 
+      nom: "ameby"
+      acc: "ameby"
+      gen: "ameb"
+      loc: "amebah"
+      dat: "amebam"
+      ins: "amebami"
+      voc: "ameby"

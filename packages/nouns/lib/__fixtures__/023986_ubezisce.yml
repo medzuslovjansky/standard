@@ -1,0 +1,22 @@
+---
+  id: "23986"
+  word: "uběžišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uběžišče"
+      acc: "uběžišče"
+      gen: "uběžišča"
+      loc: "uběžišču"
+      dat: "uběžišču"
+      ins: "uběžiščem"
+      voc: "uběžišče"
+    plural: 
+      nom: "uběžišča"
+      acc: "uběžišča"
+      gen: "uběžišč"
+      loc: "uběžiščah"
+      dat: "uběžiščam"
+      ins: "uběžiščami"
+      voc: "uběžišča"

@@ -1,0 +1,15 @@
+---
+  id: "3980"
+  word: "blizkosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "blizkosť"
+      acc: "blizkosť"
+      gen: "blizkosti"
+      loc: "blizkosti"
+      dat: "blizkosti"
+      ins: "blizkosťjų"
+      voc: "blizkosti"

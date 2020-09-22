@@ -1,0 +1,22 @@
+---
+  id: "29824"
+  word: "pad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pad"
+      acc: "pad"
+      gen: "pada"
+      loc: "padu"
+      dat: "padu"
+      ins: "padom"
+      voc: "pade"
+    plural: 
+      nom: "pady"
+      acc: "pady"
+      gen: "padov"
+      loc: "padah"
+      dat: "padam"
+      ins: "padami"
+      voc: "pady"

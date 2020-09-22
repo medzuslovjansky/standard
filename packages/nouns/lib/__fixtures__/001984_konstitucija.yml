@@ -1,0 +1,22 @@
+---
+  id: "1984"
+  word: "konstitucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konstitucija"
+      acc: "konstitucijų"
+      gen: "konstitucije"
+      loc: "konstituciji"
+      dat: "konstituciji"
+      ins: "konstitucijejų"
+      voc: "konstitucijo"
+    plural: 
+      nom: "konstitucije"
+      acc: "konstitucije"
+      gen: "konstitucij"
+      loc: "konstitucijah"
+      dat: "konstitucijam"
+      ins: "konstitucijami"
+      voc: "konstitucije"

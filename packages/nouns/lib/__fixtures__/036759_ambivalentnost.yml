@@ -1,0 +1,22 @@
+---
+  id: "36759"
+  word: "ambivalentnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ambivalentnosť"
+      acc: "ambivalentnosť"
+      gen: "ambivalentnosti"
+      loc: "ambivalentnosti"
+      dat: "ambivalentnosti"
+      ins: "ambivalentnosťjų"
+      voc: "ambivalentnosti"
+    plural: 
+      nom: "ambivalentnosti"
+      acc: "ambivalentnosti"
+      gen: "ambivalentnostij"
+      loc: "ambivalentnosťah"
+      dat: "ambivalentnosťam"
+      ins: "ambivalentnosťami"
+      voc: "ambivalentnosti"

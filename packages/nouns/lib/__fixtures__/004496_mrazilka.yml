@@ -1,0 +1,22 @@
+---
+  id: "4496"
+  word: "mråzilka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mråzilka"
+      acc: "mråzilkų"
+      gen: "mråzilky"
+      loc: "mråzilkě"
+      dat: "mråzilkě"
+      ins: "mråzilkojų"
+      voc: "mråzilko"
+    plural: 
+      nom: "mråzilky"
+      acc: "mråzilky"
+      gen: "mråzilȯk"
+      loc: "mråzilkah"
+      dat: "mråzilkam"
+      ins: "mråzilkami"
+      voc: "mråzilky"

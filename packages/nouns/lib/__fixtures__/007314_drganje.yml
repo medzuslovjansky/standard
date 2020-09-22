@@ -1,0 +1,15 @@
+---
+  id: "7314"
+  word: "drgańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "drgańje"
+      acc: "drgańje"
+      gen: "drgańja"
+      loc: "drgańju"
+      dat: "drgańju"
+      ins: "drgańjem"
+      voc: "drgańje"

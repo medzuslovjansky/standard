@@ -1,0 +1,22 @@
+---
+  id: "23303"
+  word: "tajenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tajenstvo"
+      acc: "tajenstvo"
+      gen: "tajenstva"
+      loc: "tajenstvu"
+      dat: "tajenstvu"
+      ins: "tajenstvom"
+      voc: "tajenstvo"
+    plural: 
+      nom: "tajenstva"
+      acc: "tajenstva"
+      gen: "tajenstv"
+      loc: "tajenstvah"
+      dat: "tajenstvam"
+      ins: "tajenstvami"
+      voc: "tajenstva"

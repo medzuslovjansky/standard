@@ -1,0 +1,22 @@
+---
+  id: "303"
+  word: "ikra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ikra"
+      acc: "ikrų"
+      gen: "ikry"
+      loc: "ikrě"
+      dat: "ikrě"
+      ins: "ikrojų"
+      voc: "ikro"
+    plural: 
+      nom: "ikry"
+      acc: "ikry"
+      gen: "ikr"
+      loc: "ikrah"
+      dat: "ikram"
+      ins: "ikrami"
+      voc: "ikry"

@@ -1,0 +1,22 @@
+---
+  id: "35498"
+  word: "zatvorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zatvorka"
+      acc: "zatvorkų"
+      gen: "zatvorky"
+      loc: "zatvorkě"
+      dat: "zatvorkě"
+      ins: "zatvorkojų"
+      voc: "zatvorko"
+    plural: 
+      nom: "zatvorky"
+      acc: "zatvorky"
+      gen: "zatvorȯk"
+      loc: "zatvorkah"
+      dat: "zatvorkam"
+      ins: "zatvorkami"
+      voc: "zatvorky"

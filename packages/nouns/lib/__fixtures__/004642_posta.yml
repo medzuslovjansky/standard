@@ -1,0 +1,22 @@
+---
+  id: "4642"
+  word: "pošta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pošta"
+      acc: "poštų"
+      gen: "pošty"
+      loc: "poště"
+      dat: "poště"
+      ins: "poštojų"
+      voc: "pošto"
+    plural: 
+      nom: "pošty"
+      acc: "pošty"
+      gen: "pošt"
+      loc: "poštah"
+      dat: "poštam"
+      ins: "poštami"
+      voc: "pošty"

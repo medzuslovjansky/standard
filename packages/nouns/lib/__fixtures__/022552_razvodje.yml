@@ -1,0 +1,22 @@
+---
+  id: "22552"
+  word: "råzvoďje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzvoďje"
+      acc: "råzvoďje"
+      gen: "råzvoďja"
+      loc: "råzvoďju"
+      dat: "råzvoďju"
+      ins: "råzvoďjem"
+      voc: "råzvoďje"
+    plural: 
+      nom: "råzvoďja"
+      acc: "råzvoďja"
+      gen: "råzvodij"
+      loc: "råzvoďjah"
+      dat: "råzvoďjam"
+      ins: "råzvoďjami"
+      voc: "råzvoďja"

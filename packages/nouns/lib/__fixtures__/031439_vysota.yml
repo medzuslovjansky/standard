@@ -1,0 +1,22 @@
+---
+  id: "31439"
+  word: "vysota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vysota"
+      acc: "vysotų"
+      gen: "vysoty"
+      loc: "vysotě"
+      dat: "vysotě"
+      ins: "vysotojų"
+      voc: "vysoto"
+    plural: 
+      nom: "vysoty"
+      acc: "vysoty"
+      gen: "vysot"
+      loc: "vysotah"
+      dat: "vysotam"
+      ins: "vysotami"
+      voc: "vysoty"

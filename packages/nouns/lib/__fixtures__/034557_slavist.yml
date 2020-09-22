@@ -1,0 +1,23 @@
+---
+  id: "34557"
+  word: "slavist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slavist"
+      acc: "slavista"
+      gen: "slavista"
+      loc: "slavistu"
+      dat: "slavistu"
+      ins: "slavistom"
+      voc: "slaviste"
+    plural: 
+      nom: "slavisti"
+      acc: "slavistov"
+      gen: "slavistov"
+      loc: "slavistah"
+      dat: "slavistam"
+      ins: "slavistami"
+      voc: "slavisti"

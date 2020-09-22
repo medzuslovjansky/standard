@@ -1,0 +1,23 @@
+---
+  id: "35079"
+  word: "major"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "major"
+      acc: "majora"
+      gen: "majora"
+      loc: "majoru"
+      dat: "majoru"
+      ins: "majorom"
+      voc: "majore"
+    plural: 
+      nom: "majori"
+      acc: "majorov"
+      gen: "majorov"
+      loc: "majorah"
+      dat: "majoram"
+      ins: "majorami"
+      voc: "majori"

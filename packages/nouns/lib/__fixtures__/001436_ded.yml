@@ -1,0 +1,23 @@
+---
+  id: "1436"
+  word: "děd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "děd"
+      acc: "děda"
+      gen: "děda"
+      loc: "dědu"
+      dat: "dědu"
+      ins: "dědom"
+      voc: "děde"
+    plural: 
+      nom: "dědi"
+      acc: "dědov"
+      gen: "dědov"
+      loc: "dědah"
+      dat: "dědam"
+      ins: "dědami"
+      voc: "dědi"

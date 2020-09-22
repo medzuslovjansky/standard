@@ -1,0 +1,23 @@
+---
+  id: "12889"
+  word: "tajnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tajnik"
+      acc: "tajnika"
+      gen: "tajnika"
+      loc: "tajniku"
+      dat: "tajniku"
+      ins: "tajnikom"
+      voc: "tajniče"
+    plural: 
+      nom: "tajniki"
+      acc: "tajnikov"
+      gen: "tajnikov"
+      loc: "tajnikah"
+      dat: "tajnikam"
+      ins: "tajnikami"
+      voc: "tajniki"

@@ -1,0 +1,22 @@
+---
+  id: "26570"
+  word: "klobuk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klobuk"
+      acc: "klobuk"
+      gen: "klobuka"
+      loc: "klobuku"
+      dat: "klobuku"
+      ins: "klobukom"
+      voc: "klobuče"
+    plural: 
+      nom: "klobuky"
+      acc: "klobuky"
+      gen: "klobukov"
+      loc: "klobukah"
+      dat: "klobukam"
+      ins: "klobukami"
+      voc: "klobuky"

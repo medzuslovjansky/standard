@@ -1,0 +1,22 @@
+---
+  id: "35807"
+  word: "doktorat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "doktorat"
+      acc: "doktorat"
+      gen: "doktorata"
+      loc: "doktoratu"
+      dat: "doktoratu"
+      ins: "doktoratom"
+      voc: "doktorate"
+    plural: 
+      nom: "doktoraty"
+      acc: "doktoraty"
+      gen: "doktoratov"
+      loc: "doktoratah"
+      dat: "doktoratam"
+      ins: "doktoratami"
+      voc: "doktoraty"

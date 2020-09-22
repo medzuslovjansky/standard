@@ -1,0 +1,15 @@
+---
+  id: "28644"
+  word: "nagȯtky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nagȯtky"
+      acc: "nagȯtky"
+      gen: "nagȯtkov"
+      loc: "nagȯtkah"
+      dat: "nagȯtkam"
+      ins: "nagȯtkami"
+      voc: "nagȯtky"

@@ -1,0 +1,15 @@
+---
+  id: "22620"
+  word: "hrom"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hrom"
+      acc: "hrom"
+      gen: "hroma"
+      loc: "hromu"
+      dat: "hromu"
+      ins: "hromom"
+      voc: "hrome"

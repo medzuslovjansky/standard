@@ -1,0 +1,22 @@
+---
+  id: "4129"
+  word: "prijateljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prijateljstvo"
+      acc: "prijateljstvo"
+      gen: "prijateljstva"
+      loc: "prijateljstvu"
+      dat: "prijateljstvu"
+      ins: "prijateljstvom"
+      voc: "prijateljstvo"
+    plural: 
+      nom: "prijateljstva"
+      acc: "prijateljstva"
+      gen: "prijateljstv"
+      loc: "prijateljstvah"
+      dat: "prijateljstvam"
+      ins: "prijateljstvami"
+      voc: "prijateljstva"

@@ -1,0 +1,15 @@
+---
+  id: "1073"
+  word: "protivdějstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "protivdějstvo"
+      acc: "protivdějstvo"
+      gen: "protivdějstva"
+      loc: "protivdějstvu"
+      dat: "protivdějstvu"
+      ins: "protivdějstvom"
+      voc: "protivdějstvo"

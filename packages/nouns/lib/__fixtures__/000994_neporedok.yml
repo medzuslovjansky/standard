@@ -1,0 +1,15 @@
+---
+  id: "994"
+  word: "neporędȯk"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neporędȯk"
+      acc: "neporędȯk"
+      gen: "neporędka"
+      loc: "neporędku"
+      dat: "neporędku"
+      ins: "neporędkom"
+      voc: "neporędče"

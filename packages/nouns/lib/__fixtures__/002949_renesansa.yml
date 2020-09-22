@@ -1,0 +1,22 @@
+---
+  id: "2949"
+  word: "renesansa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "renesansa"
+      acc: "renesansų"
+      gen: "renesansy"
+      loc: "renesansě"
+      dat: "renesansě"
+      ins: "renesansojų"
+      voc: "renesanso"
+    plural: 
+      nom: "renesansy"
+      acc: "renesansy"
+      gen: "renesans"
+      loc: "renesansah"
+      dat: "renesansam"
+      ins: "renesansami"
+      voc: "renesansy"

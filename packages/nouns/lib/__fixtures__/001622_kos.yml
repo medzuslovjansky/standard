@@ -1,0 +1,23 @@
+---
+  id: "1622"
+  word: "kos"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kos"
+      acc: "kosa"
+      gen: "kosa"
+      loc: "kosu"
+      dat: "kosu"
+      ins: "kosom"
+      voc: "kose"
+    plural: 
+      nom: "kosi"
+      acc: "kosov"
+      gen: "kosov"
+      loc: "kosah"
+      dat: "kosam"
+      ins: "kosami"
+      voc: "kosi"

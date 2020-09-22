@@ -1,0 +1,22 @@
+---
+  id: "25649"
+  word: "gȯltka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gȯltka"
+      acc: "gȯltkų"
+      gen: "gȯltky"
+      loc: "gȯltkě"
+      dat: "gȯltkě"
+      ins: "gȯltkojų"
+      voc: "gȯltko"
+    plural: 
+      nom: "gȯltky"
+      acc: "gȯltky"
+      gen: "gȯltȯk"
+      loc: "gȯltkah"
+      dat: "gȯltkam"
+      ins: "gȯltkami"
+      voc: "gȯltky"

@@ -1,0 +1,23 @@
+---
+  id: "22794"
+  word: "prośak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prośak"
+      acc: "prośaka"
+      gen: "prośaka"
+      loc: "prośaku"
+      dat: "prośaku"
+      ins: "prośakom"
+      voc: "prośače"
+    plural: 
+      nom: "prośaki"
+      acc: "prośakov"
+      gen: "prośakov"
+      loc: "prośakah"
+      dat: "prośakam"
+      ins: "prośakami"
+      voc: "prośaki"

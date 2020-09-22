@@ -1,0 +1,22 @@
+---
+  id: "35591"
+  word: "server"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "server"
+      acc: "server"
+      gen: "servera"
+      loc: "serveru"
+      dat: "serveru"
+      ins: "serverom"
+      voc: "servere"
+    plural: 
+      nom: "servery"
+      acc: "servery"
+      gen: "serverov"
+      loc: "serverah"
+      dat: "serveram"
+      ins: "serverami"
+      voc: "servery"

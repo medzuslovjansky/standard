@@ -1,0 +1,23 @@
+---
+  id: "1571"
+  word: "prěvoditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěvoditelj"
+      acc: "prěvoditelja"
+      gen: "prěvoditelja"
+      loc: "prěvoditelju"
+      dat: "prěvoditelju"
+      ins: "prěvoditeljem"
+      voc: "prěvoditelju"
+    plural: 
+      nom: "prěvoditelji"
+      acc: "prěvoditeljev"
+      gen: "prěvoditeljev"
+      loc: "prěvoditeljah"
+      dat: "prěvoditeljam"
+      ins: "prěvoditeljami"
+      voc: "prěvoditelji"

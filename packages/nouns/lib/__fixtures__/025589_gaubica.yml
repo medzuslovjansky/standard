@@ -1,0 +1,22 @@
+---
+  id: "25589"
+  word: "gaubica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gaubica"
+      acc: "gaubicų"
+      gen: "gaubice"
+      loc: "gaubici"
+      dat: "gaubici"
+      ins: "gaubicejų"
+      voc: "gaubico"
+    plural: 
+      nom: "gaubice"
+      acc: "gaubice"
+      gen: "gaubic"
+      loc: "gaubicah"
+      dat: "gaubicam"
+      ins: "gaubicami"
+      voc: "gaubice"

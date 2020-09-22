@@ -1,0 +1,22 @@
+---
+  id: "31125"
+  word: "veranda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veranda"
+      acc: "verandų"
+      gen: "verandy"
+      loc: "verandě"
+      dat: "verandě"
+      ins: "verandojų"
+      voc: "verando"
+    plural: 
+      nom: "verandy"
+      acc: "verandy"
+      gen: "verand"
+      loc: "verandah"
+      dat: "verandam"
+      ins: "verandami"
+      voc: "verandy"

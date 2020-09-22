@@ -1,0 +1,47 @@
+---
+  - 
+    id: "19768"
+    word: "językotvoritelj"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "językotvoritelj"
+        acc: "językotvoritelja"
+        gen: "językotvoritelja"
+        loc: "językotvoritelju"
+        dat: "językotvoritelju"
+        ins: "językotvoriteljem"
+        voc: "językotvoritelju"
+      plural: 
+        nom: "językotvoritelji"
+        acc: "językotvoriteljev"
+        gen: "językotvoriteljev"
+        loc: "językotvoriteljah"
+        dat: "językotvoriteljam"
+        ins: "językotvoriteljami"
+        voc: "językotvoritelji"
+  - 
+    id: "19768"
+    word: "językotvorec"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "językotvorec"
+        acc: "językotvorca"
+        gen: "językotvorca"
+        loc: "językotvorcu"
+        dat: "językotvorcu"
+        ins: "językotvorcem"
+        voc: "językotvorče"
+      plural: 
+        nom: "językotvorci"
+        acc: "językotvorcev"
+        gen: "językotvorcev"
+        loc: "językotvorcah"
+        dat: "językotvorcam"
+        ins: "językotvorcami"
+        voc: "językotvorci"

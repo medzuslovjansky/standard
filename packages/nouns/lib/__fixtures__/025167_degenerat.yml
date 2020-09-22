@@ -1,0 +1,23 @@
+---
+  id: "25167"
+  word: "degenerat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "degenerat"
+      acc: "degenerata"
+      gen: "degenerata"
+      loc: "degeneratu"
+      dat: "degeneratu"
+      ins: "degeneratom"
+      voc: "degenerate"
+    plural: 
+      nom: "degenerati"
+      acc: "degeneratov"
+      gen: "degeneratov"
+      loc: "degeneratah"
+      dat: "degeneratam"
+      ins: "degeneratami"
+      voc: "degenerati"

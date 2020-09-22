@@ -1,0 +1,22 @@
+---
+  id: "30981"
+  word: "vakcina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vakcina"
+      acc: "vakcinų"
+      gen: "vakciny"
+      loc: "vakcině"
+      dat: "vakcině"
+      ins: "vakcinojų"
+      voc: "vakcino"
+    plural: 
+      nom: "vakciny"
+      acc: "vakciny"
+      gen: "vakcin"
+      loc: "vakcinah"
+      dat: "vakcinam"
+      ins: "vakcinami"
+      voc: "vakciny"

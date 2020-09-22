@@ -1,0 +1,23 @@
+---
+  id: "1477"
+  word: "sponsor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sponsor"
+      acc: "sponsora"
+      gen: "sponsora"
+      loc: "sponsoru"
+      dat: "sponsoru"
+      ins: "sponsorom"
+      voc: "sponsore"
+    plural: 
+      nom: "sponsori"
+      acc: "sponsorov"
+      gen: "sponsorov"
+      loc: "sponsorah"
+      dat: "sponsoram"
+      ins: "sponsorami"
+      voc: "sponsori"

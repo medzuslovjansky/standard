@@ -1,0 +1,22 @@
+---
+  id: "10693"
+  word: "poddavajemosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poddavajemosť"
+      acc: "poddavajemosť"
+      gen: "poddavajemosti"
+      loc: "poddavajemosti"
+      dat: "poddavajemosti"
+      ins: "poddavajemosťjų"
+      voc: "poddavajemosti"
+    plural: 
+      nom: "poddavajemosti"
+      acc: "poddavajemosti"
+      gen: "poddavajemostij"
+      loc: "poddavajemosťah"
+      dat: "poddavajemosťam"
+      ins: "poddavajemosťami"
+      voc: "poddavajemosti"

@@ -1,0 +1,22 @@
+---
+  id: "6931"
+  word: "čuťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čuťje"
+      acc: "čuťje"
+      gen: "čuťja"
+      loc: "čuťju"
+      dat: "čuťju"
+      ins: "čuťjem"
+      voc: "čuťje"
+    plural: 
+      nom: "čuťja"
+      acc: "čuťja"
+      gen: "čutij"
+      loc: "čuťjah"
+      dat: "čuťjam"
+      ins: "čuťjami"
+      voc: "čuťja"

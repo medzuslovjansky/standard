@@ -1,0 +1,22 @@
+---
+  id: "15211"
+  word: "zatopjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zatopjeńje"
+      acc: "zatopjeńje"
+      gen: "zatopjeńja"
+      loc: "zatopjeńju"
+      dat: "zatopjeńju"
+      ins: "zatopjeńjem"
+      voc: "zatopjeńje"
+    plural: 
+      nom: "zatopjeńja"
+      acc: "zatopjeńja"
+      gen: "zatopjenij"
+      loc: "zatopjeńjah"
+      dat: "zatopjeńjam"
+      ins: "zatopjeńjami"
+      voc: "zatopjeńja"

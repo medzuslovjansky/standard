@@ -1,0 +1,22 @@
+---
+  id: "10065"
+  word: "odstųpjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odstųpjeńje"
+      acc: "odstųpjeńje"
+      gen: "odstųpjeńja"
+      loc: "odstųpjeńju"
+      dat: "odstųpjeńju"
+      ins: "odstųpjeńjem"
+      voc: "odstųpjeńje"
+    plural: 
+      nom: "odstųpjeńja"
+      acc: "odstųpjeńja"
+      gen: "odstųpjenij"
+      loc: "odstųpjeńjah"
+      dat: "odstųpjeńjam"
+      ins: "odstųpjeńjami"
+      voc: "odstųpjeńja"

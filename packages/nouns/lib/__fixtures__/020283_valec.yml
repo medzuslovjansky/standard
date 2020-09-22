@@ -1,0 +1,22 @@
+---
+  id: "20283"
+  word: "valec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "valec"
+      acc: "valec"
+      gen: "valca"
+      loc: "valcu"
+      dat: "valcu"
+      ins: "valcem"
+      voc: "valče"
+    plural: 
+      nom: "valce"
+      acc: "valce"
+      gen: "valcev"
+      loc: "valcah"
+      dat: "valcam"
+      ins: "valcami"
+      voc: "valce"

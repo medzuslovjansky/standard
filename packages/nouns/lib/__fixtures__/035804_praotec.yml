@@ -1,0 +1,23 @@
+---
+  id: "35804"
+  word: "praotec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "praotec"
+      acc: "praotca"
+      gen: "praotca"
+      loc: "praotcu"
+      dat: "praotcu"
+      ins: "praotcem"
+      voc: "praotče"
+    plural: 
+      nom: "praotci"
+      acc: "praotcev"
+      gen: "praotcev"
+      loc: "praotcah"
+      dat: "praotcam"
+      ins: "praotcami"
+      voc: "praotci"

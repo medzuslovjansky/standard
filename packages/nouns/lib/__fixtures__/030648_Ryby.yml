@@ -1,0 +1,15 @@
+---
+  id: "30648"
+  word: "Ryby"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Ryby"
+      acc: "Ryby"
+      gen: "Ryb"
+      loc: "Rybah"
+      dat: "Rybam"
+      ins: "Rybami"
+      voc: "Ryby"

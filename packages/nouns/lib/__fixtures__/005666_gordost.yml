@@ -1,0 +1,22 @@
+---
+  id: "5666"
+  word: "gȯrdosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gȯrdosť"
+      acc: "gȯrdosť"
+      gen: "gȯrdosti"
+      loc: "gȯrdosti"
+      dat: "gȯrdosti"
+      ins: "gȯrdosťjų"
+      voc: "gȯrdosti"
+    plural: 
+      nom: "gȯrdosti"
+      acc: "gȯrdosti"
+      gen: "gȯrdostij"
+      loc: "gȯrdosťah"
+      dat: "gȯrdosťam"
+      ins: "gȯrdosťami"
+      voc: "gȯrdosti"

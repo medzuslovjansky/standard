@@ -1,0 +1,22 @@
+---
+  id: "10767"
+  word: "podslušivańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podslušivańje"
+      acc: "podslušivańje"
+      gen: "podslušivańja"
+      loc: "podslušivańju"
+      dat: "podslušivańju"
+      ins: "podslušivańjem"
+      voc: "podslušivańje"
+    plural: 
+      nom: "podslušivańja"
+      acc: "podslušivańja"
+      gen: "podslušivanij"
+      loc: "podslušivańjah"
+      dat: "podslušivańjam"
+      ins: "podslušivańjami"
+      voc: "podslušivańja"

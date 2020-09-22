@@ -1,0 +1,23 @@
+---
+  id: "23996"
+  word: "geograf"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "geograf"
+      acc: "geografa"
+      gen: "geografa"
+      loc: "geografu"
+      dat: "geografu"
+      ins: "geografom"
+      voc: "geografe"
+    plural: 
+      nom: "geografi"
+      acc: "geografov"
+      gen: "geografov"
+      loc: "geografah"
+      dat: "geografam"
+      ins: "geografami"
+      voc: "geografi"

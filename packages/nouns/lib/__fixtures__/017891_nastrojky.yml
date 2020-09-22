@@ -1,0 +1,15 @@
+---
+  id: "17891"
+  word: "nastrojky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nastrojky"
+      acc: "nastrojky"
+      gen: "nastrojk"
+      loc: "nastrojkah"
+      dat: "nastrojkam"
+      ins: "nastrojkami"
+      voc: "nastrojky"

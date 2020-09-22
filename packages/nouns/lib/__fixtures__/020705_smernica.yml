@@ -1,0 +1,22 @@
+---
+  id: "20705"
+  word: "směrnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "směrnica"
+      acc: "směrnicų"
+      gen: "směrnice"
+      loc: "směrnici"
+      dat: "směrnici"
+      ins: "směrnicejų"
+      voc: "směrnico"
+    plural: 
+      nom: "směrnice"
+      acc: "směrnice"
+      gen: "směrnic"
+      loc: "směrnicah"
+      dat: "směrnicam"
+      ins: "směrnicami"
+      voc: "směrnice"

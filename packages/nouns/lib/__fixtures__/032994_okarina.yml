@@ -1,0 +1,22 @@
+---
+  id: "32994"
+  word: "okarina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okarina"
+      acc: "okarinų"
+      gen: "okariny"
+      loc: "okarině"
+      dat: "okarině"
+      ins: "okarinojų"
+      voc: "okarino"
+    plural: 
+      nom: "okariny"
+      acc: "okariny"
+      gen: "okarin"
+      loc: "okarinah"
+      dat: "okarinam"
+      ins: "okarinami"
+      voc: "okariny"

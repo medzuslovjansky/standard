@@ -1,0 +1,22 @@
+---
+  id: "36460"
+  word: "kvalifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvalifikacija"
+      acc: "kvalifikacijų"
+      gen: "kvalifikacije"
+      loc: "kvalifikaciji"
+      dat: "kvalifikaciji"
+      ins: "kvalifikacijejų"
+      voc: "kvalifikacijo"
+    plural: 
+      nom: "kvalifikacije"
+      acc: "kvalifikacije"
+      gen: "kvalifikacij"
+      loc: "kvalifikacijah"
+      dat: "kvalifikacijam"
+      ins: "kvalifikacijami"
+      voc: "kvalifikacije"

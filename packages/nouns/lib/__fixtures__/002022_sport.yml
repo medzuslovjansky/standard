@@ -1,0 +1,22 @@
+---
+  id: "2022"
+  word: "sport"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sport"
+      acc: "sport"
+      gen: "sporta"
+      loc: "sportu"
+      dat: "sportu"
+      ins: "sportom"
+      voc: "sporte"
+    plural: 
+      nom: "sporty"
+      acc: "sporty"
+      gen: "sportov"
+      loc: "sportah"
+      dat: "sportam"
+      ins: "sportami"
+      voc: "sporty"

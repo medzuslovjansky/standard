@@ -1,0 +1,22 @@
+---
+  id: "4954"
+  word: "bojkot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bojkot"
+      acc: "bojkot"
+      gen: "bojkota"
+      loc: "bojkotu"
+      dat: "bojkotu"
+      ins: "bojkotom"
+      voc: "bojkote"
+    plural: 
+      nom: "bojkoty"
+      acc: "bojkoty"
+      gen: "bojkotov"
+      loc: "bojkotah"
+      dat: "bojkotam"
+      ins: "bojkotami"
+      voc: "bojkoty"

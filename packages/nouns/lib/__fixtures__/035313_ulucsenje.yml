@@ -1,0 +1,22 @@
+---
+  id: "35313"
+  word: "ulučšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ulučšeńje"
+      acc: "ulučšeńje"
+      gen: "ulučšeńja"
+      loc: "ulučšeńju"
+      dat: "ulučšeńju"
+      ins: "ulučšeńjem"
+      voc: "ulučšeńje"
+    plural: 
+      nom: "ulučšeńja"
+      acc: "ulučšeńja"
+      gen: "ulučšenij"
+      loc: "ulučšeńjah"
+      dat: "ulučšeńjam"
+      ins: "ulučšeńjami"
+      voc: "ulučšeńja"

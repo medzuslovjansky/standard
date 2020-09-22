@@ -1,0 +1,22 @@
+---
+  id: "18532"
+  word: "propeler"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "propeler"
+      acc: "propeler"
+      gen: "propelera"
+      loc: "propeleru"
+      dat: "propeleru"
+      ins: "propelerom"
+      voc: "propelere"
+    plural: 
+      nom: "propelery"
+      acc: "propelery"
+      gen: "propelerov"
+      loc: "propelerah"
+      dat: "propeleram"
+      ins: "propelerami"
+      voc: "propelery"

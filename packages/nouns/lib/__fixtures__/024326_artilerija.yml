@@ -1,0 +1,15 @@
+---
+  id: "24326"
+  word: "artilerija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "artilerija"
+      acc: "artilerijų"
+      gen: "artilerije"
+      loc: "artileriji"
+      dat: "artileriji"
+      ins: "artilerijejų"
+      voc: "artilerijo"

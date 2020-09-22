@@ -1,0 +1,22 @@
+---
+  id: "14499"
+  word: "članȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "članȯk"
+      acc: "članȯk"
+      gen: "članka"
+      loc: "članku"
+      dat: "članku"
+      ins: "člankom"
+      voc: "članče"
+    plural: 
+      nom: "članky"
+      acc: "članky"
+      gen: "člankov"
+      loc: "člankah"
+      dat: "člankam"
+      ins: "člankami"
+      voc: "članky"

@@ -1,0 +1,15 @@
+---
+  id: "23655"
+  word: "Volga"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Volga"
+      acc: "Volgų"
+      gen: "Volgy"
+      loc: "Volgě"
+      dat: "Volgě"
+      ins: "Volgojų"
+      voc: "Volgo"

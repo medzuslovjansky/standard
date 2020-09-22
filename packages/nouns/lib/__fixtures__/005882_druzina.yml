@@ -1,0 +1,22 @@
+---
+  id: "5882"
+  word: "družina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "družina"
+      acc: "družinų"
+      gen: "družiny"
+      loc: "družině"
+      dat: "družině"
+      ins: "družinojų"
+      voc: "družino"
+    plural: 
+      nom: "družiny"
+      acc: "družiny"
+      gen: "družin"
+      loc: "družinah"
+      dat: "družinam"
+      ins: "družinami"
+      voc: "družiny"

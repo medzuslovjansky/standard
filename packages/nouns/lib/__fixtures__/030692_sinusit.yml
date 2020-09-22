@@ -1,0 +1,15 @@
+---
+  id: "30692"
+  word: "sinusit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sinusit"
+      acc: "sinusit"
+      gen: "sinusita"
+      loc: "sinusitu"
+      dat: "sinusitu"
+      ins: "sinusitom"
+      voc: "sinusite"

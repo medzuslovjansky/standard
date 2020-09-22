@@ -1,0 +1,22 @@
+---
+  id: "23737"
+  word: "obmysljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obmysljeńje"
+      acc: "obmysljeńje"
+      gen: "obmysljeńja"
+      loc: "obmysljeńju"
+      dat: "obmysljeńju"
+      ins: "obmysljeńjem"
+      voc: "obmysljeńje"
+    plural: 
+      nom: "obmysljeńja"
+      acc: "obmysljeńja"
+      gen: "obmysljenij"
+      loc: "obmysljeńjah"
+      dat: "obmysljeńjam"
+      ins: "obmysljeńjami"
+      voc: "obmysljeńja"

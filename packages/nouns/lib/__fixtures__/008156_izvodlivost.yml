@@ -1,0 +1,22 @@
+---
+  id: "8156"
+  word: "izvodlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izvodlivosť"
+      acc: "izvodlivosť"
+      gen: "izvodlivosti"
+      loc: "izvodlivosti"
+      dat: "izvodlivosti"
+      ins: "izvodlivosťjų"
+      voc: "izvodlivosti"
+    plural: 
+      nom: "izvodlivosti"
+      acc: "izvodlivosti"
+      gen: "izvodlivostij"
+      loc: "izvodlivosťah"
+      dat: "izvodlivosťam"
+      ins: "izvodlivosťami"
+      voc: "izvodlivosti"

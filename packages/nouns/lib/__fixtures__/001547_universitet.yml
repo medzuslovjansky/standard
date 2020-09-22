@@ -1,0 +1,22 @@
+---
+  id: "1547"
+  word: "universitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "universitet"
+      acc: "universitet"
+      gen: "universiteta"
+      loc: "universitetu"
+      dat: "universitetu"
+      ins: "universitetom"
+      voc: "universitete"
+    plural: 
+      nom: "universitety"
+      acc: "universitety"
+      gen: "universitetov"
+      loc: "universitetah"
+      dat: "universitetam"
+      ins: "universitetami"
+      voc: "universitety"

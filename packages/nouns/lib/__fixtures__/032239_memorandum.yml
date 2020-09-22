@@ -1,0 +1,22 @@
+---
+  id: "32239"
+  word: "memorandum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "memorandum"
+      acc: "memorandum"
+      gen: "memoranduma"
+      loc: "memorandumu"
+      dat: "memorandumu"
+      ins: "memorandumom"
+      voc: "memorandum"
+    plural: 
+      nom: "memoranduma"
+      acc: "memoranduma"
+      gen: "memorandum"
+      loc: "memorandumah"
+      dat: "memorandumam"
+      ins: "memorandumami"
+      voc: "memoranduma"

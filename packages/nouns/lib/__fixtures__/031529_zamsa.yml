@@ -1,0 +1,22 @@
+---
+  id: "31529"
+  word: "zamša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zamša"
+      acc: "zamšų"
+      gen: "zamše"
+      loc: "zamši"
+      dat: "zamši"
+      ins: "zamšejų"
+      voc: "zamšo"
+    plural: 
+      nom: "zamše"
+      acc: "zamše"
+      gen: "zameš"
+      loc: "zamšah"
+      dat: "zamšam"
+      ins: "zamšami"
+      voc: "zamše"

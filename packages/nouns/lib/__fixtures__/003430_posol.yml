@@ -1,0 +1,24 @@
+---
+  id: "3430"
+  word: "posȯl"
+  meta: 
+    irregularity: "(posla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pos(ȯ)l"
+      acc: "pos(ȯ)la"
+      gen: "pos(ȯ)la"
+      loc: "pos(ȯ)lu"
+      dat: "pos(ȯ)lu"
+      ins: "pos(ȯ)lom"
+      voc: "pos(ȯ)le"
+    plural: 
+      nom: "pos(ȯ)li"
+      acc: "pos(ȯ)lov"
+      gen: "pos(ȯ)lov"
+      loc: "pos(ȯ)lah"
+      dat: "pos(ȯ)lam"
+      ins: "pos(ȯ)lami"
+      voc: "pos(ȯ)li"

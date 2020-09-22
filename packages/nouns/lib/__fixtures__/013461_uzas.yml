@@ -1,0 +1,22 @@
+---
+  id: "13461"
+  word: "užas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "užas"
+      acc: "užas"
+      gen: "užasa"
+      loc: "užasu"
+      dat: "užasu"
+      ins: "užasom"
+      voc: "užase"
+    plural: 
+      nom: "užasy"
+      acc: "užasy"
+      gen: "užasov"
+      loc: "užasah"
+      dat: "užasam"
+      ins: "užasami"
+      voc: "užasy"

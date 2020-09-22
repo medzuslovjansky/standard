@@ -1,0 +1,22 @@
+---
+  id: "31402"
+  word: "vulkanizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vulkanizacija"
+      acc: "vulkanizacijų"
+      gen: "vulkanizacije"
+      loc: "vulkanizaciji"
+      dat: "vulkanizaciji"
+      ins: "vulkanizacijejų"
+      voc: "vulkanizacijo"
+    plural: 
+      nom: "vulkanizacije"
+      acc: "vulkanizacije"
+      gen: "vulkanizacij"
+      loc: "vulkanizacijah"
+      dat: "vulkanizacijam"
+      ins: "vulkanizacijami"
+      voc: "vulkanizacije"

@@ -1,0 +1,22 @@
+---
+  id: "5795"
+  word: "telegrama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "telegrama"
+      acc: "telegramų"
+      gen: "telegramy"
+      loc: "telegramě"
+      dat: "telegramě"
+      ins: "telegramojų"
+      voc: "telegramo"
+    plural: 
+      nom: "telegramy"
+      acc: "telegramy"
+      gen: "telegram"
+      loc: "telegramah"
+      dat: "telegramam"
+      ins: "telegramami"
+      voc: "telegramy"

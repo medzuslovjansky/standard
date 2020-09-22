@@ -1,0 +1,22 @@
+---
+  id: "885"
+  word: "měrjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "měrjeńje"
+      acc: "měrjeńje"
+      gen: "měrjeńja"
+      loc: "měrjeńju"
+      dat: "měrjeńju"
+      ins: "měrjeńjem"
+      voc: "měrjeńje"
+    plural: 
+      nom: "měrjeńja"
+      acc: "měrjeńja"
+      gen: "měrjenij"
+      loc: "měrjeńjah"
+      dat: "měrjeńjam"
+      ins: "měrjeńjami"
+      voc: "měrjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "25815"
+  word: "gręź"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gręź"
+      acc: "gręź"
+      gen: "gręzi"
+      loc: "gręzi"
+      dat: "gręzi"
+      ins: "gręźjų"
+      voc: "gręzi"
+    plural: 
+      nom: "gręzi"
+      acc: "gręzi"
+      gen: "gręzij"
+      loc: "gręźah"
+      dat: "gręźam"
+      ins: "gręźami"
+      voc: "gręzi"

@@ -1,0 +1,22 @@
+---
+  id: "16888"
+  word: "tlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tlo"
+      acc: "tlo"
+      gen: "tla"
+      loc: "tlu"
+      dat: "tlu"
+      ins: "tlom"
+      voc: "tlo"
+    plural: 
+      nom: "tla"
+      acc: "tla"
+      gen: "tȯl"
+      loc: "tlah"
+      dat: "tlam"
+      ins: "tlami"
+      voc: "tla"

@@ -1,0 +1,22 @@
+---
+  id: "3406"
+  word: "dȯlgosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯlgosť"
+      acc: "dȯlgosť"
+      gen: "dȯlgosti"
+      loc: "dȯlgosti"
+      dat: "dȯlgosti"
+      ins: "dȯlgosťjų"
+      voc: "dȯlgosti"
+    plural: 
+      nom: "dȯlgosti"
+      acc: "dȯlgosti"
+      gen: "dȯlgostij"
+      loc: "dȯlgosťah"
+      dat: "dȯlgosťam"
+      ins: "dȯlgosťami"
+      voc: "dȯlgosti"

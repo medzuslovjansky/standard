@@ -1,0 +1,15 @@
+---
+  id: "5049"
+  word: "džaz"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "džaz"
+      acc: "džaz"
+      gen: "džaza"
+      loc: "džazu"
+      dat: "džazu"
+      ins: "džazom"
+      voc: "džaze"

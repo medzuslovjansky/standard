@@ -1,0 +1,15 @@
+---
+  id: "23532"
+  word: "Dunaj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Dunaj"
+      acc: "Dunaj"
+      gen: "Dunaja"
+      loc: "Dunaju"
+      dat: "Dunaju"
+      ins: "Dunajem"
+      voc: "Dunaju"

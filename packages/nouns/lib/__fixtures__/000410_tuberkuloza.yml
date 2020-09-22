@@ -1,0 +1,22 @@
+---
+  id: "410"
+  word: "tuberkuloza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tuberkuloza"
+      acc: "tuberkulozų"
+      gen: "tuberkulozy"
+      loc: "tuberkulozě"
+      dat: "tuberkulozě"
+      ins: "tuberkulozojų"
+      voc: "tuberkulozo"
+    plural: 
+      nom: "tuberkulozy"
+      acc: "tuberkulozy"
+      gen: "tuberkuloz"
+      loc: "tuberkulozah"
+      dat: "tuberkulozam"
+      ins: "tuberkulozami"
+      voc: "tuberkulozy"

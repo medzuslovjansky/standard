@@ -1,0 +1,22 @@
+---
+  id: "1389"
+  word: "sestra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sestra"
+      acc: "sestrų"
+      gen: "sestry"
+      loc: "sestrě"
+      dat: "sestrě"
+      ins: "sestrojų"
+      voc: "sestro"
+    plural: 
+      nom: "sestry"
+      acc: "sestry"
+      gen: "sestr"
+      loc: "sestrah"
+      dat: "sestram"
+      ins: "sestrami"
+      voc: "sestry"

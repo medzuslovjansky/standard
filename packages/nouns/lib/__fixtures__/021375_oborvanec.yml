@@ -1,0 +1,23 @@
+---
+  id: "21375"
+  word: "obȯrvanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obȯrvanec"
+      acc: "obȯrvanca"
+      gen: "obȯrvanca"
+      loc: "obȯrvancu"
+      dat: "obȯrvancu"
+      ins: "obȯrvancem"
+      voc: "obȯrvanče"
+    plural: 
+      nom: "obȯrvanci"
+      acc: "obȯrvancev"
+      gen: "obȯrvancev"
+      loc: "obȯrvancah"
+      dat: "obȯrvancam"
+      ins: "obȯrvancami"
+      voc: "obȯrvanci"

@@ -1,0 +1,23 @@
+---
+  id: "3916"
+  word: "vebmaster"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vebmaster"
+      acc: "vebmastera"
+      gen: "vebmastera"
+      loc: "vebmasteru"
+      dat: "vebmasteru"
+      ins: "vebmasterom"
+      voc: "vebmastere"
+    plural: 
+      nom: "vebmasteri"
+      acc: "vebmasterov"
+      gen: "vebmasterov"
+      loc: "vebmasterah"
+      dat: "vebmasteram"
+      ins: "vebmasterami"
+      voc: "vebmasteri"

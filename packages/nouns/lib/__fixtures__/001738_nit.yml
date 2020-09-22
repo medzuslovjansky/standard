@@ -1,0 +1,22 @@
+---
+  id: "1738"
+  word: "niť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "niť"
+      acc: "niť"
+      gen: "niti"
+      loc: "niti"
+      dat: "niti"
+      ins: "niťjų"
+      voc: "niti"
+    plural: 
+      nom: "niti"
+      acc: "niti"
+      gen: "nitij"
+      loc: "niťah"
+      dat: "niťam"
+      ins: "niťami"
+      voc: "niti"

@@ -1,0 +1,22 @@
+---
+  id: "6093"
+  word: "reaktor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "reaktor"
+      acc: "reaktor"
+      gen: "reaktora"
+      loc: "reaktoru"
+      dat: "reaktoru"
+      ins: "reaktorom"
+      voc: "reaktore"
+    plural: 
+      nom: "reaktory"
+      acc: "reaktory"
+      gen: "reaktorov"
+      loc: "reaktorah"
+      dat: "reaktoram"
+      ins: "reaktorami"
+      voc: "reaktory"

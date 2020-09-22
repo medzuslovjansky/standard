@@ -1,0 +1,22 @@
+---
+  id: "21288"
+  word: "frak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "frak"
+      acc: "frak"
+      gen: "fraka"
+      loc: "fraku"
+      dat: "fraku"
+      ins: "frakom"
+      voc: "frače"
+    plural: 
+      nom: "fraky"
+      acc: "fraky"
+      gen: "frakov"
+      loc: "frakah"
+      dat: "frakam"
+      ins: "frakami"
+      voc: "fraky"

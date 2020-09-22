@@ -1,0 +1,22 @@
+---
+  id: "5328"
+  word: "produkt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "produkt"
+      acc: "produkt"
+      gen: "produkta"
+      loc: "produktu"
+      dat: "produktu"
+      ins: "produktom"
+      voc: "produkte"
+    plural: 
+      nom: "produkty"
+      acc: "produkty"
+      gen: "produktov"
+      loc: "produktah"
+      dat: "produktam"
+      ins: "produktami"
+      voc: "produkty"

@@ -1,0 +1,23 @@
+---
+  id: "20735"
+  word: "skvorec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skvorec"
+      acc: "skvorca"
+      gen: "skvorca"
+      loc: "skvorcu"
+      dat: "skvorcu"
+      ins: "skvorcem"
+      voc: "skvorče"
+    plural: 
+      nom: "skvorci"
+      acc: "skvorcev"
+      gen: "skvorcev"
+      loc: "skvorcah"
+      dat: "skvorcam"
+      ins: "skvorcami"
+      voc: "skvorci"

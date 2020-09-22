@@ -1,0 +1,23 @@
+---
+  id: "19505"
+  word: "oficer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "oficer"
+      acc: "oficera"
+      gen: "oficera"
+      loc: "oficeru"
+      dat: "oficeru"
+      ins: "oficerom"
+      voc: "oficere"
+    plural: 
+      nom: "oficeri"
+      acc: "oficerov"
+      gen: "oficerov"
+      loc: "oficerah"
+      dat: "oficeram"
+      ins: "oficerami"
+      voc: "oficeri"

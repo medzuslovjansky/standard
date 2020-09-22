@@ -1,0 +1,23 @@
+---
+  id: "35445"
+  word: "mečtatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mečtatelj"
+      acc: "mečtatelja"
+      gen: "mečtatelja"
+      loc: "mečtatelju"
+      dat: "mečtatelju"
+      ins: "mečtateljem"
+      voc: "mečtatelju"
+    plural: 
+      nom: "mečtatelji"
+      acc: "mečtateljev"
+      gen: "mečtateljev"
+      loc: "mečtateljah"
+      dat: "mečtateljam"
+      ins: "mečtateljami"
+      voc: "mečtatelji"

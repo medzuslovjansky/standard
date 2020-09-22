@@ -1,0 +1,22 @@
+---
+  id: "35302"
+  word: "miniatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "miniatura"
+      acc: "miniaturų"
+      gen: "miniatury"
+      loc: "miniaturě"
+      dat: "miniaturě"
+      ins: "miniaturojų"
+      voc: "miniaturo"
+    plural: 
+      nom: "miniatury"
+      acc: "miniatury"
+      gen: "miniatur"
+      loc: "miniaturah"
+      dat: "miniaturam"
+      ins: "miniaturami"
+      voc: "miniatury"

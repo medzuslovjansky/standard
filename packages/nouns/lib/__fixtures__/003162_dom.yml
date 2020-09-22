@@ -1,0 +1,22 @@
+---
+  id: "3162"
+  word: "dom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dom"
+      acc: "dom"
+      gen: "doma"
+      loc: "domu"
+      dat: "domu"
+      ins: "domom"
+      voc: "dome"
+    plural: 
+      nom: "domy"
+      acc: "domy"
+      gen: "domov"
+      loc: "domah"
+      dat: "domam"
+      ins: "domami"
+      voc: "domy"

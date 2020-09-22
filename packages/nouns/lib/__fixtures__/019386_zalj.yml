@@ -1,0 +1,22 @@
+---
+  id: "19386"
+  word: "žalj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žalj"
+      acc: "žalj"
+      gen: "žalja"
+      loc: "žalju"
+      dat: "žalju"
+      ins: "žaljem"
+      voc: "žalju"
+    plural: 
+      nom: "žalje"
+      acc: "žalje"
+      gen: "žaljev"
+      loc: "žaljah"
+      dat: "žaljam"
+      ins: "žaljami"
+      voc: "žalje"

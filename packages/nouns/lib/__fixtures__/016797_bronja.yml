@@ -1,0 +1,22 @@
+---
+  id: "16797"
+  word: "brȯnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brȯnja"
+      acc: "brȯnjų"
+      gen: "brȯnje"
+      loc: "brȯnji"
+      dat: "brȯnji"
+      ins: "brȯnjejų"
+      voc: "brȯnjo"
+    plural: 
+      nom: "brȯnje"
+      acc: "brȯnje"
+      gen: "brȯnej"
+      loc: "brȯnjah"
+      dat: "brȯnjam"
+      ins: "brȯnjami"
+      voc: "brȯnje"

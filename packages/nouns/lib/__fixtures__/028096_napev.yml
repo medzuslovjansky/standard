@@ -1,0 +1,22 @@
+---
+  id: "28096"
+  word: "napěv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napěv"
+      acc: "napěv"
+      gen: "napěva"
+      loc: "napěvu"
+      dat: "napěvu"
+      ins: "napěvom"
+      voc: "napěve"
+    plural: 
+      nom: "napěvy"
+      acc: "napěvy"
+      gen: "napěvov"
+      loc: "napěvah"
+      dat: "napěvam"
+      ins: "napěvami"
+      voc: "napěvy"

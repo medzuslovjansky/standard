@@ -1,0 +1,22 @@
+---
+  id: "3202"
+  word: "povråt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "povråt"
+      acc: "povråt"
+      gen: "povråta"
+      loc: "povråtu"
+      dat: "povråtu"
+      ins: "povråtom"
+      voc: "povråte"
+    plural: 
+      nom: "povråty"
+      acc: "povråty"
+      gen: "povråtov"
+      loc: "povråtah"
+      dat: "povråtam"
+      ins: "povråtami"
+      voc: "povråty"

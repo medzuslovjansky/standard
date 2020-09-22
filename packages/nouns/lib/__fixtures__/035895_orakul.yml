@@ -1,0 +1,23 @@
+---
+  id: "35895"
+  word: "orakul"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "orakul"
+      acc: "orakula"
+      gen: "orakula"
+      loc: "orakulu"
+      dat: "orakulu"
+      ins: "orakulom"
+      voc: "orakule"
+    plural: 
+      nom: "orakuli"
+      acc: "orakulov"
+      gen: "orakulov"
+      loc: "orakulah"
+      dat: "orakulam"
+      ins: "orakulami"
+      voc: "orakuli"

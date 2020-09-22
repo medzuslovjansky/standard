@@ -1,0 +1,22 @@
+---
+  id: "6459"
+  word: "babuška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "babuška"
+      acc: "babuškų"
+      gen: "babušky"
+      loc: "babuškě"
+      dat: "babuškě"
+      ins: "babuškojų"
+      voc: "babuško"
+    plural: 
+      nom: "babušky"
+      acc: "babušky"
+      gen: "babušek"
+      loc: "babuškah"
+      dat: "babuškam"
+      ins: "babuškami"
+      voc: "babušky"

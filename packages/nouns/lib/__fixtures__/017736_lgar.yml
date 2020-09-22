@@ -1,0 +1,23 @@
+---
+  id: "17736"
+  word: "lgaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lgaŕ"
+      acc: "lgaŕa"
+      gen: "lgaŕa"
+      loc: "lgaŕu"
+      dat: "lgaŕu"
+      ins: "lgaŕem"
+      voc: "lgaŕu"
+    plural: 
+      nom: "lgari"
+      acc: "lgaŕev"
+      gen: "lgaŕev"
+      loc: "lgaŕah"
+      dat: "lgaŕam"
+      ins: "lgaŕami"
+      voc: "lgari"

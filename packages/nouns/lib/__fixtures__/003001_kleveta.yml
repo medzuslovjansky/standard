@@ -1,0 +1,22 @@
+---
+  id: "3001"
+  word: "kleveta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kleveta"
+      acc: "klevetų"
+      gen: "klevety"
+      loc: "klevetě"
+      dat: "klevetě"
+      ins: "klevetojų"
+      voc: "kleveto"
+    plural: 
+      nom: "klevety"
+      acc: "klevety"
+      gen: "klevet"
+      loc: "klevetah"
+      dat: "klevetam"
+      ins: "klevetami"
+      voc: "klevety"

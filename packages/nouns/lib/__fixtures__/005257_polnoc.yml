@@ -1,0 +1,22 @@
+---
+  id: "5257"
+  word: "polnoć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polnoć"
+      acc: "polnoć"
+      gen: "polnoći"
+      loc: "polnoći"
+      dat: "polnoći"
+      ins: "polnoćjų"
+      voc: "polnoći"
+    plural: 
+      nom: "polnoći"
+      acc: "polnoći"
+      gen: "polnoćij"
+      loc: "polnoćah"
+      dat: "polnoćam"
+      ins: "polnoćami"
+      voc: "polnoći"

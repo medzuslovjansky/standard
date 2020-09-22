@@ -1,0 +1,22 @@
+---
+  id: "34299"
+  word: "odpust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpust"
+      acc: "odpust"
+      gen: "odpusta"
+      loc: "odpustu"
+      dat: "odpustu"
+      ins: "odpustom"
+      voc: "odpuste"
+    plural: 
+      nom: "odpusty"
+      acc: "odpusty"
+      gen: "odpustov"
+      loc: "odpustah"
+      dat: "odpustam"
+      ins: "odpustami"
+      voc: "odpusty"

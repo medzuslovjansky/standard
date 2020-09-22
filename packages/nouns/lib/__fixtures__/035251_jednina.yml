@@ -1,0 +1,22 @@
+---
+  id: "35251"
+  word: "jednina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jednina"
+      acc: "jedninų"
+      gen: "jedniny"
+      loc: "jednině"
+      dat: "jednině"
+      ins: "jedninojų"
+      voc: "jednino"
+    plural: 
+      nom: "jedniny"
+      acc: "jedniny"
+      gen: "jednin"
+      loc: "jedninah"
+      dat: "jedninam"
+      ins: "jedninami"
+      voc: "jedniny"

@@ -1,0 +1,22 @@
+---
+  id: "23451"
+  word: "nota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nota"
+      acc: "notų"
+      gen: "noty"
+      loc: "notě"
+      dat: "notě"
+      ins: "notojų"
+      voc: "noto"
+    plural: 
+      nom: "noty"
+      acc: "noty"
+      gen: "not"
+      loc: "notah"
+      dat: "notam"
+      ins: "notami"
+      voc: "noty"

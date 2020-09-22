@@ -1,0 +1,47 @@
+---
+  - 
+    id: "35275"
+    word: "inoplanetjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "inoplanetjan"
+        acc: "inoplanetjana"
+        gen: "inoplanetjana"
+        loc: "inoplanetjanu"
+        dat: "inoplanetjanu"
+        ins: "inoplanetjanom"
+        voc: "inoplanetjane"
+      plural: 
+        nom: "inoplanetjani"
+        acc: "inoplanetjanov"
+        gen: "inoplanetjanov"
+        loc: "inoplanetjanah"
+        dat: "inoplanetjanam"
+        ins: "inoplanetjanami"
+        voc: "inoplanetjani"
+  - 
+    id: "35275"
+    word: "inoplanetjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "inoplanetjanin"
+        acc: "inoplanetjanina"
+        gen: "inoplanetjanina"
+        loc: "inoplanetjaninu"
+        dat: "inoplanetjaninu"
+        ins: "inoplanetjaninom"
+        voc: "inoplanetjanine"
+      plural: 
+        nom: "inoplanetjani"
+        acc: "inoplanetjanov"
+        gen: "inoplanetjanov"
+        loc: "inoplanetjanah"
+        dat: "inoplanetjanam"
+        ins: "inoplanetjanami"
+        voc: "inoplanetjani"

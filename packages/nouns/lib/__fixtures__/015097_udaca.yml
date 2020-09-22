@@ -1,0 +1,22 @@
+---
+  id: "15097"
+  word: "udača"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "udača"
+      acc: "udačų"
+      gen: "udače"
+      loc: "udači"
+      dat: "udači"
+      ins: "udačejų"
+      voc: "udačo"
+    plural: 
+      nom: "udače"
+      acc: "udače"
+      gen: "udač"
+      loc: "udačah"
+      dat: "udačam"
+      ins: "udačami"
+      voc: "udače"

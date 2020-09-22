@@ -1,0 +1,22 @@
+---
+  id: "36575"
+  word: "prědustavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědustavjeńje"
+      acc: "prědustavjeńje"
+      gen: "prědustavjeńja"
+      loc: "prědustavjeńju"
+      dat: "prědustavjeńju"
+      ins: "prědustavjeńjem"
+      voc: "prědustavjeńje"
+    plural: 
+      nom: "prědustavjeńja"
+      acc: "prědustavjeńja"
+      gen: "prědustavjenij"
+      loc: "prědustavjeńjah"
+      dat: "prědustavjeńjam"
+      ins: "prědustavjeńjami"
+      voc: "prědustavjeńja"

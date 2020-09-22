@@ -1,0 +1,22 @@
+---
+  id: "17264"
+  word: "denonočje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "denonočje"
+      acc: "denonočje"
+      gen: "denonočja"
+      loc: "denonočju"
+      dat: "denonočju"
+      ins: "denonočjem"
+      voc: "denonočje"
+    plural: 
+      nom: "denonočja"
+      acc: "denonočja"
+      gen: "denonočij"
+      loc: "denonočjah"
+      dat: "denonočjam"
+      ins: "denonočjami"
+      voc: "denonočja"

@@ -1,0 +1,23 @@
+---
+  id: "2048"
+  word: "otec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "otec"
+      acc: "otca"
+      gen: "otca"
+      loc: "otcu"
+      dat: "otcu"
+      ins: "otcem"
+      voc: "otče"
+    plural: 
+      nom: "otci"
+      acc: "otcev"
+      gen: "otcev"
+      loc: "otcah"
+      dat: "otcam"
+      ins: "otcami"
+      voc: "otci"

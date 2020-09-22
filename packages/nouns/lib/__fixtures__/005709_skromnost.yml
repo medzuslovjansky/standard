@@ -1,0 +1,22 @@
+---
+  id: "5709"
+  word: "skromnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skromnosť"
+      acc: "skromnosť"
+      gen: "skromnosti"
+      loc: "skromnosti"
+      dat: "skromnosti"
+      ins: "skromnosťjų"
+      voc: "skromnosti"
+    plural: 
+      nom: "skromnosti"
+      acc: "skromnosti"
+      gen: "skromnostij"
+      loc: "skromnosťah"
+      dat: "skromnosťam"
+      ins: "skromnosťami"
+      voc: "skromnosti"

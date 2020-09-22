@@ -1,0 +1,22 @@
+---
+  id: "35818"
+  word: "stadija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stadija"
+      acc: "stadijų"
+      gen: "stadije"
+      loc: "stadiji"
+      dat: "stadiji"
+      ins: "stadijejų"
+      voc: "stadijo"
+    plural: 
+      nom: "stadije"
+      acc: "stadije"
+      gen: "stadij"
+      loc: "stadijah"
+      dat: "stadijam"
+      ins: "stadijami"
+      voc: "stadije"

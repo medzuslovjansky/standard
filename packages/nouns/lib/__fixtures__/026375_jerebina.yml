@@ -1,0 +1,22 @@
+---
+  id: "26375"
+  word: "jerębina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jerębina"
+      acc: "jerębinų"
+      gen: "jerębiny"
+      loc: "jerębině"
+      dat: "jerębině"
+      ins: "jerębinojų"
+      voc: "jerębino"
+    plural: 
+      nom: "jerębiny"
+      acc: "jerębiny"
+      gen: "jerębin"
+      loc: "jerębinah"
+      dat: "jerębinam"
+      ins: "jerębinami"
+      voc: "jerębiny"

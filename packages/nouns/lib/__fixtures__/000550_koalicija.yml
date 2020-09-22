@@ -1,0 +1,22 @@
+---
+  id: "550"
+  word: "koalicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koalicija"
+      acc: "koalicijų"
+      gen: "koalicije"
+      loc: "koaliciji"
+      dat: "koaliciji"
+      ins: "koalicijejų"
+      voc: "koalicijo"
+    plural: 
+      nom: "koalicije"
+      acc: "koalicije"
+      gen: "koalicij"
+      loc: "koalicijah"
+      dat: "koalicijam"
+      ins: "koalicijami"
+      voc: "koalicije"

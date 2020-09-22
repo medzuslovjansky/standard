@@ -1,0 +1,22 @@
+---
+  id: "94"
+  word: "plåtno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "plåtno"
+      acc: "plåtno"
+      gen: "plåtna"
+      loc: "plåtnu"
+      dat: "plåtnu"
+      ins: "plåtnom"
+      voc: "plåtno"
+    plural: 
+      nom: "plåtna"
+      acc: "plåtna"
+      gen: "plåten"
+      loc: "plåtnah"
+      dat: "plåtnam"
+      ins: "plåtnami"
+      voc: "plåtna"

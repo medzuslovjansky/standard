@@ -1,0 +1,15 @@
+---
+  id: "4752"
+  word: "Kitaj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kitaj"
+      acc: "Kitaj"
+      gen: "Kitaja"
+      loc: "Kitaju"
+      dat: "Kitaju"
+      ins: "Kitajem"
+      voc: "Kitaju"

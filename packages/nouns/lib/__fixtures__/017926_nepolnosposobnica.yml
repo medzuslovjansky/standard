@@ -1,0 +1,22 @@
+---
+  id: "17926"
+  word: "nepȯlnosposobnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepȯlnosposobnica"
+      acc: "nepȯlnosposobnicų"
+      gen: "nepȯlnosposobnice"
+      loc: "nepȯlnosposobnici"
+      dat: "nepȯlnosposobnici"
+      ins: "nepȯlnosposobnicejų"
+      voc: "nepȯlnosposobnico"
+    plural: 
+      nom: "nepȯlnosposobnice"
+      acc: "nepȯlnosposobnice"
+      gen: "nepȯlnosposobnic"
+      loc: "nepȯlnosposobnicah"
+      dat: "nepȯlnosposobnicam"
+      ins: "nepȯlnosposobnicami"
+      voc: "nepȯlnosposobnice"

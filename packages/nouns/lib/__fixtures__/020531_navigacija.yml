@@ -1,0 +1,22 @@
+---
+  id: "20531"
+  word: "navigacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "navigacija"
+      acc: "navigacijų"
+      gen: "navigacije"
+      loc: "navigaciji"
+      dat: "navigaciji"
+      ins: "navigacijejų"
+      voc: "navigacijo"
+    plural: 
+      nom: "navigacije"
+      acc: "navigacije"
+      gen: "navigacij"
+      loc: "navigacijah"
+      dat: "navigacijam"
+      ins: "navigacijami"
+      voc: "navigacije"

@@ -1,0 +1,15 @@
+---
+  id: "33662"
+  word: "šovinizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "šovinizm"
+      acc: "šovinizm"
+      gen: "šovinizma"
+      loc: "šovinizmu"
+      dat: "šovinizmu"
+      ins: "šovinizmom"
+      voc: "šovinizme"

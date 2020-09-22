@@ -1,0 +1,15 @@
+---
+  id: "31868"
+  word: "virologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "virologija"
+      acc: "virologijų"
+      gen: "virologije"
+      loc: "virologiji"
+      dat: "virologiji"
+      ins: "virologijejų"
+      voc: "virologijo"

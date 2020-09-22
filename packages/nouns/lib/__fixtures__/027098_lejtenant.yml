@@ -1,0 +1,23 @@
+---
+  id: "27098"
+  word: "lejtenant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lejtenant"
+      acc: "lejtenanta"
+      gen: "lejtenanta"
+      loc: "lejtenantu"
+      dat: "lejtenantu"
+      ins: "lejtenantom"
+      voc: "lejtenante"
+    plural: 
+      nom: "lejtenanti"
+      acc: "lejtenantov"
+      gen: "lejtenantov"
+      loc: "lejtenantah"
+      dat: "lejtenantam"
+      ins: "lejtenantami"
+      voc: "lejtenanti"

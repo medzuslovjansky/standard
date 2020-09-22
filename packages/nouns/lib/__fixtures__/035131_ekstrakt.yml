@@ -1,0 +1,22 @@
+---
+  id: "35131"
+  word: "ekstrakt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ekstrakt"
+      acc: "ekstrakt"
+      gen: "ekstrakta"
+      loc: "ekstraktu"
+      dat: "ekstraktu"
+      ins: "ekstraktom"
+      voc: "ekstrakte"
+    plural: 
+      nom: "ekstrakty"
+      acc: "ekstrakty"
+      gen: "ekstraktov"
+      loc: "ekstraktah"
+      dat: "ekstraktam"
+      ins: "ekstraktami"
+      voc: "ekstrakty"

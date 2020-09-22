@@ -1,0 +1,23 @@
+---
+  id: "4448"
+  word: "učinitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "učinitelj"
+      acc: "učinitelja"
+      gen: "učinitelja"
+      loc: "učinitelju"
+      dat: "učinitelju"
+      ins: "učiniteljem"
+      voc: "učinitelju"
+    plural: 
+      nom: "učinitelji"
+      acc: "učiniteljev"
+      gen: "učiniteljev"
+      loc: "učiniteljah"
+      dat: "učiniteljam"
+      ins: "učiniteljami"
+      voc: "učinitelji"

@@ -1,0 +1,22 @@
+---
+  id: "31675"
+  word: "zųbec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zųbec"
+      acc: "zųbec"
+      gen: "zųbca"
+      loc: "zųbcu"
+      dat: "zųbcu"
+      ins: "zųbcem"
+      voc: "zųbče"
+    plural: 
+      nom: "zųbce"
+      acc: "zųbce"
+      gen: "zųbcev"
+      loc: "zųbcah"
+      dat: "zųbcam"
+      ins: "zųbcami"
+      voc: "zųbce"

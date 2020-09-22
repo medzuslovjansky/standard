@@ -1,0 +1,22 @@
+---
+  id: "31224"
+  word: "vist"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vist"
+      acc: "vist"
+      gen: "vista"
+      loc: "vistu"
+      dat: "vistu"
+      ins: "vistom"
+      voc: "viste"
+    plural: 
+      nom: "visty"
+      acc: "visty"
+      gen: "vistov"
+      loc: "vistah"
+      dat: "vistam"
+      ins: "vistami"
+      voc: "visty"

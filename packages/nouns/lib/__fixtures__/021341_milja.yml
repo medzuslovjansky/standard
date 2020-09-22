@@ -1,0 +1,22 @@
+---
+  id: "21341"
+  word: "milja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "milja"
+      acc: "miljų"
+      gen: "milje"
+      loc: "milji"
+      dat: "milji"
+      ins: "miljejų"
+      voc: "miljo"
+    plural: 
+      nom: "milje"
+      acc: "milje"
+      gen: "milej"
+      loc: "miljah"
+      dat: "miljam"
+      ins: "miljami"
+      voc: "milje"

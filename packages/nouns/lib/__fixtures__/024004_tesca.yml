@@ -1,0 +1,22 @@
+---
+  id: "24004"
+  word: "tešća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tešća"
+      acc: "tešćų"
+      gen: "tešće"
+      loc: "tešći"
+      dat: "tešći"
+      ins: "tešćejų"
+      voc: "tešćo"
+    plural: 
+      nom: "tešće"
+      acc: "tešće"
+      gen: "tešć"
+      loc: "tešćah"
+      dat: "tešćam"
+      ins: "tešćami"
+      voc: "tešće"

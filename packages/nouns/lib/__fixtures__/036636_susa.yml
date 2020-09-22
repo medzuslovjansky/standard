@@ -1,0 +1,22 @@
+---
+  id: "36636"
+  word: "suša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "suša"
+      acc: "sušų"
+      gen: "suše"
+      loc: "suši"
+      dat: "suši"
+      ins: "sušejų"
+      voc: "sušo"
+    plural: 
+      nom: "suše"
+      acc: "suše"
+      gen: "suš"
+      loc: "sušah"
+      dat: "sušam"
+      ins: "sušami"
+      voc: "suše"

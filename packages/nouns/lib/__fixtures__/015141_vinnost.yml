@@ -1,0 +1,22 @@
+---
+  id: "15141"
+  word: "vinnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vinnosť"
+      acc: "vinnosť"
+      gen: "vinnosti"
+      loc: "vinnosti"
+      dat: "vinnosti"
+      ins: "vinnosťjų"
+      voc: "vinnosti"
+    plural: 
+      nom: "vinnosti"
+      acc: "vinnosti"
+      gen: "vinnostij"
+      loc: "vinnosťah"
+      dat: "vinnosťam"
+      ins: "vinnosťami"
+      voc: "vinnosti"

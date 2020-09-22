@@ -1,0 +1,22 @@
+---
+  id: "3513"
+  word: "sjedinjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sjedinjeńje"
+      acc: "sjedinjeńje"
+      gen: "sjedinjeńja"
+      loc: "sjedinjeńju"
+      dat: "sjedinjeńju"
+      ins: "sjedinjeńjem"
+      voc: "sjedinjeńje"
+    plural: 
+      nom: "sjedinjeńja"
+      acc: "sjedinjeńja"
+      gen: "sjedinjenij"
+      loc: "sjedinjeńjah"
+      dat: "sjedinjeńjam"
+      ins: "sjedinjeńjami"
+      voc: "sjedinjeńja"

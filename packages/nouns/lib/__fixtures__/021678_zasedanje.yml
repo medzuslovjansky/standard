@@ -1,0 +1,22 @@
+---
+  id: "21678"
+  word: "zasědańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zasědańje"
+      acc: "zasědańje"
+      gen: "zasědańja"
+      loc: "zasědańju"
+      dat: "zasědańju"
+      ins: "zasědańjem"
+      voc: "zasědańje"
+    plural: 
+      nom: "zasědańja"
+      acc: "zasědańja"
+      gen: "zasědanij"
+      loc: "zasědańjah"
+      dat: "zasědańjam"
+      ins: "zasědańjami"
+      voc: "zasědańja"

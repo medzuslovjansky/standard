@@ -1,0 +1,15 @@
+---
+  id: "13039"
+  word: "travenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "travenj"
+      acc: "travenj"
+      gen: "travenja"
+      loc: "travenju"
+      dat: "travenju"
+      ins: "travenjem"
+      voc: "travenju"

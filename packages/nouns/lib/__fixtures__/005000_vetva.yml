@@ -1,0 +1,22 @@
+---
+  id: "5000"
+  word: "větva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "větva"
+      acc: "větvų"
+      gen: "větvy"
+      loc: "větvě"
+      dat: "větvě"
+      ins: "větvojų"
+      voc: "větvo"
+    plural: 
+      nom: "větvy"
+      acc: "větvy"
+      gen: "větv"
+      loc: "větvah"
+      dat: "větvam"
+      ins: "větvami"
+      voc: "větvy"

@@ -1,0 +1,15 @@
+---
+  id: "24604"
+  word: "bělosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bělosť"
+      acc: "bělosť"
+      gen: "bělosti"
+      loc: "bělosti"
+      dat: "bělosti"
+      ins: "bělosťjų"
+      voc: "bělosti"

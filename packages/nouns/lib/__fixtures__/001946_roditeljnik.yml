@@ -1,0 +1,29 @@
+---
+  - 
+    id: "1946"
+    word: "roditeljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "roditeljnik"
+        acc: "roditeljnik"
+        gen: "roditeljnika"
+        loc: "roditeljniku"
+        dat: "roditeljniku"
+        ins: "roditeljnikom"
+        voc: "roditeljniče"
+      plural: 
+        nom: "roditeljniky"
+        acc: "roditeljniky"
+        gen: "roditeljnikov"
+        loc: "roditeljnikah"
+        dat: "roditeljnikam"
+        ins: "roditeljnikami"
+        voc: "roditeljniky"
+  - 
+    id: "1946"
+    word: "roditeljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

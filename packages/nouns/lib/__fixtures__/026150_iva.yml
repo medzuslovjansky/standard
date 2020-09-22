@@ -1,0 +1,22 @@
+---
+  id: "26150"
+  word: "iva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iva"
+      acc: "ivų"
+      gen: "ivy"
+      loc: "ivě"
+      dat: "ivě"
+      ins: "ivojų"
+      voc: "ivo"
+    plural: 
+      nom: "ivy"
+      acc: "ivy"
+      gen: "iv"
+      loc: "ivah"
+      dat: "ivam"
+      ins: "ivami"
+      voc: "ivy"

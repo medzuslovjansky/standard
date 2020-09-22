@@ -1,0 +1,22 @@
+---
+  id: "12283"
+  word: "slabosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slabosť"
+      acc: "slabosť"
+      gen: "slabosti"
+      loc: "slabosti"
+      dat: "slabosti"
+      ins: "slabosťjų"
+      voc: "slabosti"
+    plural: 
+      nom: "slabosti"
+      acc: "slabosti"
+      gen: "slabostij"
+      loc: "slabosťah"
+      dat: "slabosťam"
+      ins: "slabosťami"
+      voc: "slabosti"

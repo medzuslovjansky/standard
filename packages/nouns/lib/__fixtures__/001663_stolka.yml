@@ -1,0 +1,22 @@
+---
+  id: "1663"
+  word: "stolka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stolka"
+      acc: "stolkų"
+      gen: "stolky"
+      loc: "stolkě"
+      dat: "stolkě"
+      ins: "stolkojų"
+      voc: "stolko"
+    plural: 
+      nom: "stolky"
+      acc: "stolky"
+      gen: "stolȯk"
+      loc: "stolkah"
+      dat: "stolkam"
+      ins: "stolkami"
+      voc: "stolky"

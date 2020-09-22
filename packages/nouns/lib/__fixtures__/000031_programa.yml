@@ -1,0 +1,22 @@
+---
+  id: "31"
+  word: "programa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "programa"
+      acc: "programų"
+      gen: "programy"
+      loc: "programě"
+      dat: "programě"
+      ins: "programojų"
+      voc: "programo"
+    plural: 
+      nom: "programy"
+      acc: "programy"
+      gen: "program"
+      loc: "programah"
+      dat: "programam"
+      ins: "programami"
+      voc: "programy"

@@ -1,0 +1,22 @@
+---
+  id: "1943"
+  word: "sezon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sezon"
+      acc: "sezon"
+      gen: "sezona"
+      loc: "sezonu"
+      dat: "sezonu"
+      ins: "sezonom"
+      voc: "sezone"
+    plural: 
+      nom: "sezony"
+      acc: "sezony"
+      gen: "sezonov"
+      loc: "sezonah"
+      dat: "sezonam"
+      ins: "sezonami"
+      voc: "sezony"

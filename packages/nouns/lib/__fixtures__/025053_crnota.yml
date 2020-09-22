@@ -1,0 +1,22 @@
+---
+  id: "25053"
+  word: "črnota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črnota"
+      acc: "črnotų"
+      gen: "črnoty"
+      loc: "črnotě"
+      dat: "črnotě"
+      ins: "črnotojų"
+      voc: "črnoto"
+    plural: 
+      nom: "črnoty"
+      acc: "črnoty"
+      gen: "črnot"
+      loc: "črnotah"
+      dat: "črnotam"
+      ins: "črnotami"
+      voc: "črnoty"

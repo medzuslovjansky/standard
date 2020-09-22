@@ -1,0 +1,22 @@
+---
+  id: "18634"
+  word: "remenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "remenj"
+      acc: "remenj"
+      gen: "remenja"
+      loc: "remenju"
+      dat: "remenju"
+      ins: "remenjem"
+      voc: "remenju"
+    plural: 
+      nom: "remenje"
+      acc: "remenje"
+      gen: "remenjev"
+      loc: "remenjah"
+      dat: "remenjam"
+      ins: "remenjami"
+      voc: "remenje"

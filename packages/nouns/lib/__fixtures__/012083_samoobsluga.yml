@@ -1,0 +1,22 @@
+---
+  id: "12083"
+  word: "samoobsluga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samoobsluga"
+      acc: "samoobslugų"
+      gen: "samoobslugy"
+      loc: "samoobslugě"
+      dat: "samoobslugě"
+      ins: "samoobslugojų"
+      voc: "samoobslugo"
+    plural: 
+      nom: "samoobslugy"
+      acc: "samoobslugy"
+      gen: "samoobslug"
+      loc: "samoobslugah"
+      dat: "samoobslugam"
+      ins: "samoobslugami"
+      voc: "samoobslugy"

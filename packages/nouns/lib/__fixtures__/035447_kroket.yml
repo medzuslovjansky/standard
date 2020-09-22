@@ -1,0 +1,22 @@
+---
+  id: "35447"
+  word: "kroket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kroket"
+      acc: "kroket"
+      gen: "kroketa"
+      loc: "kroketu"
+      dat: "kroketu"
+      ins: "kroketom"
+      voc: "krokete"
+    plural: 
+      nom: "krokety"
+      acc: "krokety"
+      gen: "kroketov"
+      loc: "kroketah"
+      dat: "kroketam"
+      ins: "kroketami"
+      voc: "krokety"

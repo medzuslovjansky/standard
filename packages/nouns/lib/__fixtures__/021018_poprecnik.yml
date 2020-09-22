@@ -1,0 +1,22 @@
+---
+  id: "21018"
+  word: "poprěčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poprěčnik"
+      acc: "poprěčnik"
+      gen: "poprěčnika"
+      loc: "poprěčniku"
+      dat: "poprěčniku"
+      ins: "poprěčnikom"
+      voc: "poprěčniče"
+    plural: 
+      nom: "poprěčniky"
+      acc: "poprěčniky"
+      gen: "poprěčnikov"
+      loc: "poprěčnikah"
+      dat: "poprěčnikam"
+      ins: "poprěčnikami"
+      voc: "poprěčniky"

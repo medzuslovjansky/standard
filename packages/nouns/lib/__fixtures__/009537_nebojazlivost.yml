@@ -1,0 +1,22 @@
+---
+  id: "9537"
+  word: "nebojazlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nebojazlivosť"
+      acc: "nebojazlivosť"
+      gen: "nebojazlivosti"
+      loc: "nebojazlivosti"
+      dat: "nebojazlivosti"
+      ins: "nebojazlivosťjų"
+      voc: "nebojazlivosti"
+    plural: 
+      nom: "nebojazlivosti"
+      acc: "nebojazlivosti"
+      gen: "nebojazlivostij"
+      loc: "nebojazlivosťah"
+      dat: "nebojazlivosťam"
+      ins: "nebojazlivosťami"
+      voc: "nebojazlivosti"

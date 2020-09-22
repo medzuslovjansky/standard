@@ -1,0 +1,22 @@
+---
+  id: "26659"
+  word: "konsonant"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konsonant"
+      acc: "konsonant"
+      gen: "konsonanta"
+      loc: "konsonantu"
+      dat: "konsonantu"
+      ins: "konsonantom"
+      voc: "konsonante"
+    plural: 
+      nom: "konsonanty"
+      acc: "konsonanty"
+      gen: "konsonantov"
+      loc: "konsonantah"
+      dat: "konsonantam"
+      ins: "konsonantami"
+      voc: "konsonanty"

@@ -1,0 +1,22 @@
+---
+  id: "22803"
+  word: "karton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "karton"
+      acc: "karton"
+      gen: "kartona"
+      loc: "kartonu"
+      dat: "kartonu"
+      ins: "kartonom"
+      voc: "kartone"
+    plural: 
+      nom: "kartony"
+      acc: "kartony"
+      gen: "kartonov"
+      loc: "kartonah"
+      dat: "kartonam"
+      ins: "kartonami"
+      voc: "kartony"

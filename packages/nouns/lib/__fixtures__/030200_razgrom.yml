@@ -1,0 +1,22 @@
+---
+  id: "30200"
+  word: "råzgrom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzgrom"
+      acc: "råzgrom"
+      gen: "råzgroma"
+      loc: "råzgromu"
+      dat: "råzgromu"
+      ins: "råzgromom"
+      voc: "råzgrome"
+    plural: 
+      nom: "råzgromy"
+      acc: "råzgromy"
+      gen: "råzgromov"
+      loc: "råzgromah"
+      dat: "råzgromam"
+      ins: "råzgromami"
+      voc: "råzgromy"

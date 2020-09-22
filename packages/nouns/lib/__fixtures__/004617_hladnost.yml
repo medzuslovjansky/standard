@@ -1,0 +1,22 @@
+---
+  id: "4617"
+  word: "hlådnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hlådnosť"
+      acc: "hlådnosť"
+      gen: "hlådnosti"
+      loc: "hlådnosti"
+      dat: "hlådnosti"
+      ins: "hlådnosťjų"
+      voc: "hlådnosti"
+    plural: 
+      nom: "hlådnosti"
+      acc: "hlådnosti"
+      gen: "hlådnostij"
+      loc: "hlådnosťah"
+      dat: "hlådnosťam"
+      ins: "hlådnosťami"
+      voc: "hlådnosti"

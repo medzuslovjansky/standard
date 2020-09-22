@@ -1,0 +1,23 @@
+---
+  id: "12343"
+  word: "slušatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slušatelj"
+      acc: "slušatelja"
+      gen: "slušatelja"
+      loc: "slušatelju"
+      dat: "slušatelju"
+      ins: "slušateljem"
+      voc: "slušatelju"
+    plural: 
+      nom: "slušatelji"
+      acc: "slušateljev"
+      gen: "slušateljev"
+      loc: "slušateljah"
+      dat: "slušateljam"
+      ins: "slušateljami"
+      voc: "slušatelji"

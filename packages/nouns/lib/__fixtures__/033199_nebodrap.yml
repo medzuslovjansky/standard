@@ -1,0 +1,22 @@
+---
+  id: "33199"
+  word: "nebodrap"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nebodrap"
+      acc: "nebodrap"
+      gen: "nebodrapa"
+      loc: "nebodrapu"
+      dat: "nebodrapu"
+      ins: "nebodrapom"
+      voc: "nebodrape"
+    plural: 
+      nom: "nebodrapy"
+      acc: "nebodrapy"
+      gen: "nebodrapov"
+      loc: "nebodrapah"
+      dat: "nebodrapam"
+      ins: "nebodrapami"
+      voc: "nebodrapy"

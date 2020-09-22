@@ -1,0 +1,23 @@
+---
+  id: "31534"
+  word: "zapadnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zapadnik"
+      acc: "zapadnika"
+      gen: "zapadnika"
+      loc: "zapadniku"
+      dat: "zapadniku"
+      ins: "zapadnikom"
+      voc: "zapadniče"
+    plural: 
+      nom: "zapadniki"
+      acc: "zapadnikov"
+      gen: "zapadnikov"
+      loc: "zapadnikah"
+      dat: "zapadnikam"
+      ins: "zapadnikami"
+      voc: "zapadniki"

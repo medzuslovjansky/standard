@@ -1,0 +1,22 @@
+---
+  id: "22415"
+  word: "vvoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vvoz"
+      acc: "vvoz"
+      gen: "vvoza"
+      loc: "vvozu"
+      dat: "vvozu"
+      ins: "vvozom"
+      voc: "vvoze"
+    plural: 
+      nom: "vvozy"
+      acc: "vvozy"
+      gen: "vvozov"
+      loc: "vvozah"
+      dat: "vvozam"
+      ins: "vvozami"
+      voc: "vvozy"

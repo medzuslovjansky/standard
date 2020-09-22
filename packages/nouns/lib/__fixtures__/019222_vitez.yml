@@ -1,0 +1,23 @@
+---
+  id: "19222"
+  word: "vitęź"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vitęź"
+      acc: "vitęźa"
+      gen: "vitęźa"
+      loc: "vitęźu"
+      dat: "vitęźu"
+      ins: "vitęźem"
+      voc: "vitęźu"
+    plural: 
+      nom: "vitęzi"
+      acc: "vitęźev"
+      gen: "vitęźev"
+      loc: "vitęźah"
+      dat: "vitęźam"
+      ins: "vitęźami"
+      voc: "vitęzi"

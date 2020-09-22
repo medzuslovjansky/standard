@@ -1,0 +1,22 @@
+---
+  id: "4865"
+  word: "himn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "himn"
+      acc: "himn"
+      gen: "himna"
+      loc: "himnu"
+      dat: "himnu"
+      ins: "himnom"
+      voc: "himne"
+    plural: 
+      nom: "himny"
+      acc: "himny"
+      gen: "himnov"
+      loc: "himnah"
+      dat: "himnam"
+      ins: "himnami"
+      voc: "himny"

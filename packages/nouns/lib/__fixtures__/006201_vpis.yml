@@ -1,0 +1,22 @@
+---
+  id: "6201"
+  word: "vpis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vpis"
+      acc: "vpis"
+      gen: "vpisa"
+      loc: "vpisu"
+      dat: "vpisu"
+      ins: "vpisom"
+      voc: "vpise"
+    plural: 
+      nom: "vpisy"
+      acc: "vpisy"
+      gen: "vpisov"
+      loc: "vpisah"
+      dat: "vpisam"
+      ins: "vpisami"
+      voc: "vpisy"

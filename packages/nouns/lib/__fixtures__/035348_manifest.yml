@@ -1,0 +1,22 @@
+---
+  id: "35348"
+  word: "manifest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "manifest"
+      acc: "manifest"
+      gen: "manifesta"
+      loc: "manifestu"
+      dat: "manifestu"
+      ins: "manifestom"
+      voc: "manifeste"
+    plural: 
+      nom: "manifesty"
+      acc: "manifesty"
+      gen: "manifestov"
+      loc: "manifestah"
+      dat: "manifestam"
+      ins: "manifestami"
+      voc: "manifesty"

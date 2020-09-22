@@ -1,0 +1,23 @@
+---
+  id: "27147"
+  word: "lešč"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lešč"
+      acc: "lešča"
+      gen: "lešča"
+      loc: "lešču"
+      dat: "lešču"
+      ins: "leščem"
+      voc: "lešču"
+    plural: 
+      nom: "lešči"
+      acc: "leščev"
+      gen: "leščev"
+      loc: "leščah"
+      dat: "leščam"
+      ins: "leščami"
+      voc: "lešči"

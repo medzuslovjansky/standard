@@ -1,0 +1,22 @@
+---
+  id: "3395"
+  word: "možnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "možnosť"
+      acc: "možnosť"
+      gen: "možnosti"
+      loc: "možnosti"
+      dat: "možnosti"
+      ins: "možnosťjų"
+      voc: "možnosti"
+    plural: 
+      nom: "možnosti"
+      acc: "možnosti"
+      gen: "možnostij"
+      loc: "možnosťah"
+      dat: "možnosťam"
+      ins: "možnosťami"
+      voc: "možnosti"

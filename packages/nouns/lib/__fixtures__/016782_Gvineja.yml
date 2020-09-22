@@ -1,0 +1,15 @@
+---
+  id: "16782"
+  word: "Gvineja"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Gvineja"
+      acc: "Gvinejų"
+      gen: "Gvineje"
+      loc: "Gvineji"
+      dat: "Gvineji"
+      ins: "Gvinejejų"
+      voc: "Gvinejo"

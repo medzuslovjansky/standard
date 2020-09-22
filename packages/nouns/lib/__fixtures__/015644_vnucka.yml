@@ -1,0 +1,22 @@
+---
+  id: "15644"
+  word: "vnučka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vnučka"
+      acc: "vnučkų"
+      gen: "vnučky"
+      loc: "vnučkě"
+      dat: "vnučkě"
+      ins: "vnučkojų"
+      voc: "vnučko"
+    plural: 
+      nom: "vnučky"
+      acc: "vnučky"
+      gen: "vnuček"
+      loc: "vnučkah"
+      dat: "vnučkam"
+      ins: "vnučkami"
+      voc: "vnučky"

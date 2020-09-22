@@ -1,0 +1,22 @@
+---
+  id: "18582"
+  word: "rana"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rana"
+      acc: "ranų"
+      gen: "rany"
+      loc: "raně"
+      dat: "raně"
+      ins: "ranojų"
+      voc: "rano"
+    plural: 
+      nom: "rany"
+      acc: "rany"
+      gen: "ran"
+      loc: "ranah"
+      dat: "ranam"
+      ins: "ranami"
+      voc: "rany"

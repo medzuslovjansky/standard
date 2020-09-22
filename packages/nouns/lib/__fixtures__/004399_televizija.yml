@@ -1,0 +1,22 @@
+---
+  id: "4399"
+  word: "televizija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "televizija"
+      acc: "televizijų"
+      gen: "televizije"
+      loc: "televiziji"
+      dat: "televiziji"
+      ins: "televizijejų"
+      voc: "televizijo"
+    plural: 
+      nom: "televizije"
+      acc: "televizije"
+      gen: "televizij"
+      loc: "televizijah"
+      dat: "televizijam"
+      ins: "televizijami"
+      voc: "televizije"

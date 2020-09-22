@@ -1,0 +1,15 @@
+---
+  id: "17223"
+  word: "čuvańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čuvańje"
+      acc: "čuvańje"
+      gen: "čuvańja"
+      loc: "čuvańju"
+      dat: "čuvańju"
+      ins: "čuvańjem"
+      voc: "čuvańje"

@@ -1,0 +1,23 @@
+---
+  id: "36047"
+  word: "zagrabnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zagrabnik"
+      acc: "zagrabnika"
+      gen: "zagrabnika"
+      loc: "zagrabniku"
+      dat: "zagrabniku"
+      ins: "zagrabnikom"
+      voc: "zagrabniče"
+    plural: 
+      nom: "zagrabniki"
+      acc: "zagrabnikov"
+      gen: "zagrabnikov"
+      loc: "zagrabnikah"
+      dat: "zagrabnikam"
+      ins: "zagrabnikami"
+      voc: "zagrabniki"

@@ -1,0 +1,22 @@
+---
+  id: "23227"
+  word: "profil"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "profil"
+      acc: "profil"
+      gen: "profila"
+      loc: "profilu"
+      dat: "profilu"
+      ins: "profilom"
+      voc: "profile"
+    plural: 
+      nom: "profily"
+      acc: "profily"
+      gen: "profilov"
+      loc: "profilah"
+      dat: "profilam"
+      ins: "profilami"
+      voc: "profily"

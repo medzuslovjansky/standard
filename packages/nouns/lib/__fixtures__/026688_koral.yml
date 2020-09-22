@@ -1,0 +1,23 @@
+---
+  id: "26688"
+  word: "koral"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "koral"
+      acc: "korala"
+      gen: "korala"
+      loc: "koralu"
+      dat: "koralu"
+      ins: "koralom"
+      voc: "korale"
+    plural: 
+      nom: "korali"
+      acc: "koralov"
+      gen: "koralov"
+      loc: "koralah"
+      dat: "koralam"
+      ins: "koralami"
+      voc: "korali"

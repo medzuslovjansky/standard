@@ -1,0 +1,22 @@
+---
+  id: "3545"
+  word: "děljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "děljeńje"
+      acc: "děljeńje"
+      gen: "děljeńja"
+      loc: "děljeńju"
+      dat: "děljeńju"
+      ins: "děljeńjem"
+      voc: "děljeńje"
+    plural: 
+      nom: "děljeńja"
+      acc: "děljeńja"
+      gen: "děljenij"
+      loc: "děljeńjah"
+      dat: "děljeńjam"
+      ins: "děljeńjami"
+      voc: "děljeńja"

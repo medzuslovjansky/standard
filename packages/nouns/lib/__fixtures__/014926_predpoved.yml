@@ -1,0 +1,22 @@
+---
+  id: "14926"
+  word: "prědpověď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědpověď"
+      acc: "prědpověď"
+      gen: "prědpovědi"
+      loc: "prědpovědi"
+      dat: "prědpovědi"
+      ins: "prědpověďjų"
+      voc: "prědpovědi"
+    plural: 
+      nom: "prědpovědi"
+      acc: "prědpovědi"
+      gen: "prědpovědij"
+      loc: "prědpověďah"
+      dat: "prědpověďam"
+      ins: "prědpověďami"
+      voc: "prědpovědi"

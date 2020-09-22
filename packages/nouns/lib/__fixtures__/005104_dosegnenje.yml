@@ -1,0 +1,22 @@
+---
+  id: "5104"
+  word: "dosęgneńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dosęgneńje"
+      acc: "dosęgneńje"
+      gen: "dosęgneńja"
+      loc: "dosęgneńju"
+      dat: "dosęgneńju"
+      ins: "dosęgneńjem"
+      voc: "dosęgneńje"
+    plural: 
+      nom: "dosęgneńja"
+      acc: "dosęgneńja"
+      gen: "dosęgnenij"
+      loc: "dosęgneńjah"
+      dat: "dosęgneńjam"
+      ins: "dosęgneńjami"
+      voc: "dosęgneńja"

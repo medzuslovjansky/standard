@@ -1,0 +1,22 @@
+---
+  id: "1382"
+  word: "ratifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ratifikacija"
+      acc: "ratifikacijų"
+      gen: "ratifikacije"
+      loc: "ratifikaciji"
+      dat: "ratifikaciji"
+      ins: "ratifikacijejų"
+      voc: "ratifikacijo"
+    plural: 
+      nom: "ratifikacije"
+      acc: "ratifikacije"
+      gen: "ratifikacij"
+      loc: "ratifikacijah"
+      dat: "ratifikacijam"
+      ins: "ratifikacijami"
+      voc: "ratifikacije"

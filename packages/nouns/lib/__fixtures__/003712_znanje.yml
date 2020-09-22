@@ -1,0 +1,15 @@
+---
+  id: "3712"
+  word: "znańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "znańje"
+      acc: "znańje"
+      gen: "znańja"
+      loc: "znańju"
+      dat: "znańju"
+      ins: "znańjem"
+      voc: "znańje"

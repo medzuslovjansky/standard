@@ -1,0 +1,23 @@
+---
+  id: "2541"
+  word: "vođ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vođ"
+      acc: "vođa"
+      gen: "vođa"
+      loc: "vođu"
+      dat: "vođu"
+      ins: "vođom"
+      voc: "vođe"
+    plural: 
+      nom: "vođi"
+      acc: "vođov"
+      gen: "vođov"
+      loc: "vođah"
+      dat: "vođam"
+      ins: "vođami"
+      voc: "vođi"

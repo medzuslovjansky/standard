@@ -1,0 +1,22 @@
+---
+  id: "6189"
+  word: "blųd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blųd"
+      acc: "blųd"
+      gen: "blųda"
+      loc: "blųdu"
+      dat: "blųdu"
+      ins: "blųdom"
+      voc: "blųde"
+    plural: 
+      nom: "blųdy"
+      acc: "blųdy"
+      gen: "blųdov"
+      loc: "blųdah"
+      dat: "blųdam"
+      ins: "blųdami"
+      voc: "blųdy"

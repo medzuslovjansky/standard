@@ -1,0 +1,23 @@
+---
+  id: "1455"
+  word: "bȯz"
+  meta: 
+    irregularity: "(bza)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "b(ȯ)z"
+      acc: "b(ȯ)z"
+      gen: "b(ȯ)za"
+      loc: "b(ȯ)zu"
+      dat: "b(ȯ)zu"
+      ins: "b(ȯ)zom"
+      voc: "b(ȯ)ze"
+    plural: 
+      nom: "b(ȯ)zy"
+      acc: "b(ȯ)zy"
+      gen: "b(ȯ)zov"
+      loc: "b(ȯ)zah"
+      dat: "b(ȯ)zam"
+      ins: "b(ȯ)zami"
+      voc: "b(ȯ)zy"

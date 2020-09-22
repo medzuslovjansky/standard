@@ -1,0 +1,22 @@
+---
+  id: "23596"
+  word: "molekula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "molekula"
+      acc: "molekulų"
+      gen: "molekuly"
+      loc: "molekulě"
+      dat: "molekulě"
+      ins: "molekulojų"
+      voc: "molekulo"
+    plural: 
+      nom: "molekuly"
+      acc: "molekuly"
+      gen: "molekul"
+      loc: "molekulah"
+      dat: "molekulam"
+      ins: "molekulami"
+      voc: "molekuly"

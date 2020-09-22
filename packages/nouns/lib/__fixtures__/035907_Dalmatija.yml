@@ -1,0 +1,15 @@
+---
+  id: "35907"
+  word: "Dalmatija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Dalmatija"
+      acc: "Dalmatijų"
+      gen: "Dalmatije"
+      loc: "Dalmatiji"
+      dat: "Dalmatiji"
+      ins: "Dalmatijejų"
+      voc: "Dalmatijo"

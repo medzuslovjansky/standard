@@ -1,0 +1,22 @@
+---
+  id: "31700"
+  word: "Žar-ptica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Žar-ptica"
+      acc: "Žar-pticų"
+      gen: "Žar-ptice"
+      loc: "Žar-ptici"
+      dat: "Žar-ptici"
+      ins: "Žar-pticejų"
+      voc: "Žar-ptico"
+    plural: 
+      nom: "Žar-ptice"
+      acc: "Žar-ptice"
+      gen: "Žar-ptic"
+      loc: "Žar-pticah"
+      dat: "Žar-pticam"
+      ins: "Žar-pticami"
+      voc: "Žar-ptice"

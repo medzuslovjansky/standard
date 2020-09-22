@@ -1,0 +1,22 @@
+---
+  id: "240"
+  word: "kub"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kub"
+      acc: "kub"
+      gen: "kuba"
+      loc: "kubu"
+      dat: "kubu"
+      ins: "kubom"
+      voc: "kube"
+    plural: 
+      nom: "kuby"
+      acc: "kuby"
+      gen: "kubov"
+      loc: "kubah"
+      dat: "kubam"
+      ins: "kubami"
+      voc: "kuby"

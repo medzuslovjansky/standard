@@ -1,0 +1,22 @@
+---
+  id: "1126"
+  word: "ťma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ťma"
+      acc: "ťmų"
+      gen: "ťmy"
+      loc: "ťmě"
+      dat: "ťmě"
+      ins: "ťmojų"
+      voc: "ťmo"
+    plural: 
+      nom: "ťmy"
+      acc: "ťmy"
+      gen: "tem"
+      loc: "ťmah"
+      dat: "ťmam"
+      ins: "ťmami"
+      voc: "ťmy"

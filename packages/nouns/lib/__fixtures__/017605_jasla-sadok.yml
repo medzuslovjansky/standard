@@ -1,0 +1,22 @@
+---
+  id: "17605"
+  word: "jasla-sadȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jasla-sadȯk"
+      acc: "jasla-sadȯk"
+      gen: "jasla-sadka"
+      loc: "jasla-sadku"
+      dat: "jasla-sadku"
+      ins: "jasla-sadkom"
+      voc: "jasla-sadče"
+    plural: 
+      nom: "jasla-sadky"
+      acc: "jasla-sadky"
+      gen: "jasla-sadkov"
+      loc: "jasla-sadkah"
+      dat: "jasla-sadkam"
+      ins: "jasla-sadkami"
+      voc: "jasla-sadky"

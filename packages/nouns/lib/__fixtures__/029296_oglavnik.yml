@@ -1,0 +1,22 @@
+---
+  id: "29296"
+  word: "oglåvnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oglåvnik"
+      acc: "oglåvnik"
+      gen: "oglåvnika"
+      loc: "oglåvniku"
+      dat: "oglåvniku"
+      ins: "oglåvnikom"
+      voc: "oglåvniče"
+    plural: 
+      nom: "oglåvniky"
+      acc: "oglåvniky"
+      gen: "oglåvnikov"
+      loc: "oglåvnikah"
+      dat: "oglåvnikam"
+      ins: "oglåvnikami"
+      voc: "oglåvniky"

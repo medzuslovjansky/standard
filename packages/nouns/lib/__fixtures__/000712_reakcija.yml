@@ -1,0 +1,22 @@
+---
+  id: "712"
+  word: "reakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reakcija"
+      acc: "reakcijų"
+      gen: "reakcije"
+      loc: "reakciji"
+      dat: "reakciji"
+      ins: "reakcijejų"
+      voc: "reakcijo"
+    plural: 
+      nom: "reakcije"
+      acc: "reakcije"
+      gen: "reakcij"
+      loc: "reakcijah"
+      dat: "reakcijam"
+      ins: "reakcijami"
+      voc: "reakcije"

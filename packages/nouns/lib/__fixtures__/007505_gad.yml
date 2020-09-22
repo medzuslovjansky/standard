@@ -1,0 +1,23 @@
+---
+  id: "7505"
+  word: "gad"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gad"
+      acc: "gada"
+      gen: "gada"
+      loc: "gadu"
+      dat: "gadu"
+      ins: "gadom"
+      voc: "gade"
+    plural: 
+      nom: "gadi"
+      acc: "gadov"
+      gen: "gadov"
+      loc: "gadah"
+      dat: "gadam"
+      ins: "gadami"
+      voc: "gadi"

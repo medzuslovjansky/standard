@@ -1,0 +1,22 @@
+---
+  id: "1967"
+  word: "data"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "data"
+      acc: "datų"
+      gen: "daty"
+      loc: "datě"
+      dat: "datě"
+      ins: "datojų"
+      voc: "dato"
+    plural: 
+      nom: "daty"
+      acc: "daty"
+      gen: "dat"
+      loc: "datah"
+      dat: "datam"
+      ins: "datami"
+      voc: "daty"

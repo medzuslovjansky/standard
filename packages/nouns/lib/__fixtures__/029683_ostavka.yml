@@ -1,0 +1,22 @@
+---
+  id: "29683"
+  word: "ostavka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ostavka"
+      acc: "ostavkų"
+      gen: "ostavky"
+      loc: "ostavkě"
+      dat: "ostavkě"
+      ins: "ostavkojų"
+      voc: "ostavko"
+    plural: 
+      nom: "ostavky"
+      acc: "ostavky"
+      gen: "ostavȯk"
+      loc: "ostavkah"
+      dat: "ostavkam"
+      ins: "ostavkami"
+      voc: "ostavky"

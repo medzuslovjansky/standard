@@ -1,0 +1,22 @@
+---
+  id: "5676"
+  word: "motvųz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "motvųz"
+      acc: "motvųz"
+      gen: "motvųza"
+      loc: "motvųzu"
+      dat: "motvųzu"
+      ins: "motvųzom"
+      voc: "motvųze"
+    plural: 
+      nom: "motvųzy"
+      acc: "motvųzy"
+      gen: "motvųzov"
+      loc: "motvųzah"
+      dat: "motvųzam"
+      ins: "motvųzami"
+      voc: "motvųzy"

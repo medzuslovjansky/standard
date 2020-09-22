@@ -1,0 +1,22 @@
+---
+  id: "36535"
+  word: "sojka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sojka"
+      acc: "sojkų"
+      gen: "sojky"
+      loc: "sojkě"
+      dat: "sojkě"
+      ins: "sojkojų"
+      voc: "sojko"
+    plural: 
+      nom: "sojky"
+      acc: "sojky"
+      gen: "sojek"
+      loc: "sojkah"
+      dat: "sojkam"
+      ins: "sojkami"
+      voc: "sojky"

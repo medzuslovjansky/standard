@@ -1,0 +1,22 @@
+---
+  id: "29280"
+  word: "odtěnȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odtěnȯk"
+      acc: "odtěnȯk"
+      gen: "odtěnka"
+      loc: "odtěnku"
+      dat: "odtěnku"
+      ins: "odtěnkom"
+      voc: "odtěnče"
+    plural: 
+      nom: "odtěnky"
+      acc: "odtěnky"
+      gen: "odtěnkov"
+      loc: "odtěnkah"
+      dat: "odtěnkam"
+      ins: "odtěnkami"
+      voc: "odtěnky"

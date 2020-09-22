@@ -1,0 +1,22 @@
+---
+  id: "35418"
+  word: "stimul"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stimul"
+      acc: "stimul"
+      gen: "stimula"
+      loc: "stimulu"
+      dat: "stimulu"
+      ins: "stimulom"
+      voc: "stimule"
+    plural: 
+      nom: "stimuly"
+      acc: "stimuly"
+      gen: "stimulov"
+      loc: "stimulah"
+      dat: "stimulam"
+      ins: "stimulami"
+      voc: "stimuly"

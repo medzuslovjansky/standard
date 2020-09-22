@@ -1,0 +1,22 @@
+---
+  id: "1124"
+  word: "orientacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "orientacija"
+      acc: "orientacijų"
+      gen: "orientacije"
+      loc: "orientaciji"
+      dat: "orientaciji"
+      ins: "orientacijejų"
+      voc: "orientacijo"
+    plural: 
+      nom: "orientacije"
+      acc: "orientacije"
+      gen: "orientacij"
+      loc: "orientacijah"
+      dat: "orientacijam"
+      ins: "orientacijami"
+      voc: "orientacije"

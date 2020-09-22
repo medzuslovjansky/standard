@@ -1,0 +1,22 @@
+---
+  id: "935"
+  word: "mozg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mozg"
+      acc: "mozg"
+      gen: "mozga"
+      loc: "mozgu"
+      dat: "mozgu"
+      ins: "mozgom"
+      voc: "mozže"
+    plural: 
+      nom: "mozgy"
+      acc: "mozgy"
+      gen: "mozgov"
+      loc: "mozgah"
+      dat: "mozgam"
+      ins: "mozgami"
+      voc: "mozgy"

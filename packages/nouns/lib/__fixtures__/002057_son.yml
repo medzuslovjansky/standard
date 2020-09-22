@@ -1,0 +1,23 @@
+---
+  id: "2057"
+  word: "sȯn"
+  meta: 
+    irregularity: "(sna)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "s(ȯ)n"
+      acc: "s(ȯ)n"
+      gen: "s(ȯ)na"
+      loc: "s(ȯ)nu"
+      dat: "s(ȯ)nu"
+      ins: "s(ȯ)nom"
+      voc: "s(ȯ)ne"
+    plural: 
+      nom: "s(ȯ)ny"
+      acc: "s(ȯ)ny"
+      gen: "s(ȯ)nov"
+      loc: "s(ȯ)nah"
+      dat: "s(ȯ)nam"
+      ins: "s(ȯ)nami"
+      voc: "s(ȯ)ny"

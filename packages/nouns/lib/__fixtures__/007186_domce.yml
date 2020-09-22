@@ -1,0 +1,22 @@
+---
+  id: "7186"
+  word: "domče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "domče"
+      acc: "domče"
+      gen: "domča"
+      loc: "domču"
+      dat: "domču"
+      ins: "domčem"
+      voc: "domče"
+    plural: 
+      nom: "domča"
+      acc: "domča"
+      gen: "domč"
+      loc: "domčah"
+      dat: "domčam"
+      ins: "domčami"
+      voc: "domča"

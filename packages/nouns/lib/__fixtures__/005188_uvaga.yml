@@ -1,0 +1,22 @@
+---
+  id: "5188"
+  word: "uvaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uvaga"
+      acc: "uvagų"
+      gen: "uvagy"
+      loc: "uvagě"
+      dat: "uvagě"
+      ins: "uvagojų"
+      voc: "uvago"
+    plural: 
+      nom: "uvagy"
+      acc: "uvagy"
+      gen: "uvag"
+      loc: "uvagah"
+      dat: "uvagam"
+      ins: "uvagami"
+      voc: "uvagy"

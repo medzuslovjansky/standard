@@ -1,0 +1,22 @@
+---
+  id: "24169"
+  word: "akr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akr"
+      acc: "akr"
+      gen: "akra"
+      loc: "akru"
+      dat: "akru"
+      ins: "akrom"
+      voc: "akre"
+    plural: 
+      nom: "akry"
+      acc: "akry"
+      gen: "akrov"
+      loc: "akrah"
+      dat: "akram"
+      ins: "akrami"
+      voc: "akry"

@@ -1,0 +1,22 @@
+---
+  id: "2863"
+  word: "list"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "list"
+      acc: "list"
+      gen: "lista"
+      loc: "listu"
+      dat: "listu"
+      ins: "listom"
+      voc: "liste"
+    plural: 
+      nom: "listy"
+      acc: "listy"
+      gen: "listov"
+      loc: "listah"
+      dat: "listam"
+      ins: "listami"
+      voc: "listy"

@@ -1,0 +1,22 @@
+---
+  id: "5327"
+  word: "princip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "princip"
+      acc: "princip"
+      gen: "principa"
+      loc: "principu"
+      dat: "principu"
+      ins: "principom"
+      voc: "principe"
+    plural: 
+      nom: "principy"
+      acc: "principy"
+      gen: "principov"
+      loc: "principah"
+      dat: "principam"
+      ins: "principami"
+      voc: "principy"

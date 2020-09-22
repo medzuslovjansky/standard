@@ -1,0 +1,22 @@
+---
+  id: "35832"
+  word: "nevtralizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevtralizacija"
+      acc: "nevtralizacijų"
+      gen: "nevtralizacije"
+      loc: "nevtralizaciji"
+      dat: "nevtralizaciji"
+      ins: "nevtralizacijejų"
+      voc: "nevtralizacijo"
+    plural: 
+      nom: "nevtralizacije"
+      acc: "nevtralizacije"
+      gen: "nevtralizacij"
+      loc: "nevtralizacijah"
+      dat: "nevtralizacijam"
+      ins: "nevtralizacijami"
+      voc: "nevtralizacije"

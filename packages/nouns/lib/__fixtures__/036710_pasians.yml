@@ -1,0 +1,15 @@
+---
+  id: "36710"
+  word: "pasians"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pasians"
+      acc: "pasians"
+      gen: "pasiansa"
+      loc: "pasiansu"
+      dat: "pasiansu"
+      ins: "pasiansom"
+      voc: "pasianse"

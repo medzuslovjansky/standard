@@ -1,0 +1,22 @@
+---
+  id: "21185"
+  word: "upadȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "upadȯk"
+      acc: "upadȯk"
+      gen: "upadka"
+      loc: "upadku"
+      dat: "upadku"
+      ins: "upadkom"
+      voc: "upadče"
+    plural: 
+      nom: "upadky"
+      acc: "upadky"
+      gen: "upadkov"
+      loc: "upadkah"
+      dat: "upadkam"
+      ins: "upadkami"
+      voc: "upadky"

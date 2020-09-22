@@ -1,0 +1,23 @@
+---
+  id: "19756"
+  word: "Japonec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Japonec"
+      acc: "Japonca"
+      gen: "Japonca"
+      loc: "Japoncu"
+      dat: "Japoncu"
+      ins: "Japoncem"
+      voc: "Japonče"
+    plural: 
+      nom: "Japonci"
+      acc: "Japoncev"
+      gen: "Japoncev"
+      loc: "Japoncah"
+      dat: "Japoncam"
+      ins: "Japoncami"
+      voc: "Japonci"

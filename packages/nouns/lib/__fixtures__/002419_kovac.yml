@@ -1,0 +1,23 @@
+---
+  id: "2419"
+  word: "kovač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kovač"
+      acc: "kovača"
+      gen: "kovača"
+      loc: "kovaču"
+      dat: "kovaču"
+      ins: "kovačem"
+      voc: "kovaču"
+    plural: 
+      nom: "kovači"
+      acc: "kovačev"
+      gen: "kovačev"
+      loc: "kovačah"
+      dat: "kovačam"
+      ins: "kovačami"
+      voc: "kovači"

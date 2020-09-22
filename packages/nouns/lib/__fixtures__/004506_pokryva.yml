@@ -1,0 +1,22 @@
+---
+  id: "4506"
+  word: "pokryva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pokryva"
+      acc: "pokryvų"
+      gen: "pokryvy"
+      loc: "pokryvě"
+      dat: "pokryvě"
+      ins: "pokryvojų"
+      voc: "pokryvo"
+    plural: 
+      nom: "pokryvy"
+      acc: "pokryvy"
+      gen: "pokryv"
+      loc: "pokryvah"
+      dat: "pokryvam"
+      ins: "pokryvami"
+      voc: "pokryvy"

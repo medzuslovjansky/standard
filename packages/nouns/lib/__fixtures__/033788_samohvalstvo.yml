@@ -1,0 +1,15 @@
+---
+  id: "33788"
+  word: "samohvaľstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "samohvaľstvo"
+      acc: "samohvaľstvo"
+      gen: "samohvaľstva"
+      loc: "samohvaľstvu"
+      dat: "samohvaľstvu"
+      ins: "samohvaľstvom"
+      voc: "samohvaľstvo"

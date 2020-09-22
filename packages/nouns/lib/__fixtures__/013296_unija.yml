@@ -1,0 +1,22 @@
+---
+  id: "13296"
+  word: "unija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "unija"
+      acc: "unijų"
+      gen: "unije"
+      loc: "uniji"
+      dat: "uniji"
+      ins: "unijejų"
+      voc: "unijo"
+    plural: 
+      nom: "unije"
+      acc: "unije"
+      gen: "unij"
+      loc: "unijah"
+      dat: "unijam"
+      ins: "unijami"
+      voc: "unije"

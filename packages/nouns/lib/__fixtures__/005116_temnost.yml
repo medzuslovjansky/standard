@@ -1,0 +1,22 @@
+---
+  id: "5116"
+  word: "temnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "temnosť"
+      acc: "temnosť"
+      gen: "temnosti"
+      loc: "temnosti"
+      dat: "temnosti"
+      ins: "temnosťjų"
+      voc: "temnosti"
+    plural: 
+      nom: "temnosti"
+      acc: "temnosti"
+      gen: "temnostij"
+      loc: "temnosťah"
+      dat: "temnosťam"
+      ins: "temnosťami"
+      voc: "temnosti"

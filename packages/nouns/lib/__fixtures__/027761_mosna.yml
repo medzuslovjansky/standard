@@ -1,0 +1,22 @@
+---
+  id: "27761"
+  word: "mošna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mošna"
+      acc: "mošnų"
+      gen: "mošny"
+      loc: "mošně"
+      dat: "mošně"
+      ins: "mošnojų"
+      voc: "mošno"
+    plural: 
+      nom: "mošny"
+      acc: "mošny"
+      gen: "mošen"
+      loc: "mošnah"
+      dat: "mošnam"
+      ins: "mošnami"
+      voc: "mošny"

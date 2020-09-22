@@ -1,0 +1,22 @@
+---
+  id: "33260"
+  word: "uniščeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uniščeńje"
+      acc: "uniščeńje"
+      gen: "uniščeńja"
+      loc: "uniščeńju"
+      dat: "uniščeńju"
+      ins: "uniščeńjem"
+      voc: "uniščeńje"
+    plural: 
+      nom: "uniščeńja"
+      acc: "uniščeńja"
+      gen: "uniščenij"
+      loc: "uniščeńjah"
+      dat: "uniščeńjam"
+      ins: "uniščeńjami"
+      voc: "uniščeńja"

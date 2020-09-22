@@ -1,0 +1,22 @@
+---
+  id: "13099"
+  word: "trudnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trudnosť"
+      acc: "trudnosť"
+      gen: "trudnosti"
+      loc: "trudnosti"
+      dat: "trudnosti"
+      ins: "trudnosťjų"
+      voc: "trudnosti"
+    plural: 
+      nom: "trudnosti"
+      acc: "trudnosti"
+      gen: "trudnostij"
+      loc: "trudnosťah"
+      dat: "trudnosťam"
+      ins: "trudnosťami"
+      voc: "trudnosti"

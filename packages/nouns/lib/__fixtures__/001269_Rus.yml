@@ -1,0 +1,23 @@
+---
+  id: "1269"
+  word: "Rus"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Rus"
+      acc: "Rusa"
+      gen: "Rusa"
+      loc: "Rusu"
+      dat: "Rusu"
+      ins: "Rusom"
+      voc: "Ruse"
+    plural: 
+      nom: "Rusi"
+      acc: "Rusov"
+      gen: "Rusov"
+      loc: "Rusah"
+      dat: "Rusam"
+      ins: "Rusami"
+      voc: "Rusi"

@@ -1,0 +1,23 @@
+---
+  id: "13161"
+  word: "učenik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "učenik"
+      acc: "učenika"
+      gen: "učenika"
+      loc: "učeniku"
+      dat: "učeniku"
+      ins: "učenikom"
+      voc: "učeniče"
+    plural: 
+      nom: "učeniki"
+      acc: "učenikov"
+      gen: "učenikov"
+      loc: "učenikah"
+      dat: "učenikam"
+      ins: "učenikami"
+      voc: "učeniki"

@@ -1,0 +1,22 @@
+---
+  id: "23657"
+  word: "dȯlžina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯlžina"
+      acc: "dȯlžinų"
+      gen: "dȯlžiny"
+      loc: "dȯlžině"
+      dat: "dȯlžině"
+      ins: "dȯlžinojų"
+      voc: "dȯlžino"
+    plural: 
+      nom: "dȯlžiny"
+      acc: "dȯlžiny"
+      gen: "dȯlžin"
+      loc: "dȯlžinah"
+      dat: "dȯlžinam"
+      ins: "dȯlžinami"
+      voc: "dȯlžiny"

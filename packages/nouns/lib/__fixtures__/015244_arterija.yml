@@ -1,0 +1,22 @@
+---
+  id: "15244"
+  word: "arterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "arterija"
+      acc: "arterijų"
+      gen: "arterije"
+      loc: "arteriji"
+      dat: "arteriji"
+      ins: "arterijejų"
+      voc: "arterijo"
+    plural: 
+      nom: "arterije"
+      acc: "arterije"
+      gen: "arterij"
+      loc: "arterijah"
+      dat: "arterijam"
+      ins: "arterijami"
+      voc: "arterije"

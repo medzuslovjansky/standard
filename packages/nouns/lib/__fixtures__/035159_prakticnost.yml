@@ -1,0 +1,22 @@
+---
+  id: "35159"
+  word: "praktičnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "praktičnosť"
+      acc: "praktičnosť"
+      gen: "praktičnosti"
+      loc: "praktičnosti"
+      dat: "praktičnosti"
+      ins: "praktičnosťjų"
+      voc: "praktičnosti"
+    plural: 
+      nom: "praktičnosti"
+      acc: "praktičnosti"
+      gen: "praktičnostij"
+      loc: "praktičnosťah"
+      dat: "praktičnosťam"
+      ins: "praktičnosťami"
+      voc: "praktičnosti"

@@ -1,0 +1,22 @@
+---
+  id: "34723"
+  word: "vȯzsilovač"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzsilovač"
+      acc: "vȯzsilovač"
+      gen: "vȯzsilovača"
+      loc: "vȯzsilovaču"
+      dat: "vȯzsilovaču"
+      ins: "vȯzsilovačem"
+      voc: "vȯzsilovaču"
+    plural: 
+      nom: "vȯzsilovače"
+      acc: "vȯzsilovače"
+      gen: "vȯzsilovačev"
+      loc: "vȯzsilovačah"
+      dat: "vȯzsilovačam"
+      ins: "vȯzsilovačami"
+      voc: "vȯzsilovače"

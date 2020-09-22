@@ -1,0 +1,22 @@
+---
+  id: "22243"
+  word: "vodovod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodovod"
+      acc: "vodovod"
+      gen: "vodovoda"
+      loc: "vodovodu"
+      dat: "vodovodu"
+      ins: "vodovodom"
+      voc: "vodovode"
+    plural: 
+      nom: "vodovody"
+      acc: "vodovody"
+      gen: "vodovodov"
+      loc: "vodovodah"
+      dat: "vodovodam"
+      ins: "vodovodami"
+      voc: "vodovody"

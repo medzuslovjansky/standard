@@ -1,0 +1,22 @@
+---
+  id: "3758"
+  word: "rěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "rěčeńje"
+      acc: "rěčeńje"
+      gen: "rěčeńja"
+      loc: "rěčeńju"
+      dat: "rěčeńju"
+      ins: "rěčeńjem"
+      voc: "rěčeńje"
+    plural: 
+      nom: "rěčeńja"
+      acc: "rěčeńja"
+      gen: "rěčenij"
+      loc: "rěčeńjah"
+      dat: "rěčeńjam"
+      ins: "rěčeńjami"
+      voc: "rěčeńja"

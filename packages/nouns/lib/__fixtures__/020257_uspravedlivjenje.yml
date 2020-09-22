@@ -1,0 +1,22 @@
+---
+  id: "20257"
+  word: "uspravědlivjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uspravědlivjeńje"
+      acc: "uspravědlivjeńje"
+      gen: "uspravědlivjeńja"
+      loc: "uspravědlivjeńju"
+      dat: "uspravědlivjeńju"
+      ins: "uspravědlivjeńjem"
+      voc: "uspravědlivjeńje"
+    plural: 
+      nom: "uspravědlivjeńja"
+      acc: "uspravědlivjeńja"
+      gen: "uspravědlivjenij"
+      loc: "uspravědlivjeńjah"
+      dat: "uspravědlivjeńjam"
+      ins: "uspravědlivjeńjami"
+      voc: "uspravědlivjeńja"

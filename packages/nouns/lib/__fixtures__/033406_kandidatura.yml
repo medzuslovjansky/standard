@@ -1,0 +1,22 @@
+---
+  id: "33406"
+  word: "kandidatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kandidatura"
+      acc: "kandidaturų"
+      gen: "kandidatury"
+      loc: "kandidaturě"
+      dat: "kandidaturě"
+      ins: "kandidaturojų"
+      voc: "kandidaturo"
+    plural: 
+      nom: "kandidatury"
+      acc: "kandidatury"
+      gen: "kandidatur"
+      loc: "kandidaturah"
+      dat: "kandidaturam"
+      ins: "kandidaturami"
+      voc: "kandidatury"

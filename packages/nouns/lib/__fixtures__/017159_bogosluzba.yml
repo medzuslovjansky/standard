@@ -1,0 +1,22 @@
+---
+  id: "17159"
+  word: "bogoslužba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bogoslužba"
+      acc: "bogoslužbų"
+      gen: "bogoslužby"
+      loc: "bogoslužbě"
+      dat: "bogoslužbě"
+      ins: "bogoslužbojų"
+      voc: "bogoslužbo"
+    plural: 
+      nom: "bogoslužby"
+      acc: "bogoslužby"
+      gen: "bogoslužb"
+      loc: "bogoslužbah"
+      dat: "bogoslužbam"
+      ins: "bogoslužbami"
+      voc: "bogoslužby"

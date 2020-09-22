@@ -1,0 +1,22 @@
+---
+  id: "20422"
+  word: "ličinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ličinka"
+      acc: "ličinkų"
+      gen: "ličinky"
+      loc: "ličinkě"
+      dat: "ličinkě"
+      ins: "ličinkojų"
+      voc: "ličinko"
+    plural: 
+      nom: "ličinky"
+      acc: "ličinky"
+      gen: "ličinȯk"
+      loc: "ličinkah"
+      dat: "ličinkam"
+      ins: "ličinkami"
+      voc: "ličinky"

@@ -1,0 +1,23 @@
+---
+  id: "35334"
+  word: "věrnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věrnik"
+      acc: "věrnika"
+      gen: "věrnika"
+      loc: "věrniku"
+      dat: "věrniku"
+      ins: "věrnikom"
+      voc: "věrniče"
+    plural: 
+      nom: "věrniki"
+      acc: "věrnikov"
+      gen: "věrnikov"
+      loc: "věrnikah"
+      dat: "věrnikam"
+      ins: "věrnikami"
+      voc: "věrniki"

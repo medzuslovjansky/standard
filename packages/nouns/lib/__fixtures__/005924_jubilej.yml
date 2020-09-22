@@ -1,0 +1,22 @@
+---
+  id: "5924"
+  word: "jubilej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jubilej"
+      acc: "jubilej"
+      gen: "jubileja"
+      loc: "jubileju"
+      dat: "jubileju"
+      ins: "jubilejem"
+      voc: "jubileju"
+    plural: 
+      nom: "jubileje"
+      acc: "jubileje"
+      gen: "jubilejev"
+      loc: "jubilejah"
+      dat: "jubilejam"
+      ins: "jubilejami"
+      voc: "jubileje"

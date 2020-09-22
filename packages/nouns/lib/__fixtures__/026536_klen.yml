@@ -1,0 +1,22 @@
+---
+  id: "26536"
+  word: "klen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klen"
+      acc: "klen"
+      gen: "klena"
+      loc: "klenu"
+      dat: "klenu"
+      ins: "klenom"
+      voc: "klene"
+    plural: 
+      nom: "kleny"
+      acc: "kleny"
+      gen: "klenov"
+      loc: "klenah"
+      dat: "klenam"
+      ins: "klenami"
+      voc: "kleny"

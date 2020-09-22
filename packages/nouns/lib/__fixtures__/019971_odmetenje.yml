@@ -1,0 +1,22 @@
+---
+  id: "19971"
+  word: "odmeteńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odmeteńje"
+      acc: "odmeteńje"
+      gen: "odmeteńja"
+      loc: "odmeteńju"
+      dat: "odmeteńju"
+      ins: "odmeteńjem"
+      voc: "odmeteńje"
+    plural: 
+      nom: "odmeteńja"
+      acc: "odmeteńja"
+      gen: "odmetenij"
+      loc: "odmeteńjah"
+      dat: "odmeteńjam"
+      ins: "odmeteńjami"
+      voc: "odmeteńja"

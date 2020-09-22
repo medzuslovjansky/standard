@@ -1,0 +1,22 @@
+---
+  id: "1011"
+  word: "iskra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iskra"
+      acc: "iskrų"
+      gen: "iskry"
+      loc: "iskrě"
+      dat: "iskrě"
+      ins: "iskrojų"
+      voc: "iskro"
+    plural: 
+      nom: "iskry"
+      acc: "iskry"
+      gen: "iskr"
+      loc: "iskrah"
+      dat: "iskram"
+      ins: "iskrami"
+      voc: "iskry"

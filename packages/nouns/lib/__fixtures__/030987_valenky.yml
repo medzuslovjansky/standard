@@ -1,0 +1,15 @@
+---
+  id: "30987"
+  word: "valenky"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "valenky"
+      acc: "valenky"
+      gen: "valenkov"
+      loc: "valenkah"
+      dat: "valenkam"
+      ins: "valenkami"
+      voc: "valenky"

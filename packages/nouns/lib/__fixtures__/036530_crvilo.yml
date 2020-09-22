@@ -1,0 +1,22 @@
+---
+  id: "36530"
+  word: "črvilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "črvilo"
+      acc: "črvilo"
+      gen: "črvila"
+      loc: "črvilu"
+      dat: "črvilu"
+      ins: "črvilom"
+      voc: "črvilo"
+    plural: 
+      nom: "črvila"
+      acc: "črvila"
+      gen: "črvil"
+      loc: "črvilah"
+      dat: "črvilam"
+      ins: "črvilami"
+      voc: "črvila"

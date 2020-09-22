@@ -1,0 +1,23 @@
+---
+  id: "2526"
+  word: "filozof"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "filozof"
+      acc: "filozofa"
+      gen: "filozofa"
+      loc: "filozofu"
+      dat: "filozofu"
+      ins: "filozofom"
+      voc: "filozofe"
+    plural: 
+      nom: "filozofi"
+      acc: "filozofov"
+      gen: "filozofov"
+      loc: "filozofah"
+      dat: "filozofam"
+      ins: "filozofami"
+      voc: "filozofi"

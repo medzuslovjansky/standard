@@ -1,0 +1,22 @@
+---
+  id: "4256"
+  word: "vȯzdyh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzdyh"
+      acc: "vȯzdyh"
+      gen: "vȯzdyha"
+      loc: "vȯzdyhu"
+      dat: "vȯzdyhu"
+      ins: "vȯzdyhom"
+      voc: "vȯzdyše"
+    plural: 
+      nom: "vȯzdyhy"
+      acc: "vȯzdyhy"
+      gen: "vȯzdyhov"
+      loc: "vȯzdyhah"
+      dat: "vȯzdyham"
+      ins: "vȯzdyhami"
+      voc: "vȯzdyhy"

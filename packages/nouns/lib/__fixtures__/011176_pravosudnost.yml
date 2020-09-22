@@ -1,0 +1,22 @@
+---
+  id: "11176"
+  word: "pravosųdnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravosųdnosť"
+      acc: "pravosųdnosť"
+      gen: "pravosųdnosti"
+      loc: "pravosųdnosti"
+      dat: "pravosųdnosti"
+      ins: "pravosųdnosťjų"
+      voc: "pravosųdnosti"
+    plural: 
+      nom: "pravosųdnosti"
+      acc: "pravosųdnosti"
+      gen: "pravosųdnostij"
+      loc: "pravosųdnosťah"
+      dat: "pravosųdnosťam"
+      ins: "pravosųdnosťami"
+      voc: "pravosųdnosti"

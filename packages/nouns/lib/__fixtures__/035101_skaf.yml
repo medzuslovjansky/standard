@@ -1,0 +1,22 @@
+---
+  id: "35101"
+  word: "škaf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "škaf"
+      acc: "škaf"
+      gen: "škafa"
+      loc: "škafu"
+      dat: "škafu"
+      ins: "škafom"
+      voc: "škafe"
+    plural: 
+      nom: "škafy"
+      acc: "škafy"
+      gen: "škafov"
+      loc: "škafah"
+      dat: "škafam"
+      ins: "škafami"
+      voc: "škafy"

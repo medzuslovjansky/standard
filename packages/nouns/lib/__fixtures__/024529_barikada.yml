@@ -1,0 +1,22 @@
+---
+  id: "24529"
+  word: "barikada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "barikada"
+      acc: "barikadų"
+      gen: "barikady"
+      loc: "barikadě"
+      dat: "barikadě"
+      ins: "barikadojų"
+      voc: "barikado"
+    plural: 
+      nom: "barikady"
+      acc: "barikady"
+      gen: "barikad"
+      loc: "barikadah"
+      dat: "barikadam"
+      ins: "barikadami"
+      voc: "barikady"

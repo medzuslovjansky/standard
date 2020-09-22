@@ -1,0 +1,22 @@
+---
+  id: "17191"
+  word: "časopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "časopis"
+      acc: "časopis"
+      gen: "časopisa"
+      loc: "časopisu"
+      dat: "časopisu"
+      ins: "časopisom"
+      voc: "časopise"
+    plural: 
+      nom: "časopisy"
+      acc: "časopisy"
+      gen: "časopisov"
+      loc: "časopisah"
+      dat: "časopisam"
+      ins: "časopisami"
+      voc: "časopisy"

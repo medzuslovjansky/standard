@@ -1,0 +1,22 @@
+---
+  id: "6204"
+  word: "kniževnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kniževnosť"
+      acc: "kniževnosť"
+      gen: "kniževnosti"
+      loc: "kniževnosti"
+      dat: "kniževnosti"
+      ins: "kniževnosťjų"
+      voc: "kniževnosti"
+    plural: 
+      nom: "kniževnosti"
+      acc: "kniževnosti"
+      gen: "kniževnostij"
+      loc: "kniževnosťah"
+      dat: "kniževnosťam"
+      ins: "kniževnosťami"
+      voc: "kniževnosti"

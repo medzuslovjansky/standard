@@ -1,0 +1,22 @@
+---
+  id: "29751"
+  word: "otravjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "otravjeńje"
+      acc: "otravjeńje"
+      gen: "otravjeńja"
+      loc: "otravjeńju"
+      dat: "otravjeńju"
+      ins: "otravjeńjem"
+      voc: "otravjeńje"
+    plural: 
+      nom: "otravjeńja"
+      acc: "otravjeńja"
+      gen: "otravjenij"
+      loc: "otravjeńjah"
+      dat: "otravjeńjam"
+      ins: "otravjeńjami"
+      voc: "otravjeńja"

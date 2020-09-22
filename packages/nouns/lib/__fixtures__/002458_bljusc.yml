@@ -1,0 +1,22 @@
+---
+  id: "2458"
+  word: "bljušč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bljušč"
+      acc: "bljušč"
+      gen: "bljušča"
+      loc: "bljušču"
+      dat: "bljušču"
+      ins: "bljuščem"
+      voc: "bljušču"
+    plural: 
+      nom: "bljušče"
+      acc: "bljušče"
+      gen: "bljuščev"
+      loc: "bljuščah"
+      dat: "bljuščam"
+      ins: "bljuščami"
+      voc: "bljušče"

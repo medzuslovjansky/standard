@@ -1,0 +1,22 @@
+---
+  id: "11155"
+  word: "pravdivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pravdivosť"
+      acc: "pravdivosť"
+      gen: "pravdivosti"
+      loc: "pravdivosti"
+      dat: "pravdivosti"
+      ins: "pravdivosťjų"
+      voc: "pravdivosti"
+    plural: 
+      nom: "pravdivosti"
+      acc: "pravdivosti"
+      gen: "pravdivostij"
+      loc: "pravdivosťah"
+      dat: "pravdivosťam"
+      ins: "pravdivosťami"
+      voc: "pravdivosti"

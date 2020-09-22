@@ -1,0 +1,22 @@
+---
+  id: "5174"
+  word: "jedinica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jedinica"
+      acc: "jedinicų"
+      gen: "jedinice"
+      loc: "jedinici"
+      dat: "jedinici"
+      ins: "jedinicejų"
+      voc: "jedinico"
+    plural: 
+      nom: "jedinice"
+      acc: "jedinice"
+      gen: "jedinic"
+      loc: "jedinicah"
+      dat: "jedinicam"
+      ins: "jedinicami"
+      voc: "jedinice"

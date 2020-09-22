@@ -1,0 +1,23 @@
+---
+  id: "18989"
+  word: "travojed"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "travojed"
+      acc: "travojeda"
+      gen: "travojeda"
+      loc: "travojedu"
+      dat: "travojedu"
+      ins: "travojedom"
+      voc: "travojede"
+    plural: 
+      nom: "travojedi"
+      acc: "travojedov"
+      gen: "travojedov"
+      loc: "travojedah"
+      dat: "travojedam"
+      ins: "travojedami"
+      voc: "travojedi"

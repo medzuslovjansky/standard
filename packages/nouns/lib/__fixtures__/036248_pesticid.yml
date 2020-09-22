@@ -1,0 +1,22 @@
+---
+  id: "36248"
+  word: "pesticid"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pesticid"
+      acc: "pesticid"
+      gen: "pesticida"
+      loc: "pesticidu"
+      dat: "pesticidu"
+      ins: "pesticidom"
+      voc: "pesticide"
+    plural: 
+      nom: "pesticidy"
+      acc: "pesticidy"
+      gen: "pesticidov"
+      loc: "pesticidah"
+      dat: "pesticidam"
+      ins: "pesticidami"
+      voc: "pesticidy"

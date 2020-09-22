@@ -1,0 +1,22 @@
+---
+  id: "23444"
+  word: "gitara"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gitara"
+      acc: "gitarų"
+      gen: "gitary"
+      loc: "gitarě"
+      dat: "gitarě"
+      ins: "gitarojų"
+      voc: "gitaro"
+    plural: 
+      nom: "gitary"
+      acc: "gitary"
+      gen: "gitar"
+      loc: "gitarah"
+      dat: "gitaram"
+      ins: "gitarami"
+      voc: "gitary"

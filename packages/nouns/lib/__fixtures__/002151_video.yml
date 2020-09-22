@@ -1,0 +1,22 @@
+---
+  id: "2151"
+  word: "video"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "video"
+      acc: "video"
+      gen: "videa"
+      loc: "videu"
+      dat: "videu"
+      ins: "videom"
+      voc: "video"
+    plural: 
+      nom: "videa"
+      acc: "videa"
+      gen: "vide"
+      loc: "videah"
+      dat: "videam"
+      ins: "videami"
+      voc: "videa"

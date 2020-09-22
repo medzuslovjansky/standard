@@ -1,0 +1,22 @@
+---
+  id: "5042"
+  word: "sųmråk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sųmråk"
+      acc: "sųmråk"
+      gen: "sųmråka"
+      loc: "sųmråku"
+      dat: "sųmråku"
+      ins: "sųmråkom"
+      voc: "sųmråče"
+    plural: 
+      nom: "sųmråky"
+      acc: "sųmråky"
+      gen: "sųmråkov"
+      loc: "sųmråkah"
+      dat: "sųmråkam"
+      ins: "sųmråkami"
+      voc: "sųmråky"

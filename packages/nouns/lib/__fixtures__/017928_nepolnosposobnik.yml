@@ -1,0 +1,23 @@
+---
+  id: "17928"
+  word: "nepȯlnosposobnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nepȯlnosposobnik"
+      acc: "nepȯlnosposobnika"
+      gen: "nepȯlnosposobnika"
+      loc: "nepȯlnosposobniku"
+      dat: "nepȯlnosposobniku"
+      ins: "nepȯlnosposobnikom"
+      voc: "nepȯlnosposobniče"
+    plural: 
+      nom: "nepȯlnosposobniki"
+      acc: "nepȯlnosposobnikov"
+      gen: "nepȯlnosposobnikov"
+      loc: "nepȯlnosposobnikah"
+      dat: "nepȯlnosposobnikam"
+      ins: "nepȯlnosposobnikami"
+      voc: "nepȯlnosposobniki"

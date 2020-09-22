@@ -1,0 +1,15 @@
+---
+  id: "19994"
+  word: "okolice"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "okolice"
+      acc: "okolice"
+      gen: "okolic"
+      loc: "okolicah"
+      dat: "okolicam"
+      ins: "okolicami"
+      voc: "okolice"

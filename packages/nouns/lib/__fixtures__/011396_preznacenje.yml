@@ -1,0 +1,22 @@
+---
+  id: "11396"
+  word: "prěznačeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěznačeńje"
+      acc: "prěznačeńje"
+      gen: "prěznačeńja"
+      loc: "prěznačeńju"
+      dat: "prěznačeńju"
+      ins: "prěznačeńjem"
+      voc: "prěznačeńje"
+    plural: 
+      nom: "prěznačeńja"
+      acc: "prěznačeńja"
+      gen: "prěznačenij"
+      loc: "prěznačeńjah"
+      dat: "prěznačeńjam"
+      ins: "prěznačeńjami"
+      voc: "prěznačeńja"

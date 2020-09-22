@@ -1,0 +1,22 @@
+---
+  id: "35884"
+  word: "udobstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "udobstvo"
+      acc: "udobstvo"
+      gen: "udobstva"
+      loc: "udobstvu"
+      dat: "udobstvu"
+      ins: "udobstvom"
+      voc: "udobstvo"
+    plural: 
+      nom: "udobstva"
+      acc: "udobstva"
+      gen: "udobstv"
+      loc: "udobstvah"
+      dat: "udobstvam"
+      ins: "udobstvami"
+      voc: "udobstva"

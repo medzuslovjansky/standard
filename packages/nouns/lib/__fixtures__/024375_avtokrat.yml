@@ -1,0 +1,23 @@
+---
+  id: "24375"
+  word: "avtokrat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "avtokrat"
+      acc: "avtokrata"
+      gen: "avtokrata"
+      loc: "avtokratu"
+      dat: "avtokratu"
+      ins: "avtokratom"
+      voc: "avtokrate"
+    plural: 
+      nom: "avtokrati"
+      acc: "avtokratov"
+      gen: "avtokratov"
+      loc: "avtokratah"
+      dat: "avtokratam"
+      ins: "avtokratami"
+      voc: "avtokrati"

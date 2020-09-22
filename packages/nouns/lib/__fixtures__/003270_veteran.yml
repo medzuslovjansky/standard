@@ -1,0 +1,23 @@
+---
+  id: "3270"
+  word: "veteran"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "veteran"
+      acc: "veterana"
+      gen: "veterana"
+      loc: "veteranu"
+      dat: "veteranu"
+      ins: "veteranom"
+      voc: "veterane"
+    plural: 
+      nom: "veterani"
+      acc: "veteranov"
+      gen: "veteranov"
+      loc: "veteranah"
+      dat: "veteranam"
+      ins: "veteranami"
+      voc: "veterani"

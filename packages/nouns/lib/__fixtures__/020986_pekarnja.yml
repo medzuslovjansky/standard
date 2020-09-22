@@ -1,0 +1,22 @@
+---
+  id: "20986"
+  word: "pekarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pekarnja"
+      acc: "pekarnjų"
+      gen: "pekarnje"
+      loc: "pekarnji"
+      dat: "pekarnji"
+      ins: "pekarnjejų"
+      voc: "pekarnjo"
+    plural: 
+      nom: "pekarnje"
+      acc: "pekarnje"
+      gen: "pekarnej"
+      loc: "pekarnjah"
+      dat: "pekarnjam"
+      ins: "pekarnjami"
+      voc: "pekarnje"

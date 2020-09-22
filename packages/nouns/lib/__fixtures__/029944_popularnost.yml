@@ -1,0 +1,22 @@
+---
+  id: "29944"
+  word: "popularnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popularnosť"
+      acc: "popularnosť"
+      gen: "popularnosti"
+      loc: "popularnosti"
+      dat: "popularnosti"
+      ins: "popularnosťjų"
+      voc: "popularnosti"
+    plural: 
+      nom: "popularnosti"
+      acc: "popularnosti"
+      gen: "popularnostij"
+      loc: "popularnosťah"
+      dat: "popularnosťam"
+      ins: "popularnosťami"
+      voc: "popularnosti"

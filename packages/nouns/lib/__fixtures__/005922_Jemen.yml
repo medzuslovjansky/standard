@@ -1,0 +1,15 @@
+---
+  id: "5922"
+  word: "Jemen"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Jemen"
+      acc: "Jemen"
+      gen: "Jemena"
+      loc: "Jemenu"
+      dat: "Jemenu"
+      ins: "Jemenom"
+      voc: "Jemene"

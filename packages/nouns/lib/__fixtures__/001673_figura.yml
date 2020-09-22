@@ -1,0 +1,22 @@
+---
+  id: "1673"
+  word: "figura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "figura"
+      acc: "figurų"
+      gen: "figury"
+      loc: "figurě"
+      dat: "figurě"
+      ins: "figurojų"
+      voc: "figuro"
+    plural: 
+      nom: "figury"
+      acc: "figury"
+      gen: "figur"
+      loc: "figurah"
+      dat: "figuram"
+      ins: "figurami"
+      voc: "figury"

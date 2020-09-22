@@ -1,0 +1,15 @@
+---
+  id: "36563"
+  word: "Pridněstrovje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Pridněstrovje"
+      acc: "Pridněstrovje"
+      gen: "Pridněstrovja"
+      loc: "Pridněstrovju"
+      dat: "Pridněstrovju"
+      ins: "Pridněstrovjem"
+      voc: "Pridněstrovje"

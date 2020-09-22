@@ -1,0 +1,23 @@
+---
+  id: "20920"
+  word: "očevidec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "očevidec"
+      acc: "očevidca"
+      gen: "očevidca"
+      loc: "očevidcu"
+      dat: "očevidcu"
+      ins: "očevidcem"
+      voc: "očevidče"
+    plural: 
+      nom: "očevidci"
+      acc: "očevidcev"
+      gen: "očevidcev"
+      loc: "očevidcah"
+      dat: "očevidcam"
+      ins: "očevidcami"
+      voc: "očevidci"

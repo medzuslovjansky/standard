@@ -1,0 +1,22 @@
+---
+  id: "27000"
+  word: "kuropatva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuropatva"
+      acc: "kuropatvų"
+      gen: "kuropatvy"
+      loc: "kuropatvě"
+      dat: "kuropatvě"
+      ins: "kuropatvojų"
+      voc: "kuropatvo"
+    plural: 
+      nom: "kuropatvy"
+      acc: "kuropatvy"
+      gen: "kuropatv"
+      loc: "kuropatvah"
+      dat: "kuropatvam"
+      ins: "kuropatvami"
+      voc: "kuropatvy"

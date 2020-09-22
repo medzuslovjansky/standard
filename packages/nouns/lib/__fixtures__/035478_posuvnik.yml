@@ -1,0 +1,22 @@
+---
+  id: "35478"
+  word: "posuvnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "posuvnik"
+      acc: "posuvnik"
+      gen: "posuvnika"
+      loc: "posuvniku"
+      dat: "posuvniku"
+      ins: "posuvnikom"
+      voc: "posuvniče"
+    plural: 
+      nom: "posuvniky"
+      acc: "posuvniky"
+      gen: "posuvnikov"
+      loc: "posuvnikah"
+      dat: "posuvnikam"
+      ins: "posuvnikami"
+      voc: "posuvniky"

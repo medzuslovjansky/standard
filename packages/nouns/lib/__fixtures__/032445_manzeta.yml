@@ -1,0 +1,22 @@
+---
+  id: "32445"
+  word: "manžeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "manžeta"
+      acc: "manžetų"
+      gen: "manžety"
+      loc: "manžetě"
+      dat: "manžetě"
+      ins: "manžetojų"
+      voc: "manžeto"
+    plural: 
+      nom: "manžety"
+      acc: "manžety"
+      gen: "manžet"
+      loc: "manžetah"
+      dat: "manžetam"
+      ins: "manžetami"
+      voc: "manžety"

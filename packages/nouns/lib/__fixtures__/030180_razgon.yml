@@ -1,0 +1,22 @@
+---
+  id: "30180"
+  word: "råzgon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzgon"
+      acc: "råzgon"
+      gen: "råzgona"
+      loc: "råzgonu"
+      dat: "råzgonu"
+      ins: "råzgonom"
+      voc: "råzgone"
+    plural: 
+      nom: "råzgony"
+      acc: "råzgony"
+      gen: "råzgonov"
+      loc: "råzgonah"
+      dat: "råzgonam"
+      ins: "råzgonami"
+      voc: "råzgony"

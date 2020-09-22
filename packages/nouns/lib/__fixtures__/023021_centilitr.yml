@@ -1,0 +1,22 @@
+---
+  id: "23021"
+  word: "centilitr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "centilitr"
+      acc: "centilitr"
+      gen: "centilitra"
+      loc: "centilitru"
+      dat: "centilitru"
+      ins: "centilitrom"
+      voc: "centilitre"
+    plural: 
+      nom: "centilitry"
+      acc: "centilitry"
+      gen: "centilitrov"
+      loc: "centilitrah"
+      dat: "centilitram"
+      ins: "centilitrami"
+      voc: "centilitry"

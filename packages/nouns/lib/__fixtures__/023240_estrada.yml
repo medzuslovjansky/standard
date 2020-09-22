@@ -1,0 +1,22 @@
+---
+  id: "23240"
+  word: "estrada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "estrada"
+      acc: "estradų"
+      gen: "estrady"
+      loc: "estradě"
+      dat: "estradě"
+      ins: "estradojų"
+      voc: "estrado"
+    plural: 
+      nom: "estrady"
+      acc: "estrady"
+      gen: "estrad"
+      loc: "estradah"
+      dat: "estradam"
+      ins: "estradami"
+      voc: "estrady"

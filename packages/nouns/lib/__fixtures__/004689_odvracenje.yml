@@ -1,0 +1,22 @@
+---
+  id: "4689"
+  word: "odvråćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odvråćeńje"
+      acc: "odvråćeńje"
+      gen: "odvråćeńja"
+      loc: "odvråćeńju"
+      dat: "odvråćeńju"
+      ins: "odvråćeńjem"
+      voc: "odvråćeńje"
+    plural: 
+      nom: "odvråćeńja"
+      acc: "odvråćeńja"
+      gen: "odvråćenij"
+      loc: "odvråćeńjah"
+      dat: "odvråćeńjam"
+      ins: "odvråćeńjami"
+      voc: "odvråćeńja"

@@ -1,0 +1,22 @@
+---
+  id: "16364"
+  word: "infrastruktura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "infrastruktura"
+      acc: "infrastrukturų"
+      gen: "infrastruktury"
+      loc: "infrastrukturě"
+      dat: "infrastrukturě"
+      ins: "infrastrukturojų"
+      voc: "infrastrukturo"
+    plural: 
+      nom: "infrastruktury"
+      acc: "infrastruktury"
+      gen: "infrastruktur"
+      loc: "infrastrukturah"
+      dat: "infrastrukturam"
+      ins: "infrastrukturami"
+      voc: "infrastruktury"

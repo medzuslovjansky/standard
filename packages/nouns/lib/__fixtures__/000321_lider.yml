@@ -1,0 +1,23 @@
+---
+  id: "321"
+  word: "lider"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lider"
+      acc: "lidera"
+      gen: "lidera"
+      loc: "lideru"
+      dat: "lideru"
+      ins: "liderom"
+      voc: "lidere"
+    plural: 
+      nom: "lideri"
+      acc: "liderov"
+      gen: "liderov"
+      loc: "liderah"
+      dat: "lideram"
+      ins: "liderami"
+      voc: "lideri"

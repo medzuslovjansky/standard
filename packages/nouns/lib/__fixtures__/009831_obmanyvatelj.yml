@@ -1,0 +1,23 @@
+---
+  id: "9831"
+  word: "obmanyvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obmanyvatelj"
+      acc: "obmanyvatelja"
+      gen: "obmanyvatelja"
+      loc: "obmanyvatelju"
+      dat: "obmanyvatelju"
+      ins: "obmanyvateljem"
+      voc: "obmanyvatelju"
+    plural: 
+      nom: "obmanyvatelji"
+      acc: "obmanyvateljev"
+      gen: "obmanyvateljev"
+      loc: "obmanyvateljah"
+      dat: "obmanyvateljam"
+      ins: "obmanyvateljami"
+      voc: "obmanyvatelji"

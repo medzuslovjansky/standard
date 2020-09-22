@@ -1,0 +1,22 @@
+---
+  id: "32350"
+  word: "teplica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "teplica"
+      acc: "teplicų"
+      gen: "teplice"
+      loc: "teplici"
+      dat: "teplici"
+      ins: "teplicejų"
+      voc: "teplico"
+    plural: 
+      nom: "teplice"
+      acc: "teplice"
+      gen: "teplic"
+      loc: "teplicah"
+      dat: "teplicam"
+      ins: "teplicami"
+      voc: "teplice"

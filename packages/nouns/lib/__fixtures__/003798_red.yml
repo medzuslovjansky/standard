@@ -1,0 +1,22 @@
+---
+  id: "3798"
+  word: "ręd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ręd"
+      acc: "ręd"
+      gen: "ręda"
+      loc: "rędu"
+      dat: "rędu"
+      ins: "rędom"
+      voc: "ręde"
+    plural: 
+      nom: "rędy"
+      acc: "rędy"
+      gen: "rędov"
+      loc: "rędah"
+      dat: "rędam"
+      ins: "rędami"
+      voc: "rędy"

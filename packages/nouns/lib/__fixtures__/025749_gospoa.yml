@@ -1,0 +1,22 @@
+---
+  id: "25749"
+  word: "gospođa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gospođa"
+      acc: "gospođų"
+      gen: "gospođy"
+      loc: "gospođě"
+      dat: "gospođě"
+      ins: "gospođojų"
+      voc: "gospođo"
+    plural: 
+      nom: "gospođy"
+      acc: "gospođy"
+      gen: "gospođ"
+      loc: "gospođah"
+      dat: "gospođam"
+      ins: "gospođami"
+      voc: "gospođy"

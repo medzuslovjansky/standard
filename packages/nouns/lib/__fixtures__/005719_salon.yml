@@ -1,0 +1,22 @@
+---
+  id: "5719"
+  word: "salon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "salon"
+      acc: "salon"
+      gen: "salona"
+      loc: "salonu"
+      dat: "salonu"
+      ins: "salonom"
+      voc: "salone"
+    plural: 
+      nom: "salony"
+      acc: "salony"
+      gen: "salonov"
+      loc: "salonah"
+      dat: "salonam"
+      ins: "salonami"
+      voc: "salony"

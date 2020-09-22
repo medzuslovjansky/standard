@@ -1,0 +1,15 @@
+---
+  id: "2567"
+  word: "groši"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "groši"
+      acc: "groši"
+      gen: "grošov"
+      loc: "grošah"
+      dat: "grošam"
+      ins: "grošami"
+      voc: "groši"

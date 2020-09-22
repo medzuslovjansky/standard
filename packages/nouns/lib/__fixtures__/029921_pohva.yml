@@ -1,0 +1,22 @@
+---
+  id: "29921"
+  word: "pohva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pohva"
+      acc: "pohvų"
+      gen: "pohvy"
+      loc: "pohvě"
+      dat: "pohvě"
+      ins: "pohvojų"
+      voc: "pohvo"
+    plural: 
+      nom: "pohvy"
+      acc: "pohvy"
+      gen: "pohv"
+      loc: "pohvah"
+      dat: "pohvam"
+      ins: "pohvami"
+      voc: "pohvy"

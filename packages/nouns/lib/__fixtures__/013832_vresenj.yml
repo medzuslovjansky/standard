@@ -1,0 +1,15 @@
+---
+  id: "13832"
+  word: "vresenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vresenj"
+      acc: "vresenj"
+      gen: "vresenja"
+      loc: "vresenju"
+      dat: "vresenju"
+      ins: "vresenjem"
+      voc: "vresenju"

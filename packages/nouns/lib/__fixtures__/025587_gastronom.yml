@@ -1,0 +1,23 @@
+---
+  id: "25587"
+  word: "gastronom"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gastronom"
+      acc: "gastronoma"
+      gen: "gastronoma"
+      loc: "gastronomu"
+      dat: "gastronomu"
+      ins: "gastronomom"
+      voc: "gastronome"
+    plural: 
+      nom: "gastronomi"
+      acc: "gastronomov"
+      gen: "gastronomov"
+      loc: "gastronomah"
+      dat: "gastronomam"
+      ins: "gastronomami"
+      voc: "gastronomi"

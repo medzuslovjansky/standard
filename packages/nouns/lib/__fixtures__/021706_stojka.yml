@@ -1,0 +1,22 @@
+---
+  id: "21706"
+  word: "stojka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stojka"
+      acc: "stojkų"
+      gen: "stojky"
+      loc: "stojkě"
+      dat: "stojkě"
+      ins: "stojkojų"
+      voc: "stojko"
+    plural: 
+      nom: "stojky"
+      acc: "stojky"
+      gen: "stojek"
+      loc: "stojkah"
+      dat: "stojkam"
+      ins: "stojkami"
+      voc: "stojky"

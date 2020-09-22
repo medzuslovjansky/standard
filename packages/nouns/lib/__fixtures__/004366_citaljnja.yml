@@ -1,0 +1,22 @@
+---
+  id: "4366"
+  word: "čitaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čitaljnja"
+      acc: "čitaljnjų"
+      gen: "čitaljnje"
+      loc: "čitaljnji"
+      dat: "čitaljnji"
+      ins: "čitaljnjejų"
+      voc: "čitaljnjo"
+    plural: 
+      nom: "čitaljnje"
+      acc: "čitaljnje"
+      gen: "čitaljnej"
+      loc: "čitaljnjah"
+      dat: "čitaljnjam"
+      ins: "čitaljnjami"
+      voc: "čitaljnje"

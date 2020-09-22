@@ -1,0 +1,22 @@
+---
+  id: "464"
+  word: "vdova"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vdova"
+      acc: "vdovų"
+      gen: "vdovy"
+      loc: "vdově"
+      dat: "vdově"
+      ins: "vdovojų"
+      voc: "vdovo"
+    plural: 
+      nom: "vdovy"
+      acc: "vdovy"
+      gen: "vdov"
+      loc: "vdovah"
+      dat: "vdovam"
+      ins: "vdovami"
+      voc: "vdovy"

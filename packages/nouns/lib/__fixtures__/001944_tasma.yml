@@ -1,0 +1,22 @@
+---
+  id: "1944"
+  word: "taśma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "taśma"
+      acc: "taśmų"
+      gen: "taśmy"
+      loc: "taśmě"
+      dat: "taśmě"
+      ins: "taśmojų"
+      voc: "taśmo"
+    plural: 
+      nom: "taśmy"
+      acc: "taśmy"
+      gen: "taśm"
+      loc: "taśmah"
+      dat: "taśmam"
+      ins: "taśmami"
+      voc: "taśmy"

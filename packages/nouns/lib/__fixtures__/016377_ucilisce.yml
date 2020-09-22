@@ -1,0 +1,22 @@
+---
+  id: "16377"
+  word: "učilišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "učilišče"
+      acc: "učilišče"
+      gen: "učilišča"
+      loc: "učilišču"
+      dat: "učilišču"
+      ins: "učiliščem"
+      voc: "učilišče"
+    plural: 
+      nom: "učilišča"
+      acc: "učilišča"
+      gen: "učilišč"
+      loc: "učiliščah"
+      dat: "učiliščam"
+      ins: "učiliščami"
+      voc: "učilišča"

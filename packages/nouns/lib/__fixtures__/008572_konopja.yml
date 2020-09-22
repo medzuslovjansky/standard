@@ -1,0 +1,22 @@
+---
+  id: "8572"
+  word: "konopja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konopja"
+      acc: "konopjų"
+      gen: "konopje"
+      loc: "konopji"
+      dat: "konopji"
+      ins: "konopjejų"
+      voc: "konopjo"
+    plural: 
+      nom: "konopje"
+      acc: "konopje"
+      gen: "konopej"
+      loc: "konopjah"
+      dat: "konopjam"
+      ins: "konopjami"
+      voc: "konopje"

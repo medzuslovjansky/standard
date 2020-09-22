@@ -1,0 +1,22 @@
+---
+  id: "35649"
+  word: "vtičnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vtičnica"
+      acc: "vtičnicų"
+      gen: "vtičnice"
+      loc: "vtičnici"
+      dat: "vtičnici"
+      ins: "vtičnicejų"
+      voc: "vtičnico"
+    plural: 
+      nom: "vtičnice"
+      acc: "vtičnice"
+      gen: "vtičnic"
+      loc: "vtičnicah"
+      dat: "vtičnicam"
+      ins: "vtičnicami"
+      voc: "vtičnice"

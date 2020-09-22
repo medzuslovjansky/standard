@@ -1,0 +1,22 @@
+---
+  id: "23262"
+  word: "nejlon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nejlon"
+      acc: "nejlon"
+      gen: "nejlona"
+      loc: "nejlonu"
+      dat: "nejlonu"
+      ins: "nejlonom"
+      voc: "nejlone"
+    plural: 
+      nom: "nejlony"
+      acc: "nejlony"
+      gen: "nejlonov"
+      loc: "nejlonah"
+      dat: "nejlonam"
+      ins: "nejlonami"
+      voc: "nejlony"

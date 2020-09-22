@@ -1,0 +1,22 @@
+---
+  id: "36303"
+  word: "podpis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podpis"
+      acc: "podpis"
+      gen: "podpisa"
+      loc: "podpisu"
+      dat: "podpisu"
+      ins: "podpisom"
+      voc: "podpise"
+    plural: 
+      nom: "podpisy"
+      acc: "podpisy"
+      gen: "podpisov"
+      loc: "podpisah"
+      dat: "podpisam"
+      ins: "podpisami"
+      voc: "podpisy"

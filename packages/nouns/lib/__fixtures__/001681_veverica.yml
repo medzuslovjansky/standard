@@ -1,0 +1,22 @@
+---
+  id: "1681"
+  word: "veverica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veverica"
+      acc: "vevericų"
+      gen: "veverice"
+      loc: "veverici"
+      dat: "veverici"
+      ins: "vevericejų"
+      voc: "veverico"
+    plural: 
+      nom: "veverice"
+      acc: "veverice"
+      gen: "veveric"
+      loc: "vevericah"
+      dat: "vevericam"
+      ins: "vevericami"
+      voc: "veverice"

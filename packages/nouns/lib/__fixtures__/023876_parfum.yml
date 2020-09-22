@@ -1,0 +1,22 @@
+---
+  id: "23876"
+  word: "parfum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parfum"
+      acc: "parfum"
+      gen: "parfuma"
+      loc: "parfumu"
+      dat: "parfumu"
+      ins: "parfumom"
+      voc: "parfum"
+    plural: 
+      nom: "parfuma"
+      acc: "parfuma"
+      gen: "parfum"
+      loc: "parfumah"
+      dat: "parfumam"
+      ins: "parfumami"
+      voc: "parfuma"

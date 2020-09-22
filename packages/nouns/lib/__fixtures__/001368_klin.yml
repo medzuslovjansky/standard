@@ -1,0 +1,22 @@
+---
+  id: "1368"
+  word: "klin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klin"
+      acc: "klin"
+      gen: "klina"
+      loc: "klinu"
+      dat: "klinu"
+      ins: "klinom"
+      voc: "kline"
+    plural: 
+      nom: "kliny"
+      acc: "kliny"
+      gen: "klinov"
+      loc: "klinah"
+      dat: "klinam"
+      ins: "klinami"
+      voc: "kliny"

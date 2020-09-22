@@ -1,0 +1,22 @@
+---
+  id: "11147"
+  word: "praksa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "praksa"
+      acc: "praksų"
+      gen: "praksy"
+      loc: "praksě"
+      dat: "praksě"
+      ins: "praksojų"
+      voc: "prakso"
+    plural: 
+      nom: "praksy"
+      acc: "praksy"
+      gen: "praks"
+      loc: "praksah"
+      dat: "praksam"
+      ins: "praksami"
+      voc: "praksy"

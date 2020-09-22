@@ -1,0 +1,22 @@
+---
+  id: "11308"
+  word: "prěmešćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěmešćeńje"
+      acc: "prěmešćeńje"
+      gen: "prěmešćeńja"
+      loc: "prěmešćeńju"
+      dat: "prěmešćeńju"
+      ins: "prěmešćeńjem"
+      voc: "prěmešćeńje"
+    plural: 
+      nom: "prěmešćeńja"
+      acc: "prěmešćeńja"
+      gen: "prěmešćenij"
+      loc: "prěmešćeńjah"
+      dat: "prěmešćeńjam"
+      ins: "prěmešćeńjami"
+      voc: "prěmešćeńja"

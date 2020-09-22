@@ -1,0 +1,22 @@
+---
+  id: "36539"
+  word: "kolěbanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolěbanka"
+      acc: "kolěbankų"
+      gen: "kolěbanky"
+      loc: "kolěbankě"
+      dat: "kolěbankě"
+      ins: "kolěbankojų"
+      voc: "kolěbanko"
+    plural: 
+      nom: "kolěbanky"
+      acc: "kolěbanky"
+      gen: "kolěbanȯk"
+      loc: "kolěbankah"
+      dat: "kolěbankam"
+      ins: "kolěbankami"
+      voc: "kolěbanky"

@@ -1,0 +1,22 @@
+---
+  id: "22262"
+  word: "råzvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzvod"
+      acc: "råzvod"
+      gen: "råzvoda"
+      loc: "råzvodu"
+      dat: "råzvodu"
+      ins: "råzvodom"
+      voc: "råzvode"
+    plural: 
+      nom: "råzvody"
+      acc: "råzvody"
+      gen: "råzvodov"
+      loc: "råzvodah"
+      dat: "råzvodam"
+      ins: "råzvodami"
+      voc: "råzvody"

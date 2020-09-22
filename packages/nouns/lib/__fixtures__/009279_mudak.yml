@@ -1,0 +1,23 @@
+---
+  id: "9279"
+  word: "mudak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mudak"
+      acc: "mudaka"
+      gen: "mudaka"
+      loc: "mudaku"
+      dat: "mudaku"
+      ins: "mudakom"
+      voc: "mudače"
+    plural: 
+      nom: "mudaki"
+      acc: "mudakov"
+      gen: "mudakov"
+      loc: "mudakah"
+      dat: "mudakam"
+      ins: "mudakami"
+      voc: "mudaki"

@@ -1,0 +1,23 @@
+---
+  id: "33"
+  word: "artist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "artist"
+      acc: "artista"
+      gen: "artista"
+      loc: "artistu"
+      dat: "artistu"
+      ins: "artistom"
+      voc: "artiste"
+    plural: 
+      nom: "artisti"
+      acc: "artistov"
+      gen: "artistov"
+      loc: "artistah"
+      dat: "artistam"
+      ins: "artistami"
+      voc: "artisti"

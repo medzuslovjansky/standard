@@ -1,0 +1,24 @@
+---
+  id: "4356"
+  word: "pųtujųći"
+  meta: 
+    irregularity: "(-ego)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pųtujųći"
+      acc: "pųtujųćego"
+      gen: "pųtujųćego"
+      loc: "pųtujųćem"
+      dat: "pųtujųćemu"
+      ins: "pųtujųćim"
+      voc: "pųtujųći"
+    plural: 
+      nom: "pųtujųći"
+      acc: "pųtujųćih"
+      gen: "pųtujųćih"
+      loc: "pųtujųćih"
+      dat: "pųtujųćim"
+      ins: "pųtujųćimi"
+      voc: "pųtujųći"

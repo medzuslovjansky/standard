@@ -1,0 +1,23 @@
+---
+  id: "26331"
+  word: "jaź"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jaź"
+      acc: "jaźa"
+      gen: "jaźa"
+      loc: "jaźu"
+      dat: "jaźu"
+      ins: "jaźem"
+      voc: "jaźu"
+    plural: 
+      nom: "jazi"
+      acc: "jaźev"
+      gen: "jaźev"
+      loc: "jaźah"
+      dat: "jaźam"
+      ins: "jaźami"
+      voc: "jazi"

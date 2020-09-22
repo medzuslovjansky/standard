@@ -1,0 +1,15 @@
+---
+  id: "29715"
+  word: "osųd"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "osųd"
+      acc: "osųd"
+      gen: "osųda"
+      loc: "osųdu"
+      dat: "osųdu"
+      ins: "osųdom"
+      voc: "osųde"

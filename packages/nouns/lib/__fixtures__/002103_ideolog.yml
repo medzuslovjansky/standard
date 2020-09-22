@@ -1,0 +1,23 @@
+---
+  id: "2103"
+  word: "ideolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ideolog"
+      acc: "ideologa"
+      gen: "ideologa"
+      loc: "ideologu"
+      dat: "ideologu"
+      ins: "ideologom"
+      voc: "ideolože"
+    plural: 
+      nom: "ideologi"
+      acc: "ideologov"
+      gen: "ideologov"
+      loc: "ideologah"
+      dat: "ideologam"
+      ins: "ideologami"
+      voc: "ideologi"

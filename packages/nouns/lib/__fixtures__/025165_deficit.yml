@@ -1,0 +1,22 @@
+---
+  id: "25165"
+  word: "deficit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "deficit"
+      acc: "deficit"
+      gen: "deficita"
+      loc: "deficitu"
+      dat: "deficitu"
+      ins: "deficitom"
+      voc: "deficite"
+    plural: 
+      nom: "deficity"
+      acc: "deficity"
+      gen: "deficitov"
+      loc: "deficitah"
+      dat: "deficitam"
+      ins: "deficitami"
+      voc: "deficity"

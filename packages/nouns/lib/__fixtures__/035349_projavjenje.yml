@@ -1,0 +1,22 @@
+---
+  id: "35349"
+  word: "projavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "projavjeńje"
+      acc: "projavjeńje"
+      gen: "projavjeńja"
+      loc: "projavjeńju"
+      dat: "projavjeńju"
+      ins: "projavjeńjem"
+      voc: "projavjeńje"
+    plural: 
+      nom: "projavjeńja"
+      acc: "projavjeńja"
+      gen: "projavjenij"
+      loc: "projavjeńjah"
+      dat: "projavjeńjam"
+      ins: "projavjeńjami"
+      voc: "projavjeńja"

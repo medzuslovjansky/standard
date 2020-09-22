@@ -1,0 +1,22 @@
+---
+  id: "31822"
+  word: "dežurstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dežurstvo"
+      acc: "dežurstvo"
+      gen: "dežurstva"
+      loc: "dežurstvu"
+      dat: "dežurstvu"
+      ins: "dežurstvom"
+      voc: "dežurstvo"
+    plural: 
+      nom: "dežurstva"
+      acc: "dežurstva"
+      gen: "dežurstv"
+      loc: "dežurstvah"
+      dat: "dežurstvam"
+      ins: "dežurstvami"
+      voc: "dežurstva"

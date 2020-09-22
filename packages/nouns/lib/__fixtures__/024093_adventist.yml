@@ -1,0 +1,23 @@
+---
+  id: "24093"
+  word: "adventist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "adventist"
+      acc: "adventista"
+      gen: "adventista"
+      loc: "adventistu"
+      dat: "adventistu"
+      ins: "adventistom"
+      voc: "adventiste"
+    plural: 
+      nom: "adventisti"
+      acc: "adventistov"
+      gen: "adventistov"
+      loc: "adventistah"
+      dat: "adventistam"
+      ins: "adventistami"
+      voc: "adventisti"

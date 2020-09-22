@@ -1,0 +1,22 @@
+---
+  id: "18963"
+  word: "těsto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "těsto"
+      acc: "těsto"
+      gen: "těsta"
+      loc: "těstu"
+      dat: "těstu"
+      ins: "těstom"
+      voc: "těsto"
+    plural: 
+      nom: "těsta"
+      acc: "těsta"
+      gen: "těst"
+      loc: "těstah"
+      dat: "těstam"
+      ins: "těstami"
+      voc: "těsta"

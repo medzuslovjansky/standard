@@ -1,0 +1,22 @@
+---
+  id: "17253"
+  word: "diamant"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diamant"
+      acc: "diamant"
+      gen: "diamanta"
+      loc: "diamantu"
+      dat: "diamantu"
+      ins: "diamantom"
+      voc: "diamante"
+    plural: 
+      nom: "diamanty"
+      acc: "diamanty"
+      gen: "diamantov"
+      loc: "diamantah"
+      dat: "diamantam"
+      ins: "diamantami"
+      voc: "diamanty"

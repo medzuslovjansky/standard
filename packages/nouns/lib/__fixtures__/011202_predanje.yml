@@ -1,0 +1,22 @@
+---
+  id: "11202"
+  word: "prědańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědańje"
+      acc: "prědańje"
+      gen: "prědańja"
+      loc: "prědańju"
+      dat: "prědańju"
+      ins: "prědańjem"
+      voc: "prědańje"
+    plural: 
+      nom: "prědańja"
+      acc: "prědańja"
+      gen: "prědanij"
+      loc: "prědańjah"
+      dat: "prědańjam"
+      ins: "prědańjami"
+      voc: "prědańja"

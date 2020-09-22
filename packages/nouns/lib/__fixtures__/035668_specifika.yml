@@ -1,0 +1,22 @@
+---
+  id: "35668"
+  word: "specifika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "specifika"
+      acc: "specifikų"
+      gen: "specifiky"
+      loc: "specifikě"
+      dat: "specifikě"
+      ins: "specifikojų"
+      voc: "specifiko"
+    plural: 
+      nom: "specifiky"
+      acc: "specifiky"
+      gen: "specifik"
+      loc: "specifikah"
+      dat: "specifikam"
+      ins: "specifikami"
+      voc: "specifiky"

@@ -1,0 +1,22 @@
+---
+  id: "20582"
+  word: "optika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "optika"
+      acc: "optikų"
+      gen: "optiky"
+      loc: "optikě"
+      dat: "optikě"
+      ins: "optikojų"
+      voc: "optiko"
+    plural: 
+      nom: "optiky"
+      acc: "optiky"
+      gen: "optik"
+      loc: "optikah"
+      dat: "optikam"
+      ins: "optikami"
+      voc: "optiky"

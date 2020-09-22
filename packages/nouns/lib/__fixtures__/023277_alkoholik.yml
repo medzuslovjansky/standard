@@ -1,0 +1,23 @@
+---
+  id: "23277"
+  word: "alkoholik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "alkoholik"
+      acc: "alkoholika"
+      gen: "alkoholika"
+      loc: "alkoholiku"
+      dat: "alkoholiku"
+      ins: "alkoholikom"
+      voc: "alkoholiče"
+    plural: 
+      nom: "alkoholiki"
+      acc: "alkoholikov"
+      gen: "alkoholikov"
+      loc: "alkoholikah"
+      dat: "alkoholikam"
+      ins: "alkoholikami"
+      voc: "alkoholiki"

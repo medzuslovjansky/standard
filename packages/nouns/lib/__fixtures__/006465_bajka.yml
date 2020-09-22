@@ -1,0 +1,22 @@
+---
+  id: "6465"
+  word: "bajka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bajka"
+      acc: "bajkų"
+      gen: "bajky"
+      loc: "bajkě"
+      dat: "bajkě"
+      ins: "bajkojų"
+      voc: "bajko"
+    plural: 
+      nom: "bajky"
+      acc: "bajky"
+      gen: "bajek"
+      loc: "bajkah"
+      dat: "bajkam"
+      ins: "bajkami"
+      voc: "bajky"

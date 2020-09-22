@@ -1,0 +1,23 @@
+---
+  id: "11716"
+  word: "ranečnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ranečnik"
+      acc: "ranečnika"
+      gen: "ranečnika"
+      loc: "ranečniku"
+      dat: "ranečniku"
+      ins: "ranečnikom"
+      voc: "ranečniče"
+    plural: 
+      nom: "ranečniki"
+      acc: "ranečnikov"
+      gen: "ranečnikov"
+      loc: "ranečnikah"
+      dat: "ranečnikam"
+      ins: "ranečnikami"
+      voc: "ranečniki"

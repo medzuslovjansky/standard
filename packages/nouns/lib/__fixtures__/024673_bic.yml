@@ -1,0 +1,22 @@
+---
+  id: "24673"
+  word: "bič"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bič"
+      acc: "bič"
+      gen: "biča"
+      loc: "biču"
+      dat: "biču"
+      ins: "bičem"
+      voc: "biču"
+    plural: 
+      nom: "biče"
+      acc: "biče"
+      gen: "bičev"
+      loc: "bičah"
+      dat: "bičam"
+      ins: "bičami"
+      voc: "biče"

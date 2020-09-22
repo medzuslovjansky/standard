@@ -1,0 +1,22 @@
+---
+  id: "4685"
+  word: "omŕžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "omŕžeńje"
+      acc: "omŕžeńje"
+      gen: "omŕžeńja"
+      loc: "omŕžeńju"
+      dat: "omŕžeńju"
+      ins: "omŕžeńjem"
+      voc: "omŕžeńje"
+    plural: 
+      nom: "omŕžeńja"
+      acc: "omŕžeńja"
+      gen: "omŕženij"
+      loc: "omŕžeńjah"
+      dat: "omŕžeńjam"
+      ins: "omŕžeńjami"
+      voc: "omŕžeńja"

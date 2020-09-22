@@ -1,0 +1,22 @@
+---
+  id: "159"
+  word: "bariera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bariera"
+      acc: "barierų"
+      gen: "bariery"
+      loc: "barierě"
+      dat: "barierě"
+      ins: "barierojų"
+      voc: "bariero"
+    plural: 
+      nom: "bariery"
+      acc: "bariery"
+      gen: "barier"
+      loc: "barierah"
+      dat: "barieram"
+      ins: "barierami"
+      voc: "bariery"

@@ -1,0 +1,22 @@
+---
+  id: "22539"
+  word: "povlåka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povlåka"
+      acc: "povlåkų"
+      gen: "povlåky"
+      loc: "povlåkě"
+      dat: "povlåkě"
+      ins: "povlåkojų"
+      voc: "povlåko"
+    plural: 
+      nom: "povlåky"
+      acc: "povlåky"
+      gen: "povlåk"
+      loc: "povlåkah"
+      dat: "povlåkam"
+      ins: "povlåkami"
+      voc: "povlåky"

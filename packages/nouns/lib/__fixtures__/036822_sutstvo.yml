@@ -1,0 +1,22 @@
+---
+  id: "36822"
+  word: "sųtstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųtstvo"
+      acc: "sųtstvo"
+      gen: "sųtstva"
+      loc: "sųtstvu"
+      dat: "sųtstvu"
+      ins: "sųtstvom"
+      voc: "sųtstvo"
+    plural: 
+      nom: "sųtstva"
+      acc: "sųtstva"
+      gen: "sųtstv"
+      loc: "sųtstvah"
+      dat: "sųtstvam"
+      ins: "sųtstvami"
+      voc: "sųtstva"

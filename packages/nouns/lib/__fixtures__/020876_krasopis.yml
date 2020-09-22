@@ -1,0 +1,22 @@
+---
+  id: "20876"
+  word: "krasopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krasopis"
+      acc: "krasopis"
+      gen: "krasopisa"
+      loc: "krasopisu"
+      dat: "krasopisu"
+      ins: "krasopisom"
+      voc: "krasopise"
+    plural: 
+      nom: "krasopisy"
+      acc: "krasopisy"
+      gen: "krasopisov"
+      loc: "krasopisah"
+      dat: "krasopisam"
+      ins: "krasopisami"
+      voc: "krasopisy"

@@ -1,0 +1,22 @@
+---
+  id: "20812"
+  word: "věrolomnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věrolomnosť"
+      acc: "věrolomnosť"
+      gen: "věrolomnosti"
+      loc: "věrolomnosti"
+      dat: "věrolomnosti"
+      ins: "věrolomnosťjų"
+      voc: "věrolomnosti"
+    plural: 
+      nom: "věrolomnosti"
+      acc: "věrolomnosti"
+      gen: "věrolomnostij"
+      loc: "věrolomnosťah"
+      dat: "věrolomnosťam"
+      ins: "věrolomnosťami"
+      voc: "věrolomnosti"

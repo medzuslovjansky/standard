@@ -1,0 +1,22 @@
+---
+  id: "31486"
+  word: "žgaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žgaga"
+      acc: "žgagų"
+      gen: "žgagy"
+      loc: "žgagě"
+      dat: "žgagě"
+      ins: "žgagojų"
+      voc: "žgago"
+    plural: 
+      nom: "žgagy"
+      acc: "žgagy"
+      gen: "žgag"
+      loc: "žgagah"
+      dat: "žgagam"
+      ins: "žgagami"
+      voc: "žgagy"

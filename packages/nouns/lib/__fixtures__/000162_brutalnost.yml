@@ -1,0 +1,22 @@
+---
+  id: "162"
+  word: "brutaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brutaľnosť"
+      acc: "brutaľnosť"
+      gen: "brutaľnosti"
+      loc: "brutaľnosti"
+      dat: "brutaľnosti"
+      ins: "brutaľnosťjų"
+      voc: "brutaľnosti"
+    plural: 
+      nom: "brutaľnosti"
+      acc: "brutaľnosti"
+      gen: "brutaľnostij"
+      loc: "brutaľnosťah"
+      dat: "brutaľnosťam"
+      ins: "brutaľnosťami"
+      voc: "brutaľnosti"

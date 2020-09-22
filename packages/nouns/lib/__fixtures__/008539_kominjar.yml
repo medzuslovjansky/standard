@@ -1,0 +1,23 @@
+---
+  id: "8539"
+  word: "kominjaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kominjaŕ"
+      acc: "kominjaŕa"
+      gen: "kominjaŕa"
+      loc: "kominjaŕu"
+      dat: "kominjaŕu"
+      ins: "kominjaŕem"
+      voc: "kominjaŕu"
+    plural: 
+      nom: "kominjari"
+      acc: "kominjaŕev"
+      gen: "kominjaŕev"
+      loc: "kominjaŕah"
+      dat: "kominjaŕam"
+      ins: "kominjaŕami"
+      voc: "kominjari"

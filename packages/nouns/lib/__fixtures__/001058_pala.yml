@@ -1,0 +1,22 @@
+---
+  id: "1058"
+  word: "pala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pala"
+      acc: "palų"
+      gen: "paly"
+      loc: "palě"
+      dat: "palě"
+      ins: "palojų"
+      voc: "palo"
+    plural: 
+      nom: "paly"
+      acc: "paly"
+      gen: "pal"
+      loc: "palah"
+      dat: "palam"
+      ins: "palami"
+      voc: "paly"

@@ -1,0 +1,22 @@
+---
+  id: "21543"
+  word: "srodstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "srodstvo"
+      acc: "srodstvo"
+      gen: "srodstva"
+      loc: "srodstvu"
+      dat: "srodstvu"
+      ins: "srodstvom"
+      voc: "srodstvo"
+    plural: 
+      nom: "srodstva"
+      acc: "srodstva"
+      gen: "srodstv"
+      loc: "srodstvah"
+      dat: "srodstvam"
+      ins: "srodstvami"
+      voc: "srodstva"

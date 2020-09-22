@@ -1,0 +1,15 @@
+---
+  id: "2312"
+  word: "Čečnja"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Čečnja"
+      acc: "Čečnjų"
+      gen: "Čečnje"
+      loc: "Čečnji"
+      dat: "Čečnji"
+      ins: "Čečnjejų"
+      voc: "Čečnjo"

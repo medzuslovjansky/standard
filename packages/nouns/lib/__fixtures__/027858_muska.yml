@@ -1,0 +1,22 @@
+---
+  id: "27858"
+  word: "muška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "muška"
+      acc: "muškų"
+      gen: "mušky"
+      loc: "muškě"
+      dat: "muškě"
+      ins: "muškojų"
+      voc: "muško"
+    plural: 
+      nom: "mušky"
+      acc: "mušky"
+      gen: "mušek"
+      loc: "muškah"
+      dat: "muškam"
+      ins: "muškami"
+      voc: "mušky"

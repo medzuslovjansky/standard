@@ -1,0 +1,23 @@
+---
+  id: "15683"
+  word: "konduktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konduktor"
+      acc: "konduktora"
+      gen: "konduktora"
+      loc: "konduktoru"
+      dat: "konduktoru"
+      ins: "konduktorom"
+      voc: "konduktore"
+    plural: 
+      nom: "konduktori"
+      acc: "konduktorov"
+      gen: "konduktorov"
+      loc: "konduktorah"
+      dat: "konduktoram"
+      ins: "konduktorami"
+      voc: "konduktori"

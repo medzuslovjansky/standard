@@ -1,0 +1,22 @@
+---
+  id: "20564"
+  word: "obmŕlosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obmŕlosť"
+      acc: "obmŕlosť"
+      gen: "obmŕlosti"
+      loc: "obmŕlosti"
+      dat: "obmŕlosti"
+      ins: "obmŕlosťjų"
+      voc: "obmŕlosti"
+    plural: 
+      nom: "obmŕlosti"
+      acc: "obmŕlosti"
+      gen: "obmŕlostij"
+      loc: "obmŕlosťah"
+      dat: "obmŕlosťam"
+      ins: "obmŕlosťami"
+      voc: "obmŕlosti"

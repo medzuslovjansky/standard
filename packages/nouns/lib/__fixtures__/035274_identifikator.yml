@@ -1,0 +1,22 @@
+---
+  id: "35274"
+  word: "identifikator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "identifikator"
+      acc: "identifikator"
+      gen: "identifikatora"
+      loc: "identifikatoru"
+      dat: "identifikatoru"
+      ins: "identifikatorom"
+      voc: "identifikatore"
+    plural: 
+      nom: "identifikatory"
+      acc: "identifikatory"
+      gen: "identifikatorov"
+      loc: "identifikatorah"
+      dat: "identifikatoram"
+      ins: "identifikatorami"
+      voc: "identifikatory"

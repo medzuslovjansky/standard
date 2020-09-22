@@ -1,0 +1,22 @@
+---
+  id: "21542"
+  word: "rysovanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rysovanka"
+      acc: "rysovankų"
+      gen: "rysovanky"
+      loc: "rysovankě"
+      dat: "rysovankě"
+      ins: "rysovankojų"
+      voc: "rysovanko"
+    plural: 
+      nom: "rysovanky"
+      acc: "rysovanky"
+      gen: "rysovanȯk"
+      loc: "rysovankah"
+      dat: "rysovankam"
+      ins: "rysovankami"
+      voc: "rysovanky"

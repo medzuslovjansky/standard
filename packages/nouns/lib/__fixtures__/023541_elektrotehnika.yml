@@ -1,0 +1,15 @@
+---
+  id: "23541"
+  word: "elektrotehnika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "elektrotehnika"
+      acc: "elektrotehnikų"
+      gen: "elektrotehniky"
+      loc: "elektrotehnikě"
+      dat: "elektrotehnikě"
+      ins: "elektrotehnikojų"
+      voc: "elektrotehniko"

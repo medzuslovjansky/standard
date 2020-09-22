@@ -1,0 +1,15 @@
+---
+  id: "20354"
+  word: "bodrosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bodrosť"
+      acc: "bodrosť"
+      gen: "bodrosti"
+      loc: "bodrosti"
+      dat: "bodrosti"
+      ins: "bodrosťjų"
+      voc: "bodrosti"

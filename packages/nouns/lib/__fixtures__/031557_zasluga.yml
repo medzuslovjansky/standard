@@ -1,0 +1,22 @@
+---
+  id: "31557"
+  word: "zasluga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zasluga"
+      acc: "zaslugų"
+      gen: "zaslugy"
+      loc: "zaslugě"
+      dat: "zaslugě"
+      ins: "zaslugojų"
+      voc: "zaslugo"
+    plural: 
+      nom: "zaslugy"
+      acc: "zaslugy"
+      gen: "zaslug"
+      loc: "zaslugah"
+      dat: "zaslugam"
+      ins: "zaslugami"
+      voc: "zaslugy"

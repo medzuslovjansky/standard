@@ -1,0 +1,23 @@
+---
+  id: "48"
+  word: "profesor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "profesor"
+      acc: "profesora"
+      gen: "profesora"
+      loc: "profesoru"
+      dat: "profesoru"
+      ins: "profesorom"
+      voc: "profesore"
+    plural: 
+      nom: "profesori"
+      acc: "profesorov"
+      gen: "profesorov"
+      loc: "profesorah"
+      dat: "profesoram"
+      ins: "profesorami"
+      voc: "profesori"

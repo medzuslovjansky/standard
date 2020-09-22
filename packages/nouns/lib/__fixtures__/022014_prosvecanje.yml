@@ -1,0 +1,22 @@
+---
+  id: "22014"
+  word: "prosvěćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prosvěćańje"
+      acc: "prosvěćańje"
+      gen: "prosvěćańja"
+      loc: "prosvěćańju"
+      dat: "prosvěćańju"
+      ins: "prosvěćańjem"
+      voc: "prosvěćańje"
+    plural: 
+      nom: "prosvěćańja"
+      acc: "prosvěćańja"
+      gen: "prosvěćanij"
+      loc: "prosvěćańjah"
+      dat: "prosvěćańjam"
+      ins: "prosvěćańjami"
+      voc: "prosvěćańja"

@@ -1,0 +1,22 @@
+---
+  id: "5618"
+  word: "stopjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stopjeńje"
+      acc: "stopjeńje"
+      gen: "stopjeńja"
+      loc: "stopjeńju"
+      dat: "stopjeńju"
+      ins: "stopjeńjem"
+      voc: "stopjeńje"
+    plural: 
+      nom: "stopjeńja"
+      acc: "stopjeńja"
+      gen: "stopjenij"
+      loc: "stopjeńjah"
+      dat: "stopjeńjam"
+      ins: "stopjeńjami"
+      voc: "stopjeńja"

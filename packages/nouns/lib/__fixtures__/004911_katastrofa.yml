@@ -1,0 +1,22 @@
+---
+  id: "4911"
+  word: "katastrofa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "katastrofa"
+      acc: "katastrofų"
+      gen: "katastrofy"
+      loc: "katastrofě"
+      dat: "katastrofě"
+      ins: "katastrofojų"
+      voc: "katastrofo"
+    plural: 
+      nom: "katastrofy"
+      acc: "katastrofy"
+      gen: "katastrof"
+      loc: "katastrofah"
+      dat: "katastrofam"
+      ins: "katastrofami"
+      voc: "katastrofy"

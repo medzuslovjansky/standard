@@ -1,0 +1,15 @@
+---
+  id: "6178"
+  word: "Osetija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Osetija"
+      acc: "Osetijų"
+      gen: "Osetije"
+      loc: "Osetiji"
+      dat: "Osetiji"
+      ins: "Osetijejų"
+      voc: "Osetijo"

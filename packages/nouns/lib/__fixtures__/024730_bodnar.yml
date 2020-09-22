@@ -1,0 +1,23 @@
+---
+  id: "24730"
+  word: "bȯdnaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bȯdnaŕ"
+      acc: "bȯdnaŕa"
+      gen: "bȯdnaŕa"
+      loc: "bȯdnaŕu"
+      dat: "bȯdnaŕu"
+      ins: "bȯdnaŕem"
+      voc: "bȯdnaŕu"
+    plural: 
+      nom: "bȯdnari"
+      acc: "bȯdnaŕev"
+      gen: "bȯdnaŕev"
+      loc: "bȯdnaŕah"
+      dat: "bȯdnaŕam"
+      ins: "bȯdnaŕami"
+      voc: "bȯdnari"

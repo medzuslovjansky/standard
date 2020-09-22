@@ -1,0 +1,22 @@
+---
+  id: "11189"
+  word: "prěd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěd"
+      acc: "prěd"
+      gen: "prěda"
+      loc: "prědu"
+      dat: "prědu"
+      ins: "prědom"
+      voc: "prěde"
+    plural: 
+      nom: "prědy"
+      acc: "prědy"
+      gen: "prědov"
+      loc: "prědah"
+      dat: "prědam"
+      ins: "prědami"
+      voc: "prědy"

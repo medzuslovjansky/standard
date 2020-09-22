@@ -1,0 +1,23 @@
+---
+  id: "31676"
+  word: "zubr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zubr"
+      acc: "zubra"
+      gen: "zubra"
+      loc: "zubru"
+      dat: "zubru"
+      ins: "zubrom"
+      voc: "zubre"
+    plural: 
+      nom: "zubri"
+      acc: "zubrov"
+      gen: "zubrov"
+      loc: "zubrah"
+      dat: "zubram"
+      ins: "zubrami"
+      voc: "zubri"

@@ -1,0 +1,22 @@
+---
+  id: "3547"
+  word: "nebezpečnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nebezpečnosť"
+      acc: "nebezpečnosť"
+      gen: "nebezpečnosti"
+      loc: "nebezpečnosti"
+      dat: "nebezpečnosti"
+      ins: "nebezpečnosťjų"
+      voc: "nebezpečnosti"
+    plural: 
+      nom: "nebezpečnosti"
+      acc: "nebezpečnosti"
+      gen: "nebezpečnostij"
+      loc: "nebezpečnosťah"
+      dat: "nebezpečnosťam"
+      ins: "nebezpečnosťami"
+      voc: "nebezpečnosti"

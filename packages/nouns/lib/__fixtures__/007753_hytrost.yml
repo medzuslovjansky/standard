@@ -1,0 +1,22 @@
+---
+  id: "7753"
+  word: "hytrosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hytrosť"
+      acc: "hytrosť"
+      gen: "hytrosti"
+      loc: "hytrosti"
+      dat: "hytrosti"
+      ins: "hytrosťjų"
+      voc: "hytrosti"
+    plural: 
+      nom: "hytrosti"
+      acc: "hytrosti"
+      gen: "hytrostij"
+      loc: "hytrosťah"
+      dat: "hytrosťam"
+      ins: "hytrosťami"
+      voc: "hytrosti"

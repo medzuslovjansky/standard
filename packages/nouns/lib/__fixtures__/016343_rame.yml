@@ -1,0 +1,22 @@
+---
+  id: "16343"
+  word: "ramę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ramę"
+      acc: "ramę"
+      gen: "ramene / ramena"
+      loc: "rameni / ramenu"
+      dat: "rameni / ramenu"
+      ins: "ramenem / ramenom"
+      voc: "ramę"
+    plural: 
+      nom: "ramena"
+      acc: "ramena"
+      gen: "ramen"
+      loc: "ramenah"
+      dat: "ramenam"
+      ins: "ramenami"
+      voc: "ramena"

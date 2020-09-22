@@ -1,0 +1,22 @@
+---
+  id: "4066"
+  word: "parašut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parašut"
+      acc: "parašut"
+      gen: "parašuta"
+      loc: "parašutu"
+      dat: "parašutu"
+      ins: "parašutom"
+      voc: "parašute"
+    plural: 
+      nom: "parašuty"
+      acc: "parašuty"
+      gen: "parašutov"
+      loc: "parašutah"
+      dat: "parašutam"
+      ins: "parašutami"
+      voc: "parašuty"

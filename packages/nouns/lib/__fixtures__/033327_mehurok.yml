@@ -1,0 +1,22 @@
+---
+  id: "33327"
+  word: "měhurȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "měhurȯk"
+      acc: "měhurȯk"
+      gen: "měhurka"
+      loc: "měhurku"
+      dat: "měhurku"
+      ins: "měhurkom"
+      voc: "měhurče"
+    plural: 
+      nom: "měhurky"
+      acc: "měhurky"
+      gen: "měhurkov"
+      loc: "měhurkah"
+      dat: "měhurkam"
+      ins: "měhurkami"
+      voc: "měhurky"

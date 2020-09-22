@@ -1,0 +1,22 @@
+---
+  id: "17175"
+  word: "broj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "broj"
+      acc: "broj"
+      gen: "broja"
+      loc: "broju"
+      dat: "broju"
+      ins: "brojem"
+      voc: "broju"
+    plural: 
+      nom: "broje"
+      acc: "broje"
+      gen: "brojev"
+      loc: "brojah"
+      dat: "brojam"
+      ins: "brojami"
+      voc: "broje"

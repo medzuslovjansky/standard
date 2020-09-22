@@ -1,0 +1,22 @@
+---
+  id: "24000"
+  word: "moraľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moraľnosť"
+      acc: "moraľnosť"
+      gen: "moraľnosti"
+      loc: "moraľnosti"
+      dat: "moraľnosti"
+      ins: "moraľnosťjų"
+      voc: "moraľnosti"
+    plural: 
+      nom: "moraľnosti"
+      acc: "moraľnosti"
+      gen: "moraľnostij"
+      loc: "moraľnosťah"
+      dat: "moraľnosťam"
+      ins: "moraľnosťami"
+      voc: "moraľnosti"

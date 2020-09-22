@@ -1,0 +1,22 @@
+---
+  id: "34179"
+  word: "kolonija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolonija"
+      acc: "kolonijų"
+      gen: "kolonije"
+      loc: "koloniji"
+      dat: "koloniji"
+      ins: "kolonijejų"
+      voc: "kolonijo"
+    plural: 
+      nom: "kolonije"
+      acc: "kolonije"
+      gen: "kolonij"
+      loc: "kolonijah"
+      dat: "kolonijam"
+      ins: "kolonijami"
+      voc: "kolonije"

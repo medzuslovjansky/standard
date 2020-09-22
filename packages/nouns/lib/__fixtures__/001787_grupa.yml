@@ -1,0 +1,22 @@
+---
+  id: "1787"
+  word: "grupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grupa"
+      acc: "grupų"
+      gen: "grupy"
+      loc: "grupě"
+      dat: "grupě"
+      ins: "grupojų"
+      voc: "grupo"
+    plural: 
+      nom: "grupy"
+      acc: "grupy"
+      gen: "grup"
+      loc: "grupah"
+      dat: "grupam"
+      ins: "grupami"
+      voc: "grupy"

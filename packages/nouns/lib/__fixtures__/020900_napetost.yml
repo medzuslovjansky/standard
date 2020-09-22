@@ -1,0 +1,22 @@
+---
+  id: "20900"
+  word: "napętosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "napętosť"
+      acc: "napętosť"
+      gen: "napętosti"
+      loc: "napętosti"
+      dat: "napętosti"
+      ins: "napętosťjų"
+      voc: "napętosti"
+    plural: 
+      nom: "napętosti"
+      acc: "napętosti"
+      gen: "napętostij"
+      loc: "napętosťah"
+      dat: "napętosťam"
+      ins: "napętosťami"
+      voc: "napętosti"

@@ -1,0 +1,23 @@
+---
+  id: "5298"
+  word: "krokodil"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krokodil"
+      acc: "krokodila"
+      gen: "krokodila"
+      loc: "krokodilu"
+      dat: "krokodilu"
+      ins: "krokodilom"
+      voc: "krokodile"
+    plural: 
+      nom: "krokodili"
+      acc: "krokodilov"
+      gen: "krokodilov"
+      loc: "krokodilah"
+      dat: "krokodilam"
+      ins: "krokodilami"
+      voc: "krokodili"

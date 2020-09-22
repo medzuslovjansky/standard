@@ -1,0 +1,22 @@
+---
+  id: "14592"
+  word: "helma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "helma"
+      acc: "helmų"
+      gen: "helmy"
+      loc: "helmě"
+      dat: "helmě"
+      ins: "helmojų"
+      voc: "helmo"
+    plural: 
+      nom: "helmy"
+      acc: "helmy"
+      gen: "helm"
+      loc: "helmah"
+      dat: "helmam"
+      ins: "helmami"
+      voc: "helmy"

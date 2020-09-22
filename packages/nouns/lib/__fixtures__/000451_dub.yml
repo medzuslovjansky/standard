@@ -1,0 +1,22 @@
+---
+  id: "451"
+  word: "dųb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dųb"
+      acc: "dųb"
+      gen: "dųba"
+      loc: "dųbu"
+      dat: "dųbu"
+      ins: "dųbom"
+      voc: "dųbe"
+    plural: 
+      nom: "dųby"
+      acc: "dųby"
+      gen: "dųbov"
+      loc: "dųbah"
+      dat: "dųbam"
+      ins: "dųbami"
+      voc: "dųby"

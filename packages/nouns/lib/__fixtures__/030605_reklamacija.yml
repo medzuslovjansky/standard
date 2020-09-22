@@ -1,0 +1,22 @@
+---
+  id: "30605"
+  word: "reklamacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reklamacija"
+      acc: "reklamacijų"
+      gen: "reklamacije"
+      loc: "reklamaciji"
+      dat: "reklamaciji"
+      ins: "reklamacijejų"
+      voc: "reklamacijo"
+    plural: 
+      nom: "reklamacije"
+      acc: "reklamacije"
+      gen: "reklamacij"
+      loc: "reklamacijah"
+      dat: "reklamacijam"
+      ins: "reklamacijami"
+      voc: "reklamacije"

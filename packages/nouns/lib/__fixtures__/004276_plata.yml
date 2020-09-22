@@ -1,0 +1,22 @@
+---
+  id: "4276"
+  word: "plata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plata"
+      acc: "platų"
+      gen: "platy"
+      loc: "platě"
+      dat: "platě"
+      ins: "platojų"
+      voc: "plato"
+    plural: 
+      nom: "platy"
+      acc: "platy"
+      gen: "plat"
+      loc: "platah"
+      dat: "platam"
+      ins: "platami"
+      voc: "platy"

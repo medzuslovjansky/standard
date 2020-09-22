@@ -1,0 +1,22 @@
+---
+  id: "36834"
+  word: "oktava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oktava"
+      acc: "oktavų"
+      gen: "oktavy"
+      loc: "oktavě"
+      dat: "oktavě"
+      ins: "oktavojų"
+      voc: "oktavo"
+    plural: 
+      nom: "oktavy"
+      acc: "oktavy"
+      gen: "oktav"
+      loc: "oktavah"
+      dat: "oktavam"
+      ins: "oktavami"
+      voc: "oktavy"

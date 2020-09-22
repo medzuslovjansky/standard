@@ -1,0 +1,23 @@
+---
+  id: "15874"
+  word: "finančnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "finančnik"
+      acc: "finančnika"
+      gen: "finančnika"
+      loc: "finančniku"
+      dat: "finančniku"
+      ins: "finančnikom"
+      voc: "finančniče"
+    plural: 
+      nom: "finančniki"
+      acc: "finančnikov"
+      gen: "finančnikov"
+      loc: "finančnikah"
+      dat: "finančnikam"
+      ins: "finančnikami"
+      voc: "finančniki"

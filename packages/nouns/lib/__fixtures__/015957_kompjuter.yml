@@ -1,0 +1,22 @@
+---
+  id: "15957"
+  word: "kompjuter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kompjuter"
+      acc: "kompjuter"
+      gen: "kompjutera"
+      loc: "kompjuteru"
+      dat: "kompjuteru"
+      ins: "kompjuterom"
+      voc: "kompjutere"
+    plural: 
+      nom: "kompjutery"
+      acc: "kompjutery"
+      gen: "kompjuterov"
+      loc: "kompjuterah"
+      dat: "kompjuteram"
+      ins: "kompjuterami"
+      voc: "kompjutery"

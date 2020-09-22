@@ -1,0 +1,22 @@
+---
+  id: "25979"
+  word: "hobot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hobot"
+      acc: "hobot"
+      gen: "hobota"
+      loc: "hobotu"
+      dat: "hobotu"
+      ins: "hobotom"
+      voc: "hobote"
+    plural: 
+      nom: "hoboty"
+      acc: "hoboty"
+      gen: "hobotov"
+      loc: "hobotah"
+      dat: "hobotam"
+      ins: "hobotami"
+      voc: "hoboty"

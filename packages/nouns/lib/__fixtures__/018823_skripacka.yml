@@ -1,0 +1,22 @@
+---
+  id: "18823"
+  word: "skripačka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skripačka"
+      acc: "skripačkų"
+      gen: "skripačky"
+      loc: "skripačkě"
+      dat: "skripačkě"
+      ins: "skripačkojų"
+      voc: "skripačko"
+    plural: 
+      nom: "skripačky"
+      acc: "skripačky"
+      gen: "skripaček"
+      loc: "skripačkah"
+      dat: "skripačkam"
+      ins: "skripačkami"
+      voc: "skripačky"

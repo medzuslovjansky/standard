@@ -1,0 +1,15 @@
+---
+  id: "6519"
+  word: "bezkonečnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezkonečnosť"
+      acc: "bezkonečnosť"
+      gen: "bezkonečnosti"
+      loc: "bezkonečnosti"
+      dat: "bezkonečnosti"
+      ins: "bezkonečnosťjų"
+      voc: "bezkonečnosti"

@@ -1,0 +1,22 @@
+---
+  id: "3107"
+  word: "srěda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "srěda"
+      acc: "srědų"
+      gen: "srědy"
+      loc: "srědě"
+      dat: "srědě"
+      ins: "srědojų"
+      voc: "srědo"
+    plural: 
+      nom: "srědy"
+      acc: "srědy"
+      gen: "srěd"
+      loc: "srědah"
+      dat: "srědam"
+      ins: "srědami"
+      voc: "srědy"

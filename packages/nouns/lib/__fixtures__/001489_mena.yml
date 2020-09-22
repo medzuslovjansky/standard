@@ -1,0 +1,22 @@
+---
+  id: "1489"
+  word: "měna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měna"
+      acc: "měnų"
+      gen: "měny"
+      loc: "měně"
+      dat: "měně"
+      ins: "měnojų"
+      voc: "měno"
+    plural: 
+      nom: "měny"
+      acc: "měny"
+      gen: "měn"
+      loc: "měnah"
+      dat: "měnam"
+      ins: "měnami"
+      voc: "měny"

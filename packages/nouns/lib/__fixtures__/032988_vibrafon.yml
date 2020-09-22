@@ -1,0 +1,22 @@
+---
+  id: "32988"
+  word: "vibrafon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vibrafon"
+      acc: "vibrafon"
+      gen: "vibrafona"
+      loc: "vibrafonu"
+      dat: "vibrafonu"
+      ins: "vibrafonom"
+      voc: "vibrafone"
+    plural: 
+      nom: "vibrafony"
+      acc: "vibrafony"
+      gen: "vibrafonov"
+      loc: "vibrafonah"
+      dat: "vibrafonam"
+      ins: "vibrafonami"
+      voc: "vibrafony"

@@ -1,0 +1,22 @@
+---
+  id: "35441"
+  word: "karamel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "karamel"
+      acc: "karamel"
+      gen: "karamela"
+      loc: "karamelu"
+      dat: "karamelu"
+      ins: "karamelom"
+      voc: "karamele"
+    plural: 
+      nom: "karamely"
+      acc: "karamely"
+      gen: "karamelov"
+      loc: "karamelah"
+      dat: "karamelam"
+      ins: "karamelami"
+      voc: "karamely"

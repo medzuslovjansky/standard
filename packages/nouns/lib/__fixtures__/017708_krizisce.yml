@@ -1,0 +1,22 @@
+---
+  id: "17708"
+  word: "križišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "križišče"
+      acc: "križišče"
+      gen: "križišča"
+      loc: "križišču"
+      dat: "križišču"
+      ins: "križiščem"
+      voc: "križišče"
+    plural: 
+      nom: "križišča"
+      acc: "križišča"
+      gen: "križišč"
+      loc: "križiščah"
+      dat: "križiščam"
+      ins: "križiščami"
+      voc: "križišča"

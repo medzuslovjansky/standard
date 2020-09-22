@@ -1,0 +1,22 @@
+---
+  id: "3324"
+  word: "smysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smysl"
+      acc: "smysl"
+      gen: "smysla"
+      loc: "smyslu"
+      dat: "smyslu"
+      ins: "smyslom"
+      voc: "smysle"
+    plural: 
+      nom: "smysly"
+      acc: "smysly"
+      gen: "smyslov"
+      loc: "smyslah"
+      dat: "smyslam"
+      ins: "smyslami"
+      voc: "smysly"

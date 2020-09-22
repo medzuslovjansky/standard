@@ -1,0 +1,22 @@
+---
+  id: "21607"
+  word: "urođaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "urođaj"
+      acc: "urođaj"
+      gen: "urođaja"
+      loc: "urođaju"
+      dat: "urođaju"
+      ins: "urođajem"
+      voc: "urođaju"
+    plural: 
+      nom: "urođaje"
+      acc: "urođaje"
+      gen: "urođajev"
+      loc: "urođajah"
+      dat: "urođajam"
+      ins: "urođajami"
+      voc: "urođaje"

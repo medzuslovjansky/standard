@@ -1,0 +1,22 @@
+---
+  id: "30165"
+  word: "råzdvojeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzdvojeńje"
+      acc: "råzdvojeńje"
+      gen: "råzdvojeńja"
+      loc: "råzdvojeńju"
+      dat: "råzdvojeńju"
+      ins: "råzdvojeńjem"
+      voc: "råzdvojeńje"
+    plural: 
+      nom: "råzdvojeńja"
+      acc: "råzdvojeńja"
+      gen: "råzdvojenij"
+      loc: "råzdvojeńjah"
+      dat: "råzdvojeńjam"
+      ins: "råzdvojeńjami"
+      voc: "råzdvojeńja"

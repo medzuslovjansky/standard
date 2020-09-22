@@ -1,0 +1,23 @@
+---
+  id: "26098"
+  word: "igumen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "igumen"
+      acc: "igumena"
+      gen: "igumena"
+      loc: "igumenu"
+      dat: "igumenu"
+      ins: "igumenom"
+      voc: "igumene"
+    plural: 
+      nom: "igumeni"
+      acc: "igumenov"
+      gen: "igumenov"
+      loc: "igumenah"
+      dat: "igumenam"
+      ins: "igumenami"
+      voc: "igumeni"

@@ -1,0 +1,15 @@
+---
+  id: "23555"
+  word: "feminizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "feminizm"
+      acc: "feminizm"
+      gen: "feminizma"
+      loc: "feminizmu"
+      dat: "feminizmu"
+      ins: "feminizmom"
+      voc: "feminizme"

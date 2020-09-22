@@ -1,0 +1,22 @@
+---
+  id: "15168"
+  word: "vųtråba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vųtråba"
+      acc: "vųtråbų"
+      gen: "vųtråby"
+      loc: "vųtråbě"
+      dat: "vųtråbě"
+      ins: "vųtråbojų"
+      voc: "vųtråbo"
+    plural: 
+      nom: "vųtråby"
+      acc: "vųtråby"
+      gen: "vųtråb"
+      loc: "vųtråbah"
+      dat: "vųtråbam"
+      ins: "vųtråbami"
+      voc: "vųtråby"

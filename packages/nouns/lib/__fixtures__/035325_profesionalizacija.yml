@@ -1,0 +1,22 @@
+---
+  id: "35325"
+  word: "profesionalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "profesionalizacija"
+      acc: "profesionalizacijų"
+      gen: "profesionalizacije"
+      loc: "profesionalizaciji"
+      dat: "profesionalizaciji"
+      ins: "profesionalizacijejų"
+      voc: "profesionalizacijo"
+    plural: 
+      nom: "profesionalizacije"
+      acc: "profesionalizacije"
+      gen: "profesionalizacij"
+      loc: "profesionalizacijah"
+      dat: "profesionalizacijam"
+      ins: "profesionalizacijami"
+      voc: "profesionalizacije"

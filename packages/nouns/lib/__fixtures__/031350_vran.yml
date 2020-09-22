@@ -1,0 +1,23 @@
+---
+  id: "31350"
+  word: "vrån"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vrån"
+      acc: "vråna"
+      gen: "vråna"
+      loc: "vrånu"
+      dat: "vrånu"
+      ins: "vrånom"
+      voc: "vråne"
+    plural: 
+      nom: "vråni"
+      acc: "vrånov"
+      gen: "vrånov"
+      loc: "vrånah"
+      dat: "vrånam"
+      ins: "vrånami"
+      voc: "vråni"

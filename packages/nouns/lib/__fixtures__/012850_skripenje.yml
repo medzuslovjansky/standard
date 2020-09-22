@@ -1,0 +1,15 @@
+---
+  id: "12850"
+  word: "skripěńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "skripěńje"
+      acc: "skripěńje"
+      gen: "skripěńja"
+      loc: "skripěńju"
+      dat: "skripěńju"
+      ins: "skripěńjem"
+      voc: "skripěńje"

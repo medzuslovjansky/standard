@@ -1,0 +1,23 @@
+---
+  id: "22017"
+  word: "svojak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svojak"
+      acc: "svojaka"
+      gen: "svojaka"
+      loc: "svojaku"
+      dat: "svojaku"
+      ins: "svojakom"
+      voc: "svojače"
+    plural: 
+      nom: "svojaki"
+      acc: "svojakov"
+      gen: "svojakov"
+      loc: "svojakah"
+      dat: "svojakam"
+      ins: "svojakami"
+      voc: "svojaki"

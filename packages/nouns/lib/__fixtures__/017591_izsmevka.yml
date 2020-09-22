@@ -1,0 +1,22 @@
+---
+  id: "17591"
+  word: "izsměvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izsměvka"
+      acc: "izsměvkų"
+      gen: "izsměvky"
+      loc: "izsměvkě"
+      dat: "izsměvkě"
+      ins: "izsměvkojų"
+      voc: "izsměvko"
+    plural: 
+      nom: "izsměvky"
+      acc: "izsměvky"
+      gen: "izsměvȯk"
+      loc: "izsměvkah"
+      dat: "izsměvkam"
+      ins: "izsměvkami"
+      voc: "izsměvky"

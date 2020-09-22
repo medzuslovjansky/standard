@@ -1,0 +1,23 @@
+---
+  id: "1141"
+  word: "prijatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prijatelj"
+      acc: "prijatelja"
+      gen: "prijatelja"
+      loc: "prijatelju"
+      dat: "prijatelju"
+      ins: "prijateljem"
+      voc: "prijatelju"
+    plural: 
+      nom: "prijatelji"
+      acc: "prijateljev"
+      gen: "prijateljev"
+      loc: "prijateljah"
+      dat: "prijateljam"
+      ins: "prijateljami"
+      voc: "prijatelji"

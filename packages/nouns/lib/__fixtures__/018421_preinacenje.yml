@@ -1,0 +1,22 @@
+---
+  id: "18421"
+  word: "prěinačeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěinačeńje"
+      acc: "prěinačeńje"
+      gen: "prěinačeńja"
+      loc: "prěinačeńju"
+      dat: "prěinačeńju"
+      ins: "prěinačeńjem"
+      voc: "prěinačeńje"
+    plural: 
+      nom: "prěinačeńja"
+      acc: "prěinačeńja"
+      gen: "prěinačenij"
+      loc: "prěinačeńjah"
+      dat: "prěinačeńjam"
+      ins: "prěinačeńjami"
+      voc: "prěinačeńja"

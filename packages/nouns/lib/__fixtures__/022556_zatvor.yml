@@ -1,0 +1,22 @@
+---
+  id: "22556"
+  word: "zatvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zatvor"
+      acc: "zatvor"
+      gen: "zatvora"
+      loc: "zatvoru"
+      dat: "zatvoru"
+      ins: "zatvorom"
+      voc: "zatvore"
+    plural: 
+      nom: "zatvory"
+      acc: "zatvory"
+      gen: "zatvorov"
+      loc: "zatvorah"
+      dat: "zatvoram"
+      ins: "zatvorami"
+      voc: "zatvory"

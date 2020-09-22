@@ -1,0 +1,22 @@
+---
+  id: "34427"
+  word: "gorila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gorila"
+      acc: "gorilų"
+      gen: "gorily"
+      loc: "gorilě"
+      dat: "gorilě"
+      ins: "gorilojų"
+      voc: "gorilo"
+    plural: 
+      nom: "gorily"
+      acc: "gorily"
+      gen: "goril"
+      loc: "gorilah"
+      dat: "gorilam"
+      ins: "gorilami"
+      voc: "gorily"

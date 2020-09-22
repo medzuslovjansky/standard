@@ -1,0 +1,22 @@
+---
+  id: "30970"
+  word: "vaflja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vaflja"
+      acc: "vafljų"
+      gen: "vaflje"
+      loc: "vaflji"
+      dat: "vaflji"
+      ins: "vafljejų"
+      voc: "vafljo"
+    plural: 
+      nom: "vaflje"
+      acc: "vaflje"
+      gen: "vaflej"
+      loc: "vafljah"
+      dat: "vafljam"
+      ins: "vafljami"
+      voc: "vaflje"

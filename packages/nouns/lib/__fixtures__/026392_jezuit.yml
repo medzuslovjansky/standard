@@ -1,0 +1,23 @@
+---
+  id: "26392"
+  word: "jezuit"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jezuit"
+      acc: "jezuita"
+      gen: "jezuita"
+      loc: "jezuitu"
+      dat: "jezuitu"
+      ins: "jezuitom"
+      voc: "jezuite"
+    plural: 
+      nom: "jezuiti"
+      acc: "jezuitov"
+      gen: "jezuitov"
+      loc: "jezuitah"
+      dat: "jezuitam"
+      ins: "jezuitami"
+      voc: "jezuiti"

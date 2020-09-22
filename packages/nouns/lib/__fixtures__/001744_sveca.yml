@@ -1,0 +1,22 @@
+---
+  id: "1744"
+  word: "svěća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svěća"
+      acc: "svěćų"
+      gen: "svěće"
+      loc: "svěći"
+      dat: "svěći"
+      ins: "svěćejų"
+      voc: "svěćo"
+    plural: 
+      nom: "svěće"
+      acc: "svěće"
+      gen: "svěć"
+      loc: "svěćah"
+      dat: "svěćam"
+      ins: "svěćami"
+      voc: "svěće"

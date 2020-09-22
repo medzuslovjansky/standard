@@ -1,0 +1,22 @@
+---
+  id: "20207"
+  word: "talisman"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "talisman"
+      acc: "talisman"
+      gen: "talismana"
+      loc: "talismanu"
+      dat: "talismanu"
+      ins: "talismanom"
+      voc: "talismane"
+    plural: 
+      nom: "talismany"
+      acc: "talismany"
+      gen: "talismanov"
+      loc: "talismanah"
+      dat: "talismanam"
+      ins: "talismanami"
+      voc: "talismany"

@@ -1,0 +1,47 @@
+---
+  - 
+    id: "13898"
+    word: "uj"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "uj"
+        acc: "uja"
+        gen: "uja"
+        loc: "uju"
+        dat: "uju"
+        ins: "ujem"
+        voc: "uju"
+      plural: 
+        nom: "uji"
+        acc: "ujev"
+        gen: "ujev"
+        loc: "ujah"
+        dat: "ujam"
+        ins: "ujami"
+        voc: "uji"
+  - 
+    id: "13898"
+    word: "ujec"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "ujec"
+        acc: "ujca"
+        gen: "ujca"
+        loc: "ujcu"
+        dat: "ujcu"
+        ins: "ujcem"
+        voc: "ujče"
+      plural: 
+        nom: "ujci"
+        acc: "ujcev"
+        gen: "ujcev"
+        loc: "ujcah"
+        dat: "ujcam"
+        ins: "ujcami"
+        voc: "ujci"

@@ -1,0 +1,22 @@
+---
+  id: "3642"
+  word: "prosvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prosvět"
+      acc: "prosvět"
+      gen: "prosvěta"
+      loc: "prosvětu"
+      dat: "prosvětu"
+      ins: "prosvětom"
+      voc: "prosvěte"
+    plural: 
+      nom: "prosvěty"
+      acc: "prosvěty"
+      gen: "prosvětov"
+      loc: "prosvětah"
+      dat: "prosvětam"
+      ins: "prosvětami"
+      voc: "prosvěty"

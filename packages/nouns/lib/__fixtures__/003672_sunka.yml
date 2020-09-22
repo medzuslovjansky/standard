@@ -1,0 +1,22 @@
+---
+  id: "3672"
+  word: "šunka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šunka"
+      acc: "šunkų"
+      gen: "šunky"
+      loc: "šunkě"
+      dat: "šunkě"
+      ins: "šunkojų"
+      voc: "šunko"
+    plural: 
+      nom: "šunky"
+      acc: "šunky"
+      gen: "šunȯk"
+      loc: "šunkah"
+      dat: "šunkam"
+      ins: "šunkami"
+      voc: "šunky"

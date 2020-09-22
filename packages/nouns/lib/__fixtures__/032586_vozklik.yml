@@ -1,0 +1,22 @@
+---
+  id: "32586"
+  word: "vȯzklik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzklik"
+      acc: "vȯzklik"
+      gen: "vȯzklika"
+      loc: "vȯzkliku"
+      dat: "vȯzkliku"
+      ins: "vȯzklikom"
+      voc: "vȯzkliče"
+    plural: 
+      nom: "vȯzkliky"
+      acc: "vȯzkliky"
+      gen: "vȯzklikov"
+      loc: "vȯzklikah"
+      dat: "vȯzklikam"
+      ins: "vȯzklikami"
+      voc: "vȯzkliky"

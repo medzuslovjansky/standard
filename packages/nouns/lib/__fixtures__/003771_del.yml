@@ -1,0 +1,22 @@
+---
+  id: "3771"
+  word: "děl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "děl"
+      acc: "děl"
+      gen: "děla"
+      loc: "dělu"
+      dat: "dělu"
+      ins: "dělom"
+      voc: "děle"
+    plural: 
+      nom: "děly"
+      acc: "děly"
+      gen: "dělov"
+      loc: "dělah"
+      dat: "dělam"
+      ins: "dělami"
+      voc: "děly"

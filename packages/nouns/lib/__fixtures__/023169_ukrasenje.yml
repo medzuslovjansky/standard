@@ -1,0 +1,22 @@
+---
+  id: "23169"
+  word: "ukrašeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ukrašeńje"
+      acc: "ukrašeńje"
+      gen: "ukrašeńja"
+      loc: "ukrašeńju"
+      dat: "ukrašeńju"
+      ins: "ukrašeńjem"
+      voc: "ukrašeńje"
+    plural: 
+      nom: "ukrašeńja"
+      acc: "ukrašeńja"
+      gen: "ukrašenij"
+      loc: "ukrašeńjah"
+      dat: "ukrašeńjam"
+      ins: "ukrašeńjami"
+      voc: "ukrašeńja"

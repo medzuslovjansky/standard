@@ -1,0 +1,22 @@
+---
+  id: "20016"
+  word: "pidžin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pidžin"
+      acc: "pidžin"
+      gen: "pidžina"
+      loc: "pidžinu"
+      dat: "pidžinu"
+      ins: "pidžinom"
+      voc: "pidžine"
+    plural: 
+      nom: "pidžiny"
+      acc: "pidžiny"
+      gen: "pidžinov"
+      loc: "pidžinah"
+      dat: "pidžinam"
+      ins: "pidžinami"
+      voc: "pidžiny"

@@ -1,0 +1,22 @@
+---
+  id: "1116"
+  word: "podrųčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podrųčnik"
+      acc: "podrųčnik"
+      gen: "podrųčnika"
+      loc: "podrųčniku"
+      dat: "podrųčniku"
+      ins: "podrųčnikom"
+      voc: "podrųčniče"
+    plural: 
+      nom: "podrųčniky"
+      acc: "podrųčniky"
+      gen: "podrųčnikov"
+      loc: "podrųčnikah"
+      dat: "podrųčnikam"
+      ins: "podrųčnikami"
+      voc: "podrųčniky"

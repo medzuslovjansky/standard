@@ -1,0 +1,15 @@
+---
+  id: "22635"
+  word: "bismut"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bismut"
+      acc: "bismut"
+      gen: "bismuta"
+      loc: "bismutu"
+      dat: "bismutu"
+      ins: "bismutom"
+      voc: "bismute"

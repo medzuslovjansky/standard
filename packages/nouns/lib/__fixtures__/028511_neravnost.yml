@@ -1,0 +1,22 @@
+---
+  id: "28511"
+  word: "neråvnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neråvnosť"
+      acc: "neråvnosť"
+      gen: "neråvnosti"
+      loc: "neråvnosti"
+      dat: "neråvnosti"
+      ins: "neråvnosťjų"
+      voc: "neråvnosti"
+    plural: 
+      nom: "neråvnosti"
+      acc: "neråvnosti"
+      gen: "neråvnostij"
+      loc: "neråvnosťah"
+      dat: "neråvnosťam"
+      ins: "neråvnosťami"
+      voc: "neråvnosti"

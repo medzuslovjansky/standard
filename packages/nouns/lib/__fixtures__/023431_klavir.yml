@@ -1,0 +1,22 @@
+---
+  id: "23431"
+  word: "klavir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klavir"
+      acc: "klavir"
+      gen: "klavira"
+      loc: "klaviru"
+      dat: "klaviru"
+      ins: "klavirom"
+      voc: "klavire"
+    plural: 
+      nom: "klaviry"
+      acc: "klaviry"
+      gen: "klavirov"
+      loc: "klavirah"
+      dat: "klaviram"
+      ins: "klavirami"
+      voc: "klaviry"

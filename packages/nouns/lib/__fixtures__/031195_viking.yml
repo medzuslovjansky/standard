@@ -1,0 +1,23 @@
+---
+  id: "31195"
+  word: "viking"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "viking"
+      acc: "vikinga"
+      gen: "vikinga"
+      loc: "vikingu"
+      dat: "vikingu"
+      ins: "vikingom"
+      voc: "vikinže"
+    plural: 
+      nom: "vikingi"
+      acc: "vikingov"
+      gen: "vikingov"
+      loc: "vikingah"
+      dat: "vikingam"
+      ins: "vikingami"
+      voc: "vikingi"

@@ -1,0 +1,22 @@
+---
+  id: "1096"
+  word: "strěla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strěla"
+      acc: "strělų"
+      gen: "strěly"
+      loc: "strělě"
+      dat: "strělě"
+      ins: "strělojų"
+      voc: "strělo"
+    plural: 
+      nom: "strěly"
+      acc: "strěly"
+      gen: "strěl"
+      loc: "strělah"
+      dat: "strělam"
+      ins: "strělami"
+      voc: "strěly"

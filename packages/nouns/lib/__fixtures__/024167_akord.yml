@@ -1,0 +1,22 @@
+---
+  id: "24167"
+  word: "akord"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akord"
+      acc: "akord"
+      gen: "akorda"
+      loc: "akordu"
+      dat: "akordu"
+      ins: "akordom"
+      voc: "akorde"
+    plural: 
+      nom: "akordy"
+      acc: "akordy"
+      gen: "akordov"
+      loc: "akordah"
+      dat: "akordam"
+      ins: "akordami"
+      voc: "akordy"

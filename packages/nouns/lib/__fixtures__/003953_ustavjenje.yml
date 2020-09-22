@@ -1,0 +1,22 @@
+---
+  id: "3953"
+  word: "ustavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ustavjeńje"
+      acc: "ustavjeńje"
+      gen: "ustavjeńja"
+      loc: "ustavjeńju"
+      dat: "ustavjeńju"
+      ins: "ustavjeńjem"
+      voc: "ustavjeńje"
+    plural: 
+      nom: "ustavjeńja"
+      acc: "ustavjeńja"
+      gen: "ustavjenij"
+      loc: "ustavjeńjah"
+      dat: "ustavjeńjam"
+      ins: "ustavjeńjami"
+      voc: "ustavjeńja"

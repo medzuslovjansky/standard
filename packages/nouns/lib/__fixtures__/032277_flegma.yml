@@ -1,0 +1,15 @@
+---
+  id: "32277"
+  word: "flegma"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "flegma"
+      acc: "flegmų"
+      gen: "flegmy"
+      loc: "flegmě"
+      dat: "flegmě"
+      ins: "flegmojų"
+      voc: "flegmo"

@@ -1,0 +1,23 @@
+---
+  id: "22833"
+  word: "šarlatan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "šarlatan"
+      acc: "šarlatana"
+      gen: "šarlatana"
+      loc: "šarlatanu"
+      dat: "šarlatanu"
+      ins: "šarlatanom"
+      voc: "šarlatane"
+    plural: 
+      nom: "šarlatani"
+      acc: "šarlatanov"
+      gen: "šarlatanov"
+      loc: "šarlatanah"
+      dat: "šarlatanam"
+      ins: "šarlatanami"
+      voc: "šarlatani"

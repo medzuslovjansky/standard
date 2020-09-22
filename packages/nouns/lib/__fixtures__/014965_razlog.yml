@@ -1,0 +1,22 @@
+---
+  id: "14965"
+  word: "råzlog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzlog"
+      acc: "råzlog"
+      gen: "råzloga"
+      loc: "råzlogu"
+      dat: "råzlogu"
+      ins: "råzlogom"
+      voc: "råzlože"
+    plural: 
+      nom: "råzlogy"
+      acc: "råzlogy"
+      gen: "råzlogov"
+      loc: "råzlogah"
+      dat: "råzlogam"
+      ins: "råzlogami"
+      voc: "råzlogy"

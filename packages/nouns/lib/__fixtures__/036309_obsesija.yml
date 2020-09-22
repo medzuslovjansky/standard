@@ -1,0 +1,22 @@
+---
+  id: "36309"
+  word: "obsesija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obsesija"
+      acc: "obsesijų"
+      gen: "obsesije"
+      loc: "obsesiji"
+      dat: "obsesiji"
+      ins: "obsesijejų"
+      voc: "obsesijo"
+    plural: 
+      nom: "obsesije"
+      acc: "obsesije"
+      gen: "obsesij"
+      loc: "obsesijah"
+      dat: "obsesijam"
+      ins: "obsesijami"
+      voc: "obsesije"

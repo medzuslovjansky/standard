@@ -1,0 +1,23 @@
+---
+  id: "36162"
+  word: "neženjenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neženjenec"
+      acc: "neženjenca"
+      gen: "neženjenca"
+      loc: "neženjencu"
+      dat: "neženjencu"
+      ins: "neženjencem"
+      voc: "neženjenče"
+    plural: 
+      nom: "neženjenci"
+      acc: "neženjencev"
+      gen: "neženjencev"
+      loc: "neženjencah"
+      dat: "neženjencam"
+      ins: "neženjencami"
+      voc: "neženjenci"

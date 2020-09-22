@@ -1,0 +1,22 @@
+---
+  id: "27041"
+  word: "lamańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lamańje"
+      acc: "lamańje"
+      gen: "lamańja"
+      loc: "lamańju"
+      dat: "lamańju"
+      ins: "lamańjem"
+      voc: "lamańje"
+    plural: 
+      nom: "lamańja"
+      acc: "lamańja"
+      gen: "lamanij"
+      loc: "lamańjah"
+      dat: "lamańjam"
+      ins: "lamańjami"
+      voc: "lamańja"

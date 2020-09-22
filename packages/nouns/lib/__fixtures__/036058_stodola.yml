@@ -1,0 +1,22 @@
+---
+  id: "36058"
+  word: "stodola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stodola"
+      acc: "stodolų"
+      gen: "stodoly"
+      loc: "stodolě"
+      dat: "stodolě"
+      ins: "stodolojų"
+      voc: "stodolo"
+    plural: 
+      nom: "stodoly"
+      acc: "stodoly"
+      gen: "stodol"
+      loc: "stodolah"
+      dat: "stodolam"
+      ins: "stodolami"
+      voc: "stodoly"

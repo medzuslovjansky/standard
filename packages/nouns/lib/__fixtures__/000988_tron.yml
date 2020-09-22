@@ -1,0 +1,22 @@
+---
+  id: "988"
+  word: "tron"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tron"
+      acc: "tron"
+      gen: "trona"
+      loc: "tronu"
+      dat: "tronu"
+      ins: "tronom"
+      voc: "trone"
+    plural: 
+      nom: "trony"
+      acc: "trony"
+      gen: "tronov"
+      loc: "tronah"
+      dat: "tronam"
+      ins: "tronami"
+      voc: "trony"

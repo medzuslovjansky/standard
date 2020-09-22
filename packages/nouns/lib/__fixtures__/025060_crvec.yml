@@ -1,0 +1,23 @@
+---
+  id: "25060"
+  word: "črvec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črvec"
+      acc: "črvca"
+      gen: "črvca"
+      loc: "črvcu"
+      dat: "črvcu"
+      ins: "črvcem"
+      voc: "črvče"
+    plural: 
+      nom: "črvci"
+      acc: "črvcev"
+      gen: "črvcev"
+      loc: "črvcah"
+      dat: "črvcam"
+      ins: "črvcami"
+      voc: "črvci"

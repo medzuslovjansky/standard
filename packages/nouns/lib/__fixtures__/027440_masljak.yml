@@ -1,0 +1,22 @@
+---
+  id: "27440"
+  word: "masljak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "masljak"
+      acc: "masljak"
+      gen: "masljaka"
+      loc: "masljaku"
+      dat: "masljaku"
+      ins: "masljakom"
+      voc: "masljače"
+    plural: 
+      nom: "masljaky"
+      acc: "masljaky"
+      gen: "masljakov"
+      loc: "masljakah"
+      dat: "masljakam"
+      ins: "masljakami"
+      voc: "masljaky"

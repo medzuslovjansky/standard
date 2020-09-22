@@ -1,0 +1,22 @@
+---
+  id: "17028"
+  word: "referencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "referencija"
+      acc: "referencijų"
+      gen: "referencije"
+      loc: "referenciji"
+      dat: "referenciji"
+      ins: "referencijejų"
+      voc: "referencijo"
+    plural: 
+      nom: "referencije"
+      acc: "referencije"
+      gen: "referencij"
+      loc: "referencijah"
+      dat: "referencijam"
+      ins: "referencijami"
+      voc: "referencije"

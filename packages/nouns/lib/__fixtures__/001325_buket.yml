@@ -1,0 +1,22 @@
+---
+  id: "1325"
+  word: "buket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "buket"
+      acc: "buket"
+      gen: "buketa"
+      loc: "buketu"
+      dat: "buketu"
+      ins: "buketom"
+      voc: "bukete"
+    plural: 
+      nom: "bukety"
+      acc: "bukety"
+      gen: "buketov"
+      loc: "buketah"
+      dat: "buketam"
+      ins: "buketami"
+      voc: "bukety"

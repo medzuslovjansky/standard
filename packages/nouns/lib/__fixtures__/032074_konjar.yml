@@ -1,0 +1,23 @@
+---
+  id: "32074"
+  word: "konjaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konjaŕ"
+      acc: "konjaŕa"
+      gen: "konjaŕa"
+      loc: "konjaŕu"
+      dat: "konjaŕu"
+      ins: "konjaŕem"
+      voc: "konjaŕu"
+    plural: 
+      nom: "konjari"
+      acc: "konjaŕev"
+      gen: "konjaŕev"
+      loc: "konjaŕah"
+      dat: "konjaŕam"
+      ins: "konjaŕami"
+      voc: "konjari"

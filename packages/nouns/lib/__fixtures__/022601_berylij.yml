@@ -1,0 +1,15 @@
+---
+  id: "22601"
+  word: "berylij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "berylij"
+      acc: "berylij"
+      gen: "berylija"
+      loc: "beryliju"
+      dat: "beryliju"
+      ins: "berylijem"
+      voc: "beryliju"

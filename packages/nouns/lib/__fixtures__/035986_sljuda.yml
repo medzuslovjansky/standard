@@ -1,0 +1,22 @@
+---
+  id: "35986"
+  word: "sljuda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sljuda"
+      acc: "sljudų"
+      gen: "sljudy"
+      loc: "sljudě"
+      dat: "sljudě"
+      ins: "sljudojų"
+      voc: "sljudo"
+    plural: 
+      nom: "sljudy"
+      acc: "sljudy"
+      gen: "sljud"
+      loc: "sljudah"
+      dat: "sljudam"
+      ins: "sljudami"
+      voc: "sljudy"

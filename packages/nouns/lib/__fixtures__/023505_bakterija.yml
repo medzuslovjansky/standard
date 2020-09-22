@@ -1,0 +1,22 @@
+---
+  id: "23505"
+  word: "bakterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bakterija"
+      acc: "bakterijų"
+      gen: "bakterije"
+      loc: "bakteriji"
+      dat: "bakteriji"
+      ins: "bakterijejų"
+      voc: "bakterijo"
+    plural: 
+      nom: "bakterije"
+      acc: "bakterije"
+      gen: "bakterij"
+      loc: "bakterijah"
+      dat: "bakterijam"
+      ins: "bakterijami"
+      voc: "bakterije"

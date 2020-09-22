@@ -1,0 +1,23 @@
+---
+  id: "17120"
+  word: "antihrist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "antihrist"
+      acc: "antihrista"
+      gen: "antihrista"
+      loc: "antihristu"
+      dat: "antihristu"
+      ins: "antihristom"
+      voc: "antihriste"
+    plural: 
+      nom: "antihristi"
+      acc: "antihristov"
+      gen: "antihristov"
+      loc: "antihristah"
+      dat: "antihristam"
+      ins: "antihristami"
+      voc: "antihristi"

@@ -1,0 +1,22 @@
+---
+  id: "24400"
+  word: "avtožir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtožir"
+      acc: "avtožir"
+      gen: "avtožira"
+      loc: "avtožiru"
+      dat: "avtožiru"
+      ins: "avtožirom"
+      voc: "avtožire"
+    plural: 
+      nom: "avtožiry"
+      acc: "avtožiry"
+      gen: "avtožirov"
+      loc: "avtožirah"
+      dat: "avtožiram"
+      ins: "avtožirami"
+      voc: "avtožiry"

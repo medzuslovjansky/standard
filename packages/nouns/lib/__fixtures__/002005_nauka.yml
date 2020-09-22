@@ -1,0 +1,22 @@
+---
+  id: "2005"
+  word: "nauka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nauka"
+      acc: "naukų"
+      gen: "nauky"
+      loc: "naukě"
+      dat: "naukě"
+      ins: "naukojų"
+      voc: "nauko"
+    plural: 
+      nom: "nauky"
+      acc: "nauky"
+      gen: "nauk"
+      loc: "naukah"
+      dat: "naukam"
+      ins: "naukami"
+      voc: "nauky"

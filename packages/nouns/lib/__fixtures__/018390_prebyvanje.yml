@@ -1,0 +1,22 @@
+---
+  id: "18390"
+  word: "prěbyvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěbyvańje"
+      acc: "prěbyvańje"
+      gen: "prěbyvańja"
+      loc: "prěbyvańju"
+      dat: "prěbyvańju"
+      ins: "prěbyvańjem"
+      voc: "prěbyvańje"
+    plural: 
+      nom: "prěbyvańja"
+      acc: "prěbyvańja"
+      gen: "prěbyvanij"
+      loc: "prěbyvańjah"
+      dat: "prěbyvańjam"
+      ins: "prěbyvańjami"
+      voc: "prěbyvańja"

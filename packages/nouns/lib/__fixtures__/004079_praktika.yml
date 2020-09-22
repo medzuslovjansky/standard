@@ -1,0 +1,22 @@
+---
+  id: "4079"
+  word: "praktika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "praktika"
+      acc: "praktikų"
+      gen: "praktiky"
+      loc: "praktikě"
+      dat: "praktikě"
+      ins: "praktikojų"
+      voc: "praktiko"
+    plural: 
+      nom: "praktiky"
+      acc: "praktiky"
+      gen: "praktik"
+      loc: "praktikah"
+      dat: "praktikam"
+      ins: "praktikami"
+      voc: "praktiky"

@@ -1,0 +1,22 @@
+---
+  id: "31968"
+  word: "pokajańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pokajańje"
+      acc: "pokajańje"
+      gen: "pokajańja"
+      loc: "pokajańju"
+      dat: "pokajańju"
+      ins: "pokajańjem"
+      voc: "pokajańje"
+    plural: 
+      nom: "pokajańja"
+      acc: "pokajańja"
+      gen: "pokajanij"
+      loc: "pokajańjah"
+      dat: "pokajańjam"
+      ins: "pokajańjami"
+      voc: "pokajańja"

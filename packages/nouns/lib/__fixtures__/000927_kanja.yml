@@ -1,0 +1,22 @@
+---
+  id: "927"
+  word: "kanja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kanja"
+      acc: "kanjų"
+      gen: "kanje"
+      loc: "kanji"
+      dat: "kanji"
+      ins: "kanjejų"
+      voc: "kanjo"
+    plural: 
+      nom: "kanje"
+      acc: "kanje"
+      gen: "kanej"
+      loc: "kanjah"
+      dat: "kanjam"
+      ins: "kanjami"
+      voc: "kanje"

@@ -1,0 +1,22 @@
+---
+  id: "35205"
+  word: "gybkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gybkosť"
+      acc: "gybkosť"
+      gen: "gybkosti"
+      loc: "gybkosti"
+      dat: "gybkosti"
+      ins: "gybkosťjų"
+      voc: "gybkosti"
+    plural: 
+      nom: "gybkosti"
+      acc: "gybkosti"
+      gen: "gybkostij"
+      loc: "gybkosťah"
+      dat: "gybkosťam"
+      ins: "gybkosťami"
+      voc: "gybkosti"

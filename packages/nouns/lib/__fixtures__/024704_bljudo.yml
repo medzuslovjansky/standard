@@ -1,0 +1,22 @@
+---
+  id: "24704"
+  word: "bljudo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bljudo"
+      acc: "bljudo"
+      gen: "bljuda"
+      loc: "bljudu"
+      dat: "bljudu"
+      ins: "bljudom"
+      voc: "bljudo"
+    plural: 
+      nom: "bljuda"
+      acc: "bljuda"
+      gen: "bljud"
+      loc: "bljudah"
+      dat: "bljudam"
+      ins: "bljudami"
+      voc: "bljuda"

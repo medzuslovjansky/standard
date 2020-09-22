@@ -1,0 +1,22 @@
+---
+  id: "20228"
+  word: "uděl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "uděl"
+      acc: "uděl"
+      gen: "uděla"
+      loc: "udělu"
+      dat: "udělu"
+      ins: "udělom"
+      voc: "uděle"
+    plural: 
+      nom: "uděly"
+      acc: "uděly"
+      gen: "udělov"
+      loc: "udělah"
+      dat: "udělam"
+      ins: "udělami"
+      voc: "uděly"

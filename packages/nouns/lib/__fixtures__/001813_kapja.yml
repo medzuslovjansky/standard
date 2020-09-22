@@ -1,0 +1,22 @@
+---
+  id: "1813"
+  word: "kapja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapja"
+      acc: "kapjų"
+      gen: "kapje"
+      loc: "kapji"
+      dat: "kapji"
+      ins: "kapjejų"
+      voc: "kapjo"
+    plural: 
+      nom: "kapje"
+      acc: "kapje"
+      gen: "kapej"
+      loc: "kapjah"
+      dat: "kapjam"
+      ins: "kapjami"
+      voc: "kapje"

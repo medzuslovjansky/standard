@@ -1,0 +1,22 @@
+---
+  id: "35513"
+  word: "afera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "afera"
+      acc: "aferų"
+      gen: "afery"
+      loc: "aferě"
+      dat: "aferě"
+      ins: "aferojų"
+      voc: "afero"
+    plural: 
+      nom: "afery"
+      acc: "afery"
+      gen: "afer"
+      loc: "aferah"
+      dat: "aferam"
+      ins: "aferami"
+      voc: "afery"

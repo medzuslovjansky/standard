@@ -1,0 +1,22 @@
+---
+  id: "25463"
+  word: "dymnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dymnik"
+      acc: "dymnik"
+      gen: "dymnika"
+      loc: "dymniku"
+      dat: "dymniku"
+      ins: "dymnikom"
+      voc: "dymniče"
+    plural: 
+      nom: "dymniky"
+      acc: "dymniky"
+      gen: "dymnikov"
+      loc: "dymnikah"
+      dat: "dymnikam"
+      ins: "dymnikami"
+      voc: "dymniky"

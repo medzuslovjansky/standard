@@ -1,0 +1,23 @@
+---
+  id: "22952"
+  word: "vsežerec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vsežerec"
+      acc: "vsežerca"
+      gen: "vsežerca"
+      loc: "vsežercu"
+      dat: "vsežercu"
+      ins: "vsežercem"
+      voc: "vsežerče"
+    plural: 
+      nom: "vsežerci"
+      acc: "vsežercev"
+      gen: "vsežercev"
+      loc: "vsežercah"
+      dat: "vsežercam"
+      ins: "vsežercami"
+      voc: "vsežerci"

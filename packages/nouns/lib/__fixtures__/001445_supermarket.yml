@@ -1,0 +1,22 @@
+---
+  id: "1445"
+  word: "supermarket"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "supermarket"
+      acc: "supermarket"
+      gen: "supermarketa"
+      loc: "supermarketu"
+      dat: "supermarketu"
+      ins: "supermarketom"
+      voc: "supermarkete"
+    plural: 
+      nom: "supermarkety"
+      acc: "supermarkety"
+      gen: "supermarketov"
+      loc: "supermarketah"
+      dat: "supermarketam"
+      ins: "supermarketami"
+      voc: "supermarkety"

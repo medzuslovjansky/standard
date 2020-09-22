@@ -1,0 +1,22 @@
+---
+  id: "36084"
+  word: "integritet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "integritet"
+      acc: "integritet"
+      gen: "integriteta"
+      loc: "integritetu"
+      dat: "integritetu"
+      ins: "integritetom"
+      voc: "integritete"
+    plural: 
+      nom: "integritety"
+      acc: "integritety"
+      gen: "integritetov"
+      loc: "integritetah"
+      dat: "integritetam"
+      ins: "integritetami"
+      voc: "integritety"

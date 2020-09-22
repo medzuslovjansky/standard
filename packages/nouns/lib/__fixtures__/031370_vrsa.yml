@@ -1,0 +1,22 @@
+---
+  id: "31370"
+  word: "vŕša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vŕša"
+      acc: "vŕšų"
+      gen: "vŕše"
+      loc: "vŕši"
+      dat: "vŕši"
+      ins: "vŕšejų"
+      voc: "vŕšo"
+    plural: 
+      nom: "vŕše"
+      acc: "vŕše"
+      gen: "vŕš"
+      loc: "vŕšah"
+      dat: "vŕšam"
+      ins: "vŕšami"
+      voc: "vŕše"

@@ -1,0 +1,22 @@
+---
+  id: "22271"
+  word: "vvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vvod"
+      acc: "vvod"
+      gen: "vvoda"
+      loc: "vvodu"
+      dat: "vvodu"
+      ins: "vvodom"
+      voc: "vvode"
+    plural: 
+      nom: "vvody"
+      acc: "vvody"
+      gen: "vvodov"
+      loc: "vvodah"
+      dat: "vvodam"
+      ins: "vvodami"
+      voc: "vvody"

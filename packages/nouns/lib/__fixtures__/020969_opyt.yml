@@ -1,0 +1,22 @@
+---
+  id: "20969"
+  word: "opyt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "opyt"
+      acc: "opyt"
+      gen: "opyta"
+      loc: "opytu"
+      dat: "opytu"
+      ins: "opytom"
+      voc: "opyte"
+    plural: 
+      nom: "opyty"
+      acc: "opyty"
+      gen: "opytov"
+      loc: "opytah"
+      dat: "opytam"
+      ins: "opytami"
+      voc: "opyty"

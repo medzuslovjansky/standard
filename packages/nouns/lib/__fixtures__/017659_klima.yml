@@ -1,0 +1,22 @@
+---
+  id: "17659"
+  word: "klima"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klima"
+      acc: "klimų"
+      gen: "klimy"
+      loc: "klimě"
+      dat: "klimě"
+      ins: "klimojų"
+      voc: "klimo"
+    plural: 
+      nom: "klimy"
+      acc: "klimy"
+      gen: "klim"
+      loc: "klimah"
+      dat: "klimam"
+      ins: "klimami"
+      voc: "klimy"

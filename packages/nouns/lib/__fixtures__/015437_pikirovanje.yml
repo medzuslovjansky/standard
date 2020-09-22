@@ -1,0 +1,22 @@
+---
+  id: "15437"
+  word: "pikirovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pikirovańje"
+      acc: "pikirovańje"
+      gen: "pikirovańja"
+      loc: "pikirovańju"
+      dat: "pikirovańju"
+      ins: "pikirovańjem"
+      voc: "pikirovańje"
+    plural: 
+      nom: "pikirovańja"
+      acc: "pikirovańja"
+      gen: "pikirovanij"
+      loc: "pikirovańjah"
+      dat: "pikirovańjam"
+      ins: "pikirovańjami"
+      voc: "pikirovańja"

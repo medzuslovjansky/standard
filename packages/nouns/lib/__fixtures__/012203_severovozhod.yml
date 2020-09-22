@@ -1,0 +1,15 @@
+---
+  id: "12203"
+  word: "sěverovȯzhod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sěverovȯzhod"
+      acc: "sěverovȯzhod"
+      gen: "sěverovȯzhoda"
+      loc: "sěverovȯzhodu"
+      dat: "sěverovȯzhodu"
+      ins: "sěverovȯzhodom"
+      voc: "sěverovȯzhode"

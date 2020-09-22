@@ -1,0 +1,23 @@
+---
+  id: "35507"
+  word: "životinovod"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "životinovod"
+      acc: "životinovoda"
+      gen: "životinovoda"
+      loc: "životinovodu"
+      dat: "životinovodu"
+      ins: "životinovodom"
+      voc: "životinovode"
+    plural: 
+      nom: "životinovodi"
+      acc: "životinovodov"
+      gen: "životinovodov"
+      loc: "životinovodah"
+      dat: "životinovodam"
+      ins: "životinovodami"
+      voc: "životinovodi"

@@ -1,0 +1,22 @@
+---
+  id: "35086"
+  word: "vagina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vagina"
+      acc: "vaginų"
+      gen: "vaginy"
+      loc: "vagině"
+      dat: "vagině"
+      ins: "vaginojų"
+      voc: "vagino"
+    plural: 
+      nom: "vaginy"
+      acc: "vaginy"
+      gen: "vagin"
+      loc: "vaginah"
+      dat: "vaginam"
+      ins: "vaginami"
+      voc: "vaginy"

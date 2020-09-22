@@ -1,0 +1,22 @@
+---
+  id: "35997"
+  word: "pråhosȯsaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pråhosȯsaľnik"
+      acc: "pråhosȯsaľnik"
+      gen: "pråhosȯsaľnika"
+      loc: "pråhosȯsaľniku"
+      dat: "pråhosȯsaľniku"
+      ins: "pråhosȯsaľnikom"
+      voc: "pråhosȯsaľniče"
+    plural: 
+      nom: "pråhosȯsaľniky"
+      acc: "pråhosȯsaľniky"
+      gen: "pråhosȯsaľnikov"
+      loc: "pråhosȯsaľnikah"
+      dat: "pråhosȯsaľnikam"
+      ins: "pråhosȯsaľnikami"
+      voc: "pråhosȯsaľniky"

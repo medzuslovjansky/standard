@@ -1,0 +1,23 @@
+---
+  id: "35902"
+  word: "persijec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "persijec"
+      acc: "persijca"
+      gen: "persijca"
+      loc: "persijcu"
+      dat: "persijcu"
+      ins: "persijcem"
+      voc: "persijče"
+    plural: 
+      nom: "persijci"
+      acc: "persijcev"
+      gen: "persijcev"
+      loc: "persijcah"
+      dat: "persijcam"
+      ins: "persijcami"
+      voc: "persijci"

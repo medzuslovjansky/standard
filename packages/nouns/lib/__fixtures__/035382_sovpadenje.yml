@@ -1,0 +1,22 @@
+---
+  id: "35382"
+  word: "sȯvpadeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯvpadeńje"
+      acc: "sȯvpadeńje"
+      gen: "sȯvpadeńja"
+      loc: "sȯvpadeńju"
+      dat: "sȯvpadeńju"
+      ins: "sȯvpadeńjem"
+      voc: "sȯvpadeńje"
+    plural: 
+      nom: "sȯvpadeńja"
+      acc: "sȯvpadeńja"
+      gen: "sȯvpadenij"
+      loc: "sȯvpadeńjah"
+      dat: "sȯvpadeńjam"
+      ins: "sȯvpadeńjami"
+      voc: "sȯvpadeńja"

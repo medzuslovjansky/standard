@@ -1,0 +1,22 @@
+---
+  id: "28428"
+  word: "Němka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Němka"
+      acc: "Němkų"
+      gen: "Němky"
+      loc: "Němkě"
+      dat: "Němkě"
+      ins: "Němkojų"
+      voc: "Němko"
+    plural: 
+      nom: "Němky"
+      acc: "Němky"
+      gen: "Němȯk"
+      loc: "Němkah"
+      dat: "Němkam"
+      ins: "Němkami"
+      voc: "Němky"

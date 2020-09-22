@@ -1,0 +1,22 @@
+---
+  id: "4497"
+  word: "era"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "era"
+      acc: "erų"
+      gen: "ery"
+      loc: "erě"
+      dat: "erě"
+      ins: "erojų"
+      voc: "ero"
+    plural: 
+      nom: "ery"
+      acc: "ery"
+      gen: "er"
+      loc: "erah"
+      dat: "eram"
+      ins: "erami"
+      voc: "ery"

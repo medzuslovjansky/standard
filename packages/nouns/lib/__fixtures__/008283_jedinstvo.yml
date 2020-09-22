@@ -1,0 +1,15 @@
+---
+  id: "8283"
+  word: "jedinstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jedinstvo"
+      acc: "jedinstvo"
+      gen: "jedinstva"
+      loc: "jedinstvu"
+      dat: "jedinstvu"
+      ins: "jedinstvom"
+      voc: "jedinstvo"

@@ -1,0 +1,22 @@
+---
+  id: "5234"
+  word: "gostinica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gostinica"
+      acc: "gostinicų"
+      gen: "gostinice"
+      loc: "gostinici"
+      dat: "gostinici"
+      ins: "gostinicejų"
+      voc: "gostinico"
+    plural: 
+      nom: "gostinice"
+      acc: "gostinice"
+      gen: "gostinic"
+      loc: "gostinicah"
+      dat: "gostinicam"
+      ins: "gostinicami"
+      voc: "gostinice"

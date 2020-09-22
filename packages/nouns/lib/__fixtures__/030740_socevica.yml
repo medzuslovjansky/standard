@@ -1,0 +1,22 @@
+---
+  id: "30740"
+  word: "sočevica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sočevica"
+      acc: "sočevicų"
+      gen: "sočevice"
+      loc: "sočevici"
+      dat: "sočevici"
+      ins: "sočevicejų"
+      voc: "sočevico"
+    plural: 
+      nom: "sočevice"
+      acc: "sočevice"
+      gen: "sočevic"
+      loc: "sočevicah"
+      dat: "sočevicam"
+      ins: "sočevicami"
+      voc: "sočevice"

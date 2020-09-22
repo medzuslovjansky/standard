@@ -1,0 +1,22 @@
+---
+  id: "13848"
+  word: "vsadȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vsadȯk"
+      acc: "vsadȯk"
+      gen: "vsadka"
+      loc: "vsadku"
+      dat: "vsadku"
+      ins: "vsadkom"
+      voc: "vsadče"
+    plural: 
+      nom: "vsadky"
+      acc: "vsadky"
+      gen: "vsadkov"
+      loc: "vsadkah"
+      dat: "vsadkam"
+      ins: "vsadkami"
+      voc: "vsadky"

@@ -1,0 +1,22 @@
+---
+  id: "3094"
+  word: "uslovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uslovje"
+      acc: "uslovje"
+      gen: "uslovja"
+      loc: "uslovju"
+      dat: "uslovju"
+      ins: "uslovjem"
+      voc: "uslovje"
+    plural: 
+      nom: "uslovja"
+      acc: "uslovja"
+      gen: "uslovij"
+      loc: "uslovjah"
+      dat: "uslovjam"
+      ins: "uslovjami"
+      voc: "uslovja"

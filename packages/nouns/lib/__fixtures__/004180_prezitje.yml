@@ -1,0 +1,22 @@
+---
+  id: "4180"
+  word: "prěžiťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěžiťje"
+      acc: "prěžiťje"
+      gen: "prěžiťja"
+      loc: "prěžiťju"
+      dat: "prěžiťju"
+      ins: "prěžiťjem"
+      voc: "prěžiťje"
+    plural: 
+      nom: "prěžiťja"
+      acc: "prěžiťja"
+      gen: "prěžitij"
+      loc: "prěžiťjah"
+      dat: "prěžiťjam"
+      ins: "prěžiťjami"
+      voc: "prěžiťja"

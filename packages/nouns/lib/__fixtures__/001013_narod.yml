@@ -1,0 +1,22 @@
+---
+  id: "1013"
+  word: "narod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "narod"
+      acc: "narod"
+      gen: "naroda"
+      loc: "narodu"
+      dat: "narodu"
+      ins: "narodom"
+      voc: "narode"
+    plural: 
+      nom: "narody"
+      acc: "narody"
+      gen: "narodov"
+      loc: "narodah"
+      dat: "narodam"
+      ins: "narodami"
+      voc: "narody"

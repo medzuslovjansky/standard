@@ -1,0 +1,22 @@
+---
+  id: "5872"
+  word: "barvivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "barvivo"
+      acc: "barvivo"
+      gen: "barviva"
+      loc: "barvivu"
+      dat: "barvivu"
+      ins: "barvivom"
+      voc: "barvivo"
+    plural: 
+      nom: "barviva"
+      acc: "barviva"
+      gen: "barviv"
+      loc: "barvivah"
+      dat: "barvivam"
+      ins: "barvivami"
+      voc: "barviva"

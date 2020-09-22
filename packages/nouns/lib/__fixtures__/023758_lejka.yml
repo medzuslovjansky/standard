@@ -1,0 +1,22 @@
+---
+  id: "23758"
+  word: "lejka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lejka"
+      acc: "lejkų"
+      gen: "lejky"
+      loc: "lejkě"
+      dat: "lejkě"
+      ins: "lejkojų"
+      voc: "lejko"
+    plural: 
+      nom: "lejky"
+      acc: "lejky"
+      gen: "lejek"
+      loc: "lejkah"
+      dat: "lejkam"
+      ins: "lejkami"
+      voc: "lejky"

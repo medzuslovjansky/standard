@@ -1,0 +1,22 @@
+---
+  id: "265"
+  word: "kurort"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kurort"
+      acc: "kurort"
+      gen: "kurorta"
+      loc: "kurortu"
+      dat: "kurortu"
+      ins: "kurortom"
+      voc: "kurorte"
+    plural: 
+      nom: "kurorty"
+      acc: "kurorty"
+      gen: "kurortov"
+      loc: "kurortah"
+      dat: "kurortam"
+      ins: "kurortami"
+      voc: "kurorty"

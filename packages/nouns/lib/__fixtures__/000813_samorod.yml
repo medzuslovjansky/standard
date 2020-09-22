@@ -1,0 +1,22 @@
+---
+  id: "813"
+  word: "samorod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "samorod"
+      acc: "samorod"
+      gen: "samoroda"
+      loc: "samorodu"
+      dat: "samorodu"
+      ins: "samorodom"
+      voc: "samorode"
+    plural: 
+      nom: "samorody"
+      acc: "samorody"
+      gen: "samorodov"
+      loc: "samorodah"
+      dat: "samorodam"
+      ins: "samorodami"
+      voc: "samorody"

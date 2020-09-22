@@ -1,0 +1,22 @@
+---
+  id: "6287"
+  word: "pion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pion"
+      acc: "pion"
+      gen: "piona"
+      loc: "pionu"
+      dat: "pionu"
+      ins: "pionom"
+      voc: "pione"
+    plural: 
+      nom: "piony"
+      acc: "piony"
+      gen: "pionov"
+      loc: "pionah"
+      dat: "pionam"
+      ins: "pionami"
+      voc: "piony"

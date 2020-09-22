@@ -1,0 +1,22 @@
+---
+  id: "11371"
+  word: "prěstrělka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěstrělka"
+      acc: "prěstrělkų"
+      gen: "prěstrělky"
+      loc: "prěstrělkě"
+      dat: "prěstrělkě"
+      ins: "prěstrělkojų"
+      voc: "prěstrělko"
+    plural: 
+      nom: "prěstrělky"
+      acc: "prěstrělky"
+      gen: "prěstrělȯk"
+      loc: "prěstrělkah"
+      dat: "prěstrělkam"
+      ins: "prěstrělkami"
+      voc: "prěstrělky"

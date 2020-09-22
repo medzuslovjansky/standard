@@ -1,0 +1,22 @@
+---
+  id: "34996"
+  word: "ćelja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ćelja"
+      acc: "ćeljų"
+      gen: "ćelje"
+      loc: "ćelji"
+      dat: "ćelji"
+      ins: "ćeljejų"
+      voc: "ćeljo"
+    plural: 
+      nom: "ćelje"
+      acc: "ćelje"
+      gen: "ćelej"
+      loc: "ćeljah"
+      dat: "ćeljam"
+      ins: "ćeljami"
+      voc: "ćelje"

@@ -1,0 +1,47 @@
+---
+  - 
+    id: "25730"
+    word: "gorjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "gorjan"
+        acc: "gorjana"
+        gen: "gorjana"
+        loc: "gorjanu"
+        dat: "gorjanu"
+        ins: "gorjanom"
+        voc: "gorjane"
+      plural: 
+        nom: "gorjani"
+        acc: "gorjanov"
+        gen: "gorjanov"
+        loc: "gorjanah"
+        dat: "gorjanam"
+        ins: "gorjanami"
+        voc: "gorjani"
+  - 
+    id: "25730"
+    word: "gorjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "gorjanin"
+        acc: "gorjanina"
+        gen: "gorjanina"
+        loc: "gorjaninu"
+        dat: "gorjaninu"
+        ins: "gorjaninom"
+        voc: "gorjanine"
+      plural: 
+        nom: "gorjani"
+        acc: "gorjanov"
+        gen: "gorjanov"
+        loc: "gorjanah"
+        dat: "gorjanam"
+        ins: "gorjanami"
+        voc: "gorjani"

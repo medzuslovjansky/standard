@@ -1,0 +1,23 @@
+---
+  id: "9136"
+  word: "mlådoženih"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlådoženih"
+      acc: "mlådoženiha"
+      gen: "mlådoženiha"
+      loc: "mlådoženihu"
+      dat: "mlådoženihu"
+      ins: "mlådoženihom"
+      voc: "mlådoženiše"
+    plural: 
+      nom: "mlådoženihi"
+      acc: "mlådoženihov"
+      gen: "mlådoženihov"
+      loc: "mlådoženihah"
+      dat: "mlådoženiham"
+      ins: "mlådoženihami"
+      voc: "mlådoženihi"

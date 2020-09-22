@@ -1,0 +1,15 @@
+---
+  id: "1721"
+  word: "beton"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "beton"
+      acc: "beton"
+      gen: "betona"
+      loc: "betonu"
+      dat: "betonu"
+      ins: "betonom"
+      voc: "betone"

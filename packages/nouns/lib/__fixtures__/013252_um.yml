@@ -1,0 +1,22 @@
+---
+  id: "13252"
+  word: "um"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "um"
+      acc: "um"
+      gen: "uma"
+      loc: "umu"
+      dat: "umu"
+      ins: "umom"
+      voc: "um"
+    plural: 
+      nom: "uma"
+      acc: "uma"
+      gen: "um"
+      loc: "umah"
+      dat: "umam"
+      ins: "umami"
+      voc: "uma"

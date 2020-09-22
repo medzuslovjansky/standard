@@ -1,0 +1,22 @@
+---
+  id: "715"
+  word: "ideologija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ideologija"
+      acc: "ideologijų"
+      gen: "ideologije"
+      loc: "ideologiji"
+      dat: "ideologiji"
+      ins: "ideologijejų"
+      voc: "ideologijo"
+    plural: 
+      nom: "ideologije"
+      acc: "ideologije"
+      gen: "ideologij"
+      loc: "ideologijah"
+      dat: "ideologijam"
+      ins: "ideologijami"
+      voc: "ideologije"

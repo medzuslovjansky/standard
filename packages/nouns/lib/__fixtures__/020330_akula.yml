@@ -1,0 +1,22 @@
+---
+  id: "20330"
+  word: "akula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akula"
+      acc: "akulų"
+      gen: "akuly"
+      loc: "akulě"
+      dat: "akulě"
+      ins: "akulojų"
+      voc: "akulo"
+    plural: 
+      nom: "akuly"
+      acc: "akuly"
+      gen: "akul"
+      loc: "akulah"
+      dat: "akulam"
+      ins: "akulami"
+      voc: "akuly"

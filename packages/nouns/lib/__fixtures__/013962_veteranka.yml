@@ -1,0 +1,22 @@
+---
+  id: "13962"
+  word: "veteranka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veteranka"
+      acc: "veterankų"
+      gen: "veteranky"
+      loc: "veterankě"
+      dat: "veterankě"
+      ins: "veterankojų"
+      voc: "veteranko"
+    plural: 
+      nom: "veteranky"
+      acc: "veteranky"
+      gen: "veteranȯk"
+      loc: "veterankah"
+      dat: "veterankam"
+      ins: "veterankami"
+      voc: "veteranky"

@@ -1,0 +1,22 @@
+---
+  id: "11788"
+  word: "råziskyvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råziskyvańje"
+      acc: "råziskyvańje"
+      gen: "råziskyvańja"
+      loc: "råziskyvańju"
+      dat: "råziskyvańju"
+      ins: "råziskyvańjem"
+      voc: "råziskyvańje"
+    plural: 
+      nom: "råziskyvańja"
+      acc: "råziskyvańja"
+      gen: "råziskyvanij"
+      loc: "råziskyvańjah"
+      dat: "råziskyvańjam"
+      ins: "råziskyvańjami"
+      voc: "råziskyvańja"

@@ -1,0 +1,22 @@
+---
+  id: "20501"
+  word: "mųť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųť"
+      acc: "mųť"
+      gen: "mųti"
+      loc: "mųti"
+      dat: "mųti"
+      ins: "mųťjų"
+      voc: "mųti"
+    plural: 
+      nom: "mųti"
+      acc: "mųti"
+      gen: "mųtij"
+      loc: "mųťah"
+      dat: "mųťam"
+      ins: "mųťami"
+      voc: "mųti"

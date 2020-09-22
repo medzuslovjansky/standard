@@ -1,0 +1,22 @@
+---
+  id: "4682"
+  word: "opasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opasnosť"
+      acc: "opasnosť"
+      gen: "opasnosti"
+      loc: "opasnosti"
+      dat: "opasnosti"
+      ins: "opasnosťjų"
+      voc: "opasnosti"
+    plural: 
+      nom: "opasnosti"
+      acc: "opasnosti"
+      gen: "opasnostij"
+      loc: "opasnosťah"
+      dat: "opasnosťam"
+      ins: "opasnosťami"
+      voc: "opasnosti"

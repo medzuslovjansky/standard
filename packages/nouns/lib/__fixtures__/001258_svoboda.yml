@@ -1,0 +1,22 @@
+---
+  id: "1258"
+  word: "svoboda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svoboda"
+      acc: "svobodų"
+      gen: "svobody"
+      loc: "svobodě"
+      dat: "svobodě"
+      ins: "svobodojų"
+      voc: "svobodo"
+    plural: 
+      nom: "svobody"
+      acc: "svobody"
+      gen: "svobod"
+      loc: "svobodah"
+      dat: "svobodam"
+      ins: "svobodami"
+      voc: "svobody"

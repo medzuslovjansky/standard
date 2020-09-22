@@ -1,0 +1,23 @@
+---
+  id: "32476"
+  word: "dinozavr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dinozavr"
+      acc: "dinozavra"
+      gen: "dinozavra"
+      loc: "dinozavru"
+      dat: "dinozavru"
+      ins: "dinozavrom"
+      voc: "dinozavre"
+    plural: 
+      nom: "dinozavri"
+      acc: "dinozavrov"
+      gen: "dinozavrov"
+      loc: "dinozavrah"
+      dat: "dinozavram"
+      ins: "dinozavrami"
+      voc: "dinozavri"

@@ -1,0 +1,22 @@
+---
+  id: "24964"
+  word: "čečetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čečetka"
+      acc: "čečetkų"
+      gen: "čečetky"
+      loc: "čečetkě"
+      dat: "čečetkě"
+      ins: "čečetkojų"
+      voc: "čečetko"
+    plural: 
+      nom: "čečetky"
+      acc: "čečetky"
+      gen: "čečetȯk"
+      loc: "čečetkah"
+      dat: "čečetkam"
+      ins: "čečetkami"
+      voc: "čečetky"

@@ -1,0 +1,22 @@
+---
+  id: "799"
+  word: "konferencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konferencija"
+      acc: "konferencijų"
+      gen: "konferencije"
+      loc: "konferenciji"
+      dat: "konferenciji"
+      ins: "konferencijejų"
+      voc: "konferencijo"
+    plural: 
+      nom: "konferencije"
+      acc: "konferencije"
+      gen: "konferencij"
+      loc: "konferencijah"
+      dat: "konferencijam"
+      ins: "konferencijami"
+      voc: "konferencije"

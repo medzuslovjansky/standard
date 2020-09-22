@@ -1,0 +1,22 @@
+---
+  id: "16334"
+  word: "mnogovųgȯľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mnogovųgȯľnik"
+      acc: "mnogovųgȯľnik"
+      gen: "mnogovųgȯľnika"
+      loc: "mnogovųgȯľniku"
+      dat: "mnogovųgȯľniku"
+      ins: "mnogovųgȯľnikom"
+      voc: "mnogovųgȯľniče"
+    plural: 
+      nom: "mnogovųgȯľniky"
+      acc: "mnogovųgȯľniky"
+      gen: "mnogovųgȯľnikov"
+      loc: "mnogovųgȯľnikah"
+      dat: "mnogovųgȯľnikam"
+      ins: "mnogovųgȯľnikami"
+      voc: "mnogovųgȯľniky"

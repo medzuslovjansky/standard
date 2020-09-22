@@ -1,0 +1,22 @@
+---
+  id: "4653"
+  word: "zavod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zavod"
+      acc: "zavod"
+      gen: "zavoda"
+      loc: "zavodu"
+      dat: "zavodu"
+      ins: "zavodom"
+      voc: "zavode"
+    plural: 
+      nom: "zavody"
+      acc: "zavody"
+      gen: "zavodov"
+      loc: "zavodah"
+      dat: "zavodam"
+      ins: "zavodami"
+      voc: "zavody"

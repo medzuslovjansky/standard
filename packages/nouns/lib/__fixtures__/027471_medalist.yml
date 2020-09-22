@@ -1,0 +1,23 @@
+---
+  id: "27471"
+  word: "medalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medalist"
+      acc: "medalista"
+      gen: "medalista"
+      loc: "medalistu"
+      dat: "medalistu"
+      ins: "medalistom"
+      voc: "medaliste"
+    plural: 
+      nom: "medalisti"
+      acc: "medalistov"
+      gen: "medalistov"
+      loc: "medalistah"
+      dat: "medalistam"
+      ins: "medalistami"
+      voc: "medalisti"

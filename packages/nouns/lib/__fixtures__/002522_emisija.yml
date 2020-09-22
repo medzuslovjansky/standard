@@ -1,0 +1,22 @@
+---
+  id: "2522"
+  word: "emisija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "emisija"
+      acc: "emisijų"
+      gen: "emisije"
+      loc: "emisiji"
+      dat: "emisiji"
+      ins: "emisijejų"
+      voc: "emisijo"
+    plural: 
+      nom: "emisije"
+      acc: "emisije"
+      gen: "emisij"
+      loc: "emisijah"
+      dat: "emisijam"
+      ins: "emisijami"
+      voc: "emisije"

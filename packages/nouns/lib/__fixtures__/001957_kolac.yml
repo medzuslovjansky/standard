@@ -1,0 +1,22 @@
+---
+  id: "1957"
+  word: "kolač"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kolač"
+      acc: "kolač"
+      gen: "kolača"
+      loc: "kolaču"
+      dat: "kolaču"
+      ins: "kolačem"
+      voc: "kolaču"
+    plural: 
+      nom: "kolače"
+      acc: "kolače"
+      gen: "kolačev"
+      loc: "kolačah"
+      dat: "kolačam"
+      ins: "kolačami"
+      voc: "kolače"

@@ -1,0 +1,22 @@
+---
+  id: "17684"
+  word: "korelativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "korelativ"
+      acc: "korelativ"
+      gen: "korelativa"
+      loc: "korelativu"
+      dat: "korelativu"
+      ins: "korelativom"
+      voc: "korelative"
+    plural: 
+      nom: "korelativy"
+      acc: "korelativy"
+      gen: "korelativov"
+      loc: "korelativah"
+      dat: "korelativam"
+      ins: "korelativami"
+      voc: "korelativy"

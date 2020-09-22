@@ -1,0 +1,22 @@
+---
+  id: "740"
+  word: "jednosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jednosť"
+      acc: "jednosť"
+      gen: "jednosti"
+      loc: "jednosti"
+      dat: "jednosti"
+      ins: "jednosťjų"
+      voc: "jednosti"
+    plural: 
+      nom: "jednosti"
+      acc: "jednosti"
+      gen: "jednostij"
+      loc: "jednosťah"
+      dat: "jednosťam"
+      ins: "jednosťami"
+      voc: "jednosti"

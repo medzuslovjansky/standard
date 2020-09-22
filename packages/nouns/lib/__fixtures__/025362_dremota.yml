@@ -1,0 +1,22 @@
+---
+  id: "25362"
+  word: "drěmota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "drěmota"
+      acc: "drěmotų"
+      gen: "drěmoty"
+      loc: "drěmotě"
+      dat: "drěmotě"
+      ins: "drěmotojų"
+      voc: "drěmoto"
+    plural: 
+      nom: "drěmoty"
+      acc: "drěmoty"
+      gen: "drěmot"
+      loc: "drěmotah"
+      dat: "drěmotam"
+      ins: "drěmotami"
+      voc: "drěmoty"

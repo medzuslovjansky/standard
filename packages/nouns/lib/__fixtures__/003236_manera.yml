@@ -1,0 +1,22 @@
+---
+  id: "3236"
+  word: "manera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "manera"
+      acc: "manerų"
+      gen: "manery"
+      loc: "manerě"
+      dat: "manerě"
+      ins: "manerojų"
+      voc: "manero"
+    plural: 
+      nom: "manery"
+      acc: "manery"
+      gen: "maner"
+      loc: "manerah"
+      dat: "maneram"
+      ins: "manerami"
+      voc: "manery"

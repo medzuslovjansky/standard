@@ -1,0 +1,22 @@
+---
+  id: "23650"
+  word: "maternica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maternica"
+      acc: "maternicų"
+      gen: "maternice"
+      loc: "maternici"
+      dat: "maternici"
+      ins: "maternicejų"
+      voc: "maternico"
+    plural: 
+      nom: "maternice"
+      acc: "maternice"
+      gen: "maternic"
+      loc: "maternicah"
+      dat: "maternicam"
+      ins: "maternicami"
+      voc: "maternice"

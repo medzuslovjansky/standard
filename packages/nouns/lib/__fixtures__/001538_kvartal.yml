@@ -1,0 +1,22 @@
+---
+  id: "1538"
+  word: "kvartal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kvartal"
+      acc: "kvartal"
+      gen: "kvartala"
+      loc: "kvartalu"
+      dat: "kvartalu"
+      ins: "kvartalom"
+      voc: "kvartale"
+    plural: 
+      nom: "kvartaly"
+      acc: "kvartaly"
+      gen: "kvartalov"
+      loc: "kvartalah"
+      dat: "kvartalam"
+      ins: "kvartalami"
+      voc: "kvartaly"

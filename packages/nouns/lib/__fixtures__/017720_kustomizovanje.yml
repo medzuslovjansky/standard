@@ -1,0 +1,22 @@
+---
+  id: "17720"
+  word: "kustomizovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kustomizovańje"
+      acc: "kustomizovańje"
+      gen: "kustomizovańja"
+      loc: "kustomizovańju"
+      dat: "kustomizovańju"
+      ins: "kustomizovańjem"
+      voc: "kustomizovańje"
+    plural: 
+      nom: "kustomizovańja"
+      acc: "kustomizovańja"
+      gen: "kustomizovanij"
+      loc: "kustomizovańjah"
+      dat: "kustomizovańjam"
+      ins: "kustomizovańjami"
+      voc: "kustomizovańja"

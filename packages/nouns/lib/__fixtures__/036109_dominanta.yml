@@ -1,0 +1,22 @@
+---
+  id: "36109"
+  word: "dominanta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dominanta"
+      acc: "dominantų"
+      gen: "dominanty"
+      loc: "dominantě"
+      dat: "dominantě"
+      ins: "dominantojų"
+      voc: "dominanto"
+    plural: 
+      nom: "dominanty"
+      acc: "dominanty"
+      gen: "dominant"
+      loc: "dominantah"
+      dat: "dominantam"
+      ins: "dominantami"
+      voc: "dominanty"

@@ -1,0 +1,22 @@
+---
+  id: "5231"
+  word: "dŕžak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dŕžak"
+      acc: "dŕžak"
+      gen: "dŕžaka"
+      loc: "dŕžaku"
+      dat: "dŕžaku"
+      ins: "dŕžakom"
+      voc: "dŕžače"
+    plural: 
+      nom: "dŕžaky"
+      acc: "dŕžaky"
+      gen: "dŕžakov"
+      loc: "dŕžakah"
+      dat: "dŕžakam"
+      ins: "dŕžakami"
+      voc: "dŕžaky"

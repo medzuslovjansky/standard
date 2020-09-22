@@ -1,0 +1,23 @@
+---
+  id: "2007"
+  word: "kandidat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kandidat"
+      acc: "kandidata"
+      gen: "kandidata"
+      loc: "kandidatu"
+      dat: "kandidatu"
+      ins: "kandidatom"
+      voc: "kandidate"
+    plural: 
+      nom: "kandidati"
+      acc: "kandidatov"
+      gen: "kandidatov"
+      loc: "kandidatah"
+      dat: "kandidatam"
+      ins: "kandidatami"
+      voc: "kandidati"

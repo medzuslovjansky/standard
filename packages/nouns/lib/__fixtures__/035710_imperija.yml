@@ -1,0 +1,22 @@
+---
+  id: "35710"
+  word: "imperija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "imperija"
+      acc: "imperijų"
+      gen: "imperije"
+      loc: "imperiji"
+      dat: "imperiji"
+      ins: "imperijejų"
+      voc: "imperijo"
+    plural: 
+      nom: "imperije"
+      acc: "imperije"
+      gen: "imperij"
+      loc: "imperijah"
+      dat: "imperijam"
+      ins: "imperijami"
+      voc: "imperije"

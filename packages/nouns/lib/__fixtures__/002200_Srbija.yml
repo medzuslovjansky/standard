@@ -1,0 +1,15 @@
+---
+  id: "2200"
+  word: "Sŕbija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Sŕbija"
+      acc: "Sŕbijų"
+      gen: "Sŕbije"
+      loc: "Sŕbiji"
+      dat: "Sŕbiji"
+      ins: "Sŕbijejų"
+      voc: "Sŕbijo"

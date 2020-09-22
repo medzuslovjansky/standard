@@ -1,0 +1,22 @@
+---
+  id: "1824"
+  word: "boljšesť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "boljšesť"
+      acc: "boljšesť"
+      gen: "boljšesti"
+      loc: "boljšesti"
+      dat: "boljšesti"
+      ins: "boljšesťjų"
+      voc: "boljšesti"
+    plural: 
+      nom: "boljšesti"
+      acc: "boljšesti"
+      gen: "boljšestij"
+      loc: "boljšesťah"
+      dat: "boljšesťam"
+      ins: "boljšesťami"
+      voc: "boljšesti"

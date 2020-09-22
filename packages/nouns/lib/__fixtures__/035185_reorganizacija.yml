@@ -1,0 +1,22 @@
+---
+  id: "35185"
+  word: "reorganizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reorganizacija"
+      acc: "reorganizacijų"
+      gen: "reorganizacije"
+      loc: "reorganizaciji"
+      dat: "reorganizaciji"
+      ins: "reorganizacijejų"
+      voc: "reorganizacijo"
+    plural: 
+      nom: "reorganizacije"
+      acc: "reorganizacije"
+      gen: "reorganizacij"
+      loc: "reorganizacijah"
+      dat: "reorganizacijam"
+      ins: "reorganizacijami"
+      voc: "reorganizacije"

@@ -1,0 +1,22 @@
+---
+  id: "4248"
+  word: "strěľba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strěľba"
+      acc: "strěľbų"
+      gen: "strěľby"
+      loc: "strěľbě"
+      dat: "strěľbě"
+      ins: "strěľbojų"
+      voc: "strěľbo"
+    plural: 
+      nom: "strěľby"
+      acc: "strěľby"
+      gen: "strěľb"
+      loc: "strěľbah"
+      dat: "strěľbam"
+      ins: "strěľbami"
+      voc: "strěľby"

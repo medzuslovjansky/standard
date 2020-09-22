@@ -1,0 +1,22 @@
+---
+  id: "9026"
+  word: "zamedljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zamedljeńje"
+      acc: "zamedljeńje"
+      gen: "zamedljeńja"
+      loc: "zamedljeńju"
+      dat: "zamedljeńju"
+      ins: "zamedljeńjem"
+      voc: "zamedljeńje"
+    plural: 
+      nom: "zamedljeńja"
+      acc: "zamedljeńja"
+      gen: "zamedljenij"
+      loc: "zamedljeńjah"
+      dat: "zamedljeńjam"
+      ins: "zamedljeńjami"
+      voc: "zamedljeńja"

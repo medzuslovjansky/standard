@@ -1,0 +1,22 @@
+---
+  id: "11895"
+  word: "råzumlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzumlivosť"
+      acc: "råzumlivosť"
+      gen: "råzumlivosti"
+      loc: "råzumlivosti"
+      dat: "råzumlivosti"
+      ins: "råzumlivosťjų"
+      voc: "råzumlivosti"
+    plural: 
+      nom: "råzumlivosti"
+      acc: "råzumlivosti"
+      gen: "råzumlivostij"
+      loc: "råzumlivosťah"
+      dat: "råzumlivosťam"
+      ins: "råzumlivosťami"
+      voc: "råzumlivosti"

@@ -1,0 +1,23 @@
+---
+  id: "854"
+  word: "komisaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "komisaŕ"
+      acc: "komisaŕa"
+      gen: "komisaŕa"
+      loc: "komisaŕu"
+      dat: "komisaŕu"
+      ins: "komisaŕem"
+      voc: "komisaŕu"
+    plural: 
+      nom: "komisari"
+      acc: "komisaŕev"
+      gen: "komisaŕev"
+      loc: "komisaŕah"
+      dat: "komisaŕam"
+      ins: "komisaŕami"
+      voc: "komisari"

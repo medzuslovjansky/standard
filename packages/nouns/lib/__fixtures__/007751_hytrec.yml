@@ -1,0 +1,23 @@
+---
+  id: "7751"
+  word: "hytrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hytrec"
+      acc: "hytreca"
+      gen: "hytreca"
+      loc: "hytrecu"
+      dat: "hytrecu"
+      ins: "hytrecem"
+      voc: "hytreče"
+    plural: 
+      nom: "hytreci"
+      acc: "hytrecev"
+      gen: "hytrecev"
+      loc: "hytrecah"
+      dat: "hytrecam"
+      ins: "hytrecami"
+      voc: "hytreci"

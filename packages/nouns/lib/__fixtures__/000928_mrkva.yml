@@ -1,0 +1,22 @@
+---
+  id: "928"
+  word: "mrkva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mrkva"
+      acc: "mrkvų"
+      gen: "mrkvy"
+      loc: "mrkvě"
+      dat: "mrkvě"
+      ins: "mrkvojų"
+      voc: "mrkvo"
+    plural: 
+      nom: "mrkvy"
+      acc: "mrkvy"
+      gen: "mrkv"
+      loc: "mrkvah"
+      dat: "mrkvam"
+      ins: "mrkvami"
+      voc: "mrkvy"

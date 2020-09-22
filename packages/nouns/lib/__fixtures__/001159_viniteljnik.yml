@@ -1,0 +1,29 @@
+---
+  - 
+    id: "1159"
+    word: "viniteljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "viniteljnik"
+        acc: "viniteljnik"
+        gen: "viniteljnika"
+        loc: "viniteljniku"
+        dat: "viniteljniku"
+        ins: "viniteljnikom"
+        voc: "viniteljniče"
+      plural: 
+        nom: "viniteljniky"
+        acc: "viniteljniky"
+        gen: "viniteljnikov"
+        loc: "viniteljnikah"
+        dat: "viniteljnikam"
+        ins: "viniteljnikami"
+        voc: "viniteljniky"
+  - 
+    id: "1159"
+    word: "viniteljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

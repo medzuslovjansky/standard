@@ -1,0 +1,15 @@
+---
+  id: "22605"
+  word: "neon"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "neon"
+      acc: "neon"
+      gen: "neona"
+      loc: "neonu"
+      dat: "neonu"
+      ins: "neonom"
+      voc: "neone"

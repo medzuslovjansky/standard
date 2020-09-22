@@ -1,0 +1,22 @@
+---
+  id: "26242"
+  word: "sråzumělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sråzumělosť"
+      acc: "sråzumělosť"
+      gen: "sråzumělosti"
+      loc: "sråzumělosti"
+      dat: "sråzumělosti"
+      ins: "sråzumělosťjų"
+      voc: "sråzumělosti"
+    plural: 
+      nom: "sråzumělosti"
+      acc: "sråzumělosti"
+      gen: "sråzumělostij"
+      loc: "sråzumělosťah"
+      dat: "sråzumělosťam"
+      ins: "sråzumělosťami"
+      voc: "sråzumělosti"

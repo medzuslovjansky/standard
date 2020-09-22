@@ -1,0 +1,22 @@
+---
+  id: "23857"
+  word: "pomilovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pomilovańje"
+      acc: "pomilovańje"
+      gen: "pomilovańja"
+      loc: "pomilovańju"
+      dat: "pomilovańju"
+      ins: "pomilovańjem"
+      voc: "pomilovańje"
+    plural: 
+      nom: "pomilovańja"
+      acc: "pomilovańja"
+      gen: "pomilovanij"
+      loc: "pomilovańjah"
+      dat: "pomilovańjam"
+      ins: "pomilovańjami"
+      voc: "pomilovańja"

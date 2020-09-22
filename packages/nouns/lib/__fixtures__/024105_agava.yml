@@ -1,0 +1,22 @@
+---
+  id: "24105"
+  word: "agava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "agava"
+      acc: "agavų"
+      gen: "agavy"
+      loc: "agavě"
+      dat: "agavě"
+      ins: "agavojų"
+      voc: "agavo"
+    plural: 
+      nom: "agavy"
+      acc: "agavy"
+      gen: "agav"
+      loc: "agavah"
+      dat: "agavam"
+      ins: "agavami"
+      voc: "agavy"

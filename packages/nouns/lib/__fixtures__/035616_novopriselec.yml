@@ -1,0 +1,23 @@
+---
+  id: "35616"
+  word: "novoprišelec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "novoprišelec"
+      acc: "novoprišelca"
+      gen: "novoprišelca"
+      loc: "novoprišelcu"
+      dat: "novoprišelcu"
+      ins: "novoprišelcem"
+      voc: "novoprišelče"
+    plural: 
+      nom: "novoprišelci"
+      acc: "novoprišelcev"
+      gen: "novoprišelcev"
+      loc: "novoprišelcah"
+      dat: "novoprišelcam"
+      ins: "novoprišelcami"
+      voc: "novoprišelci"

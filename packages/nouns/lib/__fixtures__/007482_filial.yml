@@ -1,0 +1,22 @@
+---
+  id: "7482"
+  word: "filial"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "filial"
+      acc: "filial"
+      gen: "filiala"
+      loc: "filialu"
+      dat: "filialu"
+      ins: "filialom"
+      voc: "filiale"
+    plural: 
+      nom: "filialy"
+      acc: "filialy"
+      gen: "filialov"
+      loc: "filialah"
+      dat: "filialam"
+      ins: "filialami"
+      voc: "filialy"

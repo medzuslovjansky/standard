@@ -1,0 +1,22 @@
+---
+  id: "22799"
+  word: "sirota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sirota"
+      acc: "sirotų"
+      gen: "siroty"
+      loc: "sirotě"
+      dat: "sirotě"
+      ins: "sirotojų"
+      voc: "siroto"
+    plural: 
+      nom: "siroty"
+      acc: "siroty"
+      gen: "sirot"
+      loc: "sirotah"
+      dat: "sirotam"
+      ins: "sirotami"
+      voc: "siroty"

@@ -1,0 +1,22 @@
+---
+  id: "5124"
+  word: "propozicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "propozicija"
+      acc: "propozicijų"
+      gen: "propozicije"
+      loc: "propoziciji"
+      dat: "propoziciji"
+      ins: "propozicijejų"
+      voc: "propozicijo"
+    plural: 
+      nom: "propozicije"
+      acc: "propozicije"
+      gen: "propozicij"
+      loc: "propozicijah"
+      dat: "propozicijam"
+      ins: "propozicijami"
+      voc: "propozicije"

@@ -1,0 +1,23 @@
+---
+  id: "22748"
+  word: "ćuđezemec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ćuđezemec"
+      acc: "ćuđezemca"
+      gen: "ćuđezemca"
+      loc: "ćuđezemcu"
+      dat: "ćuđezemcu"
+      ins: "ćuđezemcem"
+      voc: "ćuđezemče"
+    plural: 
+      nom: "ćuđezemci"
+      acc: "ćuđezemcev"
+      gen: "ćuđezemcev"
+      loc: "ćuđezemcah"
+      dat: "ćuđezemcam"
+      ins: "ćuđezemcami"
+      voc: "ćuđezemci"

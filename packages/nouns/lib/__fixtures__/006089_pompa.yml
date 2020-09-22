@@ -1,0 +1,22 @@
+---
+  id: "6089"
+  word: "pompa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pompa"
+      acc: "pompų"
+      gen: "pompy"
+      loc: "pompě"
+      dat: "pompě"
+      ins: "pompojų"
+      voc: "pompo"
+    plural: 
+      nom: "pompy"
+      acc: "pompy"
+      gen: "pomp"
+      loc: "pompah"
+      dat: "pompam"
+      ins: "pompami"
+      voc: "pompy"

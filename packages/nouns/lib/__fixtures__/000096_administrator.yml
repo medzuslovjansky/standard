@@ -1,0 +1,23 @@
+---
+  id: "96"
+  word: "administrator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "administrator"
+      acc: "administratora"
+      gen: "administratora"
+      loc: "administratoru"
+      dat: "administratoru"
+      ins: "administratorom"
+      voc: "administratore"
+    plural: 
+      nom: "administratori"
+      acc: "administratorov"
+      gen: "administratorov"
+      loc: "administratorah"
+      dat: "administratoram"
+      ins: "administratorami"
+      voc: "administratori"

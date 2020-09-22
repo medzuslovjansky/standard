@@ -1,0 +1,23 @@
+---
+  id: "1274"
+  word: "klěnj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "klěnj"
+      acc: "klěnja"
+      gen: "klěnja"
+      loc: "klěnju"
+      dat: "klěnju"
+      ins: "klěnjem"
+      voc: "klěnju"
+    plural: 
+      nom: "klěnji"
+      acc: "klěnjev"
+      gen: "klěnjev"
+      loc: "klěnjah"
+      dat: "klěnjam"
+      ins: "klěnjami"
+      voc: "klěnji"

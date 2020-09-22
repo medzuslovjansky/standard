@@ -1,0 +1,22 @@
+---
+  id: "31687"
+  word: "zvonica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zvonica"
+      acc: "zvonicų"
+      gen: "zvonice"
+      loc: "zvonici"
+      dat: "zvonici"
+      ins: "zvonicejų"
+      voc: "zvonico"
+    plural: 
+      nom: "zvonice"
+      acc: "zvonice"
+      gen: "zvonic"
+      loc: "zvonicah"
+      dat: "zvonicam"
+      ins: "zvonicami"
+      voc: "zvonice"

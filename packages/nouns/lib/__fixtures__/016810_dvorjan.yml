@@ -1,0 +1,47 @@
+---
+  - 
+    id: "16810"
+    word: "dvorjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "dvorjan"
+        acc: "dvorjana"
+        gen: "dvorjana"
+        loc: "dvorjanu"
+        dat: "dvorjanu"
+        ins: "dvorjanom"
+        voc: "dvorjane"
+      plural: 
+        nom: "dvorjani"
+        acc: "dvorjanov"
+        gen: "dvorjanov"
+        loc: "dvorjanah"
+        dat: "dvorjanam"
+        ins: "dvorjanami"
+        voc: "dvorjani"
+  - 
+    id: "16810"
+    word: "dvorjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "dvorjanin"
+        acc: "dvorjanina"
+        gen: "dvorjanina"
+        loc: "dvorjaninu"
+        dat: "dvorjaninu"
+        ins: "dvorjaninom"
+        voc: "dvorjanine"
+      plural: 
+        nom: "dvorjani"
+        acc: "dvorjanov"
+        gen: "dvorjanov"
+        loc: "dvorjanah"
+        dat: "dvorjanam"
+        ins: "dvorjanami"
+        voc: "dvorjani"

@@ -1,0 +1,22 @@
+---
+  id: "18256"
+  word: "podhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podhod"
+      acc: "podhod"
+      gen: "podhoda"
+      loc: "podhodu"
+      dat: "podhodu"
+      ins: "podhodom"
+      voc: "podhode"
+    plural: 
+      nom: "podhody"
+      acc: "podhody"
+      gen: "podhodov"
+      loc: "podhodah"
+      dat: "podhodam"
+      ins: "podhodami"
+      voc: "podhody"

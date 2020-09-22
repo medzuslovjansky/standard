@@ -1,0 +1,22 @@
+---
+  id: "171"
+  word: "radio"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "radio"
+      acc: "radio"
+      gen: "radia"
+      loc: "radiu"
+      dat: "radiu"
+      ins: "radiom"
+      voc: "radio"
+    plural: 
+      nom: "radia"
+      acc: "radia"
+      gen: "radi"
+      loc: "radiah"
+      dat: "radiam"
+      ins: "radiami"
+      voc: "radia"

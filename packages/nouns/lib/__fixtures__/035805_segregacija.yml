@@ -1,0 +1,22 @@
+---
+  id: "35805"
+  word: "segregacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "segregacija"
+      acc: "segregacijų"
+      gen: "segregacije"
+      loc: "segregaciji"
+      dat: "segregaciji"
+      ins: "segregacijejų"
+      voc: "segregacijo"
+    plural: 
+      nom: "segregacije"
+      acc: "segregacije"
+      gen: "segregacij"
+      loc: "segregacijah"
+      dat: "segregacijam"
+      ins: "segregacijami"
+      voc: "segregacije"

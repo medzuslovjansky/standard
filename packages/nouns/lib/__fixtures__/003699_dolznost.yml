@@ -1,0 +1,22 @@
+---
+  id: "3699"
+  word: "dȯlžnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯlžnosť"
+      acc: "dȯlžnosť"
+      gen: "dȯlžnosti"
+      loc: "dȯlžnosti"
+      dat: "dȯlžnosti"
+      ins: "dȯlžnosťjų"
+      voc: "dȯlžnosti"
+    plural: 
+      nom: "dȯlžnosti"
+      acc: "dȯlžnosti"
+      gen: "dȯlžnostij"
+      loc: "dȯlžnosťah"
+      dat: "dȯlžnosťam"
+      ins: "dȯlžnosťami"
+      voc: "dȯlžnosti"

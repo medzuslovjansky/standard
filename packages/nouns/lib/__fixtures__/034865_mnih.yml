@@ -1,0 +1,23 @@
+---
+  id: "34865"
+  word: "mnih"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mnih"
+      acc: "mniha"
+      gen: "mniha"
+      loc: "mnihu"
+      dat: "mnihu"
+      ins: "mnihom"
+      voc: "mniše"
+    plural: 
+      nom: "mnihi"
+      acc: "mnihov"
+      gen: "mnihov"
+      loc: "mnihah"
+      dat: "mniham"
+      ins: "mnihami"
+      voc: "mnihi"

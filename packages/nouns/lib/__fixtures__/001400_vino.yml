@@ -1,0 +1,22 @@
+---
+  id: "1400"
+  word: "vino"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vino"
+      acc: "vino"
+      gen: "vina"
+      loc: "vinu"
+      dat: "vinu"
+      ins: "vinom"
+      voc: "vino"
+    plural: 
+      nom: "vina"
+      acc: "vina"
+      gen: "vin"
+      loc: "vinah"
+      dat: "vinam"
+      ins: "vinami"
+      voc: "vina"

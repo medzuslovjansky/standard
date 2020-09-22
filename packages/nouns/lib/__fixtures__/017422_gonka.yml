@@ -1,0 +1,22 @@
+---
+  id: "17422"
+  word: "gonka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gonka"
+      acc: "gonkų"
+      gen: "gonky"
+      loc: "gonkě"
+      dat: "gonkě"
+      ins: "gonkojų"
+      voc: "gonko"
+    plural: 
+      nom: "gonky"
+      acc: "gonky"
+      gen: "gonȯk"
+      loc: "gonkah"
+      dat: "gonkam"
+      ins: "gonkami"
+      voc: "gonky"

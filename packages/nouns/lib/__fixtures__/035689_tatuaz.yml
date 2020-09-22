@@ -1,0 +1,22 @@
+---
+  id: "35689"
+  word: "tatuaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tatuaž"
+      acc: "tatuaž"
+      gen: "tatuaža"
+      loc: "tatuažu"
+      dat: "tatuažu"
+      ins: "tatuažem"
+      voc: "tatuažu"
+    plural: 
+      nom: "tatuaže"
+      acc: "tatuaže"
+      gen: "tatuažev"
+      loc: "tatuažah"
+      dat: "tatuažam"
+      ins: "tatuažami"
+      voc: "tatuaže"

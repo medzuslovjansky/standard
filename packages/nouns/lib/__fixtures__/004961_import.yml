@@ -1,0 +1,15 @@
+---
+  id: "4961"
+  word: "import"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "import"
+      acc: "import"
+      gen: "importa"
+      loc: "importu"
+      dat: "importu"
+      ins: "importom"
+      voc: "importe"

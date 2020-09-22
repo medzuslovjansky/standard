@@ -1,0 +1,23 @@
+---
+  id: "17340"
+  word: "drěvorųb"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "drěvorųb"
+      acc: "drěvorųba"
+      gen: "drěvorųba"
+      loc: "drěvorųbu"
+      dat: "drěvorųbu"
+      ins: "drěvorųbom"
+      voc: "drěvorųbe"
+    plural: 
+      nom: "drěvorųbi"
+      acc: "drěvorųbov"
+      gen: "drěvorųbov"
+      loc: "drěvorųbah"
+      dat: "drěvorųbam"
+      ins: "drěvorųbami"
+      voc: "drěvorųbi"

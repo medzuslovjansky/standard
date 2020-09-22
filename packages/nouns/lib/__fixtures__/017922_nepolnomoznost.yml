@@ -1,0 +1,22 @@
+---
+  id: "17922"
+  word: "nepȯlnomožnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepȯlnomožnosť"
+      acc: "nepȯlnomožnosť"
+      gen: "nepȯlnomožnosti"
+      loc: "nepȯlnomožnosti"
+      dat: "nepȯlnomožnosti"
+      ins: "nepȯlnomožnosťjų"
+      voc: "nepȯlnomožnosti"
+    plural: 
+      nom: "nepȯlnomožnosti"
+      acc: "nepȯlnomožnosti"
+      gen: "nepȯlnomožnostij"
+      loc: "nepȯlnomožnosťah"
+      dat: "nepȯlnomožnosťam"
+      ins: "nepȯlnomožnosťami"
+      voc: "nepȯlnomožnosti"

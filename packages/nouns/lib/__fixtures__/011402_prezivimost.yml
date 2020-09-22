@@ -1,0 +1,22 @@
+---
+  id: "11402"
+  word: "prěživimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěživimosť"
+      acc: "prěživimosť"
+      gen: "prěživimosti"
+      loc: "prěživimosti"
+      dat: "prěživimosti"
+      ins: "prěživimosťjų"
+      voc: "prěživimosti"
+    plural: 
+      nom: "prěživimosti"
+      acc: "prěživimosti"
+      gen: "prěživimostij"
+      loc: "prěživimosťah"
+      dat: "prěživimosťam"
+      ins: "prěživimosťami"
+      voc: "prěživimosti"

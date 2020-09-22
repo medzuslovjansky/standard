@@ -1,0 +1,23 @@
+---
+  id: "4227"
+  word: "kameraman"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kameraman"
+      acc: "kameramana"
+      gen: "kameramana"
+      loc: "kameramanu"
+      dat: "kameramanu"
+      ins: "kameramanom"
+      voc: "kameramane"
+    plural: 
+      nom: "kameramani"
+      acc: "kameramanov"
+      gen: "kameramanov"
+      loc: "kameramanah"
+      dat: "kameramanam"
+      ins: "kameramanami"
+      voc: "kameramani"

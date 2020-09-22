@@ -1,0 +1,23 @@
+---
+  id: "14591"
+  word: "gųslaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gųslaŕ"
+      acc: "gųslaŕa"
+      gen: "gųslaŕa"
+      loc: "gųslaŕu"
+      dat: "gųslaŕu"
+      ins: "gųslaŕem"
+      voc: "gųslaŕu"
+    plural: 
+      nom: "gųslari"
+      acc: "gųslaŕev"
+      gen: "gųslaŕev"
+      loc: "gųslaŕah"
+      dat: "gųslaŕam"
+      ins: "gųslaŕami"
+      voc: "gųslari"

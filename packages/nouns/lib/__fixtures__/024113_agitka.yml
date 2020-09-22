@@ -1,0 +1,22 @@
+---
+  id: "24113"
+  word: "agitka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "agitka"
+      acc: "agitkų"
+      gen: "agitky"
+      loc: "agitkě"
+      dat: "agitkě"
+      ins: "agitkojų"
+      voc: "agitko"
+    plural: 
+      nom: "agitky"
+      acc: "agitky"
+      gen: "agitȯk"
+      loc: "agitkah"
+      dat: "agitkam"
+      ins: "agitkami"
+      voc: "agitky"

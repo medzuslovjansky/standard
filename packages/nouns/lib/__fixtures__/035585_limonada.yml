@@ -1,0 +1,22 @@
+---
+  id: "35585"
+  word: "limonada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "limonada"
+      acc: "limonadų"
+      gen: "limonady"
+      loc: "limonadě"
+      dat: "limonadě"
+      ins: "limonadojų"
+      voc: "limonado"
+    plural: 
+      nom: "limonady"
+      acc: "limonady"
+      gen: "limonad"
+      loc: "limonadah"
+      dat: "limonadam"
+      ins: "limonadami"
+      voc: "limonady"

@@ -1,0 +1,22 @@
+---
+  id: "21649"
+  word: "vyrok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vyrok"
+      acc: "vyrok"
+      gen: "vyroka"
+      loc: "vyroku"
+      dat: "vyroku"
+      ins: "vyrokom"
+      voc: "vyroče"
+    plural: 
+      nom: "vyroky"
+      acc: "vyroky"
+      gen: "vyrokov"
+      loc: "vyrokah"
+      dat: "vyrokam"
+      ins: "vyrokami"
+      voc: "vyroky"

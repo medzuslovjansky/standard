@@ -1,0 +1,23 @@
+---
+  id: "17662"
+  word: "knęžić"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "knęžić"
+      acc: "knęžića"
+      gen: "knęžića"
+      loc: "knęžiću"
+      dat: "knęžiću"
+      ins: "knęžićem"
+      voc: "knęžiću"
+    plural: 
+      nom: "knęžići"
+      acc: "knęžićev"
+      gen: "knęžićev"
+      loc: "knęžićah"
+      dat: "knęžićam"
+      ins: "knęžićami"
+      voc: "knęžići"

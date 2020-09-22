@@ -1,0 +1,22 @@
+---
+  id: "6263"
+  word: "aparat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aparat"
+      acc: "aparat"
+      gen: "aparata"
+      loc: "aparatu"
+      dat: "aparatu"
+      ins: "aparatom"
+      voc: "aparate"
+    plural: 
+      nom: "aparaty"
+      acc: "aparaty"
+      gen: "aparatov"
+      loc: "aparatah"
+      dat: "aparatam"
+      ins: "aparatami"
+      voc: "aparaty"

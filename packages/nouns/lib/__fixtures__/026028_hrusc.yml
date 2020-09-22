@@ -1,0 +1,23 @@
+---
+  id: "26028"
+  word: "hrųšč"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hrųšč"
+      acc: "hrųšča"
+      gen: "hrųšča"
+      loc: "hrųšču"
+      dat: "hrųšču"
+      ins: "hrųščem"
+      voc: "hrųšču"
+    plural: 
+      nom: "hrųšči"
+      acc: "hrųščev"
+      gen: "hrųščev"
+      loc: "hrųščah"
+      dat: "hrųščam"
+      ins: "hrųščami"
+      voc: "hrųšči"

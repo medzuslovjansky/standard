@@ -1,0 +1,22 @@
+---
+  id: "1897"
+  word: "verf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "verf"
+      acc: "verf"
+      gen: "verfa"
+      loc: "verfu"
+      dat: "verfu"
+      ins: "verfom"
+      voc: "verfe"
+    plural: 
+      nom: "verfy"
+      acc: "verfy"
+      gen: "verfov"
+      loc: "verfah"
+      dat: "verfam"
+      ins: "verfami"
+      voc: "verfy"

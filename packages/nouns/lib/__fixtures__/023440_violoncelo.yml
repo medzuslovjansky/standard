@@ -1,0 +1,22 @@
+---
+  id: "23440"
+  word: "violončelo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "violončelo"
+      acc: "violončelo"
+      gen: "violončela"
+      loc: "violončelu"
+      dat: "violončelu"
+      ins: "violončelom"
+      voc: "violončelo"
+    plural: 
+      nom: "violončela"
+      acc: "violončela"
+      gen: "violončel"
+      loc: "violončelah"
+      dat: "violončelam"
+      ins: "violončelami"
+      voc: "violončela"

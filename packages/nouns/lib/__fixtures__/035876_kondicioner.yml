@@ -1,0 +1,22 @@
+---
+  id: "35876"
+  word: "kondicioner"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kondicioner"
+      acc: "kondicioner"
+      gen: "kondicionera"
+      loc: "kondicioneru"
+      dat: "kondicioneru"
+      ins: "kondicionerom"
+      voc: "kondicionere"
+    plural: 
+      nom: "kondicionery"
+      acc: "kondicionery"
+      gen: "kondicionerov"
+      loc: "kondicionerah"
+      dat: "kondicioneram"
+      ins: "kondicionerami"
+      voc: "kondicionery"

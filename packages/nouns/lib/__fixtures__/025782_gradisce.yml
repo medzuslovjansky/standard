@@ -1,0 +1,22 @@
+---
+  id: "25782"
+  word: "grådišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "grådišče"
+      acc: "grådišče"
+      gen: "grådišča"
+      loc: "grådišču"
+      dat: "grådišču"
+      ins: "grådiščem"
+      voc: "grådišče"
+    plural: 
+      nom: "grådišča"
+      acc: "grådišča"
+      gen: "grådišč"
+      loc: "grådiščah"
+      dat: "grådiščam"
+      ins: "grådiščami"
+      voc: "grådišča"

@@ -1,0 +1,22 @@
+---
+  id: "32873"
+  word: "liker"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "liker"
+      acc: "liker"
+      gen: "likera"
+      loc: "likeru"
+      dat: "likeru"
+      ins: "likerom"
+      voc: "likere"
+    plural: 
+      nom: "likery"
+      acc: "likery"
+      gen: "likerov"
+      loc: "likerah"
+      dat: "likeram"
+      ins: "likerami"
+      voc: "likery"

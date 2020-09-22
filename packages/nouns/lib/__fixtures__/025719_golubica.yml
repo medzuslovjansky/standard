@@ -1,0 +1,22 @@
+---
+  id: "25719"
+  word: "golųbica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "golųbica"
+      acc: "golųbicų"
+      gen: "golųbice"
+      loc: "golųbici"
+      dat: "golųbici"
+      ins: "golųbicejų"
+      voc: "golųbico"
+    plural: 
+      nom: "golųbice"
+      acc: "golųbice"
+      gen: "golųbic"
+      loc: "golųbicah"
+      dat: "golųbicam"
+      ins: "golųbicami"
+      voc: "golųbice"

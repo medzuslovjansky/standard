@@ -1,0 +1,22 @@
+---
+  id: "19675"
+  word: "dezinformacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dezinformacija"
+      acc: "dezinformacijų"
+      gen: "dezinformacije"
+      loc: "dezinformaciji"
+      dat: "dezinformaciji"
+      ins: "dezinformacijejų"
+      voc: "dezinformacijo"
+    plural: 
+      nom: "dezinformacije"
+      acc: "dezinformacije"
+      gen: "dezinformacij"
+      loc: "dezinformacijah"
+      dat: "dezinformacijam"
+      ins: "dezinformacijami"
+      voc: "dezinformacije"

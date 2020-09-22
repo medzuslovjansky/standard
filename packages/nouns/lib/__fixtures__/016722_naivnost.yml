@@ -1,0 +1,22 @@
+---
+  id: "16722"
+  word: "naivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naivnosť"
+      acc: "naivnosť"
+      gen: "naivnosti"
+      loc: "naivnosti"
+      dat: "naivnosti"
+      ins: "naivnosťjų"
+      voc: "naivnosti"
+    plural: 
+      nom: "naivnosti"
+      acc: "naivnosti"
+      gen: "naivnostij"
+      loc: "naivnosťah"
+      dat: "naivnosťam"
+      ins: "naivnosťami"
+      voc: "naivnosti"

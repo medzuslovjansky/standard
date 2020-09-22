@@ -1,0 +1,22 @@
+---
+  id: "35784"
+  word: "absurdnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "absurdnosť"
+      acc: "absurdnosť"
+      gen: "absurdnosti"
+      loc: "absurdnosti"
+      dat: "absurdnosti"
+      ins: "absurdnosťjų"
+      voc: "absurdnosti"
+    plural: 
+      nom: "absurdnosti"
+      acc: "absurdnosti"
+      gen: "absurdnostij"
+      loc: "absurdnosťah"
+      dat: "absurdnosťam"
+      ins: "absurdnosťami"
+      voc: "absurdnosti"

@@ -1,0 +1,22 @@
+---
+  id: "35971"
+  word: "eminencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "eminencija"
+      acc: "eminencijų"
+      gen: "eminencije"
+      loc: "eminenciji"
+      dat: "eminenciji"
+      ins: "eminencijejų"
+      voc: "eminencijo"
+    plural: 
+      nom: "eminencije"
+      acc: "eminencije"
+      gen: "eminencij"
+      loc: "eminencijah"
+      dat: "eminencijam"
+      ins: "eminencijami"
+      voc: "eminencije"

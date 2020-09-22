@@ -1,0 +1,23 @@
+---
+  id: "31978"
+  word: "języček"
+  meta: 
+    irregularity: "(języčka)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "języčėk"
+      acc: "języčėk"
+      gen: "języčka"
+      loc: "języčku"
+      dat: "języčku"
+      ins: "języčkom"
+      voc: "języčče"
+    plural: 
+      nom: "języčky"
+      acc: "języčky"
+      gen: "języčkov"
+      loc: "języčkah"
+      dat: "języčkam"
+      ins: "języčkami"
+      voc: "języčky"

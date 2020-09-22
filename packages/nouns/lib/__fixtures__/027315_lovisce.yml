@@ -1,0 +1,22 @@
+---
+  id: "27315"
+  word: "lovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lovišče"
+      acc: "lovišče"
+      gen: "lovišča"
+      loc: "lovišču"
+      dat: "lovišču"
+      ins: "loviščem"
+      voc: "lovišče"
+    plural: 
+      nom: "lovišča"
+      acc: "lovišča"
+      gen: "lovišč"
+      loc: "loviščah"
+      dat: "loviščam"
+      ins: "loviščami"
+      voc: "lovišča"

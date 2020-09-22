@@ -1,0 +1,22 @@
+---
+  id: "2440"
+  word: "balans"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "balans"
+      acc: "balans"
+      gen: "balansa"
+      loc: "balansu"
+      dat: "balansu"
+      ins: "balansom"
+      voc: "balanse"
+    plural: 
+      nom: "balansy"
+      acc: "balansy"
+      gen: "balansov"
+      loc: "balansah"
+      dat: "balansam"
+      ins: "balansami"
+      voc: "balansy"

@@ -1,0 +1,22 @@
+---
+  id: "36550"
+  word: "ulov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ulov"
+      acc: "ulov"
+      gen: "ulova"
+      loc: "ulovu"
+      dat: "ulovu"
+      ins: "ulovom"
+      voc: "ulove"
+    plural: 
+      nom: "ulovy"
+      acc: "ulovy"
+      gen: "ulovov"
+      loc: "ulovah"
+      dat: "ulovam"
+      ins: "ulovami"
+      voc: "ulovy"

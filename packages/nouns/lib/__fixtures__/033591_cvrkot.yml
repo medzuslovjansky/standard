@@ -1,0 +1,22 @@
+---
+  id: "33591"
+  word: "cvŕkot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cvŕkot"
+      acc: "cvŕkot"
+      gen: "cvŕkota"
+      loc: "cvŕkotu"
+      dat: "cvŕkotu"
+      ins: "cvŕkotom"
+      voc: "cvŕkote"
+    plural: 
+      nom: "cvŕkoty"
+      acc: "cvŕkoty"
+      gen: "cvŕkotov"
+      loc: "cvŕkotah"
+      dat: "cvŕkotam"
+      ins: "cvŕkotami"
+      voc: "cvŕkoty"

@@ -1,0 +1,22 @@
+---
+  id: "19797"
+  word: "konvencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konvencija"
+      acc: "konvencijų"
+      gen: "konvencije"
+      loc: "konvenciji"
+      dat: "konvenciji"
+      ins: "konvencijejų"
+      voc: "konvencijo"
+    plural: 
+      nom: "konvencije"
+      acc: "konvencije"
+      gen: "konvencij"
+      loc: "konvencijah"
+      dat: "konvencijam"
+      ins: "konvencijami"
+      voc: "konvencije"

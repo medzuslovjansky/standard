@@ -1,0 +1,22 @@
+---
+  id: "3048"
+  word: "region"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "region"
+      acc: "region"
+      gen: "regiona"
+      loc: "regionu"
+      dat: "regionu"
+      ins: "regionom"
+      voc: "regione"
+    plural: 
+      nom: "regiony"
+      acc: "regiony"
+      gen: "regionov"
+      loc: "regionah"
+      dat: "regionam"
+      ins: "regionami"
+      voc: "regiony"

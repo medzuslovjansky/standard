@@ -1,0 +1,22 @@
+---
+  id: "15116"
+  word: "urođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "urođeńje"
+      acc: "urođeńje"
+      gen: "urođeńja"
+      loc: "urođeńju"
+      dat: "urođeńju"
+      ins: "urođeńjem"
+      voc: "urođeńje"
+    plural: 
+      nom: "urođeńja"
+      acc: "urođeńja"
+      gen: "urođenij"
+      loc: "urođeńjah"
+      dat: "urođeńjam"
+      ins: "urođeńjami"
+      voc: "urođeńja"

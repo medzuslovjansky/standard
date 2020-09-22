@@ -1,0 +1,23 @@
+---
+  id: "23511"
+  word: "budist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "budist"
+      acc: "budista"
+      gen: "budista"
+      loc: "budistu"
+      dat: "budistu"
+      ins: "budistom"
+      voc: "budiste"
+    plural: 
+      nom: "budisti"
+      acc: "budistov"
+      gen: "budistov"
+      loc: "budistah"
+      dat: "budistam"
+      ins: "budistami"
+      voc: "budisti"

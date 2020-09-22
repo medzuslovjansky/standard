@@ -1,0 +1,22 @@
+---
+  id: "16966"
+  word: "lokativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lokativ"
+      acc: "lokativ"
+      gen: "lokativa"
+      loc: "lokativu"
+      dat: "lokativu"
+      ins: "lokativom"
+      voc: "lokative"
+    plural: 
+      nom: "lokativy"
+      acc: "lokativy"
+      gen: "lokativov"
+      loc: "lokativah"
+      dat: "lokativam"
+      ins: "lokativami"
+      voc: "lokativy"

@@ -1,0 +1,22 @@
+---
+  id: "21180"
+  word: "tajnopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tajnopis"
+      acc: "tajnopis"
+      gen: "tajnopisa"
+      loc: "tajnopisu"
+      dat: "tajnopisu"
+      ins: "tajnopisom"
+      voc: "tajnopise"
+    plural: 
+      nom: "tajnopisy"
+      acc: "tajnopisy"
+      gen: "tajnopisov"
+      loc: "tajnopisah"
+      dat: "tajnopisam"
+      ins: "tajnopisami"
+      voc: "tajnopisy"

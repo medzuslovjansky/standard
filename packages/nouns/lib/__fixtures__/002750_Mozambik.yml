@@ -1,0 +1,15 @@
+---
+  id: "2750"
+  word: "Mozambik"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Mozambik"
+      acc: "Mozambik"
+      gen: "Mozambika"
+      loc: "Mozambiku"
+      dat: "Mozambiku"
+      ins: "Mozambikom"
+      voc: "Mozambiče"

@@ -1,0 +1,22 @@
+---
+  id: "36721"
+  word: "beznadějnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "beznadějnosť"
+      acc: "beznadějnosť"
+      gen: "beznadějnosti"
+      loc: "beznadějnosti"
+      dat: "beznadějnosti"
+      ins: "beznadějnosťjų"
+      voc: "beznadějnosti"
+    plural: 
+      nom: "beznadějnosti"
+      acc: "beznadějnosti"
+      gen: "beznadějnostij"
+      loc: "beznadějnosťah"
+      dat: "beznadějnosťam"
+      ins: "beznadějnosťami"
+      voc: "beznadějnosti"

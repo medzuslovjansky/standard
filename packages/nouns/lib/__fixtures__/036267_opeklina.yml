@@ -1,0 +1,22 @@
+---
+  id: "36267"
+  word: "opeklina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opeklina"
+      acc: "opeklinų"
+      gen: "opekliny"
+      loc: "opeklině"
+      dat: "opeklině"
+      ins: "opeklinojų"
+      voc: "opeklino"
+    plural: 
+      nom: "opekliny"
+      acc: "opekliny"
+      gen: "opeklin"
+      loc: "opeklinah"
+      dat: "opeklinam"
+      ins: "opeklinami"
+      voc: "opekliny"

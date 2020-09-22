@@ -1,0 +1,22 @@
+---
+  id: "36574"
+  word: "aplikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aplikacija"
+      acc: "aplikacijų"
+      gen: "aplikacije"
+      loc: "aplikaciji"
+      dat: "aplikaciji"
+      ins: "aplikacijejų"
+      voc: "aplikacijo"
+    plural: 
+      nom: "aplikacije"
+      acc: "aplikacije"
+      gen: "aplikacij"
+      loc: "aplikacijah"
+      dat: "aplikacijam"
+      ins: "aplikacijami"
+      voc: "aplikacije"

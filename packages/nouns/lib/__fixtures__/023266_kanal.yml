@@ -1,0 +1,22 @@
+---
+  id: "23266"
+  word: "kanal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kanal"
+      acc: "kanal"
+      gen: "kanala"
+      loc: "kanalu"
+      dat: "kanalu"
+      ins: "kanalom"
+      voc: "kanale"
+    plural: 
+      nom: "kanaly"
+      acc: "kanaly"
+      gen: "kanalov"
+      loc: "kanalah"
+      dat: "kanalam"
+      ins: "kanalami"
+      voc: "kanaly"

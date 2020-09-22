@@ -1,0 +1,22 @@
+---
+  id: "4902"
+  word: "vdęčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vdęčnosť"
+      acc: "vdęčnosť"
+      gen: "vdęčnosti"
+      loc: "vdęčnosti"
+      dat: "vdęčnosti"
+      ins: "vdęčnosťjų"
+      voc: "vdęčnosti"
+    plural: 
+      nom: "vdęčnosti"
+      acc: "vdęčnosti"
+      gen: "vdęčnostij"
+      loc: "vdęčnosťah"
+      dat: "vdęčnosťam"
+      ins: "vdęčnosťami"
+      voc: "vdęčnosti"

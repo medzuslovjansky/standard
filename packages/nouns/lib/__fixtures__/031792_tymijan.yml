@@ -1,0 +1,22 @@
+---
+  id: "31792"
+  word: "tymijan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tymijan"
+      acc: "tymijan"
+      gen: "tymijana"
+      loc: "tymijanu"
+      dat: "tymijanu"
+      ins: "tymijanom"
+      voc: "tymijane"
+    plural: 
+      nom: "tymijany"
+      acc: "tymijany"
+      gen: "tymijanov"
+      loc: "tymijanah"
+      dat: "tymijanam"
+      ins: "tymijanami"
+      voc: "tymijany"

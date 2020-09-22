@@ -1,0 +1,22 @@
+---
+  id: "12325"
+  word: "Slovjanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Slovjanka"
+      acc: "Slovjankų"
+      gen: "Slovjanky"
+      loc: "Slovjankě"
+      dat: "Slovjankě"
+      ins: "Slovjankojų"
+      voc: "Slovjanko"
+    plural: 
+      nom: "Slovjanky"
+      acc: "Slovjanky"
+      gen: "Slovjanȯk"
+      loc: "Slovjankah"
+      dat: "Slovjankam"
+      ins: "Slovjankami"
+      voc: "Slovjanky"

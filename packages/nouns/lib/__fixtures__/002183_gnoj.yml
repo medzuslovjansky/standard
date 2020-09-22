@@ -1,0 +1,22 @@
+---
+  id: "2183"
+  word: "gnoj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gnoj"
+      acc: "gnoj"
+      gen: "gnoja"
+      loc: "gnoju"
+      dat: "gnoju"
+      ins: "gnojem"
+      voc: "gnoju"
+    plural: 
+      nom: "gnoje"
+      acc: "gnoje"
+      gen: "gnojev"
+      loc: "gnojah"
+      dat: "gnojam"
+      ins: "gnojami"
+      voc: "gnoje"

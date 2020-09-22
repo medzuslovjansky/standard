@@ -1,0 +1,23 @@
+---
+  id: "13668"
+  word: "vladaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vladaŕ"
+      acc: "vladaŕa"
+      gen: "vladaŕa"
+      loc: "vladaŕu"
+      dat: "vladaŕu"
+      ins: "vladaŕem"
+      voc: "vladaŕu"
+    plural: 
+      nom: "vladari"
+      acc: "vladaŕev"
+      gen: "vladaŕev"
+      loc: "vladaŕah"
+      dat: "vladaŕam"
+      ins: "vladaŕami"
+      voc: "vladari"

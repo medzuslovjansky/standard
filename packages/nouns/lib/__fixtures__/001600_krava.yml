@@ -1,0 +1,22 @@
+---
+  id: "1600"
+  word: "kråva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråva"
+      acc: "kråvų"
+      gen: "kråvy"
+      loc: "kråvě"
+      dat: "kråvě"
+      ins: "kråvojų"
+      voc: "kråvo"
+    plural: 
+      nom: "kråvy"
+      acc: "kråvy"
+      gen: "kråv"
+      loc: "kråvah"
+      dat: "kråvam"
+      ins: "kråvami"
+      voc: "kråvy"

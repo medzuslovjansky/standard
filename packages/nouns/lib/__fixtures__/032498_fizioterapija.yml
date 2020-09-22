@@ -1,0 +1,15 @@
+---
+  id: "32498"
+  word: "fizioterapija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fizioterapija"
+      acc: "fizioterapijų"
+      gen: "fizioterapije"
+      loc: "fizioterapiji"
+      dat: "fizioterapiji"
+      ins: "fizioterapijejų"
+      voc: "fizioterapijo"

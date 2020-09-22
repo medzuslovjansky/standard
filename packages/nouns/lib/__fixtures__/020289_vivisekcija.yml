@@ -1,0 +1,22 @@
+---
+  id: "20289"
+  word: "vivisekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vivisekcija"
+      acc: "vivisekcijų"
+      gen: "vivisekcije"
+      loc: "vivisekciji"
+      dat: "vivisekciji"
+      ins: "vivisekcijejų"
+      voc: "vivisekcijo"
+    plural: 
+      nom: "vivisekcije"
+      acc: "vivisekcije"
+      gen: "vivisekcij"
+      loc: "vivisekcijah"
+      dat: "vivisekcijam"
+      ins: "vivisekcijami"
+      voc: "vivisekcije"

@@ -1,0 +1,15 @@
+---
+  id: "32513"
+  word: "muskus"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "muskus"
+      acc: "muskus"
+      gen: "muskusa"
+      loc: "muskusu"
+      dat: "muskusu"
+      ins: "muskusom"
+      voc: "muskuse"

@@ -1,0 +1,15 @@
+---
+  id: "36037"
+  word: "pomirjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pomirjeńje"
+      acc: "pomirjeńje"
+      gen: "pomirjeńja"
+      loc: "pomirjeńju"
+      dat: "pomirjeńju"
+      ins: "pomirjeńjem"
+      voc: "pomirjeńje"

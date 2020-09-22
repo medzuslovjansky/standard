@@ -1,0 +1,23 @@
+---
+  id: "26404"
+  word: "junak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "junak"
+      acc: "junaka"
+      gen: "junaka"
+      loc: "junaku"
+      dat: "junaku"
+      ins: "junakom"
+      voc: "junače"
+    plural: 
+      nom: "junaki"
+      acc: "junakov"
+      gen: "junakov"
+      loc: "junakah"
+      dat: "junakam"
+      ins: "junakami"
+      voc: "junaki"

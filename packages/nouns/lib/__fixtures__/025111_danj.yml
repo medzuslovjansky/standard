@@ -1,0 +1,22 @@
+---
+  id: "25111"
+  word: "danj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "danj"
+      acc: "danj"
+      gen: "danji"
+      loc: "danji"
+      dat: "danji"
+      ins: "danjjų"
+      voc: "danji"
+    plural: 
+      nom: "danji"
+      acc: "danji"
+      gen: "danjij"
+      loc: "danjah"
+      dat: "danjam"
+      ins: "danjami"
+      voc: "danji"

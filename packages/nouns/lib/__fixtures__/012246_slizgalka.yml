@@ -1,0 +1,22 @@
+---
+  id: "12246"
+  word: "slizgalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slizgalka"
+      acc: "slizgalkų"
+      gen: "slizgalky"
+      loc: "slizgalkě"
+      dat: "slizgalkě"
+      ins: "slizgalkojų"
+      voc: "slizgalko"
+    plural: 
+      nom: "slizgalky"
+      acc: "slizgalky"
+      gen: "slizgalȯk"
+      loc: "slizgalkah"
+      dat: "slizgalkam"
+      ins: "slizgalkami"
+      voc: "slizgalky"

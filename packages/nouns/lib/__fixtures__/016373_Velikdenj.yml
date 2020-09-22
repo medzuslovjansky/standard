@@ -1,0 +1,23 @@
+---
+  id: "16373"
+  word: "Velikdenj"
+  meta: 
+    irregularity: "(Velikdnja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Velikdėnj"
+      acc: "Velikdėnj"
+      gen: "Velikdnja"
+      loc: "Velikdnju"
+      dat: "Velikdnju"
+      ins: "Velikdnjem"
+      voc: "Velikdnju"
+    plural: 
+      nom: "Velikdnje"
+      acc: "Velikdnje"
+      gen: "Velikdnjev"
+      loc: "Velikdnjah"
+      dat: "Velikdnjam"
+      ins: "Velikdnjami"
+      voc: "Velikdnje"

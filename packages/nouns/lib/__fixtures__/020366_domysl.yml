@@ -1,0 +1,22 @@
+---
+  id: "20366"
+  word: "domysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "domysl"
+      acc: "domysl"
+      gen: "domysla"
+      loc: "domyslu"
+      dat: "domyslu"
+      ins: "domyslom"
+      voc: "domysle"
+    plural: 
+      nom: "domysly"
+      acc: "domysly"
+      gen: "domyslov"
+      loc: "domyslah"
+      dat: "domyslam"
+      ins: "domyslami"
+      voc: "domysly"

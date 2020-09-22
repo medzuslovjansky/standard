@@ -1,0 +1,23 @@
+---
+  id: "35222"
+  word: "dodo"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dodo"
+      acc: "dodo"
+      gen: "doda"
+      loc: "dodu"
+      dat: "dodu"
+      ins: "dodom"
+      voc: "dodo"
+    plural: 
+      nom: "doda"
+      acc: "doda"
+      gen: "dod"
+      loc: "dodah"
+      dat: "dodam"
+      ins: "dodami"
+      voc: "doda"

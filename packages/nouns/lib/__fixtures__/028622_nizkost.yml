@@ -1,0 +1,22 @@
+---
+  id: "28622"
+  word: "nizkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nizkosť"
+      acc: "nizkosť"
+      gen: "nizkosti"
+      loc: "nizkosti"
+      dat: "nizkosti"
+      ins: "nizkosťjų"
+      voc: "nizkosti"
+    plural: 
+      nom: "nizkosti"
+      acc: "nizkosti"
+      gen: "nizkostij"
+      loc: "nizkosťah"
+      dat: "nizkosťam"
+      ins: "nizkosťami"
+      voc: "nizkosti"

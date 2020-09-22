@@ -1,0 +1,22 @@
+---
+  id: "26564"
+  word: "kljukva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kljukva"
+      acc: "kljukvų"
+      gen: "kljukvy"
+      loc: "kljukvě"
+      dat: "kljukvě"
+      ins: "kljukvojų"
+      voc: "kljukvo"
+    plural: 
+      nom: "kljukvy"
+      acc: "kljukvy"
+      gen: "kljukv"
+      loc: "kljukvah"
+      dat: "kljukvam"
+      ins: "kljukvami"
+      voc: "kljukvy"

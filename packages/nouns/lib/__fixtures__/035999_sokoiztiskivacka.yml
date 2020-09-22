@@ -1,0 +1,22 @@
+---
+  id: "35999"
+  word: "sokoiztiskivačka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sokoiztiskivačka"
+      acc: "sokoiztiskivačkų"
+      gen: "sokoiztiskivačky"
+      loc: "sokoiztiskivačkě"
+      dat: "sokoiztiskivačkě"
+      ins: "sokoiztiskivačkojų"
+      voc: "sokoiztiskivačko"
+    plural: 
+      nom: "sokoiztiskivačky"
+      acc: "sokoiztiskivačky"
+      gen: "sokoiztiskivaček"
+      loc: "sokoiztiskivačkah"
+      dat: "sokoiztiskivačkam"
+      ins: "sokoiztiskivačkami"
+      voc: "sokoiztiskivačky"

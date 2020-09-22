@@ -1,0 +1,23 @@
+---
+  id: "31172"
+  word: "vezir"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vezir"
+      acc: "vezira"
+      gen: "vezira"
+      loc: "veziru"
+      dat: "veziru"
+      ins: "vezirom"
+      voc: "vezire"
+    plural: 
+      nom: "veziri"
+      acc: "vezirov"
+      gen: "vezirov"
+      loc: "vezirah"
+      dat: "veziram"
+      ins: "vezirami"
+      voc: "veziri"

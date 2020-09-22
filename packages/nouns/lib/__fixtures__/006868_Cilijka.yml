@@ -1,0 +1,22 @@
+---
+  id: "6868"
+  word: "Čilijka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Čilijka"
+      acc: "Čilijkų"
+      gen: "Čilijky"
+      loc: "Čilijkě"
+      dat: "Čilijkě"
+      ins: "Čilijkojų"
+      voc: "Čilijko"
+    plural: 
+      nom: "Čilijky"
+      acc: "Čilijky"
+      gen: "Čilijek"
+      loc: "Čilijkah"
+      dat: "Čilijkam"
+      ins: "Čilijkami"
+      voc: "Čilijky"

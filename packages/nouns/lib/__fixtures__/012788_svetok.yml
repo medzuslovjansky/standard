@@ -1,0 +1,22 @@
+---
+  id: "12788"
+  word: "svętȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svętȯk"
+      acc: "svętȯk"
+      gen: "svętka"
+      loc: "svętku"
+      dat: "svętku"
+      ins: "svętkom"
+      voc: "svętče"
+    plural: 
+      nom: "svętky"
+      acc: "svętky"
+      gen: "svętkov"
+      loc: "svętkah"
+      dat: "svętkam"
+      ins: "svętkami"
+      voc: "svętky"

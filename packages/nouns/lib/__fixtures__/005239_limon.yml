@@ -1,0 +1,22 @@
+---
+  id: "5239"
+  word: "limon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "limon"
+      acc: "limon"
+      gen: "limona"
+      loc: "limonu"
+      dat: "limonu"
+      ins: "limonom"
+      voc: "limone"
+    plural: 
+      nom: "limony"
+      acc: "limony"
+      gen: "limonov"
+      loc: "limonah"
+      dat: "limonam"
+      ins: "limonami"
+      voc: "limony"

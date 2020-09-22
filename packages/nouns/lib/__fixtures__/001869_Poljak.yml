@@ -1,0 +1,23 @@
+---
+  id: "1869"
+  word: "Poljak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Poljak"
+      acc: "Poljaka"
+      gen: "Poljaka"
+      loc: "Poljaku"
+      dat: "Poljaku"
+      ins: "Poljakom"
+      voc: "Poljače"
+    plural: 
+      nom: "Poljaki"
+      acc: "Poljakov"
+      gen: "Poljakov"
+      loc: "Poljakah"
+      dat: "Poljakam"
+      ins: "Poljakami"
+      voc: "Poljaki"

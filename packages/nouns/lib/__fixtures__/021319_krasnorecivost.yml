@@ -1,0 +1,22 @@
+---
+  id: "21319"
+  word: "krasnorěčivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasnorěčivosť"
+      acc: "krasnorěčivosť"
+      gen: "krasnorěčivosti"
+      loc: "krasnorěčivosti"
+      dat: "krasnorěčivosti"
+      ins: "krasnorěčivosťjų"
+      voc: "krasnorěčivosti"
+    plural: 
+      nom: "krasnorěčivosti"
+      acc: "krasnorěčivosti"
+      gen: "krasnorěčivostij"
+      loc: "krasnorěčivosťah"
+      dat: "krasnorěčivosťam"
+      ins: "krasnorěčivosťami"
+      voc: "krasnorěčivosti"

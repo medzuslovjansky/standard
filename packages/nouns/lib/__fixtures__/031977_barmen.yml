@@ -1,0 +1,23 @@
+---
+  id: "31977"
+  word: "barmen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "barmen"
+      acc: "barmena"
+      gen: "barmena"
+      loc: "barmenu"
+      dat: "barmenu"
+      ins: "barmenom"
+      voc: "barmene"
+    plural: 
+      nom: "barmeni"
+      acc: "barmenov"
+      gen: "barmenov"
+      loc: "barmenah"
+      dat: "barmenam"
+      ins: "barmenami"
+      voc: "barmeni"

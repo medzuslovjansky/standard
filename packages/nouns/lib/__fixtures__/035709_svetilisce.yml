@@ -1,0 +1,22 @@
+---
+  id: "35709"
+  word: "svętilišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svętilišče"
+      acc: "svętilišče"
+      gen: "svętilišča"
+      loc: "svętilišču"
+      dat: "svętilišču"
+      ins: "svętiliščem"
+      voc: "svętilišče"
+    plural: 
+      nom: "svętilišča"
+      acc: "svętilišča"
+      gen: "svętilišč"
+      loc: "svętiliščah"
+      dat: "svętiliščam"
+      ins: "svętiliščami"
+      voc: "svętilišča"

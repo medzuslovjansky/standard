@@ -1,0 +1,22 @@
+---
+  id: "36055"
+  word: "opica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opica"
+      acc: "opicų"
+      gen: "opice"
+      loc: "opici"
+      dat: "opici"
+      ins: "opicejų"
+      voc: "opico"
+    plural: 
+      nom: "opice"
+      acc: "opice"
+      gen: "opic"
+      loc: "opicah"
+      dat: "opicam"
+      ins: "opicami"
+      voc: "opice"

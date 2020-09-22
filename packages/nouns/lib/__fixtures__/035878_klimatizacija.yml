@@ -1,0 +1,22 @@
+---
+  id: "35878"
+  word: "klimatizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klimatizacija"
+      acc: "klimatizacijų"
+      gen: "klimatizacije"
+      loc: "klimatizaciji"
+      dat: "klimatizaciji"
+      ins: "klimatizacijejų"
+      voc: "klimatizacijo"
+    plural: 
+      nom: "klimatizacije"
+      acc: "klimatizacije"
+      gen: "klimatizacij"
+      loc: "klimatizacijah"
+      dat: "klimatizacijam"
+      ins: "klimatizacijami"
+      voc: "klimatizacije"

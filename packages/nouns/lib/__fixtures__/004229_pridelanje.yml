@@ -1,0 +1,22 @@
+---
+  id: "4229"
+  word: "pridělańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pridělańje"
+      acc: "pridělańje"
+      gen: "pridělańja"
+      loc: "pridělańju"
+      dat: "pridělańju"
+      ins: "pridělańjem"
+      voc: "pridělańje"
+    plural: 
+      nom: "pridělańja"
+      acc: "pridělańja"
+      gen: "pridělanij"
+      loc: "pridělańjah"
+      dat: "pridělańjam"
+      ins: "pridělańjami"
+      voc: "pridělańja"

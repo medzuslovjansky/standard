@@ -1,0 +1,22 @@
+---
+  id: "23800"
+  word: "kust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kust"
+      acc: "kust"
+      gen: "kusta"
+      loc: "kustu"
+      dat: "kustu"
+      ins: "kustom"
+      voc: "kuste"
+    plural: 
+      nom: "kusty"
+      acc: "kusty"
+      gen: "kustov"
+      loc: "kustah"
+      dat: "kustam"
+      ins: "kustami"
+      voc: "kusty"

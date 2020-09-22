@@ -1,0 +1,22 @@
+---
+  id: "21562"
+  word: "sěča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sěča"
+      acc: "sěčų"
+      gen: "sěče"
+      loc: "sěči"
+      dat: "sěči"
+      ins: "sěčejų"
+      voc: "sěčo"
+    plural: 
+      nom: "sěče"
+      acc: "sěče"
+      gen: "sěč"
+      loc: "sěčah"
+      dat: "sěčam"
+      ins: "sěčami"
+      voc: "sěče"

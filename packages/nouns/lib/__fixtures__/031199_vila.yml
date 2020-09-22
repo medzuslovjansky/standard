@@ -1,0 +1,22 @@
+---
+  id: "31199"
+  word: "vila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vila"
+      acc: "vilų"
+      gen: "vily"
+      loc: "vilě"
+      dat: "vilě"
+      ins: "vilojų"
+      voc: "vilo"
+    plural: 
+      nom: "vily"
+      acc: "vily"
+      gen: "vil"
+      loc: "vilah"
+      dat: "vilam"
+      ins: "vilami"
+      voc: "vily"

@@ -1,0 +1,22 @@
+---
+  id: "23536"
+  word: "odomašnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odomašnjeńje"
+      acc: "odomašnjeńje"
+      gen: "odomašnjeńja"
+      loc: "odomašnjeńju"
+      dat: "odomašnjeńju"
+      ins: "odomašnjeńjem"
+      voc: "odomašnjeńje"
+    plural: 
+      nom: "odomašnjeńja"
+      acc: "odomašnjeńja"
+      gen: "odomašnjenij"
+      loc: "odomašnjeńjah"
+      dat: "odomašnjeńjam"
+      ins: "odomašnjeńjami"
+      voc: "odomašnjeńja"

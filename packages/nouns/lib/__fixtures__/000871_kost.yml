@@ -1,0 +1,22 @@
+---
+  id: "871"
+  word: "kosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kosť"
+      acc: "kosť"
+      gen: "kosti"
+      loc: "kosti"
+      dat: "kosti"
+      ins: "kosťjų"
+      voc: "kosti"
+    plural: 
+      nom: "kosti"
+      acc: "kosti"
+      gen: "kostij"
+      loc: "kosťah"
+      dat: "kosťam"
+      ins: "kosťami"
+      voc: "kosti"

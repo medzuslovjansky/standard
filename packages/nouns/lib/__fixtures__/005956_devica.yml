@@ -1,0 +1,22 @@
+---
+  id: "5956"
+  word: "děvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "děvica"
+      acc: "děvicų"
+      gen: "děvice"
+      loc: "děvici"
+      dat: "děvici"
+      ins: "děvicejų"
+      voc: "děvico"
+    plural: 
+      nom: "děvice"
+      acc: "děvice"
+      gen: "děvic"
+      loc: "děvicah"
+      dat: "děvicam"
+      ins: "děvicami"
+      voc: "děvice"

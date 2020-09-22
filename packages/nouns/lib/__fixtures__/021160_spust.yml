@@ -1,0 +1,22 @@
+---
+  id: "21160"
+  word: "spust"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spust"
+      acc: "spust"
+      gen: "spusta"
+      loc: "spustu"
+      dat: "spustu"
+      ins: "spustom"
+      voc: "spuste"
+    plural: 
+      nom: "spusty"
+      acc: "spusty"
+      gen: "spustov"
+      loc: "spustah"
+      dat: "spustam"
+      ins: "spustami"
+      voc: "spusty"

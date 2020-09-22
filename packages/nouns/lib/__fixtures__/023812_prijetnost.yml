@@ -1,0 +1,22 @@
+---
+  id: "23812"
+  word: "prijętnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prijętnosť"
+      acc: "prijętnosť"
+      gen: "prijętnosti"
+      loc: "prijętnosti"
+      dat: "prijętnosti"
+      ins: "prijętnosťjų"
+      voc: "prijętnosti"
+    plural: 
+      nom: "prijętnosti"
+      acc: "prijętnosti"
+      gen: "prijętnostij"
+      loc: "prijętnosťah"
+      dat: "prijętnosťam"
+      ins: "prijętnosťami"
+      voc: "prijętnosti"

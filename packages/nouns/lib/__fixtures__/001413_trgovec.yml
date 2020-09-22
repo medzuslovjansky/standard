@@ -1,0 +1,23 @@
+---
+  id: "1413"
+  word: "trgovec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "trgovec"
+      acc: "trgovca"
+      gen: "trgovca"
+      loc: "trgovcu"
+      dat: "trgovcu"
+      ins: "trgovcem"
+      voc: "trgovče"
+    plural: 
+      nom: "trgovci"
+      acc: "trgovcev"
+      gen: "trgovcev"
+      loc: "trgovcah"
+      dat: "trgovcam"
+      ins: "trgovcami"
+      voc: "trgovci"

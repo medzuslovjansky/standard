@@ -1,0 +1,23 @@
+---
+  id: "10499"
+  word: "Peruanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Peruanec"
+      acc: "Peruanca"
+      gen: "Peruanca"
+      loc: "Peruancu"
+      dat: "Peruancu"
+      ins: "Peruancem"
+      voc: "Peruanče"
+    plural: 
+      nom: "Peruanci"
+      acc: "Peruancev"
+      gen: "Peruancev"
+      loc: "Peruancah"
+      dat: "Peruancam"
+      ins: "Peruancami"
+      voc: "Peruanci"

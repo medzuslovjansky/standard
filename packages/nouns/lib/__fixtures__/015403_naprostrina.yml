@@ -1,0 +1,22 @@
+---
+  id: "15403"
+  word: "naprostrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naprostrina"
+      acc: "naprostrinų"
+      gen: "naprostriny"
+      loc: "naprostrině"
+      dat: "naprostrině"
+      ins: "naprostrinojų"
+      voc: "naprostrino"
+    plural: 
+      nom: "naprostriny"
+      acc: "naprostriny"
+      gen: "naprostrin"
+      loc: "naprostrinah"
+      dat: "naprostrinam"
+      ins: "naprostrinami"
+      voc: "naprostriny"

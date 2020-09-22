@@ -1,0 +1,23 @@
+---
+  id: "4301"
+  word: "sȯučęstnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sȯučęstnik"
+      acc: "sȯučęstnika"
+      gen: "sȯučęstnika"
+      loc: "sȯučęstniku"
+      dat: "sȯučęstniku"
+      ins: "sȯučęstnikom"
+      voc: "sȯučęstniče"
+    plural: 
+      nom: "sȯučęstniki"
+      acc: "sȯučęstnikov"
+      gen: "sȯučęstnikov"
+      loc: "sȯučęstnikah"
+      dat: "sȯučęstnikam"
+      ins: "sȯučęstnikami"
+      voc: "sȯučęstniki"

@@ -1,0 +1,22 @@
+---
+  id: "2446"
+  word: "bělmo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bělmo"
+      acc: "bělmo"
+      gen: "bělma"
+      loc: "bělmu"
+      dat: "bělmu"
+      ins: "bělmom"
+      voc: "bělmo"
+    plural: 
+      nom: "bělma"
+      acc: "bělma"
+      gen: "bělm"
+      loc: "bělmah"
+      dat: "bělmam"
+      ins: "bělmami"
+      voc: "bělma"

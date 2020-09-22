@@ -1,0 +1,22 @@
+---
+  id: "16412"
+  word: "rųkopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rųkopis"
+      acc: "rųkopis"
+      gen: "rųkopisa"
+      loc: "rųkopisu"
+      dat: "rųkopisu"
+      ins: "rųkopisom"
+      voc: "rųkopise"
+    plural: 
+      nom: "rųkopisy"
+      acc: "rųkopisy"
+      gen: "rųkopisov"
+      loc: "rųkopisah"
+      dat: "rųkopisam"
+      ins: "rųkopisami"
+      voc: "rųkopisy"

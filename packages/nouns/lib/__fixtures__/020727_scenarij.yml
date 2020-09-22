@@ -1,0 +1,22 @@
+---
+  id: "20727"
+  word: "scenarij"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "scenarij"
+      acc: "scenarij"
+      gen: "scenarija"
+      loc: "scenariju"
+      dat: "scenariju"
+      ins: "scenarijem"
+      voc: "scenariju"
+    plural: 
+      nom: "scenarije"
+      acc: "scenarije"
+      gen: "scenarijev"
+      loc: "scenarijah"
+      dat: "scenarijam"
+      ins: "scenarijami"
+      voc: "scenarije"

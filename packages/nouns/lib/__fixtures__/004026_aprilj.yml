@@ -1,0 +1,15 @@
+---
+  id: "4026"
+  word: "aprilj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aprilj"
+      acc: "aprilj"
+      gen: "aprilja"
+      loc: "aprilju"
+      dat: "aprilju"
+      ins: "apriljem"
+      voc: "aprilju"

@@ -1,0 +1,22 @@
+---
+  id: "16729"
+  word: "sovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sovka"
+      acc: "sovkų"
+      gen: "sovky"
+      loc: "sovkě"
+      dat: "sovkě"
+      ins: "sovkojų"
+      voc: "sovko"
+    plural: 
+      nom: "sovky"
+      acc: "sovky"
+      gen: "sovȯk"
+      loc: "sovkah"
+      dat: "sovkam"
+      ins: "sovkami"
+      voc: "sovky"

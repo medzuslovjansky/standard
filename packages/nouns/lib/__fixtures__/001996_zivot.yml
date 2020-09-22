@@ -1,0 +1,22 @@
+---
+  id: "1996"
+  word: "život"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "život"
+      acc: "život"
+      gen: "života"
+      loc: "životu"
+      dat: "životu"
+      ins: "životom"
+      voc: "živote"
+    plural: 
+      nom: "životy"
+      acc: "životy"
+      gen: "životov"
+      loc: "životah"
+      dat: "životam"
+      ins: "životami"
+      voc: "životy"

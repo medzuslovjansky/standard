@@ -1,0 +1,15 @@
+---
+  id: "36679"
+  word: "kosmetika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kosmetika"
+      acc: "kosmetikų"
+      gen: "kosmetiky"
+      loc: "kosmetikě"
+      dat: "kosmetikě"
+      ins: "kosmetikojų"
+      voc: "kosmetiko"

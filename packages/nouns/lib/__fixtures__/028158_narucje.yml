@@ -1,0 +1,15 @@
+---
+  id: "28158"
+  word: "narųčje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "narųčje"
+      acc: "narųčje"
+      gen: "narųčja"
+      loc: "narųčju"
+      dat: "narųčju"
+      ins: "narųčjem"
+      voc: "narųčje"

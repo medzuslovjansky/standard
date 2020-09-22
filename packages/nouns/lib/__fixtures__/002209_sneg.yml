@@ -1,0 +1,22 @@
+---
+  id: "2209"
+  word: "sněg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sněg"
+      acc: "sněg"
+      gen: "sněga"
+      loc: "sněgu"
+      dat: "sněgu"
+      ins: "sněgom"
+      voc: "sněže"
+    plural: 
+      nom: "sněgy"
+      acc: "sněgy"
+      gen: "sněgov"
+      loc: "sněgah"
+      dat: "sněgam"
+      ins: "sněgami"
+      voc: "sněgy"

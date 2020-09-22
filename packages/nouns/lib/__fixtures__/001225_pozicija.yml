@@ -1,0 +1,22 @@
+---
+  id: "1225"
+  word: "pozicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pozicija"
+      acc: "pozicijų"
+      gen: "pozicije"
+      loc: "poziciji"
+      dat: "poziciji"
+      ins: "pozicijejų"
+      voc: "pozicijo"
+    plural: 
+      nom: "pozicije"
+      acc: "pozicije"
+      gen: "pozicij"
+      loc: "pozicijah"
+      dat: "pozicijam"
+      ins: "pozicijami"
+      voc: "pozicije"

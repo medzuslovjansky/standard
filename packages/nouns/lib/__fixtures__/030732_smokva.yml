@@ -1,0 +1,22 @@
+---
+  id: "30732"
+  word: "smokva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "smokva"
+      acc: "smokvų"
+      gen: "smokvy"
+      loc: "smokvě"
+      dat: "smokvě"
+      ins: "smokvojų"
+      voc: "smokvo"
+    plural: 
+      nom: "smokvy"
+      acc: "smokvy"
+      gen: "smokv"
+      loc: "smokvah"
+      dat: "smokvam"
+      ins: "smokvami"
+      voc: "smokvy"

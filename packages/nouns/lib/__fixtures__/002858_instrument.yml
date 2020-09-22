@@ -1,0 +1,22 @@
+---
+  id: "2858"
+  word: "instrument"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "instrument"
+      acc: "instrument"
+      gen: "instrumenta"
+      loc: "instrumentu"
+      dat: "instrumentu"
+      ins: "instrumentom"
+      voc: "instrumente"
+    plural: 
+      nom: "instrumenty"
+      acc: "instrumenty"
+      gen: "instrumentov"
+      loc: "instrumentah"
+      dat: "instrumentam"
+      ins: "instrumentami"
+      voc: "instrumenty"

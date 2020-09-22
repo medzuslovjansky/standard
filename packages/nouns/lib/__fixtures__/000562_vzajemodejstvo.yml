@@ -1,0 +1,22 @@
+---
+  id: "562"
+  word: "vzajemodějstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vzajemodějstvo"
+      acc: "vzajemodějstvo"
+      gen: "vzajemodějstva"
+      loc: "vzajemodějstvu"
+      dat: "vzajemodějstvu"
+      ins: "vzajemodějstvom"
+      voc: "vzajemodějstvo"
+    plural: 
+      nom: "vzajemodějstva"
+      acc: "vzajemodějstva"
+      gen: "vzajemodějstv"
+      loc: "vzajemodějstvah"
+      dat: "vzajemodějstvam"
+      ins: "vzajemodějstvami"
+      voc: "vzajemodějstva"

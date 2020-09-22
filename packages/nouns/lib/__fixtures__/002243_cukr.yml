@@ -1,0 +1,15 @@
+---
+  id: "2243"
+  word: "cukr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cukr"
+      acc: "cukr"
+      gen: "cukra"
+      loc: "cukru"
+      dat: "cukru"
+      ins: "cukrom"
+      voc: "cukre"

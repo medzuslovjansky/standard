@@ -1,0 +1,22 @@
+---
+  id: "23489"
+  word: "kanarka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kanarka"
+      acc: "kanarkų"
+      gen: "kanarky"
+      loc: "kanarkě"
+      dat: "kanarkě"
+      ins: "kanarkojų"
+      voc: "kanarko"
+    plural: 
+      nom: "kanarky"
+      acc: "kanarky"
+      gen: "kanarȯk"
+      loc: "kanarkah"
+      dat: "kanarkam"
+      ins: "kanarkami"
+      voc: "kanarky"

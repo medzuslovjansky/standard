@@ -1,0 +1,31 @@
+---
+  - 
+    id: "19770"
+    word: "językotvorjeńje"
+    meta: 
+      gender: "neuter"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "językotvorjeńje"
+        acc: "językotvorjeńje"
+        gen: "językotvorjeńja"
+        loc: "językotvorjeńju"
+        dat: "językotvorjeńju"
+        ins: "językotvorjeńjem"
+        voc: "językotvorjeńje"
+  - 
+    id: "19770"
+    word: "językotvorstvo"
+    meta: 
+      gender: "neuter"
+      singular: true
+    declensions: 
+      singular: 
+        nom: "językotvorstvo"
+        acc: "językotvorstvo"
+        gen: "językotvorstva"
+        loc: "językotvorstvu"
+        dat: "językotvorstvu"
+        ins: "językotvorstvom"
+        voc: "językotvorstvo"

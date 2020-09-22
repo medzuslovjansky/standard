@@ -1,0 +1,22 @@
+---
+  id: "23527"
+  word: "civilizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "civilizacija"
+      acc: "civilizacijų"
+      gen: "civilizacije"
+      loc: "civilizaciji"
+      dat: "civilizaciji"
+      ins: "civilizacijejų"
+      voc: "civilizacijo"
+    plural: 
+      nom: "civilizacije"
+      acc: "civilizacije"
+      gen: "civilizacij"
+      loc: "civilizacijah"
+      dat: "civilizacijam"
+      ins: "civilizacijami"
+      voc: "civilizacije"

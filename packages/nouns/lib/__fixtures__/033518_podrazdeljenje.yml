@@ -1,0 +1,22 @@
+---
+  id: "33518"
+  word: "podråzděljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podråzděljeńje"
+      acc: "podråzděljeńje"
+      gen: "podråzděljeńja"
+      loc: "podråzděljeńju"
+      dat: "podråzděljeńju"
+      ins: "podråzděljeńjem"
+      voc: "podråzděljeńje"
+    plural: 
+      nom: "podråzděljeńja"
+      acc: "podråzděljeńja"
+      gen: "podråzděljenij"
+      loc: "podråzděljeńjah"
+      dat: "podråzděljeńjam"
+      ins: "podråzděljeńjami"
+      voc: "podråzděljeńja"

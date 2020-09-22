@@ -1,0 +1,22 @@
+---
+  id: "27148"
+  word: "leščina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "leščina"
+      acc: "leščinų"
+      gen: "leščiny"
+      loc: "leščině"
+      dat: "leščině"
+      ins: "leščinojų"
+      voc: "leščino"
+    plural: 
+      nom: "leščiny"
+      acc: "leščiny"
+      gen: "leščin"
+      loc: "leščinah"
+      dat: "leščinam"
+      ins: "leščinami"
+      voc: "leščiny"

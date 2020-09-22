@@ -1,0 +1,22 @@
+---
+  id: "3937"
+  word: "proso"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proso"
+      acc: "proso"
+      gen: "prosa"
+      loc: "prosu"
+      dat: "prosu"
+      ins: "prosom"
+      voc: "proso"
+    plural: 
+      nom: "prosa"
+      acc: "prosa"
+      gen: "pros"
+      loc: "prosah"
+      dat: "prosam"
+      ins: "prosami"
+      voc: "prosa"

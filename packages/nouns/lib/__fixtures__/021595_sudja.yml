@@ -1,0 +1,23 @@
+---
+  id: "21595"
+  word: "sųďja"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųďja"
+      acc: "sųďjų"
+      gen: "sųďje"
+      loc: "sųďji"
+      dat: "sųďji"
+      ins: "sųďjejų"
+      voc: "sųďjo"
+    plural: 
+      nom: "sųďji"
+      acc: "sųďjev"
+      gen: "sųďjev"
+      loc: "sųďjah"
+      dat: "sųďjam"
+      ins: "sųďjami"
+      voc: "sųďji"

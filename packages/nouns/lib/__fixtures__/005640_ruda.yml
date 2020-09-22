@@ -1,0 +1,22 @@
+---
+  id: "5640"
+  word: "ruda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ruda"
+      acc: "rudų"
+      gen: "rudy"
+      loc: "rudě"
+      dat: "rudě"
+      ins: "rudojų"
+      voc: "rudo"
+    plural: 
+      nom: "rudy"
+      acc: "rudy"
+      gen: "rud"
+      loc: "rudah"
+      dat: "rudam"
+      ins: "rudami"
+      voc: "rudy"

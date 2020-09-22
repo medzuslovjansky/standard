@@ -1,0 +1,22 @@
+---
+  id: "4973"
+  word: "konkurencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konkurencija"
+      acc: "konkurencijų"
+      gen: "konkurencije"
+      loc: "konkurenciji"
+      dat: "konkurenciji"
+      ins: "konkurencijejų"
+      voc: "konkurencijo"
+    plural: 
+      nom: "konkurencije"
+      acc: "konkurencije"
+      gen: "konkurencij"
+      loc: "konkurencijah"
+      dat: "konkurencijam"
+      ins: "konkurencijami"
+      voc: "konkurencije"

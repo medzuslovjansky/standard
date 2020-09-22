@@ -1,0 +1,22 @@
+---
+  id: "4657"
+  word: "proton"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "proton"
+      acc: "proton"
+      gen: "protona"
+      loc: "protonu"
+      dat: "protonu"
+      ins: "protonom"
+      voc: "protone"
+    plural: 
+      nom: "protony"
+      acc: "protony"
+      gen: "protonov"
+      loc: "protonah"
+      dat: "protonam"
+      ins: "protonami"
+      voc: "protony"

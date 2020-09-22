@@ -1,0 +1,22 @@
+---
+  id: "4984"
+  word: "manipulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "manipulacija"
+      acc: "manipulacijų"
+      gen: "manipulacije"
+      loc: "manipulaciji"
+      dat: "manipulaciji"
+      ins: "manipulacijejų"
+      voc: "manipulacijo"
+    plural: 
+      nom: "manipulacije"
+      acc: "manipulacije"
+      gen: "manipulacij"
+      loc: "manipulacijah"
+      dat: "manipulacijam"
+      ins: "manipulacijami"
+      voc: "manipulacije"

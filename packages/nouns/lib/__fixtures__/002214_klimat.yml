@@ -1,0 +1,22 @@
+---
+  id: "2214"
+  word: "klimat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klimat"
+      acc: "klimat"
+      gen: "klimata"
+      loc: "klimatu"
+      dat: "klimatu"
+      ins: "klimatom"
+      voc: "klimate"
+    plural: 
+      nom: "klimaty"
+      acc: "klimaty"
+      gen: "klimatov"
+      loc: "klimatah"
+      dat: "klimatam"
+      ins: "klimatami"
+      voc: "klimaty"

@@ -1,0 +1,15 @@
+---
+  id: "27849"
+  word: "mukańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mukańje"
+      acc: "mukańje"
+      gen: "mukańja"
+      loc: "mukańju"
+      dat: "mukańju"
+      ins: "mukańjem"
+      voc: "mukańje"

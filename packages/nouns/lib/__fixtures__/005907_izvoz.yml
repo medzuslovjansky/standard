@@ -1,0 +1,22 @@
+---
+  id: "5907"
+  word: "izvoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izvoz"
+      acc: "izvoz"
+      gen: "izvoza"
+      loc: "izvozu"
+      dat: "izvozu"
+      ins: "izvozom"
+      voc: "izvoze"
+    plural: 
+      nom: "izvozy"
+      acc: "izvozy"
+      gen: "izvozov"
+      loc: "izvozah"
+      dat: "izvozam"
+      ins: "izvozami"
+      voc: "izvozy"

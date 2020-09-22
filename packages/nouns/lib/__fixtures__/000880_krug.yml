@@ -1,0 +1,22 @@
+---
+  id: "880"
+  word: "krųg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krųg"
+      acc: "krųg"
+      gen: "krųga"
+      loc: "krųgu"
+      dat: "krųgu"
+      ins: "krųgom"
+      voc: "krųže"
+    plural: 
+      nom: "krųgy"
+      acc: "krųgy"
+      gen: "krųgov"
+      loc: "krųgah"
+      dat: "krųgam"
+      ins: "krųgami"
+      voc: "krųgy"

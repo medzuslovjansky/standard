@@ -1,0 +1,22 @@
+---
+  id: "21110"
+  word: "pult"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pult"
+      acc: "pult"
+      gen: "pulta"
+      loc: "pultu"
+      dat: "pultu"
+      ins: "pultom"
+      voc: "pulte"
+    plural: 
+      nom: "pulty"
+      acc: "pulty"
+      gen: "pultov"
+      loc: "pultah"
+      dat: "pultam"
+      ins: "pultami"
+      voc: "pulty"

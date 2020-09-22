@@ -1,0 +1,22 @@
+---
+  id: "1838"
+  word: "vråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vråna"
+      acc: "vrånų"
+      gen: "vråny"
+      loc: "vråně"
+      dat: "vråně"
+      ins: "vrånojų"
+      voc: "vråno"
+    plural: 
+      nom: "vråny"
+      acc: "vråny"
+      gen: "vrån"
+      loc: "vrånah"
+      dat: "vrånam"
+      ins: "vrånami"
+      voc: "vråny"

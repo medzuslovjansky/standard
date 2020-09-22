@@ -1,0 +1,22 @@
+---
+  id: "18113"
+  word: "ogrlica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ogrlica"
+      acc: "ogrlicų"
+      gen: "ogrlice"
+      loc: "ogrlici"
+      dat: "ogrlici"
+      ins: "ogrlicejų"
+      voc: "ogrlico"
+    plural: 
+      nom: "ogrlice"
+      acc: "ogrlice"
+      gen: "ogrlic"
+      loc: "ogrlicah"
+      dat: "ogrlicam"
+      ins: "ogrlicami"
+      voc: "ogrlice"

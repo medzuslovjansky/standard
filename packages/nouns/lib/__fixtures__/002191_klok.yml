@@ -1,0 +1,22 @@
+---
+  id: "2191"
+  word: "klȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klȯk"
+      acc: "klȯk"
+      gen: "klka"
+      loc: "klku"
+      dat: "klku"
+      ins: "klkom"
+      voc: "klče"
+    plural: 
+      nom: "klky"
+      acc: "klky"
+      gen: "klkov"
+      loc: "klkah"
+      dat: "klkam"
+      ins: "klkami"
+      voc: "klky"

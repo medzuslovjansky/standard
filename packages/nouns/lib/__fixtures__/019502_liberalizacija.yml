@@ -1,0 +1,22 @@
+---
+  id: "19502"
+  word: "liberalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "liberalizacija"
+      acc: "liberalizacijų"
+      gen: "liberalizacije"
+      loc: "liberalizaciji"
+      dat: "liberalizaciji"
+      ins: "liberalizacijejų"
+      voc: "liberalizacijo"
+    plural: 
+      nom: "liberalizacije"
+      acc: "liberalizacije"
+      gen: "liberalizacij"
+      loc: "liberalizacijah"
+      dat: "liberalizacijam"
+      ins: "liberalizacijami"
+      voc: "liberalizacije"

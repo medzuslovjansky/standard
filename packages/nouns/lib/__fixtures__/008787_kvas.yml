@@ -1,0 +1,22 @@
+---
+  id: "8787"
+  word: "kvas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kvas"
+      acc: "kvas"
+      gen: "kvasa"
+      loc: "kvasu"
+      dat: "kvasu"
+      ins: "kvasom"
+      voc: "kvase"
+    plural: 
+      nom: "kvasy"
+      acc: "kvasy"
+      gen: "kvasov"
+      loc: "kvasah"
+      dat: "kvasam"
+      ins: "kvasami"
+      voc: "kvasy"

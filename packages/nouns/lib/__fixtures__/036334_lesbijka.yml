@@ -1,0 +1,22 @@
+---
+  id: "36334"
+  word: "lesbijka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lesbijka"
+      acc: "lesbijkų"
+      gen: "lesbijky"
+      loc: "lesbijkě"
+      dat: "lesbijkě"
+      ins: "lesbijkojų"
+      voc: "lesbijko"
+    plural: 
+      nom: "lesbijky"
+      acc: "lesbijky"
+      gen: "lesbijek"
+      loc: "lesbijkah"
+      dat: "lesbijkam"
+      ins: "lesbijkami"
+      voc: "lesbijky"

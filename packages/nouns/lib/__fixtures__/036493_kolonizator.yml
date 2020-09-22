@@ -1,0 +1,23 @@
+---
+  id: "36493"
+  word: "kolonizator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kolonizator"
+      acc: "kolonizatora"
+      gen: "kolonizatora"
+      loc: "kolonizatoru"
+      dat: "kolonizatoru"
+      ins: "kolonizatorom"
+      voc: "kolonizatore"
+    plural: 
+      nom: "kolonizatori"
+      acc: "kolonizatorov"
+      gen: "kolonizatorov"
+      loc: "kolonizatorah"
+      dat: "kolonizatoram"
+      ins: "kolonizatorami"
+      voc: "kolonizatori"

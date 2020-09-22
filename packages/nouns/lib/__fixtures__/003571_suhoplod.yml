@@ -1,0 +1,22 @@
+---
+  id: "3571"
+  word: "suhoplod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "suhoplod"
+      acc: "suhoplod"
+      gen: "suhoploda"
+      loc: "suhoplodu"
+      dat: "suhoplodu"
+      ins: "suhoplodom"
+      voc: "suhoplode"
+    plural: 
+      nom: "suhoplody"
+      acc: "suhoplody"
+      gen: "suhoplodov"
+      loc: "suhoplodah"
+      dat: "suhoplodam"
+      ins: "suhoplodami"
+      voc: "suhoplody"

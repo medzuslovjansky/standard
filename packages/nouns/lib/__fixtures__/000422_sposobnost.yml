@@ -1,0 +1,22 @@
+---
+  id: "422"
+  word: "sposobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sposobnosť"
+      acc: "sposobnosť"
+      gen: "sposobnosti"
+      loc: "sposobnosti"
+      dat: "sposobnosti"
+      ins: "sposobnosťjų"
+      voc: "sposobnosti"
+    plural: 
+      nom: "sposobnosti"
+      acc: "sposobnosti"
+      gen: "sposobnostij"
+      loc: "sposobnosťah"
+      dat: "sposobnosťam"
+      ins: "sposobnosťami"
+      voc: "sposobnosti"

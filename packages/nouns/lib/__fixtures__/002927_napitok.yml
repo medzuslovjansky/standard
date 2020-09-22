@@ -1,0 +1,22 @@
+---
+  id: "2927"
+  word: "napitȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napitȯk"
+      acc: "napitȯk"
+      gen: "napitka"
+      loc: "napitku"
+      dat: "napitku"
+      ins: "napitkom"
+      voc: "napitče"
+    plural: 
+      nom: "napitky"
+      acc: "napitky"
+      gen: "napitkov"
+      loc: "napitkah"
+      dat: "napitkam"
+      ins: "napitkami"
+      voc: "napitky"

@@ -1,0 +1,22 @@
+---
+  id: "3882"
+  word: "skarb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skarb"
+      acc: "skarb"
+      gen: "skarba"
+      loc: "skarbu"
+      dat: "skarbu"
+      ins: "skarbom"
+      voc: "skarbe"
+    plural: 
+      nom: "skarby"
+      acc: "skarby"
+      gen: "skarbov"
+      loc: "skarbah"
+      dat: "skarbam"
+      ins: "skarbami"
+      voc: "skarby"

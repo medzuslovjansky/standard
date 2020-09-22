@@ -1,0 +1,15 @@
+---
+  id: "35109"
+  word: "estetika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "estetika"
+      acc: "estetikų"
+      gen: "estetiky"
+      loc: "estetikě"
+      dat: "estetikě"
+      ins: "estetikojų"
+      voc: "estetiko"

@@ -1,0 +1,22 @@
+---
+  id: "268"
+  word: "lasica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lasica"
+      acc: "lasicų"
+      gen: "lasice"
+      loc: "lasici"
+      dat: "lasici"
+      ins: "lasicejų"
+      voc: "lasico"
+    plural: 
+      nom: "lasice"
+      acc: "lasice"
+      gen: "lasic"
+      loc: "lasicah"
+      dat: "lasicam"
+      ins: "lasicami"
+      voc: "lasice"

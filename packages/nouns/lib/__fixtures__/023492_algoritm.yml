@@ -1,0 +1,22 @@
+---
+  id: "23492"
+  word: "algoritm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "algoritm"
+      acc: "algoritm"
+      gen: "algoritma"
+      loc: "algoritmu"
+      dat: "algoritmu"
+      ins: "algoritmom"
+      voc: "algoritme"
+    plural: 
+      nom: "algoritmy"
+      acc: "algoritmy"
+      gen: "algoritmov"
+      loc: "algoritmah"
+      dat: "algoritmam"
+      ins: "algoritmami"
+      voc: "algoritmy"

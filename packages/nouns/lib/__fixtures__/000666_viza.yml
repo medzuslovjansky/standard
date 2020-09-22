@@ -1,0 +1,22 @@
+---
+  id: "666"
+  word: "viza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "viza"
+      acc: "vizų"
+      gen: "vizy"
+      loc: "vizě"
+      dat: "vizě"
+      ins: "vizojų"
+      voc: "vizo"
+    plural: 
+      nom: "vizy"
+      acc: "vizy"
+      gen: "viz"
+      loc: "vizah"
+      dat: "vizam"
+      ins: "vizami"
+      voc: "vizy"

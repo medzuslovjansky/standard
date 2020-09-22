@@ -1,0 +1,23 @@
+---
+  id: "2436"
+  word: "baran"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "baran"
+      acc: "barana"
+      gen: "barana"
+      loc: "baranu"
+      dat: "baranu"
+      ins: "baranom"
+      voc: "barane"
+    plural: 
+      nom: "barani"
+      acc: "baranov"
+      gen: "baranov"
+      loc: "baranah"
+      dat: "baranam"
+      ins: "baranami"
+      voc: "barani"

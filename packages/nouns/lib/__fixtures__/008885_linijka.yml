@@ -1,0 +1,22 @@
+---
+  id: "8885"
+  word: "linijka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "linijka"
+      acc: "linijkų"
+      gen: "linijky"
+      loc: "linijkě"
+      dat: "linijkě"
+      ins: "linijkojų"
+      voc: "linijko"
+    plural: 
+      nom: "linijky"
+      acc: "linijky"
+      gen: "linijek"
+      loc: "linijkah"
+      dat: "linijkam"
+      ins: "linijkami"
+      voc: "linijky"

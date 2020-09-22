@@ -1,0 +1,23 @@
+---
+  id: "6915"
+  word: "črvenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črvenec"
+      acc: "črvenca"
+      gen: "črvenca"
+      loc: "črvencu"
+      dat: "črvencu"
+      ins: "črvencem"
+      voc: "črvenče"
+    plural: 
+      nom: "črvenci"
+      acc: "črvencev"
+      gen: "črvencev"
+      loc: "črvencah"
+      dat: "črvencam"
+      ins: "črvencami"
+      voc: "črvenci"

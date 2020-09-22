@@ -1,0 +1,22 @@
+---
+  id: "36650"
+  word: "trankvilizator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trankvilizator"
+      acc: "trankvilizator"
+      gen: "trankvilizatora"
+      loc: "trankvilizatoru"
+      dat: "trankvilizatoru"
+      ins: "trankvilizatorom"
+      voc: "trankvilizatore"
+    plural: 
+      nom: "trankvilizatory"
+      acc: "trankvilizatory"
+      gen: "trankvilizatorov"
+      loc: "trankvilizatorah"
+      dat: "trankvilizatoram"
+      ins: "trankvilizatorami"
+      voc: "trankvilizatory"

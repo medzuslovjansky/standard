@@ -1,0 +1,22 @@
+---
+  id: "24180"
+  word: "aksioma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aksioma"
+      acc: "aksiomų"
+      gen: "aksiomy"
+      loc: "aksiomě"
+      dat: "aksiomě"
+      ins: "aksiomojų"
+      voc: "aksiomo"
+    plural: 
+      nom: "aksiomy"
+      acc: "aksiomy"
+      gen: "aksiom"
+      loc: "aksiomah"
+      dat: "aksiomam"
+      ins: "aksiomami"
+      voc: "aksiomy"

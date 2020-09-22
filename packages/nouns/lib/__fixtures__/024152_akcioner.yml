@@ -1,0 +1,23 @@
+---
+  id: "24152"
+  word: "akcioner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "akcioner"
+      acc: "akcionera"
+      gen: "akcionera"
+      loc: "akcioneru"
+      dat: "akcioneru"
+      ins: "akcionerom"
+      voc: "akcionere"
+    plural: 
+      nom: "akcioneri"
+      acc: "akcionerov"
+      gen: "akcionerov"
+      loc: "akcionerah"
+      dat: "akcioneram"
+      ins: "akcionerami"
+      voc: "akcioneri"

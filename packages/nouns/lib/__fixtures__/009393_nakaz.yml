@@ -1,0 +1,22 @@
+---
+  id: "9393"
+  word: "nakaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nakaz"
+      acc: "nakaz"
+      gen: "nakaza"
+      loc: "nakazu"
+      dat: "nakazu"
+      ins: "nakazom"
+      voc: "nakaze"
+    plural: 
+      nom: "nakazy"
+      acc: "nakazy"
+      gen: "nakazov"
+      loc: "nakazah"
+      dat: "nakazam"
+      ins: "nakazami"
+      voc: "nakazy"

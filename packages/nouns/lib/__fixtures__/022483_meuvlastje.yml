@@ -1,0 +1,22 @@
+---
+  id: "22483"
+  word: "međuvlasťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "međuvlasťje"
+      acc: "međuvlasťje"
+      gen: "međuvlasťja"
+      loc: "međuvlasťju"
+      dat: "međuvlasťju"
+      ins: "međuvlasťjem"
+      voc: "međuvlasťje"
+    plural: 
+      nom: "međuvlasťja"
+      acc: "međuvlasťja"
+      gen: "međuvlastij"
+      loc: "međuvlasťjah"
+      dat: "međuvlasťjam"
+      ins: "međuvlasťjami"
+      voc: "međuvlasťja"

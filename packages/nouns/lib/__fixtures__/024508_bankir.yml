@@ -1,0 +1,23 @@
+---
+  id: "24508"
+  word: "bankir"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bankir"
+      acc: "bankira"
+      gen: "bankira"
+      loc: "bankiru"
+      dat: "bankiru"
+      ins: "bankirom"
+      voc: "bankire"
+    plural: 
+      nom: "bankiri"
+      acc: "bankirov"
+      gen: "bankirov"
+      loc: "bankirah"
+      dat: "bankiram"
+      ins: "bankirami"
+      voc: "bankiri"

@@ -1,0 +1,22 @@
+---
+  id: "20595"
+  word: "podkategorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podkategorija"
+      acc: "podkategorijų"
+      gen: "podkategorije"
+      loc: "podkategoriji"
+      dat: "podkategoriji"
+      ins: "podkategorijejų"
+      voc: "podkategorijo"
+    plural: 
+      nom: "podkategorije"
+      acc: "podkategorije"
+      gen: "podkategorij"
+      loc: "podkategorijah"
+      dat: "podkategorijam"
+      ins: "podkategorijami"
+      voc: "podkategorije"

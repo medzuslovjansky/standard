@@ -1,0 +1,22 @@
+---
+  id: "30750"
+  word: "sosna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sosna"
+      acc: "sosnų"
+      gen: "sosny"
+      loc: "sosně"
+      dat: "sosně"
+      ins: "sosnojų"
+      voc: "sosno"
+    plural: 
+      nom: "sosny"
+      acc: "sosny"
+      gen: "sosen"
+      loc: "sosnah"
+      dat: "sosnam"
+      ins: "sosnami"
+      voc: "sosny"

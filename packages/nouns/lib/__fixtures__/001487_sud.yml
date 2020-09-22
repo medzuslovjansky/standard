@@ -1,0 +1,22 @@
+---
+  id: "1487"
+  word: "sųd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sųd"
+      acc: "sųd"
+      gen: "sųda"
+      loc: "sųdu"
+      dat: "sųdu"
+      ins: "sųdom"
+      voc: "sųde"
+    plural: 
+      nom: "sųdy"
+      acc: "sųdy"
+      gen: "sųdov"
+      loc: "sųdah"
+      dat: "sųdam"
+      ins: "sųdami"
+      voc: "sųdy"

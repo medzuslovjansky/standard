@@ -1,0 +1,22 @@
+---
+  id: "31041"
+  word: "vazelin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vazelin"
+      acc: "vazelin"
+      gen: "vazelina"
+      loc: "vazelinu"
+      dat: "vazelinu"
+      ins: "vazelinom"
+      voc: "vazeline"
+    plural: 
+      nom: "vazeliny"
+      acc: "vazeliny"
+      gen: "vazelinov"
+      loc: "vazelinah"
+      dat: "vazelinam"
+      ins: "vazelinami"
+      voc: "vazeliny"

@@ -1,0 +1,22 @@
+---
+  id: "2477"
+  word: "brjuho"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "brjuho"
+      acc: "brjuho"
+      gen: "brjuha"
+      loc: "brjuhu"
+      dat: "brjuhu"
+      ins: "brjuhom"
+      voc: "brjuho"
+    plural: 
+      nom: "brjuha"
+      acc: "brjuha"
+      gen: "brjuh"
+      loc: "brjuhah"
+      dat: "brjuham"
+      ins: "brjuhami"
+      voc: "brjuha"

@@ -1,0 +1,22 @@
+---
+  id: "6265"
+  word: "cirk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cirk"
+      acc: "cirk"
+      gen: "cirka"
+      loc: "cirku"
+      dat: "cirku"
+      ins: "cirkom"
+      voc: "cirče"
+    plural: 
+      nom: "cirky"
+      acc: "cirky"
+      gen: "cirkov"
+      loc: "cirkah"
+      dat: "cirkam"
+      ins: "cirkami"
+      voc: "cirky"

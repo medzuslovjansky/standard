@@ -1,0 +1,15 @@
+---
+  id: "9365"
+  word: "najem"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "najem"
+      acc: "najem"
+      gen: "najema"
+      loc: "najemu"
+      dat: "najemu"
+      ins: "najemom"
+      voc: "najeme"

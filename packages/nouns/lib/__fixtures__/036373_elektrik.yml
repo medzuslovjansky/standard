@@ -1,0 +1,23 @@
+---
+  id: "36373"
+  word: "elektrik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "elektrik"
+      acc: "elektrika"
+      gen: "elektrika"
+      loc: "elektriku"
+      dat: "elektriku"
+      ins: "elektrikom"
+      voc: "električe"
+    plural: 
+      nom: "elektriki"
+      acc: "elektrikov"
+      gen: "elektrikov"
+      loc: "elektrikah"
+      dat: "elektrikam"
+      ins: "elektrikami"
+      voc: "elektriki"

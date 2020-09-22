@@ -1,0 +1,22 @@
+---
+  id: "23668"
+  word: "utěšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "utěšeńje"
+      acc: "utěšeńje"
+      gen: "utěšeńja"
+      loc: "utěšeńju"
+      dat: "utěšeńju"
+      ins: "utěšeńjem"
+      voc: "utěšeńje"
+    plural: 
+      nom: "utěšeńja"
+      acc: "utěšeńja"
+      gen: "utěšenij"
+      loc: "utěšeńjah"
+      dat: "utěšeńjam"
+      ins: "utěšeńjami"
+      voc: "utěšeńja"

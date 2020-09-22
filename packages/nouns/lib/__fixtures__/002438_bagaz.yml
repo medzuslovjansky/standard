@@ -1,0 +1,22 @@
+---
+  id: "2438"
+  word: "bagaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bagaž"
+      acc: "bagaž"
+      gen: "bagaža"
+      loc: "bagažu"
+      dat: "bagažu"
+      ins: "bagažem"
+      voc: "bagažu"
+    plural: 
+      nom: "bagaže"
+      acc: "bagaže"
+      gen: "bagažev"
+      loc: "bagažah"
+      dat: "bagažam"
+      ins: "bagažami"
+      voc: "bagaže"

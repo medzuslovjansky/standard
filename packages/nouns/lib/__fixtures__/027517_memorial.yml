@@ -1,0 +1,22 @@
+---
+  id: "27517"
+  word: "memorial"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "memorial"
+      acc: "memorial"
+      gen: "memoriala"
+      loc: "memorialu"
+      dat: "memorialu"
+      ins: "memorialom"
+      voc: "memoriale"
+    plural: 
+      nom: "memorialy"
+      acc: "memorialy"
+      gen: "memorialov"
+      loc: "memorialah"
+      dat: "memorialam"
+      ins: "memorialami"
+      voc: "memorialy"

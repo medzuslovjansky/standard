@@ -1,0 +1,22 @@
+---
+  id: "6058"
+  word: "poseljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poseljeńje"
+      acc: "poseljeńje"
+      gen: "poseljeńja"
+      loc: "poseljeńju"
+      dat: "poseljeńju"
+      ins: "poseljeńjem"
+      voc: "poseljeńje"
+    plural: 
+      nom: "poseljeńja"
+      acc: "poseljeńja"
+      gen: "poseljenij"
+      loc: "poseljeńjah"
+      dat: "poseljeńjam"
+      ins: "poseljeńjami"
+      voc: "poseljeńja"

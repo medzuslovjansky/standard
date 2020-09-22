@@ -1,0 +1,23 @@
+---
+  id: "31212"
+  word: "violončelist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "violončelist"
+      acc: "violončelista"
+      gen: "violončelista"
+      loc: "violončelistu"
+      dat: "violončelistu"
+      ins: "violončelistom"
+      voc: "violončeliste"
+    plural: 
+      nom: "violončelisti"
+      acc: "violončelistov"
+      gen: "violončelistov"
+      loc: "violončelistah"
+      dat: "violončelistam"
+      ins: "violončelistami"
+      voc: "violončelisti"

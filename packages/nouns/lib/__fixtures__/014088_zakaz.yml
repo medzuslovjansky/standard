@@ -1,0 +1,22 @@
+---
+  id: "14088"
+  word: "zakaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zakaz"
+      acc: "zakaz"
+      gen: "zakaza"
+      loc: "zakazu"
+      dat: "zakazu"
+      ins: "zakazom"
+      voc: "zakaze"
+    plural: 
+      nom: "zakazy"
+      acc: "zakazy"
+      gen: "zakazov"
+      loc: "zakazah"
+      dat: "zakazam"
+      ins: "zakazami"
+      voc: "zakazy"

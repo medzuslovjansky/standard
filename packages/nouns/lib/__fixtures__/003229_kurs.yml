@@ -1,0 +1,22 @@
+---
+  id: "3229"
+  word: "kurs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kurs"
+      acc: "kurs"
+      gen: "kursa"
+      loc: "kursu"
+      dat: "kursu"
+      ins: "kursom"
+      voc: "kurse"
+    plural: 
+      nom: "kursy"
+      acc: "kursy"
+      gen: "kursov"
+      loc: "kursah"
+      dat: "kursam"
+      ins: "kursami"
+      voc: "kursy"

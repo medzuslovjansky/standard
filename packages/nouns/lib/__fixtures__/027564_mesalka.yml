@@ -1,0 +1,22 @@
+---
+  id: "27564"
+  word: "mešalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mešalka"
+      acc: "mešalkų"
+      gen: "mešalky"
+      loc: "mešalkě"
+      dat: "mešalkě"
+      ins: "mešalkojų"
+      voc: "mešalko"
+    plural: 
+      nom: "mešalky"
+      acc: "mešalky"
+      gen: "mešalȯk"
+      loc: "mešalkah"
+      dat: "mešalkam"
+      ins: "mešalkami"
+      voc: "mešalky"

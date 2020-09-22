@@ -1,0 +1,22 @@
+---
+  id: "36198"
+  word: "Kremlj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Kremlj"
+      acc: "Kremlj"
+      gen: "Kremlja"
+      loc: "Kremlju"
+      dat: "Kremlju"
+      ins: "Kremljem"
+      voc: "Kremlju"
+    plural: 
+      nom: "Kremlje"
+      acc: "Kremlje"
+      gen: "Kremljev"
+      loc: "Kremljah"
+      dat: "Kremljam"
+      ins: "Kremljami"
+      voc: "Kremlje"

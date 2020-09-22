@@ -1,0 +1,22 @@
+---
+  id: "2139"
+  word: "festival"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "festival"
+      acc: "festival"
+      gen: "festivala"
+      loc: "festivalu"
+      dat: "festivalu"
+      ins: "festivalom"
+      voc: "festivale"
+    plural: 
+      nom: "festivaly"
+      acc: "festivaly"
+      gen: "festivalov"
+      loc: "festivalah"
+      dat: "festivalam"
+      ins: "festivalami"
+      voc: "festivaly"

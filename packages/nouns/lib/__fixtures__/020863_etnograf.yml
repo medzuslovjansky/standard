@@ -1,0 +1,23 @@
+---
+  id: "20863"
+  word: "etnograf"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "etnograf"
+      acc: "etnografa"
+      gen: "etnografa"
+      loc: "etnografu"
+      dat: "etnografu"
+      ins: "etnografom"
+      voc: "etnografe"
+    plural: 
+      nom: "etnografi"
+      acc: "etnografov"
+      gen: "etnografov"
+      loc: "etnografah"
+      dat: "etnografam"
+      ins: "etnografami"
+      voc: "etnografi"

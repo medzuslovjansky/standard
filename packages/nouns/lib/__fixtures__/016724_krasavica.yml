@@ -1,0 +1,22 @@
+---
+  id: "16724"
+  word: "krasavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasavica"
+      acc: "krasavicų"
+      gen: "krasavice"
+      loc: "krasavici"
+      dat: "krasavici"
+      ins: "krasavicejų"
+      voc: "krasavico"
+    plural: 
+      nom: "krasavice"
+      acc: "krasavice"
+      gen: "krasavic"
+      loc: "krasavicah"
+      dat: "krasavicam"
+      ins: "krasavicami"
+      voc: "krasavice"

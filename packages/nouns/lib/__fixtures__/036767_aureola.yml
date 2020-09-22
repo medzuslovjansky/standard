@@ -1,0 +1,22 @@
+---
+  id: "36767"
+  word: "aureola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aureola"
+      acc: "aureolų"
+      gen: "aureoly"
+      loc: "aureolě"
+      dat: "aureolě"
+      ins: "aureolojų"
+      voc: "aureolo"
+    plural: 
+      nom: "aureoly"
+      acc: "aureoly"
+      gen: "aureol"
+      loc: "aureolah"
+      dat: "aureolam"
+      ins: "aureolami"
+      voc: "aureoly"

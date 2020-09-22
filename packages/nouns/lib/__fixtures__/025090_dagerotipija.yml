@@ -1,0 +1,22 @@
+---
+  id: "25090"
+  word: "dagerotipija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dagerotipija"
+      acc: "dagerotipijų"
+      gen: "dagerotipije"
+      loc: "dagerotipiji"
+      dat: "dagerotipiji"
+      ins: "dagerotipijejų"
+      voc: "dagerotipijo"
+    plural: 
+      nom: "dagerotipije"
+      acc: "dagerotipije"
+      gen: "dagerotipij"
+      loc: "dagerotipijah"
+      dat: "dagerotipijam"
+      ins: "dagerotipijami"
+      voc: "dagerotipije"

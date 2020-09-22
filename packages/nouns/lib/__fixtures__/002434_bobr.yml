@@ -1,0 +1,23 @@
+---
+  id: "2434"
+  word: "bobr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bobr"
+      acc: "bobra"
+      gen: "bobra"
+      loc: "bobru"
+      dat: "bobru"
+      ins: "bobrom"
+      voc: "bobre"
+    plural: 
+      nom: "bobri"
+      acc: "bobrov"
+      gen: "bobrov"
+      loc: "bobrah"
+      dat: "bobram"
+      ins: "bobrami"
+      voc: "bobri"

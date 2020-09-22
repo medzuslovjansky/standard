@@ -1,0 +1,22 @@
+---
+  id: "4869"
+  word: "kolikosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolikosť"
+      acc: "kolikosť"
+      gen: "kolikosti"
+      loc: "kolikosti"
+      dat: "kolikosti"
+      ins: "kolikosťjų"
+      voc: "kolikosti"
+    plural: 
+      nom: "kolikosti"
+      acc: "kolikosti"
+      gen: "kolikostij"
+      loc: "kolikosťah"
+      dat: "kolikosťam"
+      ins: "kolikosťami"
+      voc: "kolikosti"

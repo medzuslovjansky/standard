@@ -1,0 +1,22 @@
+---
+  id: "34950"
+  word: "fon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fon"
+      acc: "fon"
+      gen: "fona"
+      loc: "fonu"
+      dat: "fonu"
+      ins: "fonom"
+      voc: "fone"
+    plural: 
+      nom: "fony"
+      acc: "fony"
+      gen: "fonov"
+      loc: "fonah"
+      dat: "fonam"
+      ins: "fonami"
+      voc: "fony"

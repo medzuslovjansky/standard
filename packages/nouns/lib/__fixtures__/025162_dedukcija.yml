@@ -1,0 +1,22 @@
+---
+  id: "25162"
+  word: "dedukcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dedukcija"
+      acc: "dedukcijų"
+      gen: "dedukcije"
+      loc: "dedukciji"
+      dat: "dedukciji"
+      ins: "dedukcijejų"
+      voc: "dedukcijo"
+    plural: 
+      nom: "dedukcije"
+      acc: "dedukcije"
+      gen: "dedukcij"
+      loc: "dedukcijah"
+      dat: "dedukcijam"
+      ins: "dedukcijami"
+      voc: "dedukcije"

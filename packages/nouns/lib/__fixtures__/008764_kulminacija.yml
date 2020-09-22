@@ -1,0 +1,22 @@
+---
+  id: "8764"
+  word: "kulminacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kulminacija"
+      acc: "kulminacijų"
+      gen: "kulminacije"
+      loc: "kulminaciji"
+      dat: "kulminaciji"
+      ins: "kulminacijejų"
+      voc: "kulminacijo"
+    plural: 
+      nom: "kulminacije"
+      acc: "kulminacije"
+      gen: "kulminacij"
+      loc: "kulminacijah"
+      dat: "kulminacijam"
+      ins: "kulminacijami"
+      voc: "kulminacije"

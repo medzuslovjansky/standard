@@ -1,0 +1,22 @@
+---
+  id: "29926"
+  word: "pokryvalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pokryvalo"
+      acc: "pokryvalo"
+      gen: "pokryvala"
+      loc: "pokryvalu"
+      dat: "pokryvalu"
+      ins: "pokryvalom"
+      voc: "pokryvalo"
+    plural: 
+      nom: "pokryvala"
+      acc: "pokryvala"
+      gen: "pokryval"
+      loc: "pokryvalah"
+      dat: "pokryvalam"
+      ins: "pokryvalami"
+      voc: "pokryvala"

@@ -1,0 +1,22 @@
+---
+  id: "32130"
+  word: "logaritm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "logaritm"
+      acc: "logaritm"
+      gen: "logaritma"
+      loc: "logaritmu"
+      dat: "logaritmu"
+      ins: "logaritmom"
+      voc: "logaritme"
+    plural: 
+      nom: "logaritmy"
+      acc: "logaritmy"
+      gen: "logaritmov"
+      loc: "logaritmah"
+      dat: "logaritmam"
+      ins: "logaritmami"
+      voc: "logaritmy"

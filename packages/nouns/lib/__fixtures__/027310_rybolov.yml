@@ -1,0 +1,22 @@
+---
+  id: "27310"
+  word: "rybolov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rybolov"
+      acc: "rybolov"
+      gen: "rybolova"
+      loc: "rybolovu"
+      dat: "rybolovu"
+      ins: "rybolovom"
+      voc: "rybolove"
+    plural: 
+      nom: "rybolovy"
+      acc: "rybolovy"
+      gen: "rybolovov"
+      loc: "rybolovah"
+      dat: "rybolovam"
+      ins: "rybolovami"
+      voc: "rybolovy"

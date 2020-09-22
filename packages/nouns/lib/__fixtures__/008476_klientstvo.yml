@@ -1,0 +1,15 @@
+---
+  id: "8476"
+  word: "klientstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "klientstvo"
+      acc: "klientstvo"
+      gen: "klientstva"
+      loc: "klientstvu"
+      dat: "klientstvu"
+      ins: "klientstvom"
+      voc: "klientstvo"

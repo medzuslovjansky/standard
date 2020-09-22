@@ -1,0 +1,22 @@
+---
+  id: "23778"
+  word: "rědkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rědkosť"
+      acc: "rědkosť"
+      gen: "rědkosti"
+      loc: "rědkosti"
+      dat: "rědkosti"
+      ins: "rědkosťjų"
+      voc: "rědkosti"
+    plural: 
+      nom: "rědkosti"
+      acc: "rědkosti"
+      gen: "rědkostij"
+      loc: "rědkosťah"
+      dat: "rědkosťam"
+      ins: "rědkosťami"
+      voc: "rědkosti"

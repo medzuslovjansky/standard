@@ -1,0 +1,22 @@
+---
+  id: "17188"
+  word: "carica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "carica"
+      acc: "caricų"
+      gen: "carice"
+      loc: "carici"
+      dat: "carici"
+      ins: "caricejų"
+      voc: "carico"
+    plural: 
+      nom: "carice"
+      acc: "carice"
+      gen: "caric"
+      loc: "caricah"
+      dat: "caricam"
+      ins: "caricami"
+      voc: "carice"

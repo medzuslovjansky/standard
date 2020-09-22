@@ -1,0 +1,22 @@
+---
+  id: "27613"
+  word: "minibus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "minibus"
+      acc: "minibus"
+      gen: "minibusa"
+      loc: "minibusu"
+      dat: "minibusu"
+      ins: "minibusom"
+      voc: "minibuse"
+    plural: 
+      nom: "minibusy"
+      acc: "minibusy"
+      gen: "minibusov"
+      loc: "minibusah"
+      dat: "minibusam"
+      ins: "minibusami"
+      voc: "minibusy"

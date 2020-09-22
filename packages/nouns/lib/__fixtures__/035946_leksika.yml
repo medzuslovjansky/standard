@@ -1,0 +1,22 @@
+---
+  id: "35946"
+  word: "leksika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "leksika"
+      acc: "leksikų"
+      gen: "leksiky"
+      loc: "leksikě"
+      dat: "leksikě"
+      ins: "leksikojų"
+      voc: "leksiko"
+    plural: 
+      nom: "leksiky"
+      acc: "leksiky"
+      gen: "leksik"
+      loc: "leksikah"
+      dat: "leksikam"
+      ins: "leksikami"
+      voc: "leksiky"

@@ -1,0 +1,22 @@
+---
+  id: "3044"
+  word: "betonomešalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "betonomešalka"
+      acc: "betonomešalkų"
+      gen: "betonomešalky"
+      loc: "betonomešalkě"
+      dat: "betonomešalkě"
+      ins: "betonomešalkojų"
+      voc: "betonomešalko"
+    plural: 
+      nom: "betonomešalky"
+      acc: "betonomešalky"
+      gen: "betonomešalȯk"
+      loc: "betonomešalkah"
+      dat: "betonomešalkam"
+      ins: "betonomešalkami"
+      voc: "betonomešalky"

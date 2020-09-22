@@ -1,0 +1,22 @@
+---
+  id: "24197"
+  word: "aktrisa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktrisa"
+      acc: "aktrisų"
+      gen: "aktrisy"
+      loc: "aktrisě"
+      dat: "aktrisě"
+      ins: "aktrisojų"
+      voc: "aktriso"
+    plural: 
+      nom: "aktrisy"
+      acc: "aktrisy"
+      gen: "aktris"
+      loc: "aktrisah"
+      dat: "aktrisam"
+      ins: "aktrisami"
+      voc: "aktrisy"

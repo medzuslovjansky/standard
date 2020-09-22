@@ -1,0 +1,22 @@
+---
+  id: "35436"
+  word: "marmelada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marmelada"
+      acc: "marmeladų"
+      gen: "marmelady"
+      loc: "marmeladě"
+      dat: "marmeladě"
+      ins: "marmeladojų"
+      voc: "marmelado"
+    plural: 
+      nom: "marmelady"
+      acc: "marmelady"
+      gen: "marmelad"
+      loc: "marmeladah"
+      dat: "marmeladam"
+      ins: "marmeladami"
+      voc: "marmelady"

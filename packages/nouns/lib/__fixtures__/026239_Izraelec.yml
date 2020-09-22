@@ -1,0 +1,23 @@
+---
+  id: "26239"
+  word: "Izraelec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Izraelec"
+      acc: "Izraelca"
+      gen: "Izraelca"
+      loc: "Izraelcu"
+      dat: "Izraelcu"
+      ins: "Izraelcem"
+      voc: "Izraelče"
+    plural: 
+      nom: "Izraelci"
+      acc: "Izraelcev"
+      gen: "Izraelcev"
+      loc: "Izraelcah"
+      dat: "Izraelcam"
+      ins: "Izraelcami"
+      voc: "Izraelci"

@@ -1,0 +1,22 @@
+---
+  id: "24490"
+  word: "bambus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bambus"
+      acc: "bambus"
+      gen: "bambusa"
+      loc: "bambusu"
+      dat: "bambusu"
+      ins: "bambusom"
+      voc: "bambuse"
+    plural: 
+      nom: "bambusy"
+      acc: "bambusy"
+      gen: "bambusov"
+      loc: "bambusah"
+      dat: "bambusam"
+      ins: "bambusami"
+      voc: "bambusy"

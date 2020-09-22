@@ -1,0 +1,22 @@
+---
+  id: "36002"
+  word: "kabina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kabina"
+      acc: "kabinų"
+      gen: "kabiny"
+      loc: "kabině"
+      dat: "kabině"
+      ins: "kabinojų"
+      voc: "kabino"
+    plural: 
+      nom: "kabiny"
+      acc: "kabiny"
+      gen: "kabin"
+      loc: "kabinah"
+      dat: "kabinam"
+      ins: "kabinami"
+      voc: "kabiny"

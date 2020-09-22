@@ -1,0 +1,22 @@
+---
+  id: "6172"
+  word: "eparhija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "eparhija"
+      acc: "eparhijų"
+      gen: "eparhije"
+      loc: "eparhiji"
+      dat: "eparhiji"
+      ins: "eparhijejų"
+      voc: "eparhijo"
+    plural: 
+      nom: "eparhije"
+      acc: "eparhije"
+      gen: "eparhij"
+      loc: "eparhijah"
+      dat: "eparhijam"
+      ins: "eparhijami"
+      voc: "eparhije"

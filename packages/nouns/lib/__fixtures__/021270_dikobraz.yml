@@ -1,0 +1,23 @@
+---
+  id: "21270"
+  word: "dikobraz"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dikobraz"
+      acc: "dikobraza"
+      gen: "dikobraza"
+      loc: "dikobrazu"
+      dat: "dikobrazu"
+      ins: "dikobrazom"
+      voc: "dikobraze"
+    plural: 
+      nom: "dikobrazi"
+      acc: "dikobrazov"
+      gen: "dikobrazov"
+      loc: "dikobrazah"
+      dat: "dikobrazam"
+      ins: "dikobrazami"
+      voc: "dikobrazi"

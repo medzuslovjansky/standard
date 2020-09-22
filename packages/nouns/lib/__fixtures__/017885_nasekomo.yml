@@ -1,0 +1,22 @@
+---
+  id: "17885"
+  word: "nasěkomo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nasěkomo"
+      acc: "nasěkomo"
+      gen: "nasěkoma"
+      loc: "nasěkomu"
+      dat: "nasěkomu"
+      ins: "nasěkomom"
+      voc: "nasěkomo"
+    plural: 
+      nom: "nasěkoma"
+      acc: "nasěkoma"
+      gen: "nasěkom"
+      loc: "nasěkomah"
+      dat: "nasěkomam"
+      ins: "nasěkomami"
+      voc: "nasěkoma"

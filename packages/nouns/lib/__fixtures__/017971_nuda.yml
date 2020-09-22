@@ -1,0 +1,22 @@
+---
+  id: "17971"
+  word: "nuda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nuda"
+      acc: "nudų"
+      gen: "nudy"
+      loc: "nudě"
+      dat: "nudě"
+      ins: "nudojų"
+      voc: "nudo"
+    plural: 
+      nom: "nudy"
+      acc: "nudy"
+      gen: "nud"
+      loc: "nudah"
+      dat: "nudam"
+      ins: "nudami"
+      voc: "nudy"

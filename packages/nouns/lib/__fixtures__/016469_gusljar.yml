@@ -1,0 +1,23 @@
+---
+  id: "16469"
+  word: "gųsljaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gųsljaŕ"
+      acc: "gųsljaŕa"
+      gen: "gųsljaŕa"
+      loc: "gųsljaŕu"
+      dat: "gųsljaŕu"
+      ins: "gųsljaŕem"
+      voc: "gųsljaŕu"
+    plural: 
+      nom: "gųsljari"
+      acc: "gųsljaŕev"
+      gen: "gųsljaŕev"
+      loc: "gųsljaŕah"
+      dat: "gųsljaŕam"
+      ins: "gųsljaŕami"
+      voc: "gųsljari"

@@ -1,0 +1,22 @@
+---
+  id: "16802"
+  word: "tvŕđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tvŕđa"
+      acc: "tvŕđų"
+      gen: "tvŕđy"
+      loc: "tvŕđě"
+      dat: "tvŕđě"
+      ins: "tvŕđojų"
+      voc: "tvŕđo"
+    plural: 
+      nom: "tvŕđy"
+      acc: "tvŕđy"
+      gen: "tvŕđ"
+      loc: "tvŕđah"
+      dat: "tvŕđam"
+      ins: "tvŕđami"
+      voc: "tvŕđy"

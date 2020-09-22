@@ -1,0 +1,22 @@
+---
+  id: "3330"
+  word: "tema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tema"
+      acc: "temų"
+      gen: "temy"
+      loc: "temě"
+      dat: "temě"
+      ins: "temojų"
+      voc: "temo"
+    plural: 
+      nom: "temy"
+      acc: "temy"
+      gen: "tem"
+      loc: "temah"
+      dat: "temam"
+      ins: "temami"
+      voc: "temy"

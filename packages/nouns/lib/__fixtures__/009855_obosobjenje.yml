@@ -1,0 +1,22 @@
+---
+  id: "9855"
+  word: "obosobjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obosobjeńje"
+      acc: "obosobjeńje"
+      gen: "obosobjeńja"
+      loc: "obosobjeńju"
+      dat: "obosobjeńju"
+      ins: "obosobjeńjem"
+      voc: "obosobjeńje"
+    plural: 
+      nom: "obosobjeńja"
+      acc: "obosobjeńja"
+      gen: "obosobjenij"
+      loc: "obosobjeńjah"
+      dat: "obosobjeńjam"
+      ins: "obosobjeńjami"
+      voc: "obosobjeńja"

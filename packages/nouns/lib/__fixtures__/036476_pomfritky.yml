@@ -1,0 +1,15 @@
+---
+  id: "36476"
+  word: "pomfritky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "pomfritky"
+      acc: "pomfritky"
+      gen: "pomfritk"
+      loc: "pomfritkah"
+      dat: "pomfritkam"
+      ins: "pomfritkami"
+      voc: "pomfritky"

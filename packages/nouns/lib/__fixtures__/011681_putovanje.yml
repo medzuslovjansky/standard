@@ -1,0 +1,22 @@
+---
+  id: "11681"
+  word: "pųtovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pųtovańje"
+      acc: "pųtovańje"
+      gen: "pųtovańja"
+      loc: "pųtovańju"
+      dat: "pųtovańju"
+      ins: "pųtovańjem"
+      voc: "pųtovańje"
+    plural: 
+      nom: "pųtovańja"
+      acc: "pųtovańja"
+      gen: "pųtovanij"
+      loc: "pųtovańjah"
+      dat: "pųtovańjam"
+      ins: "pųtovańjami"
+      voc: "pųtovańja"

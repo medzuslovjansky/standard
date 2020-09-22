@@ -1,0 +1,22 @@
+---
+  id: "2486"
+  word: "bukva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bukva"
+      acc: "bukvų"
+      gen: "bukvy"
+      loc: "bukvě"
+      dat: "bukvě"
+      ins: "bukvojų"
+      voc: "bukvo"
+    plural: 
+      nom: "bukvy"
+      acc: "bukvy"
+      gen: "bukv"
+      loc: "bukvah"
+      dat: "bukvam"
+      ins: "bukvami"
+      voc: "bukvy"

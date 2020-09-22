@@ -1,0 +1,23 @@
+---
+  id: "5934"
+  word: "morjeplavatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "morjeplavatelj"
+      acc: "morjeplavatelja"
+      gen: "morjeplavatelja"
+      loc: "morjeplavatelju"
+      dat: "morjeplavatelju"
+      ins: "morjeplavateljem"
+      voc: "morjeplavatelju"
+    plural: 
+      nom: "morjeplavatelji"
+      acc: "morjeplavateljev"
+      gen: "morjeplavateljev"
+      loc: "morjeplavateljah"
+      dat: "morjeplavateljam"
+      ins: "morjeplavateljami"
+      voc: "morjeplavatelji"

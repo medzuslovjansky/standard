@@ -1,0 +1,15 @@
+---
+  id: "20344"
+  word: "běglosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "běglosť"
+      acc: "běglosť"
+      gen: "běglosti"
+      loc: "běglosti"
+      dat: "běglosti"
+      ins: "běglosťjų"
+      voc: "běglosti"

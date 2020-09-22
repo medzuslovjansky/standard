@@ -1,0 +1,15 @@
+---
+  id: "35351"
+  word: "SSSR"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "SSSR"
+      acc: "SSSR"
+      gen: "SSSRa"
+      loc: "SSSRu"
+      dat: "SSSRu"
+      ins: "SSSRom"
+      voc: "SSSRe"

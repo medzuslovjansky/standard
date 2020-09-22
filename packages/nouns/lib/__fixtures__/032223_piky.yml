@@ -1,0 +1,15 @@
+---
+  id: "32223"
+  word: "piky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "piky"
+      acc: "piky"
+      gen: "pik"
+      loc: "pikah"
+      dat: "pikam"
+      ins: "pikami"
+      voc: "piky"

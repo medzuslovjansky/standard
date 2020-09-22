@@ -1,0 +1,23 @@
+---
+  id: "14383"
+  word: "Žid"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Žid"
+      acc: "Žida"
+      gen: "Žida"
+      loc: "Židu"
+      dat: "Židu"
+      ins: "Židom"
+      voc: "Žide"
+    plural: 
+      nom: "Židi"
+      acc: "Židov"
+      gen: "Židov"
+      loc: "Židah"
+      dat: "Židam"
+      ins: "Židami"
+      voc: "Židi"

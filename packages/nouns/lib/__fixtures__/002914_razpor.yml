@@ -1,0 +1,22 @@
+---
+  id: "2914"
+  word: "råzpor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzpor"
+      acc: "råzpor"
+      gen: "råzpora"
+      loc: "råzporu"
+      dat: "råzporu"
+      ins: "råzporom"
+      voc: "råzpore"
+    plural: 
+      nom: "råzpory"
+      acc: "råzpory"
+      gen: "råzporov"
+      loc: "råzporah"
+      dat: "råzporam"
+      ins: "råzporami"
+      voc: "råzpory"

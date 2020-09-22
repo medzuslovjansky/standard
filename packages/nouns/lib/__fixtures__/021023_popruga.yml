@@ -1,0 +1,22 @@
+---
+  id: "21023"
+  word: "poprųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poprųga"
+      acc: "poprųgų"
+      gen: "poprųgy"
+      loc: "poprųgě"
+      dat: "poprųgě"
+      ins: "poprųgojų"
+      voc: "poprųgo"
+    plural: 
+      nom: "poprųgy"
+      acc: "poprųgy"
+      gen: "poprųg"
+      loc: "poprųgah"
+      dat: "poprųgam"
+      ins: "poprųgami"
+      voc: "poprųgy"

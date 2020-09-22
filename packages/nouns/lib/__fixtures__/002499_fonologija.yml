@@ -1,0 +1,15 @@
+---
+  id: "2499"
+  word: "fonologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fonologija"
+      acc: "fonologijų"
+      gen: "fonologije"
+      loc: "fonologiji"
+      dat: "fonologiji"
+      ins: "fonologijejų"
+      voc: "fonologijo"

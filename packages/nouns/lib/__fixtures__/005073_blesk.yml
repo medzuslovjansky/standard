@@ -1,0 +1,22 @@
+---
+  id: "5073"
+  word: "blěsk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blěsk"
+      acc: "blěsk"
+      gen: "blěska"
+      loc: "blěsku"
+      dat: "blěsku"
+      ins: "blěskom"
+      voc: "blěsče"
+    plural: 
+      nom: "blěsky"
+      acc: "blěsky"
+      gen: "blěskov"
+      loc: "blěskah"
+      dat: "blěskam"
+      ins: "blěskami"
+      voc: "blěsky"

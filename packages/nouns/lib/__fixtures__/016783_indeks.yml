@@ -1,0 +1,22 @@
+---
+  id: "16783"
+  word: "indeks"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "indeks"
+      acc: "indeks"
+      gen: "indeksa"
+      loc: "indeksu"
+      dat: "indeksu"
+      ins: "indeksom"
+      voc: "indekse"
+    plural: 
+      nom: "indeksy"
+      acc: "indeksy"
+      gen: "indeksov"
+      loc: "indeksah"
+      dat: "indeksam"
+      ins: "indeksami"
+      voc: "indeksy"

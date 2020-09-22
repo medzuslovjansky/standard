@@ -1,0 +1,22 @@
+---
+  id: "36237"
+  word: "suknja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "suknja"
+      acc: "suknjų"
+      gen: "suknje"
+      loc: "suknji"
+      dat: "suknji"
+      ins: "suknjejų"
+      voc: "suknjo"
+    plural: 
+      nom: "suknje"
+      acc: "suknje"
+      gen: "suknej"
+      loc: "suknjah"
+      dat: "suknjam"
+      ins: "suknjami"
+      voc: "suknje"

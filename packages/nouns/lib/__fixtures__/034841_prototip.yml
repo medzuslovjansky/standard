@@ -1,0 +1,22 @@
+---
+  id: "34841"
+  word: "prototip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prototip"
+      acc: "prototip"
+      gen: "prototipa"
+      loc: "prototipu"
+      dat: "prototipu"
+      ins: "prototipom"
+      voc: "prototipe"
+    plural: 
+      nom: "prototipy"
+      acc: "prototipy"
+      gen: "prototipov"
+      loc: "prototipah"
+      dat: "prototipam"
+      ins: "prototipami"
+      voc: "prototipy"

@@ -1,0 +1,22 @@
+---
+  id: "19002"
+  word: "trudoljubivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trudoljubivosť"
+      acc: "trudoljubivosť"
+      gen: "trudoljubivosti"
+      loc: "trudoljubivosti"
+      dat: "trudoljubivosti"
+      ins: "trudoljubivosťjų"
+      voc: "trudoljubivosti"
+    plural: 
+      nom: "trudoljubivosti"
+      acc: "trudoljubivosti"
+      gen: "trudoljubivostij"
+      loc: "trudoljubivosťah"
+      dat: "trudoljubivosťam"
+      ins: "trudoljubivosťami"
+      voc: "trudoljubivosti"

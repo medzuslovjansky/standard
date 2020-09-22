@@ -1,0 +1,15 @@
+---
+  id: "24302"
+  word: "amonijak"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "amonijak"
+      acc: "amonijak"
+      gen: "amonijaka"
+      loc: "amonijaku"
+      dat: "amonijaku"
+      ins: "amonijakom"
+      voc: "amonijače"

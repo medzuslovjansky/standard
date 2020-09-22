@@ -1,0 +1,23 @@
+---
+  id: "1387"
+  word: "sȯjųznik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sȯjųznik"
+      acc: "sȯjųznika"
+      gen: "sȯjųznika"
+      loc: "sȯjųzniku"
+      dat: "sȯjųzniku"
+      ins: "sȯjųznikom"
+      voc: "sȯjųzniče"
+    plural: 
+      nom: "sȯjųzniki"
+      acc: "sȯjųznikov"
+      gen: "sȯjųznikov"
+      loc: "sȯjųznikah"
+      dat: "sȯjųznikam"
+      ins: "sȯjųznikami"
+      voc: "sȯjųzniki"

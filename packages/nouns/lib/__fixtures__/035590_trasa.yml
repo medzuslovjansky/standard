@@ -1,0 +1,22 @@
+---
+  id: "35590"
+  word: "trasa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trasa"
+      acc: "trasų"
+      gen: "trasy"
+      loc: "trasě"
+      dat: "trasě"
+      ins: "trasojų"
+      voc: "traso"
+    plural: 
+      nom: "trasy"
+      acc: "trasy"
+      gen: "tras"
+      loc: "trasah"
+      dat: "trasam"
+      ins: "trasami"
+      voc: "trasy"

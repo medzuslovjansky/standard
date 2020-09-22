@@ -1,0 +1,22 @@
+---
+  id: "30713"
+  word: "slivovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slivovica"
+      acc: "slivovicų"
+      gen: "slivovice"
+      loc: "slivovici"
+      dat: "slivovici"
+      ins: "slivovicejų"
+      voc: "slivovico"
+    plural: 
+      nom: "slivovice"
+      acc: "slivovice"
+      gen: "slivovic"
+      loc: "slivovicah"
+      dat: "slivovicam"
+      ins: "slivovicami"
+      voc: "slivovice"

@@ -1,0 +1,23 @@
+---
+  id: "11349"
+  word: "prěselenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěselenec"
+      acc: "prěselenca"
+      gen: "prěselenca"
+      loc: "prěselencu"
+      dat: "prěselencu"
+      ins: "prěselencem"
+      voc: "prěselenče"
+    plural: 
+      nom: "prěselenci"
+      acc: "prěselencev"
+      gen: "prěselencev"
+      loc: "prěselencah"
+      dat: "prěselencam"
+      ins: "prěselencami"
+      voc: "prěselenci"

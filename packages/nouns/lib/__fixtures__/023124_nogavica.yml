@@ -1,0 +1,22 @@
+---
+  id: "23124"
+  word: "nogavica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nogavica"
+      acc: "nogavicų"
+      gen: "nogavice"
+      loc: "nogavici"
+      dat: "nogavici"
+      ins: "nogavicejų"
+      voc: "nogavico"
+    plural: 
+      nom: "nogavice"
+      acc: "nogavice"
+      gen: "nogavic"
+      loc: "nogavicah"
+      dat: "nogavicam"
+      ins: "nogavicami"
+      voc: "nogavice"

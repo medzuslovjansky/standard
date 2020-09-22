@@ -1,0 +1,22 @@
+---
+  id: "35296"
+  word: "diskvalifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "diskvalifikacija"
+      acc: "diskvalifikacijų"
+      gen: "diskvalifikacije"
+      loc: "diskvalifikaciji"
+      dat: "diskvalifikaciji"
+      ins: "diskvalifikacijejų"
+      voc: "diskvalifikacijo"
+    plural: 
+      nom: "diskvalifikacije"
+      acc: "diskvalifikacije"
+      gen: "diskvalifikacij"
+      loc: "diskvalifikacijah"
+      dat: "diskvalifikacijam"
+      ins: "diskvalifikacijami"
+      voc: "diskvalifikacije"

@@ -1,0 +1,22 @@
+---
+  id: "6802"
+  word: "čarovnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čarovnica"
+      acc: "čarovnicų"
+      gen: "čarovnice"
+      loc: "čarovnici"
+      dat: "čarovnici"
+      ins: "čarovnicejų"
+      voc: "čarovnico"
+    plural: 
+      nom: "čarovnice"
+      acc: "čarovnice"
+      gen: "čarovnic"
+      loc: "čarovnicah"
+      dat: "čarovnicam"
+      ins: "čarovnicami"
+      voc: "čarovnice"

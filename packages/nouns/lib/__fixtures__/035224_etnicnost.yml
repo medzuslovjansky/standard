@@ -1,0 +1,22 @@
+---
+  id: "35224"
+  word: "etničnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "etničnosť"
+      acc: "etničnosť"
+      gen: "etničnosti"
+      loc: "etničnosti"
+      dat: "etničnosti"
+      ins: "etničnosťjų"
+      voc: "etničnosti"
+    plural: 
+      nom: "etničnosti"
+      acc: "etničnosti"
+      gen: "etničnostij"
+      loc: "etničnosťah"
+      dat: "etničnosťam"
+      ins: "etničnosťami"
+      voc: "etničnosti"

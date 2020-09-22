@@ -1,0 +1,22 @@
+---
+  id: "2082"
+  word: "zakonodateljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zakonodateljstvo"
+      acc: "zakonodateljstvo"
+      gen: "zakonodateljstva"
+      loc: "zakonodateljstvu"
+      dat: "zakonodateljstvu"
+      ins: "zakonodateljstvom"
+      voc: "zakonodateljstvo"
+    plural: 
+      nom: "zakonodateljstva"
+      acc: "zakonodateljstva"
+      gen: "zakonodateljstv"
+      loc: "zakonodateljstvah"
+      dat: "zakonodateljstvam"
+      ins: "zakonodateljstvami"
+      voc: "zakonodateljstva"

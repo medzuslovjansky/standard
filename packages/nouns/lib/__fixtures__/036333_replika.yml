@@ -1,0 +1,22 @@
+---
+  id: "36333"
+  word: "replika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "replika"
+      acc: "replikų"
+      gen: "repliky"
+      loc: "replikě"
+      dat: "replikě"
+      ins: "replikojų"
+      voc: "repliko"
+    plural: 
+      nom: "repliky"
+      acc: "repliky"
+      gen: "replik"
+      loc: "replikah"
+      dat: "replikam"
+      ins: "replikami"
+      voc: "repliky"

@@ -1,0 +1,23 @@
+---
+  id: "35491"
+  word: "selfi"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "selfi"
+      acc: "selfi"
+      gen: "selfi"
+      loc: "selfi"
+      dat: "selfi"
+      ins: "selfi"
+      voc: "selfi"
+    plural: 
+      nom: "selfi"
+      acc: "selfi"
+      gen: "selfi"
+      loc: "selfi"
+      dat: "selfi"
+      ins: "selfi"
+      voc: "selfi"

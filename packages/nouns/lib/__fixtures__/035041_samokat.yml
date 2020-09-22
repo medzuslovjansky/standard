@@ -1,0 +1,22 @@
+---
+  id: "35041"
+  word: "samokat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "samokat"
+      acc: "samokat"
+      gen: "samokata"
+      loc: "samokatu"
+      dat: "samokatu"
+      ins: "samokatom"
+      voc: "samokate"
+    plural: 
+      nom: "samokaty"
+      acc: "samokaty"
+      gen: "samokatov"
+      loc: "samokatah"
+      dat: "samokatam"
+      ins: "samokatami"
+      voc: "samokaty"

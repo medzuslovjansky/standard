@@ -1,0 +1,23 @@
+---
+  id: "5803"
+  word: "junior"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "junior"
+      acc: "juniora"
+      gen: "juniora"
+      loc: "junioru"
+      dat: "junioru"
+      ins: "juniorom"
+      voc: "juniore"
+    plural: 
+      nom: "juniori"
+      acc: "juniorov"
+      gen: "juniorov"
+      loc: "juniorah"
+      dat: "junioram"
+      ins: "juniorami"
+      voc: "juniori"

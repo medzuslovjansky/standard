@@ -1,0 +1,22 @@
+---
+  id: "24515"
+  word: "bar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bar"
+      acc: "bar"
+      gen: "bara"
+      loc: "baru"
+      dat: "baru"
+      ins: "barom"
+      voc: "bare"
+    plural: 
+      nom: "bary"
+      acc: "bary"
+      gen: "barov"
+      loc: "barah"
+      dat: "baram"
+      ins: "barami"
+      voc: "bary"

@@ -1,0 +1,22 @@
+---
+  id: "20467"
+  word: "měrka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měrka"
+      acc: "měrkų"
+      gen: "měrky"
+      loc: "měrkě"
+      dat: "měrkě"
+      ins: "měrkojų"
+      voc: "měrko"
+    plural: 
+      nom: "měrky"
+      acc: "měrky"
+      gen: "měrȯk"
+      loc: "měrkah"
+      dat: "měrkam"
+      ins: "měrkami"
+      voc: "měrky"

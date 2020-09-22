@@ -1,0 +1,23 @@
+---
+  id: "1431"
+  word: "sųpernik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųpernik"
+      acc: "sųpernika"
+      gen: "sųpernika"
+      loc: "sųperniku"
+      dat: "sųperniku"
+      ins: "sųpernikom"
+      voc: "sųperniče"
+    plural: 
+      nom: "sųperniki"
+      acc: "sųpernikov"
+      gen: "sųpernikov"
+      loc: "sųpernikah"
+      dat: "sųpernikam"
+      ins: "sųpernikami"
+      voc: "sųperniki"

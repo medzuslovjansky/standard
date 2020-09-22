@@ -1,0 +1,23 @@
+---
+  id: "25313"
+  word: "dȯlžnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dȯlžnik"
+      acc: "dȯlžnika"
+      gen: "dȯlžnika"
+      loc: "dȯlžniku"
+      dat: "dȯlžniku"
+      ins: "dȯlžnikom"
+      voc: "dȯlžniče"
+    plural: 
+      nom: "dȯlžniki"
+      acc: "dȯlžnikov"
+      gen: "dȯlžnikov"
+      loc: "dȯlžnikah"
+      dat: "dȯlžnikam"
+      ins: "dȯlžnikami"
+      voc: "dȯlžniki"

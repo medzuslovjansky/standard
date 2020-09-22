@@ -1,0 +1,22 @@
+---
+  id: "22468"
+  word: "vlada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vlada"
+      acc: "vladų"
+      gen: "vlady"
+      loc: "vladě"
+      dat: "vladě"
+      ins: "vladojų"
+      voc: "vlado"
+    plural: 
+      nom: "vlady"
+      acc: "vlady"
+      gen: "vlad"
+      loc: "vladah"
+      dat: "vladam"
+      ins: "vladami"
+      voc: "vlady"

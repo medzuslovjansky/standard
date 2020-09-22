@@ -1,0 +1,15 @@
+---
+  id: "27344"
+  word: "lukavstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lukavstvo"
+      acc: "lukavstvo"
+      gen: "lukavstva"
+      loc: "lukavstvu"
+      dat: "lukavstvu"
+      ins: "lukavstvom"
+      voc: "lukavstvo"

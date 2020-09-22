@@ -1,0 +1,22 @@
+---
+  id: "10813"
+  word: "pohvala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pohvala"
+      acc: "pohvalų"
+      gen: "pohvaly"
+      loc: "pohvalě"
+      dat: "pohvalě"
+      ins: "pohvalojų"
+      voc: "pohvalo"
+    plural: 
+      nom: "pohvaly"
+      acc: "pohvaly"
+      gen: "pohval"
+      loc: "pohvalah"
+      dat: "pohvalam"
+      ins: "pohvalami"
+      voc: "pohvaly"

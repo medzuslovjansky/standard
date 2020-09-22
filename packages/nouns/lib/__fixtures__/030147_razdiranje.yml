@@ -1,0 +1,22 @@
+---
+  id: "30147"
+  word: "råzdirańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzdirańje"
+      acc: "råzdirańje"
+      gen: "råzdirańja"
+      loc: "råzdirańju"
+      dat: "råzdirańju"
+      ins: "råzdirańjem"
+      voc: "råzdirańje"
+    plural: 
+      nom: "råzdirańja"
+      acc: "råzdirańja"
+      gen: "råzdiranij"
+      loc: "råzdirańjah"
+      dat: "råzdirańjam"
+      ins: "råzdirańjami"
+      voc: "råzdirańja"

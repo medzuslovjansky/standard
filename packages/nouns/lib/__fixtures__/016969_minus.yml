@@ -1,0 +1,22 @@
+---
+  id: "16969"
+  word: "minus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "minus"
+      acc: "minus"
+      gen: "minusa"
+      loc: "minusu"
+      dat: "minusu"
+      ins: "minusom"
+      voc: "minuse"
+    plural: 
+      nom: "minusy"
+      acc: "minusy"
+      gen: "minusov"
+      loc: "minusah"
+      dat: "minusam"
+      ins: "minusami"
+      voc: "minusy"

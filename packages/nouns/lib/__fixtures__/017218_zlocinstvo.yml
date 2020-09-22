@@ -1,0 +1,22 @@
+---
+  id: "17218"
+  word: "zločinstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zločinstvo"
+      acc: "zločinstvo"
+      gen: "zločinstva"
+      loc: "zločinstvu"
+      dat: "zločinstvu"
+      ins: "zločinstvom"
+      voc: "zločinstvo"
+    plural: 
+      nom: "zločinstva"
+      acc: "zločinstva"
+      gen: "zločinstv"
+      loc: "zločinstvah"
+      dat: "zločinstvam"
+      ins: "zločinstvami"
+      voc: "zločinstva"

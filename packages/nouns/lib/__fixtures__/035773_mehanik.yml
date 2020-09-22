@@ -1,0 +1,23 @@
+---
+  id: "35773"
+  word: "mehanik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mehanik"
+      acc: "mehanika"
+      gen: "mehanika"
+      loc: "mehaniku"
+      dat: "mehaniku"
+      ins: "mehanikom"
+      voc: "mehaniče"
+    plural: 
+      nom: "mehaniki"
+      acc: "mehanikov"
+      gen: "mehanikov"
+      loc: "mehanikah"
+      dat: "mehanikam"
+      ins: "mehanikami"
+      voc: "mehaniki"

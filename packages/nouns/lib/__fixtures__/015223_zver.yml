@@ -1,0 +1,23 @@
+---
+  id: "15223"
+  word: "zvěŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zvěŕ"
+      acc: "zvěŕa"
+      gen: "zvěŕa"
+      loc: "zvěŕu"
+      dat: "zvěŕu"
+      ins: "zvěŕem"
+      voc: "zvěŕu"
+    plural: 
+      nom: "zvěri"
+      acc: "zvěŕev"
+      gen: "zvěŕev"
+      loc: "zvěŕah"
+      dat: "zvěŕam"
+      ins: "zvěŕami"
+      voc: "zvěri"

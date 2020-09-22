@@ -1,0 +1,15 @@
+---
+  id: "7780"
+  word: "hođeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hođeńje"
+      acc: "hođeńje"
+      gen: "hođeńja"
+      loc: "hođeńju"
+      dat: "hođeńju"
+      ins: "hođeńjem"
+      voc: "hođeńje"

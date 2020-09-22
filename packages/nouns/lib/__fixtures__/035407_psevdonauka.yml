@@ -1,0 +1,22 @@
+---
+  id: "35407"
+  word: "psevdonauka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "psevdonauka"
+      acc: "psevdonaukų"
+      gen: "psevdonauky"
+      loc: "psevdonaukě"
+      dat: "psevdonaukě"
+      ins: "psevdonaukojų"
+      voc: "psevdonauko"
+    plural: 
+      nom: "psevdonauky"
+      acc: "psevdonauky"
+      gen: "psevdonauk"
+      loc: "psevdonaukah"
+      dat: "psevdonaukam"
+      ins: "psevdonaukami"
+      voc: "psevdonauky"

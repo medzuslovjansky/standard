@@ -1,0 +1,23 @@
+---
+  id: "5932"
+  word: "Uzbek"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Uzbek"
+      acc: "Uzbeka"
+      gen: "Uzbeka"
+      loc: "Uzbeku"
+      dat: "Uzbeku"
+      ins: "Uzbekom"
+      voc: "Uzbeče"
+    plural: 
+      nom: "Uzbeki"
+      acc: "Uzbekov"
+      gen: "Uzbekov"
+      loc: "Uzbekah"
+      dat: "Uzbekam"
+      ins: "Uzbekami"
+      voc: "Uzbeki"

@@ -1,0 +1,22 @@
+---
+  id: "5743"
+  word: "ulomȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ulomȯk"
+      acc: "ulomȯk"
+      gen: "ulomka"
+      loc: "ulomku"
+      dat: "ulomku"
+      ins: "ulomkom"
+      voc: "ulomče"
+    plural: 
+      nom: "ulomky"
+      acc: "ulomky"
+      gen: "ulomkov"
+      loc: "ulomkah"
+      dat: "ulomkam"
+      ins: "ulomkami"
+      voc: "ulomky"

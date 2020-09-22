@@ -1,0 +1,22 @@
+---
+  id: "35609"
+  word: "prědavnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědavnica"
+      acc: "prědavnicų"
+      gen: "prědavnice"
+      loc: "prědavnici"
+      dat: "prědavnici"
+      ins: "prědavnicejų"
+      voc: "prědavnico"
+    plural: 
+      nom: "prědavnice"
+      acc: "prědavnice"
+      gen: "prědavnic"
+      loc: "prědavnicah"
+      dat: "prědavnicam"
+      ins: "prědavnicami"
+      voc: "prědavnice"

@@ -1,0 +1,23 @@
+---
+  id: "192"
+  word: "bliznec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bliznec"
+      acc: "blizneca"
+      gen: "blizneca"
+      loc: "bliznecu"
+      dat: "bliznecu"
+      ins: "bliznecem"
+      voc: "blizneče"
+    plural: 
+      nom: "blizneci"
+      acc: "bliznecev"
+      gen: "bliznecev"
+      loc: "bliznecah"
+      dat: "bliznecam"
+      ins: "bliznecami"
+      voc: "blizneci"

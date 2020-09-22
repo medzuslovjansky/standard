@@ -1,0 +1,22 @@
+---
+  id: "6796"
+  word: "čajiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čajiljnja"
+      acc: "čajiljnjų"
+      gen: "čajiljnje"
+      loc: "čajiljnji"
+      dat: "čajiljnji"
+      ins: "čajiljnjejų"
+      voc: "čajiljnjo"
+    plural: 
+      nom: "čajiljnje"
+      acc: "čajiljnje"
+      gen: "čajiljnej"
+      loc: "čajiljnjah"
+      dat: "čajiljnjam"
+      ins: "čajiljnjami"
+      voc: "čajiljnje"

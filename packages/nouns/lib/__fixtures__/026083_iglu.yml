@@ -1,0 +1,23 @@
+---
+  id: "26083"
+  word: "iglu"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "iglu"
+      acc: "iglu"
+      gen: "iglu"
+      loc: "iglu"
+      dat: "iglu"
+      ins: "iglu"
+      voc: "iglu"
+    plural: 
+      nom: "iglu"
+      acc: "iglu"
+      gen: "iglu"
+      loc: "iglu"
+      dat: "iglu"
+      ins: "iglu"
+      voc: "iglu"

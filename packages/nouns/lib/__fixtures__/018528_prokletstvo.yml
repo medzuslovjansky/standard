@@ -1,0 +1,22 @@
+---
+  id: "18528"
+  word: "proklętstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "proklętstvo"
+      acc: "proklętstvo"
+      gen: "proklętstva"
+      loc: "proklętstvu"
+      dat: "proklętstvu"
+      ins: "proklętstvom"
+      voc: "proklętstvo"
+    plural: 
+      nom: "proklętstva"
+      acc: "proklętstva"
+      gen: "proklętstv"
+      loc: "proklętstvah"
+      dat: "proklętstvam"
+      ins: "proklętstvami"
+      voc: "proklętstva"

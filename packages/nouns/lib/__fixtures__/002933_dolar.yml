@@ -1,0 +1,22 @@
+---
+  id: "2933"
+  word: "dolar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dolar"
+      acc: "dolar"
+      gen: "dolara"
+      loc: "dolaru"
+      dat: "dolaru"
+      ins: "dolarom"
+      voc: "dolare"
+    plural: 
+      nom: "dolary"
+      acc: "dolary"
+      gen: "dolarov"
+      loc: "dolarah"
+      dat: "dolaram"
+      ins: "dolarami"
+      voc: "dolary"

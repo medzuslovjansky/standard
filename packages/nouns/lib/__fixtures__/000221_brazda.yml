@@ -1,0 +1,22 @@
+---
+  id: "221"
+  word: "bråzda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bråzda"
+      acc: "bråzdų"
+      gen: "bråzdy"
+      loc: "bråzdě"
+      dat: "bråzdě"
+      ins: "bråzdojų"
+      voc: "bråzdo"
+    plural: 
+      nom: "bråzdy"
+      acc: "bråzdy"
+      gen: "bråzd"
+      loc: "bråzdah"
+      dat: "bråzdam"
+      ins: "bråzdami"
+      voc: "bråzdy"

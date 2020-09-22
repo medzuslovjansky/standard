@@ -1,0 +1,23 @@
+---
+  id: "889"
+  word: "lice"
+  meta: 
+    irregularity: "(lica/ličese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lice"
+      acc: "lice"
+      gen: "lica / ličese"
+      loc: "licu / ličesi"
+      dat: "licu / ličesi"
+      ins: "licem / ličesem"
+      voc: "lice"
+    plural: 
+      nom: "lica / ličesa"
+      acc: "lica / ličesa"
+      gen: "lic / ličes"
+      loc: "licah / ličesah"
+      dat: "licam / ličesam"
+      ins: "licami / ličesami"
+      voc: "lica / ličesa"

@@ -1,0 +1,15 @@
+---
+  id: "17179"
+  word: "bulgarizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bulgarizacija"
+      acc: "bulgarizacijų"
+      gen: "bulgarizacije"
+      loc: "bulgarizaciji"
+      dat: "bulgarizaciji"
+      ins: "bulgarizacijejų"
+      voc: "bulgarizacijo"

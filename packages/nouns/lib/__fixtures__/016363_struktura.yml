@@ -1,0 +1,22 @@
+---
+  id: "16363"
+  word: "struktura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "struktura"
+      acc: "strukturų"
+      gen: "struktury"
+      loc: "strukturě"
+      dat: "strukturě"
+      ins: "strukturojų"
+      voc: "strukturo"
+    plural: 
+      nom: "struktury"
+      acc: "struktury"
+      gen: "struktur"
+      loc: "strukturah"
+      dat: "strukturam"
+      ins: "strukturami"
+      voc: "struktury"

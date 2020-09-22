@@ -1,0 +1,22 @@
+---
+  id: "28336"
+  word: "navlåčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "navlåčka"
+      acc: "navlåčkų"
+      gen: "navlåčky"
+      loc: "navlåčkě"
+      dat: "navlåčkě"
+      ins: "navlåčkojų"
+      voc: "navlåčko"
+    plural: 
+      nom: "navlåčky"
+      acc: "navlåčky"
+      gen: "navlåček"
+      loc: "navlåčkah"
+      dat: "navlåčkam"
+      ins: "navlåčkami"
+      voc: "navlåčky"

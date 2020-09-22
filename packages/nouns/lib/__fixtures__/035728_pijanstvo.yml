@@ -1,0 +1,15 @@
+---
+  id: "35728"
+  word: "pijanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pijanstvo"
+      acc: "pijanstvo"
+      gen: "pijanstva"
+      loc: "pijanstvu"
+      dat: "pijanstvu"
+      ins: "pijanstvom"
+      voc: "pijanstvo"

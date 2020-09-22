@@ -1,0 +1,23 @@
+---
+  id: "32471"
+  word: "gepard"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gepard"
+      acc: "geparda"
+      gen: "geparda"
+      loc: "gepardu"
+      dat: "gepardu"
+      ins: "gepardom"
+      voc: "geparde"
+    plural: 
+      nom: "gepardi"
+      acc: "gepardov"
+      gen: "gepardov"
+      loc: "gepardah"
+      dat: "gepardam"
+      ins: "gepardami"
+      voc: "gepardi"

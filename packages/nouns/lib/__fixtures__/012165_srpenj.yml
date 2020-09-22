@@ -1,0 +1,15 @@
+---
+  id: "12165"
+  word: "sŕpenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sŕpenj"
+      acc: "sŕpenj"
+      gen: "sŕpenja"
+      loc: "sŕpenju"
+      dat: "sŕpenju"
+      ins: "sŕpenjem"
+      voc: "sŕpenju"

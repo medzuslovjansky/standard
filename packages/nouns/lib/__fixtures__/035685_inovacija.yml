@@ -1,0 +1,22 @@
+---
+  id: "35685"
+  word: "inovacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inovacija"
+      acc: "inovacijų"
+      gen: "inovacije"
+      loc: "inovaciji"
+      dat: "inovaciji"
+      ins: "inovacijejų"
+      voc: "inovacijo"
+    plural: 
+      nom: "inovacije"
+      acc: "inovacije"
+      gen: "inovacij"
+      loc: "inovacijah"
+      dat: "inovacijam"
+      ins: "inovacijami"
+      voc: "inovacije"

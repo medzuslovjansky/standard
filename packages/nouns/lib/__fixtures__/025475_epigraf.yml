@@ -1,0 +1,22 @@
+---
+  id: "25475"
+  word: "epigraf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "epigraf"
+      acc: "epigraf"
+      gen: "epigrafa"
+      loc: "epigrafu"
+      dat: "epigrafu"
+      ins: "epigrafom"
+      voc: "epigrafe"
+    plural: 
+      nom: "epigrafy"
+      acc: "epigrafy"
+      gen: "epigrafov"
+      loc: "epigrafah"
+      dat: "epigrafam"
+      ins: "epigrafami"
+      voc: "epigrafy"

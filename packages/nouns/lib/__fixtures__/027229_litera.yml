@@ -1,0 +1,22 @@
+---
+  id: "27229"
+  word: "litera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "litera"
+      acc: "literų"
+      gen: "litery"
+      loc: "literě"
+      dat: "literě"
+      ins: "literojų"
+      voc: "litero"
+    plural: 
+      nom: "litery"
+      acc: "litery"
+      gen: "liter"
+      loc: "literah"
+      dat: "literam"
+      ins: "literami"
+      voc: "litery"

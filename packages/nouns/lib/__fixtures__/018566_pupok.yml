@@ -1,0 +1,22 @@
+---
+  id: "18566"
+  word: "pųpȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pųpȯk"
+      acc: "pųpȯk"
+      gen: "pųpka"
+      loc: "pųpku"
+      dat: "pųpku"
+      ins: "pųpkom"
+      voc: "pųpče"
+    plural: 
+      nom: "pųpky"
+      acc: "pųpky"
+      gen: "pųpkov"
+      loc: "pųpkah"
+      dat: "pųpkam"
+      ins: "pųpkami"
+      voc: "pųpky"

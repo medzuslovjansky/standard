@@ -1,0 +1,22 @@
+---
+  id: "3580"
+  word: "efekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "efekt"
+      acc: "efekt"
+      gen: "efekta"
+      loc: "efektu"
+      dat: "efektu"
+      ins: "efektom"
+      voc: "efekte"
+    plural: 
+      nom: "efekty"
+      acc: "efekty"
+      gen: "efektov"
+      loc: "efektah"
+      dat: "efektam"
+      ins: "efektami"
+      voc: "efekty"

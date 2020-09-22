@@ -1,0 +1,22 @@
+---
+  id: "24311"
+  word: "ananas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ananas"
+      acc: "ananas"
+      gen: "ananasa"
+      loc: "ananasu"
+      dat: "ananasu"
+      ins: "ananasom"
+      voc: "ananase"
+    plural: 
+      nom: "ananasy"
+      acc: "ananasy"
+      gen: "ananasov"
+      loc: "ananasah"
+      dat: "ananasam"
+      ins: "ananasami"
+      voc: "ananasy"

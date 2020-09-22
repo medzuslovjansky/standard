@@ -1,0 +1,23 @@
+---
+  id: "10960"
+  word: "porųčenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "porųčenec"
+      acc: "porųčenca"
+      gen: "porųčenca"
+      loc: "porųčencu"
+      dat: "porųčencu"
+      ins: "porųčencem"
+      voc: "porųčenče"
+    plural: 
+      nom: "porųčenci"
+      acc: "porųčencev"
+      gen: "porųčencev"
+      loc: "porųčencah"
+      dat: "porųčencam"
+      ins: "porųčencami"
+      voc: "porųčenci"

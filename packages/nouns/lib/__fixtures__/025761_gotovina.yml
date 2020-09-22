@@ -1,0 +1,22 @@
+---
+  id: "25761"
+  word: "gotovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gotovina"
+      acc: "gotovinų"
+      gen: "gotoviny"
+      loc: "gotovině"
+      dat: "gotovině"
+      ins: "gotovinojų"
+      voc: "gotovino"
+    plural: 
+      nom: "gotoviny"
+      acc: "gotoviny"
+      gen: "gotovin"
+      loc: "gotovinah"
+      dat: "gotovinam"
+      ins: "gotovinami"
+      voc: "gotoviny"

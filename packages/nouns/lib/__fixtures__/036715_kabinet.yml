@@ -1,0 +1,22 @@
+---
+  id: "36715"
+  word: "kabinet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kabinet"
+      acc: "kabinet"
+      gen: "kabineta"
+      loc: "kabinetu"
+      dat: "kabinetu"
+      ins: "kabinetom"
+      voc: "kabinete"
+    plural: 
+      nom: "kabinety"
+      acc: "kabinety"
+      gen: "kabinetov"
+      loc: "kabinetah"
+      dat: "kabinetam"
+      ins: "kabinetami"
+      voc: "kabinety"

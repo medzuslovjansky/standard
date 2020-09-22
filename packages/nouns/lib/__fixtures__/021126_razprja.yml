@@ -1,0 +1,22 @@
+---
+  id: "21126"
+  word: "råzprja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzprja"
+      acc: "råzprjų"
+      gen: "råzprje"
+      loc: "råzprji"
+      dat: "råzprji"
+      ins: "råzprjejų"
+      voc: "råzprjo"
+    plural: 
+      nom: "råzprje"
+      acc: "råzprje"
+      gen: "råzprej"
+      loc: "råzprjah"
+      dat: "råzprjam"
+      ins: "råzprjami"
+      voc: "råzprje"

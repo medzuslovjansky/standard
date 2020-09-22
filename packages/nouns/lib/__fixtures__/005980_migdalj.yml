@@ -1,0 +1,22 @@
+---
+  id: "5980"
+  word: "migdalj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "migdalj"
+      acc: "migdalj"
+      gen: "migdalja"
+      loc: "migdalju"
+      dat: "migdalju"
+      ins: "migdaljem"
+      voc: "migdalju"
+    plural: 
+      nom: "migdalje"
+      acc: "migdalje"
+      gen: "migdaljev"
+      loc: "migdaljah"
+      dat: "migdaljam"
+      ins: "migdaljami"
+      voc: "migdalje"

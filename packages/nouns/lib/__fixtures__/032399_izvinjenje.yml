@@ -1,0 +1,22 @@
+---
+  id: "32399"
+  word: "izvinjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izvinjeńje"
+      acc: "izvinjeńje"
+      gen: "izvinjeńja"
+      loc: "izvinjeńju"
+      dat: "izvinjeńju"
+      ins: "izvinjeńjem"
+      voc: "izvinjeńje"
+    plural: 
+      nom: "izvinjeńja"
+      acc: "izvinjeńja"
+      gen: "izvinjenij"
+      loc: "izvinjeńjah"
+      dat: "izvinjeńjam"
+      ins: "izvinjeńjami"
+      voc: "izvinjeńja"

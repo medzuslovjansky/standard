@@ -1,0 +1,15 @@
+---
+  id: "18857"
+  word: "Sofija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Sofija"
+      acc: "Sofijų"
+      gen: "Sofije"
+      loc: "Sofiji"
+      dat: "Sofiji"
+      ins: "Sofijejų"
+      voc: "Sofijo"

@@ -1,0 +1,22 @@
+---
+  id: "35044"
+  word: "světlofor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "světlofor"
+      acc: "světlofor"
+      gen: "světlofora"
+      loc: "světloforu"
+      dat: "světloforu"
+      ins: "světloforom"
+      voc: "světlofore"
+    plural: 
+      nom: "světlofory"
+      acc: "světlofory"
+      gen: "světloforov"
+      loc: "světloforah"
+      dat: "světloforam"
+      ins: "světloforami"
+      voc: "světlofory"

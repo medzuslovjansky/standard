@@ -1,0 +1,23 @@
+---
+  id: "9462"
+  word: "naslědnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "naslědnik"
+      acc: "naslědnika"
+      gen: "naslědnika"
+      loc: "naslědniku"
+      dat: "naslědniku"
+      ins: "naslědnikom"
+      voc: "naslědniče"
+    plural: 
+      nom: "naslědniki"
+      acc: "naslědnikov"
+      gen: "naslědnikov"
+      loc: "naslědnikah"
+      dat: "naslědnikam"
+      ins: "naslědnikami"
+      voc: "naslědniki"

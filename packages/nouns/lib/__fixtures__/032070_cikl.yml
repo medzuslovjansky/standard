@@ -1,0 +1,22 @@
+---
+  id: "32070"
+  word: "cikl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cikl"
+      acc: "cikl"
+      gen: "cikla"
+      loc: "ciklu"
+      dat: "ciklu"
+      ins: "ciklom"
+      voc: "cikle"
+    plural: 
+      nom: "cikly"
+      acc: "cikly"
+      gen: "ciklov"
+      loc: "ciklah"
+      dat: "ciklam"
+      ins: "ciklami"
+      voc: "cikly"

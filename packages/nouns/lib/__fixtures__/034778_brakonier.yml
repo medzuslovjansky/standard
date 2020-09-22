@@ -1,0 +1,23 @@
+---
+  id: "34778"
+  word: "brakonier"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "brakonier"
+      acc: "brakoniera"
+      gen: "brakoniera"
+      loc: "brakonieru"
+      dat: "brakonieru"
+      ins: "brakonierom"
+      voc: "brakoniere"
+    plural: 
+      nom: "brakonieri"
+      acc: "brakonierov"
+      gen: "brakonierov"
+      loc: "brakonierah"
+      dat: "brakonieram"
+      ins: "brakonierami"
+      voc: "brakonieri"

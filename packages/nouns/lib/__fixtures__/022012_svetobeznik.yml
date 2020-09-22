@@ -1,0 +1,23 @@
+---
+  id: "22012"
+  word: "světoběžnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "světoběžnik"
+      acc: "světoběžnika"
+      gen: "světoběžnika"
+      loc: "světoběžniku"
+      dat: "světoběžniku"
+      ins: "světoběžnikom"
+      voc: "světoběžniče"
+    plural: 
+      nom: "světoběžniki"
+      acc: "světoběžnikov"
+      gen: "světoběžnikov"
+      loc: "světoběžnikah"
+      dat: "světoběžnikam"
+      ins: "světoběžnikami"
+      voc: "světoběžniki"

@@ -1,0 +1,22 @@
+---
+  id: "2871"
+  word: "vplyv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vplyv"
+      acc: "vplyv"
+      gen: "vplyva"
+      loc: "vplyvu"
+      dat: "vplyvu"
+      ins: "vplyvom"
+      voc: "vplyve"
+    plural: 
+      nom: "vplyvy"
+      acc: "vplyvy"
+      gen: "vplyvov"
+      loc: "vplyvah"
+      dat: "vplyvam"
+      ins: "vplyvami"
+      voc: "vplyvy"

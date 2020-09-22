@@ -1,0 +1,22 @@
+---
+  id: "19639"
+  word: "argumentacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "argumentacija"
+      acc: "argumentacijų"
+      gen: "argumentacije"
+      loc: "argumentaciji"
+      dat: "argumentaciji"
+      ins: "argumentacijejų"
+      voc: "argumentacijo"
+    plural: 
+      nom: "argumentacije"
+      acc: "argumentacije"
+      gen: "argumentacij"
+      loc: "argumentacijah"
+      dat: "argumentacijam"
+      ins: "argumentacijami"
+      voc: "argumentacije"

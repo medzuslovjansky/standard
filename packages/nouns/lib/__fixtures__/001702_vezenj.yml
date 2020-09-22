@@ -1,0 +1,23 @@
+---
+  id: "1702"
+  word: "vęzenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vęzenj"
+      acc: "vęzenja"
+      gen: "vęzenja"
+      loc: "vęzenju"
+      dat: "vęzenju"
+      ins: "vęzenjem"
+      voc: "vęzenju"
+    plural: 
+      nom: "vęzenji"
+      acc: "vęzenjev"
+      gen: "vęzenjev"
+      loc: "vęzenjah"
+      dat: "vęzenjam"
+      ins: "vęzenjami"
+      voc: "vęzenji"

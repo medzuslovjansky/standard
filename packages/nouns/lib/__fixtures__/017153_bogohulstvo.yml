@@ -1,0 +1,22 @@
+---
+  id: "17153"
+  word: "bogohuľstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bogohuľstvo"
+      acc: "bogohuľstvo"
+      gen: "bogohuľstva"
+      loc: "bogohuľstvu"
+      dat: "bogohuľstvu"
+      ins: "bogohuľstvom"
+      voc: "bogohuľstvo"
+    plural: 
+      nom: "bogohuľstva"
+      acc: "bogohuľstva"
+      gen: "bogohuľstv"
+      loc: "bogohuľstvah"
+      dat: "bogohuľstvam"
+      ins: "bogohuľstvami"
+      voc: "bogohuľstva"

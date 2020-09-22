@@ -1,0 +1,22 @@
+---
+  id: "26562"
+  word: "ključnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ključnica"
+      acc: "ključnicų"
+      gen: "ključnice"
+      loc: "ključnici"
+      dat: "ključnici"
+      ins: "ključnicejų"
+      voc: "ključnico"
+    plural: 
+      nom: "ključnice"
+      acc: "ključnice"
+      gen: "ključnic"
+      loc: "ključnicah"
+      dat: "ključnicam"
+      ins: "ključnicami"
+      voc: "ključnice"

@@ -1,0 +1,22 @@
+---
+  id: "316"
+  word: "govno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "govno"
+      acc: "govno"
+      gen: "govna"
+      loc: "govnu"
+      dat: "govnu"
+      ins: "govnom"
+      voc: "govno"
+    plural: 
+      nom: "govna"
+      acc: "govna"
+      gen: "goven"
+      loc: "govnah"
+      dat: "govnam"
+      ins: "govnami"
+      voc: "govna"

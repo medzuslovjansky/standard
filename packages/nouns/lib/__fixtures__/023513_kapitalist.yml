@@ -1,0 +1,23 @@
+---
+  id: "23513"
+  word: "kapitalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kapitalist"
+      acc: "kapitalista"
+      gen: "kapitalista"
+      loc: "kapitalistu"
+      dat: "kapitalistu"
+      ins: "kapitalistom"
+      voc: "kapitaliste"
+    plural: 
+      nom: "kapitalisti"
+      acc: "kapitalistov"
+      gen: "kapitalistov"
+      loc: "kapitalistah"
+      dat: "kapitalistam"
+      ins: "kapitalistami"
+      voc: "kapitalisti"

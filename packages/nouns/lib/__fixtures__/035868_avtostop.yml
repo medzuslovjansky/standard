@@ -1,0 +1,22 @@
+---
+  id: "35868"
+  word: "avtostop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtostop"
+      acc: "avtostop"
+      gen: "avtostopa"
+      loc: "avtostopu"
+      dat: "avtostopu"
+      ins: "avtostopom"
+      voc: "avtostope"
+    plural: 
+      nom: "avtostopy"
+      acc: "avtostopy"
+      gen: "avtostopov"
+      loc: "avtostopah"
+      dat: "avtostopam"
+      ins: "avtostopami"
+      voc: "avtostopy"

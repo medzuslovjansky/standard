@@ -1,0 +1,22 @@
+---
+  id: "1591"
+  word: "diametr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "diametr"
+      acc: "diametr"
+      gen: "diametra"
+      loc: "diametru"
+      dat: "diametru"
+      ins: "diametrom"
+      voc: "diametre"
+    plural: 
+      nom: "diametry"
+      acc: "diametry"
+      gen: "diametrov"
+      loc: "diametrah"
+      dat: "diametram"
+      ins: "diametrami"
+      voc: "diametry"

@@ -1,0 +1,22 @@
+---
+  id: "18689"
+  word: "shodka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "shodka"
+      acc: "shodkų"
+      gen: "shodky"
+      loc: "shodkě"
+      dat: "shodkě"
+      ins: "shodkojų"
+      voc: "shodko"
+    plural: 
+      nom: "shodky"
+      acc: "shodky"
+      gen: "shodȯk"
+      loc: "shodkah"
+      dat: "shodkam"
+      ins: "shodkami"
+      voc: "shodky"

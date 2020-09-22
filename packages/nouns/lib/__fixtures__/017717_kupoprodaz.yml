@@ -1,0 +1,22 @@
+---
+  id: "17717"
+  word: "kupoprodaž"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kupoprodaž"
+      acc: "kupoprodaž"
+      gen: "kupoprodaži"
+      loc: "kupoprodaži"
+      dat: "kupoprodaži"
+      ins: "kupoprodažjų"
+      voc: "kupoprodaži"
+    plural: 
+      nom: "kupoprodaži"
+      acc: "kupoprodaži"
+      gen: "kupoprodažij"
+      loc: "kupoprodažah"
+      dat: "kupoprodažam"
+      ins: "kupoprodažami"
+      voc: "kupoprodaži"

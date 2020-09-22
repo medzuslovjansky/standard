@@ -1,0 +1,23 @@
+---
+  id: "35524"
+  word: "spotrěbitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "spotrěbitelj"
+      acc: "spotrěbitelja"
+      gen: "spotrěbitelja"
+      loc: "spotrěbitelju"
+      dat: "spotrěbitelju"
+      ins: "spotrěbiteljem"
+      voc: "spotrěbitelju"
+    plural: 
+      nom: "spotrěbitelji"
+      acc: "spotrěbiteljev"
+      gen: "spotrěbiteljev"
+      loc: "spotrěbiteljah"
+      dat: "spotrěbiteljam"
+      ins: "spotrěbiteljami"
+      voc: "spotrěbitelji"

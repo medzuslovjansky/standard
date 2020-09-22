@@ -1,0 +1,15 @@
+---
+  id: "2585"
+  word: "futbol"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "futbol"
+      acc: "futbol"
+      gen: "futbola"
+      loc: "futbolu"
+      dat: "futbolu"
+      ins: "futbolom"
+      voc: "futbole"

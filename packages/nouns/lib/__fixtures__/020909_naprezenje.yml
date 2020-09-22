@@ -1,0 +1,22 @@
+---
+  id: "20909"
+  word: "napręžeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "napręžeńje"
+      acc: "napręžeńje"
+      gen: "napręžeńja"
+      loc: "napręžeńju"
+      dat: "napręžeńju"
+      ins: "napręžeńjem"
+      voc: "napręžeńje"
+    plural: 
+      nom: "napręžeńja"
+      acc: "napręžeńja"
+      gen: "napręženij"
+      loc: "napręžeńjah"
+      dat: "napręžeńjam"
+      ins: "napręžeńjami"
+      voc: "napręžeńja"

@@ -1,0 +1,22 @@
+---
+  id: "765"
+  word: "bok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bok"
+      acc: "bok"
+      gen: "boka"
+      loc: "boku"
+      dat: "boku"
+      ins: "bokom"
+      voc: "boče"
+    plural: 
+      nom: "boky"
+      acc: "boky"
+      gen: "bokov"
+      loc: "bokah"
+      dat: "bokam"
+      ins: "bokami"
+      voc: "boky"

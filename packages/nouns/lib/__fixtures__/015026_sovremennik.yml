@@ -1,0 +1,23 @@
+---
+  id: "15026"
+  word: "sȯvrěmennik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sȯvrěmennik"
+      acc: "sȯvrěmennika"
+      gen: "sȯvrěmennika"
+      loc: "sȯvrěmenniku"
+      dat: "sȯvrěmenniku"
+      ins: "sȯvrěmennikom"
+      voc: "sȯvrěmenniče"
+    plural: 
+      nom: "sȯvrěmenniki"
+      acc: "sȯvrěmennikov"
+      gen: "sȯvrěmennikov"
+      loc: "sȯvrěmennikah"
+      dat: "sȯvrěmennikam"
+      ins: "sȯvrěmennikami"
+      voc: "sȯvrěmenniki"

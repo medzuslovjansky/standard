@@ -1,0 +1,22 @@
+---
+  id: "33506"
+  word: "neregularnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neregularnosť"
+      acc: "neregularnosť"
+      gen: "neregularnosti"
+      loc: "neregularnosti"
+      dat: "neregularnosti"
+      ins: "neregularnosťjų"
+      voc: "neregularnosti"
+    plural: 
+      nom: "neregularnosti"
+      acc: "neregularnosti"
+      gen: "neregularnostij"
+      loc: "neregularnosťah"
+      dat: "neregularnosťam"
+      ins: "neregularnosťami"
+      voc: "neregularnosti"

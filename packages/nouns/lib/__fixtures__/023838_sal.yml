@@ -1,0 +1,45 @@
+---
+  - 
+    id: "23838"
+    word: "šal"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "šal"
+        acc: "šal"
+        gen: "šala"
+        loc: "šalu"
+        dat: "šalu"
+        ins: "šalom"
+        voc: "šale"
+      plural: 
+        nom: "šaly"
+        acc: "šaly"
+        gen: "šalov"
+        loc: "šalah"
+        dat: "šalam"
+        ins: "šalami"
+        voc: "šaly"
+  - 
+    id: "23838"
+    word: "šalik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "šalik"
+        acc: "šalik"
+        gen: "šalika"
+        loc: "šaliku"
+        dat: "šaliku"
+        ins: "šalikom"
+        voc: "šaliče"
+      plural: 
+        nom: "šaliky"
+        acc: "šaliky"
+        gen: "šalikov"
+        loc: "šalikah"
+        dat: "šalikam"
+        ins: "šalikami"
+        voc: "šaliky"

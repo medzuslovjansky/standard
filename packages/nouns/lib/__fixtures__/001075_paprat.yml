@@ -1,0 +1,22 @@
+---
+  id: "1075"
+  word: "papråť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "papråť"
+      acc: "papråť"
+      gen: "papråti"
+      loc: "papråti"
+      dat: "papråti"
+      ins: "papråťjų"
+      voc: "papråti"
+    plural: 
+      nom: "papråti"
+      acc: "papråti"
+      gen: "papråtij"
+      loc: "papråťah"
+      dat: "papråťam"
+      ins: "papråťami"
+      voc: "papråti"

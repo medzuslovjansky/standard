@@ -1,0 +1,22 @@
+---
+  id: "300"
+  word: "děvčina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "děvčina"
+      acc: "děvčinų"
+      gen: "děvčiny"
+      loc: "děvčině"
+      dat: "děvčině"
+      ins: "děvčinojų"
+      voc: "děvčino"
+    plural: 
+      nom: "děvčiny"
+      acc: "děvčiny"
+      gen: "děvčin"
+      loc: "děvčinah"
+      dat: "děvčinam"
+      ins: "děvčinami"
+      voc: "děvčiny"

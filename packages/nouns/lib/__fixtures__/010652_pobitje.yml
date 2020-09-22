@@ -1,0 +1,22 @@
+---
+  id: "10652"
+  word: "pobiťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pobiťje"
+      acc: "pobiťje"
+      gen: "pobiťja"
+      loc: "pobiťju"
+      dat: "pobiťju"
+      ins: "pobiťjem"
+      voc: "pobiťje"
+    plural: 
+      nom: "pobiťja"
+      acc: "pobiťja"
+      gen: "pobitij"
+      loc: "pobiťjah"
+      dat: "pobiťjam"
+      ins: "pobiťjami"
+      voc: "pobiťja"

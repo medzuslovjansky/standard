@@ -1,0 +1,22 @@
+---
+  id: "2350"
+  word: "sȯbyťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯbyťje"
+      acc: "sȯbyťje"
+      gen: "sȯbyťja"
+      loc: "sȯbyťju"
+      dat: "sȯbyťju"
+      ins: "sȯbyťjem"
+      voc: "sȯbyťje"
+    plural: 
+      nom: "sȯbyťja"
+      acc: "sȯbyťja"
+      gen: "sȯbytij"
+      loc: "sȯbyťjah"
+      dat: "sȯbyťjam"
+      ins: "sȯbyťjami"
+      voc: "sȯbyťja"

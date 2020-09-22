@@ -1,0 +1,22 @@
+---
+  id: "17240"
+  word: "dar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dar"
+      acc: "dar"
+      gen: "dara"
+      loc: "daru"
+      dat: "daru"
+      ins: "darom"
+      voc: "dare"
+    plural: 
+      nom: "dary"
+      acc: "dary"
+      gen: "darov"
+      loc: "darah"
+      dat: "daram"
+      ins: "darami"
+      voc: "dary"

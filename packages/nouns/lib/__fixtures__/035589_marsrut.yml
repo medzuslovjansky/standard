@@ -1,0 +1,22 @@
+---
+  id: "35589"
+  word: "maršrut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "maršrut"
+      acc: "maršrut"
+      gen: "maršruta"
+      loc: "maršrutu"
+      dat: "maršrutu"
+      ins: "maršrutom"
+      voc: "maršrute"
+    plural: 
+      nom: "maršruty"
+      acc: "maršruty"
+      gen: "maršrutov"
+      loc: "maršrutah"
+      dat: "maršrutam"
+      ins: "maršrutami"
+      voc: "maršruty"

@@ -1,0 +1,22 @@
+---
+  id: "35238"
+  word: "veb-strånica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veb-strånica"
+      acc: "veb-strånicų"
+      gen: "veb-strånice"
+      loc: "veb-strånici"
+      dat: "veb-strånici"
+      ins: "veb-strånicejų"
+      voc: "veb-strånico"
+    plural: 
+      nom: "veb-strånice"
+      acc: "veb-strånice"
+      gen: "veb-strånic"
+      loc: "veb-strånicah"
+      dat: "veb-strånicam"
+      ins: "veb-strånicami"
+      voc: "veb-strånice"

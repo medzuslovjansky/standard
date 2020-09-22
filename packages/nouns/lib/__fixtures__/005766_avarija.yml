@@ -1,0 +1,22 @@
+---
+  id: "5766"
+  word: "avarija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avarija"
+      acc: "avarijų"
+      gen: "avarije"
+      loc: "avariji"
+      dat: "avariji"
+      ins: "avarijejų"
+      voc: "avarijo"
+    plural: 
+      nom: "avarije"
+      acc: "avarije"
+      gen: "avarij"
+      loc: "avarijah"
+      dat: "avarijam"
+      ins: "avarijami"
+      voc: "avarije"

@@ -1,0 +1,22 @@
+---
+  id: "32494"
+  word: "antena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "antena"
+      acc: "antenų"
+      gen: "anteny"
+      loc: "anteně"
+      dat: "anteně"
+      ins: "antenojų"
+      voc: "anteno"
+    plural: 
+      nom: "anteny"
+      acc: "anteny"
+      gen: "anten"
+      loc: "antenah"
+      dat: "antenam"
+      ins: "antenami"
+      voc: "anteny"

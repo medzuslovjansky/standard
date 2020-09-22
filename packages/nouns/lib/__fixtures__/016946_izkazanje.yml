@@ -1,0 +1,22 @@
+---
+  id: "16946"
+  word: "izkazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izkazańje"
+      acc: "izkazańje"
+      gen: "izkazańja"
+      loc: "izkazańju"
+      dat: "izkazańju"
+      ins: "izkazańjem"
+      voc: "izkazańje"
+    plural: 
+      nom: "izkazańja"
+      acc: "izkazańja"
+      gen: "izkazanij"
+      loc: "izkazańjah"
+      dat: "izkazańjam"
+      ins: "izkazańjami"
+      voc: "izkazańja"

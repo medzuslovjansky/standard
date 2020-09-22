@@ -1,0 +1,22 @@
+---
+  id: "8635"
+  word: "kovina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kovina"
+      acc: "kovinų"
+      gen: "koviny"
+      loc: "kovině"
+      dat: "kovině"
+      ins: "kovinojų"
+      voc: "kovino"
+    plural: 
+      nom: "koviny"
+      acc: "koviny"
+      gen: "kovin"
+      loc: "kovinah"
+      dat: "kovinam"
+      ins: "kovinami"
+      voc: "koviny"

@@ -1,0 +1,22 @@
+---
+  id: "31221"
+  word: "viskoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "viskoza"
+      acc: "viskozų"
+      gen: "viskozy"
+      loc: "viskozě"
+      dat: "viskozě"
+      ins: "viskozojų"
+      voc: "viskozo"
+    plural: 
+      nom: "viskozy"
+      acc: "viskozy"
+      gen: "viskoz"
+      loc: "viskozah"
+      dat: "viskozam"
+      ins: "viskozami"
+      voc: "viskozy"

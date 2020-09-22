@@ -1,0 +1,22 @@
+---
+  id: "25894"
+  word: "gųstota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gųstota"
+      acc: "gųstotų"
+      gen: "gųstoty"
+      loc: "gųstotě"
+      dat: "gųstotě"
+      ins: "gųstotojų"
+      voc: "gųstoto"
+    plural: 
+      nom: "gųstoty"
+      acc: "gųstoty"
+      gen: "gųstot"
+      loc: "gųstotah"
+      dat: "gųstotam"
+      ins: "gųstotami"
+      voc: "gųstoty"

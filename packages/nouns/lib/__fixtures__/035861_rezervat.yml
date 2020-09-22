@@ -1,0 +1,22 @@
+---
+  id: "35861"
+  word: "rezervat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rezervat"
+      acc: "rezervat"
+      gen: "rezervata"
+      loc: "rezervatu"
+      dat: "rezervatu"
+      ins: "rezervatom"
+      voc: "rezervate"
+    plural: 
+      nom: "rezervaty"
+      acc: "rezervaty"
+      gen: "rezervatov"
+      loc: "rezervatah"
+      dat: "rezervatam"
+      ins: "rezervatami"
+      voc: "rezervaty"

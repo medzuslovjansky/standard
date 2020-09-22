@@ -1,0 +1,22 @@
+---
+  id: "2662"
+  word: "lyko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lyko"
+      acc: "lyko"
+      gen: "lyka"
+      loc: "lyku"
+      dat: "lyku"
+      ins: "lykom"
+      voc: "lyko"
+    plural: 
+      nom: "lyka"
+      acc: "lyka"
+      gen: "lyk"
+      loc: "lykah"
+      dat: "lykam"
+      ins: "lykami"
+      voc: "lyka"

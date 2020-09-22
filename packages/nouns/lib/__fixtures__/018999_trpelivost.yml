@@ -1,0 +1,22 @@
+---
+  id: "18999"
+  word: "tŕpělivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tŕpělivosť"
+      acc: "tŕpělivosť"
+      gen: "tŕpělivosti"
+      loc: "tŕpělivosti"
+      dat: "tŕpělivosti"
+      ins: "tŕpělivosťjų"
+      voc: "tŕpělivosti"
+    plural: 
+      nom: "tŕpělivosti"
+      acc: "tŕpělivosti"
+      gen: "tŕpělivostij"
+      loc: "tŕpělivosťah"
+      dat: "tŕpělivosťam"
+      ins: "tŕpělivosťami"
+      voc: "tŕpělivosti"

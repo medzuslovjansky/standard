@@ -1,0 +1,22 @@
+---
+  id: "23543"
+  word: "enzim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "enzim"
+      acc: "enzim"
+      gen: "enzima"
+      loc: "enzimu"
+      dat: "enzimu"
+      ins: "enzimom"
+      voc: "enzime"
+    plural: 
+      nom: "enzimy"
+      acc: "enzimy"
+      gen: "enzimov"
+      loc: "enzimah"
+      dat: "enzimam"
+      ins: "enzimami"
+      voc: "enzimy"

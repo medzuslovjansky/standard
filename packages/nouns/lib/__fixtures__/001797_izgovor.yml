@@ -1,0 +1,22 @@
+---
+  id: "1797"
+  word: "izgovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izgovor"
+      acc: "izgovor"
+      gen: "izgovora"
+      loc: "izgovoru"
+      dat: "izgovoru"
+      ins: "izgovorom"
+      voc: "izgovore"
+    plural: 
+      nom: "izgovory"
+      acc: "izgovory"
+      gen: "izgovorov"
+      loc: "izgovorah"
+      dat: "izgovoram"
+      ins: "izgovorami"
+      voc: "izgovory"

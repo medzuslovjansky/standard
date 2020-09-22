@@ -1,0 +1,22 @@
+---
+  id: "23432"
+  word: "oboj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oboj"
+      acc: "oboj"
+      gen: "oboja"
+      loc: "oboju"
+      dat: "oboju"
+      ins: "obojem"
+      voc: "oboju"
+    plural: 
+      nom: "oboje"
+      acc: "oboje"
+      gen: "obojev"
+      loc: "obojah"
+      dat: "obojam"
+      ins: "obojami"
+      voc: "oboje"

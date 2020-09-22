@@ -1,0 +1,15 @@
+---
+  id: "22442"
+  word: "Paragvaj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Paragvaj"
+      acc: "Paragvaj"
+      gen: "Paragvaja"
+      loc: "Paragvaju"
+      dat: "Paragvaju"
+      ins: "Paragvajem"
+      voc: "Paragvaju"

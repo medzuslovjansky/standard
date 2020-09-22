@@ -1,0 +1,23 @@
+---
+  id: "2833"
+  word: "pensioner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pensioner"
+      acc: "pensionera"
+      gen: "pensionera"
+      loc: "pensioneru"
+      dat: "pensioneru"
+      ins: "pensionerom"
+      voc: "pensionere"
+    plural: 
+      nom: "pensioneri"
+      acc: "pensionerov"
+      gen: "pensionerov"
+      loc: "pensionerah"
+      dat: "pensioneram"
+      ins: "pensionerami"
+      voc: "pensioneri"

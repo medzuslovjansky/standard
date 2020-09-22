@@ -1,0 +1,22 @@
+---
+  id: "4516"
+  word: "krvinȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krvinȯk"
+      acc: "krvinȯk"
+      gen: "krvinka"
+      loc: "krvinku"
+      dat: "krvinku"
+      ins: "krvinkom"
+      voc: "krvinče"
+    plural: 
+      nom: "krvinky"
+      acc: "krvinky"
+      gen: "krvinkov"
+      loc: "krvinkah"
+      dat: "krvinkam"
+      ins: "krvinkami"
+      voc: "krvinky"

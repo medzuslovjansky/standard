@@ -1,0 +1,22 @@
+---
+  id: "138"
+  word: "kriza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kriza"
+      acc: "krizų"
+      gen: "krizy"
+      loc: "krizě"
+      dat: "krizě"
+      ins: "krizojų"
+      voc: "krizo"
+    plural: 
+      nom: "krizy"
+      acc: "krizy"
+      gen: "kriz"
+      loc: "krizah"
+      dat: "krizam"
+      ins: "krizami"
+      voc: "krizy"

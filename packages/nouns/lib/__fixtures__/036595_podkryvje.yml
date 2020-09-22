@@ -1,0 +1,22 @@
+---
+  id: "36595"
+  word: "podkryvje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podkryvje"
+      acc: "podkryvje"
+      gen: "podkryvja"
+      loc: "podkryvju"
+      dat: "podkryvju"
+      ins: "podkryvjem"
+      voc: "podkryvje"
+    plural: 
+      nom: "podkryvja"
+      acc: "podkryvja"
+      gen: "podkryvij"
+      loc: "podkryvjah"
+      dat: "podkryvjam"
+      ins: "podkryvjami"
+      voc: "podkryvja"

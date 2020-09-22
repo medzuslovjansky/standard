@@ -1,0 +1,22 @@
+---
+  id: "5338"
+  word: "trup"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trup"
+      acc: "trup"
+      gen: "trupa"
+      loc: "trupu"
+      dat: "trupu"
+      ins: "trupom"
+      voc: "trupe"
+    plural: 
+      nom: "trupy"
+      acc: "trupy"
+      gen: "trupov"
+      loc: "trupah"
+      dat: "trupam"
+      ins: "trupami"
+      voc: "trupy"

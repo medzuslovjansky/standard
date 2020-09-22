@@ -1,0 +1,15 @@
+---
+  id: "20447"
+  word: "malokrvje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "malokrvje"
+      acc: "malokrvje"
+      gen: "malokrvja"
+      loc: "malokrvju"
+      dat: "malokrvju"
+      ins: "malokrvjem"
+      voc: "malokrvje"

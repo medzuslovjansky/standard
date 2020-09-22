@@ -1,0 +1,23 @@
+---
+  id: "22822"
+  word: "socialist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "socialist"
+      acc: "socialista"
+      gen: "socialista"
+      loc: "socialistu"
+      dat: "socialistu"
+      ins: "socialistom"
+      voc: "socialiste"
+    plural: 
+      nom: "socialisti"
+      acc: "socialistov"
+      gen: "socialistov"
+      loc: "socialistah"
+      dat: "socialistam"
+      ins: "socialistami"
+      voc: "socialisti"

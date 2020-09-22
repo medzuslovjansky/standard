@@ -1,0 +1,22 @@
+---
+  id: "785"
+  word: "mråvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mråvka"
+      acc: "mråvkų"
+      gen: "mråvky"
+      loc: "mråvkě"
+      dat: "mråvkě"
+      ins: "mråvkojų"
+      voc: "mråvko"
+    plural: 
+      nom: "mråvky"
+      acc: "mråvky"
+      gen: "mråvȯk"
+      loc: "mråvkah"
+      dat: "mråvkam"
+      ins: "mråvkami"
+      voc: "mråvky"

@@ -1,0 +1,22 @@
+---
+  id: "5708"
+  word: "sprotivjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sprotivjeńje"
+      acc: "sprotivjeńje"
+      gen: "sprotivjeńja"
+      loc: "sprotivjeńju"
+      dat: "sprotivjeńju"
+      ins: "sprotivjeńjem"
+      voc: "sprotivjeńje"
+    plural: 
+      nom: "sprotivjeńja"
+      acc: "sprotivjeńja"
+      gen: "sprotivjenij"
+      loc: "sprotivjeńjah"
+      dat: "sprotivjeńjam"
+      ins: "sprotivjeńjami"
+      voc: "sprotivjeńja"

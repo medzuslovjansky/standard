@@ -1,0 +1,22 @@
+---
+  id: "24154"
+  word: "akciz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akciz"
+      acc: "akciz"
+      gen: "akciza"
+      loc: "akcizu"
+      dat: "akcizu"
+      ins: "akcizom"
+      voc: "akcize"
+    plural: 
+      nom: "akcizy"
+      acc: "akcizy"
+      gen: "akcizov"
+      loc: "akcizah"
+      dat: "akcizam"
+      ins: "akcizami"
+      voc: "akcizy"

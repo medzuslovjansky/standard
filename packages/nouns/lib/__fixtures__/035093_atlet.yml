@@ -1,0 +1,23 @@
+---
+  id: "35093"
+  word: "atlet"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "atlet"
+      acc: "atleta"
+      gen: "atleta"
+      loc: "atletu"
+      dat: "atletu"
+      ins: "atletom"
+      voc: "atlete"
+    plural: 
+      nom: "atleti"
+      acc: "atletov"
+      gen: "atletov"
+      loc: "atletah"
+      dat: "atletam"
+      ins: "atletami"
+      voc: "atleti"

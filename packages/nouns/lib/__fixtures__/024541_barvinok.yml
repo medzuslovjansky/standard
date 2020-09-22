@@ -1,0 +1,22 @@
+---
+  id: "24541"
+  word: "barvinȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barvinȯk"
+      acc: "barvinȯk"
+      gen: "barvinka"
+      loc: "barvinku"
+      dat: "barvinku"
+      ins: "barvinkom"
+      voc: "barvinče"
+    plural: 
+      nom: "barvinky"
+      acc: "barvinky"
+      gen: "barvinkov"
+      loc: "barvinkah"
+      dat: "barvinkam"
+      ins: "barvinkami"
+      voc: "barvinky"

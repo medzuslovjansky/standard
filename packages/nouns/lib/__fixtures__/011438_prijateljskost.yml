@@ -1,0 +1,22 @@
+---
+  id: "11438"
+  word: "prijateljskosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prijateljskosť"
+      acc: "prijateljskosť"
+      gen: "prijateljskosti"
+      loc: "prijateljskosti"
+      dat: "prijateljskosti"
+      ins: "prijateljskosťjų"
+      voc: "prijateljskosti"
+    plural: 
+      nom: "prijateljskosti"
+      acc: "prijateljskosti"
+      gen: "prijateljskostij"
+      loc: "prijateljskosťah"
+      dat: "prijateljskosťam"
+      ins: "prijateljskosťami"
+      voc: "prijateljskosti"

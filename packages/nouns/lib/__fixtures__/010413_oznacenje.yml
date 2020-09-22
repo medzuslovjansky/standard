@@ -1,0 +1,22 @@
+---
+  id: "10413"
+  word: "označeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "označeńje"
+      acc: "označeńje"
+      gen: "označeńja"
+      loc: "označeńju"
+      dat: "označeńju"
+      ins: "označeńjem"
+      voc: "označeńje"
+    plural: 
+      nom: "označeńja"
+      acc: "označeńja"
+      gen: "označenij"
+      loc: "označeńjah"
+      dat: "označeńjam"
+      ins: "označeńjami"
+      voc: "označeńja"

@@ -1,0 +1,22 @@
+---
+  id: "36123"
+  word: "dekolt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dekolt"
+      acc: "dekolt"
+      gen: "dekolta"
+      loc: "dekoltu"
+      dat: "dekoltu"
+      ins: "dekoltom"
+      voc: "dekolte"
+    plural: 
+      nom: "dekolty"
+      acc: "dekolty"
+      gen: "dekoltov"
+      loc: "dekoltah"
+      dat: "dekoltam"
+      ins: "dekoltami"
+      voc: "dekolty"

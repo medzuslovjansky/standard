@@ -1,0 +1,15 @@
+---
+  id: "35740"
+  word: "Holandija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Holandija"
+      acc: "Holandijų"
+      gen: "Holandije"
+      loc: "Holandiji"
+      dat: "Holandiji"
+      ins: "Holandijejų"
+      voc: "Holandijo"

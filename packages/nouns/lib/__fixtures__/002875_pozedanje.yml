@@ -1,0 +1,22 @@
+---
+  id: "2875"
+  word: "požędańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "požędańje"
+      acc: "požędańje"
+      gen: "požędańja"
+      loc: "požędańju"
+      dat: "požędańju"
+      ins: "požędańjem"
+      voc: "požędańje"
+    plural: 
+      nom: "požędańja"
+      acc: "požędańja"
+      gen: "požędanij"
+      loc: "požędańjah"
+      dat: "požędańjam"
+      ins: "požędańjami"
+      voc: "požędańja"

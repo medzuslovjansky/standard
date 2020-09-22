@@ -1,0 +1,15 @@
+---
+  id: "4410"
+  word: "dobrosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dobrosť"
+      acc: "dobrosť"
+      gen: "dobrosti"
+      loc: "dobrosti"
+      dat: "dobrosti"
+      ins: "dobrosťjų"
+      voc: "dobrosti"

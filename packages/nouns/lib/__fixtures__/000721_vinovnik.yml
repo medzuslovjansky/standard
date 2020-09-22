@@ -1,0 +1,23 @@
+---
+  id: "721"
+  word: "vinovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vinovnik"
+      acc: "vinovnika"
+      gen: "vinovnika"
+      loc: "vinovniku"
+      dat: "vinovniku"
+      ins: "vinovnikom"
+      voc: "vinovniče"
+    plural: 
+      nom: "vinovniki"
+      acc: "vinovnikov"
+      gen: "vinovnikov"
+      loc: "vinovnikah"
+      dat: "vinovnikam"
+      ins: "vinovnikami"
+      voc: "vinovniki"

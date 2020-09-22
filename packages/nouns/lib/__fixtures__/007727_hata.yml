@@ -1,0 +1,22 @@
+---
+  id: "7727"
+  word: "hata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hata"
+      acc: "hatų"
+      gen: "haty"
+      loc: "hatě"
+      dat: "hatě"
+      ins: "hatojų"
+      voc: "hato"
+    plural: 
+      nom: "haty"
+      acc: "haty"
+      gen: "hat"
+      loc: "hatah"
+      dat: "hatam"
+      ins: "hatami"
+      voc: "haty"

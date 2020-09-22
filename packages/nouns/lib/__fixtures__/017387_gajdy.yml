@@ -1,0 +1,15 @@
+---
+  id: "17387"
+  word: "gajdy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "gajdy"
+      acc: "gajdy"
+      gen: "gajd"
+      loc: "gajdah"
+      dat: "gajdam"
+      ins: "gajdami"
+      voc: "gajdy"

@@ -1,0 +1,22 @@
+---
+  id: "5267"
+  word: "poduška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poduška"
+      acc: "poduškų"
+      gen: "podušky"
+      loc: "poduškě"
+      dat: "poduškě"
+      ins: "poduškojų"
+      voc: "poduško"
+    plural: 
+      nom: "podušky"
+      acc: "podušky"
+      gen: "podušek"
+      loc: "poduškah"
+      dat: "poduškam"
+      ins: "poduškami"
+      voc: "podušky"

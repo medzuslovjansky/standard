@@ -1,0 +1,22 @@
+---
+  id: "14684"
+  word: "ljuba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljuba"
+      acc: "ljubų"
+      gen: "ljuby"
+      loc: "ljubě"
+      dat: "ljubě"
+      ins: "ljubojų"
+      voc: "ljubo"
+    plural: 
+      nom: "ljuby"
+      acc: "ljuby"
+      gen: "ljub"
+      loc: "ljubah"
+      dat: "ljubam"
+      ins: "ljubami"
+      voc: "ljuby"

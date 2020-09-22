@@ -1,0 +1,22 @@
+---
+  id: "4667"
+  word: "taliŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "taliŕka"
+      acc: "taliŕkų"
+      gen: "taliŕky"
+      loc: "taliŕkě"
+      dat: "taliŕkě"
+      ins: "taliŕkojų"
+      voc: "taliŕko"
+    plural: 
+      nom: "taliŕky"
+      acc: "taliŕky"
+      gen: "taliŕek"
+      loc: "taliŕkah"
+      dat: "taliŕkam"
+      ins: "taliŕkami"
+      voc: "taliŕky"

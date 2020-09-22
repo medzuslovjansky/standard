@@ -1,0 +1,15 @@
+---
+  id: "6175"
+  word: "Galisija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Galisija"
+      acc: "Galisijų"
+      gen: "Galisije"
+      loc: "Galisiji"
+      dat: "Galisiji"
+      ins: "Galisijejų"
+      voc: "Galisijo"

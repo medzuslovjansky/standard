@@ -1,0 +1,22 @@
+---
+  id: "7627"
+  word: "gostiljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gostiljnja"
+      acc: "gostiljnjų"
+      gen: "gostiljnje"
+      loc: "gostiljnji"
+      dat: "gostiljnji"
+      ins: "gostiljnjejų"
+      voc: "gostiljnjo"
+    plural: 
+      nom: "gostiljnje"
+      acc: "gostiljnje"
+      gen: "gostiljnej"
+      loc: "gostiljnjah"
+      dat: "gostiljnjam"
+      ins: "gostiljnjami"
+      voc: "gostiljnje"

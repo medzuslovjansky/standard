@@ -1,0 +1,47 @@
+---
+  - 
+    id: "1357"
+    word: "Slovjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Slovjan"
+        acc: "Slovjana"
+        gen: "Slovjana"
+        loc: "Slovjanu"
+        dat: "Slovjanu"
+        ins: "Slovjanom"
+        voc: "Slovjane"
+      plural: 
+        nom: "Slovjani"
+        acc: "Slovjanov"
+        gen: "Slovjanov"
+        loc: "Slovjanah"
+        dat: "Slovjanam"
+        ins: "Slovjanami"
+        voc: "Slovjani"
+  - 
+    id: "1357"
+    word: "Slovjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Slovjanin"
+        acc: "Slovjanina"
+        gen: "Slovjanina"
+        loc: "Slovjaninu"
+        dat: "Slovjaninu"
+        ins: "Slovjaninom"
+        voc: "Slovjanine"
+      plural: 
+        nom: "Slovjani"
+        acc: "Slovjanov"
+        gen: "Slovjanov"
+        loc: "Slovjanah"
+        dat: "Slovjanam"
+        ins: "Slovjanami"
+        voc: "Slovjani"

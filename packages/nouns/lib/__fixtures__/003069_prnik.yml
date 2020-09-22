@@ -1,0 +1,22 @@
+---
+  id: "3069"
+  word: "pŕnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕnik"
+      acc: "pŕnik"
+      gen: "pŕnika"
+      loc: "pŕniku"
+      dat: "pŕniku"
+      ins: "pŕnikom"
+      voc: "pŕniče"
+    plural: 
+      nom: "pŕniky"
+      acc: "pŕniky"
+      gen: "pŕnikov"
+      loc: "pŕnikah"
+      dat: "pŕnikam"
+      ins: "pŕnikami"
+      voc: "pŕniky"

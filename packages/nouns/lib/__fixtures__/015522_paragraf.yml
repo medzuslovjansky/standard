@@ -1,0 +1,22 @@
+---
+  id: "15522"
+  word: "paragraf"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "paragraf"
+      acc: "paragraf"
+      gen: "paragrafa"
+      loc: "paragrafu"
+      dat: "paragrafu"
+      ins: "paragrafom"
+      voc: "paragrafe"
+    plural: 
+      nom: "paragrafy"
+      acc: "paragrafy"
+      gen: "paragrafov"
+      loc: "paragrafah"
+      dat: "paragrafam"
+      ins: "paragrafami"
+      voc: "paragrafy"

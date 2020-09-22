@@ -1,0 +1,15 @@
+---
+  id: "20479"
+  word: "měšćanstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "měšćanstvo"
+      acc: "měšćanstvo"
+      gen: "měšćanstva"
+      loc: "měšćanstvu"
+      dat: "měšćanstvu"
+      ins: "měšćanstvom"
+      voc: "měšćanstvo"

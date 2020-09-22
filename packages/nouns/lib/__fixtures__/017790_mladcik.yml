@@ -1,0 +1,23 @@
+---
+  id: "17790"
+  word: "mlådčik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mlådčik"
+      acc: "mlådčika"
+      gen: "mlådčika"
+      loc: "mlådčiku"
+      dat: "mlådčiku"
+      ins: "mlådčikom"
+      voc: "mlådčiče"
+    plural: 
+      nom: "mlådčiki"
+      acc: "mlådčikov"
+      gen: "mlådčikov"
+      loc: "mlådčikah"
+      dat: "mlådčikam"
+      ins: "mlådčikami"
+      voc: "mlådčiki"

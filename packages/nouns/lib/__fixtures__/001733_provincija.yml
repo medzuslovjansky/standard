@@ -1,0 +1,22 @@
+---
+  id: "1733"
+  word: "provincija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "provincija"
+      acc: "provincijų"
+      gen: "provincije"
+      loc: "provinciji"
+      dat: "provinciji"
+      ins: "provincijejų"
+      voc: "provincijo"
+    plural: 
+      nom: "provincije"
+      acc: "provincije"
+      gen: "provincij"
+      loc: "provincijah"
+      dat: "provincijam"
+      ins: "provincijami"
+      voc: "provincije"

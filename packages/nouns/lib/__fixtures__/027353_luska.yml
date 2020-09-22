@@ -1,0 +1,22 @@
+---
+  id: "27353"
+  word: "luska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "luska"
+      acc: "luskų"
+      gen: "lusky"
+      loc: "luskě"
+      dat: "luskě"
+      ins: "luskojų"
+      voc: "lusko"
+    plural: 
+      nom: "lusky"
+      acc: "lusky"
+      gen: "lusȯk"
+      loc: "luskah"
+      dat: "luskam"
+      ins: "luskami"
+      voc: "lusky"

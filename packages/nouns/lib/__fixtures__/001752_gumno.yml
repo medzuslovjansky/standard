@@ -1,0 +1,22 @@
+---
+  id: "1752"
+  word: "gumno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gumno"
+      acc: "gumno"
+      gen: "gumna"
+      loc: "gumnu"
+      dat: "gumnu"
+      ins: "gumnom"
+      voc: "gumno"
+    plural: 
+      nom: "gumna"
+      acc: "gumna"
+      gen: "gumen"
+      loc: "gumnah"
+      dat: "gumnam"
+      ins: "gumnami"
+      voc: "gumna"

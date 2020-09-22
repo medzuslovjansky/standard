@@ -1,0 +1,15 @@
+---
+  id: "24310"
+  word: "analfabetizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "analfabetizm"
+      acc: "analfabetizm"
+      gen: "analfabetizma"
+      loc: "analfabetizmu"
+      dat: "analfabetizmu"
+      ins: "analfabetizmom"
+      voc: "analfabetizme"

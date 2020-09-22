@@ -1,0 +1,22 @@
+---
+  id: "21439"
+  word: "posada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "posada"
+      acc: "posadų"
+      gen: "posady"
+      loc: "posadě"
+      dat: "posadě"
+      ins: "posadojų"
+      voc: "posado"
+    plural: 
+      nom: "posady"
+      acc: "posady"
+      gen: "posad"
+      loc: "posadah"
+      dat: "posadam"
+      ins: "posadami"
+      voc: "posady"

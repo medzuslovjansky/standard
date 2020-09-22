@@ -1,0 +1,15 @@
+---
+  id: "1492"
+  word: "titan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "titan"
+      acc: "titan"
+      gen: "titana"
+      loc: "titanu"
+      dat: "titanu"
+      ins: "titanom"
+      voc: "titane"

@@ -1,0 +1,22 @@
+---
+  id: "20022"
+  word: "podgrupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podgrupa"
+      acc: "podgrupų"
+      gen: "podgrupy"
+      loc: "podgrupě"
+      dat: "podgrupě"
+      ins: "podgrupojų"
+      voc: "podgrupo"
+    plural: 
+      nom: "podgrupy"
+      acc: "podgrupy"
+      gen: "podgrup"
+      loc: "podgrupah"
+      dat: "podgrupam"
+      ins: "podgrupami"
+      voc: "podgrupy"

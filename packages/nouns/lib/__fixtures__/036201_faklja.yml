@@ -1,0 +1,22 @@
+---
+  id: "36201"
+  word: "faklja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "faklja"
+      acc: "fakljų"
+      gen: "faklje"
+      loc: "faklji"
+      dat: "faklji"
+      ins: "fakljejų"
+      voc: "fakljo"
+    plural: 
+      nom: "faklje"
+      acc: "faklje"
+      gen: "faklej"
+      loc: "fakljah"
+      dat: "fakljam"
+      ins: "fakljami"
+      voc: "faklje"

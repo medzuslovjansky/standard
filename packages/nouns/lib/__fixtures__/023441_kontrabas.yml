@@ -1,0 +1,22 @@
+---
+  id: "23441"
+  word: "kontrabas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontrabas"
+      acc: "kontrabas"
+      gen: "kontrabasa"
+      loc: "kontrabasu"
+      dat: "kontrabasu"
+      ins: "kontrabasom"
+      voc: "kontrabase"
+    plural: 
+      nom: "kontrabasy"
+      acc: "kontrabasy"
+      gen: "kontrabasov"
+      loc: "kontrabasah"
+      dat: "kontrabasam"
+      ins: "kontrabasami"
+      voc: "kontrabasy"

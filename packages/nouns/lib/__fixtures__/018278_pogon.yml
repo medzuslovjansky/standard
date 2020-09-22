@@ -1,0 +1,22 @@
+---
+  id: "18278"
+  word: "pogon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pogon"
+      acc: "pogon"
+      gen: "pogona"
+      loc: "pogonu"
+      dat: "pogonu"
+      ins: "pogonom"
+      voc: "pogone"
+    plural: 
+      nom: "pogony"
+      acc: "pogony"
+      gen: "pogonov"
+      loc: "pogonah"
+      dat: "pogonam"
+      ins: "pogonami"
+      voc: "pogony"

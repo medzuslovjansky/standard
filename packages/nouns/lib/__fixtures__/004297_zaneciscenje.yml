@@ -1,0 +1,22 @@
+---
+  id: "4297"
+  word: "zanečišćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zanečišćeńje"
+      acc: "zanečišćeńje"
+      gen: "zanečišćeńja"
+      loc: "zanečišćeńju"
+      dat: "zanečišćeńju"
+      ins: "zanečišćeńjem"
+      voc: "zanečišćeńje"
+    plural: 
+      nom: "zanečišćeńja"
+      acc: "zanečišćeńja"
+      gen: "zanečišćenij"
+      loc: "zanečišćeńjah"
+      dat: "zanečišćeńjam"
+      ins: "zanečišćeńjami"
+      voc: "zanečišćeńja"

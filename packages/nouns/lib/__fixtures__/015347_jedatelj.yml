@@ -1,0 +1,23 @@
+---
+  id: "15347"
+  word: "jedatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jedatelj"
+      acc: "jedatelja"
+      gen: "jedatelja"
+      loc: "jedatelju"
+      dat: "jedatelju"
+      ins: "jedateljem"
+      voc: "jedatelju"
+    plural: 
+      nom: "jedatelji"
+      acc: "jedateljev"
+      gen: "jedateljev"
+      loc: "jedateljah"
+      dat: "jedateljam"
+      ins: "jedateljami"
+      voc: "jedatelji"

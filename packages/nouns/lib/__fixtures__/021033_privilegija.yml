@@ -1,0 +1,22 @@
+---
+  id: "21033"
+  word: "privilegija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "privilegija"
+      acc: "privilegijų"
+      gen: "privilegije"
+      loc: "privilegiji"
+      dat: "privilegiji"
+      ins: "privilegijejų"
+      voc: "privilegijo"
+    plural: 
+      nom: "privilegije"
+      acc: "privilegije"
+      gen: "privilegij"
+      loc: "privilegijah"
+      dat: "privilegijam"
+      ins: "privilegijami"
+      voc: "privilegije"

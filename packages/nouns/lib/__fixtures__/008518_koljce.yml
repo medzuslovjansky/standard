@@ -1,0 +1,22 @@
+---
+  id: "8518"
+  word: "koljce"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "koljce"
+      acc: "koljce"
+      gen: "koljca"
+      loc: "koljcu"
+      dat: "koljcu"
+      ins: "koljcem"
+      voc: "koljce"
+    plural: 
+      nom: "koljca"
+      acc: "koljca"
+      gen: "koljc"
+      loc: "koljcah"
+      dat: "koljcam"
+      ins: "koljcami"
+      voc: "koljca"

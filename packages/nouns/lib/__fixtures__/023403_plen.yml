@@ -1,0 +1,22 @@
+---
+  id: "23403"
+  word: "plen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plen"
+      acc: "plen"
+      gen: "plena"
+      loc: "plenu"
+      dat: "plenu"
+      ins: "plenom"
+      voc: "plene"
+    plural: 
+      nom: "pleny"
+      acc: "pleny"
+      gen: "plenov"
+      loc: "plenah"
+      dat: "plenam"
+      ins: "plenami"
+      voc: "pleny"

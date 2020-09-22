@@ -1,0 +1,15 @@
+---
+  id: "24383"
+  word: "avtomatika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "avtomatika"
+      acc: "avtomatikų"
+      gen: "avtomatiky"
+      loc: "avtomatikě"
+      dat: "avtomatikě"
+      ins: "avtomatikojų"
+      voc: "avtomatiko"

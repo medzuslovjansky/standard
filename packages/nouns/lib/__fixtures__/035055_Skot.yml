@@ -1,0 +1,23 @@
+---
+  id: "35055"
+  word: "Škot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Škot"
+      acc: "Škota"
+      gen: "Škota"
+      loc: "Škotu"
+      dat: "Škotu"
+      ins: "Škotom"
+      voc: "Škote"
+    plural: 
+      nom: "Škoti"
+      acc: "Škotov"
+      gen: "Škotov"
+      loc: "Škotah"
+      dat: "Škotam"
+      ins: "Škotami"
+      voc: "Škoti"

@@ -1,0 +1,22 @@
+---
+  id: "19752"
+  word: "izpověď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izpověď"
+      acc: "izpověď"
+      gen: "izpovědi"
+      loc: "izpovědi"
+      dat: "izpovědi"
+      ins: "izpověďjų"
+      voc: "izpovědi"
+    plural: 
+      nom: "izpovědi"
+      acc: "izpovědi"
+      gen: "izpovědij"
+      loc: "izpověďah"
+      dat: "izpověďam"
+      ins: "izpověďami"
+      voc: "izpovědi"

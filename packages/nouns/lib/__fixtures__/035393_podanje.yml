@@ -1,0 +1,22 @@
+---
+  id: "35393"
+  word: "podańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podańje"
+      acc: "podańje"
+      gen: "podańja"
+      loc: "podańju"
+      dat: "podańju"
+      ins: "podańjem"
+      voc: "podańje"
+    plural: 
+      nom: "podańja"
+      acc: "podańja"
+      gen: "podanij"
+      loc: "podańjah"
+      dat: "podańjam"
+      ins: "podańjami"
+      voc: "podańja"

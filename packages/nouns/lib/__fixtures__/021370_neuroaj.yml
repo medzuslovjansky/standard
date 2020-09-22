@@ -1,0 +1,22 @@
+---
+  id: "21370"
+  word: "neurođaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "neurođaj"
+      acc: "neurođaj"
+      gen: "neurođaja"
+      loc: "neurođaju"
+      dat: "neurođaju"
+      ins: "neurođajem"
+      voc: "neurođaju"
+    plural: 
+      nom: "neurođaje"
+      acc: "neurođaje"
+      gen: "neurođajev"
+      loc: "neurođajah"
+      dat: "neurođajam"
+      ins: "neurođajami"
+      voc: "neurođaje"

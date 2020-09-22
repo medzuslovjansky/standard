@@ -1,0 +1,22 @@
+---
+  id: "35847"
+  word: "sterilizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sterilizacija"
+      acc: "sterilizacijų"
+      gen: "sterilizacije"
+      loc: "sterilizaciji"
+      dat: "sterilizaciji"
+      ins: "sterilizacijejų"
+      voc: "sterilizacijo"
+    plural: 
+      nom: "sterilizacije"
+      acc: "sterilizacije"
+      gen: "sterilizacij"
+      loc: "sterilizacijah"
+      dat: "sterilizacijam"
+      ins: "sterilizacijami"
+      voc: "sterilizacije"

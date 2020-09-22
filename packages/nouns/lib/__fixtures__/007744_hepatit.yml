@@ -1,0 +1,15 @@
+---
+  id: "7744"
+  word: "hepatit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hepatit"
+      acc: "hepatit"
+      gen: "hepatita"
+      loc: "hepatitu"
+      dat: "hepatitu"
+      ins: "hepatitom"
+      voc: "hepatite"

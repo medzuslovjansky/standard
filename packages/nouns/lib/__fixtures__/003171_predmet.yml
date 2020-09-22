@@ -1,0 +1,22 @@
+---
+  id: "3171"
+  word: "prědmet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědmet"
+      acc: "prědmet"
+      gen: "prědmeta"
+      loc: "prědmetu"
+      dat: "prědmetu"
+      ins: "prědmetom"
+      voc: "prědmete"
+    plural: 
+      nom: "prědmety"
+      acc: "prědmety"
+      gen: "prědmetov"
+      loc: "prědmetah"
+      dat: "prědmetam"
+      ins: "prědmetami"
+      voc: "prědmety"

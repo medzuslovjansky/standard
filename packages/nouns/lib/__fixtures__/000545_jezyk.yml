@@ -1,0 +1,22 @@
+---
+  id: "545"
+  word: "język"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "język"
+      acc: "język"
+      gen: "języka"
+      loc: "języku"
+      dat: "języku"
+      ins: "językom"
+      voc: "języče"
+    plural: 
+      nom: "języky"
+      acc: "języky"
+      gen: "językov"
+      loc: "językah"
+      dat: "językam"
+      ins: "językami"
+      voc: "języky"

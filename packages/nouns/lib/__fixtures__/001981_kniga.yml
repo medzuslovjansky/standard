@@ -1,0 +1,22 @@
+---
+  id: "1981"
+  word: "kniga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kniga"
+      acc: "knigų"
+      gen: "knigy"
+      loc: "knigě"
+      dat: "knigě"
+      ins: "knigojų"
+      voc: "knigo"
+    plural: 
+      nom: "knigy"
+      acc: "knigy"
+      gen: "knig"
+      loc: "knigah"
+      dat: "knigam"
+      ins: "knigami"
+      voc: "knigy"

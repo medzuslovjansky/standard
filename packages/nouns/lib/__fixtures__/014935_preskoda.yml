@@ -1,0 +1,22 @@
+---
+  id: "14935"
+  word: "prěškoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěškoda"
+      acc: "prěškodų"
+      gen: "prěškody"
+      loc: "prěškodě"
+      dat: "prěškodě"
+      ins: "prěškodojų"
+      voc: "prěškodo"
+    plural: 
+      nom: "prěškody"
+      acc: "prěškody"
+      gen: "prěškod"
+      loc: "prěškodah"
+      dat: "prěškodam"
+      ins: "prěškodami"
+      voc: "prěškody"

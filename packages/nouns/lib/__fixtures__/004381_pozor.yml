@@ -1,0 +1,22 @@
+---
+  id: "4381"
+  word: "pozor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pozor"
+      acc: "pozor"
+      gen: "pozora"
+      loc: "pozoru"
+      dat: "pozoru"
+      ins: "pozorom"
+      voc: "pozore"
+    plural: 
+      nom: "pozory"
+      acc: "pozory"
+      gen: "pozorov"
+      loc: "pozorah"
+      dat: "pozoram"
+      ins: "pozorami"
+      voc: "pozory"

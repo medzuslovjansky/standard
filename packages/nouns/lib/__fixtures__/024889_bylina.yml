@@ -1,0 +1,22 @@
+---
+  id: "24889"
+  word: "bylina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bylina"
+      acc: "bylinų"
+      gen: "byliny"
+      loc: "bylině"
+      dat: "bylině"
+      ins: "bylinojų"
+      voc: "bylino"
+    plural: 
+      nom: "byliny"
+      acc: "byliny"
+      gen: "bylin"
+      loc: "bylinah"
+      dat: "bylinam"
+      ins: "bylinami"
+      voc: "byliny"

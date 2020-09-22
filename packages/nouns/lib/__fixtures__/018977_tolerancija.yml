@@ -1,0 +1,22 @@
+---
+  id: "18977"
+  word: "tolerancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tolerancija"
+      acc: "tolerancijų"
+      gen: "tolerancije"
+      loc: "toleranciji"
+      dat: "toleranciji"
+      ins: "tolerancijejų"
+      voc: "tolerancijo"
+    plural: 
+      nom: "tolerancije"
+      acc: "tolerancije"
+      gen: "tolerancij"
+      loc: "tolerancijah"
+      dat: "tolerancijam"
+      ins: "tolerancijami"
+      voc: "tolerancije"

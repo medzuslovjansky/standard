@@ -1,0 +1,22 @@
+---
+  id: "1360"
+  word: "situacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "situacija"
+      acc: "situacijų"
+      gen: "situacije"
+      loc: "situaciji"
+      dat: "situaciji"
+      ins: "situacijejų"
+      voc: "situacijo"
+    plural: 
+      nom: "situacije"
+      acc: "situacije"
+      gen: "situacij"
+      loc: "situacijah"
+      dat: "situacijam"
+      ins: "situacijami"
+      voc: "situacije"

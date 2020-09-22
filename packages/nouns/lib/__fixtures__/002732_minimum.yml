@@ -1,0 +1,22 @@
+---
+  id: "2732"
+  word: "minimum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "minimum"
+      acc: "minimum"
+      gen: "minimuma"
+      loc: "minimumu"
+      dat: "minimumu"
+      ins: "minimumom"
+      voc: "minimum"
+    plural: 
+      nom: "minimuma"
+      acc: "minimuma"
+      gen: "minimum"
+      loc: "minimumah"
+      dat: "minimumam"
+      ins: "minimumami"
+      voc: "minimuma"

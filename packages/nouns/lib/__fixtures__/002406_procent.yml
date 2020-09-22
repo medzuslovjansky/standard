@@ -1,0 +1,22 @@
+---
+  id: "2406"
+  word: "procent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "procent"
+      acc: "procent"
+      gen: "procenta"
+      loc: "procentu"
+      dat: "procentu"
+      ins: "procentom"
+      voc: "procente"
+    plural: 
+      nom: "procenty"
+      acc: "procenty"
+      gen: "procentov"
+      loc: "procentah"
+      dat: "procentam"
+      ins: "procentami"
+      voc: "procenty"

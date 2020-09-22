@@ -1,0 +1,22 @@
+---
+  id: "18202"
+  word: "pas"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pas"
+      acc: "pas"
+      gen: "pasa"
+      loc: "pasu"
+      dat: "pasu"
+      ins: "pasom"
+      voc: "pase"
+    plural: 
+      nom: "pasy"
+      acc: "pasy"
+      gen: "pasov"
+      loc: "pasah"
+      dat: "pasam"
+      ins: "pasami"
+      voc: "pasy"

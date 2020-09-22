@@ -1,0 +1,22 @@
+---
+  id: "27122"
+  word: "lěnjesť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěnjesť"
+      acc: "lěnjesť"
+      gen: "lěnjesti"
+      loc: "lěnjesti"
+      dat: "lěnjesti"
+      ins: "lěnjesťjų"
+      voc: "lěnjesti"
+    plural: 
+      nom: "lěnjesti"
+      acc: "lěnjesti"
+      gen: "lěnjestij"
+      loc: "lěnjesťah"
+      dat: "lěnjesťam"
+      ins: "lěnjesťami"
+      voc: "lěnjesti"

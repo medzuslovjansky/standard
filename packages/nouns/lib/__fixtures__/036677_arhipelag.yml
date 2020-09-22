@@ -1,0 +1,22 @@
+---
+  id: "36677"
+  word: "arhipelag"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "arhipelag"
+      acc: "arhipelag"
+      gen: "arhipelaga"
+      loc: "arhipelagu"
+      dat: "arhipelagu"
+      ins: "arhipelagom"
+      voc: "arhipelaže"
+    plural: 
+      nom: "arhipelagy"
+      acc: "arhipelagy"
+      gen: "arhipelagov"
+      loc: "arhipelagah"
+      dat: "arhipelagam"
+      ins: "arhipelagami"
+      voc: "arhipelagy"

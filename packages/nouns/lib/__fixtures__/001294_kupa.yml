@@ -1,0 +1,22 @@
+---
+  id: "1294"
+  word: "kupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kupa"
+      acc: "kupų"
+      gen: "kupy"
+      loc: "kupě"
+      dat: "kupě"
+      ins: "kupojų"
+      voc: "kupo"
+    plural: 
+      nom: "kupy"
+      acc: "kupy"
+      gen: "kup"
+      loc: "kupah"
+      dat: "kupam"
+      ins: "kupami"
+      voc: "kupy"

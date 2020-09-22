@@ -1,0 +1,23 @@
+---
+  id: "15632"
+  word: "uspěšnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "uspěšnik"
+      acc: "uspěšnika"
+      gen: "uspěšnika"
+      loc: "uspěšniku"
+      dat: "uspěšniku"
+      ins: "uspěšnikom"
+      voc: "uspěšniče"
+    plural: 
+      nom: "uspěšniki"
+      acc: "uspěšnikov"
+      gen: "uspěšnikov"
+      loc: "uspěšnikah"
+      dat: "uspěšnikam"
+      ins: "uspěšnikami"
+      voc: "uspěšniki"

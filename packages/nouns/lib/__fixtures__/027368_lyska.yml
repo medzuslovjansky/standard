@@ -1,0 +1,22 @@
+---
+  id: "27368"
+  word: "lyska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lyska"
+      acc: "lyskų"
+      gen: "lysky"
+      loc: "lyskě"
+      dat: "lyskě"
+      ins: "lyskojų"
+      voc: "lysko"
+    plural: 
+      nom: "lysky"
+      acc: "lysky"
+      gen: "lysȯk"
+      loc: "lyskah"
+      dat: "lyskam"
+      ins: "lyskami"
+      voc: "lysky"

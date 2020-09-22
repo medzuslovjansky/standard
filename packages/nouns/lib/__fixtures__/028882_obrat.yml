@@ -1,0 +1,22 @@
+---
+  id: "28882"
+  word: "obråt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obråt"
+      acc: "obråt"
+      gen: "obråta"
+      loc: "obråtu"
+      dat: "obråtu"
+      ins: "obråtom"
+      voc: "obråte"
+    plural: 
+      nom: "obråty"
+      acc: "obråty"
+      gen: "obråtov"
+      loc: "obråtah"
+      dat: "obråtam"
+      ins: "obråtami"
+      voc: "obråty"

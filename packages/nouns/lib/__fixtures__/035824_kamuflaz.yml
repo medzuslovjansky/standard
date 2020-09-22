@@ -1,0 +1,15 @@
+---
+  id: "35824"
+  word: "kamuflaž"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kamuflaž"
+      acc: "kamuflaž"
+      gen: "kamuflaža"
+      loc: "kamuflažu"
+      dat: "kamuflažu"
+      ins: "kamuflažem"
+      voc: "kamuflažu"

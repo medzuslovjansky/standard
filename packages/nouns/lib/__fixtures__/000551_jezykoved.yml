@@ -1,0 +1,23 @@
+---
+  id: "551"
+  word: "językověd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "językověd"
+      acc: "językověda"
+      gen: "językověda"
+      loc: "językovědu"
+      dat: "językovědu"
+      ins: "językovědom"
+      voc: "językověde"
+    plural: 
+      nom: "językovědi"
+      acc: "językovědov"
+      gen: "językovědov"
+      loc: "językovědah"
+      dat: "językovědam"
+      ins: "językovědami"
+      voc: "językovědi"

@@ -1,0 +1,23 @@
+---
+  id: "272"
+  word: "direktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "direktor"
+      acc: "direktora"
+      gen: "direktora"
+      loc: "direktoru"
+      dat: "direktoru"
+      ins: "direktorom"
+      voc: "direktore"
+    plural: 
+      nom: "direktori"
+      acc: "direktorov"
+      gen: "direktorov"
+      loc: "direktorah"
+      dat: "direktoram"
+      ins: "direktorami"
+      voc: "direktori"

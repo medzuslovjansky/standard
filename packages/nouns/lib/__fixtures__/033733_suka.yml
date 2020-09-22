@@ -1,0 +1,22 @@
+---
+  id: "33733"
+  word: "suka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "suka"
+      acc: "sukų"
+      gen: "suky"
+      loc: "sukě"
+      dat: "sukě"
+      ins: "sukojų"
+      voc: "suko"
+    plural: 
+      nom: "suky"
+      acc: "suky"
+      gen: "suk"
+      loc: "sukah"
+      dat: "sukam"
+      ins: "sukami"
+      voc: "suky"

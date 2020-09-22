@@ -1,0 +1,23 @@
+---
+  id: "3047"
+  word: "velblųd"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "velblųd"
+      acc: "velblųda"
+      gen: "velblųda"
+      loc: "velblųdu"
+      dat: "velblųdu"
+      ins: "velblųdom"
+      voc: "velblųde"
+    plural: 
+      nom: "velblųdi"
+      acc: "velblųdov"
+      gen: "velblųdov"
+      loc: "velblųdah"
+      dat: "velblųdam"
+      ins: "velblųdami"
+      voc: "velblųdi"

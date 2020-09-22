@@ -1,0 +1,22 @@
+---
+  id: "28483"
+  word: "neprigodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neprigodnosť"
+      acc: "neprigodnosť"
+      gen: "neprigodnosti"
+      loc: "neprigodnosti"
+      dat: "neprigodnosti"
+      ins: "neprigodnosťjų"
+      voc: "neprigodnosti"
+    plural: 
+      nom: "neprigodnosti"
+      acc: "neprigodnosti"
+      gen: "neprigodnostij"
+      loc: "neprigodnosťah"
+      dat: "neprigodnosťam"
+      ins: "neprigodnosťami"
+      voc: "neprigodnosti"

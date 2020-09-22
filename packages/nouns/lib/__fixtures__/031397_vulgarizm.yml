@@ -1,0 +1,22 @@
+---
+  id: "31397"
+  word: "vulgarizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vulgarizm"
+      acc: "vulgarizm"
+      gen: "vulgarizma"
+      loc: "vulgarizmu"
+      dat: "vulgarizmu"
+      ins: "vulgarizmom"
+      voc: "vulgarizme"
+    plural: 
+      nom: "vulgarizmy"
+      acc: "vulgarizmy"
+      gen: "vulgarizmov"
+      loc: "vulgarizmah"
+      dat: "vulgarizmam"
+      ins: "vulgarizmami"
+      voc: "vulgarizmy"

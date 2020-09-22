@@ -1,0 +1,15 @@
+---
+  id: "19701"
+  word: "fragmentacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fragmentacija"
+      acc: "fragmentacijų"
+      gen: "fragmentacije"
+      loc: "fragmentaciji"
+      dat: "fragmentaciji"
+      ins: "fragmentacijejų"
+      voc: "fragmentacijo"

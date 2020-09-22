@@ -1,0 +1,22 @@
+---
+  id: "36810"
+  word: "Bruselj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Bruselj"
+      acc: "Bruselj"
+      gen: "Bruselja"
+      loc: "Bruselju"
+      dat: "Bruselju"
+      ins: "Bruseljem"
+      voc: "Bruselju"
+    plural: 
+      nom: "Bruselje"
+      acc: "Bruselje"
+      gen: "Bruseljev"
+      loc: "Bruseljah"
+      dat: "Bruseljam"
+      ins: "Bruseljami"
+      voc: "Bruselje"

@@ -1,0 +1,22 @@
+---
+  id: "6217"
+  word: "svědomosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svědomosť"
+      acc: "svědomosť"
+      gen: "svědomosti"
+      loc: "svědomosti"
+      dat: "svědomosti"
+      ins: "svědomosťjų"
+      voc: "svědomosti"
+    plural: 
+      nom: "svědomosti"
+      acc: "svědomosti"
+      gen: "svědomostij"
+      loc: "svědomosťah"
+      dat: "svědomosťam"
+      ins: "svědomosťami"
+      voc: "svědomosti"

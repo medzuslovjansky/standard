@@ -1,0 +1,22 @@
+---
+  id: "19056"
+  word: "umětnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "umětnica"
+      acc: "umětnicų"
+      gen: "umětnice"
+      loc: "umětnici"
+      dat: "umětnici"
+      ins: "umětnicejų"
+      voc: "umětnico"
+    plural: 
+      nom: "umětnice"
+      acc: "umětnice"
+      gen: "umětnic"
+      loc: "umětnicah"
+      dat: "umětnicam"
+      ins: "umětnicami"
+      voc: "umětnice"

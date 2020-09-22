@@ -1,0 +1,22 @@
+---
+  id: "35790"
+  word: "dramaturgija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dramaturgija"
+      acc: "dramaturgijų"
+      gen: "dramaturgije"
+      loc: "dramaturgiji"
+      dat: "dramaturgiji"
+      ins: "dramaturgijejų"
+      voc: "dramaturgijo"
+    plural: 
+      nom: "dramaturgije"
+      acc: "dramaturgije"
+      gen: "dramaturgij"
+      loc: "dramaturgijah"
+      dat: "dramaturgijam"
+      ins: "dramaturgijami"
+      voc: "dramaturgije"

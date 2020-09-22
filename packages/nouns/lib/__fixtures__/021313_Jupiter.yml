@@ -1,0 +1,15 @@
+---
+  id: "21313"
+  word: "Jupiter"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Jupiter"
+      acc: "Jupiter"
+      gen: "Jupitera"
+      loc: "Jupiteru"
+      dat: "Jupiteru"
+      ins: "Jupiterom"
+      voc: "Jupitere"

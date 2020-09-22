@@ -1,0 +1,22 @@
+---
+  id: "15715"
+  word: "sȯučęstnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sȯučęstnica"
+      acc: "sȯučęstnicų"
+      gen: "sȯučęstnice"
+      loc: "sȯučęstnici"
+      dat: "sȯučęstnici"
+      ins: "sȯučęstnicejų"
+      voc: "sȯučęstnico"
+    plural: 
+      nom: "sȯučęstnice"
+      acc: "sȯučęstnice"
+      gen: "sȯučęstnic"
+      loc: "sȯučęstnicah"
+      dat: "sȯučęstnicam"
+      ins: "sȯučęstnicami"
+      voc: "sȯučęstnice"

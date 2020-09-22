@@ -1,0 +1,22 @@
+---
+  id: "21895"
+  word: "strasť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strasť"
+      acc: "strasť"
+      gen: "strasti"
+      loc: "strasti"
+      dat: "strasti"
+      ins: "strasťjų"
+      voc: "strasti"
+    plural: 
+      nom: "strasti"
+      acc: "strasti"
+      gen: "strastij"
+      loc: "strasťah"
+      dat: "strasťam"
+      ins: "strasťami"
+      voc: "strasti"

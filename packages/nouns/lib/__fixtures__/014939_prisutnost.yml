@@ -1,0 +1,22 @@
+---
+  id: "14939"
+  word: "prisųtnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prisųtnosť"
+      acc: "prisųtnosť"
+      gen: "prisųtnosti"
+      loc: "prisųtnosti"
+      dat: "prisųtnosti"
+      ins: "prisųtnosťjų"
+      voc: "prisųtnosti"
+    plural: 
+      nom: "prisųtnosti"
+      acc: "prisųtnosti"
+      gen: "prisųtnostij"
+      loc: "prisųtnosťah"
+      dat: "prisųtnosťam"
+      ins: "prisųtnosťami"
+      voc: "prisųtnosti"

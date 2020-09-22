@@ -1,0 +1,15 @@
+---
+  id: "22631"
+  word: "iridij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "iridij"
+      acc: "iridij"
+      gen: "iridija"
+      loc: "iridiju"
+      dat: "iridiju"
+      ins: "iridijem"
+      voc: "iridiju"

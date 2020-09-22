@@ -1,0 +1,15 @@
+---
+  id: "15601"
+  word: "trojčęta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "trojčęta"
+      acc: "trojčęta"
+      gen: "trojčęt"
+      loc: "trojčętah"
+      dat: "trojčętam"
+      ins: "trojčętami"
+      voc: "trojčęta"

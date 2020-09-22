@@ -1,0 +1,22 @@
+---
+  id: "3551"
+  word: "obråna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obråna"
+      acc: "obrånų"
+      gen: "obråny"
+      loc: "obråně"
+      dat: "obråně"
+      ins: "obrånojų"
+      voc: "obråno"
+    plural: 
+      nom: "obråny"
+      acc: "obråny"
+      gen: "obrån"
+      loc: "obrånah"
+      dat: "obrånam"
+      ins: "obrånami"
+      voc: "obråny"

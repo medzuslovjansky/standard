@@ -1,0 +1,22 @@
+---
+  id: "31866"
+  word: "lukovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lukovica"
+      acc: "lukovicų"
+      gen: "lukovice"
+      loc: "lukovici"
+      dat: "lukovici"
+      ins: "lukovicejų"
+      voc: "lukovico"
+    plural: 
+      nom: "lukovice"
+      acc: "lukovice"
+      gen: "lukovic"
+      loc: "lukovicah"
+      dat: "lukovicam"
+      ins: "lukovicami"
+      voc: "lukovice"

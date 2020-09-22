@@ -1,0 +1,15 @@
+---
+  id: "3743"
+  word: "vųsy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "vųsy"
+      acc: "vųsy"
+      gen: "vųsov"
+      loc: "vųsah"
+      dat: "vųsam"
+      ins: "vųsami"
+      voc: "vųsy"

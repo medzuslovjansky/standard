@@ -1,0 +1,22 @@
+---
+  id: "19059"
+  word: "unižnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "unižnosť"
+      acc: "unižnosť"
+      gen: "unižnosti"
+      loc: "unižnosti"
+      dat: "unižnosti"
+      ins: "unižnosťjų"
+      voc: "unižnosti"
+    plural: 
+      nom: "unižnosti"
+      acc: "unižnosti"
+      gen: "unižnostij"
+      loc: "unižnosťah"
+      dat: "unižnosťam"
+      ins: "unižnosťami"
+      voc: "unižnosti"

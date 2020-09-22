@@ -1,0 +1,22 @@
+---
+  id: "164"
+  word: "meč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "meč"
+      acc: "meč"
+      gen: "meča"
+      loc: "meču"
+      dat: "meču"
+      ins: "mečem"
+      voc: "meču"
+    plural: 
+      nom: "meče"
+      acc: "meče"
+      gen: "mečev"
+      loc: "mečah"
+      dat: "mečam"
+      ins: "mečami"
+      voc: "meče"

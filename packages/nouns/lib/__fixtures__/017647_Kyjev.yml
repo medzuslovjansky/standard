@@ -1,0 +1,15 @@
+---
+  id: "17647"
+  word: "Kyjev"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kyjev"
+      acc: "Kyjev"
+      gen: "Kyjeva"
+      loc: "Kyjevu"
+      dat: "Kyjevu"
+      ins: "Kyjevom"
+      voc: "Kyjeve"

@@ -1,0 +1,22 @@
+---
+  id: "1288"
+  word: "sedmica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sedmica"
+      acc: "sedmicų"
+      gen: "sedmice"
+      loc: "sedmici"
+      dat: "sedmici"
+      ins: "sedmicejų"
+      voc: "sedmico"
+    plural: 
+      nom: "sedmice"
+      acc: "sedmice"
+      gen: "sedmic"
+      loc: "sedmicah"
+      dat: "sedmicam"
+      ins: "sedmicami"
+      voc: "sedmice"

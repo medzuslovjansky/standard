@@ -1,0 +1,22 @@
+---
+  id: "27770"
+  word: "motto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "motto"
+      acc: "motto"
+      gen: "motta"
+      loc: "mottu"
+      dat: "mottu"
+      ins: "mottom"
+      voc: "motto"
+    plural: 
+      nom: "motta"
+      acc: "motta"
+      gen: "mott"
+      loc: "mottah"
+      dat: "mottam"
+      ins: "mottami"
+      voc: "motta"

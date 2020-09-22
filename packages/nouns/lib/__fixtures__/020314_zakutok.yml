@@ -1,0 +1,22 @@
+---
+  id: "20314"
+  word: "zakųtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zakųtȯk"
+      acc: "zakųtȯk"
+      gen: "zakųtka"
+      loc: "zakųtku"
+      dat: "zakųtku"
+      ins: "zakųtkom"
+      voc: "zakųtče"
+    plural: 
+      nom: "zakųtky"
+      acc: "zakųtky"
+      gen: "zakųtkov"
+      loc: "zakųtkah"
+      dat: "zakųtkam"
+      ins: "zakųtkami"
+      voc: "zakųtky"

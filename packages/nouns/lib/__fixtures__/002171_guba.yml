@@ -1,0 +1,22 @@
+---
+  id: "2171"
+  word: "gųba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gųba"
+      acc: "gųbų"
+      gen: "gųby"
+      loc: "gųbě"
+      dat: "gųbě"
+      ins: "gųbojų"
+      voc: "gųbo"
+    plural: 
+      nom: "gųby"
+      acc: "gųby"
+      gen: "gųb"
+      loc: "gųbah"
+      dat: "gųbam"
+      ins: "gųbami"
+      voc: "gųby"

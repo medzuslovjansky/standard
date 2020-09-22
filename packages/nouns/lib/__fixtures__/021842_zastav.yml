@@ -1,0 +1,22 @@
+---
+  id: "21842"
+  word: "zastav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zastav"
+      acc: "zastav"
+      gen: "zastava"
+      loc: "zastavu"
+      dat: "zastavu"
+      ins: "zastavom"
+      voc: "zastave"
+    plural: 
+      nom: "zastavy"
+      acc: "zastavy"
+      gen: "zastavov"
+      loc: "zastavah"
+      dat: "zastavam"
+      ins: "zastavami"
+      voc: "zastavy"

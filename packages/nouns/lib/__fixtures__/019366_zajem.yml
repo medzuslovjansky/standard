@@ -1,0 +1,22 @@
+---
+  id: "19366"
+  word: "zajem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zajem"
+      acc: "zajem"
+      gen: "zajema"
+      loc: "zajemu"
+      dat: "zajemu"
+      ins: "zajemom"
+      voc: "zajeme"
+    plural: 
+      nom: "zajemy"
+      acc: "zajemy"
+      gen: "zajemov"
+      loc: "zajemah"
+      dat: "zajemam"
+      ins: "zajemami"
+      voc: "zajemy"

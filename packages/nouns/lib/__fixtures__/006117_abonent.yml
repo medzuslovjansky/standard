@@ -1,0 +1,22 @@
+---
+  id: "6117"
+  word: "abonent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "abonent"
+      acc: "abonent"
+      gen: "abonenta"
+      loc: "abonentu"
+      dat: "abonentu"
+      ins: "abonentom"
+      voc: "abonente"
+    plural: 
+      nom: "abonenty"
+      acc: "abonenty"
+      gen: "abonentov"
+      loc: "abonentah"
+      dat: "abonentam"
+      ins: "abonentami"
+      voc: "abonenty"

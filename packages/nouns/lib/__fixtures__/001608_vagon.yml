@@ -1,0 +1,22 @@
+---
+  id: "1608"
+  word: "vagon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vagon"
+      acc: "vagon"
+      gen: "vagona"
+      loc: "vagonu"
+      dat: "vagonu"
+      ins: "vagonom"
+      voc: "vagone"
+    plural: 
+      nom: "vagony"
+      acc: "vagony"
+      gen: "vagonov"
+      loc: "vagonah"
+      dat: "vagonam"
+      ins: "vagonami"
+      voc: "vagony"

@@ -1,0 +1,16 @@
+---
+  id: "7320"
+  word: "drobne"
+  meta: 
+    irregularity: "(-yh)"
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "drobne"
+      acc: "drobne"
+      gen: "drobnyh"
+      loc: "drobnyh"
+      dat: "drobnym"
+      ins: "drobnymi"
+      voc: "drobne"

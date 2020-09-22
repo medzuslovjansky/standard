@@ -1,0 +1,22 @@
+---
+  id: "32190"
+  word: "prělom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prělom"
+      acc: "prělom"
+      gen: "prěloma"
+      loc: "prělomu"
+      dat: "prělomu"
+      ins: "prělomom"
+      voc: "prělome"
+    plural: 
+      nom: "prělomy"
+      acc: "prělomy"
+      gen: "prělomov"
+      loc: "prělomah"
+      dat: "prělomam"
+      ins: "prělomami"
+      voc: "prělomy"

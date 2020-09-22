@@ -1,0 +1,15 @@
+---
+  id: "341"
+  word: "kal"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kal"
+      acc: "kal"
+      gen: "kala"
+      loc: "kalu"
+      dat: "kalu"
+      ins: "kalom"
+      voc: "kale"

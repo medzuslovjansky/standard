@@ -1,0 +1,22 @@
+---
+  id: "288"
+  word: "defis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "defis"
+      acc: "defis"
+      gen: "defisa"
+      loc: "defisu"
+      dat: "defisu"
+      ins: "defisom"
+      voc: "defise"
+    plural: 
+      nom: "defisy"
+      acc: "defisy"
+      gen: "defisov"
+      loc: "defisah"
+      dat: "defisam"
+      ins: "defisami"
+      voc: "defisy"

@@ -1,0 +1,22 @@
+---
+  id: "32159"
+  word: "ledovec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ledovec"
+      acc: "ledovec"
+      gen: "ledovca"
+      loc: "ledovcu"
+      dat: "ledovcu"
+      ins: "ledovcem"
+      voc: "ledovče"
+    plural: 
+      nom: "ledovce"
+      acc: "ledovce"
+      gen: "ledovcev"
+      loc: "ledovcah"
+      dat: "ledovcam"
+      ins: "ledovcami"
+      voc: "ledovce"

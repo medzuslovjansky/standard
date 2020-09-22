@@ -1,0 +1,22 @@
+---
+  id: "36462"
+  word: "koronavirus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koronavirus"
+      acc: "koronavirus"
+      gen: "koronavirusa"
+      loc: "koronavirusu"
+      dat: "koronavirusu"
+      ins: "koronavirusom"
+      voc: "koronaviruse"
+    plural: 
+      nom: "koronavirusy"
+      acc: "koronavirusy"
+      gen: "koronavirusov"
+      loc: "koronavirusah"
+      dat: "koronavirusam"
+      ins: "koronavirusami"
+      voc: "koronavirusy"

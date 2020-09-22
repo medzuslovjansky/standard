@@ -1,0 +1,22 @@
+---
+  id: "20726"
+  word: "scena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "scena"
+      acc: "scenų"
+      gen: "sceny"
+      loc: "sceně"
+      dat: "sceně"
+      ins: "scenojų"
+      voc: "sceno"
+    plural: 
+      nom: "sceny"
+      acc: "sceny"
+      gen: "scen"
+      loc: "scenah"
+      dat: "scenam"
+      ins: "scenami"
+      voc: "sceny"

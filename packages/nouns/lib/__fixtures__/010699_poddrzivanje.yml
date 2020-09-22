@@ -1,0 +1,22 @@
+---
+  id: "10699"
+  word: "poddŕživańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poddŕživańje"
+      acc: "poddŕživańje"
+      gen: "poddŕživańja"
+      loc: "poddŕživańju"
+      dat: "poddŕživańju"
+      ins: "poddŕživańjem"
+      voc: "poddŕživańje"
+    plural: 
+      nom: "poddŕživańja"
+      acc: "poddŕživańja"
+      gen: "poddŕživanij"
+      loc: "poddŕživańjah"
+      dat: "poddŕživańjam"
+      ins: "poddŕživańjami"
+      voc: "poddŕživańja"

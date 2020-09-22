@@ -1,0 +1,22 @@
+---
+  id: "33409"
+  word: "tabletka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tabletka"
+      acc: "tabletkų"
+      gen: "tabletky"
+      loc: "tabletkě"
+      dat: "tabletkě"
+      ins: "tabletkojų"
+      voc: "tabletko"
+    plural: 
+      nom: "tabletky"
+      acc: "tabletky"
+      gen: "tabletȯk"
+      loc: "tabletkah"
+      dat: "tabletkam"
+      ins: "tabletkami"
+      voc: "tabletky"

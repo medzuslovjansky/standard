@@ -1,0 +1,22 @@
+---
+  id: "24223"
+  word: "alabastr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "alabastr"
+      acc: "alabastr"
+      gen: "alabastra"
+      loc: "alabastru"
+      dat: "alabastru"
+      ins: "alabastrom"
+      voc: "alabastre"
+    plural: 
+      nom: "alabastry"
+      acc: "alabastry"
+      gen: "alabastrov"
+      loc: "alabastrah"
+      dat: "alabastram"
+      ins: "alabastrami"
+      voc: "alabastry"

@@ -1,0 +1,23 @@
+---
+  id: "13208"
+  word: "vųgȯl"
+  meta: 
+    irregularity: "(vųgla)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vųg(ȯ)l"
+      acc: "vųg(ȯ)l"
+      gen: "vųg(ȯ)la"
+      loc: "vųg(ȯ)lu"
+      dat: "vųg(ȯ)lu"
+      ins: "vųg(ȯ)lom"
+      voc: "vųg(ȯ)le"
+    plural: 
+      nom: "vųg(ȯ)ly"
+      acc: "vųg(ȯ)ly"
+      gen: "vųg(ȯ)lov"
+      loc: "vųg(ȯ)lah"
+      dat: "vųg(ȯ)lam"
+      ins: "vųg(ȯ)lami"
+      voc: "vųg(ȯ)ly"

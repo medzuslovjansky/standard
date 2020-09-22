@@ -1,0 +1,22 @@
+---
+  id: "11103"
+  word: "pozastavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pozastavjeńje"
+      acc: "pozastavjeńje"
+      gen: "pozastavjeńja"
+      loc: "pozastavjeńju"
+      dat: "pozastavjeńju"
+      ins: "pozastavjeńjem"
+      voc: "pozastavjeńje"
+    plural: 
+      nom: "pozastavjeńja"
+      acc: "pozastavjeńja"
+      gen: "pozastavjenij"
+      loc: "pozastavjeńjah"
+      dat: "pozastavjeńjam"
+      ins: "pozastavjeńjami"
+      voc: "pozastavjeńja"

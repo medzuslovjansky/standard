@@ -1,0 +1,15 @@
+---
+  id: "23540"
+  word: "ekologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ekologija"
+      acc: "ekologijų"
+      gen: "ekologije"
+      loc: "ekologiji"
+      dat: "ekologiji"
+      ins: "ekologijejų"
+      voc: "ekologijo"

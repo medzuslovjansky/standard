@@ -1,0 +1,15 @@
+---
+  id: "19661"
+  word: "bezpokojstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezpokojstvo"
+      acc: "bezpokojstvo"
+      gen: "bezpokojstva"
+      loc: "bezpokojstvu"
+      dat: "bezpokojstvu"
+      ins: "bezpokojstvom"
+      voc: "bezpokojstvo"

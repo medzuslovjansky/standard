@@ -1,0 +1,22 @@
+---
+  id: "36213"
+  word: "koordinacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koordinacija"
+      acc: "koordinacijų"
+      gen: "koordinacije"
+      loc: "koordinaciji"
+      dat: "koordinaciji"
+      ins: "koordinacijejų"
+      voc: "koordinacijo"
+    plural: 
+      nom: "koordinacije"
+      acc: "koordinacije"
+      gen: "koordinacij"
+      loc: "koordinacijah"
+      dat: "koordinacijam"
+      ins: "koordinacijami"
+      voc: "koordinacije"

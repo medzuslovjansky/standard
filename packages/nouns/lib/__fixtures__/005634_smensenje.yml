@@ -1,0 +1,22 @@
+---
+  id: "5634"
+  word: "smenšeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "smenšeńje"
+      acc: "smenšeńje"
+      gen: "smenšeńja"
+      loc: "smenšeńju"
+      dat: "smenšeńju"
+      ins: "smenšeńjem"
+      voc: "smenšeńje"
+    plural: 
+      nom: "smenšeńja"
+      acc: "smenšeńja"
+      gen: "smenšenij"
+      loc: "smenšeńjah"
+      dat: "smenšeńjam"
+      ins: "smenšeńjami"
+      voc: "smenšeńja"

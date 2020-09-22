@@ -1,0 +1,23 @@
+---
+  id: "17697"
+  word: "krålj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krålj"
+      acc: "krålja"
+      gen: "krålja"
+      loc: "krålju"
+      dat: "krålju"
+      ins: "kråljem"
+      voc: "krålju"
+    plural: 
+      nom: "krålji"
+      acc: "kråljev"
+      gen: "kråljev"
+      loc: "kråljah"
+      dat: "kråljam"
+      ins: "kråljami"
+      voc: "krålji"

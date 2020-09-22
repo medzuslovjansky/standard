@@ -1,0 +1,22 @@
+---
+  id: "8078"
+  word: "niščivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "niščivosť"
+      acc: "niščivosť"
+      gen: "niščivosti"
+      loc: "niščivosti"
+      dat: "niščivosti"
+      ins: "niščivosťjų"
+      voc: "niščivosti"
+    plural: 
+      nom: "niščivosti"
+      acc: "niščivosti"
+      gen: "niščivostij"
+      loc: "niščivosťah"
+      dat: "niščivosťam"
+      ins: "niščivosťami"
+      voc: "niščivosti"

@@ -1,0 +1,22 @@
+---
+  id: "760"
+  word: "demisija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "demisija"
+      acc: "demisijų"
+      gen: "demisije"
+      loc: "demisiji"
+      dat: "demisiji"
+      ins: "demisijejų"
+      voc: "demisijo"
+    plural: 
+      nom: "demisije"
+      acc: "demisije"
+      gen: "demisij"
+      loc: "demisijah"
+      dat: "demisijam"
+      ins: "demisijami"
+      voc: "demisije"

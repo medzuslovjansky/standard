@@ -1,0 +1,22 @@
+---
+  id: "4531"
+  word: "popravnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popravnosť"
+      acc: "popravnosť"
+      gen: "popravnosti"
+      loc: "popravnosti"
+      dat: "popravnosti"
+      ins: "popravnosťjų"
+      voc: "popravnosti"
+    plural: 
+      nom: "popravnosti"
+      acc: "popravnosti"
+      gen: "popravnostij"
+      loc: "popravnosťah"
+      dat: "popravnosťam"
+      ins: "popravnosťami"
+      voc: "popravnosti"

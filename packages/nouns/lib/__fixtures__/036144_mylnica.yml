@@ -1,0 +1,22 @@
+---
+  id: "36144"
+  word: "myľnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "myľnica"
+      acc: "myľnicų"
+      gen: "myľnice"
+      loc: "myľnici"
+      dat: "myľnici"
+      ins: "myľnicejų"
+      voc: "myľnico"
+    plural: 
+      nom: "myľnice"
+      acc: "myľnice"
+      gen: "myľnic"
+      loc: "myľnicah"
+      dat: "myľnicam"
+      ins: "myľnicami"
+      voc: "myľnice"

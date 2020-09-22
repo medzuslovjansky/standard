@@ -1,0 +1,22 @@
+---
+  id: "36143"
+  word: "rędȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rędȯk"
+      acc: "rędȯk"
+      gen: "rędka"
+      loc: "rędku"
+      dat: "rędku"
+      ins: "rędkom"
+      voc: "rędče"
+    plural: 
+      nom: "rędky"
+      acc: "rędky"
+      gen: "rędkov"
+      loc: "rędkah"
+      dat: "rędkam"
+      ins: "rędkami"
+      voc: "rędky"

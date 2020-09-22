@@ -1,0 +1,45 @@
+---
+  - 
+    id: "13627"
+    word: "vinogråd"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "vinogråd"
+        acc: "vinogråd"
+        gen: "vinogråda"
+        loc: "vinogrådu"
+        dat: "vinogrådu"
+        ins: "vinogrådom"
+        voc: "vinogråde"
+      plural: 
+        nom: "vinogrådy"
+        acc: "vinogrådy"
+        gen: "vinogrådov"
+        loc: "vinogrådah"
+        dat: "vinogrådam"
+        ins: "vinogrådami"
+        voc: "vinogrådy"
+  - 
+    id: "13627"
+    word: "vinogrådnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "vinogrådnik"
+        acc: "vinogrådnik"
+        gen: "vinogrådnika"
+        loc: "vinogrådniku"
+        dat: "vinogrådniku"
+        ins: "vinogrådnikom"
+        voc: "vinogrådniče"
+      plural: 
+        nom: "vinogrådniky"
+        acc: "vinogrådniky"
+        gen: "vinogrådnikov"
+        loc: "vinogrådnikah"
+        dat: "vinogrådnikam"
+        ins: "vinogrådnikami"
+        voc: "vinogrådniky"

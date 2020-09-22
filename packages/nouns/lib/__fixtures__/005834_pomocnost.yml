@@ -1,0 +1,22 @@
+---
+  id: "5834"
+  word: "pomoćnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pomoćnosť"
+      acc: "pomoćnosť"
+      gen: "pomoćnosti"
+      loc: "pomoćnosti"
+      dat: "pomoćnosti"
+      ins: "pomoćnosťjų"
+      voc: "pomoćnosti"
+    plural: 
+      nom: "pomoćnosti"
+      acc: "pomoćnosti"
+      gen: "pomoćnostij"
+      loc: "pomoćnosťah"
+      dat: "pomoćnosťam"
+      ins: "pomoćnosťami"
+      voc: "pomoćnosti"

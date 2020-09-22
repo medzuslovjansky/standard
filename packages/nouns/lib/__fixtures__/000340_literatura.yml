@@ -1,0 +1,22 @@
+---
+  id: "340"
+  word: "literatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "literatura"
+      acc: "literaturų"
+      gen: "literatury"
+      loc: "literaturě"
+      dat: "literaturě"
+      ins: "literaturojų"
+      voc: "literaturo"
+    plural: 
+      nom: "literatury"
+      acc: "literatury"
+      gen: "literatur"
+      loc: "literaturah"
+      dat: "literaturam"
+      ins: "literaturami"
+      voc: "literatury"

@@ -1,0 +1,15 @@
+---
+  id: "23649"
+  word: "Merkurij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Merkurij"
+      acc: "Merkurij"
+      gen: "Merkurija"
+      loc: "Merkuriju"
+      dat: "Merkuriju"
+      ins: "Merkurijem"
+      voc: "Merkuriju"

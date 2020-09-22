@@ -1,0 +1,24 @@
+---
+  id: "13168"
+  word: "učeny"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "učeny"
+      acc: "učenogo"
+      gen: "učenogo"
+      loc: "učenom"
+      dat: "učenomu"
+      ins: "učenym"
+      voc: "učeny"
+    plural: 
+      nom: "učeni"
+      acc: "učenyh"
+      gen: "učenyh"
+      loc: "učenyh"
+      dat: "učenym"
+      ins: "učenymi"
+      voc: "učeni"

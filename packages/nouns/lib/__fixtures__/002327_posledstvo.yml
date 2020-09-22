@@ -1,0 +1,22 @@
+---
+  id: "2327"
+  word: "poslědstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poslědstvo"
+      acc: "poslědstvo"
+      gen: "poslědstva"
+      loc: "poslědstvu"
+      dat: "poslědstvu"
+      ins: "poslědstvom"
+      voc: "poslědstvo"
+    plural: 
+      nom: "poslědstva"
+      acc: "poslědstva"
+      gen: "poslědstv"
+      loc: "poslědstvah"
+      dat: "poslědstvam"
+      ins: "poslědstvami"
+      voc: "poslědstva"

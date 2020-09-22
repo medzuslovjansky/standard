@@ -1,0 +1,29 @@
+---
+  - 
+    id: "5975"
+    word: "imeniteljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "imeniteljnik"
+        acc: "imeniteljnik"
+        gen: "imeniteljnika"
+        loc: "imeniteljniku"
+        dat: "imeniteljniku"
+        ins: "imeniteljnikom"
+        voc: "imeniteljniče"
+      plural: 
+        nom: "imeniteljniky"
+        acc: "imeniteljniky"
+        gen: "imeniteljnikov"
+        loc: "imeniteljnikah"
+        dat: "imeniteljnikam"
+        ins: "imeniteljnikami"
+        voc: "imeniteljniky"
+  - 
+    id: "5975"
+    word: "imeniteljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

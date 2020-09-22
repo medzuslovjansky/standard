@@ -1,0 +1,22 @@
+---
+  id: "23602"
+  word: "organizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "organizm"
+      acc: "organizm"
+      gen: "organizma"
+      loc: "organizmu"
+      dat: "organizmu"
+      ins: "organizmom"
+      voc: "organizme"
+    plural: 
+      nom: "organizmy"
+      acc: "organizmy"
+      gen: "organizmov"
+      loc: "organizmah"
+      dat: "organizmam"
+      ins: "organizmami"
+      voc: "organizmy"

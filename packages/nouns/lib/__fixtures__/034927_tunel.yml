@@ -1,0 +1,22 @@
+---
+  id: "34927"
+  word: "tunel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tunel"
+      acc: "tunel"
+      gen: "tunela"
+      loc: "tunelu"
+      dat: "tunelu"
+      ins: "tunelom"
+      voc: "tunele"
+    plural: 
+      nom: "tunely"
+      acc: "tunely"
+      gen: "tunelov"
+      loc: "tunelah"
+      dat: "tunelam"
+      ins: "tunelami"
+      voc: "tunely"

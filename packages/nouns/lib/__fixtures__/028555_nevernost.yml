@@ -1,0 +1,22 @@
+---
+  id: "28555"
+  word: "nevěrnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevěrnosť"
+      acc: "nevěrnosť"
+      gen: "nevěrnosti"
+      loc: "nevěrnosti"
+      dat: "nevěrnosti"
+      ins: "nevěrnosťjų"
+      voc: "nevěrnosti"
+    plural: 
+      nom: "nevěrnosti"
+      acc: "nevěrnosti"
+      gen: "nevěrnostij"
+      loc: "nevěrnosťah"
+      dat: "nevěrnosťam"
+      ins: "nevěrnosťami"
+      voc: "nevěrnosti"

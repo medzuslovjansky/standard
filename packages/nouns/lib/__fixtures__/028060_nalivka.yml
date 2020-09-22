@@ -1,0 +1,22 @@
+---
+  id: "28060"
+  word: "nalivka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nalivka"
+      acc: "nalivkų"
+      gen: "nalivky"
+      loc: "nalivkě"
+      dat: "nalivkě"
+      ins: "nalivkojų"
+      voc: "nalivko"
+    plural: 
+      nom: "nalivky"
+      acc: "nalivky"
+      gen: "nalivȯk"
+      loc: "nalivkah"
+      dat: "nalivkam"
+      ins: "nalivkami"
+      voc: "nalivky"

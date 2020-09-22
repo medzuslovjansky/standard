@@ -1,0 +1,22 @@
+---
+  id: "21700"
+  word: "stanȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stanȯk"
+      acc: "stanȯk"
+      gen: "stanka"
+      loc: "stanku"
+      dat: "stanku"
+      ins: "stankom"
+      voc: "stanče"
+    plural: 
+      nom: "stanky"
+      acc: "stanky"
+      gen: "stankov"
+      loc: "stankah"
+      dat: "stankam"
+      ins: "stankami"
+      voc: "stanky"

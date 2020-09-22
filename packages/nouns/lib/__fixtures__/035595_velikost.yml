@@ -1,0 +1,22 @@
+---
+  id: "35595"
+  word: "velikosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "velikosť"
+      acc: "velikosť"
+      gen: "velikosti"
+      loc: "velikosti"
+      dat: "velikosti"
+      ins: "velikosťjų"
+      voc: "velikosti"
+    plural: 
+      nom: "velikosti"
+      acc: "velikosti"
+      gen: "velikostij"
+      loc: "velikosťah"
+      dat: "velikosťam"
+      ins: "velikosťami"
+      voc: "velikosti"

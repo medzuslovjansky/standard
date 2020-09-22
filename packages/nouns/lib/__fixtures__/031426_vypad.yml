@@ -1,0 +1,22 @@
+---
+  id: "31426"
+  word: "vypad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vypad"
+      acc: "vypad"
+      gen: "vypada"
+      loc: "vypadu"
+      dat: "vypadu"
+      ins: "vypadom"
+      voc: "vypade"
+    plural: 
+      nom: "vypady"
+      acc: "vypady"
+      gen: "vypadov"
+      loc: "vypadah"
+      dat: "vypadam"
+      ins: "vypadami"
+      voc: "vypady"

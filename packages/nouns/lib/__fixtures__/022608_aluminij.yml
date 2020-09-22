@@ -1,0 +1,15 @@
+---
+  id: "22608"
+  word: "aluminij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aluminij"
+      acc: "aluminij"
+      gen: "aluminija"
+      loc: "aluminiju"
+      dat: "aluminiju"
+      ins: "aluminijem"
+      voc: "aluminiju"

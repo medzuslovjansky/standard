@@ -1,0 +1,22 @@
+---
+  id: "5281"
+  word: "guma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "guma"
+      acc: "gumų"
+      gen: "gumy"
+      loc: "gumě"
+      dat: "gumě"
+      ins: "gumojų"
+      voc: "gumo"
+    plural: 
+      nom: "gumy"
+      acc: "gumy"
+      gen: "gum"
+      loc: "gumah"
+      dat: "gumam"
+      ins: "gumami"
+      voc: "gumy"

@@ -1,0 +1,22 @@
+---
+  id: "1373"
+  word: "sěť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sěť"
+      acc: "sěť"
+      gen: "sěti"
+      loc: "sěti"
+      dat: "sěti"
+      ins: "sěťjų"
+      voc: "sěti"
+    plural: 
+      nom: "sěti"
+      acc: "sěti"
+      gen: "sětij"
+      loc: "sěťah"
+      dat: "sěťam"
+      ins: "sěťami"
+      voc: "sěti"

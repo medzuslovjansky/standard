@@ -1,0 +1,22 @@
+---
+  id: "27168"
+  word: "ljvica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljvica"
+      acc: "ljvicų"
+      gen: "ljvice"
+      loc: "ljvici"
+      dat: "ljvici"
+      ins: "ljvicejų"
+      voc: "ljvico"
+    plural: 
+      nom: "ljvice"
+      acc: "ljvice"
+      gen: "ljvic"
+      loc: "ljvicah"
+      dat: "ljvicam"
+      ins: "ljvicami"
+      voc: "ljvice"

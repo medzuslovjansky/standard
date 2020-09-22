@@ -1,0 +1,23 @@
+---
+  id: "8669"
+  word: "kråtkovidnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kråtkovidnik"
+      acc: "kråtkovidnika"
+      gen: "kråtkovidnika"
+      loc: "kråtkovidniku"
+      dat: "kråtkovidniku"
+      ins: "kråtkovidnikom"
+      voc: "kråtkovidniče"
+    plural: 
+      nom: "kråtkovidniki"
+      acc: "kråtkovidnikov"
+      gen: "kråtkovidnikov"
+      loc: "kråtkovidnikah"
+      dat: "kråtkovidnikam"
+      ins: "kråtkovidnikami"
+      voc: "kråtkovidniki"

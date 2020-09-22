@@ -1,0 +1,22 @@
+---
+  id: "14775"
+  word: "oddyh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oddyh"
+      acc: "oddyh"
+      gen: "oddyha"
+      loc: "oddyhu"
+      dat: "oddyhu"
+      ins: "oddyhom"
+      voc: "oddyše"
+    plural: 
+      nom: "oddyhy"
+      acc: "oddyhy"
+      gen: "oddyhov"
+      loc: "oddyhah"
+      dat: "oddyham"
+      ins: "oddyhami"
+      voc: "oddyhy"

@@ -1,0 +1,22 @@
+---
+  id: "29562"
+  word: "orańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "orańje"
+      acc: "orańje"
+      gen: "orańja"
+      loc: "orańju"
+      dat: "orańju"
+      ins: "orańjem"
+      voc: "orańje"
+    plural: 
+      nom: "orańja"
+      acc: "orańja"
+      gen: "oranij"
+      loc: "orańjah"
+      dat: "orańjam"
+      ins: "orańjami"
+      voc: "orańja"

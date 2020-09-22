@@ -1,0 +1,22 @@
+---
+  id: "5237"
+  word: "světilka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "světilka"
+      acc: "světilkų"
+      gen: "světilky"
+      loc: "světilkě"
+      dat: "světilkě"
+      ins: "světilkojų"
+      voc: "světilko"
+    plural: 
+      nom: "světilky"
+      acc: "světilky"
+      gen: "světilȯk"
+      loc: "světilkah"
+      dat: "světilkam"
+      ins: "světilkami"
+      voc: "světilky"

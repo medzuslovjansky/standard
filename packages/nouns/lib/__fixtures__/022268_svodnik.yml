@@ -1,0 +1,23 @@
+---
+  id: "22268"
+  word: "svodnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svodnik"
+      acc: "svodnika"
+      gen: "svodnika"
+      loc: "svodniku"
+      dat: "svodniku"
+      ins: "svodnikom"
+      voc: "svodniče"
+    plural: 
+      nom: "svodniki"
+      acc: "svodnikov"
+      gen: "svodnikov"
+      loc: "svodnikah"
+      dat: "svodnikam"
+      ins: "svodnikami"
+      voc: "svodniki"

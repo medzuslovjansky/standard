@@ -1,0 +1,22 @@
+---
+  id: "20674"
+  word: "råzboj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzboj"
+      acc: "råzboj"
+      gen: "råzboja"
+      loc: "råzboju"
+      dat: "råzboju"
+      ins: "råzbojem"
+      voc: "råzboju"
+    plural: 
+      nom: "råzboje"
+      acc: "råzboje"
+      gen: "råzbojev"
+      loc: "råzbojah"
+      dat: "råzbojam"
+      ins: "råzbojami"
+      voc: "råzboje"

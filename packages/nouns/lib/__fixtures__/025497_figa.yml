@@ -1,0 +1,22 @@
+---
+  id: "25497"
+  word: "figa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "figa"
+      acc: "figų"
+      gen: "figy"
+      loc: "figě"
+      dat: "figě"
+      ins: "figojų"
+      voc: "figo"
+    plural: 
+      nom: "figy"
+      acc: "figy"
+      gen: "fig"
+      loc: "figah"
+      dat: "figam"
+      ins: "figami"
+      voc: "figy"

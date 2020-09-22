@@ -1,0 +1,23 @@
+---
+  id: "16004"
+  word: "medbrat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "medbrat"
+      acc: "medbrata"
+      gen: "medbrata"
+      loc: "medbratu"
+      dat: "medbratu"
+      ins: "medbratom"
+      voc: "medbrate"
+    plural: 
+      nom: "medbrati"
+      acc: "medbratov"
+      gen: "medbratov"
+      loc: "medbratah"
+      dat: "medbratam"
+      ins: "medbratami"
+      voc: "medbrati"

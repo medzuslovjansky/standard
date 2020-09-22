@@ -1,0 +1,22 @@
+---
+  id: "16837"
+  word: "oděđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oděđa"
+      acc: "oděđų"
+      gen: "oděđy"
+      loc: "oděđě"
+      dat: "oděđě"
+      ins: "oděđojų"
+      voc: "oděđo"
+    plural: 
+      nom: "oděđy"
+      acc: "oděđy"
+      gen: "oděđ"
+      loc: "oděđah"
+      dat: "oděđam"
+      ins: "oděđami"
+      voc: "oděđy"

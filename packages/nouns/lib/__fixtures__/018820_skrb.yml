@@ -1,0 +1,22 @@
+---
+  id: "18820"
+  word: "skrb"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skrb"
+      acc: "skrb"
+      gen: "skrbi"
+      loc: "skrbi"
+      dat: "skrbi"
+      ins: "skrbjų"
+      voc: "skrbi"
+    plural: 
+      nom: "skrbi"
+      acc: "skrbi"
+      gen: "skrbij"
+      loc: "skrbah"
+      dat: "skrbam"
+      ins: "skrbami"
+      voc: "skrbi"

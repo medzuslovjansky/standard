@@ -1,0 +1,15 @@
+---
+  id: "22216"
+  word: "prirodovědstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prirodovědstvo"
+      acc: "prirodovědstvo"
+      gen: "prirodovědstva"
+      loc: "prirodovědstvu"
+      dat: "prirodovědstvu"
+      ins: "prirodovědstvom"
+      voc: "prirodovědstvo"

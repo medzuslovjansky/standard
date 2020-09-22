@@ -1,0 +1,22 @@
+---
+  id: "3866"
+  word: "podobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podobnosť"
+      acc: "podobnosť"
+      gen: "podobnosti"
+      loc: "podobnosti"
+      dat: "podobnosti"
+      ins: "podobnosťjų"
+      voc: "podobnosti"
+    plural: 
+      nom: "podobnosti"
+      acc: "podobnosti"
+      gen: "podobnostij"
+      loc: "podobnosťah"
+      dat: "podobnosťam"
+      ins: "podobnosťami"
+      voc: "podobnosti"

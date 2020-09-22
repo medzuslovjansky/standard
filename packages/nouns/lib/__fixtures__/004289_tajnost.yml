@@ -1,0 +1,22 @@
+---
+  id: "4289"
+  word: "tajnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tajnosť"
+      acc: "tajnosť"
+      gen: "tajnosti"
+      loc: "tajnosti"
+      dat: "tajnosti"
+      ins: "tajnosťjų"
+      voc: "tajnosti"
+    plural: 
+      nom: "tajnosti"
+      acc: "tajnosti"
+      gen: "tajnostij"
+      loc: "tajnosťah"
+      dat: "tajnosťam"
+      ins: "tajnosťami"
+      voc: "tajnosti"

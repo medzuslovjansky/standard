@@ -1,0 +1,22 @@
+---
+  id: "21291"
+  word: "geranj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "geranj"
+      acc: "geranj"
+      gen: "geranja"
+      loc: "geranju"
+      dat: "geranju"
+      ins: "geranjem"
+      voc: "geranju"
+    plural: 
+      nom: "geranje"
+      acc: "geranje"
+      gen: "geranjev"
+      loc: "geranjah"
+      dat: "geranjam"
+      ins: "geranjami"
+      voc: "geranje"

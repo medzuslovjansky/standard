@@ -1,0 +1,22 @@
+---
+  id: "2902"
+  word: "spekulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spekulacija"
+      acc: "spekulacijų"
+      gen: "spekulacije"
+      loc: "spekulaciji"
+      dat: "spekulaciji"
+      ins: "spekulacijejų"
+      voc: "spekulacijo"
+    plural: 
+      nom: "spekulacije"
+      acc: "spekulacije"
+      gen: "spekulacij"
+      loc: "spekulacijah"
+      dat: "spekulacijam"
+      ins: "spekulacijami"
+      voc: "spekulacije"

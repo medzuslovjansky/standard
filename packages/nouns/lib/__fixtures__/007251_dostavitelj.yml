@@ -1,0 +1,23 @@
+---
+  id: "7251"
+  word: "dostavitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dostavitelj"
+      acc: "dostavitelja"
+      gen: "dostavitelja"
+      loc: "dostavitelju"
+      dat: "dostavitelju"
+      ins: "dostaviteljem"
+      voc: "dostavitelju"
+    plural: 
+      nom: "dostavitelji"
+      acc: "dostaviteljev"
+      gen: "dostaviteljev"
+      loc: "dostaviteljah"
+      dat: "dostaviteljam"
+      ins: "dostaviteljami"
+      voc: "dostavitelji"

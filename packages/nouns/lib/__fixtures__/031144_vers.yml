@@ -1,0 +1,22 @@
+---
+  id: "31144"
+  word: "verš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "verš"
+      acc: "verš"
+      gen: "verša"
+      loc: "veršu"
+      dat: "veršu"
+      ins: "veršem"
+      voc: "veršu"
+    plural: 
+      nom: "verše"
+      acc: "verše"
+      gen: "veršev"
+      loc: "veršah"
+      dat: "veršam"
+      ins: "veršami"
+      voc: "verše"

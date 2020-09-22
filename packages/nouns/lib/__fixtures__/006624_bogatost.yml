@@ -1,0 +1,15 @@
+---
+  id: "6624"
+  word: "bogatosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bogatosť"
+      acc: "bogatosť"
+      gen: "bogatosti"
+      loc: "bogatosti"
+      dat: "bogatosti"
+      ins: "bogatosťjų"
+      voc: "bogatosti"

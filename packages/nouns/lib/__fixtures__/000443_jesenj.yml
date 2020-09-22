@@ -1,0 +1,22 @@
+---
+  id: "443"
+  word: "jesenj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jesenj"
+      acc: "jesenj"
+      gen: "jesenji"
+      loc: "jesenji"
+      dat: "jesenji"
+      ins: "jesenjjų"
+      voc: "jesenji"
+    plural: 
+      nom: "jesenji"
+      acc: "jesenji"
+      gen: "jesenjij"
+      loc: "jesenjah"
+      dat: "jesenjam"
+      ins: "jesenjami"
+      voc: "jesenji"

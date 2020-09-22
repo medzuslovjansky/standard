@@ -1,0 +1,15 @@
+---
+  id: "19814"
+  word: "krivoprisęžničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "krivoprisęžničstvo"
+      acc: "krivoprisęžničstvo"
+      gen: "krivoprisęžničstva"
+      loc: "krivoprisęžničstvu"
+      dat: "krivoprisęžničstvu"
+      ins: "krivoprisęžničstvom"
+      voc: "krivoprisęžničstvo"

@@ -1,0 +1,22 @@
+---
+  id: "3858"
+  word: "nanos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nanos"
+      acc: "nanos"
+      gen: "nanosa"
+      loc: "nanosu"
+      dat: "nanosu"
+      ins: "nanosom"
+      voc: "nanose"
+    plural: 
+      nom: "nanosy"
+      acc: "nanosy"
+      gen: "nanosov"
+      loc: "nanosah"
+      dat: "nanosam"
+      ins: "nanosami"
+      voc: "nanosy"

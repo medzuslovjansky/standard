@@ -1,0 +1,22 @@
+---
+  id: "22963"
+  word: "žrlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žrlo"
+      acc: "žrlo"
+      gen: "žrla"
+      loc: "žrlu"
+      dat: "žrlu"
+      ins: "žrlom"
+      voc: "žrlo"
+    plural: 
+      nom: "žrla"
+      acc: "žrla"
+      gen: "žrl"
+      loc: "žrlah"
+      dat: "žrlam"
+      ins: "žrlami"
+      voc: "žrla"

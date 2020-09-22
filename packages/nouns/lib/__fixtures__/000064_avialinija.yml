@@ -1,0 +1,22 @@
+---
+  id: "64"
+  word: "avialinija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avialinija"
+      acc: "avialinijų"
+      gen: "avialinije"
+      loc: "avialiniji"
+      dat: "avialiniji"
+      ins: "avialinijejų"
+      voc: "avialinijo"
+    plural: 
+      nom: "avialinije"
+      acc: "avialinije"
+      gen: "avialinij"
+      loc: "avialinijah"
+      dat: "avialinijam"
+      ins: "avialinijami"
+      voc: "avialinije"

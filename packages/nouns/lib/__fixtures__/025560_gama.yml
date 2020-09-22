@@ -1,0 +1,22 @@
+---
+  id: "25560"
+  word: "gama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gama"
+      acc: "gamų"
+      gen: "gamy"
+      loc: "gamě"
+      dat: "gamě"
+      ins: "gamojų"
+      voc: "gamo"
+    plural: 
+      nom: "gamy"
+      acc: "gamy"
+      gen: "gam"
+      loc: "gamah"
+      dat: "gamam"
+      ins: "gamami"
+      voc: "gamy"

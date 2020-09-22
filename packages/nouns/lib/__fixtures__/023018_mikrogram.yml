@@ -1,0 +1,22 @@
+---
+  id: "23018"
+  word: "mikrogram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mikrogram"
+      acc: "mikrogram"
+      gen: "mikrograma"
+      loc: "mikrogramu"
+      dat: "mikrogramu"
+      ins: "mikrogramom"
+      voc: "mikrograme"
+    plural: 
+      nom: "mikrogramy"
+      acc: "mikrogramy"
+      gen: "mikrogramov"
+      loc: "mikrogramah"
+      dat: "mikrogramam"
+      ins: "mikrogramami"
+      voc: "mikrogramy"

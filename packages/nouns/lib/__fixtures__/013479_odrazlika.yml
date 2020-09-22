@@ -1,0 +1,22 @@
+---
+  id: "13479"
+  word: "odråzlika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odråzlika"
+      acc: "odråzlikų"
+      gen: "odråzliky"
+      loc: "odråzlikě"
+      dat: "odråzlikě"
+      ins: "odråzlikojų"
+      voc: "odråzliko"
+    plural: 
+      nom: "odråzliky"
+      acc: "odråzliky"
+      gen: "odråzlik"
+      loc: "odråzlikah"
+      dat: "odråzlikam"
+      ins: "odråzlikami"
+      voc: "odråzliky"

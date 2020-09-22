@@ -1,0 +1,22 @@
+---
+  id: "20145"
+  word: "skladišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "skladišče"
+      acc: "skladišče"
+      gen: "skladišča"
+      loc: "skladišču"
+      dat: "skladišču"
+      ins: "skladiščem"
+      voc: "skladišče"
+    plural: 
+      nom: "skladišča"
+      acc: "skladišča"
+      gen: "skladišč"
+      loc: "skladiščah"
+      dat: "skladiščam"
+      ins: "skladiščami"
+      voc: "skladišča"

@@ -1,0 +1,22 @@
+---
+  id: "11480"
+  word: "priroda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "priroda"
+      acc: "prirodų"
+      gen: "prirody"
+      loc: "prirodě"
+      dat: "prirodě"
+      ins: "prirodojų"
+      voc: "prirodo"
+    plural: 
+      nom: "prirody"
+      acc: "prirody"
+      gen: "prirod"
+      loc: "prirodah"
+      dat: "prirodam"
+      ins: "prirodami"
+      voc: "prirody"

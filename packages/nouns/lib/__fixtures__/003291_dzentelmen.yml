@@ -1,0 +1,23 @@
+---
+  id: "3291"
+  word: "džentelmen"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "džentelmen"
+      acc: "džentelmena"
+      gen: "džentelmena"
+      loc: "džentelmenu"
+      dat: "džentelmenu"
+      ins: "džentelmenom"
+      voc: "džentelmene"
+    plural: 
+      nom: "džentelmeni"
+      acc: "džentelmenov"
+      gen: "džentelmenov"
+      loc: "džentelmenah"
+      dat: "džentelmenam"
+      ins: "džentelmenami"
+      voc: "džentelmeni"

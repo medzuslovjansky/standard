@@ -1,0 +1,23 @@
+---
+  id: "9979"
+  word: "odkryvatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "odkryvatelj"
+      acc: "odkryvatelja"
+      gen: "odkryvatelja"
+      loc: "odkryvatelju"
+      dat: "odkryvatelju"
+      ins: "odkryvateljem"
+      voc: "odkryvatelju"
+    plural: 
+      nom: "odkryvatelji"
+      acc: "odkryvateljev"
+      gen: "odkryvateljev"
+      loc: "odkryvateljah"
+      dat: "odkryvateljam"
+      ins: "odkryvateljami"
+      voc: "odkryvatelji"

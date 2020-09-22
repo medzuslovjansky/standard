@@ -1,0 +1,22 @@
+---
+  id: "6164"
+  word: "kalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kalka"
+      acc: "kalkų"
+      gen: "kalky"
+      loc: "kalkě"
+      dat: "kalkě"
+      ins: "kalkojų"
+      voc: "kalko"
+    plural: 
+      nom: "kalky"
+      acc: "kalky"
+      gen: "kalȯk"
+      loc: "kalkah"
+      dat: "kalkam"
+      ins: "kalkami"
+      voc: "kalky"

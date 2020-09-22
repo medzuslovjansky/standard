@@ -1,0 +1,22 @@
+---
+  id: "27103"
+  word: "lěkaŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěkaŕka"
+      acc: "lěkaŕkų"
+      gen: "lěkaŕky"
+      loc: "lěkaŕkě"
+      dat: "lěkaŕkě"
+      ins: "lěkaŕkojų"
+      voc: "lěkaŕko"
+    plural: 
+      nom: "lěkaŕky"
+      acc: "lěkaŕky"
+      gen: "lěkaŕek"
+      loc: "lěkaŕkah"
+      dat: "lěkaŕkam"
+      ins: "lěkaŕkami"
+      voc: "lěkaŕky"

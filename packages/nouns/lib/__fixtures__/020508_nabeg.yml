@@ -1,0 +1,22 @@
+---
+  id: "20508"
+  word: "naběg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naběg"
+      acc: "naběg"
+      gen: "naběga"
+      loc: "naběgu"
+      dat: "naběgu"
+      ins: "naběgom"
+      voc: "naběže"
+    plural: 
+      nom: "naběgy"
+      acc: "naběgy"
+      gen: "naběgov"
+      loc: "naběgah"
+      dat: "naběgam"
+      ins: "naběgami"
+      voc: "naběgy"

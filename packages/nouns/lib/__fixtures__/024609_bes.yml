@@ -1,0 +1,23 @@
+---
+  id: "24609"
+  word: "běs"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "běs"
+      acc: "běsa"
+      gen: "běsa"
+      loc: "běsu"
+      dat: "běsu"
+      ins: "běsom"
+      voc: "běse"
+    plural: 
+      nom: "běsi"
+      acc: "běsov"
+      gen: "běsov"
+      loc: "běsah"
+      dat: "běsam"
+      ins: "běsami"
+      voc: "běsi"

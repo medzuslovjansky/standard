@@ -1,0 +1,23 @@
+---
+  id: "34576"
+  word: "invalid"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "invalid"
+      acc: "invalida"
+      gen: "invalida"
+      loc: "invalidu"
+      dat: "invalidu"
+      ins: "invalidom"
+      voc: "invalide"
+    plural: 
+      nom: "invalidi"
+      acc: "invalidov"
+      gen: "invalidov"
+      loc: "invalidah"
+      dat: "invalidam"
+      ins: "invalidami"
+      voc: "invalidi"

@@ -1,0 +1,22 @@
+---
+  id: "36745"
+  word: "pepeľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pepeľnik"
+      acc: "pepeľnik"
+      gen: "pepeľnika"
+      loc: "pepeľniku"
+      dat: "pepeľniku"
+      ins: "pepeľnikom"
+      voc: "pepeľniče"
+    plural: 
+      nom: "pepeľniky"
+      acc: "pepeľniky"
+      gen: "pepeľnikov"
+      loc: "pepeľnikah"
+      dat: "pepeľnikam"
+      ins: "pepeľnikami"
+      voc: "pepeľniky"

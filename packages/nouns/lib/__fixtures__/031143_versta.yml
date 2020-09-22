@@ -1,0 +1,22 @@
+---
+  id: "31143"
+  word: "versta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "versta"
+      acc: "verstų"
+      gen: "versty"
+      loc: "verstě"
+      dat: "verstě"
+      ins: "verstojų"
+      voc: "versto"
+    plural: 
+      nom: "versty"
+      acc: "versty"
+      gen: "verst"
+      loc: "verstah"
+      dat: "verstam"
+      ins: "verstami"
+      voc: "versty"

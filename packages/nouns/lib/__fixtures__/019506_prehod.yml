@@ -1,0 +1,22 @@
+---
+  id: "19506"
+  word: "prěhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěhod"
+      acc: "prěhod"
+      gen: "prěhoda"
+      loc: "prěhodu"
+      dat: "prěhodu"
+      ins: "prěhodom"
+      voc: "prěhode"
+    plural: 
+      nom: "prěhody"
+      acc: "prěhody"
+      gen: "prěhodov"
+      loc: "prěhodah"
+      dat: "prěhodam"
+      ins: "prěhodami"
+      voc: "prěhody"

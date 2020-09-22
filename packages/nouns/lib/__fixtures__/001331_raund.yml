@@ -1,0 +1,22 @@
+---
+  id: "1331"
+  word: "raund"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "raund"
+      acc: "raund"
+      gen: "raunda"
+      loc: "raundu"
+      dat: "raundu"
+      ins: "raundom"
+      voc: "raunde"
+    plural: 
+      nom: "raundy"
+      acc: "raundy"
+      gen: "raundov"
+      loc: "raundah"
+      dat: "raundam"
+      ins: "raundami"
+      voc: "raundy"

@@ -1,0 +1,22 @@
+---
+  id: "23994"
+  word: "shodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "shodnosť"
+      acc: "shodnosť"
+      gen: "shodnosti"
+      loc: "shodnosti"
+      dat: "shodnosti"
+      ins: "shodnosťjų"
+      voc: "shodnosti"
+    plural: 
+      nom: "shodnosti"
+      acc: "shodnosti"
+      gen: "shodnostij"
+      loc: "shodnosťah"
+      dat: "shodnosťam"
+      ins: "shodnosťami"
+      voc: "shodnosti"

@@ -1,0 +1,23 @@
+---
+  id: "15933"
+  word: "investor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "investor"
+      acc: "investora"
+      gen: "investora"
+      loc: "investoru"
+      dat: "investoru"
+      ins: "investorom"
+      voc: "investore"
+    plural: 
+      nom: "investori"
+      acc: "investorov"
+      gen: "investorov"
+      loc: "investorah"
+      dat: "investoram"
+      ins: "investorami"
+      voc: "investori"

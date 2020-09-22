@@ -1,0 +1,15 @@
+---
+  id: "16749"
+  word: "slušalky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "slušalky"
+      acc: "slušalky"
+      gen: "slušalk"
+      loc: "slušalkah"
+      dat: "slušalkam"
+      ins: "slušalkami"
+      voc: "slušalky"

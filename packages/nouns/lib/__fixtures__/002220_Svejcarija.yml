@@ -1,0 +1,15 @@
+---
+  id: "2220"
+  word: "Švejcarija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Švejcarija"
+      acc: "Švejcarijų"
+      gen: "Švejcarije"
+      loc: "Švejcariji"
+      dat: "Švejcariji"
+      ins: "Švejcarijejų"
+      voc: "Švejcarijo"

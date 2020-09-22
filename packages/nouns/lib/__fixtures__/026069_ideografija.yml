@@ -1,0 +1,22 @@
+---
+  id: "26069"
+  word: "ideografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ideografija"
+      acc: "ideografijų"
+      gen: "ideografije"
+      loc: "ideografiji"
+      dat: "ideografiji"
+      ins: "ideografijejų"
+      voc: "ideografijo"
+    plural: 
+      nom: "ideografije"
+      acc: "ideografije"
+      gen: "ideografij"
+      loc: "ideografijah"
+      dat: "ideografijam"
+      ins: "ideografijami"
+      voc: "ideografije"

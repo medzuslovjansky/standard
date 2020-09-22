@@ -1,0 +1,15 @@
+---
+  id: "4756"
+  word: "Egipt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Egipt"
+      acc: "Egipt"
+      gen: "Egipta"
+      loc: "Egiptu"
+      dat: "Egiptu"
+      ins: "Egiptom"
+      voc: "Egipte"

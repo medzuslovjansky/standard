@@ -1,0 +1,22 @@
+---
+  id: "720"
+  word: "råzgovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzgovor"
+      acc: "råzgovor"
+      gen: "råzgovora"
+      loc: "råzgovoru"
+      dat: "råzgovoru"
+      ins: "råzgovorom"
+      voc: "råzgovore"
+    plural: 
+      nom: "råzgovory"
+      acc: "råzgovory"
+      gen: "råzgovorov"
+      loc: "råzgovorah"
+      dat: "råzgovoram"
+      ins: "råzgovorami"
+      voc: "råzgovory"

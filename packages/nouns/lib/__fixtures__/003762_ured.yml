@@ -1,0 +1,22 @@
+---
+  id: "3762"
+  word: "uręd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "uręd"
+      acc: "uręd"
+      gen: "uręda"
+      loc: "urędu"
+      dat: "urędu"
+      ins: "urędom"
+      voc: "uręde"
+    plural: 
+      nom: "urędy"
+      acc: "urędy"
+      gen: "urędov"
+      loc: "urędah"
+      dat: "urędam"
+      ins: "urędami"
+      voc: "urędy"

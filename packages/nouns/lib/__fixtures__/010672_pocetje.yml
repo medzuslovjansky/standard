@@ -1,0 +1,22 @@
+---
+  id: "10672"
+  word: "počęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "počęťje"
+      acc: "počęťje"
+      gen: "počęťja"
+      loc: "počęťju"
+      dat: "počęťju"
+      ins: "počęťjem"
+      voc: "počęťje"
+    plural: 
+      nom: "počęťja"
+      acc: "počęťja"
+      gen: "počętij"
+      loc: "počęťjah"
+      dat: "počęťjam"
+      ins: "počęťjami"
+      voc: "počęťja"

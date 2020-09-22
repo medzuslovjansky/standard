@@ -1,0 +1,22 @@
+---
+  id: "1283"
+  word: "pomidor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pomidor"
+      acc: "pomidor"
+      gen: "pomidora"
+      loc: "pomidoru"
+      dat: "pomidoru"
+      ins: "pomidorom"
+      voc: "pomidore"
+    plural: 
+      nom: "pomidory"
+      acc: "pomidory"
+      gen: "pomidorov"
+      loc: "pomidorah"
+      dat: "pomidoram"
+      ins: "pomidorami"
+      voc: "pomidory"

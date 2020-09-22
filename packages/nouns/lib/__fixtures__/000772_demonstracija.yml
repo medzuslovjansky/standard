@@ -1,0 +1,22 @@
+---
+  id: "772"
+  word: "demonstracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "demonstracija"
+      acc: "demonstracijų"
+      gen: "demonstracije"
+      loc: "demonstraciji"
+      dat: "demonstraciji"
+      ins: "demonstracijejų"
+      voc: "demonstracijo"
+    plural: 
+      nom: "demonstracije"
+      acc: "demonstracije"
+      gen: "demonstracij"
+      loc: "demonstracijah"
+      dat: "demonstracijam"
+      ins: "demonstracijami"
+      voc: "demonstracije"

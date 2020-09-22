@@ -1,0 +1,22 @@
+---
+  id: "22895"
+  word: "pravzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pravzor"
+      acc: "pravzor"
+      gen: "pravzora"
+      loc: "pravzoru"
+      dat: "pravzoru"
+      ins: "pravzorom"
+      voc: "pravzore"
+    plural: 
+      nom: "pravzory"
+      acc: "pravzory"
+      gen: "pravzorov"
+      loc: "pravzorah"
+      dat: "pravzoram"
+      ins: "pravzorami"
+      voc: "pravzory"

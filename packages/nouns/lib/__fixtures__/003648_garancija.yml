@@ -1,0 +1,22 @@
+---
+  id: "3648"
+  word: "garancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "garancija"
+      acc: "garancijų"
+      gen: "garancije"
+      loc: "garanciji"
+      dat: "garanciji"
+      ins: "garancijejų"
+      voc: "garancijo"
+    plural: 
+      nom: "garancije"
+      acc: "garancije"
+      gen: "garancij"
+      loc: "garancijah"
+      dat: "garancijam"
+      ins: "garancijami"
+      voc: "garancije"

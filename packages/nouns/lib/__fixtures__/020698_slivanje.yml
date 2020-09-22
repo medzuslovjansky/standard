@@ -1,0 +1,22 @@
+---
+  id: "20698"
+  word: "slivańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "slivańje"
+      acc: "slivańje"
+      gen: "slivańja"
+      loc: "slivańju"
+      dat: "slivańju"
+      ins: "slivańjem"
+      voc: "slivańje"
+    plural: 
+      nom: "slivańja"
+      acc: "slivańja"
+      gen: "slivanij"
+      loc: "slivańjah"
+      dat: "slivańjam"
+      ins: "slivańjami"
+      voc: "slivańja"

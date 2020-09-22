@@ -1,0 +1,22 @@
+---
+  id: "7456"
+  word: "esperanto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "esperanto"
+      acc: "esperanto"
+      gen: "esperanta"
+      loc: "esperantu"
+      dat: "esperantu"
+      ins: "esperantom"
+      voc: "esperanto"
+    plural: 
+      nom: "esperanta"
+      acc: "esperanta"
+      gen: "esperant"
+      loc: "esperantah"
+      dat: "esperantam"
+      ins: "esperantami"
+      voc: "esperanta"

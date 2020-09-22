@@ -1,0 +1,22 @@
+---
+  id: "32751"
+  word: "izslědȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izslědȯk"
+      acc: "izslědȯk"
+      gen: "izslědka"
+      loc: "izslědku"
+      dat: "izslědku"
+      ins: "izslědkom"
+      voc: "izslědče"
+    plural: 
+      nom: "izslědky"
+      acc: "izslědky"
+      gen: "izslědkov"
+      loc: "izslědkah"
+      dat: "izslědkam"
+      ins: "izslědkami"
+      voc: "izslědky"

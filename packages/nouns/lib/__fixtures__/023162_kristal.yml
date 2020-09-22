@@ -1,0 +1,22 @@
+---
+  id: "23162"
+  word: "kristal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kristal"
+      acc: "kristal"
+      gen: "kristala"
+      loc: "kristalu"
+      dat: "kristalu"
+      ins: "kristalom"
+      voc: "kristale"
+    plural: 
+      nom: "kristaly"
+      acc: "kristaly"
+      gen: "kristalov"
+      loc: "kristalah"
+      dat: "kristalam"
+      ins: "kristalami"
+      voc: "kristaly"

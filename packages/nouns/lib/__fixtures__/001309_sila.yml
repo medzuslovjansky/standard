@@ -1,0 +1,22 @@
+---
+  id: "1309"
+  word: "sila"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sila"
+      acc: "silų"
+      gen: "sily"
+      loc: "silě"
+      dat: "silě"
+      ins: "silojų"
+      voc: "silo"
+    plural: 
+      nom: "sily"
+      acc: "sily"
+      gen: "sil"
+      loc: "silah"
+      dat: "silam"
+      ins: "silami"
+      voc: "sily"

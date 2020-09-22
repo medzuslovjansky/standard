@@ -1,0 +1,15 @@
+---
+  id: "20553"
+  word: "nosilka"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nosilka"
+      acc: "nosilka"
+      gen: "nosilk"
+      loc: "nosilkah"
+      dat: "nosilkam"
+      ins: "nosilkami"
+      voc: "nosilka"

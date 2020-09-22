@@ -1,0 +1,22 @@
+---
+  id: "6452"
+  word: "avtozavod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtozavod"
+      acc: "avtozavod"
+      gen: "avtozavoda"
+      loc: "avtozavodu"
+      dat: "avtozavodu"
+      ins: "avtozavodom"
+      voc: "avtozavode"
+    plural: 
+      nom: "avtozavody"
+      acc: "avtozavody"
+      gen: "avtozavodov"
+      loc: "avtozavodah"
+      dat: "avtozavodam"
+      ins: "avtozavodami"
+      voc: "avtozavody"

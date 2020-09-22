@@ -1,0 +1,22 @@
+---
+  id: "16962"
+  word: "latinica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "latinica"
+      acc: "latinicų"
+      gen: "latinice"
+      loc: "latinici"
+      dat: "latinici"
+      ins: "latinicejų"
+      voc: "latinico"
+    plural: 
+      nom: "latinice"
+      acc: "latinice"
+      gen: "latinic"
+      loc: "latinicah"
+      dat: "latinicam"
+      ins: "latinicami"
+      voc: "latinice"

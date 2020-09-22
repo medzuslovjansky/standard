@@ -1,0 +1,23 @@
+---
+  id: "15446"
+  word: "podlec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podlec"
+      acc: "podleca"
+      gen: "podleca"
+      loc: "podlecu"
+      dat: "podlecu"
+      ins: "podlecem"
+      voc: "podleče"
+    plural: 
+      nom: "podleci"
+      acc: "podlecev"
+      gen: "podlecev"
+      loc: "podlecah"
+      dat: "podlecam"
+      ins: "podlecami"
+      voc: "podleci"

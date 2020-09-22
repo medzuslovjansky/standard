@@ -1,0 +1,23 @@
+---
+  id: "5077"
+  word: "upravitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "upravitelj"
+      acc: "upravitelja"
+      gen: "upravitelja"
+      loc: "upravitelju"
+      dat: "upravitelju"
+      ins: "upraviteljem"
+      voc: "upravitelju"
+    plural: 
+      nom: "upravitelji"
+      acc: "upraviteljev"
+      gen: "upraviteljev"
+      loc: "upraviteljah"
+      dat: "upraviteljam"
+      ins: "upraviteljami"
+      voc: "upravitelji"

@@ -1,0 +1,23 @@
+---
+  id: "35752"
+  word: "režiser"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "režiser"
+      acc: "režisera"
+      gen: "režisera"
+      loc: "režiseru"
+      dat: "režiseru"
+      ins: "režiserom"
+      voc: "režisere"
+    plural: 
+      nom: "režiseri"
+      acc: "režiserov"
+      gen: "režiserov"
+      loc: "režiserah"
+      dat: "režiseram"
+      ins: "režiserami"
+      voc: "režiseri"

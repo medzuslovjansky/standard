@@ -1,0 +1,15 @@
+---
+  id: "3742"
+  word: "hod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hod"
+      acc: "hod"
+      gen: "hoda"
+      loc: "hodu"
+      dat: "hodu"
+      ins: "hodom"
+      voc: "hode"

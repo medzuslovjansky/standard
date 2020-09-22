@@ -1,0 +1,22 @@
+---
+  id: "3608"
+  word: "objasnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "objasnjeńje"
+      acc: "objasnjeńje"
+      gen: "objasnjeńja"
+      loc: "objasnjeńju"
+      dat: "objasnjeńju"
+      ins: "objasnjeńjem"
+      voc: "objasnjeńje"
+    plural: 
+      nom: "objasnjeńja"
+      acc: "objasnjeńja"
+      gen: "objasnjenij"
+      loc: "objasnjeńjah"
+      dat: "objasnjeńjam"
+      ins: "objasnjeńjami"
+      voc: "objasnjeńja"

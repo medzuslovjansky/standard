@@ -1,0 +1,22 @@
+---
+  id: "4499"
+  word: "ostŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ostŕje"
+      acc: "ostŕje"
+      gen: "ostŕja"
+      loc: "ostŕju"
+      dat: "ostŕju"
+      ins: "ostŕjem"
+      voc: "ostŕje"
+    plural: 
+      nom: "ostŕja"
+      acc: "ostŕja"
+      gen: "ostrij"
+      loc: "ostŕjah"
+      dat: "ostŕjam"
+      ins: "ostŕjami"
+      voc: "ostŕja"

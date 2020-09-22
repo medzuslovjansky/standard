@@ -1,0 +1,23 @@
+---
+  id: "3351"
+  word: "divo"
+  meta: 
+    irregularity: "(diva/divese)"
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "divo"
+      acc: "divo"
+      gen: "diva / divese"
+      loc: "divu / divesi"
+      dat: "divu / divesi"
+      ins: "divom / divesem"
+      voc: "divo"
+    plural: 
+      nom: "diva / divesa"
+      acc: "diva / divesa"
+      gen: "div / dives"
+      loc: "divah / divesah"
+      dat: "divam / divesam"
+      ins: "divami / divesami"
+      voc: "diva / divesa"

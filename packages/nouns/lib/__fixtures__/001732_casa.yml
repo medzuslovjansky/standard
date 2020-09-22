@@ -1,0 +1,22 @@
+---
+  id: "1732"
+  word: "čaša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čaša"
+      acc: "čašų"
+      gen: "čaše"
+      loc: "čaši"
+      dat: "čaši"
+      ins: "čašejų"
+      voc: "čašo"
+    plural: 
+      nom: "čaše"
+      acc: "čaše"
+      gen: "čaš"
+      loc: "čašah"
+      dat: "čašam"
+      ins: "čašami"
+      voc: "čaše"

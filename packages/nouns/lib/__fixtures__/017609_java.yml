@@ -1,0 +1,22 @@
+---
+  id: "17609"
+  word: "java"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "java"
+      acc: "javų"
+      gen: "javy"
+      loc: "javě"
+      dat: "javě"
+      ins: "javojų"
+      voc: "javo"
+    plural: 
+      nom: "javy"
+      acc: "javy"
+      gen: "jav"
+      loc: "javah"
+      dat: "javam"
+      ins: "javami"
+      voc: "javy"

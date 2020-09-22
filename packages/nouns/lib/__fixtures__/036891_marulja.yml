@@ -1,0 +1,22 @@
+---
+  id: "36891"
+  word: "marulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marulja"
+      acc: "maruljų"
+      gen: "marulje"
+      loc: "marulji"
+      dat: "marulji"
+      ins: "maruljejų"
+      voc: "maruljo"
+    plural: 
+      nom: "marulje"
+      acc: "marulje"
+      gen: "marulej"
+      loc: "maruljah"
+      dat: "maruljam"
+      ins: "maruljami"
+      voc: "marulje"

@@ -1,0 +1,22 @@
+---
+  id: "30833"
+  word: "svŕdlo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "svŕdlo"
+      acc: "svŕdlo"
+      gen: "svŕdla"
+      loc: "svŕdlu"
+      dat: "svŕdlu"
+      ins: "svŕdlom"
+      voc: "svŕdlo"
+    plural: 
+      nom: "svŕdla"
+      acc: "svŕdla"
+      gen: "svŕdl"
+      loc: "svŕdlah"
+      dat: "svŕdlam"
+      ins: "svŕdlami"
+      voc: "svŕdla"

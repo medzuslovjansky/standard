@@ -1,0 +1,22 @@
+---
+  id: "18026"
+  word: "obožańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obožańje"
+      acc: "obožańje"
+      gen: "obožańja"
+      loc: "obožańju"
+      dat: "obožańju"
+      ins: "obožańjem"
+      voc: "obožańje"
+    plural: 
+      nom: "obožańja"
+      acc: "obožańja"
+      gen: "obožanij"
+      loc: "obožańjah"
+      dat: "obožańjam"
+      ins: "obožańjami"
+      voc: "obožańja"

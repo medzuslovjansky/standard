@@ -1,0 +1,23 @@
+---
+  id: "32172"
+  word: "lihvaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lihvaŕ"
+      acc: "lihvaŕa"
+      gen: "lihvaŕa"
+      loc: "lihvaŕu"
+      dat: "lihvaŕu"
+      ins: "lihvaŕem"
+      voc: "lihvaŕu"
+    plural: 
+      nom: "lihvari"
+      acc: "lihvaŕev"
+      gen: "lihvaŕev"
+      loc: "lihvaŕah"
+      dat: "lihvaŕam"
+      ins: "lihvaŕami"
+      voc: "lihvari"

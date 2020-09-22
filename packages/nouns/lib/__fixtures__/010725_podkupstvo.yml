@@ -1,0 +1,15 @@
+---
+  id: "10725"
+  word: "podkupstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "podkupstvo"
+      acc: "podkupstvo"
+      gen: "podkupstva"
+      loc: "podkupstvu"
+      dat: "podkupstvu"
+      ins: "podkupstvom"
+      voc: "podkupstvo"

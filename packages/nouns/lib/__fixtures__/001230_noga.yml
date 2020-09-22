@@ -1,0 +1,22 @@
+---
+  id: "1230"
+  word: "noga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "noga"
+      acc: "nogų"
+      gen: "nogy"
+      loc: "nogě"
+      dat: "nogě"
+      ins: "nogojų"
+      voc: "nogo"
+    plural: 
+      nom: "nogy"
+      acc: "nogy"
+      gen: "nog"
+      loc: "nogah"
+      dat: "nogam"
+      ins: "nogami"
+      voc: "nogy"

@@ -1,0 +1,15 @@
+---
+  id: "16278"
+  word: "Kuba"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kuba"
+      acc: "Kubų"
+      gen: "Kuby"
+      loc: "Kubě"
+      dat: "Kubě"
+      ins: "Kubojų"
+      voc: "Kubo"

@@ -1,0 +1,22 @@
+---
+  id: "3260"
+  word: "poluostrov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poluostrov"
+      acc: "poluostrov"
+      gen: "poluostrova"
+      loc: "poluostrovu"
+      dat: "poluostrovu"
+      ins: "poluostrovom"
+      voc: "poluostrove"
+    plural: 
+      nom: "poluostrovy"
+      acc: "poluostrovy"
+      gen: "poluostrovov"
+      loc: "poluostrovah"
+      dat: "poluostrovam"
+      ins: "poluostrovami"
+      voc: "poluostrovy"

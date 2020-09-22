@@ -1,0 +1,15 @@
+---
+  id: "4733"
+  word: "Slęzk"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Slęzk"
+      acc: "Slęzk"
+      gen: "Slęzka"
+      loc: "Slęzku"
+      dat: "Slęzku"
+      ins: "Slęzkom"
+      voc: "Slęzče"

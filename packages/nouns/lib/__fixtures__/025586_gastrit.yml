@@ -1,0 +1,15 @@
+---
+  id: "25586"
+  word: "gastrit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "gastrit"
+      acc: "gastrit"
+      gen: "gastrita"
+      loc: "gastritu"
+      dat: "gastritu"
+      ins: "gastritom"
+      voc: "gastrite"

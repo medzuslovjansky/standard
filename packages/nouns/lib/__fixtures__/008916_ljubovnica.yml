@@ -1,0 +1,22 @@
+---
+  id: "8916"
+  word: "ljubȯvnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljubȯvnica"
+      acc: "ljubȯvnicų"
+      gen: "ljubȯvnice"
+      loc: "ljubȯvnici"
+      dat: "ljubȯvnici"
+      ins: "ljubȯvnicejų"
+      voc: "ljubȯvnico"
+    plural: 
+      nom: "ljubȯvnice"
+      acc: "ljubȯvnice"
+      gen: "ljubȯvnic"
+      loc: "ljubȯvnicah"
+      dat: "ljubȯvnicam"
+      ins: "ljubȯvnicami"
+      voc: "ljubȯvnice"

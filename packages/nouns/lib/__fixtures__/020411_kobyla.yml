@@ -1,0 +1,22 @@
+---
+  id: "20411"
+  word: "kobyla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kobyla"
+      acc: "kobylų"
+      gen: "kobyly"
+      loc: "kobylě"
+      dat: "kobylě"
+      ins: "kobylojų"
+      voc: "kobylo"
+    plural: 
+      nom: "kobyly"
+      acc: "kobyly"
+      gen: "kobyl"
+      loc: "kobylah"
+      dat: "kobylam"
+      ins: "kobylami"
+      voc: "kobyly"

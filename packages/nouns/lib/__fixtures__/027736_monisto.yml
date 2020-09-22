@@ -1,0 +1,22 @@
+---
+  id: "27736"
+  word: "monisto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "monisto"
+      acc: "monisto"
+      gen: "monista"
+      loc: "monistu"
+      dat: "monistu"
+      ins: "monistom"
+      voc: "monisto"
+    plural: 
+      nom: "monista"
+      acc: "monista"
+      gen: "monist"
+      loc: "monistah"
+      dat: "monistam"
+      ins: "monistami"
+      voc: "monista"

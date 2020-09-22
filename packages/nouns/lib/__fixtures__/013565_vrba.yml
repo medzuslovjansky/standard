@@ -1,0 +1,22 @@
+---
+  id: "13565"
+  word: "vŕba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vŕba"
+      acc: "vŕbų"
+      gen: "vŕby"
+      loc: "vŕbě"
+      dat: "vŕbě"
+      ins: "vŕbojų"
+      voc: "vŕbo"
+    plural: 
+      nom: "vŕby"
+      acc: "vŕby"
+      gen: "vŕb"
+      loc: "vŕbah"
+      dat: "vŕbam"
+      ins: "vŕbami"
+      voc: "vŕby"

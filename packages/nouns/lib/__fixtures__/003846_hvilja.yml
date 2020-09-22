@@ -1,0 +1,22 @@
+---
+  id: "3846"
+  word: "hvilja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hvilja"
+      acc: "hviljų"
+      gen: "hvilje"
+      loc: "hvilji"
+      dat: "hvilji"
+      ins: "hviljejų"
+      voc: "hviljo"
+    plural: 
+      nom: "hvilje"
+      acc: "hvilje"
+      gen: "hvilej"
+      loc: "hviljah"
+      dat: "hviljam"
+      ins: "hviljami"
+      voc: "hvilje"

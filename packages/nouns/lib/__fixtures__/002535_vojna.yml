@@ -1,0 +1,22 @@
+---
+  id: "2535"
+  word: "vojna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vojna"
+      acc: "vojnų"
+      gen: "vojny"
+      loc: "vojně"
+      dat: "vojně"
+      ins: "vojnojų"
+      voc: "vojno"
+    plural: 
+      nom: "vojny"
+      acc: "vojny"
+      gen: "vojn"
+      loc: "vojnah"
+      dat: "vojnam"
+      ins: "vojnami"
+      voc: "vojny"

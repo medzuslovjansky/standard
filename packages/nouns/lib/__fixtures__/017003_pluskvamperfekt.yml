@@ -1,0 +1,22 @@
+---
+  id: "17003"
+  word: "pluskvamperfekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pluskvamperfekt"
+      acc: "pluskvamperfekt"
+      gen: "pluskvamperfekta"
+      loc: "pluskvamperfektu"
+      dat: "pluskvamperfektu"
+      ins: "pluskvamperfektom"
+      voc: "pluskvamperfekte"
+    plural: 
+      nom: "pluskvamperfekty"
+      acc: "pluskvamperfekty"
+      gen: "pluskvamperfektov"
+      loc: "pluskvamperfektah"
+      dat: "pluskvamperfektam"
+      ins: "pluskvamperfektami"
+      voc: "pluskvamperfekty"

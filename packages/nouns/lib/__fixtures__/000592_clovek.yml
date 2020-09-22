@@ -1,0 +1,23 @@
+---
+  id: "592"
+  word: "člověk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "člověk"
+      acc: "člověka"
+      gen: "člověka"
+      loc: "člověku"
+      dat: "člověku"
+      ins: "člověkom"
+      voc: "člověče"
+    plural: 
+      nom: "ljudi"
+      acc: "ljudi"
+      gen: "ljudij"
+      loc: "ljuďah"
+      dat: "ljuďam"
+      ins: "ljuďami"
+      voc: "ljudi"

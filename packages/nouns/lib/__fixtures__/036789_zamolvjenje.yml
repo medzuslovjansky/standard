@@ -1,0 +1,22 @@
+---
+  id: "36789"
+  word: "zamȯlvjeńje"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zamȯlvjeńje"
+      acc: "zamȯlvjeńje"
+      gen: "zamȯlvjeńja"
+      loc: "zamȯlvjeńju"
+      dat: "zamȯlvjeńju"
+      ins: "zamȯlvjeńjem"
+      voc: "zamȯlvjeńje"
+    plural: 
+      nom: "zamȯlvjeńja"
+      acc: "zamȯlvjeńja"
+      gen: "zamȯlvjenij"
+      loc: "zamȯlvjeńjah"
+      dat: "zamȯlvjeńjam"
+      ins: "zamȯlvjeńjami"
+      voc: "zamȯlvjeńja"

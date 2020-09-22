@@ -1,0 +1,22 @@
+---
+  id: "34928"
+  word: "ekvator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ekvator"
+      acc: "ekvator"
+      gen: "ekvatora"
+      loc: "ekvatoru"
+      dat: "ekvatoru"
+      ins: "ekvatorom"
+      voc: "ekvatore"
+    plural: 
+      nom: "ekvatory"
+      acc: "ekvatory"
+      gen: "ekvatorov"
+      loc: "ekvatorah"
+      dat: "ekvatoram"
+      ins: "ekvatorami"
+      voc: "ekvatory"

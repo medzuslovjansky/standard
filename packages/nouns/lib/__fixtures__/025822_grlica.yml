@@ -1,0 +1,22 @@
+---
+  id: "25822"
+  word: "grlica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grlica"
+      acc: "grlicų"
+      gen: "grlice"
+      loc: "grlici"
+      dat: "grlici"
+      ins: "grlicejų"
+      voc: "grlico"
+    plural: 
+      nom: "grlice"
+      acc: "grlice"
+      gen: "grlic"
+      loc: "grlicah"
+      dat: "grlicam"
+      ins: "grlicami"
+      voc: "grlice"

@@ -1,0 +1,22 @@
+---
+  id: "195"
+  word: "noć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "noć"
+      acc: "noć"
+      gen: "noći"
+      loc: "noći"
+      dat: "noći"
+      ins: "noćjų"
+      voc: "noći"
+    plural: 
+      nom: "noći"
+      acc: "noći"
+      gen: "noćij"
+      loc: "noćah"
+      dat: "noćam"
+      ins: "noćami"
+      voc: "noći"

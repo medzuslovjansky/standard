@@ -1,0 +1,22 @@
+---
+  id: "8519"
+  word: "koledž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "koledž"
+      acc: "koledž"
+      gen: "koledža"
+      loc: "koledžu"
+      dat: "koledžu"
+      ins: "koledžem"
+      voc: "koledžu"
+    plural: 
+      nom: "koledže"
+      acc: "koledže"
+      gen: "koledžev"
+      loc: "koledžah"
+      dat: "koledžam"
+      ins: "koledžami"
+      voc: "koledže"

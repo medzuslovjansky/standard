@@ -1,0 +1,23 @@
+---
+  id: "124"
+  word: "zločinec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zločinec"
+      acc: "zločinca"
+      gen: "zločinca"
+      loc: "zločincu"
+      dat: "zločincu"
+      ins: "zločincem"
+      voc: "zločinče"
+    plural: 
+      nom: "zločinci"
+      acc: "zločincev"
+      gen: "zločincev"
+      loc: "zločincah"
+      dat: "zločincam"
+      ins: "zločincami"
+      voc: "zločinci"

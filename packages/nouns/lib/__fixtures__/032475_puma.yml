@@ -1,0 +1,22 @@
+---
+  id: "32475"
+  word: "puma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "puma"
+      acc: "pumų"
+      gen: "pumy"
+      loc: "pumě"
+      dat: "pumě"
+      ins: "pumojų"
+      voc: "pumo"
+    plural: 
+      nom: "pumy"
+      acc: "pumy"
+      gen: "pum"
+      loc: "pumah"
+      dat: "pumam"
+      ins: "pumami"
+      voc: "pumy"

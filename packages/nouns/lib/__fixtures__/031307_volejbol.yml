@@ -1,0 +1,15 @@
+---
+  id: "31307"
+  word: "volejbol"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "volejbol"
+      acc: "volejbol"
+      gen: "volejbola"
+      loc: "volejbolu"
+      dat: "volejbolu"
+      ins: "volejbolom"
+      voc: "volejbole"

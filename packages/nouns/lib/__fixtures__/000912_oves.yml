@@ -1,0 +1,16 @@
+---
+  id: "912"
+  word: "oves"
+  meta: 
+    irregularity: "(ovsa)"
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ovės"
+      acc: "ovės"
+      gen: "ovsa"
+      loc: "ovsu"
+      dat: "ovsu"
+      ins: "ovsom"
+      voc: "ovse"

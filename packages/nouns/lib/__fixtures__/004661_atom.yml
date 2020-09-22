@@ -1,0 +1,22 @@
+---
+  id: "4661"
+  word: "atom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "atom"
+      acc: "atom"
+      gen: "atoma"
+      loc: "atomu"
+      dat: "atomu"
+      ins: "atomom"
+      voc: "atome"
+    plural: 
+      nom: "atomy"
+      acc: "atomy"
+      gen: "atomov"
+      loc: "atomah"
+      dat: "atomam"
+      ins: "atomami"
+      voc: "atomy"

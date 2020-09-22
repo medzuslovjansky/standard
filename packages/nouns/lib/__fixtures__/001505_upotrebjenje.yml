@@ -1,0 +1,22 @@
+---
+  id: "1505"
+  word: "upotrěbjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "upotrěbjeńje"
+      acc: "upotrěbjeńje"
+      gen: "upotrěbjeńja"
+      loc: "upotrěbjeńju"
+      dat: "upotrěbjeńju"
+      ins: "upotrěbjeńjem"
+      voc: "upotrěbjeńje"
+    plural: 
+      nom: "upotrěbjeńja"
+      acc: "upotrěbjeńja"
+      gen: "upotrěbjenij"
+      loc: "upotrěbjeńjah"
+      dat: "upotrěbjeńjam"
+      ins: "upotrěbjeńjami"
+      voc: "upotrěbjeńja"

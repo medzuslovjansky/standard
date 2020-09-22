@@ -1,0 +1,22 @@
+---
+  id: "33271"
+  word: "šepot"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šepot"
+      acc: "šepot"
+      gen: "šepota"
+      loc: "šepotu"
+      dat: "šepotu"
+      ins: "šepotom"
+      voc: "šepote"
+    plural: 
+      nom: "šepoty"
+      acc: "šepoty"
+      gen: "šepotov"
+      loc: "šepotah"
+      dat: "šepotam"
+      ins: "šepotami"
+      voc: "šepoty"

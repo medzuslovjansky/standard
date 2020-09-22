@@ -1,0 +1,22 @@
+---
+  id: "32996"
+  word: "bunker"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bunker"
+      acc: "bunker"
+      gen: "bunkera"
+      loc: "bunkeru"
+      dat: "bunkeru"
+      ins: "bunkerom"
+      voc: "bunkere"
+    plural: 
+      nom: "bunkery"
+      acc: "bunkery"
+      gen: "bunkerov"
+      loc: "bunkerah"
+      dat: "bunkeram"
+      ins: "bunkerami"
+      voc: "bunkery"

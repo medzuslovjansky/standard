@@ -1,0 +1,15 @@
+---
+  id: "1941"
+  word: "ljudi"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "ljudi"
+      acc: "ljudi"
+      gen: "ljudij"
+      loc: "ljudjah"
+      dat: "ljudjam"
+      ins: "ljudjami"
+      voc: "ljudi"

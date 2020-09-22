@@ -1,0 +1,22 @@
+---
+  id: "3145"
+  word: "porędȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "porędȯk"
+      acc: "porędȯk"
+      gen: "porędka"
+      loc: "porędku"
+      dat: "porędku"
+      ins: "porędkom"
+      voc: "porędče"
+    plural: 
+      nom: "porędky"
+      acc: "porędky"
+      gen: "porędkov"
+      loc: "porędkah"
+      dat: "porędkam"
+      ins: "porędkami"
+      voc: "porędky"

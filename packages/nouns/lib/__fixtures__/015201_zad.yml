@@ -1,0 +1,22 @@
+---
+  id: "15201"
+  word: "zad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zad"
+      acc: "zad"
+      gen: "zada"
+      loc: "zadu"
+      dat: "zadu"
+      ins: "zadom"
+      voc: "zade"
+    plural: 
+      nom: "zady"
+      acc: "zady"
+      gen: "zadov"
+      loc: "zadah"
+      dat: "zadam"
+      ins: "zadami"
+      voc: "zady"

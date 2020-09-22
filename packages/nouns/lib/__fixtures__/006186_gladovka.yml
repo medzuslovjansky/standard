@@ -1,0 +1,22 @@
+---
+  id: "6186"
+  word: "glådovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glådovka"
+      acc: "glådovkų"
+      gen: "glådovky"
+      loc: "glådovkě"
+      dat: "glådovkě"
+      ins: "glådovkojų"
+      voc: "glådovko"
+    plural: 
+      nom: "glådovky"
+      acc: "glådovky"
+      gen: "glådovȯk"
+      loc: "glådovkah"
+      dat: "glådovkam"
+      ins: "glådovkami"
+      voc: "glådovky"

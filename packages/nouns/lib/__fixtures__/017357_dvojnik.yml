@@ -1,0 +1,23 @@
+---
+  id: "17357"
+  word: "dvojnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dvojnik"
+      acc: "dvojnika"
+      gen: "dvojnika"
+      loc: "dvojniku"
+      dat: "dvojniku"
+      ins: "dvojnikom"
+      voc: "dvojniče"
+    plural: 
+      nom: "dvojniki"
+      acc: "dvojnikov"
+      gen: "dvojnikov"
+      loc: "dvojnikah"
+      dat: "dvojnikam"
+      ins: "dvojnikami"
+      voc: "dvojniki"

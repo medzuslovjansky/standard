@@ -1,0 +1,22 @@
+---
+  id: "19716"
+  word: "hipnoza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hipnoza"
+      acc: "hipnozų"
+      gen: "hipnozy"
+      loc: "hipnozě"
+      dat: "hipnozě"
+      ins: "hipnozojų"
+      voc: "hipnozo"
+    plural: 
+      nom: "hipnozy"
+      acc: "hipnozy"
+      gen: "hipnoz"
+      loc: "hipnozah"
+      dat: "hipnozam"
+      ins: "hipnozami"
+      voc: "hipnozy"

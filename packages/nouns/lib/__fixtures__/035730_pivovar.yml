@@ -1,0 +1,23 @@
+---
+  id: "35730"
+  word: "pivovar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pivovar"
+      acc: "pivovara"
+      gen: "pivovara"
+      loc: "pivovaru"
+      dat: "pivovaru"
+      ins: "pivovarom"
+      voc: "pivovare"
+    plural: 
+      nom: "pivovari"
+      acc: "pivovarov"
+      gen: "pivovarov"
+      loc: "pivovarah"
+      dat: "pivovaram"
+      ins: "pivovarami"
+      voc: "pivovari"

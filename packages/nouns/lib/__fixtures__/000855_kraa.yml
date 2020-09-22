@@ -1,0 +1,22 @@
+---
+  id: "855"
+  word: "krađa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krađa"
+      acc: "krađų"
+      gen: "krađy"
+      loc: "krađě"
+      dat: "krađě"
+      ins: "krađojų"
+      voc: "krađo"
+    plural: 
+      nom: "krađy"
+      acc: "krađy"
+      gen: "krađ"
+      loc: "krađah"
+      dat: "krađam"
+      ins: "krađami"
+      voc: "krađy"

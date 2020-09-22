@@ -1,0 +1,22 @@
+---
+  id: "367"
+  word: "lopata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lopata"
+      acc: "lopatų"
+      gen: "lopaty"
+      loc: "lopatě"
+      dat: "lopatě"
+      ins: "lopatojų"
+      voc: "lopato"
+    plural: 
+      nom: "lopaty"
+      acc: "lopaty"
+      gen: "lopat"
+      loc: "lopatah"
+      dat: "lopatam"
+      ins: "lopatami"
+      voc: "lopaty"

@@ -1,0 +1,22 @@
+---
+  id: "16964"
+  word: "ligatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ligatura"
+      acc: "ligaturų"
+      gen: "ligatury"
+      loc: "ligaturě"
+      dat: "ligaturě"
+      ins: "ligaturojų"
+      voc: "ligaturo"
+    plural: 
+      nom: "ligatury"
+      acc: "ligatury"
+      gen: "ligatur"
+      loc: "ligaturah"
+      dat: "ligaturam"
+      ins: "ligaturami"
+      voc: "ligatury"

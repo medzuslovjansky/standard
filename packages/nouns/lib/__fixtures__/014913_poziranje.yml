@@ -1,0 +1,22 @@
+---
+  id: "14913"
+  word: "požirańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "požirańje"
+      acc: "požirańje"
+      gen: "požirańja"
+      loc: "požirańju"
+      dat: "požirańju"
+      ins: "požirańjem"
+      voc: "požirańje"
+    plural: 
+      nom: "požirańja"
+      acc: "požirańja"
+      gen: "požiranij"
+      loc: "požirańjah"
+      dat: "požirańjam"
+      ins: "požirańjami"
+      voc: "požirańja"

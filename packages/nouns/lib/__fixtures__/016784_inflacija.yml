@@ -1,0 +1,22 @@
+---
+  id: "16784"
+  word: "inflacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inflacija"
+      acc: "inflacijų"
+      gen: "inflacije"
+      loc: "inflaciji"
+      dat: "inflaciji"
+      ins: "inflacijejų"
+      voc: "inflacijo"
+    plural: 
+      nom: "inflacije"
+      acc: "inflacije"
+      gen: "inflacij"
+      loc: "inflacijah"
+      dat: "inflacijam"
+      ins: "inflacijami"
+      voc: "inflacije"

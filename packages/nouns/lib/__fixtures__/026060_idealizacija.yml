@@ -1,0 +1,22 @@
+---
+  id: "26060"
+  word: "idealizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "idealizacija"
+      acc: "idealizacijų"
+      gen: "idealizacije"
+      loc: "idealizaciji"
+      dat: "idealizaciji"
+      ins: "idealizacijejų"
+      voc: "idealizacijo"
+    plural: 
+      nom: "idealizacije"
+      acc: "idealizacije"
+      gen: "idealizacij"
+      loc: "idealizacijah"
+      dat: "idealizacijam"
+      ins: "idealizacijami"
+      voc: "idealizacije"

@@ -1,0 +1,15 @@
+---
+  id: "4877"
+  word: "uši"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "uši"
+      acc: "uši"
+      gen: "ušij"
+      loc: "ušjah"
+      dat: "ušjam"
+      ins: "ušjami"
+      voc: "uši"

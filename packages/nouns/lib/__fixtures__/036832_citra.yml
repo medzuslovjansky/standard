@@ -1,0 +1,22 @@
+---
+  id: "36832"
+  word: "citra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "citra"
+      acc: "citrų"
+      gen: "citry"
+      loc: "citrě"
+      dat: "citrě"
+      ins: "citrojų"
+      voc: "citro"
+    plural: 
+      nom: "citry"
+      acc: "citry"
+      gen: "citr"
+      loc: "citrah"
+      dat: "citram"
+      ins: "citrami"
+      voc: "citry"

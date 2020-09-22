@@ -1,0 +1,22 @@
+---
+  id: "24559"
+  word: "batalion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "batalion"
+      acc: "batalion"
+      gen: "bataliona"
+      loc: "batalionu"
+      dat: "batalionu"
+      ins: "batalionom"
+      voc: "batalione"
+    plural: 
+      nom: "bataliony"
+      acc: "bataliony"
+      gen: "batalionov"
+      loc: "batalionah"
+      dat: "batalionam"
+      ins: "batalionami"
+      voc: "bataliony"

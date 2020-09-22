@@ -1,0 +1,22 @@
+---
+  id: "23743"
+  word: "odhod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odhod"
+      acc: "odhod"
+      gen: "odhoda"
+      loc: "odhodu"
+      dat: "odhodu"
+      ins: "odhodom"
+      voc: "odhode"
+    plural: 
+      nom: "odhody"
+      acc: "odhody"
+      gen: "odhodov"
+      loc: "odhodah"
+      dat: "odhodam"
+      ins: "odhodami"
+      voc: "odhody"

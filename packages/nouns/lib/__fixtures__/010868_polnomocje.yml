@@ -1,0 +1,22 @@
+---
+  id: "10868"
+  word: "pȯlnomoćje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pȯlnomoćje"
+      acc: "pȯlnomoćje"
+      gen: "pȯlnomoćja"
+      loc: "pȯlnomoćju"
+      dat: "pȯlnomoćju"
+      ins: "pȯlnomoćjem"
+      voc: "pȯlnomoćje"
+    plural: 
+      nom: "pȯlnomoćja"
+      acc: "pȯlnomoćja"
+      gen: "pȯlnomoćj"
+      loc: "pȯlnomoćjah"
+      dat: "pȯlnomoćjam"
+      ins: "pȯlnomoćjami"
+      voc: "pȯlnomoćja"

@@ -1,0 +1,15 @@
+---
+  id: "31656"
+  word: "zodiak"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zodiak"
+      acc: "zodiak"
+      gen: "zodiaka"
+      loc: "zodiaku"
+      dat: "zodiaku"
+      ins: "zodiakom"
+      voc: "zodiače"

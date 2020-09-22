@@ -1,0 +1,22 @@
+---
+  id: "3432"
+  word: "zabava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zabava"
+      acc: "zabavų"
+      gen: "zabavy"
+      loc: "zabavě"
+      dat: "zabavě"
+      ins: "zabavojų"
+      voc: "zabavo"
+    plural: 
+      nom: "zabavy"
+      acc: "zabavy"
+      gen: "zabav"
+      loc: "zabavah"
+      dat: "zabavam"
+      ins: "zabavami"
+      voc: "zabavy"

@@ -1,0 +1,15 @@
+---
+  id: "4754"
+  word: "Nigerija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Nigerija"
+      acc: "Nigerijų"
+      gen: "Nigerije"
+      loc: "Nigeriji"
+      dat: "Nigeriji"
+      ins: "Nigerijejų"
+      voc: "Nigerijo"

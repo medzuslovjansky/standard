@@ -1,0 +1,22 @@
+---
+  id: "2820"
+  word: "opozdnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "opozdnjeńje"
+      acc: "opozdnjeńje"
+      gen: "opozdnjeńja"
+      loc: "opozdnjeńju"
+      dat: "opozdnjeńju"
+      ins: "opozdnjeńjem"
+      voc: "opozdnjeńje"
+    plural: 
+      nom: "opozdnjeńja"
+      acc: "opozdnjeńja"
+      gen: "opozdnjenij"
+      loc: "opozdnjeńjah"
+      dat: "opozdnjeńjam"
+      ins: "opozdnjeńjami"
+      voc: "opozdnjeńja"

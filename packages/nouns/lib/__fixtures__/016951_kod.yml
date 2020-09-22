@@ -1,0 +1,22 @@
+---
+  id: "16951"
+  word: "kod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kod"
+      acc: "kod"
+      gen: "koda"
+      loc: "kodu"
+      dat: "kodu"
+      ins: "kodom"
+      voc: "kode"
+    plural: 
+      nom: "kody"
+      acc: "kody"
+      gen: "kodov"
+      loc: "kodah"
+      dat: "kodam"
+      ins: "kodami"
+      voc: "kody"

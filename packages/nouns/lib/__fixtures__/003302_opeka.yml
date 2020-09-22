@@ -1,0 +1,22 @@
+---
+  id: "3302"
+  word: "opeka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opeka"
+      acc: "opekų"
+      gen: "opeky"
+      loc: "opekě"
+      dat: "opekě"
+      ins: "opekojų"
+      voc: "opeko"
+    plural: 
+      nom: "opeky"
+      acc: "opeky"
+      gen: "opek"
+      loc: "opekah"
+      dat: "opekam"
+      ins: "opekami"
+      voc: "opeky"

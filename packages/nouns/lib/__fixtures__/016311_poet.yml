@@ -1,0 +1,23 @@
+---
+  id: "16311"
+  word: "poet"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poet"
+      acc: "poeta"
+      gen: "poeta"
+      loc: "poetu"
+      dat: "poetu"
+      ins: "poetom"
+      voc: "poete"
+    plural: 
+      nom: "poeti"
+      acc: "poetov"
+      gen: "poetov"
+      loc: "poetah"
+      dat: "poetam"
+      ins: "poetami"
+      voc: "poeti"

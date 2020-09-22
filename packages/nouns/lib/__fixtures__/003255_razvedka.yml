@@ -1,0 +1,22 @@
+---
+  id: "3255"
+  word: "råzvědka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzvědka"
+      acc: "råzvědkų"
+      gen: "råzvědky"
+      loc: "råzvědkě"
+      dat: "råzvědkě"
+      ins: "råzvědkojų"
+      voc: "råzvědko"
+    plural: 
+      nom: "råzvědky"
+      acc: "råzvědky"
+      gen: "råzvědȯk"
+      loc: "råzvědkah"
+      dat: "råzvědkam"
+      ins: "råzvědkami"
+      voc: "råzvědky"

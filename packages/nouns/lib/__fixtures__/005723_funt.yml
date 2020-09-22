@@ -1,0 +1,22 @@
+---
+  id: "5723"
+  word: "funt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "funt"
+      acc: "funt"
+      gen: "funta"
+      loc: "funtu"
+      dat: "funtu"
+      ins: "funtom"
+      voc: "funte"
+    plural: 
+      nom: "funty"
+      acc: "funty"
+      gen: "funtov"
+      loc: "funtah"
+      dat: "funtam"
+      ins: "funtami"
+      voc: "funty"

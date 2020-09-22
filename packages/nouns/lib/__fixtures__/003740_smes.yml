@@ -1,0 +1,22 @@
+---
+  id: "3740"
+  word: "směs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "směs"
+      acc: "směs"
+      gen: "směsa"
+      loc: "směsu"
+      dat: "směsu"
+      ins: "směsom"
+      voc: "směse"
+    plural: 
+      nom: "směsy"
+      acc: "směsy"
+      gen: "směsov"
+      loc: "směsah"
+      dat: "směsam"
+      ins: "směsami"
+      voc: "směsy"

@@ -1,0 +1,22 @@
+---
+  id: "17013"
+  word: "prislovnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prislovnik"
+      acc: "prislovnik"
+      gen: "prislovnika"
+      loc: "prislovniku"
+      dat: "prislovniku"
+      ins: "prislovnikom"
+      voc: "prislovniče"
+    plural: 
+      nom: "prislovniky"
+      acc: "prislovniky"
+      gen: "prislovnikov"
+      loc: "prislovnikah"
+      dat: "prislovnikam"
+      ins: "prislovnikami"
+      voc: "prislovniky"

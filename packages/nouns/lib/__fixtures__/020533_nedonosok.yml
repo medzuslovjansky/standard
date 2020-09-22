@@ -1,0 +1,23 @@
+---
+  id: "20533"
+  word: "nedonosȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nedonosȯk"
+      acc: "nedonoska"
+      gen: "nedonoska"
+      loc: "nedonosku"
+      dat: "nedonosku"
+      ins: "nedonoskom"
+      voc: "nedonosče"
+    plural: 
+      nom: "nedonoski"
+      acc: "nedonoskov"
+      gen: "nedonoskov"
+      loc: "nedonoskah"
+      dat: "nedonoskam"
+      ins: "nedonoskami"
+      voc: "nedonoski"

@@ -1,0 +1,22 @@
+---
+  id: "20926"
+  word: "odprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odprava"
+      acc: "odpravų"
+      gen: "odpravy"
+      loc: "odpravě"
+      dat: "odpravě"
+      ins: "odpravojų"
+      voc: "odpravo"
+    plural: 
+      nom: "odpravy"
+      acc: "odpravy"
+      gen: "odprav"
+      loc: "odpravah"
+      dat: "odpravam"
+      ins: "odpravami"
+      voc: "odpravy"

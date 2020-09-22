@@ -1,0 +1,22 @@
+---
+  id: "12089"
+  word: "samoposmatrjańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "samoposmatrjańje"
+      acc: "samoposmatrjańje"
+      gen: "samoposmatrjańja"
+      loc: "samoposmatrjańju"
+      dat: "samoposmatrjańju"
+      ins: "samoposmatrjańjem"
+      voc: "samoposmatrjańje"
+    plural: 
+      nom: "samoposmatrjańja"
+      acc: "samoposmatrjańja"
+      gen: "samoposmatrjanij"
+      loc: "samoposmatrjańjah"
+      dat: "samoposmatrjańjam"
+      ins: "samoposmatrjańjami"
+      voc: "samoposmatrjańja"

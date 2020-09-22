@@ -1,0 +1,22 @@
+---
+  id: "29410"
+  word: "okrųglosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "okrųglosť"
+      acc: "okrųglosť"
+      gen: "okrųglosti"
+      loc: "okrųglosti"
+      dat: "okrųglosti"
+      ins: "okrųglosťjų"
+      voc: "okrųglosti"
+    plural: 
+      nom: "okrųglosti"
+      acc: "okrųglosti"
+      gen: "okrųglostij"
+      loc: "okrųglosťah"
+      dat: "okrųglosťam"
+      ins: "okrųglosťami"
+      voc: "okrųglosti"

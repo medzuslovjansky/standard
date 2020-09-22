@@ -1,0 +1,15 @@
+---
+  id: "23490"
+  word: "algebra"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "algebra"
+      acc: "algebrų"
+      gen: "algebry"
+      loc: "algebrě"
+      dat: "algebrě"
+      ins: "algebrojų"
+      voc: "algebro"

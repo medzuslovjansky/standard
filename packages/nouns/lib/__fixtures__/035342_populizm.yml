@@ -1,0 +1,15 @@
+---
+  id: "35342"
+  word: "populizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "populizm"
+      acc: "populizm"
+      gen: "populizma"
+      loc: "populizmu"
+      dat: "populizmu"
+      ins: "populizmom"
+      voc: "populizme"

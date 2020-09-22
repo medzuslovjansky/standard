@@ -1,0 +1,22 @@
+---
+  id: "26214"
+  word: "izolator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izolator"
+      acc: "izolator"
+      gen: "izolatora"
+      loc: "izolatoru"
+      dat: "izolatoru"
+      ins: "izolatorom"
+      voc: "izolatore"
+    plural: 
+      nom: "izolatory"
+      acc: "izolatory"
+      gen: "izolatorov"
+      loc: "izolatorah"
+      dat: "izolatoram"
+      ins: "izolatorami"
+      voc: "izolatory"

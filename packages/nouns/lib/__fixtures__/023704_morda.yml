@@ -1,0 +1,22 @@
+---
+  id: "23704"
+  word: "morda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "morda"
+      acc: "mordų"
+      gen: "mordy"
+      loc: "mordě"
+      dat: "mordě"
+      ins: "mordojų"
+      voc: "mordo"
+    plural: 
+      nom: "mordy"
+      acc: "mordy"
+      gen: "mord"
+      loc: "mordah"
+      dat: "mordam"
+      ins: "mordami"
+      voc: "mordy"

@@ -1,0 +1,22 @@
+---
+  id: "31117"
+  word: "ventilj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ventilj"
+      acc: "ventilj"
+      gen: "ventilja"
+      loc: "ventilju"
+      dat: "ventilju"
+      ins: "ventiljem"
+      voc: "ventilju"
+    plural: 
+      nom: "ventilje"
+      acc: "ventilje"
+      gen: "ventiljev"
+      loc: "ventiljah"
+      dat: "ventiljam"
+      ins: "ventiljami"
+      voc: "ventilje"

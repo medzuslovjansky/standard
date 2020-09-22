@@ -1,0 +1,22 @@
+---
+  id: "35500"
+  word: "navodnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "navodnica"
+      acc: "navodnicų"
+      gen: "navodnice"
+      loc: "navodnici"
+      dat: "navodnici"
+      ins: "navodnicejų"
+      voc: "navodnico"
+    plural: 
+      nom: "navodnice"
+      acc: "navodnice"
+      gen: "navodnic"
+      loc: "navodnicah"
+      dat: "navodnicam"
+      ins: "navodnicami"
+      voc: "navodnice"

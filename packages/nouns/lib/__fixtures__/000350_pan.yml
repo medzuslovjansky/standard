@@ -1,0 +1,23 @@
+---
+  id: "350"
+  word: "pan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pan"
+      acc: "pana"
+      gen: "pana"
+      loc: "panu"
+      dat: "panu"
+      ins: "panom"
+      voc: "pane"
+    plural: 
+      nom: "pani"
+      acc: "panov"
+      gen: "panov"
+      loc: "panah"
+      dat: "panam"
+      ins: "panami"
+      voc: "pani"

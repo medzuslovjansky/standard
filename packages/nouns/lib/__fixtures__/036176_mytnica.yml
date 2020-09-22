@@ -1,0 +1,22 @@
+---
+  id: "36176"
+  word: "mytnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mytnica"
+      acc: "mytnicų"
+      gen: "mytnice"
+      loc: "mytnici"
+      dat: "mytnici"
+      ins: "mytnicejų"
+      voc: "mytnico"
+    plural: 
+      nom: "mytnice"
+      acc: "mytnice"
+      gen: "mytnic"
+      loc: "mytnicah"
+      dat: "mytnicam"
+      ins: "mytnicami"
+      voc: "mytnice"

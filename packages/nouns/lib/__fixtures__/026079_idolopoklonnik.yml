@@ -1,0 +1,23 @@
+---
+  id: "26079"
+  word: "idolopoklonnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "idolopoklonnik"
+      acc: "idolopoklonnika"
+      gen: "idolopoklonnika"
+      loc: "idolopoklonniku"
+      dat: "idolopoklonniku"
+      ins: "idolopoklonnikom"
+      voc: "idolopoklonniče"
+    plural: 
+      nom: "idolopoklonniki"
+      acc: "idolopoklonnikov"
+      gen: "idolopoklonnikov"
+      loc: "idolopoklonnikah"
+      dat: "idolopoklonnikam"
+      ins: "idolopoklonnikami"
+      voc: "idolopoklonniki"

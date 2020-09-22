@@ -1,0 +1,22 @@
+---
+  id: "35565"
+  word: "pogreb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pogreb"
+      acc: "pogreb"
+      gen: "pogreba"
+      loc: "pogrebu"
+      dat: "pogrebu"
+      ins: "pogrebom"
+      voc: "pogrebe"
+    plural: 
+      nom: "pogreby"
+      acc: "pogreby"
+      gen: "pogrebov"
+      loc: "pogrebah"
+      dat: "pogrebam"
+      ins: "pogrebami"
+      voc: "pogreby"

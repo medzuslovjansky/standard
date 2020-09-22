@@ -1,0 +1,22 @@
+---
+  id: "583"
+  word: "dogovor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dogovor"
+      acc: "dogovor"
+      gen: "dogovora"
+      loc: "dogovoru"
+      dat: "dogovoru"
+      ins: "dogovorom"
+      voc: "dogovore"
+    plural: 
+      nom: "dogovory"
+      acc: "dogovory"
+      gen: "dogovorov"
+      loc: "dogovorah"
+      dat: "dogovoram"
+      ins: "dogovorami"
+      voc: "dogovory"

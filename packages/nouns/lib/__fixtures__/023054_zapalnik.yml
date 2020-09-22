@@ -1,0 +1,22 @@
+---
+  id: "23054"
+  word: "zapaľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zapaľnik"
+      acc: "zapaľnik"
+      gen: "zapaľnika"
+      loc: "zapaľniku"
+      dat: "zapaľniku"
+      ins: "zapaľnikom"
+      voc: "zapaľniče"
+    plural: 
+      nom: "zapaľniky"
+      acc: "zapaľniky"
+      gen: "zapaľnikov"
+      loc: "zapaľnikah"
+      dat: "zapaľnikam"
+      ins: "zapaľnikami"
+      voc: "zapaľniky"

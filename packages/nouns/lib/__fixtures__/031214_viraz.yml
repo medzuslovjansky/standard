@@ -1,0 +1,22 @@
+---
+  id: "31214"
+  word: "viraž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "viraž"
+      acc: "viraž"
+      gen: "viraža"
+      loc: "viražu"
+      dat: "viražu"
+      ins: "viražem"
+      voc: "viražu"
+    plural: 
+      nom: "viraže"
+      acc: "viraže"
+      gen: "viražev"
+      loc: "viražah"
+      dat: "viražam"
+      ins: "viražami"
+      voc: "viraže"

@@ -1,0 +1,22 @@
+---
+  id: "25905"
+  word: "hektar [ha]"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hektar"
+      acc: "hektar"
+      gen: "hektara"
+      loc: "hektaru"
+      dat: "hektaru"
+      ins: "hektarom"
+      voc: "hektare"
+    plural: 
+      nom: "hektary"
+      acc: "hektary"
+      gen: "hektarov"
+      loc: "hektarah"
+      dat: "hektaram"
+      ins: "hektarami"
+      voc: "hektary"

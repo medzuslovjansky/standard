@@ -1,0 +1,22 @@
+---
+  id: "16342"
+  word: "imę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "imę"
+      acc: "imę"
+      gen: "imene / imena"
+      loc: "imeni / imenu"
+      dat: "imeni / imenu"
+      ins: "imenem / imenom"
+      voc: "imę"
+    plural: 
+      nom: "imena"
+      acc: "imena"
+      gen: "imen"
+      loc: "imenah"
+      dat: "imenam"
+      ins: "imenami"
+      voc: "imena"

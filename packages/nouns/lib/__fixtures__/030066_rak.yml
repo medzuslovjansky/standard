@@ -1,0 +1,23 @@
+---
+  id: "30066"
+  word: "rak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rak"
+      acc: "raka"
+      gen: "raka"
+      loc: "raku"
+      dat: "raku"
+      ins: "rakom"
+      voc: "rače"
+    plural: 
+      nom: "raki"
+      acc: "rakov"
+      gen: "rakov"
+      loc: "rakah"
+      dat: "rakam"
+      ins: "rakami"
+      voc: "raki"

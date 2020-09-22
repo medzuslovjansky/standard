@@ -1,0 +1,23 @@
+---
+  id: "11359"
+  word: "prěsměšnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěsměšnik"
+      acc: "prěsměšnika"
+      gen: "prěsměšnika"
+      loc: "prěsměšniku"
+      dat: "prěsměšniku"
+      ins: "prěsměšnikom"
+      voc: "prěsměšniče"
+    plural: 
+      nom: "prěsměšniki"
+      acc: "prěsměšnikov"
+      gen: "prěsměšnikov"
+      loc: "prěsměšnikah"
+      dat: "prěsměšnikam"
+      ins: "prěsměšnikami"
+      voc: "prěsměšniki"

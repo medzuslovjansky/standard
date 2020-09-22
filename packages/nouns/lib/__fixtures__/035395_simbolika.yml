@@ -1,0 +1,22 @@
+---
+  id: "35395"
+  word: "simbolika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "simbolika"
+      acc: "simbolikų"
+      gen: "simboliky"
+      loc: "simbolikě"
+      dat: "simbolikě"
+      ins: "simbolikojų"
+      voc: "simboliko"
+    plural: 
+      nom: "simboliky"
+      acc: "simboliky"
+      gen: "simbolik"
+      loc: "simbolikah"
+      dat: "simbolikam"
+      ins: "simbolikami"
+      voc: "simboliky"

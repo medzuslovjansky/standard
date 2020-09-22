@@ -1,0 +1,22 @@
+---
+  id: "807"
+  word: "fotografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fotografija"
+      acc: "fotografijų"
+      gen: "fotografije"
+      loc: "fotografiji"
+      dat: "fotografiji"
+      ins: "fotografijejų"
+      voc: "fotografijo"
+    plural: 
+      nom: "fotografije"
+      acc: "fotografije"
+      gen: "fotografij"
+      loc: "fotografijah"
+      dat: "fotografijam"
+      ins: "fotografijami"
+      voc: "fotografije"

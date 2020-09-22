@@ -1,0 +1,22 @@
+---
+  id: "35787"
+  word: "asociacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "asociacija"
+      acc: "asociacijų"
+      gen: "asociacije"
+      loc: "asociaciji"
+      dat: "asociaciji"
+      ins: "asociacijejų"
+      voc: "asociacijo"
+    plural: 
+      nom: "asociacije"
+      acc: "asociacije"
+      gen: "asociacij"
+      loc: "asociacijah"
+      dat: "asociacijam"
+      ins: "asociacijami"
+      voc: "asociacije"

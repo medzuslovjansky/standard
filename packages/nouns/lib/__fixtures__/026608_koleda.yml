@@ -1,0 +1,22 @@
+---
+  id: "26608"
+  word: "kolęda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolęda"
+      acc: "kolędų"
+      gen: "kolędy"
+      loc: "kolędě"
+      dat: "kolędě"
+      ins: "kolędojų"
+      voc: "kolędo"
+    plural: 
+      nom: "kolędy"
+      acc: "kolędy"
+      gen: "kolęd"
+      loc: "kolędah"
+      dat: "kolędam"
+      ins: "kolędami"
+      voc: "kolędy"

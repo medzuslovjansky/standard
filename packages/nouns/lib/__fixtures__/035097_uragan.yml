@@ -1,0 +1,22 @@
+---
+  id: "35097"
+  word: "uragan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "uragan"
+      acc: "uragan"
+      gen: "uragana"
+      loc: "uraganu"
+      dat: "uraganu"
+      ins: "uraganom"
+      voc: "uragane"
+    plural: 
+      nom: "uragany"
+      acc: "uragany"
+      gen: "uraganov"
+      loc: "uraganah"
+      dat: "uraganam"
+      ins: "uraganami"
+      voc: "uragany"

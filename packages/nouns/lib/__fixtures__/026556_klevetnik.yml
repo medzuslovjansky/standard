@@ -1,0 +1,23 @@
+---
+  id: "26556"
+  word: "klevetnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "klevetnik"
+      acc: "klevetnika"
+      gen: "klevetnika"
+      loc: "klevetniku"
+      dat: "klevetniku"
+      ins: "klevetnikom"
+      voc: "klevetniče"
+    plural: 
+      nom: "klevetniki"
+      acc: "klevetnikov"
+      gen: "klevetnikov"
+      loc: "klevetnikah"
+      dat: "klevetnikam"
+      ins: "klevetnikami"
+      voc: "klevetniki"

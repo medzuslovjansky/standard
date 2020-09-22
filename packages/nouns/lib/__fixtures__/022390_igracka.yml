@@ -1,0 +1,22 @@
+---
+  id: "22390"
+  word: "igračka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "igračka"
+      acc: "igračkų"
+      gen: "igračky"
+      loc: "igračkě"
+      dat: "igračkě"
+      ins: "igračkojų"
+      voc: "igračko"
+    plural: 
+      nom: "igračky"
+      acc: "igračky"
+      gen: "igraček"
+      loc: "igračkah"
+      dat: "igračkam"
+      ins: "igračkami"
+      voc: "igračky"

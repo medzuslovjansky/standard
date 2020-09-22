@@ -1,0 +1,22 @@
+---
+  id: "4829"
+  word: "věďma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věďma"
+      acc: "věďmų"
+      gen: "věďmy"
+      loc: "věďmě"
+      dat: "věďmě"
+      ins: "věďmojų"
+      voc: "věďmo"
+    plural: 
+      nom: "věďmy"
+      acc: "věďmy"
+      gen: "věďm"
+      loc: "věďmah"
+      dat: "věďmam"
+      ins: "věďmami"
+      voc: "věďmy"

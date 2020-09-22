@@ -1,0 +1,22 @@
+---
+  id: "17061"
+  word: "vokativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vokativ"
+      acc: "vokativ"
+      gen: "vokativa"
+      loc: "vokativu"
+      dat: "vokativu"
+      ins: "vokativom"
+      voc: "vokative"
+    plural: 
+      nom: "vokativy"
+      acc: "vokativy"
+      gen: "vokativov"
+      loc: "vokativah"
+      dat: "vokativam"
+      ins: "vokativami"
+      voc: "vokativy"

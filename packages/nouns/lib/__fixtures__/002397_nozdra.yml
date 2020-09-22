@@ -1,0 +1,22 @@
+---
+  id: "2397"
+  word: "nozdra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nozdra"
+      acc: "nozdrų"
+      gen: "nozdry"
+      loc: "nozdrě"
+      dat: "nozdrě"
+      ins: "nozdrojų"
+      voc: "nozdro"
+    plural: 
+      nom: "nozdry"
+      acc: "nozdry"
+      gen: "nozdr"
+      loc: "nozdrah"
+      dat: "nozdram"
+      ins: "nozdrami"
+      voc: "nozdry"

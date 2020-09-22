@@ -1,0 +1,22 @@
+---
+  id: "24567"
+  word: "bazilik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bazilik"
+      acc: "bazilik"
+      gen: "bazilika"
+      loc: "baziliku"
+      dat: "baziliku"
+      ins: "bazilikom"
+      voc: "baziliče"
+    plural: 
+      nom: "baziliky"
+      acc: "baziliky"
+      gen: "bazilikov"
+      loc: "bazilikah"
+      dat: "bazilikam"
+      ins: "bazilikami"
+      voc: "baziliky"

@@ -1,0 +1,15 @@
+---
+  id: "8791"
+  word: "cvětenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cvětenj"
+      acc: "cvětenj"
+      gen: "cvětenja"
+      loc: "cvětenju"
+      dat: "cvětenju"
+      ins: "cvětenjem"
+      voc: "cvětenju"

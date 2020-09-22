@@ -1,0 +1,15 @@
+---
+  id: "23592"
+  word: "Mars"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Mars"
+      acc: "Mars"
+      gen: "Marsa"
+      loc: "Marsu"
+      dat: "Marsu"
+      ins: "Marsom"
+      voc: "Marse"

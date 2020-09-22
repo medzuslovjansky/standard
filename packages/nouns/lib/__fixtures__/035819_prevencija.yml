@@ -1,0 +1,22 @@
+---
+  id: "35819"
+  word: "prevencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prevencija"
+      acc: "prevencijų"
+      gen: "prevencije"
+      loc: "prevenciji"
+      dat: "prevenciji"
+      ins: "prevencijejų"
+      voc: "prevencijo"
+    plural: 
+      nom: "prevencije"
+      acc: "prevencije"
+      gen: "prevencij"
+      loc: "prevencijah"
+      dat: "prevencijam"
+      ins: "prevencijami"
+      voc: "prevencije"

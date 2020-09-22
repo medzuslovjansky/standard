@@ -1,0 +1,22 @@
+---
+  id: "36272"
+  word: "panda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "panda"
+      acc: "pandų"
+      gen: "pandy"
+      loc: "pandě"
+      dat: "pandě"
+      ins: "pandojų"
+      voc: "pando"
+    plural: 
+      nom: "pandy"
+      acc: "pandy"
+      gen: "pand"
+      loc: "pandah"
+      dat: "pandam"
+      ins: "pandami"
+      voc: "pandy"

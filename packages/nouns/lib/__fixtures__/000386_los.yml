@@ -1,0 +1,23 @@
+---
+  id: "386"
+  word: "loś"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "loś"
+      acc: "lośa"
+      gen: "lośa"
+      loc: "lośu"
+      dat: "lośu"
+      ins: "lośem"
+      voc: "lośu"
+    plural: 
+      nom: "losi"
+      acc: "lośev"
+      gen: "lośev"
+      loc: "lośah"
+      dat: "lośam"
+      ins: "lośami"
+      voc: "losi"

@@ -1,0 +1,23 @@
+---
+  id: "35801"
+  word: "prěkladatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěkladatelj"
+      acc: "prěkladatelja"
+      gen: "prěkladatelja"
+      loc: "prěkladatelju"
+      dat: "prěkladatelju"
+      ins: "prěkladateljem"
+      voc: "prěkladatelju"
+    plural: 
+      nom: "prěkladatelji"
+      acc: "prěkladateljev"
+      gen: "prěkladateljev"
+      loc: "prěkladateljah"
+      dat: "prěkladateljam"
+      ins: "prěkladateljami"
+      voc: "prěkladatelji"

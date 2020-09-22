@@ -1,0 +1,22 @@
+---
+  id: "34756"
+  word: "kaktus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kaktus"
+      acc: "kaktus"
+      gen: "kaktusa"
+      loc: "kaktusu"
+      dat: "kaktusu"
+      ins: "kaktusom"
+      voc: "kaktuse"
+    plural: 
+      nom: "kaktusy"
+      acc: "kaktusy"
+      gen: "kaktusov"
+      loc: "kaktusah"
+      dat: "kaktusam"
+      ins: "kaktusami"
+      voc: "kaktusy"

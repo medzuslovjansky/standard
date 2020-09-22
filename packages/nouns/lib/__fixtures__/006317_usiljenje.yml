@@ -1,0 +1,22 @@
+---
+  id: "6317"
+  word: "usiljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "usiljeńje"
+      acc: "usiljeńje"
+      gen: "usiljeńja"
+      loc: "usiljeńju"
+      dat: "usiljeńju"
+      ins: "usiljeńjem"
+      voc: "usiljeńje"
+    plural: 
+      nom: "usiljeńja"
+      acc: "usiljeńja"
+      gen: "usiljenij"
+      loc: "usiljeńjah"
+      dat: "usiljeńjam"
+      ins: "usiljeńjami"
+      voc: "usiljeńja"

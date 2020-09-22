@@ -1,0 +1,22 @@
+---
+  id: "22981"
+  word: "čestnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čestnosť"
+      acc: "čestnosť"
+      gen: "čestnosti"
+      loc: "čestnosti"
+      dat: "čestnosti"
+      ins: "čestnosťjų"
+      voc: "čestnosti"
+    plural: 
+      nom: "čestnosti"
+      acc: "čestnosti"
+      gen: "čestnostij"
+      loc: "čestnosťah"
+      dat: "čestnosťam"
+      ins: "čestnosťami"
+      voc: "čestnosti"

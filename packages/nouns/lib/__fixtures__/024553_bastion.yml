@@ -1,0 +1,22 @@
+---
+  id: "24553"
+  word: "bastion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bastion"
+      acc: "bastion"
+      gen: "bastiona"
+      loc: "bastionu"
+      dat: "bastionu"
+      ins: "bastionom"
+      voc: "bastione"
+    plural: 
+      nom: "bastiony"
+      acc: "bastiony"
+      gen: "bastionov"
+      loc: "bastionah"
+      dat: "bastionam"
+      ins: "bastionami"
+      voc: "bastiony"

@@ -1,0 +1,23 @@
+---
+  id: "32390"
+  word: "utopist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "utopist"
+      acc: "utopista"
+      gen: "utopista"
+      loc: "utopistu"
+      dat: "utopistu"
+      ins: "utopistom"
+      voc: "utopiste"
+    plural: 
+      nom: "utopisti"
+      acc: "utopistov"
+      gen: "utopistov"
+      loc: "utopistah"
+      dat: "utopistam"
+      ins: "utopistami"
+      voc: "utopisti"

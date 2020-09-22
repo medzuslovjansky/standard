@@ -1,0 +1,23 @@
+---
+  id: "26056"
+  word: "ibis"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ibis"
+      acc: "ibisa"
+      gen: "ibisa"
+      loc: "ibisu"
+      dat: "ibisu"
+      ins: "ibisom"
+      voc: "ibise"
+    plural: 
+      nom: "ibisi"
+      acc: "ibisov"
+      gen: "ibisov"
+      loc: "ibisah"
+      dat: "ibisam"
+      ins: "ibisami"
+      voc: "ibisi"

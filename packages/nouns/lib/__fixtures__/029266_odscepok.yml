@@ -1,0 +1,22 @@
+---
+  id: "29266"
+  word: "odščepȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odščepȯk"
+      acc: "odščepȯk"
+      gen: "odščepka"
+      loc: "odščepku"
+      dat: "odščepku"
+      ins: "odščepkom"
+      voc: "odščepče"
+    plural: 
+      nom: "odščepky"
+      acc: "odščepky"
+      gen: "odščepkov"
+      loc: "odščepkah"
+      dat: "odščepkam"
+      ins: "odščepkami"
+      voc: "odščepky"

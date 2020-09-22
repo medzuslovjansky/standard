@@ -1,0 +1,22 @@
+---
+  id: "32032"
+  word: "krem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krem"
+      acc: "krem"
+      gen: "krema"
+      loc: "kremu"
+      dat: "kremu"
+      ins: "kremom"
+      voc: "kreme"
+    plural: 
+      nom: "kremy"
+      acc: "kremy"
+      gen: "kremov"
+      loc: "kremah"
+      dat: "kremam"
+      ins: "kremami"
+      voc: "kremy"

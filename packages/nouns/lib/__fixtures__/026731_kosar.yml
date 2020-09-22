@@ -1,0 +1,22 @@
+---
+  id: "26731"
+  word: "kosaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kosaŕ"
+      acc: "kosaŕ"
+      gen: "kosaŕa"
+      loc: "kosaŕu"
+      dat: "kosaŕu"
+      ins: "kosaŕem"
+      voc: "kosaŕu"
+    plural: 
+      nom: "kosaŕe"
+      acc: "kosaŕe"
+      gen: "kosaŕev"
+      loc: "kosaŕah"
+      dat: "kosaŕam"
+      ins: "kosaŕami"
+      voc: "kosaŕe"

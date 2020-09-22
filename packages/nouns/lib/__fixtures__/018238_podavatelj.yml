@@ -1,0 +1,23 @@
+---
+  id: "18238"
+  word: "podavatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podavatelj"
+      acc: "podavatelja"
+      gen: "podavatelja"
+      loc: "podavatelju"
+      dat: "podavatelju"
+      ins: "podavateljem"
+      voc: "podavatelju"
+    plural: 
+      nom: "podavatelji"
+      acc: "podavateljev"
+      gen: "podavateljev"
+      loc: "podavateljah"
+      dat: "podavateljam"
+      ins: "podavateljami"
+      voc: "podavatelji"

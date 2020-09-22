@@ -1,0 +1,22 @@
+---
+  id: "35272"
+  word: "značimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "značimosť"
+      acc: "značimosť"
+      gen: "značimosti"
+      loc: "značimosti"
+      dat: "značimosti"
+      ins: "značimosťjų"
+      voc: "značimosti"
+    plural: 
+      nom: "značimosti"
+      acc: "značimosti"
+      gen: "značimostij"
+      loc: "značimosťah"
+      dat: "značimosťam"
+      ins: "značimosťami"
+      voc: "značimosti"

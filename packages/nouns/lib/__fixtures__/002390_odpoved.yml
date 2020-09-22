@@ -1,0 +1,22 @@
+---
+  id: "2390"
+  word: "odpověď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odpověď"
+      acc: "odpověď"
+      gen: "odpovědi"
+      loc: "odpovědi"
+      dat: "odpovědi"
+      ins: "odpověďjų"
+      voc: "odpovědi"
+    plural: 
+      nom: "odpovědi"
+      acc: "odpovědi"
+      gen: "odpovědij"
+      loc: "odpověďah"
+      dat: "odpověďam"
+      ins: "odpověďami"
+      voc: "odpovědi"

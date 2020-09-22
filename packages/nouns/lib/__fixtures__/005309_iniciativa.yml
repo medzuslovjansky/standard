@@ -1,0 +1,22 @@
+---
+  id: "5309"
+  word: "iniciativa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iniciativa"
+      acc: "iniciativų"
+      gen: "iniciativy"
+      loc: "iniciativě"
+      dat: "iniciativě"
+      ins: "iniciativojų"
+      voc: "iniciativo"
+    plural: 
+      nom: "iniciativy"
+      acc: "iniciativy"
+      gen: "iniciativ"
+      loc: "iniciativah"
+      dat: "iniciativam"
+      ins: "iniciativami"
+      voc: "iniciativy"

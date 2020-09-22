@@ -1,0 +1,22 @@
+---
+  id: "1585"
+  word: "šok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šok"
+      acc: "šok"
+      gen: "šoka"
+      loc: "šoku"
+      dat: "šoku"
+      ins: "šokom"
+      voc: "šoče"
+    plural: 
+      nom: "šoky"
+      acc: "šoky"
+      gen: "šokov"
+      loc: "šokah"
+      dat: "šokam"
+      ins: "šokami"
+      voc: "šoky"

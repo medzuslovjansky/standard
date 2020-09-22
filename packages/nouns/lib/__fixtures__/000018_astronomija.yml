@@ -1,0 +1,15 @@
+---
+  id: "18"
+  word: "astronomija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "astronomija"
+      acc: "astronomijų"
+      gen: "astronomije"
+      loc: "astronomiji"
+      dat: "astronomiji"
+      ins: "astronomijejų"
+      voc: "astronomijo"

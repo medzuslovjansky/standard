@@ -1,0 +1,22 @@
+---
+  id: "2547"
+  word: "jezero"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jezero"
+      acc: "jezero"
+      gen: "jezera"
+      loc: "jezeru"
+      dat: "jezeru"
+      ins: "jezerom"
+      voc: "jezero"
+    plural: 
+      nom: "jezera"
+      acc: "jezera"
+      gen: "jezer"
+      loc: "jezerah"
+      dat: "jezeram"
+      ins: "jezerami"
+      voc: "jezera"

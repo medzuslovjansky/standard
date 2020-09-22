@@ -1,0 +1,22 @@
+---
+  id: "21229"
+  word: "zaponka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zaponka"
+      acc: "zaponkų"
+      gen: "zaponky"
+      loc: "zaponkě"
+      dat: "zaponkě"
+      ins: "zaponkojų"
+      voc: "zaponko"
+    plural: 
+      nom: "zaponky"
+      acc: "zaponky"
+      gen: "zaponȯk"
+      loc: "zaponkah"
+      dat: "zaponkam"
+      ins: "zaponkami"
+      voc: "zaponky"

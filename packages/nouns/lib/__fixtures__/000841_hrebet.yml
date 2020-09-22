@@ -1,0 +1,22 @@
+---
+  id: "841"
+  word: "hrebet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hrebet"
+      acc: "hrebet"
+      gen: "hrebeta"
+      loc: "hrebetu"
+      dat: "hrebetu"
+      ins: "hrebetom"
+      voc: "hrebete"
+    plural: 
+      nom: "hrebety"
+      acc: "hrebety"
+      gen: "hrebetov"
+      loc: "hrebetah"
+      dat: "hrebetam"
+      ins: "hrebetami"
+      voc: "hrebety"

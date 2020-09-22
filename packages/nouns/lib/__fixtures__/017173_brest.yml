@@ -1,0 +1,22 @@
+---
+  id: "17173"
+  word: "brěst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "brěst"
+      acc: "brěst"
+      gen: "brěsta"
+      loc: "brěstu"
+      dat: "brěstu"
+      ins: "brěstom"
+      voc: "brěste"
+    plural: 
+      nom: "brěsty"
+      acc: "brěsty"
+      gen: "brěstov"
+      loc: "brěstah"
+      dat: "brěstam"
+      ins: "brěstami"
+      voc: "brěsty"

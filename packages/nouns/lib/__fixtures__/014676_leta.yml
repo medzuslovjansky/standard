@@ -1,0 +1,15 @@
+---
+  id: "14676"
+  word: "lěta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "lěta"
+      acc: "lěta"
+      gen: "lět"
+      loc: "lětah"
+      dat: "lětam"
+      ins: "lětami"
+      voc: "lěta"

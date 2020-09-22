@@ -1,0 +1,22 @@
+---
+  id: "24007"
+  word: "zȯlva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zȯlva"
+      acc: "zȯlvų"
+      gen: "zȯlvy"
+      loc: "zȯlvě"
+      dat: "zȯlvě"
+      ins: "zȯlvojų"
+      voc: "zȯlvo"
+    plural: 
+      nom: "zȯlvy"
+      acc: "zȯlvy"
+      gen: "zȯlv"
+      loc: "zȯlvah"
+      dat: "zȯlvam"
+      ins: "zȯlvami"
+      voc: "zȯlvy"

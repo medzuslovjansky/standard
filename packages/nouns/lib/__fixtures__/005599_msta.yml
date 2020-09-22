@@ -1,0 +1,22 @@
+---
+  id: "5599"
+  word: "msta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "msta"
+      acc: "mstų"
+      gen: "msty"
+      loc: "mstě"
+      dat: "mstě"
+      ins: "mstojų"
+      voc: "msto"
+    plural: 
+      nom: "msty"
+      acc: "msty"
+      gen: "mst"
+      loc: "mstah"
+      dat: "mstam"
+      ins: "mstami"
+      voc: "msty"

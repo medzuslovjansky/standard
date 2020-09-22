@@ -1,0 +1,22 @@
+---
+  id: "5651"
+  word: "projekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "projekcija"
+      acc: "projekcijų"
+      gen: "projekcije"
+      loc: "projekciji"
+      dat: "projekciji"
+      ins: "projekcijejų"
+      voc: "projekcijo"
+    plural: 
+      nom: "projekcije"
+      acc: "projekcije"
+      gen: "projekcij"
+      loc: "projekcijah"
+      dat: "projekcijam"
+      ins: "projekcijami"
+      voc: "projekcije"

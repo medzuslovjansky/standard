@@ -1,0 +1,22 @@
+---
+  id: "34298"
+  word: "odpis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpis"
+      acc: "odpis"
+      gen: "odpisa"
+      loc: "odpisu"
+      dat: "odpisu"
+      ins: "odpisom"
+      voc: "odpise"
+    plural: 
+      nom: "odpisy"
+      acc: "odpisy"
+      gen: "odpisov"
+      loc: "odpisah"
+      dat: "odpisam"
+      ins: "odpisami"
+      voc: "odpisy"

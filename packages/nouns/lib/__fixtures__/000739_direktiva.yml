@@ -1,0 +1,22 @@
+---
+  id: "739"
+  word: "direktiva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "direktiva"
+      acc: "direktivų"
+      gen: "direktivy"
+      loc: "direktivě"
+      dat: "direktivě"
+      ins: "direktivojų"
+      voc: "direktivo"
+    plural: 
+      nom: "direktivy"
+      acc: "direktivy"
+      gen: "direktiv"
+      loc: "direktivah"
+      dat: "direktivam"
+      ins: "direktivami"
+      voc: "direktivy"

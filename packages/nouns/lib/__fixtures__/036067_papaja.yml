@@ -1,0 +1,22 @@
+---
+  id: "36067"
+  word: "papaja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "papaja"
+      acc: "papajų"
+      gen: "papaje"
+      loc: "papaji"
+      dat: "papaji"
+      ins: "papajejų"
+      voc: "papajo"
+    plural: 
+      nom: "papaje"
+      acc: "papaje"
+      gen: "papaj"
+      loc: "papajah"
+      dat: "papajam"
+      ins: "papajami"
+      voc: "papaje"

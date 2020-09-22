@@ -1,0 +1,22 @@
+---
+  id: "28135"
+  word: "napŕstȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napŕstȯk"
+      acc: "napŕstȯk"
+      gen: "napŕstka"
+      loc: "napŕstku"
+      dat: "napŕstku"
+      ins: "napŕstkom"
+      voc: "napŕstče"
+    plural: 
+      nom: "napŕstky"
+      acc: "napŕstky"
+      gen: "napŕstkov"
+      loc: "napŕstkah"
+      dat: "napŕstkam"
+      ins: "napŕstkami"
+      voc: "napŕstky"

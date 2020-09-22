@@ -1,0 +1,22 @@
+---
+  id: "2665"
+  word: "grad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grad"
+      acc: "grad"
+      gen: "grada"
+      loc: "gradu"
+      dat: "gradu"
+      ins: "gradom"
+      voc: "grade"
+    plural: 
+      nom: "grady"
+      acc: "grady"
+      gen: "gradov"
+      loc: "gradah"
+      dat: "gradam"
+      ins: "gradami"
+      voc: "grady"

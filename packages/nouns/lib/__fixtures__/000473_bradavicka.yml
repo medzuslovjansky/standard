@@ -1,0 +1,22 @@
+---
+  id: "473"
+  word: "brådavička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brådavička"
+      acc: "brådavičkų"
+      gen: "brådavičky"
+      loc: "brådavičkě"
+      dat: "brådavičkě"
+      ins: "brådavičkojų"
+      voc: "brådavičko"
+    plural: 
+      nom: "brådavičky"
+      acc: "brådavičky"
+      gen: "brådaviček"
+      loc: "brådavičkah"
+      dat: "brådavičkam"
+      ins: "brådavičkami"
+      voc: "brådavičky"

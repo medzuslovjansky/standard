@@ -1,0 +1,22 @@
+---
+  id: "35844"
+  word: "kontracepcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kontracepcija"
+      acc: "kontracepcijų"
+      gen: "kontracepcije"
+      loc: "kontracepciji"
+      dat: "kontracepciji"
+      ins: "kontracepcijejų"
+      voc: "kontracepcijo"
+    plural: 
+      nom: "kontracepcije"
+      acc: "kontracepcije"
+      gen: "kontracepcij"
+      loc: "kontracepcijah"
+      dat: "kontracepcijam"
+      ins: "kontracepcijami"
+      voc: "kontracepcije"

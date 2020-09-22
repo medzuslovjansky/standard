@@ -1,0 +1,22 @@
+---
+  id: "18489"
+  word: "prislovica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prislovica"
+      acc: "prislovicų"
+      gen: "prislovice"
+      loc: "prislovici"
+      dat: "prislovici"
+      ins: "prislovicejų"
+      voc: "prislovico"
+    plural: 
+      nom: "prislovice"
+      acc: "prislovice"
+      gen: "prislovic"
+      loc: "prislovicah"
+      dat: "prislovicam"
+      ins: "prislovicami"
+      voc: "prislovice"

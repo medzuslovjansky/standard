@@ -1,0 +1,15 @@
+---
+  id: "14606"
+  word: "izigrańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izigrańje"
+      acc: "izigrańje"
+      gen: "izigrańja"
+      loc: "izigrańju"
+      dat: "izigrańju"
+      ins: "izigrańjem"
+      voc: "izigrańje"

@@ -1,0 +1,22 @@
+---
+  id: "27447"
+  word: "mat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mat"
+      acc: "mat"
+      gen: "mata"
+      loc: "matu"
+      dat: "matu"
+      ins: "matom"
+      voc: "mate"
+    plural: 
+      nom: "maty"
+      acc: "maty"
+      gen: "matov"
+      loc: "matah"
+      dat: "matam"
+      ins: "matami"
+      voc: "maty"

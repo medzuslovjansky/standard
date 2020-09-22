@@ -1,0 +1,23 @@
+---
+  id: "10304"
+  word: "osnovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "osnovatelj"
+      acc: "osnovatelja"
+      gen: "osnovatelja"
+      loc: "osnovatelju"
+      dat: "osnovatelju"
+      ins: "osnovateljem"
+      voc: "osnovatelju"
+    plural: 
+      nom: "osnovatelji"
+      acc: "osnovateljev"
+      gen: "osnovateljev"
+      loc: "osnovateljah"
+      dat: "osnovateljam"
+      ins: "osnovateljami"
+      voc: "osnovatelji"

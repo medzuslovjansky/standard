@@ -1,0 +1,23 @@
+---
+  id: "16424"
+  word: "Portugalec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Portugalec"
+      acc: "Portugalca"
+      gen: "Portugalca"
+      loc: "Portugalcu"
+      dat: "Portugalcu"
+      ins: "Portugalcem"
+      voc: "Portugalče"
+    plural: 
+      nom: "Portugalci"
+      acc: "Portugalcev"
+      gen: "Portugalcev"
+      loc: "Portugalcah"
+      dat: "Portugalcam"
+      ins: "Portugalcami"
+      voc: "Portugalci"

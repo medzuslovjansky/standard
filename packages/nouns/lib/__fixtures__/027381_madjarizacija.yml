@@ -1,0 +1,22 @@
+---
+  id: "27381"
+  word: "madjarizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "madjarizacija"
+      acc: "madjarizacijų"
+      gen: "madjarizacije"
+      loc: "madjarizaciji"
+      dat: "madjarizaciji"
+      ins: "madjarizacijejų"
+      voc: "madjarizacijo"
+    plural: 
+      nom: "madjarizacije"
+      acc: "madjarizacije"
+      gen: "madjarizacij"
+      loc: "madjarizacijah"
+      dat: "madjarizacijam"
+      ins: "madjarizacijami"
+      voc: "madjarizacije"

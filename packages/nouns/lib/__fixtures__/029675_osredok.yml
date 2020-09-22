@@ -1,0 +1,22 @@
+---
+  id: "29675"
+  word: "osrědȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "osrědȯk"
+      acc: "osrědȯk"
+      gen: "osrědka"
+      loc: "osrědku"
+      dat: "osrědku"
+      ins: "osrědkom"
+      voc: "osrědče"
+    plural: 
+      nom: "osrědky"
+      acc: "osrědky"
+      gen: "osrědkov"
+      loc: "osrědkah"
+      dat: "osrědkam"
+      ins: "osrědkami"
+      voc: "osrědky"

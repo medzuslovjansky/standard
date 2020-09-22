@@ -1,0 +1,15 @@
+---
+  id: "22545"
+  word: "vodorod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vodorod"
+      acc: "vodorod"
+      gen: "vodoroda"
+      loc: "vodorodu"
+      dat: "vodorodu"
+      ins: "vodorodom"
+      voc: "vodorode"

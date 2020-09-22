@@ -1,0 +1,22 @@
+---
+  id: "36781"
+  word: "bljuvotina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bljuvotina"
+      acc: "bljuvotinų"
+      gen: "bljuvotiny"
+      loc: "bljuvotině"
+      dat: "bljuvotině"
+      ins: "bljuvotinojų"
+      voc: "bljuvotino"
+    plural: 
+      nom: "bljuvotiny"
+      acc: "bljuvotiny"
+      gen: "bljuvotin"
+      loc: "bljuvotinah"
+      dat: "bljuvotinam"
+      ins: "bljuvotinami"
+      voc: "bljuvotiny"

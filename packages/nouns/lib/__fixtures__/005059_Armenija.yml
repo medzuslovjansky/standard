@@ -1,0 +1,15 @@
+---
+  id: "5059"
+  word: "Armenija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Armenija"
+      acc: "Armenijų"
+      gen: "Armenije"
+      loc: "Armeniji"
+      dat: "Armeniji"
+      ins: "Armenijejų"
+      voc: "Armenijo"

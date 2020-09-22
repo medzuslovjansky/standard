@@ -1,0 +1,15 @@
+---
+  id: "35906"
+  word: "dekolonizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dekolonizacija"
+      acc: "dekolonizacijų"
+      gen: "dekolonizacije"
+      loc: "dekolonizaciji"
+      dat: "dekolonizaciji"
+      ins: "dekolonizacijejų"
+      voc: "dekolonizacijo"

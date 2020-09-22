@@ -1,0 +1,22 @@
+---
+  id: "31032"
+  word: "vat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vat"
+      acc: "vat"
+      gen: "vata"
+      loc: "vatu"
+      dat: "vatu"
+      ins: "vatom"
+      voc: "vate"
+    plural: 
+      nom: "vaty"
+      acc: "vaty"
+      gen: "vatov"
+      loc: "vatah"
+      dat: "vatam"
+      ins: "vatami"
+      voc: "vaty"

@@ -1,0 +1,22 @@
+---
+  id: "1185"
+  word: "parlament"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parlament"
+      acc: "parlament"
+      gen: "parlamenta"
+      loc: "parlamentu"
+      dat: "parlamentu"
+      ins: "parlamentom"
+      voc: "parlamente"
+    plural: 
+      nom: "parlamenty"
+      acc: "parlamenty"
+      gen: "parlamentov"
+      loc: "parlamentah"
+      dat: "parlamentam"
+      ins: "parlamentami"
+      voc: "parlamenty"

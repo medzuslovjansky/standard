@@ -1,0 +1,22 @@
+---
+  id: "3137"
+  word: "svět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svět"
+      acc: "svět"
+      gen: "světa"
+      loc: "světu"
+      dat: "světu"
+      ins: "světom"
+      voc: "světe"
+    plural: 
+      nom: "světy"
+      acc: "světy"
+      gen: "světov"
+      loc: "světah"
+      dat: "světam"
+      ins: "světami"
+      voc: "světy"

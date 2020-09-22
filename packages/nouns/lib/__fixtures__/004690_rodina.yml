@@ -1,0 +1,22 @@
+---
+  id: "4690"
+  word: "rodina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rodina"
+      acc: "rodinų"
+      gen: "rodiny"
+      loc: "rodině"
+      dat: "rodině"
+      ins: "rodinojų"
+      voc: "rodino"
+    plural: 
+      nom: "rodiny"
+      acc: "rodiny"
+      gen: "rodin"
+      loc: "rodinah"
+      dat: "rodinam"
+      ins: "rodinami"
+      voc: "rodiny"

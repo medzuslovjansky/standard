@@ -1,0 +1,22 @@
+---
+  id: "25575"
+  word: "garderoba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "garderoba"
+      acc: "garderobų"
+      gen: "garderoby"
+      loc: "garderobě"
+      dat: "garderobě"
+      ins: "garderobojų"
+      voc: "garderobo"
+    plural: 
+      nom: "garderoby"
+      acc: "garderoby"
+      gen: "garderob"
+      loc: "garderobah"
+      dat: "garderobam"
+      ins: "garderobami"
+      voc: "garderoby"

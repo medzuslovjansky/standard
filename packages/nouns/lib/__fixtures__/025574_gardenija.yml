@@ -1,0 +1,22 @@
+---
+  id: "25574"
+  word: "gardenija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gardenija"
+      acc: "gardenijų"
+      gen: "gardenije"
+      loc: "gardeniji"
+      dat: "gardeniji"
+      ins: "gardenijejų"
+      voc: "gardenijo"
+    plural: 
+      nom: "gardenije"
+      acc: "gardenije"
+      gen: "gardenij"
+      loc: "gardenijah"
+      dat: "gardenijam"
+      ins: "gardenijami"
+      voc: "gardenije"

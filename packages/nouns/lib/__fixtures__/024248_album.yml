@@ -1,0 +1,22 @@
+---
+  id: "24248"
+  word: "album"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "album"
+      acc: "album"
+      gen: "albuma"
+      loc: "albumu"
+      dat: "albumu"
+      ins: "albumom"
+      voc: "album"
+    plural: 
+      nom: "albuma"
+      acc: "albuma"
+      gen: "album"
+      loc: "albumah"
+      dat: "albumam"
+      ins: "albumami"
+      voc: "albuma"

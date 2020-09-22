@@ -1,0 +1,22 @@
+---
+  id: "1416"
+  word: "strahovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "strahovańje"
+      acc: "strahovańje"
+      gen: "strahovańja"
+      loc: "strahovańju"
+      dat: "strahovańju"
+      ins: "strahovańjem"
+      voc: "strahovańje"
+    plural: 
+      nom: "strahovańja"
+      acc: "strahovańja"
+      gen: "strahovanij"
+      loc: "strahovańjah"
+      dat: "strahovańjam"
+      ins: "strahovańjami"
+      voc: "strahovańja"

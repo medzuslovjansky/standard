@@ -1,0 +1,22 @@
+---
+  id: "35786"
+  word: "aktivitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aktivitet"
+      acc: "aktivitet"
+      gen: "aktiviteta"
+      loc: "aktivitetu"
+      dat: "aktivitetu"
+      ins: "aktivitetom"
+      voc: "aktivitete"
+    plural: 
+      nom: "aktivitety"
+      acc: "aktivitety"
+      gen: "aktivitetov"
+      loc: "aktivitetah"
+      dat: "aktivitetam"
+      ins: "aktivitetami"
+      voc: "aktivitety"

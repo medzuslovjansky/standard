@@ -1,0 +1,23 @@
+---
+  id: "1061"
+  word: "student"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "student"
+      acc: "studenta"
+      gen: "studenta"
+      loc: "studentu"
+      dat: "studentu"
+      ins: "studentom"
+      voc: "studente"
+    plural: 
+      nom: "studenti"
+      acc: "studentov"
+      gen: "studentov"
+      loc: "studentah"
+      dat: "studentam"
+      ins: "studentami"
+      voc: "studenti"

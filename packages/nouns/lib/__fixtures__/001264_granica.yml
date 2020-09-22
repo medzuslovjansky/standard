@@ -1,0 +1,22 @@
+---
+  id: "1264"
+  word: "granica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "granica"
+      acc: "granicų"
+      gen: "granice"
+      loc: "granici"
+      dat: "granici"
+      ins: "granicejų"
+      voc: "granico"
+    plural: 
+      nom: "granice"
+      acc: "granice"
+      gen: "granic"
+      loc: "granicah"
+      dat: "granicam"
+      ins: "granicami"
+      voc: "granice"

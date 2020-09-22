@@ -1,0 +1,22 @@
+---
+  id: "35932"
+  word: "panaceja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "panaceja"
+      acc: "panacejų"
+      gen: "panaceje"
+      loc: "panaceji"
+      dat: "panaceji"
+      ins: "panacejejų"
+      voc: "panacejo"
+    plural: 
+      nom: "panaceje"
+      acc: "panaceje"
+      gen: "panacej"
+      loc: "panacejah"
+      dat: "panacejam"
+      ins: "panacejami"
+      voc: "panaceje"

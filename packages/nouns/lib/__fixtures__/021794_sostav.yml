@@ -1,0 +1,22 @@
+---
+  id: "21794"
+  word: "sȯstav"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sȯstav"
+      acc: "sȯstav"
+      gen: "sȯstava"
+      loc: "sȯstavu"
+      dat: "sȯstavu"
+      ins: "sȯstavom"
+      voc: "sȯstave"
+    plural: 
+      nom: "sȯstavy"
+      acc: "sȯstavy"
+      gen: "sȯstavov"
+      loc: "sȯstavah"
+      dat: "sȯstavam"
+      ins: "sȯstavami"
+      voc: "sȯstavy"

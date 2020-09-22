@@ -1,0 +1,22 @@
+---
+  id: "22925"
+  word: "vȯzzvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯzzvańje"
+      acc: "vȯzzvańje"
+      gen: "vȯzzvańja"
+      loc: "vȯzzvańju"
+      dat: "vȯzzvańju"
+      ins: "vȯzzvańjem"
+      voc: "vȯzzvańje"
+    plural: 
+      nom: "vȯzzvańja"
+      acc: "vȯzzvańja"
+      gen: "vȯzzvanij"
+      loc: "vȯzzvańjah"
+      dat: "vȯzzvańjam"
+      ins: "vȯzzvańjami"
+      voc: "vȯzzvańja"

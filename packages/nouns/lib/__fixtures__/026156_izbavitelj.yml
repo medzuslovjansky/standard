@@ -1,0 +1,23 @@
+---
+  id: "26156"
+  word: "izbavitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izbavitelj"
+      acc: "izbavitelja"
+      gen: "izbavitelja"
+      loc: "izbavitelju"
+      dat: "izbavitelju"
+      ins: "izbaviteljem"
+      voc: "izbavitelju"
+    plural: 
+      nom: "izbavitelji"
+      acc: "izbaviteljev"
+      gen: "izbaviteljev"
+      loc: "izbaviteljah"
+      dat: "izbaviteljam"
+      ins: "izbaviteljami"
+      voc: "izbavitelji"

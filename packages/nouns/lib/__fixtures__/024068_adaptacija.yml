@@ -1,0 +1,22 @@
+---
+  id: "24068"
+  word: "adaptacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "adaptacija"
+      acc: "adaptacijų"
+      gen: "adaptacije"
+      loc: "adaptaciji"
+      dat: "adaptaciji"
+      ins: "adaptacijejų"
+      voc: "adaptacijo"
+    plural: 
+      nom: "adaptacije"
+      acc: "adaptacije"
+      gen: "adaptacij"
+      loc: "adaptacijah"
+      dat: "adaptacijam"
+      ins: "adaptacijami"
+      voc: "adaptacije"

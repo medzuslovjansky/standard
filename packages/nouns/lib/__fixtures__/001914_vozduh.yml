@@ -1,0 +1,22 @@
+---
+  id: "1914"
+  word: "vȯzduh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzduh"
+      acc: "vȯzduh"
+      gen: "vȯzduha"
+      loc: "vȯzduhu"
+      dat: "vȯzduhu"
+      ins: "vȯzduhom"
+      voc: "vȯzduše"
+    plural: 
+      nom: "vȯzduhy"
+      acc: "vȯzduhy"
+      gen: "vȯzduhov"
+      loc: "vȯzduhah"
+      dat: "vȯzduham"
+      ins: "vȯzduhami"
+      voc: "vȯzduhy"

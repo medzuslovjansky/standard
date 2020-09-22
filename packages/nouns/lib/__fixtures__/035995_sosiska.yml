@@ -1,0 +1,22 @@
+---
+  id: "35995"
+  word: "sosiska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sosiska"
+      acc: "sosiskų"
+      gen: "sosisky"
+      loc: "sosiskě"
+      dat: "sosiskě"
+      ins: "sosiskojų"
+      voc: "sosisko"
+    plural: 
+      nom: "sosisky"
+      acc: "sosisky"
+      gen: "sosisȯk"
+      loc: "sosiskah"
+      dat: "sosiskam"
+      ins: "sosiskami"
+      voc: "sosisky"

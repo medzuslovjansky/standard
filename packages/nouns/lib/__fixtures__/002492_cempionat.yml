@@ -1,0 +1,22 @@
+---
+  id: "2492"
+  word: "čempionat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čempionat"
+      acc: "čempionat"
+      gen: "čempionata"
+      loc: "čempionatu"
+      dat: "čempionatu"
+      ins: "čempionatom"
+      voc: "čempionate"
+    plural: 
+      nom: "čempionaty"
+      acc: "čempionaty"
+      gen: "čempionatov"
+      loc: "čempionatah"
+      dat: "čempionatam"
+      ins: "čempionatami"
+      voc: "čempionaty"

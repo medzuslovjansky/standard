@@ -1,0 +1,22 @@
+---
+  id: "35822"
+  word: "Evropejka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Evropejka"
+      acc: "Evropejkų"
+      gen: "Evropejky"
+      loc: "Evropejkě"
+      dat: "Evropejkě"
+      ins: "Evropejkojų"
+      voc: "Evropejko"
+    plural: 
+      nom: "Evropejky"
+      acc: "Evropejky"
+      gen: "Evropejek"
+      loc: "Evropejkah"
+      dat: "Evropejkam"
+      ins: "Evropejkami"
+      voc: "Evropejky"

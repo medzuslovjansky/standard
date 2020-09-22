@@ -1,0 +1,15 @@
+---
+  id: "31312"
+  word: "volfram"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "volfram"
+      acc: "volfram"
+      gen: "volframa"
+      loc: "volframu"
+      dat: "volframu"
+      ins: "volframom"
+      voc: "volframe"

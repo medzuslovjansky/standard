@@ -1,0 +1,15 @@
+---
+  id: "26503"
+  word: "kypěńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kypěńje"
+      acc: "kypěńje"
+      gen: "kypěńja"
+      loc: "kypěńju"
+      dat: "kypěńju"
+      ins: "kypěńjem"
+      voc: "kypěńje"

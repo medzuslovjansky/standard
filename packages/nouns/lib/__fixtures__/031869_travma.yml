@@ -1,0 +1,22 @@
+---
+  id: "31869"
+  word: "travma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "travma"
+      acc: "travmų"
+      gen: "travmy"
+      loc: "travmě"
+      dat: "travmě"
+      ins: "travmojų"
+      voc: "travmo"
+    plural: 
+      nom: "travmy"
+      acc: "travmy"
+      gen: "travm"
+      loc: "travmah"
+      dat: "travmam"
+      ins: "travmami"
+      voc: "travmy"

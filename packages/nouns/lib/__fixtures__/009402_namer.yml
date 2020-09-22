@@ -1,0 +1,22 @@
+---
+  id: "9402"
+  word: "naměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naměr"
+      acc: "naměr"
+      gen: "naměra"
+      loc: "naměru"
+      dat: "naměru"
+      ins: "naměrom"
+      voc: "naměre"
+    plural: 
+      nom: "naměry"
+      acc: "naměry"
+      gen: "naměrov"
+      loc: "naměrah"
+      dat: "naměram"
+      ins: "naměrami"
+      voc: "naměry"

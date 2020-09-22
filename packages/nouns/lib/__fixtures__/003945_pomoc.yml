@@ -1,0 +1,22 @@
+---
+  id: "3945"
+  word: "pomoć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pomoć"
+      acc: "pomoć"
+      gen: "pomoći"
+      loc: "pomoći"
+      dat: "pomoći"
+      ins: "pomoćjų"
+      voc: "pomoći"
+    plural: 
+      nom: "pomoći"
+      acc: "pomoći"
+      gen: "pomoćij"
+      loc: "pomoćah"
+      dat: "pomoćam"
+      ins: "pomoćami"
+      voc: "pomoći"

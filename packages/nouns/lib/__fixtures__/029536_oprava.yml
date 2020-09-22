@@ -1,0 +1,22 @@
+---
+  id: "29536"
+  word: "oprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oprava"
+      acc: "opravų"
+      gen: "opravy"
+      loc: "opravě"
+      dat: "opravě"
+      ins: "opravojų"
+      voc: "opravo"
+    plural: 
+      nom: "opravy"
+      acc: "opravy"
+      gen: "oprav"
+      loc: "opravah"
+      dat: "opravam"
+      ins: "opravami"
+      voc: "opravy"

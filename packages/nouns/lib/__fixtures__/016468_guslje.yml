@@ -1,0 +1,15 @@
+---
+  id: "16468"
+  word: "gųslje"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "gųslje"
+      acc: "gųslje"
+      gen: "gųslj"
+      loc: "gųsljah"
+      dat: "gųsljam"
+      ins: "gųsljami"
+      voc: "gųslje"

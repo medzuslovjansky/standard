@@ -1,0 +1,22 @@
+---
+  id: "9459"
+  word: "naslědnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "naslědnica"
+      acc: "naslědnicų"
+      gen: "naslědnice"
+      loc: "naslědnici"
+      dat: "naslědnici"
+      ins: "naslědnicejų"
+      voc: "naslědnico"
+    plural: 
+      nom: "naslědnice"
+      acc: "naslědnice"
+      gen: "naslědnic"
+      loc: "naslědnicah"
+      dat: "naslědnicam"
+      ins: "naslědnicami"
+      voc: "naslědnice"

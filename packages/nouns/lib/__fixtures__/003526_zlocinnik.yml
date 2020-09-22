@@ -1,0 +1,23 @@
+---
+  id: "3526"
+  word: "zločinnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zločinnik"
+      acc: "zločinnika"
+      gen: "zločinnika"
+      loc: "zločinniku"
+      dat: "zločinniku"
+      ins: "zločinnikom"
+      voc: "zločinniče"
+    plural: 
+      nom: "zločinniki"
+      acc: "zločinnikov"
+      gen: "zločinnikov"
+      loc: "zločinnikah"
+      dat: "zločinnikam"
+      ins: "zločinnikami"
+      voc: "zločinniki"

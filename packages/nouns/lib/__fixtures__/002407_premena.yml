@@ -1,0 +1,22 @@
+---
+  id: "2407"
+  word: "prěměna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěměna"
+      acc: "prěměnų"
+      gen: "prěměny"
+      loc: "prěměně"
+      dat: "prěměně"
+      ins: "prěměnojų"
+      voc: "prěměno"
+    plural: 
+      nom: "prěměny"
+      acc: "prěměny"
+      gen: "prěměn"
+      loc: "prěměnah"
+      dat: "prěměnam"
+      ins: "prěměnami"
+      voc: "prěměny"

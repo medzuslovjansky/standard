@@ -1,0 +1,22 @@
+---
+  id: "35149"
+  word: "samodostatȯčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samodostatȯčnosť"
+      acc: "samodostatȯčnosť"
+      gen: "samodostatȯčnosti"
+      loc: "samodostatȯčnosti"
+      dat: "samodostatȯčnosti"
+      ins: "samodostatȯčnosťjų"
+      voc: "samodostatȯčnosti"
+    plural: 
+      nom: "samodostatȯčnosti"
+      acc: "samodostatȯčnosti"
+      gen: "samodostatȯčnostij"
+      loc: "samodostatȯčnosťah"
+      dat: "samodostatȯčnosťam"
+      ins: "samodostatȯčnosťami"
+      voc: "samodostatȯčnosti"

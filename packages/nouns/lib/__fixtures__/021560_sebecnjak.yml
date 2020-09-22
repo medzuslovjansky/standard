@@ -1,0 +1,23 @@
+---
+  id: "21560"
+  word: "seběčnjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "seběčnjak"
+      acc: "seběčnjaka"
+      gen: "seběčnjaka"
+      loc: "seběčnjaku"
+      dat: "seběčnjaku"
+      ins: "seběčnjakom"
+      voc: "seběčnjače"
+    plural: 
+      nom: "seběčnjaki"
+      acc: "seběčnjakov"
+      gen: "seběčnjakov"
+      loc: "seběčnjakah"
+      dat: "seběčnjakam"
+      ins: "seběčnjakami"
+      voc: "seběčnjaki"

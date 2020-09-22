@@ -1,0 +1,22 @@
+---
+  id: "35518"
+  word: "sektor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sektor"
+      acc: "sektor"
+      gen: "sektora"
+      loc: "sektoru"
+      dat: "sektoru"
+      ins: "sektorom"
+      voc: "sektore"
+    plural: 
+      nom: "sektory"
+      acc: "sektory"
+      gen: "sektorov"
+      loc: "sektorah"
+      dat: "sektoram"
+      ins: "sektorami"
+      voc: "sektory"

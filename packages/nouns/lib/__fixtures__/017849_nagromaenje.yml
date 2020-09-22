@@ -1,0 +1,22 @@
+---
+  id: "17849"
+  word: "nagromađeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nagromađeńje"
+      acc: "nagromađeńje"
+      gen: "nagromađeńja"
+      loc: "nagromađeńju"
+      dat: "nagromađeńju"
+      ins: "nagromađeńjem"
+      voc: "nagromađeńje"
+    plural: 
+      nom: "nagromađeńja"
+      acc: "nagromađeńja"
+      gen: "nagromađenij"
+      loc: "nagromađeńjah"
+      dat: "nagromađeńjam"
+      ins: "nagromađeńjami"
+      voc: "nagromađeńja"

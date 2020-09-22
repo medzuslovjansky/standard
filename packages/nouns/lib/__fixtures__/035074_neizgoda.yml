@@ -1,0 +1,22 @@
+---
+  id: "35074"
+  word: "neizgoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neizgoda"
+      acc: "neizgodų"
+      gen: "neizgody"
+      loc: "neizgodě"
+      dat: "neizgodě"
+      ins: "neizgodojų"
+      voc: "neizgodo"
+    plural: 
+      nom: "neizgody"
+      acc: "neizgody"
+      gen: "neizgod"
+      loc: "neizgodah"
+      dat: "neizgodam"
+      ins: "neizgodami"
+      voc: "neizgody"

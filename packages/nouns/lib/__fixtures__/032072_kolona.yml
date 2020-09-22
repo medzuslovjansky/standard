@@ -1,0 +1,22 @@
+---
+  id: "32072"
+  word: "kolona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolona"
+      acc: "kolonų"
+      gen: "kolony"
+      loc: "koloně"
+      dat: "koloně"
+      ins: "kolonojų"
+      voc: "kolono"
+    plural: 
+      nom: "kolony"
+      acc: "kolony"
+      gen: "kolon"
+      loc: "kolonah"
+      dat: "kolonam"
+      ins: "kolonami"
+      voc: "kolony"

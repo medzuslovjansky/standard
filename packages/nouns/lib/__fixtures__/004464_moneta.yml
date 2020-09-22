@@ -1,0 +1,22 @@
+---
+  id: "4464"
+  word: "moneta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "moneta"
+      acc: "monetų"
+      gen: "monety"
+      loc: "monetě"
+      dat: "monetě"
+      ins: "monetojų"
+      voc: "moneto"
+    plural: 
+      nom: "monety"
+      acc: "monety"
+      gen: "monet"
+      loc: "monetah"
+      dat: "monetam"
+      ins: "monetami"
+      voc: "monety"

@@ -1,0 +1,22 @@
+---
+  id: "22285"
+  word: "veličstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "veličstvo"
+      acc: "veličstvo"
+      gen: "veličstva"
+      loc: "veličstvu"
+      dat: "veličstvu"
+      ins: "veličstvom"
+      voc: "veličstvo"
+    plural: 
+      nom: "veličstva"
+      acc: "veličstva"
+      gen: "veličstv"
+      loc: "veličstvah"
+      dat: "veličstvam"
+      ins: "veličstvami"
+      voc: "veličstva"

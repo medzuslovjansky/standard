@@ -1,0 +1,22 @@
+---
+  id: "31394"
+  word: "vualj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vualj"
+      acc: "vualj"
+      gen: "vualji"
+      loc: "vualji"
+      dat: "vualji"
+      ins: "vualjjų"
+      voc: "vualji"
+    plural: 
+      nom: "vualji"
+      acc: "vualji"
+      gen: "vualjij"
+      loc: "vualjah"
+      dat: "vualjam"
+      ins: "vualjami"
+      voc: "vualji"

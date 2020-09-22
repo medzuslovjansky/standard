@@ -1,0 +1,22 @@
+---
+  id: "2110"
+  word: "teniska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "teniska"
+      acc: "teniskų"
+      gen: "tenisky"
+      loc: "teniskě"
+      dat: "teniskě"
+      ins: "teniskojų"
+      voc: "tenisko"
+    plural: 
+      nom: "tenisky"
+      acc: "tenisky"
+      gen: "tenisȯk"
+      loc: "teniskah"
+      dat: "teniskam"
+      ins: "teniskami"
+      voc: "tenisky"

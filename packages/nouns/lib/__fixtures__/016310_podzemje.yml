@@ -1,0 +1,22 @@
+---
+  id: "16310"
+  word: "podzemje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podzemje"
+      acc: "podzemje"
+      gen: "podzemja"
+      loc: "podzemju"
+      dat: "podzemju"
+      ins: "podzemjem"
+      voc: "podzemje"
+    plural: 
+      nom: "podzemja"
+      acc: "podzemja"
+      gen: "podzemij"
+      loc: "podzemjah"
+      dat: "podzemjam"
+      ins: "podzemjami"
+      voc: "podzemja"

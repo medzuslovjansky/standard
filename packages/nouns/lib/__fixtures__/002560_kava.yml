@@ -1,0 +1,22 @@
+---
+  id: "2560"
+  word: "kava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kava"
+      acc: "kavų"
+      gen: "kavy"
+      loc: "kavě"
+      dat: "kavě"
+      ins: "kavojų"
+      voc: "kavo"
+    plural: 
+      nom: "kavy"
+      acc: "kavy"
+      gen: "kav"
+      loc: "kavah"
+      dat: "kavam"
+      ins: "kavami"
+      voc: "kavy"

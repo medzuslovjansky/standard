@@ -1,0 +1,22 @@
+---
+  id: "17657"
+  word: "klętva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klętva"
+      acc: "klętvų"
+      gen: "klętvy"
+      loc: "klętvě"
+      dat: "klętvě"
+      ins: "klętvojų"
+      voc: "klętvo"
+    plural: 
+      nom: "klętvy"
+      acc: "klętvy"
+      gen: "klętv"
+      loc: "klętvah"
+      dat: "klętvam"
+      ins: "klętvami"
+      voc: "klętvy"

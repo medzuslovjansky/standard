@@ -1,0 +1,22 @@
+---
+  id: "16954"
+  word: "kombinacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kombinacija"
+      acc: "kombinacijų"
+      gen: "kombinacije"
+      loc: "kombinaciji"
+      dat: "kombinaciji"
+      ins: "kombinacijejų"
+      voc: "kombinacijo"
+    plural: 
+      nom: "kombinacije"
+      acc: "kombinacije"
+      gen: "kombinacij"
+      loc: "kombinacijah"
+      dat: "kombinacijam"
+      ins: "kombinacijami"
+      voc: "kombinacije"

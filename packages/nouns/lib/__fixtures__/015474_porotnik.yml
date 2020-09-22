@@ -1,0 +1,23 @@
+---
+  id: "15474"
+  word: "porotnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "porotnik"
+      acc: "porotnika"
+      gen: "porotnika"
+      loc: "porotniku"
+      dat: "porotniku"
+      ins: "porotnikom"
+      voc: "porotniče"
+    plural: 
+      nom: "porotniki"
+      acc: "porotnikov"
+      gen: "porotnikov"
+      loc: "porotnikah"
+      dat: "porotnikam"
+      ins: "porotnikami"
+      voc: "porotniki"

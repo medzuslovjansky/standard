@@ -1,0 +1,23 @@
+---
+  id: "10768"
+  word: "podslušivatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "podslušivatelj"
+      acc: "podslušivatelja"
+      gen: "podslušivatelja"
+      loc: "podslušivatelju"
+      dat: "podslušivatelju"
+      ins: "podslušivateljem"
+      voc: "podslušivatelju"
+    plural: 
+      nom: "podslušivatelji"
+      acc: "podslušivateljev"
+      gen: "podslušivateljev"
+      loc: "podslušivateljah"
+      dat: "podslušivateljam"
+      ins: "podslušivateljami"
+      voc: "podslušivatelji"

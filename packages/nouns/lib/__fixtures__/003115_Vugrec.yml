@@ -1,0 +1,23 @@
+---
+  id: "3115"
+  word: "Vųgrec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Vųgrec"
+      acc: "Vųgreca"
+      gen: "Vųgreca"
+      loc: "Vųgrecu"
+      dat: "Vųgrecu"
+      ins: "Vųgrecem"
+      voc: "Vųgreče"
+    plural: 
+      nom: "Vųgreci"
+      acc: "Vųgrecev"
+      gen: "Vųgrecev"
+      loc: "Vųgrecah"
+      dat: "Vųgrecam"
+      ins: "Vųgrecami"
+      voc: "Vųgreci"

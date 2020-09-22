@@ -1,0 +1,23 @@
+---
+  id: "4325"
+  word: "daritelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "daritelj"
+      acc: "daritelja"
+      gen: "daritelja"
+      loc: "daritelju"
+      dat: "daritelju"
+      ins: "dariteljem"
+      voc: "daritelju"
+    plural: 
+      nom: "daritelji"
+      acc: "dariteljev"
+      gen: "dariteljev"
+      loc: "dariteljah"
+      dat: "dariteljam"
+      ins: "dariteljami"
+      voc: "daritelji"

@@ -1,0 +1,15 @@
+---
+  id: "34443"
+  word: "marcipan"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "marcipan"
+      acc: "marcipan"
+      gen: "marcipana"
+      loc: "marcipanu"
+      dat: "marcipanu"
+      ins: "marcipanom"
+      voc: "marcipane"

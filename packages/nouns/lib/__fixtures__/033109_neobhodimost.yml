@@ -1,0 +1,22 @@
+---
+  id: "33109"
+  word: "neobhodimosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neobhodimosť"
+      acc: "neobhodimosť"
+      gen: "neobhodimosti"
+      loc: "neobhodimosti"
+      dat: "neobhodimosti"
+      ins: "neobhodimosťjų"
+      voc: "neobhodimosti"
+    plural: 
+      nom: "neobhodimosti"
+      acc: "neobhodimosti"
+      gen: "neobhodimostij"
+      loc: "neobhodimosťah"
+      dat: "neobhodimosťam"
+      ins: "neobhodimosťami"
+      voc: "neobhodimosti"

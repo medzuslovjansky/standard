@@ -1,0 +1,22 @@
+---
+  id: "28867"
+  word: "obraćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obraćańje"
+      acc: "obraćańje"
+      gen: "obraćańja"
+      loc: "obraćańju"
+      dat: "obraćańju"
+      ins: "obraćańjem"
+      voc: "obraćańje"
+    plural: 
+      nom: "obraćańja"
+      acc: "obraćańja"
+      gen: "obraćanij"
+      loc: "obraćańjah"
+      dat: "obraćańjam"
+      ins: "obraćańjami"
+      voc: "obraćańja"

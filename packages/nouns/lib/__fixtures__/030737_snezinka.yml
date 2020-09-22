@@ -1,0 +1,22 @@
+---
+  id: "30737"
+  word: "sněžinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sněžinka"
+      acc: "sněžinkų"
+      gen: "sněžinky"
+      loc: "sněžinkě"
+      dat: "sněžinkě"
+      ins: "sněžinkojų"
+      voc: "sněžinko"
+    plural: 
+      nom: "sněžinky"
+      acc: "sněžinky"
+      gen: "sněžinȯk"
+      loc: "sněžinkah"
+      dat: "sněžinkam"
+      ins: "sněžinkami"
+      voc: "sněžinky"

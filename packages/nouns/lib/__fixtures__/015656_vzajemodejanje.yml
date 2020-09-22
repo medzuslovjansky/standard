@@ -1,0 +1,22 @@
+---
+  id: "15656"
+  word: "vzajemodějańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vzajemodějańje"
+      acc: "vzajemodějańje"
+      gen: "vzajemodějańja"
+      loc: "vzajemodějańju"
+      dat: "vzajemodějańju"
+      ins: "vzajemodějańjem"
+      voc: "vzajemodějańje"
+    plural: 
+      nom: "vzajemodějańja"
+      acc: "vzajemodějańja"
+      gen: "vzajemodějanij"
+      loc: "vzajemodějańjah"
+      dat: "vzajemodějańjam"
+      ins: "vzajemodějańjami"
+      voc: "vzajemodějańja"

@@ -1,0 +1,22 @@
+---
+  id: "12664"
+  word: "strěteńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "strěteńje"
+      acc: "strěteńje"
+      gen: "strěteńja"
+      loc: "strěteńju"
+      dat: "strěteńju"
+      ins: "strěteńjem"
+      voc: "strěteńje"
+    plural: 
+      nom: "strěteńja"
+      acc: "strěteńja"
+      gen: "strětenij"
+      loc: "strěteńjah"
+      dat: "strěteńjam"
+      ins: "strěteńjami"
+      voc: "strěteńja"

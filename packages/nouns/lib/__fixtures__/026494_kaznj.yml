@@ -1,0 +1,22 @@
+---
+  id: "26494"
+  word: "kaznj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaznj"
+      acc: "kaznj"
+      gen: "kaznji"
+      loc: "kaznji"
+      dat: "kaznji"
+      ins: "kaznjjų"
+      voc: "kaznji"
+    plural: 
+      nom: "kaznji"
+      acc: "kaznji"
+      gen: "kaznjij"
+      loc: "kaznjah"
+      dat: "kaznjam"
+      ins: "kaznjami"
+      voc: "kaznji"

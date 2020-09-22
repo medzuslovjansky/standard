@@ -1,0 +1,22 @@
+---
+  id: "19920"
+  word: "objektiv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "objektiv"
+      acc: "objektiv"
+      gen: "objektiva"
+      loc: "objektivu"
+      dat: "objektivu"
+      ins: "objektivom"
+      voc: "objektive"
+    plural: 
+      nom: "objektivy"
+      acc: "objektivy"
+      gen: "objektivov"
+      loc: "objektivah"
+      dat: "objektivam"
+      ins: "objektivami"
+      voc: "objektivy"

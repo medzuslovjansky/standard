@@ -1,0 +1,22 @@
+---
+  id: "31618"
+  word: "zenit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zenit"
+      acc: "zenit"
+      gen: "zenita"
+      loc: "zenitu"
+      dat: "zenitu"
+      ins: "zenitom"
+      voc: "zenite"
+    plural: 
+      nom: "zenity"
+      acc: "zenity"
+      gen: "zenitov"
+      loc: "zenitah"
+      dat: "zenitam"
+      ins: "zenitami"
+      voc: "zenity"

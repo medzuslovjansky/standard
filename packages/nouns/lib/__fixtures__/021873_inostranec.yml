@@ -1,0 +1,23 @@
+---
+  id: "21873"
+  word: "inostrånec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "inostrånec"
+      acc: "inostrånca"
+      gen: "inostrånca"
+      loc: "inostråncu"
+      dat: "inostråncu"
+      ins: "inostråncem"
+      voc: "inostrånče"
+    plural: 
+      nom: "inostrånci"
+      acc: "inostråncev"
+      gen: "inostråncev"
+      loc: "inostråncah"
+      dat: "inostråncam"
+      ins: "inostråncami"
+      voc: "inostrånci"

@@ -1,0 +1,22 @@
+---
+  id: "20133"
+  word: "ritm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ritm"
+      acc: "ritm"
+      gen: "ritma"
+      loc: "ritmu"
+      dat: "ritmu"
+      ins: "ritmom"
+      voc: "ritme"
+    plural: 
+      nom: "ritmy"
+      acc: "ritmy"
+      gen: "ritmov"
+      loc: "ritmah"
+      dat: "ritmam"
+      ins: "ritmami"
+      voc: "ritmy"

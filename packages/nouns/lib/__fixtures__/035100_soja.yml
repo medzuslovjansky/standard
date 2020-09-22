@@ -1,0 +1,22 @@
+---
+  id: "35100"
+  word: "soja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "soja"
+      acc: "sojų"
+      gen: "soje"
+      loc: "soji"
+      dat: "soji"
+      ins: "sojejų"
+      voc: "sojo"
+    plural: 
+      nom: "soje"
+      acc: "soje"
+      gen: "soj"
+      loc: "sojah"
+      dat: "sojam"
+      ins: "sojami"
+      voc: "soje"

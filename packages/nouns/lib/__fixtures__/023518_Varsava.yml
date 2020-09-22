@@ -1,0 +1,15 @@
+---
+  id: "23518"
+  word: "Varšava"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Varšava"
+      acc: "Varšavų"
+      gen: "Varšavy"
+      loc: "Varšavě"
+      dat: "Varšavě"
+      ins: "Varšavojų"
+      voc: "Varšavo"

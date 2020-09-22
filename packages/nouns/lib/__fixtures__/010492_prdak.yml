@@ -1,0 +1,22 @@
+---
+  id: "10492"
+  word: "pŕdak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕdak"
+      acc: "pŕdak"
+      gen: "pŕdaka"
+      loc: "pŕdaku"
+      dat: "pŕdaku"
+      ins: "pŕdakom"
+      voc: "pŕdače"
+    plural: 
+      nom: "pŕdaky"
+      acc: "pŕdaky"
+      gen: "pŕdakov"
+      loc: "pŕdakah"
+      dat: "pŕdakam"
+      ins: "pŕdakami"
+      voc: "pŕdaky"

@@ -1,0 +1,22 @@
+---
+  id: "695"
+  word: "vitęzstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vitęzstvo"
+      acc: "vitęzstvo"
+      gen: "vitęzstva"
+      loc: "vitęzstvu"
+      dat: "vitęzstvu"
+      ins: "vitęzstvom"
+      voc: "vitęzstvo"
+    plural: 
+      nom: "vitęzstva"
+      acc: "vitęzstva"
+      gen: "vitęzstv"
+      loc: "vitęzstvah"
+      dat: "vitęzstvam"
+      ins: "vitęzstvami"
+      voc: "vitęzstva"

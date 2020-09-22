@@ -1,0 +1,23 @@
+---
+  id: "1504"
+  word: "Ilir"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Ilir"
+      acc: "Ilira"
+      gen: "Ilira"
+      loc: "Iliru"
+      dat: "Iliru"
+      ins: "Ilirom"
+      voc: "Ilire"
+    plural: 
+      nom: "Iliri"
+      acc: "Ilirov"
+      gen: "Ilirov"
+      loc: "Ilirah"
+      dat: "Iliram"
+      ins: "Ilirami"
+      voc: "Iliri"

@@ -1,0 +1,22 @@
+---
+  id: "14777"
+  word: "odhođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odhođeńje"
+      acc: "odhođeńje"
+      gen: "odhođeńja"
+      loc: "odhođeńju"
+      dat: "odhođeńju"
+      ins: "odhođeńjem"
+      voc: "odhođeńje"
+    plural: 
+      nom: "odhođeńja"
+      acc: "odhođeńja"
+      gen: "odhođenij"
+      loc: "odhođeńjah"
+      dat: "odhođeńjam"
+      ins: "odhođeńjami"
+      voc: "odhođeńja"

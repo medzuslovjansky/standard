@@ -1,0 +1,22 @@
+---
+  id: "15472"
+  word: "porotnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "porotnica"
+      acc: "porotnicų"
+      gen: "porotnice"
+      loc: "porotnici"
+      dat: "porotnici"
+      ins: "porotnicejų"
+      voc: "porotnico"
+    plural: 
+      nom: "porotnice"
+      acc: "porotnice"
+      gen: "porotnic"
+      loc: "porotnicah"
+      dat: "porotnicam"
+      ins: "porotnicami"
+      voc: "porotnice"

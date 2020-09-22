@@ -1,0 +1,22 @@
+---
+  id: "18438"
+  word: "prěstųpańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěstųpańje"
+      acc: "prěstųpańje"
+      gen: "prěstųpańja"
+      loc: "prěstųpańju"
+      dat: "prěstųpańju"
+      ins: "prěstųpańjem"
+      voc: "prěstųpańje"
+    plural: 
+      nom: "prěstųpańja"
+      acc: "prěstųpańja"
+      gen: "prěstųpanij"
+      loc: "prěstųpańjah"
+      dat: "prěstųpańjam"
+      ins: "prěstųpańjami"
+      voc: "prěstųpańja"

@@ -1,0 +1,22 @@
+---
+  id: "35346"
+  word: "rusifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rusifikacija"
+      acc: "rusifikacijų"
+      gen: "rusifikacije"
+      loc: "rusifikaciji"
+      dat: "rusifikaciji"
+      ins: "rusifikacijejų"
+      voc: "rusifikacijo"
+    plural: 
+      nom: "rusifikacije"
+      acc: "rusifikacije"
+      gen: "rusifikacij"
+      loc: "rusifikacijah"
+      dat: "rusifikacijam"
+      ins: "rusifikacijami"
+      voc: "rusifikacije"

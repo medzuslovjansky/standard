@@ -1,0 +1,22 @@
+---
+  id: "26759"
+  word: "kotę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kotę"
+      acc: "kotę"
+      gen: "kotęte / kotęta"
+      loc: "kotęti / kotętu"
+      dat: "kotęti / kotętu"
+      ins: "kotętem / kotętom"
+      voc: "kotę"
+    plural: 
+      nom: "kotęta"
+      acc: "kotęta"
+      gen: "kotęt"
+      loc: "kotętah"
+      dat: "kotętam"
+      ins: "kotętami"
+      voc: "kotęta"

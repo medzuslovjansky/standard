@@ -1,0 +1,22 @@
+---
+  id: "35031"
+  word: "gostinnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gostinnosť"
+      acc: "gostinnosť"
+      gen: "gostinnosti"
+      loc: "gostinnosti"
+      dat: "gostinnosti"
+      ins: "gostinnosťjų"
+      voc: "gostinnosti"
+    plural: 
+      nom: "gostinnosti"
+      acc: "gostinnosti"
+      gen: "gostinnostij"
+      loc: "gostinnosťah"
+      dat: "gostinnosťam"
+      ins: "gostinnosťami"
+      voc: "gostinnosti"

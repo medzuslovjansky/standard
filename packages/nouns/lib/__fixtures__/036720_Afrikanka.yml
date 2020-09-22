@@ -1,0 +1,22 @@
+---
+  id: "36720"
+  word: "Afrikanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Afrikanka"
+      acc: "Afrikankų"
+      gen: "Afrikanky"
+      loc: "Afrikankě"
+      dat: "Afrikankě"
+      ins: "Afrikankojų"
+      voc: "Afrikanko"
+    plural: 
+      nom: "Afrikanky"
+      acc: "Afrikanky"
+      gen: "Afrikanȯk"
+      loc: "Afrikankah"
+      dat: "Afrikankam"
+      ins: "Afrikankami"
+      voc: "Afrikanky"

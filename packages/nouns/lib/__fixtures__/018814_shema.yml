@@ -1,0 +1,22 @@
+---
+  id: "18814"
+  word: "shema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "shema"
+      acc: "shemų"
+      gen: "shemy"
+      loc: "shemě"
+      dat: "shemě"
+      ins: "shemojų"
+      voc: "shemo"
+    plural: 
+      nom: "shemy"
+      acc: "shemy"
+      gen: "shem"
+      loc: "shemah"
+      dat: "shemam"
+      ins: "shemami"
+      voc: "shemy"

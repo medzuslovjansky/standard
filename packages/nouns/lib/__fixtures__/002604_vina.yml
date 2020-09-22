@@ -1,0 +1,22 @@
+---
+  id: "2604"
+  word: "vina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vina"
+      acc: "vinų"
+      gen: "viny"
+      loc: "vině"
+      dat: "vině"
+      ins: "vinojų"
+      voc: "vino"
+    plural: 
+      nom: "viny"
+      acc: "viny"
+      gen: "vin"
+      loc: "vinah"
+      dat: "vinam"
+      ins: "vinami"
+      voc: "viny"

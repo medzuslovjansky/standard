@@ -1,0 +1,22 @@
+---
+  id: "32110"
+  word: "anamneza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anamneza"
+      acc: "anamnezų"
+      gen: "anamnezy"
+      loc: "anamnezě"
+      dat: "anamnezě"
+      ins: "anamnezojų"
+      voc: "anamnezo"
+    plural: 
+      nom: "anamnezy"
+      acc: "anamnezy"
+      gen: "anamnez"
+      loc: "anamnezah"
+      dat: "anamnezam"
+      ins: "anamnezami"
+      voc: "anamnezy"

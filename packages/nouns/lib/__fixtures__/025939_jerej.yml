@@ -1,0 +1,23 @@
+---
+  id: "25939"
+  word: "jerej"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jerej"
+      acc: "jereja"
+      gen: "jereja"
+      loc: "jereju"
+      dat: "jereju"
+      ins: "jerejem"
+      voc: "jereju"
+    plural: 
+      nom: "jereji"
+      acc: "jerejev"
+      gen: "jerejev"
+      loc: "jerejah"
+      dat: "jerejam"
+      ins: "jerejami"
+      voc: "jereji"

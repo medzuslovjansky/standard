@@ -1,0 +1,22 @@
+---
+  id: "13669"
+  word: "vladaŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vladaŕka"
+      acc: "vladaŕkų"
+      gen: "vladaŕky"
+      loc: "vladaŕkě"
+      dat: "vladaŕkě"
+      ins: "vladaŕkojų"
+      voc: "vladaŕko"
+    plural: 
+      nom: "vladaŕky"
+      acc: "vladaŕky"
+      gen: "vladaŕek"
+      loc: "vladaŕkah"
+      dat: "vladaŕkam"
+      ins: "vladaŕkami"
+      voc: "vladaŕky"

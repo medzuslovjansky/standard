@@ -1,0 +1,22 @@
+---
+  id: "8501"
+  word: "knęgynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "knęgynja"
+      acc: "knęgynjų"
+      gen: "knęgynje"
+      loc: "knęgynji"
+      dat: "knęgynji"
+      ins: "knęgynjejų"
+      voc: "knęgynjo"
+    plural: 
+      nom: "knęgynje"
+      acc: "knęgynje"
+      gen: "knęgynej"
+      loc: "knęgynjah"
+      dat: "knęgynjam"
+      ins: "knęgynjami"
+      voc: "knęgynje"

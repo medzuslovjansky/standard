@@ -1,0 +1,22 @@
+---
+  id: "16102"
+  word: "sinonim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sinonim"
+      acc: "sinonim"
+      gen: "sinonima"
+      loc: "sinonimu"
+      dat: "sinonimu"
+      ins: "sinonimom"
+      voc: "sinonime"
+    plural: 
+      nom: "sinonimy"
+      acc: "sinonimy"
+      gen: "sinonimov"
+      loc: "sinonimah"
+      dat: "sinonimam"
+      ins: "sinonimami"
+      voc: "sinonimy"

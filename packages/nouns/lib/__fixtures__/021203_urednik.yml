@@ -1,0 +1,23 @@
+---
+  id: "21203"
+  word: "urędnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "urędnik"
+      acc: "urędnika"
+      gen: "urędnika"
+      loc: "urędniku"
+      dat: "urędniku"
+      ins: "urędnikom"
+      voc: "urędniče"
+    plural: 
+      nom: "urędniki"
+      acc: "urędnikov"
+      gen: "urędnikov"
+      loc: "urędnikah"
+      dat: "urędnikam"
+      ins: "urędnikami"
+      voc: "urędniki"

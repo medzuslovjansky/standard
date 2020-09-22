@@ -1,0 +1,23 @@
+---
+  id: "24217"
+  word: "akvarelist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "akvarelist"
+      acc: "akvarelista"
+      gen: "akvarelista"
+      loc: "akvarelistu"
+      dat: "akvarelistu"
+      ins: "akvarelistom"
+      voc: "akvareliste"
+    plural: 
+      nom: "akvarelisti"
+      acc: "akvarelistov"
+      gen: "akvarelistov"
+      loc: "akvarelistah"
+      dat: "akvarelistam"
+      ins: "akvarelistami"
+      voc: "akvarelisti"

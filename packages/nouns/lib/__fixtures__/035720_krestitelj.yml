@@ -1,0 +1,23 @@
+---
+  id: "35720"
+  word: "krestitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "krestitelj"
+      acc: "krestitelja"
+      gen: "krestitelja"
+      loc: "krestitelju"
+      dat: "krestitelju"
+      ins: "krestiteljem"
+      voc: "krestitelju"
+    plural: 
+      nom: "krestitelji"
+      acc: "krestiteljev"
+      gen: "krestiteljev"
+      loc: "krestiteljah"
+      dat: "krestiteljam"
+      ins: "krestiteljami"
+      voc: "krestitelji"

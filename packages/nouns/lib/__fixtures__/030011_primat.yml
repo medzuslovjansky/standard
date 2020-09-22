@@ -1,0 +1,23 @@
+---
+  id: "30011"
+  word: "primat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "primat"
+      acc: "primata"
+      gen: "primata"
+      loc: "primatu"
+      dat: "primatu"
+      ins: "primatom"
+      voc: "primate"
+    plural: 
+      nom: "primati"
+      acc: "primatov"
+      gen: "primatov"
+      loc: "primatah"
+      dat: "primatam"
+      ins: "primatami"
+      voc: "primati"

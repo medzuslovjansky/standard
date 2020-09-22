@@ -1,0 +1,22 @@
+---
+  id: "26992"
+  word: "kurętina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kurętina"
+      acc: "kurętinų"
+      gen: "kurętiny"
+      loc: "kurętině"
+      dat: "kurętině"
+      ins: "kurętinojų"
+      voc: "kurętino"
+    plural: 
+      nom: "kurętiny"
+      acc: "kurętiny"
+      gen: "kurętin"
+      loc: "kurętinah"
+      dat: "kurętinam"
+      ins: "kurętinami"
+      voc: "kurętiny"

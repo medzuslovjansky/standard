@@ -1,0 +1,22 @@
+---
+  id: "490"
+  word: "fabrika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fabrika"
+      acc: "fabrikų"
+      gen: "fabriky"
+      loc: "fabrikě"
+      dat: "fabrikě"
+      ins: "fabrikojų"
+      voc: "fabriko"
+    plural: 
+      nom: "fabriky"
+      acc: "fabriky"
+      gen: "fabrik"
+      loc: "fabrikah"
+      dat: "fabrikam"
+      ins: "fabrikami"
+      voc: "fabriky"

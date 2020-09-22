@@ -1,0 +1,22 @@
+---
+  id: "20516"
+  word: "naboj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naboj"
+      acc: "naboj"
+      gen: "naboja"
+      loc: "naboju"
+      dat: "naboju"
+      ins: "nabojem"
+      voc: "naboju"
+    plural: 
+      nom: "naboje"
+      acc: "naboje"
+      gen: "nabojev"
+      loc: "nabojah"
+      dat: "nabojam"
+      ins: "nabojami"
+      voc: "naboje"

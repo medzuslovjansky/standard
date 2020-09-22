@@ -1,0 +1,22 @@
+---
+  id: "2378"
+  word: "plašč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "plašč"
+      acc: "plašč"
+      gen: "plašča"
+      loc: "plašču"
+      dat: "plašču"
+      ins: "plaščem"
+      voc: "plašču"
+    plural: 
+      nom: "plašče"
+      acc: "plašče"
+      gen: "plaščev"
+      loc: "plaščah"
+      dat: "plaščam"
+      ins: "plaščami"
+      voc: "plašče"

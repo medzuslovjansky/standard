@@ -1,0 +1,22 @@
+---
+  id: "24216"
+  word: "akvamarin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akvamarin"
+      acc: "akvamarin"
+      gen: "akvamarina"
+      loc: "akvamarinu"
+      dat: "akvamarinu"
+      ins: "akvamarinom"
+      voc: "akvamarine"
+    plural: 
+      nom: "akvamariny"
+      acc: "akvamariny"
+      gen: "akvamarinov"
+      loc: "akvamarinah"
+      dat: "akvamarinam"
+      ins: "akvamarinami"
+      voc: "akvamariny"

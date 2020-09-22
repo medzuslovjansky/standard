@@ -1,0 +1,23 @@
+---
+  id: "31626"
+  word: "zlåtaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zlåtaŕ"
+      acc: "zlåtaŕa"
+      gen: "zlåtaŕa"
+      loc: "zlåtaŕu"
+      dat: "zlåtaŕu"
+      ins: "zlåtaŕem"
+      voc: "zlåtaŕu"
+    plural: 
+      nom: "zlåtari"
+      acc: "zlåtaŕev"
+      gen: "zlåtaŕev"
+      loc: "zlåtaŕah"
+      dat: "zlåtaŕam"
+      ins: "zlåtaŕami"
+      voc: "zlåtari"

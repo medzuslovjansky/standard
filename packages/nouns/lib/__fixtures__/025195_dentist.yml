@@ -1,0 +1,23 @@
+---
+  id: "25195"
+  word: "dentist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dentist"
+      acc: "dentista"
+      gen: "dentista"
+      loc: "dentistu"
+      dat: "dentistu"
+      ins: "dentistom"
+      voc: "dentiste"
+    plural: 
+      nom: "dentisti"
+      acc: "dentistov"
+      gen: "dentistov"
+      loc: "dentistah"
+      dat: "dentistam"
+      ins: "dentistami"
+      voc: "dentisti"

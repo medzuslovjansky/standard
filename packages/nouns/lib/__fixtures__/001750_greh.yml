@@ -1,0 +1,22 @@
+---
+  id: "1750"
+  word: "grěh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grěh"
+      acc: "grěh"
+      gen: "grěha"
+      loc: "grěhu"
+      dat: "grěhu"
+      ins: "grěhom"
+      voc: "grěše"
+    plural: 
+      nom: "grěhy"
+      acc: "grěhy"
+      gen: "grěhov"
+      loc: "grěhah"
+      dat: "grěham"
+      ins: "grěhami"
+      voc: "grěhy"

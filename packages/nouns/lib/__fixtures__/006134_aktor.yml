@@ -1,0 +1,23 @@
+---
+  id: "6134"
+  word: "aktor"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "aktor"
+      acc: "aktora"
+      gen: "aktora"
+      loc: "aktoru"
+      dat: "aktoru"
+      ins: "aktorom"
+      voc: "aktore"
+    plural: 
+      nom: "aktori"
+      acc: "aktorov"
+      gen: "aktorov"
+      loc: "aktorah"
+      dat: "aktoram"
+      ins: "aktorami"
+      voc: "aktori"

@@ -1,0 +1,15 @@
+---
+  id: "11484"
+  word: "prirodnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prirodnosť"
+      acc: "prirodnosť"
+      gen: "prirodnosti"
+      loc: "prirodnosti"
+      dat: "prirodnosti"
+      ins: "prirodnosťjų"
+      voc: "prirodnosti"

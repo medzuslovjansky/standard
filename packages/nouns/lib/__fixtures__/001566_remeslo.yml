@@ -1,0 +1,22 @@
+---
+  id: "1566"
+  word: "remeslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "remeslo"
+      acc: "remeslo"
+      gen: "remesla"
+      loc: "remeslu"
+      dat: "remeslu"
+      ins: "remeslom"
+      voc: "remeslo"
+    plural: 
+      nom: "remesla"
+      acc: "remesla"
+      gen: "remesel"
+      loc: "remeslah"
+      dat: "remeslam"
+      ins: "remeslami"
+      voc: "remesla"

@@ -1,0 +1,22 @@
+---
+  id: "3063"
+  word: "federacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "federacija"
+      acc: "federacijų"
+      gen: "federacije"
+      loc: "federaciji"
+      dat: "federaciji"
+      ins: "federacijejų"
+      voc: "federacijo"
+    plural: 
+      nom: "federacije"
+      acc: "federacije"
+      gen: "federacij"
+      loc: "federacijah"
+      dat: "federacijam"
+      ins: "federacijami"
+      voc: "federacije"

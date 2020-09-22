@@ -1,0 +1,22 @@
+---
+  id: "1016"
+  word: "fond"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fond"
+      acc: "fond"
+      gen: "fonda"
+      loc: "fondu"
+      dat: "fondu"
+      ins: "fondom"
+      voc: "fonde"
+    plural: 
+      nom: "fondy"
+      acc: "fondy"
+      gen: "fondov"
+      loc: "fondah"
+      dat: "fondam"
+      ins: "fondami"
+      voc: "fondy"

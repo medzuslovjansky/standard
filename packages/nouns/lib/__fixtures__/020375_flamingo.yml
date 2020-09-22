@@ -1,0 +1,23 @@
+---
+  id: "20375"
+  word: "flamingo"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "flamingo"
+      acc: "flamingo"
+      gen: "flaminga"
+      loc: "flamingu"
+      dat: "flamingu"
+      ins: "flamingom"
+      voc: "flamingo"
+    plural: 
+      nom: "flaminga"
+      acc: "flaminga"
+      gen: "flaming"
+      loc: "flamingah"
+      dat: "flamingam"
+      ins: "flamingami"
+      voc: "flaminga"

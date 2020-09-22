@@ -1,0 +1,22 @@
+---
+  id: "16397"
+  word: "iztvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iztvor"
+      acc: "iztvor"
+      gen: "iztvora"
+      loc: "iztvoru"
+      dat: "iztvoru"
+      ins: "iztvorom"
+      voc: "iztvore"
+    plural: 
+      nom: "iztvory"
+      acc: "iztvory"
+      gen: "iztvorov"
+      loc: "iztvorah"
+      dat: "iztvoram"
+      ins: "iztvorami"
+      voc: "iztvory"

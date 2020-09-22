@@ -1,0 +1,22 @@
+---
+  id: "32976"
+  word: "pozlåta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pozlåta"
+      acc: "pozlåtų"
+      gen: "pozlåty"
+      loc: "pozlåtě"
+      dat: "pozlåtě"
+      ins: "pozlåtojų"
+      voc: "pozlåto"
+    plural: 
+      nom: "pozlåty"
+      acc: "pozlåty"
+      gen: "pozlåt"
+      loc: "pozlåtah"
+      dat: "pozlåtam"
+      ins: "pozlåtami"
+      voc: "pozlåty"

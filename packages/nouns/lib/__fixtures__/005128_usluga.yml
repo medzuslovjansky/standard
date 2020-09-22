@@ -1,0 +1,22 @@
+---
+  id: "5128"
+  word: "usluga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "usluga"
+      acc: "uslugų"
+      gen: "uslugy"
+      loc: "uslugě"
+      dat: "uslugě"
+      ins: "uslugojų"
+      voc: "uslugo"
+    plural: 
+      nom: "uslugy"
+      acc: "uslugy"
+      gen: "uslug"
+      loc: "uslugah"
+      dat: "uslugam"
+      ins: "uslugami"
+      voc: "uslugy"

@@ -1,0 +1,22 @@
+---
+  id: "29800"
+  word: "ozlobjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ozlobjeńje"
+      acc: "ozlobjeńje"
+      gen: "ozlobjeńja"
+      loc: "ozlobjeńju"
+      dat: "ozlobjeńju"
+      ins: "ozlobjeńjem"
+      voc: "ozlobjeńje"
+    plural: 
+      nom: "ozlobjeńja"
+      acc: "ozlobjeńja"
+      gen: "ozlobjenij"
+      loc: "ozlobjeńjah"
+      dat: "ozlobjeńjam"
+      ins: "ozlobjeńjami"
+      voc: "ozlobjeńja"

@@ -1,0 +1,15 @@
+---
+  id: "18961"
+  word: "teologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "teologija"
+      acc: "teologijų"
+      gen: "teologije"
+      loc: "teologiji"
+      dat: "teologiji"
+      ins: "teologijejų"
+      voc: "teologijo"

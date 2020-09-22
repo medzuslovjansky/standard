@@ -1,0 +1,22 @@
+---
+  id: "20148"
+  word: "komponent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "komponent"
+      acc: "komponent"
+      gen: "komponenta"
+      loc: "komponentu"
+      dat: "komponentu"
+      ins: "komponentom"
+      voc: "komponente"
+    plural: 
+      nom: "komponenty"
+      acc: "komponenty"
+      gen: "komponentov"
+      loc: "komponentah"
+      dat: "komponentam"
+      ins: "komponentami"
+      voc: "komponenty"

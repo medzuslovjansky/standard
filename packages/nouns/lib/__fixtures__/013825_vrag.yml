@@ -1,0 +1,23 @@
+---
+  id: "13825"
+  word: "vråg"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vråg"
+      acc: "vråga"
+      gen: "vråga"
+      loc: "vrågu"
+      dat: "vrågu"
+      ins: "vrågom"
+      voc: "vråže"
+    plural: 
+      nom: "vrågi"
+      acc: "vrågov"
+      gen: "vrågov"
+      loc: "vrågah"
+      dat: "vrågam"
+      ins: "vrågami"
+      voc: "vrågi"

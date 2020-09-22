@@ -1,0 +1,22 @@
+---
+  id: "36505"
+  word: "rev"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rev"
+      acc: "rev"
+      gen: "reva"
+      loc: "revu"
+      dat: "revu"
+      ins: "revom"
+      voc: "reve"
+    plural: 
+      nom: "revy"
+      acc: "revy"
+      gen: "revov"
+      loc: "revah"
+      dat: "revam"
+      ins: "revami"
+      voc: "revy"

@@ -1,0 +1,22 @@
+---
+  id: "13412"
+  word: "utirak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "utirak"
+      acc: "utirak"
+      gen: "utiraka"
+      loc: "utiraku"
+      dat: "utiraku"
+      ins: "utirakom"
+      voc: "utirače"
+    plural: 
+      nom: "utiraky"
+      acc: "utiraky"
+      gen: "utirakov"
+      loc: "utirakah"
+      dat: "utirakam"
+      ins: "utirakami"
+      voc: "utiraky"

@@ -1,0 +1,45 @@
+---
+  - 
+    id: "35767"
+    word: "altana"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "altana"
+        acc: "altanų"
+        gen: "altany"
+        loc: "altaně"
+        dat: "altaně"
+        ins: "altanojų"
+        voc: "altano"
+      plural: 
+        nom: "altany"
+        acc: "altany"
+        gen: "altan"
+        loc: "altanah"
+        dat: "altanam"
+        ins: "altanami"
+        voc: "altany"
+  - 
+    id: "35767"
+    word: "altanka"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "altanka"
+        acc: "altankų"
+        gen: "altanky"
+        loc: "altankě"
+        dat: "altankě"
+        ins: "altankojų"
+        voc: "altanko"
+      plural: 
+        nom: "altanky"
+        acc: "altanky"
+        gen: "altanȯk"
+        loc: "altankah"
+        dat: "altankam"
+        ins: "altankami"
+        voc: "altanky"

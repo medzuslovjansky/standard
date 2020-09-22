@@ -1,0 +1,15 @@
+---
+  id: "27221"
+  word: "lisťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lisťje"
+      acc: "lisťje"
+      gen: "lisťja"
+      loc: "lisťju"
+      dat: "lisťju"
+      ins: "lisťjem"
+      voc: "lisťje"

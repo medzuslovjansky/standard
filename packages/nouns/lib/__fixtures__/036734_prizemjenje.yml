@@ -1,0 +1,22 @@
+---
+  id: "36734"
+  word: "prizemjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prizemjeńje"
+      acc: "prizemjeńje"
+      gen: "prizemjeńja"
+      loc: "prizemjeńju"
+      dat: "prizemjeńju"
+      ins: "prizemjeńjem"
+      voc: "prizemjeńje"
+    plural: 
+      nom: "prizemjeńja"
+      acc: "prizemjeńja"
+      gen: "prizemjenij"
+      loc: "prizemjeńjah"
+      dat: "prizemjeńjam"
+      ins: "prizemjeńjami"
+      voc: "prizemjeńja"

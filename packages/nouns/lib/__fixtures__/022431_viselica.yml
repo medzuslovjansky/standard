@@ -1,0 +1,22 @@
+---
+  id: "22431"
+  word: "visělica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "visělica"
+      acc: "visělicų"
+      gen: "visělice"
+      loc: "visělici"
+      dat: "visělici"
+      ins: "visělicejų"
+      voc: "visělico"
+    plural: 
+      nom: "visělice"
+      acc: "visělice"
+      gen: "visělic"
+      loc: "visělicah"
+      dat: "visělicam"
+      ins: "visělicami"
+      voc: "visělice"

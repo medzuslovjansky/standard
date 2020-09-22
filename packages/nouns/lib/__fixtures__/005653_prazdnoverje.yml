@@ -1,0 +1,22 @@
+---
+  id: "5653"
+  word: "pråzdnověŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pråzdnověŕje"
+      acc: "pråzdnověŕje"
+      gen: "pråzdnověŕja"
+      loc: "pråzdnověŕju"
+      dat: "pråzdnověŕju"
+      ins: "pråzdnověŕjem"
+      voc: "pråzdnověŕje"
+    plural: 
+      nom: "pråzdnověŕja"
+      acc: "pråzdnověŕja"
+      gen: "pråzdnověrij"
+      loc: "pråzdnověŕjah"
+      dat: "pråzdnověŕjam"
+      ins: "pråzdnověŕjami"
+      voc: "pråzdnověŕja"

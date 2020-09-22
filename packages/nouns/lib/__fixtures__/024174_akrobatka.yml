@@ -1,0 +1,22 @@
+---
+  id: "24174"
+  word: "akrobatka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akrobatka"
+      acc: "akrobatkų"
+      gen: "akrobatky"
+      loc: "akrobatkě"
+      dat: "akrobatkě"
+      ins: "akrobatkojų"
+      voc: "akrobatko"
+    plural: 
+      nom: "akrobatky"
+      acc: "akrobatky"
+      gen: "akrobatȯk"
+      loc: "akrobatkah"
+      dat: "akrobatkam"
+      ins: "akrobatkami"
+      voc: "akrobatky"

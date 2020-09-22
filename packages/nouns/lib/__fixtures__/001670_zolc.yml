@@ -1,0 +1,22 @@
+---
+  id: "1670"
+  word: "žȯlč"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žȯlč"
+      acc: "žȯlč"
+      gen: "žȯlči"
+      loc: "žȯlči"
+      dat: "žȯlči"
+      ins: "žȯlčjų"
+      voc: "žȯlči"
+    plural: 
+      nom: "žȯlči"
+      acc: "žȯlči"
+      gen: "žȯlčij"
+      loc: "žȯlčah"
+      dat: "žȯlčam"
+      ins: "žȯlčami"
+      voc: "žȯlči"

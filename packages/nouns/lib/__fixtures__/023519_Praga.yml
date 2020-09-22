@@ -1,0 +1,15 @@
+---
+  id: "23519"
+  word: "Praga"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Praga"
+      acc: "Pragų"
+      gen: "Pragy"
+      loc: "Pragě"
+      dat: "Pragě"
+      ins: "Pragojų"
+      voc: "Prago"

@@ -1,0 +1,22 @@
+---
+  id: "27843"
+  word: "muholovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "muholovka"
+      acc: "muholovkų"
+      gen: "muholovky"
+      loc: "muholovkě"
+      dat: "muholovkě"
+      ins: "muholovkojų"
+      voc: "muholovko"
+    plural: 
+      nom: "muholovky"
+      acc: "muholovky"
+      gen: "muholovȯk"
+      loc: "muholovkah"
+      dat: "muholovkam"
+      ins: "muholovkami"
+      voc: "muholovky"

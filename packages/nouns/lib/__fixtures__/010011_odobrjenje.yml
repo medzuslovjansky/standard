@@ -1,0 +1,15 @@
+---
+  id: "10011"
+  word: "odobrjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "odobrjeńje"
+      acc: "odobrjeńje"
+      gen: "odobrjeńja"
+      loc: "odobrjeńju"
+      dat: "odobrjeńju"
+      ins: "odobrjeńjem"
+      voc: "odobrjeńje"

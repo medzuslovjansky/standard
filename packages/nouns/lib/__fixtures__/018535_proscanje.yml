@@ -1,0 +1,22 @@
+---
+  id: "18535"
+  word: "prošćańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prošćańje"
+      acc: "prošćańje"
+      gen: "prošćańja"
+      loc: "prošćańju"
+      dat: "prošćańju"
+      ins: "prošćańjem"
+      voc: "prošćańje"
+    plural: 
+      nom: "prošćańja"
+      acc: "prošćańja"
+      gen: "prošćanij"
+      loc: "prošćańjah"
+      dat: "prošćańjam"
+      ins: "prošćańjami"
+      voc: "prošćańja"

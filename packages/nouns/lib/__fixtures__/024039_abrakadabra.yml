@@ -1,0 +1,15 @@
+---
+  id: "24039"
+  word: "abrakadabra"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "abrakadabra"
+      acc: "abrakadabrų"
+      gen: "abrakadabry"
+      loc: "abrakadabrě"
+      dat: "abrakadabrě"
+      ins: "abrakadabrojų"
+      voc: "abrakadabro"

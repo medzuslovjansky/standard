@@ -1,0 +1,23 @@
+---
+  id: "35262"
+  word: "konkurent"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konkurent"
+      acc: "konkurenta"
+      gen: "konkurenta"
+      loc: "konkurentu"
+      dat: "konkurentu"
+      ins: "konkurentom"
+      voc: "konkurente"
+    plural: 
+      nom: "konkurenti"
+      acc: "konkurentov"
+      gen: "konkurentov"
+      loc: "konkurentah"
+      dat: "konkurentam"
+      ins: "konkurentami"
+      voc: "konkurenti"

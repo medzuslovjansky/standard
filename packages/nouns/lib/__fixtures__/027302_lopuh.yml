@@ -1,0 +1,22 @@
+---
+  id: "27302"
+  word: "lopuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lopuh"
+      acc: "lopuh"
+      gen: "lopuha"
+      loc: "lopuhu"
+      dat: "lopuhu"
+      ins: "lopuhom"
+      voc: "lopuše"
+    plural: 
+      nom: "lopuhy"
+      acc: "lopuhy"
+      gen: "lopuhov"
+      loc: "lopuhah"
+      dat: "lopuham"
+      ins: "lopuhami"
+      voc: "lopuhy"

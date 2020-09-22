@@ -1,0 +1,22 @@
+---
+  id: "1402"
+  word: "statuja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "statuja"
+      acc: "statujų"
+      gen: "statuje"
+      loc: "statuji"
+      dat: "statuji"
+      ins: "statujejų"
+      voc: "statujo"
+    plural: 
+      nom: "statuje"
+      acc: "statuje"
+      gen: "statuj"
+      loc: "statujah"
+      dat: "statujam"
+      ins: "statujami"
+      voc: "statuje"

@@ -1,0 +1,22 @@
+---
+  id: "1543"
+  word: "cibulja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cibulja"
+      acc: "cibuljų"
+      gen: "cibulje"
+      loc: "cibulji"
+      dat: "cibulji"
+      ins: "cibuljejų"
+      voc: "cibuljo"
+    plural: 
+      nom: "cibulje"
+      acc: "cibulje"
+      gen: "cibulej"
+      loc: "cibuljah"
+      dat: "cibuljam"
+      ins: "cibuljami"
+      voc: "cibulje"

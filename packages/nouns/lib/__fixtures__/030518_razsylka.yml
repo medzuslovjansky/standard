@@ -1,0 +1,22 @@
+---
+  id: "30518"
+  word: "råzsylka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzsylka"
+      acc: "råzsylkų"
+      gen: "råzsylky"
+      loc: "råzsylkě"
+      dat: "råzsylkě"
+      ins: "råzsylkojų"
+      voc: "råzsylko"
+    plural: 
+      nom: "råzsylky"
+      acc: "råzsylky"
+      gen: "råzsylȯk"
+      loc: "råzsylkah"
+      dat: "råzsylkam"
+      ins: "råzsylkami"
+      voc: "råzsylky"

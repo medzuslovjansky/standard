@@ -1,0 +1,22 @@
+---
+  id: "17816"
+  word: "mųka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mųka"
+      acc: "mųkų"
+      gen: "mųky"
+      loc: "mųkě"
+      dat: "mųkě"
+      ins: "mųkojų"
+      voc: "mųko"
+    plural: 
+      nom: "mųky"
+      acc: "mųky"
+      gen: "mųk"
+      loc: "mųkah"
+      dat: "mųkam"
+      ins: "mųkami"
+      voc: "mųky"

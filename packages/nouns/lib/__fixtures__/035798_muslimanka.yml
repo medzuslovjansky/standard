@@ -1,0 +1,22 @@
+---
+  id: "35798"
+  word: "muslimanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "muslimanka"
+      acc: "muslimankų"
+      gen: "muslimanky"
+      loc: "muslimankě"
+      dat: "muslimankě"
+      ins: "muslimankojų"
+      voc: "muslimanko"
+    plural: 
+      nom: "muslimanky"
+      acc: "muslimanky"
+      gen: "muslimanȯk"
+      loc: "muslimankah"
+      dat: "muslimankam"
+      ins: "muslimankami"
+      voc: "muslimanky"

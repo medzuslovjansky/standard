@@ -1,0 +1,22 @@
+---
+  id: "2340"
+  word: "klåda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klåda"
+      acc: "klådų"
+      gen: "klådy"
+      loc: "klådě"
+      dat: "klådě"
+      ins: "klådojų"
+      voc: "klådo"
+    plural: 
+      nom: "klådy"
+      acc: "klådy"
+      gen: "klåd"
+      loc: "klådah"
+      dat: "klådam"
+      ins: "klådami"
+      voc: "klådy"

@@ -1,0 +1,22 @@
+---
+  id: "4874"
+  word: "rekonstrukcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rekonstrukcija"
+      acc: "rekonstrukcijų"
+      gen: "rekonstrukcije"
+      loc: "rekonstrukciji"
+      dat: "rekonstrukciji"
+      ins: "rekonstrukcijejų"
+      voc: "rekonstrukcijo"
+    plural: 
+      nom: "rekonstrukcije"
+      acc: "rekonstrukcije"
+      gen: "rekonstrukcij"
+      loc: "rekonstrukcijah"
+      dat: "rekonstrukcijam"
+      ins: "rekonstrukcijami"
+      voc: "rekonstrukcije"

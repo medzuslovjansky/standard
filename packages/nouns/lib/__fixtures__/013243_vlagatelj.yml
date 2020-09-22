@@ -1,0 +1,23 @@
+---
+  id: "13243"
+  word: "vlagatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vlagatelj"
+      acc: "vlagatelja"
+      gen: "vlagatelja"
+      loc: "vlagatelju"
+      dat: "vlagatelju"
+      ins: "vlagateljem"
+      voc: "vlagatelju"
+    plural: 
+      nom: "vlagatelji"
+      acc: "vlagateljev"
+      gen: "vlagateljev"
+      loc: "vlagateljah"
+      dat: "vlagateljam"
+      ins: "vlagateljami"
+      voc: "vlagatelji"

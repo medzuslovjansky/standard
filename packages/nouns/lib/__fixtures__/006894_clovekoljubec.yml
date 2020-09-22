@@ -1,0 +1,23 @@
+---
+  id: "6894"
+  word: "člověkoljubec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "člověkoljubec"
+      acc: "člověkoljubca"
+      gen: "člověkoljubca"
+      loc: "člověkoljubcu"
+      dat: "člověkoljubcu"
+      ins: "člověkoljubcem"
+      voc: "člověkoljubče"
+    plural: 
+      nom: "člověkoljubci"
+      acc: "člověkoljubcev"
+      gen: "člověkoljubcev"
+      loc: "člověkoljubcah"
+      dat: "člověkoljubcam"
+      ins: "člověkoljubcami"
+      voc: "člověkoljubci"

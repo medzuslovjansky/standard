@@ -1,0 +1,22 @@
+---
+  id: "2001"
+  word: "forma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "forma"
+      acc: "formų"
+      gen: "formy"
+      loc: "formě"
+      dat: "formě"
+      ins: "formojų"
+      voc: "formo"
+    plural: 
+      nom: "formy"
+      acc: "formy"
+      gen: "form"
+      loc: "formah"
+      dat: "formam"
+      ins: "formami"
+      voc: "formy"

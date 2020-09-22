@@ -1,0 +1,22 @@
+---
+  id: "31554"
+  word: "zaslon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zaslon"
+      acc: "zaslon"
+      gen: "zaslona"
+      loc: "zaslonu"
+      dat: "zaslonu"
+      ins: "zaslonom"
+      voc: "zaslone"
+    plural: 
+      nom: "zaslony"
+      acc: "zaslony"
+      gen: "zaslonov"
+      loc: "zaslonah"
+      dat: "zaslonam"
+      ins: "zaslonami"
+      voc: "zaslony"

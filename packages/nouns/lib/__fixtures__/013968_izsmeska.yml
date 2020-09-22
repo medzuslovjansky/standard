@@ -1,0 +1,22 @@
+---
+  id: "13968"
+  word: "izsměška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izsměška"
+      acc: "izsměškų"
+      gen: "izsměšky"
+      loc: "izsměškě"
+      dat: "izsměškě"
+      ins: "izsměškojų"
+      voc: "izsměško"
+    plural: 
+      nom: "izsměšky"
+      acc: "izsměšky"
+      gen: "izsměšek"
+      loc: "izsměškah"
+      dat: "izsměškam"
+      ins: "izsměškami"
+      voc: "izsměšky"

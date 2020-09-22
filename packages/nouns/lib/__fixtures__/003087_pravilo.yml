@@ -1,0 +1,22 @@
+---
+  id: "3087"
+  word: "pravilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pravilo"
+      acc: "pravilo"
+      gen: "pravila"
+      loc: "pravilu"
+      dat: "pravilu"
+      ins: "pravilom"
+      voc: "pravilo"
+    plural: 
+      nom: "pravila"
+      acc: "pravila"
+      gen: "pravil"
+      loc: "pravilah"
+      dat: "pravilam"
+      ins: "pravilami"
+      voc: "pravila"

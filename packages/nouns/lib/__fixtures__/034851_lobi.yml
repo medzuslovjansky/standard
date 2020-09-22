@@ -1,0 +1,23 @@
+---
+  id: "34851"
+  word: "lobi"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "lobi"
+      acc: "lobi"
+      gen: "lobi"
+      loc: "lobi"
+      dat: "lobi"
+      ins: "lobi"
+      voc: "lobi"
+    plural: 
+      nom: "lobi"
+      acc: "lobi"
+      gen: "lobi"
+      loc: "lobi"
+      dat: "lobi"
+      ins: "lobi"
+      voc: "lobi"

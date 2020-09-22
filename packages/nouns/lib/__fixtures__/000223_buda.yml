@@ -1,0 +1,22 @@
+---
+  id: "223"
+  word: "buda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "buda"
+      acc: "budų"
+      gen: "budy"
+      loc: "budě"
+      dat: "budě"
+      ins: "budojų"
+      voc: "budo"
+    plural: 
+      nom: "budy"
+      acc: "budy"
+      gen: "bud"
+      loc: "budah"
+      dat: "budam"
+      ins: "budami"
+      voc: "budy"

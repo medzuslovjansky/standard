@@ -1,0 +1,22 @@
+---
+  id: "16378"
+  word: "ščrba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ščrba"
+      acc: "ščrbų"
+      gen: "ščrby"
+      loc: "ščrbě"
+      dat: "ščrbě"
+      ins: "ščrbojų"
+      voc: "ščrbo"
+    plural: 
+      nom: "ščrby"
+      acc: "ščrby"
+      gen: "ščrb"
+      loc: "ščrbah"
+      dat: "ščrbam"
+      ins: "ščrbami"
+      voc: "ščrby"

@@ -1,0 +1,22 @@
+---
+  id: "17644"
+  word: "katȯčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "katȯčka"
+      acc: "katȯčkų"
+      gen: "katȯčky"
+      loc: "katȯčkě"
+      dat: "katȯčkě"
+      ins: "katȯčkojų"
+      voc: "katȯčko"
+    plural: 
+      nom: "katȯčky"
+      acc: "katȯčky"
+      gen: "katȯček"
+      loc: "katȯčkah"
+      dat: "katȯčkam"
+      ins: "katȯčkami"
+      voc: "katȯčky"

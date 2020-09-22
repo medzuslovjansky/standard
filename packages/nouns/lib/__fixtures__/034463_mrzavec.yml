@@ -1,0 +1,23 @@
+---
+  id: "34463"
+  word: "mŕzavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mŕzavec"
+      acc: "mŕzavca"
+      gen: "mŕzavca"
+      loc: "mŕzavcu"
+      dat: "mŕzavcu"
+      ins: "mŕzavcem"
+      voc: "mŕzavče"
+    plural: 
+      nom: "mŕzavci"
+      acc: "mŕzavcev"
+      gen: "mŕzavcev"
+      loc: "mŕzavcah"
+      dat: "mŕzavcam"
+      ins: "mŕzavcami"
+      voc: "mŕzavci"

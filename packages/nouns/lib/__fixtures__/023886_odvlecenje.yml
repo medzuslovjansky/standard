@@ -1,0 +1,22 @@
+---
+  id: "23886"
+  word: "odvlěčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odvlěčeńje"
+      acc: "odvlěčeńje"
+      gen: "odvlěčeńja"
+      loc: "odvlěčeńju"
+      dat: "odvlěčeńju"
+      ins: "odvlěčeńjem"
+      voc: "odvlěčeńje"
+    plural: 
+      nom: "odvlěčeńja"
+      acc: "odvlěčeńja"
+      gen: "odvlěčenij"
+      loc: "odvlěčeńjah"
+      dat: "odvlěčeńjam"
+      ins: "odvlěčeńjami"
+      voc: "odvlěčeńja"

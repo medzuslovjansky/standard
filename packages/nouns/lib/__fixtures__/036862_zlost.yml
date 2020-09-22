@@ -1,0 +1,15 @@
+---
+  id: "36862"
+  word: "zlosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "zlosť"
+      acc: "zlosť"
+      gen: "zlosti"
+      loc: "zlosti"
+      dat: "zlosti"
+      ins: "zlosťjų"
+      voc: "zlosti"

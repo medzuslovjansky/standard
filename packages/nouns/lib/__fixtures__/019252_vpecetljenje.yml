@@ -1,0 +1,22 @@
+---
+  id: "19252"
+  word: "vpečętljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vpečętljeńje"
+      acc: "vpečętljeńje"
+      gen: "vpečętljeńja"
+      loc: "vpečętljeńju"
+      dat: "vpečętljeńju"
+      ins: "vpečętljeńjem"
+      voc: "vpečętljeńje"
+    plural: 
+      nom: "vpečętljeńja"
+      acc: "vpečętljeńja"
+      gen: "vpečętljenij"
+      loc: "vpečętljeńjah"
+      dat: "vpečętljeńjam"
+      ins: "vpečętljeńjami"
+      voc: "vpečętljeńja"

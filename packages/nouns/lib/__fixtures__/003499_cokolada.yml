@@ -1,0 +1,22 @@
+---
+  id: "3499"
+  word: "čokolada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čokolada"
+      acc: "čokoladų"
+      gen: "čokolady"
+      loc: "čokoladě"
+      dat: "čokoladě"
+      ins: "čokoladojų"
+      voc: "čokolado"
+    plural: 
+      nom: "čokolady"
+      acc: "čokolady"
+      gen: "čokolad"
+      loc: "čokoladah"
+      dat: "čokoladam"
+      ins: "čokoladami"
+      voc: "čokolady"

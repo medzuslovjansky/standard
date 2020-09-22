@@ -1,0 +1,15 @@
+---
+  id: "28375"
+  word: "nebyťje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nebyťje"
+      acc: "nebyťje"
+      gen: "nebyťja"
+      loc: "nebyťju"
+      dat: "nebyťju"
+      ins: "nebyťjem"
+      voc: "nebyťje"

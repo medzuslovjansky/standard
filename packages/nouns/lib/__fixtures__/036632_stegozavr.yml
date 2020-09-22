@@ -1,0 +1,22 @@
+---
+  id: "36632"
+  word: "stegozavr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stegozavr"
+      acc: "stegozavr"
+      gen: "stegozavra"
+      loc: "stegozavru"
+      dat: "stegozavru"
+      ins: "stegozavrom"
+      voc: "stegozavre"
+    plural: 
+      nom: "stegozavry"
+      acc: "stegozavry"
+      gen: "stegozavrov"
+      loc: "stegozavrah"
+      dat: "stegozavram"
+      ins: "stegozavrami"
+      voc: "stegozavry"

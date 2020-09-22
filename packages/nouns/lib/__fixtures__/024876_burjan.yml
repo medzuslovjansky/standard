@@ -1,0 +1,22 @@
+---
+  id: "24876"
+  word: "burjan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "burjan"
+      acc: "burjan"
+      gen: "burjana"
+      loc: "burjanu"
+      dat: "burjanu"
+      ins: "burjanom"
+      voc: "burjane"
+    plural: 
+      nom: "burjany"
+      acc: "burjany"
+      gen: "burjanov"
+      loc: "burjanah"
+      dat: "burjanam"
+      ins: "burjanami"
+      voc: "burjany"

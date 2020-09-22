@@ -1,0 +1,22 @@
+---
+  id: "3101"
+  word: "teritorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "teritorija"
+      acc: "teritorijų"
+      gen: "teritorije"
+      loc: "teritoriji"
+      dat: "teritoriji"
+      ins: "teritorijejų"
+      voc: "teritorijo"
+    plural: 
+      nom: "teritorije"
+      acc: "teritorije"
+      gen: "teritorij"
+      loc: "teritorijah"
+      dat: "teritorijam"
+      ins: "teritorijami"
+      voc: "teritorije"

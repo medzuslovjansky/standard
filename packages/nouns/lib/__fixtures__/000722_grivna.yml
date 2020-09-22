@@ -1,0 +1,22 @@
+---
+  id: "722"
+  word: "grivna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grivna"
+      acc: "grivnų"
+      gen: "grivny"
+      loc: "grivně"
+      dat: "grivně"
+      ins: "grivnojų"
+      voc: "grivno"
+    plural: 
+      nom: "grivny"
+      acc: "grivny"
+      gen: "griven"
+      loc: "grivnah"
+      dat: "grivnam"
+      ins: "grivnami"
+      voc: "grivny"

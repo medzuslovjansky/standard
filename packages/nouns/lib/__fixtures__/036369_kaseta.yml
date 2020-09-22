@@ -1,0 +1,22 @@
+---
+  id: "36369"
+  word: "kaseta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kaseta"
+      acc: "kasetų"
+      gen: "kasety"
+      loc: "kasetě"
+      dat: "kasetě"
+      ins: "kasetojų"
+      voc: "kaseto"
+    plural: 
+      nom: "kasety"
+      acc: "kasety"
+      gen: "kaset"
+      loc: "kasetah"
+      dat: "kasetam"
+      ins: "kasetami"
+      voc: "kasety"

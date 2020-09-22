@@ -1,0 +1,15 @@
+---
+  id: "18847"
+  word: "smeti"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "smeti"
+      acc: "smeti"
+      gen: "smetij"
+      loc: "smetjah"
+      dat: "smetjam"
+      ins: "smetjami"
+      voc: "smeti"

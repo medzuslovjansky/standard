@@ -1,0 +1,15 @@
+---
+  id: "2832"
+  word: "pepel"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pepel"
+      acc: "pepel"
+      gen: "pepela"
+      loc: "pepelu"
+      dat: "pepelu"
+      ins: "pepelom"
+      voc: "pepele"

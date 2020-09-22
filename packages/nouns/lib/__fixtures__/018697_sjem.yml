@@ -1,0 +1,22 @@
+---
+  id: "18697"
+  word: "sjem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sjem"
+      acc: "sjem"
+      gen: "sjema"
+      loc: "sjemu"
+      dat: "sjemu"
+      ins: "sjemom"
+      voc: "sjeme"
+    plural: 
+      nom: "sjemy"
+      acc: "sjemy"
+      gen: "sjemov"
+      loc: "sjemah"
+      dat: "sjemam"
+      ins: "sjemami"
+      voc: "sjemy"

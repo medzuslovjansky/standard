@@ -1,0 +1,22 @@
+---
+  id: "35996"
+  word: "hrěnviršla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hrěnviršla"
+      acc: "hrěnviršlų"
+      gen: "hrěnviršly"
+      loc: "hrěnviršlě"
+      dat: "hrěnviršlě"
+      ins: "hrěnviršlojų"
+      voc: "hrěnviršlo"
+    plural: 
+      nom: "hrěnviršly"
+      acc: "hrěnviršly"
+      gen: "hrěnviršl"
+      loc: "hrěnviršlah"
+      dat: "hrěnviršlam"
+      ins: "hrěnviršlami"
+      voc: "hrěnviršly"

@@ -1,0 +1,23 @@
+---
+  id: "14505"
+  word: "črnoględnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črnoględnik"
+      acc: "črnoględnika"
+      gen: "črnoględnika"
+      loc: "črnoględniku"
+      dat: "črnoględniku"
+      ins: "črnoględnikom"
+      voc: "črnoględniče"
+    plural: 
+      nom: "črnoględniki"
+      acc: "črnoględnikov"
+      gen: "črnoględnikov"
+      loc: "črnoględnikah"
+      dat: "črnoględnikam"
+      ins: "črnoględnikami"
+      voc: "črnoględniki"

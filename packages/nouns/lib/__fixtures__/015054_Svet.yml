@@ -1,0 +1,22 @@
+---
+  id: "15054"
+  word: "Svět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Svět"
+      acc: "Svět"
+      gen: "Světa"
+      loc: "Světu"
+      dat: "Světu"
+      ins: "Světom"
+      voc: "Světe"
+    plural: 
+      nom: "Světy"
+      acc: "Světy"
+      gen: "Světov"
+      loc: "Světah"
+      dat: "Světam"
+      ins: "Světami"
+      voc: "Světy"

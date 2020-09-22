@@ -1,0 +1,22 @@
+---
+  id: "16286"
+  word: "nemožlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nemožlivosť"
+      acc: "nemožlivosť"
+      gen: "nemožlivosti"
+      loc: "nemožlivosti"
+      dat: "nemožlivosti"
+      ins: "nemožlivosťjų"
+      voc: "nemožlivosti"
+    plural: 
+      nom: "nemožlivosti"
+      acc: "nemožlivosti"
+      gen: "nemožlivostij"
+      loc: "nemožlivosťah"
+      dat: "nemožlivosťam"
+      ins: "nemožlivosťami"
+      voc: "nemožlivosti"

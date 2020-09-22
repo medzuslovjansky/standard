@@ -1,0 +1,22 @@
+---
+  id: "2218"
+  word: "milicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "milicija"
+      acc: "milicijų"
+      gen: "milicije"
+      loc: "miliciji"
+      dat: "miliciji"
+      ins: "milicijejų"
+      voc: "milicijo"
+    plural: 
+      nom: "milicije"
+      acc: "milicije"
+      gen: "milicij"
+      loc: "milicijah"
+      dat: "milicijam"
+      ins: "milicijami"
+      voc: "milicije"

@@ -1,0 +1,22 @@
+---
+  id: "215"
+  word: "trud"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trud"
+      acc: "trud"
+      gen: "truda"
+      loc: "trudu"
+      dat: "trudu"
+      ins: "trudom"
+      voc: "trude"
+    plural: 
+      nom: "trudy"
+      acc: "trudy"
+      gen: "trudov"
+      loc: "trudah"
+      dat: "trudam"
+      ins: "trudami"
+      voc: "trudy"

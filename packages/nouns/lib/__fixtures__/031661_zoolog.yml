@@ -1,0 +1,23 @@
+---
+  id: "31661"
+  word: "zoolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zoolog"
+      acc: "zoologa"
+      gen: "zoologa"
+      loc: "zoologu"
+      dat: "zoologu"
+      ins: "zoologom"
+      voc: "zoolože"
+    plural: 
+      nom: "zoologi"
+      acc: "zoologov"
+      gen: "zoologov"
+      loc: "zoologah"
+      dat: "zoologam"
+      ins: "zoologami"
+      voc: "zoologi"

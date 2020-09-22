@@ -1,0 +1,22 @@
+---
+  id: "21697"
+  word: "kondicija"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kondicija"
+      acc: "kondicijų"
+      gen: "kondicije"
+      loc: "kondiciji"
+      dat: "kondiciji"
+      ins: "kondicijejų"
+      voc: "kondicijo"
+    plural: 
+      nom: "kondicije"
+      acc: "kondicije"
+      gen: "kondicij"
+      loc: "kondicijah"
+      dat: "kondicijam"
+      ins: "kondicijami"
+      voc: "kondicije"

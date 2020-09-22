@@ -1,0 +1,22 @@
+---
+  id: "2959"
+  word: "črěda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črěda"
+      acc: "črědų"
+      gen: "črědy"
+      loc: "črědě"
+      dat: "črědě"
+      ins: "črědojų"
+      voc: "črědo"
+    plural: 
+      nom: "črědy"
+      acc: "črědy"
+      gen: "črěd"
+      loc: "črědah"
+      dat: "črědam"
+      ins: "črědami"
+      voc: "črědy"

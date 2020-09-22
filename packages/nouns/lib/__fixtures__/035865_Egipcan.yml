@@ -1,0 +1,47 @@
+---
+  - 
+    id: "35865"
+    word: "Egipćan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Egipćan"
+        acc: "Egipćana"
+        gen: "Egipćana"
+        loc: "Egipćanu"
+        dat: "Egipćanu"
+        ins: "Egipćanom"
+        voc: "Egipćane"
+      plural: 
+        nom: "Egipćani"
+        acc: "Egipćanov"
+        gen: "Egipćanov"
+        loc: "Egipćanah"
+        dat: "Egipćanam"
+        ins: "Egipćanami"
+        voc: "Egipćani"
+  - 
+    id: "35865"
+    word: "Egipćanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Egipćanin"
+        acc: "Egipćanina"
+        gen: "Egipćanina"
+        loc: "Egipćaninu"
+        dat: "Egipćaninu"
+        ins: "Egipćaninom"
+        voc: "Egipćanine"
+      plural: 
+        nom: "Egipćani"
+        acc: "Egipćanov"
+        gen: "Egipćanov"
+        loc: "Egipćanah"
+        dat: "Egipćanam"
+        ins: "Egipćanami"
+        voc: "Egipćani"

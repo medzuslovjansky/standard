@@ -1,0 +1,22 @@
+---
+  id: "18476"
+  word: "prijem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prijem"
+      acc: "prijem"
+      gen: "prijema"
+      loc: "prijemu"
+      dat: "prijemu"
+      ins: "prijemom"
+      voc: "prijeme"
+    plural: 
+      nom: "prijemy"
+      acc: "prijemy"
+      gen: "prijemov"
+      loc: "prijemah"
+      dat: "prijemam"
+      ins: "prijemami"
+      voc: "prijemy"

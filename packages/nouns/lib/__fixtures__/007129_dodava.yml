@@ -1,0 +1,22 @@
+---
+  id: "7129"
+  word: "dodava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dodava"
+      acc: "dodavų"
+      gen: "dodavy"
+      loc: "dodavě"
+      dat: "dodavě"
+      ins: "dodavojų"
+      voc: "dodavo"
+    plural: 
+      nom: "dodavy"
+      acc: "dodavy"
+      gen: "dodav"
+      loc: "dodavah"
+      dat: "dodavam"
+      ins: "dodavami"
+      voc: "dodavy"

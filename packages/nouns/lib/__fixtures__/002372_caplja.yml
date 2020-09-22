@@ -1,0 +1,22 @@
+---
+  id: "2372"
+  word: "čaplja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čaplja"
+      acc: "čapljų"
+      gen: "čaplje"
+      loc: "čaplji"
+      dat: "čaplji"
+      ins: "čapljejų"
+      voc: "čapljo"
+    plural: 
+      nom: "čaplje"
+      acc: "čaplje"
+      gen: "čaplej"
+      loc: "čapljah"
+      dat: "čapljam"
+      ins: "čapljami"
+      voc: "čaplje"

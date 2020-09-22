@@ -1,0 +1,22 @@
+---
+  id: "24219"
+  word: "akvarium"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akvarium"
+      acc: "akvarium"
+      gen: "akvariuma"
+      loc: "akvariumu"
+      dat: "akvariumu"
+      ins: "akvariumom"
+      voc: "akvarium"
+    plural: 
+      nom: "akvariuma"
+      acc: "akvariuma"
+      gen: "akvarium"
+      loc: "akvariumah"
+      dat: "akvariumam"
+      ins: "akvariumami"
+      voc: "akvariuma"

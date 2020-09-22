@@ -1,0 +1,22 @@
+---
+  id: "2637"
+  word: "krilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krilo"
+      acc: "krilo"
+      gen: "krila"
+      loc: "krilu"
+      dat: "krilu"
+      ins: "krilom"
+      voc: "krilo"
+    plural: 
+      nom: "krila"
+      acc: "krila"
+      gen: "kril"
+      loc: "krilah"
+      dat: "krilam"
+      ins: "krilami"
+      voc: "krila"

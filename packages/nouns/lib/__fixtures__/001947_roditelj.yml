@@ -1,0 +1,23 @@
+---
+  id: "1947"
+  word: "roditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "roditelj"
+      acc: "roditelja"
+      gen: "roditelja"
+      loc: "roditelju"
+      dat: "roditelju"
+      ins: "roditeljem"
+      voc: "roditelju"
+    plural: 
+      nom: "roditelji"
+      acc: "roditeljev"
+      gen: "roditeljev"
+      loc: "roditeljah"
+      dat: "roditeljam"
+      ins: "roditeljami"
+      voc: "roditelji"

@@ -1,0 +1,22 @@
+---
+  id: "12287"
+  word: "slådkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slådkosť"
+      acc: "slådkosť"
+      gen: "slådkosti"
+      loc: "slådkosti"
+      dat: "slådkosti"
+      ins: "slådkosťjų"
+      voc: "slådkosti"
+    plural: 
+      nom: "slådkosti"
+      acc: "slådkosti"
+      gen: "slådkostij"
+      loc: "slådkosťah"
+      dat: "slådkosťam"
+      ins: "slådkosťami"
+      voc: "slådkosti"

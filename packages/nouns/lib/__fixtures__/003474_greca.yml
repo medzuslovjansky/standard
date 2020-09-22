@@ -1,0 +1,22 @@
+---
+  id: "3474"
+  word: "greča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "greča"
+      acc: "grečų"
+      gen: "greče"
+      loc: "greči"
+      dat: "greči"
+      ins: "grečejų"
+      voc: "grečo"
+    plural: 
+      nom: "greče"
+      acc: "greče"
+      gen: "greč"
+      loc: "grečah"
+      dat: "grečam"
+      ins: "grečami"
+      voc: "greče"

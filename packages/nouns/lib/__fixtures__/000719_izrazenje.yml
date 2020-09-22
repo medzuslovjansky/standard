@@ -1,0 +1,22 @@
+---
+  id: "719"
+  word: "izražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izražeńje"
+      acc: "izražeńje"
+      gen: "izražeńja"
+      loc: "izražeńju"
+      dat: "izražeńju"
+      ins: "izražeńjem"
+      voc: "izražeńje"
+    plural: 
+      nom: "izražeńja"
+      acc: "izražeńja"
+      gen: "izraženij"
+      loc: "izražeńjah"
+      dat: "izražeńjam"
+      ins: "izražeńjami"
+      voc: "izražeńja"

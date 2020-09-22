@@ -1,0 +1,23 @@
+---
+  id: "36027"
+  word: "frizer"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "frizer"
+      acc: "frizera"
+      gen: "frizera"
+      loc: "frizeru"
+      dat: "frizeru"
+      ins: "frizerom"
+      voc: "frizere"
+    plural: 
+      nom: "frizeri"
+      acc: "frizerov"
+      gen: "frizerov"
+      loc: "frizerah"
+      dat: "frizeram"
+      ins: "frizerami"
+      voc: "frizeri"

@@ -1,0 +1,22 @@
+---
+  id: "2747"
+  word: "most"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "most"
+      acc: "most"
+      gen: "mosta"
+      loc: "mostu"
+      dat: "mostu"
+      ins: "mostom"
+      voc: "moste"
+    plural: 
+      nom: "mosty"
+      acc: "mosty"
+      gen: "mostov"
+      loc: "mostah"
+      dat: "mostam"
+      ins: "mostami"
+      voc: "mosty"

@@ -1,0 +1,22 @@
+---
+  id: "3327"
+  word: "učet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "učet"
+      acc: "učet"
+      gen: "učeta"
+      loc: "učetu"
+      dat: "učetu"
+      ins: "učetom"
+      voc: "učete"
+    plural: 
+      nom: "učety"
+      acc: "učety"
+      gen: "učetov"
+      loc: "učetah"
+      dat: "učetam"
+      ins: "učetami"
+      voc: "učety"

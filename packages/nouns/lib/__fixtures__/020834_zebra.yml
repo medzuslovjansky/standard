@@ -1,0 +1,22 @@
+---
+  id: "20834"
+  word: "zebra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zebra"
+      acc: "zebrų"
+      gen: "zebry"
+      loc: "zebrě"
+      dat: "zebrě"
+      ins: "zebrojų"
+      voc: "zebro"
+    plural: 
+      nom: "zebry"
+      acc: "zebry"
+      gen: "zebr"
+      loc: "zebrah"
+      dat: "zebram"
+      ins: "zebrami"
+      voc: "zebry"

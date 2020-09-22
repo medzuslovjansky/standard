@@ -1,0 +1,22 @@
+---
+  id: "35215"
+  word: "prěporųka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěporųka"
+      acc: "prěporųkų"
+      gen: "prěporųky"
+      loc: "prěporųkě"
+      dat: "prěporųkě"
+      ins: "prěporųkojų"
+      voc: "prěporųko"
+    plural: 
+      nom: "prěporųky"
+      acc: "prěporųky"
+      gen: "prěporųk"
+      loc: "prěporųkah"
+      dat: "prěporųkam"
+      ins: "prěporųkami"
+      voc: "prěporųky"

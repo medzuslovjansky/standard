@@ -1,0 +1,22 @@
+---
+  id: "17117"
+  word: "aktuaľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aktuaľnosť"
+      acc: "aktuaľnosť"
+      gen: "aktuaľnosti"
+      loc: "aktuaľnosti"
+      dat: "aktuaľnosti"
+      ins: "aktuaľnosťjų"
+      voc: "aktuaľnosti"
+    plural: 
+      nom: "aktuaľnosti"
+      acc: "aktuaľnosti"
+      gen: "aktuaľnostij"
+      loc: "aktuaľnosťah"
+      dat: "aktuaľnosťam"
+      ins: "aktuaľnosťami"
+      voc: "aktuaľnosti"

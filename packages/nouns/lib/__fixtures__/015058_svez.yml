@@ -1,0 +1,45 @@
+---
+  - 
+    id: "15058"
+    word: "svęź"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "svęź"
+        acc: "svęź"
+        gen: "svęźa"
+        loc: "svęźu"
+        dat: "svęźu"
+        ins: "svęźem"
+        voc: "svęźu"
+      plural: 
+        nom: "svęźe"
+        acc: "svęźe"
+        gen: "svęźev"
+        loc: "svęźah"
+        dat: "svęźam"
+        ins: "svęźami"
+        voc: "svęźe"
+  - 
+    id: "15058"
+    word: "svęź"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "svęź"
+        acc: "svęź"
+        gen: "svęzi"
+        loc: "svęzi"
+        dat: "svęzi"
+        ins: "svęźjų"
+        voc: "svęzi"
+      plural: 
+        nom: "svęzi"
+        acc: "svęzi"
+        gen: "svęzij"
+        loc: "svęźah"
+        dat: "svęźam"
+        ins: "svęźami"
+        voc: "svęzi"

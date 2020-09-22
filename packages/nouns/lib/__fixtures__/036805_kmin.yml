@@ -1,0 +1,22 @@
+---
+  id: "36805"
+  word: "kmin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kmin"
+      acc: "kmin"
+      gen: "kmina"
+      loc: "kminu"
+      dat: "kminu"
+      ins: "kminom"
+      voc: "kmine"
+    plural: 
+      nom: "kminy"
+      acc: "kminy"
+      gen: "kminov"
+      loc: "kminah"
+      dat: "kminam"
+      ins: "kminami"
+      voc: "kminy"

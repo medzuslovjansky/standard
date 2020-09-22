@@ -1,0 +1,22 @@
+---
+  id: "18441"
+  word: "prěstųpȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěstųpȯk"
+      acc: "prěstųpȯk"
+      gen: "prěstųpka"
+      loc: "prěstųpku"
+      dat: "prěstųpku"
+      ins: "prěstųpkom"
+      voc: "prěstųpče"
+    plural: 
+      nom: "prěstųpky"
+      acc: "prěstųpky"
+      gen: "prěstųpkov"
+      loc: "prěstųpkah"
+      dat: "prěstųpkam"
+      ins: "prěstųpkami"
+      voc: "prěstųpky"

@@ -1,0 +1,22 @@
+---
+  id: "2572"
+  word: "hemikalija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hemikalija"
+      acc: "hemikalijų"
+      gen: "hemikalije"
+      loc: "hemikaliji"
+      dat: "hemikaliji"
+      ins: "hemikalijejų"
+      voc: "hemikalijo"
+    plural: 
+      nom: "hemikalije"
+      acc: "hemikalije"
+      gen: "hemikalij"
+      loc: "hemikalijah"
+      dat: "hemikalijam"
+      ins: "hemikalijami"
+      voc: "hemikalije"

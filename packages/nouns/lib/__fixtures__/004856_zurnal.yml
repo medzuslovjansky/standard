@@ -1,0 +1,22 @@
+---
+  id: "4856"
+  word: "žurnal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žurnal"
+      acc: "žurnal"
+      gen: "žurnala"
+      loc: "žurnalu"
+      dat: "žurnalu"
+      ins: "žurnalom"
+      voc: "žurnale"
+    plural: 
+      nom: "žurnaly"
+      acc: "žurnaly"
+      gen: "žurnalov"
+      loc: "žurnalah"
+      dat: "žurnalam"
+      ins: "žurnalami"
+      voc: "žurnaly"

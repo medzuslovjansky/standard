@@ -1,0 +1,22 @@
+---
+  id: "1053"
+  word: "šapka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šapka"
+      acc: "šapkų"
+      gen: "šapky"
+      loc: "šapkě"
+      dat: "šapkě"
+      ins: "šapkojų"
+      voc: "šapko"
+    plural: 
+      nom: "šapky"
+      acc: "šapky"
+      gen: "šapȯk"
+      loc: "šapkah"
+      dat: "šapkam"
+      ins: "šapkami"
+      voc: "šapky"

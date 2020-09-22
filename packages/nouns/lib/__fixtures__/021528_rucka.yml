@@ -1,0 +1,22 @@
+---
+  id: "21528"
+  word: "rųčka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rųčka"
+      acc: "rųčkų"
+      gen: "rųčky"
+      loc: "rųčkě"
+      dat: "rųčkě"
+      ins: "rųčkojų"
+      voc: "rųčko"
+    plural: 
+      nom: "rųčky"
+      acc: "rųčky"
+      gen: "rųček"
+      loc: "rųčkah"
+      dat: "rųčkam"
+      ins: "rųčkami"
+      voc: "rųčky"

@@ -1,0 +1,22 @@
+---
+  id: "5284"
+  word: "polica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "polica"
+      acc: "policų"
+      gen: "police"
+      loc: "polici"
+      dat: "polici"
+      ins: "policejų"
+      voc: "polico"
+    plural: 
+      nom: "police"
+      acc: "police"
+      gen: "polic"
+      loc: "policah"
+      dat: "policam"
+      ins: "policami"
+      voc: "police"

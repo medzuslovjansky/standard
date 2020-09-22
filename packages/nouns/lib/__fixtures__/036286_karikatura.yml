@@ -1,0 +1,22 @@
+---
+  id: "36286"
+  word: "karikatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "karikatura"
+      acc: "karikaturų"
+      gen: "karikatury"
+      loc: "karikaturě"
+      dat: "karikaturě"
+      ins: "karikaturojų"
+      voc: "karikaturo"
+    plural: 
+      nom: "karikatury"
+      acc: "karikatury"
+      gen: "karikatur"
+      loc: "karikaturah"
+      dat: "karikaturam"
+      ins: "karikaturami"
+      voc: "karikatury"

@@ -1,0 +1,22 @@
+---
+  id: "4760"
+  word: "Biblija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Biblija"
+      acc: "Biblijų"
+      gen: "Biblije"
+      loc: "Bibliji"
+      dat: "Bibliji"
+      ins: "Biblijejų"
+      voc: "Biblijo"
+    plural: 
+      nom: "Biblije"
+      acc: "Biblije"
+      gen: "Biblij"
+      loc: "Biblijah"
+      dat: "Biblijam"
+      ins: "Biblijami"
+      voc: "Biblije"

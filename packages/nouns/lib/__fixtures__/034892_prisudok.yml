@@ -1,0 +1,22 @@
+---
+  id: "34892"
+  word: "prisųdȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prisųdȯk"
+      acc: "prisųdȯk"
+      gen: "prisųdka"
+      loc: "prisųdku"
+      dat: "prisųdku"
+      ins: "prisųdkom"
+      voc: "prisųdče"
+    plural: 
+      nom: "prisųdky"
+      acc: "prisųdky"
+      gen: "prisųdkov"
+      loc: "prisųdkah"
+      dat: "prisųdkam"
+      ins: "prisųdkami"
+      voc: "prisųdky"

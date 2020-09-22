@@ -1,0 +1,22 @@
+---
+  id: "23085"
+  word: "občudovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "občudovańje"
+      acc: "občudovańje"
+      gen: "občudovańja"
+      loc: "občudovańju"
+      dat: "občudovańju"
+      ins: "občudovańjem"
+      voc: "občudovańje"
+    plural: 
+      nom: "občudovańja"
+      acc: "občudovańja"
+      gen: "občudovanij"
+      loc: "občudovańjah"
+      dat: "občudovańjam"
+      ins: "občudovańjami"
+      voc: "občudovańja"

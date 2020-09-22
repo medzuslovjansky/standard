@@ -1,0 +1,22 @@
+---
+  id: "24683"
+  word: "blåna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blåna"
+      acc: "blånų"
+      gen: "blåny"
+      loc: "blåně"
+      dat: "blåně"
+      ins: "blånojų"
+      voc: "blåno"
+    plural: 
+      nom: "blåny"
+      acc: "blåny"
+      gen: "blån"
+      loc: "blånah"
+      dat: "blånam"
+      ins: "blånami"
+      voc: "blåny"

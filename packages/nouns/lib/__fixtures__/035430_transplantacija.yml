@@ -1,0 +1,22 @@
+---
+  id: "35430"
+  word: "transplantacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "transplantacija"
+      acc: "transplantacijų"
+      gen: "transplantacije"
+      loc: "transplantaciji"
+      dat: "transplantaciji"
+      ins: "transplantacijejų"
+      voc: "transplantacijo"
+    plural: 
+      nom: "transplantacije"
+      acc: "transplantacije"
+      gen: "transplantacij"
+      loc: "transplantacijah"
+      dat: "transplantacijam"
+      ins: "transplantacijami"
+      voc: "transplantacije"

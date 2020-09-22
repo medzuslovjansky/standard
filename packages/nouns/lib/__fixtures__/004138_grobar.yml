@@ -1,0 +1,23 @@
+---
+  id: "4138"
+  word: "grobaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grobaŕ"
+      acc: "grobaŕa"
+      gen: "grobaŕa"
+      loc: "grobaŕu"
+      dat: "grobaŕu"
+      ins: "grobaŕem"
+      voc: "grobaŕu"
+    plural: 
+      nom: "grobari"
+      acc: "grobaŕev"
+      gen: "grobaŕev"
+      loc: "grobaŕah"
+      dat: "grobaŕam"
+      ins: "grobaŕami"
+      voc: "grobari"

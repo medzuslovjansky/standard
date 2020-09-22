@@ -1,0 +1,22 @@
+---
+  id: "8461"
+  word: "klaviša"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klaviša"
+      acc: "klavišų"
+      gen: "klaviše"
+      loc: "klaviši"
+      dat: "klaviši"
+      ins: "klavišejų"
+      voc: "klavišo"
+    plural: 
+      nom: "klaviše"
+      acc: "klaviše"
+      gen: "klaviš"
+      loc: "klavišah"
+      dat: "klavišam"
+      ins: "klavišami"
+      voc: "klaviše"

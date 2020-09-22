@@ -1,0 +1,15 @@
+---
+  id: "18212"
+  word: "plastik"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "plastik"
+      acc: "plastik"
+      gen: "plastika"
+      loc: "plastiku"
+      dat: "plastiku"
+      ins: "plastikom"
+      voc: "plastiče"

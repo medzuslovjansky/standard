@@ -1,0 +1,22 @@
+---
+  id: "21847"
+  word: "baner"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baner"
+      acc: "baner"
+      gen: "banera"
+      loc: "baneru"
+      dat: "baneru"
+      ins: "banerom"
+      voc: "banere"
+    plural: 
+      nom: "banery"
+      acc: "banery"
+      gen: "banerov"
+      loc: "banerah"
+      dat: "baneram"
+      ins: "banerami"
+      voc: "banery"

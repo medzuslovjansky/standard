@@ -1,0 +1,23 @@
+---
+  id: "21253"
+  word: "živopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "živopisec"
+      acc: "živopisca"
+      gen: "živopisca"
+      loc: "živopiscu"
+      dat: "živopiscu"
+      ins: "živopiscem"
+      voc: "živopisče"
+    plural: 
+      nom: "živopisci"
+      acc: "živopiscev"
+      gen: "živopiscev"
+      loc: "živopiscah"
+      dat: "živopiscam"
+      ins: "živopiscami"
+      voc: "živopisci"

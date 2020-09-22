@@ -1,0 +1,22 @@
+---
+  id: "26987"
+  word: "kupola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kupola"
+      acc: "kupolų"
+      gen: "kupoly"
+      loc: "kupolě"
+      dat: "kupolě"
+      ins: "kupolojų"
+      voc: "kupolo"
+    plural: 
+      nom: "kupoly"
+      acc: "kupoly"
+      gen: "kupol"
+      loc: "kupolah"
+      dat: "kupolam"
+      ins: "kupolami"
+      voc: "kupoly"

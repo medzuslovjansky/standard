@@ -1,0 +1,22 @@
+---
+  id: "298"
+  word: "dětę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dětę"
+      acc: "dětę"
+      gen: "dětęte / dětęta"
+      loc: "dětęti / dětętu"
+      dat: "dětęti / dětętu"
+      ins: "dětętem / dětętom"
+      voc: "dětę"
+    plural: 
+      nom: "děti"
+      acc: "děti"
+      gen: "dětij"
+      loc: "děťah"
+      dat: "děťam"
+      ins: "děťami"
+      voc: "děti"

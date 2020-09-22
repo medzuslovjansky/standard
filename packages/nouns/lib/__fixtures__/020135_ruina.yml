@@ -1,0 +1,22 @@
+---
+  id: "20135"
+  word: "ruina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ruina"
+      acc: "ruinų"
+      gen: "ruiny"
+      loc: "ruině"
+      dat: "ruině"
+      ins: "ruinojų"
+      voc: "ruino"
+    plural: 
+      nom: "ruiny"
+      acc: "ruiny"
+      gen: "ruin"
+      loc: "ruinah"
+      dat: "ruinam"
+      ins: "ruinami"
+      voc: "ruiny"

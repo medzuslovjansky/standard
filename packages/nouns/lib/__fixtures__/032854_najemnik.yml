@@ -1,0 +1,23 @@
+---
+  id: "32854"
+  word: "najemnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "najemnik"
+      acc: "najemnika"
+      gen: "najemnika"
+      loc: "najemniku"
+      dat: "najemniku"
+      ins: "najemnikom"
+      voc: "najemniče"
+    plural: 
+      nom: "najemniki"
+      acc: "najemnikov"
+      gen: "najemnikov"
+      loc: "najemnikah"
+      dat: "najemnikam"
+      ins: "najemnikami"
+      voc: "najemniki"

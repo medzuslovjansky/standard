@@ -1,0 +1,22 @@
+---
+  id: "6237"
+  word: "progres"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "progres"
+      acc: "progres"
+      gen: "progresa"
+      loc: "progresu"
+      dat: "progresu"
+      ins: "progresom"
+      voc: "progrese"
+    plural: 
+      nom: "progresy"
+      acc: "progresy"
+      gen: "progresov"
+      loc: "progresah"
+      dat: "progresam"
+      ins: "progresami"
+      voc: "progresy"

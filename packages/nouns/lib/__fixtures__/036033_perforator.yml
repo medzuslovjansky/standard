@@ -1,0 +1,22 @@
+---
+  id: "36033"
+  word: "perforator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "perforator"
+      acc: "perforator"
+      gen: "perforatora"
+      loc: "perforatoru"
+      dat: "perforatoru"
+      ins: "perforatorom"
+      voc: "perforatore"
+    plural: 
+      nom: "perforatory"
+      acc: "perforatory"
+      gen: "perforatorov"
+      loc: "perforatorah"
+      dat: "perforatoram"
+      ins: "perforatorami"
+      voc: "perforatory"

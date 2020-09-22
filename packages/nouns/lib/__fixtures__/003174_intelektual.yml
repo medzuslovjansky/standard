@@ -1,0 +1,23 @@
+---
+  id: "3174"
+  word: "intelektual"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "intelektual"
+      acc: "intelektuala"
+      gen: "intelektuala"
+      loc: "intelektualu"
+      dat: "intelektualu"
+      ins: "intelektualom"
+      voc: "intelektuale"
+    plural: 
+      nom: "intelektuali"
+      acc: "intelektualov"
+      gen: "intelektualov"
+      loc: "intelektualah"
+      dat: "intelektualam"
+      ins: "intelektualami"
+      voc: "intelektuali"

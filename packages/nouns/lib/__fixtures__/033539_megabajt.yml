@@ -1,0 +1,22 @@
+---
+  id: "33539"
+  word: "megabajt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "megabajt"
+      acc: "megabajt"
+      gen: "megabajta"
+      loc: "megabajtu"
+      dat: "megabajtu"
+      ins: "megabajtom"
+      voc: "megabajte"
+    plural: 
+      nom: "megabajty"
+      acc: "megabajty"
+      gen: "megabajtov"
+      loc: "megabajtah"
+      dat: "megabajtam"
+      ins: "megabajtami"
+      voc: "megabajty"

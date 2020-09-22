@@ -1,0 +1,22 @@
+---
+  id: "35383"
+  word: "korporacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korporacija"
+      acc: "korporacijų"
+      gen: "korporacije"
+      loc: "korporaciji"
+      dat: "korporaciji"
+      ins: "korporacijejų"
+      voc: "korporacijo"
+    plural: 
+      nom: "korporacije"
+      acc: "korporacije"
+      gen: "korporacij"
+      loc: "korporacijah"
+      dat: "korporacijam"
+      ins: "korporacijami"
+      voc: "korporacije"

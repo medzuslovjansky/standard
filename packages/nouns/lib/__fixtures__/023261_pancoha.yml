@@ -1,0 +1,22 @@
+---
+  id: "23261"
+  word: "pančoha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pančoha"
+      acc: "pančohų"
+      gen: "pančohy"
+      loc: "pančohě"
+      dat: "pančohě"
+      ins: "pančohojų"
+      voc: "pančoho"
+    plural: 
+      nom: "pančohy"
+      acc: "pančohy"
+      gen: "pančoh"
+      loc: "pančohah"
+      dat: "pančoham"
+      ins: "pančohami"
+      voc: "pančohy"

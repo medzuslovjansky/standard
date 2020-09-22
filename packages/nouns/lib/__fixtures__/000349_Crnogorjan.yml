@@ -1,0 +1,47 @@
+---
+  - 
+    id: "349"
+    word: "Črnogorjan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Črnogorjan"
+        acc: "Črnogorjana"
+        gen: "Črnogorjana"
+        loc: "Črnogorjanu"
+        dat: "Črnogorjanu"
+        ins: "Črnogorjanom"
+        voc: "Črnogorjane"
+      plural: 
+        nom: "Črnogorjani"
+        acc: "Črnogorjanov"
+        gen: "Črnogorjanov"
+        loc: "Črnogorjanah"
+        dat: "Črnogorjanam"
+        ins: "Črnogorjanami"
+        voc: "Črnogorjani"
+  - 
+    id: "349"
+    word: "Črnogorjanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "Črnogorjanin"
+        acc: "Črnogorjanina"
+        gen: "Črnogorjanina"
+        loc: "Črnogorjaninu"
+        dat: "Črnogorjaninu"
+        ins: "Črnogorjaninom"
+        voc: "Črnogorjanine"
+      plural: 
+        nom: "Črnogorjani"
+        acc: "Črnogorjanov"
+        gen: "Črnogorjanov"
+        loc: "Črnogorjanah"
+        dat: "Črnogorjanam"
+        ins: "Črnogorjanami"
+        voc: "Črnogorjani"

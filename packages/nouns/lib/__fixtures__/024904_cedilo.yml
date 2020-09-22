@@ -1,0 +1,22 @@
+---
+  id: "24904"
+  word: "cědilo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "cědilo"
+      acc: "cědilo"
+      gen: "cědila"
+      loc: "cědilu"
+      dat: "cědilu"
+      ins: "cědilom"
+      voc: "cědilo"
+    plural: 
+      nom: "cědila"
+      acc: "cědila"
+      gen: "cědil"
+      loc: "cědilah"
+      dat: "cědilam"
+      ins: "cědilami"
+      voc: "cědila"

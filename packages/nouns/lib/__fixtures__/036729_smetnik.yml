@@ -1,0 +1,22 @@
+---
+  id: "36729"
+  word: "smetnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smetnik"
+      acc: "smetnik"
+      gen: "smetnika"
+      loc: "smetniku"
+      dat: "smetniku"
+      ins: "smetnikom"
+      voc: "smetniče"
+    plural: 
+      nom: "smetniky"
+      acc: "smetniky"
+      gen: "smetnikov"
+      loc: "smetnikah"
+      dat: "smetnikam"
+      ins: "smetnikami"
+      voc: "smetniky"

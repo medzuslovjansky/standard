@@ -1,0 +1,22 @@
+---
+  id: "13242"
+  word: "vlagańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vlagańje"
+      acc: "vlagańje"
+      gen: "vlagańja"
+      loc: "vlagańju"
+      dat: "vlagańju"
+      ins: "vlagańjem"
+      voc: "vlagańje"
+    plural: 
+      nom: "vlagańja"
+      acc: "vlagańja"
+      gen: "vlaganij"
+      loc: "vlagańjah"
+      dat: "vlagańjam"
+      ins: "vlagańjami"
+      voc: "vlagańja"

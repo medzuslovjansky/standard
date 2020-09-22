@@ -1,0 +1,22 @@
+---
+  id: "4953"
+  word: "blokada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "blokada"
+      acc: "blokadų"
+      gen: "blokady"
+      loc: "blokadě"
+      dat: "blokadě"
+      ins: "blokadojų"
+      voc: "blokado"
+    plural: 
+      nom: "blokady"
+      acc: "blokady"
+      gen: "blokad"
+      loc: "blokadah"
+      dat: "blokadam"
+      ins: "blokadami"
+      voc: "blokady"

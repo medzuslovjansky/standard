@@ -1,0 +1,22 @@
+---
+  id: "19363"
+  word: "zahvat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zahvat"
+      acc: "zahvat"
+      gen: "zahvata"
+      loc: "zahvatu"
+      dat: "zahvatu"
+      ins: "zahvatom"
+      voc: "zahvate"
+    plural: 
+      nom: "zahvaty"
+      acc: "zahvaty"
+      gen: "zahvatov"
+      loc: "zahvatah"
+      dat: "zahvatam"
+      ins: "zahvatami"
+      voc: "zahvaty"

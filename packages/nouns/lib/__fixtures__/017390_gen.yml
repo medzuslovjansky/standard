@@ -1,0 +1,22 @@
+---
+  id: "17390"
+  word: "gen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gen"
+      acc: "gen"
+      gen: "gena"
+      loc: "genu"
+      dat: "genu"
+      ins: "genom"
+      voc: "gene"
+    plural: 
+      nom: "geny"
+      acc: "geny"
+      gen: "genov"
+      loc: "genah"
+      dat: "genam"
+      ins: "genami"
+      voc: "geny"

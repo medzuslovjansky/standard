@@ -1,0 +1,23 @@
+---
+  id: "25127"
+  word: "darvinist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "darvinist"
+      acc: "darvinista"
+      gen: "darvinista"
+      loc: "darvinistu"
+      dat: "darvinistu"
+      ins: "darvinistom"
+      voc: "darviniste"
+    plural: 
+      nom: "darvinisti"
+      acc: "darvinistov"
+      gen: "darvinistov"
+      loc: "darvinistah"
+      dat: "darvinistam"
+      ins: "darvinistami"
+      voc: "darvinisti"

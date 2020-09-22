@@ -1,0 +1,22 @@
+---
+  id: "1384"
+  word: "sjezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sjezd"
+      acc: "sjezd"
+      gen: "sjezda"
+      loc: "sjezdu"
+      dat: "sjezdu"
+      ins: "sjezdom"
+      voc: "sjezde"
+    plural: 
+      nom: "sjezdy"
+      acc: "sjezdy"
+      gen: "sjezdov"
+      loc: "sjezdah"
+      dat: "sjezdam"
+      ins: "sjezdami"
+      voc: "sjezdy"

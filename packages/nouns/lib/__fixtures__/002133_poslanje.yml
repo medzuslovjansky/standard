@@ -1,0 +1,22 @@
+---
+  id: "2133"
+  word: "poslańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poslańje"
+      acc: "poslańje"
+      gen: "poslańja"
+      loc: "poslańju"
+      dat: "poslańju"
+      ins: "poslańjem"
+      voc: "poslańje"
+    plural: 
+      nom: "poslańja"
+      acc: "poslańja"
+      gen: "poslanij"
+      loc: "poslańjah"
+      dat: "poslańjam"
+      ins: "poslańjami"
+      voc: "poslańja"

@@ -1,0 +1,23 @@
+---
+  id: "26345"
+  word: "jedinec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jedinec"
+      acc: "jedinca"
+      gen: "jedinca"
+      loc: "jedincu"
+      dat: "jedincu"
+      ins: "jedincem"
+      voc: "jedinče"
+    plural: 
+      nom: "jedinci"
+      acc: "jedincev"
+      gen: "jedincev"
+      loc: "jedincah"
+      dat: "jedincam"
+      ins: "jedincami"
+      voc: "jedinci"

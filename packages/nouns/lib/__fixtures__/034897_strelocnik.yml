@@ -1,0 +1,23 @@
+---
+  id: "34897"
+  word: "strělȯčnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "strělȯčnik"
+      acc: "strělȯčnika"
+      gen: "strělȯčnika"
+      loc: "strělȯčniku"
+      dat: "strělȯčniku"
+      ins: "strělȯčnikom"
+      voc: "strělȯčniče"
+    plural: 
+      nom: "strělȯčniki"
+      acc: "strělȯčnikov"
+      gen: "strělȯčnikov"
+      loc: "strělȯčnikah"
+      dat: "strělȯčnikam"
+      ins: "strělȯčnikami"
+      voc: "strělȯčniki"

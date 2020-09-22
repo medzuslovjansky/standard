@@ -1,0 +1,24 @@
+---
+  id: "26784"
+  word: "kozel"
+  meta: 
+    irregularity: "(kozla)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kozėl"
+      acc: "kozla"
+      gen: "kozla"
+      loc: "kozlu"
+      dat: "kozlu"
+      ins: "kozlom"
+      voc: "kozle"
+    plural: 
+      nom: "kozli"
+      acc: "kozlov"
+      gen: "kozlov"
+      loc: "kozlah"
+      dat: "kozlam"
+      ins: "kozlami"
+      voc: "kozli"

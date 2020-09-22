@@ -1,0 +1,22 @@
+---
+  id: "536"
+  word: "konec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konec"
+      acc: "konec"
+      gen: "konca"
+      loc: "koncu"
+      dat: "koncu"
+      ins: "koncem"
+      voc: "konče"
+    plural: 
+      nom: "konce"
+      acc: "konce"
+      gen: "koncev"
+      loc: "koncah"
+      dat: "koncam"
+      ins: "koncami"
+      voc: "konce"

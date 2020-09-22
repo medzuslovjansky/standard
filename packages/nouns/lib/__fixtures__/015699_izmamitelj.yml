@@ -1,0 +1,23 @@
+---
+  id: "15699"
+  word: "izmamitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izmamitelj"
+      acc: "izmamitelja"
+      gen: "izmamitelja"
+      loc: "izmamitelju"
+      dat: "izmamitelju"
+      ins: "izmamiteljem"
+      voc: "izmamitelju"
+    plural: 
+      nom: "izmamitelji"
+      acc: "izmamiteljev"
+      gen: "izmamiteljev"
+      loc: "izmamiteljah"
+      dat: "izmamiteljam"
+      ins: "izmamiteljami"
+      voc: "izmamitelji"

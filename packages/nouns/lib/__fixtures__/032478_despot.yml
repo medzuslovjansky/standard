@@ -1,0 +1,23 @@
+---
+  id: "32478"
+  word: "despot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "despot"
+      acc: "despota"
+      gen: "despota"
+      loc: "despotu"
+      dat: "despotu"
+      ins: "despotom"
+      voc: "despote"
+    plural: 
+      nom: "despoti"
+      acc: "despotov"
+      gen: "despotov"
+      loc: "despotah"
+      dat: "despotam"
+      ins: "despotami"
+      voc: "despoti"

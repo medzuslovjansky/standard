@@ -1,0 +1,23 @@
+---
+  id: "3935"
+  word: "zlodějatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zlodějatelj"
+      acc: "zlodějatelja"
+      gen: "zlodějatelja"
+      loc: "zlodějatelju"
+      dat: "zlodějatelju"
+      ins: "zlodějateljem"
+      voc: "zlodějatelju"
+    plural: 
+      nom: "zlodějatelji"
+      acc: "zlodějateljev"
+      gen: "zlodějateljev"
+      loc: "zlodějateljah"
+      dat: "zlodějateljam"
+      ins: "zlodějateljami"
+      voc: "zlodějatelji"

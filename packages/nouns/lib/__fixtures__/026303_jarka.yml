@@ -1,0 +1,22 @@
+---
+  id: "26303"
+  word: "jarka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jarka"
+      acc: "jarkų"
+      gen: "jarky"
+      loc: "jarkě"
+      dat: "jarkě"
+      ins: "jarkojų"
+      voc: "jarko"
+    plural: 
+      nom: "jarky"
+      acc: "jarky"
+      gen: "jarȯk"
+      loc: "jarkah"
+      dat: "jarkam"
+      ins: "jarkami"
+      voc: "jarky"

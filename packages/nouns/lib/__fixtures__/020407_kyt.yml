@@ -1,0 +1,23 @@
+---
+  id: "20407"
+  word: "kyt"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kyt"
+      acc: "kyta"
+      gen: "kyta"
+      loc: "kytu"
+      dat: "kytu"
+      ins: "kytom"
+      voc: "kyte"
+    plural: 
+      nom: "kyti"
+      acc: "kytov"
+      gen: "kytov"
+      loc: "kytah"
+      dat: "kytam"
+      ins: "kytami"
+      voc: "kyti"

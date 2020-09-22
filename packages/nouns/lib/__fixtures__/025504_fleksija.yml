@@ -1,0 +1,22 @@
+---
+  id: "25504"
+  word: "fleksija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fleksija"
+      acc: "fleksijų"
+      gen: "fleksije"
+      loc: "fleksiji"
+      dat: "fleksiji"
+      ins: "fleksijejų"
+      voc: "fleksijo"
+    plural: 
+      nom: "fleksije"
+      acc: "fleksije"
+      gen: "fleksij"
+      loc: "fleksijah"
+      dat: "fleksijam"
+      ins: "fleksijami"
+      voc: "fleksije"

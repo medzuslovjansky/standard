@@ -1,0 +1,22 @@
+---
+  id: "36159"
+  word: "palmeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palmeta"
+      acc: "palmetų"
+      gen: "palmety"
+      loc: "palmetě"
+      dat: "palmetě"
+      ins: "palmetojų"
+      voc: "palmeto"
+    plural: 
+      nom: "palmety"
+      acc: "palmety"
+      gen: "palmet"
+      loc: "palmetah"
+      dat: "palmetam"
+      ins: "palmetami"
+      voc: "palmety"

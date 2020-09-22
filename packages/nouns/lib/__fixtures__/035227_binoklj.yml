@@ -1,0 +1,22 @@
+---
+  id: "35227"
+  word: "binoklj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "binoklj"
+      acc: "binoklj"
+      gen: "binoklja"
+      loc: "binoklju"
+      dat: "binoklju"
+      ins: "binokljem"
+      voc: "binoklju"
+    plural: 
+      nom: "binoklje"
+      acc: "binoklje"
+      gen: "binokljev"
+      loc: "binokljah"
+      dat: "binokljam"
+      ins: "binokljami"
+      voc: "binoklje"

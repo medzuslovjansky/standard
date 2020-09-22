@@ -1,0 +1,22 @@
+---
+  id: "11313"
+  word: "prěmotańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěmotańje"
+      acc: "prěmotańje"
+      gen: "prěmotańja"
+      loc: "prěmotańju"
+      dat: "prěmotańju"
+      ins: "prěmotańjem"
+      voc: "prěmotańje"
+    plural: 
+      nom: "prěmotańja"
+      acc: "prěmotańja"
+      gen: "prěmotanij"
+      loc: "prěmotańjah"
+      dat: "prěmotańjam"
+      ins: "prěmotańjami"
+      voc: "prěmotańja"

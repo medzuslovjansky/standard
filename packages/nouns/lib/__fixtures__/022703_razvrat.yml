@@ -1,0 +1,22 @@
+---
+  id: "22703"
+  word: "råzvråt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzvråt"
+      acc: "råzvråt"
+      gen: "råzvråta"
+      loc: "råzvråtu"
+      dat: "råzvråtu"
+      ins: "råzvråtom"
+      voc: "råzvråte"
+    plural: 
+      nom: "råzvråty"
+      acc: "råzvråty"
+      gen: "råzvråtov"
+      loc: "råzvråtah"
+      dat: "råzvråtam"
+      ins: "råzvråtami"
+      voc: "råzvråty"

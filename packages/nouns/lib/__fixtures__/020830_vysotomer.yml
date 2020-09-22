@@ -1,0 +1,22 @@
+---
+  id: "20830"
+  word: "vysotoměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vysotoměr"
+      acc: "vysotoměr"
+      gen: "vysotoměra"
+      loc: "vysotoměru"
+      dat: "vysotoměru"
+      ins: "vysotoměrom"
+      voc: "vysotoměre"
+    plural: 
+      nom: "vysotoměry"
+      acc: "vysotoměry"
+      gen: "vysotoměrov"
+      loc: "vysotoměrah"
+      dat: "vysotoměram"
+      ins: "vysotoměrami"
+      voc: "vysotoměry"

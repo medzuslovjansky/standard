@@ -1,0 +1,23 @@
+---
+  id: "19384"
+  word: "zaključiľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zaključiľnik"
+      acc: "zaključiľnika"
+      gen: "zaključiľnika"
+      loc: "zaključiľniku"
+      dat: "zaključiľniku"
+      ins: "zaključiľnikom"
+      voc: "zaključiľniče"
+    plural: 
+      nom: "zaključiľniki"
+      acc: "zaključiľnikov"
+      gen: "zaključiľnikov"
+      loc: "zaključiľnikah"
+      dat: "zaključiľnikam"
+      ins: "zaključiľnikami"
+      voc: "zaključiľniki"

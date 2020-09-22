@@ -1,0 +1,23 @@
+---
+  id: "24026"
+  word: "Abhaz"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Abhaz"
+      acc: "Abhaza"
+      gen: "Abhaza"
+      loc: "Abhazu"
+      dat: "Abhazu"
+      ins: "Abhazom"
+      voc: "Abhaze"
+    plural: 
+      nom: "Abhazi"
+      acc: "Abhazov"
+      gen: "Abhazov"
+      loc: "Abhazah"
+      dat: "Abhazam"
+      ins: "Abhazami"
+      voc: "Abhazi"

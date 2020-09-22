@@ -1,0 +1,23 @@
+---
+  id: "36459"
+  word: "uzurpator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "uzurpator"
+      acc: "uzurpatora"
+      gen: "uzurpatora"
+      loc: "uzurpatoru"
+      dat: "uzurpatoru"
+      ins: "uzurpatorom"
+      voc: "uzurpatore"
+    plural: 
+      nom: "uzurpatori"
+      acc: "uzurpatorov"
+      gen: "uzurpatorov"
+      loc: "uzurpatorah"
+      dat: "uzurpatoram"
+      ins: "uzurpatorami"
+      voc: "uzurpatori"

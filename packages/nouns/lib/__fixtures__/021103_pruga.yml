@@ -1,0 +1,22 @@
+---
+  id: "21103"
+  word: "prųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prųga"
+      acc: "prųgų"
+      gen: "prųgy"
+      loc: "prųgě"
+      dat: "prųgě"
+      ins: "prųgojų"
+      voc: "prųgo"
+    plural: 
+      nom: "prųgy"
+      acc: "prųgy"
+      gen: "prųg"
+      loc: "prųgah"
+      dat: "prųgam"
+      ins: "prųgami"
+      voc: "prųgy"

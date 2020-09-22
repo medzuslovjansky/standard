@@ -1,0 +1,22 @@
+---
+  id: "22250"
+  word: "obvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obvod"
+      acc: "obvod"
+      gen: "obvoda"
+      loc: "obvodu"
+      dat: "obvodu"
+      ins: "obvodom"
+      voc: "obvode"
+    plural: 
+      nom: "obvody"
+      acc: "obvody"
+      gen: "obvodov"
+      loc: "obvodah"
+      dat: "obvodam"
+      ins: "obvodami"
+      voc: "obvody"

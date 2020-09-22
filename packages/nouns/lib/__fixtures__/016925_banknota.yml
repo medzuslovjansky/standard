@@ -1,0 +1,22 @@
+---
+  id: "16925"
+  word: "banknota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "banknota"
+      acc: "banknotų"
+      gen: "banknoty"
+      loc: "banknotě"
+      dat: "banknotě"
+      ins: "banknotojų"
+      voc: "banknoto"
+    plural: 
+      nom: "banknoty"
+      acc: "banknoty"
+      gen: "banknot"
+      loc: "banknotah"
+      dat: "banknotam"
+      ins: "banknotami"
+      voc: "banknoty"

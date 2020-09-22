@@ -1,0 +1,22 @@
+---
+  id: "19052"
+  word: "ukrađeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ukrađeńje"
+      acc: "ukrađeńje"
+      gen: "ukrađeńja"
+      loc: "ukrađeńju"
+      dat: "ukrađeńju"
+      ins: "ukrađeńjem"
+      voc: "ukrađeńje"
+    plural: 
+      nom: "ukrađeńja"
+      acc: "ukrađeńja"
+      gen: "ukrađenij"
+      loc: "ukrađeńjah"
+      dat: "ukrađeńjam"
+      ins: "ukrađeńjami"
+      voc: "ukrađeńja"

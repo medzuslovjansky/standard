@@ -1,0 +1,22 @@
+---
+  id: "24377"
+  word: "avtomat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtomat"
+      acc: "avtomat"
+      gen: "avtomata"
+      loc: "avtomatu"
+      dat: "avtomatu"
+      ins: "avtomatom"
+      voc: "avtomate"
+    plural: 
+      nom: "avtomaty"
+      acc: "avtomaty"
+      gen: "avtomatov"
+      loc: "avtomatah"
+      dat: "avtomatam"
+      ins: "avtomatami"
+      voc: "avtomaty"

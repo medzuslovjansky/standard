@@ -1,0 +1,22 @@
+---
+  id: "19719"
+  word: "horizont"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "horizont"
+      acc: "horizont"
+      gen: "horizonta"
+      loc: "horizontu"
+      dat: "horizontu"
+      ins: "horizontom"
+      voc: "horizonte"
+    plural: 
+      nom: "horizonty"
+      acc: "horizonty"
+      gen: "horizontov"
+      loc: "horizontah"
+      dat: "horizontam"
+      ins: "horizontami"
+      voc: "horizonty"

@@ -1,0 +1,22 @@
+---
+  id: "18267"
+  word: "podnožišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podnožišče"
+      acc: "podnožišče"
+      gen: "podnožišča"
+      loc: "podnožišču"
+      dat: "podnožišču"
+      ins: "podnožiščem"
+      voc: "podnožišče"
+    plural: 
+      nom: "podnožišča"
+      acc: "podnožišča"
+      gen: "podnožišč"
+      loc: "podnožiščah"
+      dat: "podnožiščam"
+      ins: "podnožiščami"
+      voc: "podnožišča"

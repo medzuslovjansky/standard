@@ -1,0 +1,22 @@
+---
+  id: "12832"
+  word: "šestikųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šestikųtnik"
+      acc: "šestikųtnik"
+      gen: "šestikųtnika"
+      loc: "šestikųtniku"
+      dat: "šestikųtniku"
+      ins: "šestikųtnikom"
+      voc: "šestikųtniče"
+    plural: 
+      nom: "šestikųtniky"
+      acc: "šestikųtniky"
+      gen: "šestikųtnikov"
+      loc: "šestikųtnikah"
+      dat: "šestikųtnikam"
+      ins: "šestikųtnikami"
+      voc: "šestikųtniky"

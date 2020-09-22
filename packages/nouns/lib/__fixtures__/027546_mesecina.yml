@@ -1,0 +1,22 @@
+---
+  id: "27546"
+  word: "měsęčina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "měsęčina"
+      acc: "měsęčinų"
+      gen: "měsęčiny"
+      loc: "měsęčině"
+      dat: "měsęčině"
+      ins: "měsęčinojų"
+      voc: "měsęčino"
+    plural: 
+      nom: "měsęčiny"
+      acc: "měsęčiny"
+      gen: "měsęčin"
+      loc: "měsęčinah"
+      dat: "měsęčinam"
+      ins: "měsęčinami"
+      voc: "měsęčiny"

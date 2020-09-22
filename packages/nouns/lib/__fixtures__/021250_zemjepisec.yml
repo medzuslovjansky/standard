@@ -1,0 +1,23 @@
+---
+  id: "21250"
+  word: "zemjepisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zemjepisec"
+      acc: "zemjepisca"
+      gen: "zemjepisca"
+      loc: "zemjepiscu"
+      dat: "zemjepiscu"
+      ins: "zemjepiscem"
+      voc: "zemjepisče"
+    plural: 
+      nom: "zemjepisci"
+      acc: "zemjepiscev"
+      gen: "zemjepiscev"
+      loc: "zemjepiscah"
+      dat: "zemjepiscam"
+      ins: "zemjepiscami"
+      voc: "zemjepisci"

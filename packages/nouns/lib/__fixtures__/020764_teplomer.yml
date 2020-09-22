@@ -1,0 +1,22 @@
+---
+  id: "20764"
+  word: "teploměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "teploměr"
+      acc: "teploměr"
+      gen: "teploměra"
+      loc: "teploměru"
+      dat: "teploměru"
+      ins: "teploměrom"
+      voc: "teploměre"
+    plural: 
+      nom: "teploměry"
+      acc: "teploměry"
+      gen: "teploměrov"
+      loc: "teploměrah"
+      dat: "teploměram"
+      ins: "teploměrami"
+      voc: "teploměry"

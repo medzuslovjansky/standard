@@ -1,0 +1,22 @@
+---
+  id: "14144"
+  word: "zapisańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zapisańje"
+      acc: "zapisańje"
+      gen: "zapisańja"
+      loc: "zapisańju"
+      dat: "zapisańju"
+      ins: "zapisańjem"
+      voc: "zapisańje"
+    plural: 
+      nom: "zapisańja"
+      acc: "zapisańja"
+      gen: "zapisanij"
+      loc: "zapisańjah"
+      dat: "zapisańjam"
+      ins: "zapisańjami"
+      voc: "zapisańja"

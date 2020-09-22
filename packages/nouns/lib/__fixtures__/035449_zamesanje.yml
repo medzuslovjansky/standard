@@ -1,0 +1,22 @@
+---
+  id: "35449"
+  word: "zaměšańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zaměšańje"
+      acc: "zaměšańje"
+      gen: "zaměšańja"
+      loc: "zaměšańju"
+      dat: "zaměšańju"
+      ins: "zaměšańjem"
+      voc: "zaměšańje"
+    plural: 
+      nom: "zaměšańja"
+      acc: "zaměšańja"
+      gen: "zaměšanij"
+      loc: "zaměšańjah"
+      dat: "zaměšańjam"
+      ins: "zaměšańjami"
+      voc: "zaměšańja"

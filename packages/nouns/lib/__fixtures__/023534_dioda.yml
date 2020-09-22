@@ -1,0 +1,22 @@
+---
+  id: "23534"
+  word: "dioda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dioda"
+      acc: "diodų"
+      gen: "diody"
+      loc: "diodě"
+      dat: "diodě"
+      ins: "diodojų"
+      voc: "diodo"
+    plural: 
+      nom: "diody"
+      acc: "diody"
+      gen: "diod"
+      loc: "diodah"
+      dat: "diodam"
+      ins: "diodami"
+      voc: "diody"

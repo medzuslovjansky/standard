@@ -1,0 +1,23 @@
+---
+  id: "36317"
+  word: "komentator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "komentator"
+      acc: "komentatora"
+      gen: "komentatora"
+      loc: "komentatoru"
+      dat: "komentatoru"
+      ins: "komentatorom"
+      voc: "komentatore"
+    plural: 
+      nom: "komentatori"
+      acc: "komentatorov"
+      gen: "komentatorov"
+      loc: "komentatorah"
+      dat: "komentatoram"
+      ins: "komentatorami"
+      voc: "komentatori"

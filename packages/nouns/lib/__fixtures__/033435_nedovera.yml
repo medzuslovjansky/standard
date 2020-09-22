@@ -1,0 +1,22 @@
+---
+  id: "33435"
+  word: "nedověra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nedověra"
+      acc: "nedověrų"
+      gen: "nedověry"
+      loc: "nedověrě"
+      dat: "nedověrě"
+      ins: "nedověrojų"
+      voc: "nedověro"
+    plural: 
+      nom: "nedověry"
+      acc: "nedověry"
+      gen: "nedověr"
+      loc: "nedověrah"
+      dat: "nedověram"
+      ins: "nedověrami"
+      voc: "nedověry"

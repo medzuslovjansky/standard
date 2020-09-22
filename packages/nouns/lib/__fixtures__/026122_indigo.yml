@@ -1,0 +1,22 @@
+---
+  id: "26122"
+  word: "indigo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "indigo"
+      acc: "indigo"
+      gen: "indiga"
+      loc: "indigu"
+      dat: "indigu"
+      ins: "indigom"
+      voc: "indigo"
+    plural: 
+      nom: "indiga"
+      acc: "indiga"
+      gen: "indig"
+      loc: "indigah"
+      dat: "indigam"
+      ins: "indigami"
+      voc: "indiga"

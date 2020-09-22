@@ -1,0 +1,23 @@
+---
+  id: "24013"
+  word: "sobstvenik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sobstvenik"
+      acc: "sobstvenika"
+      gen: "sobstvenika"
+      loc: "sobstveniku"
+      dat: "sobstveniku"
+      ins: "sobstvenikom"
+      voc: "sobstveniče"
+    plural: 
+      nom: "sobstveniki"
+      acc: "sobstvenikov"
+      gen: "sobstvenikov"
+      loc: "sobstvenikah"
+      dat: "sobstvenikam"
+      ins: "sobstvenikami"
+      voc: "sobstveniki"

@@ -1,0 +1,22 @@
+---
+  id: "20008"
+  word: "osoblivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osoblivosť"
+      acc: "osoblivosť"
+      gen: "osoblivosti"
+      loc: "osoblivosti"
+      dat: "osoblivosti"
+      ins: "osoblivosťjų"
+      voc: "osoblivosti"
+    plural: 
+      nom: "osoblivosti"
+      acc: "osoblivosti"
+      gen: "osoblivostij"
+      loc: "osoblivosťah"
+      dat: "osoblivosťam"
+      ins: "osoblivosťami"
+      voc: "osoblivosti"

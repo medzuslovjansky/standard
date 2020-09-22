@@ -1,0 +1,22 @@
+---
+  id: "10402"
+  word: "ozdravjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ozdravjeńje"
+      acc: "ozdravjeńje"
+      gen: "ozdravjeńja"
+      loc: "ozdravjeńju"
+      dat: "ozdravjeńju"
+      ins: "ozdravjeńjem"
+      voc: "ozdravjeńje"
+    plural: 
+      nom: "ozdravjeńja"
+      acc: "ozdravjeńja"
+      gen: "ozdravjenij"
+      loc: "ozdravjeńjah"
+      dat: "ozdravjeńjam"
+      ins: "ozdravjeńjami"
+      voc: "ozdravjeńja"

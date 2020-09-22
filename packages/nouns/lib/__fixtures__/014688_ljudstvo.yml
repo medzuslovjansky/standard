@@ -1,0 +1,15 @@
+---
+  id: "14688"
+  word: "ljudstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ljudstvo"
+      acc: "ljudstvo"
+      gen: "ljudstva"
+      loc: "ljudstvu"
+      dat: "ljudstvu"
+      ins: "ljudstvom"
+      voc: "ljudstvo"

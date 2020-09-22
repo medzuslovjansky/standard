@@ -1,0 +1,22 @@
+---
+  id: "26864"
+  word: "kresalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kresalo"
+      acc: "kresalo"
+      gen: "kresala"
+      loc: "kresalu"
+      dat: "kresalu"
+      ins: "kresalom"
+      voc: "kresalo"
+    plural: 
+      nom: "kresala"
+      acc: "kresala"
+      gen: "kresal"
+      loc: "kresalah"
+      dat: "kresalam"
+      ins: "kresalami"
+      voc: "kresala"

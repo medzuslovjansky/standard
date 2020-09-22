@@ -1,0 +1,22 @@
+---
+  id: "16421"
+  word: "identifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "identifikacija"
+      acc: "identifikacijų"
+      gen: "identifikacije"
+      loc: "identifikaciji"
+      dat: "identifikaciji"
+      ins: "identifikacijejų"
+      voc: "identifikacijo"
+    plural: 
+      nom: "identifikacije"
+      acc: "identifikacije"
+      gen: "identifikacij"
+      loc: "identifikacijah"
+      dat: "identifikacijam"
+      ins: "identifikacijami"
+      voc: "identifikacije"

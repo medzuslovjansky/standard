@@ -1,0 +1,22 @@
+---
+  id: "28801"
+  word: "oblet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oblet"
+      acc: "oblet"
+      gen: "obleta"
+      loc: "obletu"
+      dat: "obletu"
+      ins: "obletom"
+      voc: "oblete"
+    plural: 
+      nom: "oblety"
+      acc: "oblety"
+      gen: "obletov"
+      loc: "obletah"
+      dat: "obletam"
+      ins: "obletami"
+      voc: "oblety"

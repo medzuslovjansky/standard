@@ -1,0 +1,23 @@
+---
+  id: "22795"
+  word: "žebrak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žebrak"
+      acc: "žebraka"
+      gen: "žebraka"
+      loc: "žebraku"
+      dat: "žebraku"
+      ins: "žebrakom"
+      voc: "žebrače"
+    plural: 
+      nom: "žebraki"
+      acc: "žebrakov"
+      gen: "žebrakov"
+      loc: "žebrakah"
+      dat: "žebrakam"
+      ins: "žebrakami"
+      voc: "žebraki"

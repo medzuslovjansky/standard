@@ -1,0 +1,22 @@
+---
+  id: "9964"
+  word: "odkazańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odkazańje"
+      acc: "odkazańje"
+      gen: "odkazańja"
+      loc: "odkazańju"
+      dat: "odkazańju"
+      ins: "odkazańjem"
+      voc: "odkazańje"
+    plural: 
+      nom: "odkazańja"
+      acc: "odkazańja"
+      gen: "odkazanij"
+      loc: "odkazańjah"
+      dat: "odkazańjam"
+      ins: "odkazańjami"
+      voc: "odkazańja"

@@ -1,0 +1,22 @@
+---
+  id: "29795"
+  word: "ozimina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ozimina"
+      acc: "oziminų"
+      gen: "oziminy"
+      loc: "ozimině"
+      dat: "ozimině"
+      ins: "oziminojų"
+      voc: "ozimino"
+    plural: 
+      nom: "oziminy"
+      acc: "oziminy"
+      gen: "ozimin"
+      loc: "oziminah"
+      dat: "oziminam"
+      ins: "oziminami"
+      voc: "oziminy"

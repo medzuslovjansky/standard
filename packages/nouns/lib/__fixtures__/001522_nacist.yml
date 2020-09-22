@@ -1,0 +1,23 @@
+---
+  id: "1522"
+  word: "nacist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nacist"
+      acc: "nacista"
+      gen: "nacista"
+      loc: "nacistu"
+      dat: "nacistu"
+      ins: "nacistom"
+      voc: "naciste"
+    plural: 
+      nom: "nacisti"
+      acc: "nacistov"
+      gen: "nacistov"
+      loc: "nacistah"
+      dat: "nacistam"
+      ins: "nacistami"
+      voc: "nacisti"

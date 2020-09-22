@@ -1,0 +1,23 @@
+---
+  id: "19784"
+  word: "ključnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ključnik"
+      acc: "ključnika"
+      gen: "ključnika"
+      loc: "ključniku"
+      dat: "ključniku"
+      ins: "ključnikom"
+      voc: "ključniče"
+    plural: 
+      nom: "ključniki"
+      acc: "ključnikov"
+      gen: "ključnikov"
+      loc: "ključnikah"
+      dat: "ključnikam"
+      ins: "ključnikami"
+      voc: "ključniki"

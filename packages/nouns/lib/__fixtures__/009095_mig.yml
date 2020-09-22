@@ -1,0 +1,22 @@
+---
+  id: "9095"
+  word: "mig"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mig"
+      acc: "mig"
+      gen: "miga"
+      loc: "migu"
+      dat: "migu"
+      ins: "migom"
+      voc: "miže"
+    plural: 
+      nom: "migy"
+      acc: "migy"
+      gen: "migov"
+      loc: "migah"
+      dat: "migam"
+      ins: "migami"
+      voc: "migy"

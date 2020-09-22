@@ -1,0 +1,22 @@
+---
+  id: "34921"
+  word: "kilim"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kilim"
+      acc: "kilim"
+      gen: "kilima"
+      loc: "kilimu"
+      dat: "kilimu"
+      ins: "kilimom"
+      voc: "kilime"
+    plural: 
+      nom: "kilimy"
+      acc: "kilimy"
+      gen: "kilimov"
+      loc: "kilimah"
+      dat: "kilimam"
+      ins: "kilimami"
+      voc: "kilimy"

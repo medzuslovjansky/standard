@@ -1,0 +1,23 @@
+---
+  id: "14473"
+  word: "bogatyr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bogatyr"
+      acc: "bogatyra"
+      gen: "bogatyra"
+      loc: "bogatyru"
+      dat: "bogatyru"
+      ins: "bogatyrom"
+      voc: "bogatyre"
+    plural: 
+      nom: "bogatyri"
+      acc: "bogatyrov"
+      gen: "bogatyrov"
+      loc: "bogatyrah"
+      dat: "bogatyram"
+      ins: "bogatyrami"
+      voc: "bogatyri"

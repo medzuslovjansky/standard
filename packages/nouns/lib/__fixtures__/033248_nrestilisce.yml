@@ -1,0 +1,22 @@
+---
+  id: "33248"
+  word: "nrěstilišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nrěstilišče"
+      acc: "nrěstilišče"
+      gen: "nrěstilišča"
+      loc: "nrěstilišču"
+      dat: "nrěstilišču"
+      ins: "nrěstiliščem"
+      voc: "nrěstilišče"
+    plural: 
+      nom: "nrěstilišča"
+      acc: "nrěstilišča"
+      gen: "nrěstilišč"
+      loc: "nrěstiliščah"
+      dat: "nrěstiliščam"
+      ins: "nrěstiliščami"
+      voc: "nrěstilišča"

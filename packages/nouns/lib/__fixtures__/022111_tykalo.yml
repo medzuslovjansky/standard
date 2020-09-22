@@ -1,0 +1,22 @@
+---
+  id: "22111"
+  word: "tykalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tykalo"
+      acc: "tykalo"
+      gen: "tykala"
+      loc: "tykalu"
+      dat: "tykalu"
+      ins: "tykalom"
+      voc: "tykalo"
+    plural: 
+      nom: "tykala"
+      acc: "tykala"
+      gen: "tykal"
+      loc: "tykalah"
+      dat: "tykalam"
+      ins: "tykalami"
+      voc: "tykala"

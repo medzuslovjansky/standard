@@ -1,0 +1,22 @@
+---
+  id: "16480"
+  word: "dol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dol"
+      acc: "dol"
+      gen: "dola"
+      loc: "dolu"
+      dat: "dolu"
+      ins: "dolom"
+      voc: "dole"
+    plural: 
+      nom: "doly"
+      acc: "doly"
+      gen: "dolov"
+      loc: "dolah"
+      dat: "dolam"
+      ins: "dolami"
+      voc: "doly"

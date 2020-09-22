@@ -1,0 +1,22 @@
+---
+  id: "29827"
+  word: "palka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "palka"
+      acc: "palkų"
+      gen: "palky"
+      loc: "palkě"
+      dat: "palkě"
+      ins: "palkojų"
+      voc: "palko"
+    plural: 
+      nom: "palky"
+      acc: "palky"
+      gen: "palȯk"
+      loc: "palkah"
+      dat: "palkam"
+      ins: "palkami"
+      voc: "palky"

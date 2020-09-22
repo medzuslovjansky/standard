@@ -1,0 +1,23 @@
+---
+  id: "6166"
+  word: "arhiepiskop"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "arhiepiskop"
+      acc: "arhiepiskopa"
+      gen: "arhiepiskopa"
+      loc: "arhiepiskopu"
+      dat: "arhiepiskopu"
+      ins: "arhiepiskopom"
+      voc: "arhiepiskope"
+    plural: 
+      nom: "arhiepiskopi"
+      acc: "arhiepiskopov"
+      gen: "arhiepiskopov"
+      loc: "arhiepiskopah"
+      dat: "arhiepiskopam"
+      ins: "arhiepiskopami"
+      voc: "arhiepiskopi"

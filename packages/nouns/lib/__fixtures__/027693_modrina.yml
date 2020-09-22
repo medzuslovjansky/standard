@@ -1,0 +1,22 @@
+---
+  id: "27693"
+  word: "modrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "modrina"
+      acc: "modrinų"
+      gen: "modriny"
+      loc: "modrině"
+      dat: "modrině"
+      ins: "modrinojų"
+      voc: "modrino"
+    plural: 
+      nom: "modriny"
+      acc: "modriny"
+      gen: "modrin"
+      loc: "modrinah"
+      dat: "modrinam"
+      ins: "modrinami"
+      voc: "modriny"

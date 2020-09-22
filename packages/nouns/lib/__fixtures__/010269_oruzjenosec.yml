@@ -1,0 +1,23 @@
+---
+  id: "10269"
+  word: "orųžjenosec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "orųžjenosec"
+      acc: "orųžjenosca"
+      gen: "orųžjenosca"
+      loc: "orųžjenoscu"
+      dat: "orųžjenoscu"
+      ins: "orųžjenoscem"
+      voc: "orųžjenosče"
+    plural: 
+      nom: "orųžjenosci"
+      acc: "orųžjenoscev"
+      gen: "orųžjenoscev"
+      loc: "orųžjenoscah"
+      dat: "orųžjenoscam"
+      ins: "orųžjenoscami"
+      voc: "orųžjenosci"

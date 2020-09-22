@@ -1,0 +1,23 @@
+---
+  id: "13539"
+  word: "velikan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "velikan"
+      acc: "velikana"
+      gen: "velikana"
+      loc: "velikanu"
+      dat: "velikanu"
+      ins: "velikanom"
+      voc: "velikane"
+    plural: 
+      nom: "velikani"
+      acc: "velikanov"
+      gen: "velikanov"
+      loc: "velikanah"
+      dat: "velikanam"
+      ins: "velikanami"
+      voc: "velikani"

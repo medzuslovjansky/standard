@@ -1,0 +1,22 @@
+---
+  id: "2192"
+  word: "tovar"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tovar"
+      acc: "tovar"
+      gen: "tovara"
+      loc: "tovaru"
+      dat: "tovaru"
+      ins: "tovarom"
+      voc: "tovare"
+    plural: 
+      nom: "tovary"
+      acc: "tovary"
+      gen: "tovarov"
+      loc: "tovarah"
+      dat: "tovaram"
+      ins: "tovarami"
+      voc: "tovary"

@@ -1,0 +1,29 @@
+---
+  - 
+    id: "16494"
+    word: "zvateljnik"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "zvateljnik"
+        acc: "zvateljnik"
+        gen: "zvateljnika"
+        loc: "zvateljniku"
+        dat: "zvateljniku"
+        ins: "zvateljnikom"
+        voc: "zvateljniče"
+      plural: 
+        nom: "zvateljniky"
+        acc: "zvateljniky"
+        gen: "zvateljnikov"
+        loc: "zvateljnikah"
+        dat: "zvateljnikam"
+        ins: "zvateljnikami"
+        voc: "zvateljniky"
+  - 
+    id: "16494"
+    word: "zvateljny padež"
+    meta: 
+      gender: "masculine"
+    declensions: null

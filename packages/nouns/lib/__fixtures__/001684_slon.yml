@@ -1,0 +1,23 @@
+---
+  id: "1684"
+  word: "slon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slon"
+      acc: "slona"
+      gen: "slona"
+      loc: "slonu"
+      dat: "slonu"
+      ins: "slonom"
+      voc: "slone"
+    plural: 
+      nom: "sloni"
+      acc: "slonov"
+      gen: "slonov"
+      loc: "slonah"
+      dat: "slonam"
+      ins: "slonami"
+      voc: "sloni"

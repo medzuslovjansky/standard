@@ -1,0 +1,22 @@
+---
+  id: "3892"
+  word: "tajna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tajna"
+      acc: "tajnų"
+      gen: "tajny"
+      loc: "tajně"
+      dat: "tajně"
+      ins: "tajnojų"
+      voc: "tajno"
+    plural: 
+      nom: "tajny"
+      acc: "tajny"
+      gen: "tajn"
+      loc: "tajnah"
+      dat: "tajnam"
+      ins: "tajnami"
+      voc: "tajny"

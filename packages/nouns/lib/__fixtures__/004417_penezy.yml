@@ -1,0 +1,15 @@
+---
+  id: "4417"
+  word: "pěnęzy"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "pěnęzy"
+      acc: "pěnęzy"
+      gen: "pěnęzov"
+      loc: "pěnęzah"
+      dat: "pěnęzam"
+      ins: "pěnęzami"
+      voc: "pěnęzy"

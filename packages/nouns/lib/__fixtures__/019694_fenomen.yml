@@ -1,0 +1,22 @@
+---
+  id: "19694"
+  word: "fenomen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "fenomen"
+      acc: "fenomen"
+      gen: "fenomena"
+      loc: "fenomenu"
+      dat: "fenomenu"
+      ins: "fenomenom"
+      voc: "fenomene"
+    plural: 
+      nom: "fenomeny"
+      acc: "fenomeny"
+      gen: "fenomenov"
+      loc: "fenomenah"
+      dat: "fenomenam"
+      ins: "fenomenami"
+      voc: "fenomeny"

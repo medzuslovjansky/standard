@@ -1,0 +1,22 @@
+---
+  id: "24536"
+  word: "barometr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barometr"
+      acc: "barometr"
+      gen: "barometra"
+      loc: "barometru"
+      dat: "barometru"
+      ins: "barometrom"
+      voc: "barometre"
+    plural: 
+      nom: "barometry"
+      acc: "barometry"
+      gen: "barometrov"
+      loc: "barometrah"
+      dat: "barometram"
+      ins: "barometrami"
+      voc: "barometry"

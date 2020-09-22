@@ -1,0 +1,22 @@
+---
+  id: "2044"
+  word: "ostrov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ostrov"
+      acc: "ostrov"
+      gen: "ostrova"
+      loc: "ostrovu"
+      dat: "ostrovu"
+      ins: "ostrovom"
+      voc: "ostrove"
+    plural: 
+      nom: "ostrovy"
+      acc: "ostrovy"
+      gen: "ostrovov"
+      loc: "ostrovah"
+      dat: "ostrovam"
+      ins: "ostrovami"
+      voc: "ostrovy"

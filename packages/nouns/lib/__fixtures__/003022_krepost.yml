@@ -1,0 +1,22 @@
+---
+  id: "3022"
+  word: "krěposť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krěposť"
+      acc: "krěposť"
+      gen: "krěposti"
+      loc: "krěposti"
+      dat: "krěposti"
+      ins: "krěposťjų"
+      voc: "krěposti"
+    plural: 
+      nom: "krěposti"
+      acc: "krěposti"
+      gen: "krěpostij"
+      loc: "krěposťah"
+      dat: "krěposťam"
+      ins: "krěposťami"
+      voc: "krěposti"

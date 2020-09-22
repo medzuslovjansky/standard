@@ -1,0 +1,22 @@
+---
+  id: "20073"
+  word: "prěvod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěvod"
+      acc: "prěvod"
+      gen: "prěvoda"
+      loc: "prěvodu"
+      dat: "prěvodu"
+      ins: "prěvodom"
+      voc: "prěvode"
+    plural: 
+      nom: "prěvody"
+      acc: "prěvody"
+      gen: "prěvodov"
+      loc: "prěvodah"
+      dat: "prěvodam"
+      ins: "prěvodami"
+      voc: "prěvody"

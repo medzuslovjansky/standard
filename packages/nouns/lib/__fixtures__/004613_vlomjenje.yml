@@ -1,0 +1,22 @@
+---
+  id: "4613"
+  word: "vlomjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vlomjeńje"
+      acc: "vlomjeńje"
+      gen: "vlomjeńja"
+      loc: "vlomjeńju"
+      dat: "vlomjeńju"
+      ins: "vlomjeńjem"
+      voc: "vlomjeńje"
+    plural: 
+      nom: "vlomjeńja"
+      acc: "vlomjeńja"
+      gen: "vlomjenij"
+      loc: "vlomjeńjah"
+      dat: "vlomjeńjam"
+      ins: "vlomjeńjami"
+      voc: "vlomjeńja"

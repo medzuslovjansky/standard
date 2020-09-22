@@ -1,0 +1,15 @@
+---
+  id: "2991"
+  word: "Čehija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Čehija"
+      acc: "Čehijų"
+      gen: "Čehije"
+      loc: "Čehiji"
+      dat: "Čehiji"
+      ins: "Čehijejų"
+      voc: "Čehijo"

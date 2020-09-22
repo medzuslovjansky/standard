@@ -1,0 +1,23 @@
+---
+  id: "17589"
+  word: "izseljenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izseljenec"
+      acc: "izseljenca"
+      gen: "izseljenca"
+      loc: "izseljencu"
+      dat: "izseljencu"
+      ins: "izseljencem"
+      voc: "izseljenče"
+    plural: 
+      nom: "izseljenci"
+      acc: "izseljencev"
+      gen: "izseljencev"
+      loc: "izseljencah"
+      dat: "izseljencam"
+      ins: "izseljencami"
+      voc: "izseljenci"

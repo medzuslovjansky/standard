@@ -1,0 +1,22 @@
+---
+  id: "829"
+  word: "gerb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gerb"
+      acc: "gerb"
+      gen: "gerba"
+      loc: "gerbu"
+      dat: "gerbu"
+      ins: "gerbom"
+      voc: "gerbe"
+    plural: 
+      nom: "gerby"
+      acc: "gerby"
+      gen: "gerbov"
+      loc: "gerbah"
+      dat: "gerbam"
+      ins: "gerbami"
+      voc: "gerby"

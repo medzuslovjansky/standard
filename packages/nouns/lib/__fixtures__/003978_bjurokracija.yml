@@ -1,0 +1,22 @@
+---
+  id: "3978"
+  word: "bjurokracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bjurokracija"
+      acc: "bjurokracijų"
+      gen: "bjurokracije"
+      loc: "bjurokraciji"
+      dat: "bjurokraciji"
+      ins: "bjurokracijejų"
+      voc: "bjurokracijo"
+    plural: 
+      nom: "bjurokracije"
+      acc: "bjurokracije"
+      gen: "bjurokracij"
+      loc: "bjurokracijah"
+      dat: "bjurokracijam"
+      ins: "bjurokracijami"
+      voc: "bjurokracije"

@@ -1,0 +1,45 @@
+---
+  - 
+    id: "26423"
+    word: "kabare"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "kabare"
+        acc: "kabare"
+        gen: "kabaręte / kabaręta"
+        loc: "kabaręti / kabarętu"
+        dat: "kabaręti / kabarętu"
+        ins: "kabarętem / kabarętom"
+        voc: "kabare"
+      plural: 
+        nom: "kabaręta"
+        acc: "kabaręta"
+        gen: "kabaręt"
+        loc: "kabarętah"
+        dat: "kabarętam"
+        ins: "kabarętami"
+        voc: "kabaręta"
+  - 
+    id: "26423"
+    word: "kabaret"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "kabaret"
+        acc: "kabaret"
+        gen: "kabareta"
+        loc: "kabaretu"
+        dat: "kabaretu"
+        ins: "kabaretom"
+        voc: "kabarete"
+      plural: 
+        nom: "kabarety"
+        acc: "kabarety"
+        gen: "kabaretov"
+        loc: "kabaretah"
+        dat: "kabaretam"
+        ins: "kabaretami"
+        voc: "kabarety"

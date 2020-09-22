@@ -1,0 +1,22 @@
+---
+  id: "30426"
+  word: "råzrastańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzrastańje"
+      acc: "råzrastańje"
+      gen: "råzrastańja"
+      loc: "råzrastańju"
+      dat: "råzrastańju"
+      ins: "råzrastańjem"
+      voc: "råzrastańje"
+    plural: 
+      nom: "råzrastańja"
+      acc: "råzrastańja"
+      gen: "råzrastanij"
+      loc: "råzrastańjah"
+      dat: "råzrastańjam"
+      ins: "råzrastańjami"
+      voc: "råzrastańja"

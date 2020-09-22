@@ -1,0 +1,22 @@
+---
+  id: "8449"
+  word: "Kitajka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Kitajka"
+      acc: "Kitajkų"
+      gen: "Kitajky"
+      loc: "Kitajkě"
+      dat: "Kitajkě"
+      ins: "Kitajkojų"
+      voc: "Kitajko"
+    plural: 
+      nom: "Kitajky"
+      acc: "Kitajky"
+      gen: "Kitajek"
+      loc: "Kitajkah"
+      dat: "Kitajkam"
+      ins: "Kitajkami"
+      voc: "Kitajky"

@@ -1,0 +1,15 @@
+---
+  id: "35952"
+  word: "jidiš"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jidiš"
+      acc: "jidiš"
+      gen: "jidiša"
+      loc: "jidišu"
+      dat: "jidišu"
+      ins: "jidišem"
+      voc: "jidišu"

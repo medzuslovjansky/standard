@@ -1,0 +1,22 @@
+---
+  id: "851"
+  word: "kamera"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kamera"
+      acc: "kamerų"
+      gen: "kamery"
+      loc: "kamerě"
+      dat: "kamerě"
+      ins: "kamerojų"
+      voc: "kamero"
+    plural: 
+      nom: "kamery"
+      acc: "kamery"
+      gen: "kamer"
+      loc: "kamerah"
+      dat: "kameram"
+      ins: "kamerami"
+      voc: "kamery"

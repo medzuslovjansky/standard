@@ -1,0 +1,22 @@
+---
+  id: "31133"
+  word: "vermišelj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vermišelj"
+      acc: "vermišelj"
+      gen: "vermišelji"
+      loc: "vermišelji"
+      dat: "vermišelji"
+      ins: "vermišeljjų"
+      voc: "vermišelji"
+    plural: 
+      nom: "vermišelji"
+      acc: "vermišelji"
+      gen: "vermišeljij"
+      loc: "vermišeljah"
+      dat: "vermišeljam"
+      ins: "vermišeljami"
+      voc: "vermišelji"

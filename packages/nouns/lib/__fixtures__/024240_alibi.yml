@@ -1,0 +1,23 @@
+---
+  id: "24240"
+  word: "alibi"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "alibi"
+      acc: "alibi"
+      gen: "alibi"
+      loc: "alibi"
+      dat: "alibi"
+      ins: "alibi"
+      voc: "alibi"
+    plural: 
+      nom: "alibi"
+      acc: "alibi"
+      gen: "alibi"
+      loc: "alibi"
+      dat: "alibi"
+      ins: "alibi"
+      voc: "alibi"

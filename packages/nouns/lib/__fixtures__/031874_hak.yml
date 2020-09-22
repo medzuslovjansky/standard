@@ -1,0 +1,22 @@
+---
+  id: "31874"
+  word: "hak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hak"
+      acc: "hak"
+      gen: "haka"
+      loc: "haku"
+      dat: "haku"
+      ins: "hakom"
+      voc: "hače"
+    plural: 
+      nom: "haky"
+      acc: "haky"
+      gen: "hakov"
+      loc: "hakah"
+      dat: "hakam"
+      ins: "hakami"
+      voc: "haky"

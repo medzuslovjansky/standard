@@ -1,0 +1,22 @@
+---
+  id: "6552"
+  word: "běženica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "běženica"
+      acc: "běženicų"
+      gen: "běženice"
+      loc: "běženici"
+      dat: "běženici"
+      ins: "běženicejų"
+      voc: "běženico"
+    plural: 
+      nom: "běženice"
+      acc: "běženice"
+      gen: "běženic"
+      loc: "běženicah"
+      dat: "běženicam"
+      ins: "běženicami"
+      voc: "běženice"

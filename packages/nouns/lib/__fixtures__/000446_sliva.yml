@@ -1,0 +1,22 @@
+---
+  id: "446"
+  word: "sliva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sliva"
+      acc: "slivų"
+      gen: "slivy"
+      loc: "slivě"
+      dat: "slivě"
+      ins: "slivojų"
+      voc: "slivo"
+    plural: 
+      nom: "slivy"
+      acc: "slivy"
+      gen: "sliv"
+      loc: "slivah"
+      dat: "slivam"
+      ins: "slivami"
+      voc: "slivy"

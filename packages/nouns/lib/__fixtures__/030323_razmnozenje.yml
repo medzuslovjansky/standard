@@ -1,0 +1,22 @@
+---
+  id: "30323"
+  word: "råzmnožeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzmnožeńje"
+      acc: "råzmnožeńje"
+      gen: "råzmnožeńja"
+      loc: "råzmnožeńju"
+      dat: "råzmnožeńju"
+      ins: "råzmnožeńjem"
+      voc: "råzmnožeńje"
+    plural: 
+      nom: "råzmnožeńja"
+      acc: "råzmnožeńja"
+      gen: "råzmnoženij"
+      loc: "råzmnožeńjah"
+      dat: "råzmnožeńjam"
+      ins: "råzmnožeńjami"
+      voc: "råzmnožeńja"

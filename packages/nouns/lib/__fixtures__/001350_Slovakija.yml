@@ -1,0 +1,15 @@
+---
+  id: "1350"
+  word: "Slovakija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Slovakija"
+      acc: "Slovakijų"
+      gen: "Slovakije"
+      loc: "Slovakiji"
+      dat: "Slovakiji"
+      ins: "Slovakijejų"
+      voc: "Slovakijo"

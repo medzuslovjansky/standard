@@ -1,0 +1,23 @@
+---
+  id: "34982"
+  word: "poběditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "poběditelj"
+      acc: "poběditelja"
+      gen: "poběditelja"
+      loc: "poběditelju"
+      dat: "poběditelju"
+      ins: "poběditeljem"
+      voc: "poběditelju"
+    plural: 
+      nom: "poběditelji"
+      acc: "poběditeljev"
+      gen: "poběditeljev"
+      loc: "poběditeljah"
+      dat: "poběditeljam"
+      ins: "poběditeljami"
+      voc: "poběditelji"

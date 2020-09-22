@@ -1,0 +1,22 @@
+---
+  id: "1311"
+  word: "sětka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sětka"
+      acc: "sětkų"
+      gen: "sětky"
+      loc: "sětkě"
+      dat: "sětkě"
+      ins: "sětkojų"
+      voc: "sětko"
+    plural: 
+      nom: "sětky"
+      acc: "sětky"
+      gen: "sětȯk"
+      loc: "sětkah"
+      dat: "sětkam"
+      ins: "sětkami"
+      voc: "sětky"

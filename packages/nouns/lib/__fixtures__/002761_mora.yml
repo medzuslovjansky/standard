@@ -1,0 +1,22 @@
+---
+  id: "2761"
+  word: "mora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mora"
+      acc: "morų"
+      gen: "mory"
+      loc: "morě"
+      dat: "morě"
+      ins: "morojų"
+      voc: "moro"
+    plural: 
+      nom: "mory"
+      acc: "mory"
+      gen: "mor"
+      loc: "morah"
+      dat: "moram"
+      ins: "morami"
+      voc: "mory"

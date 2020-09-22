@@ -1,0 +1,22 @@
+---
+  id: "1098"
+  word: "strånica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "strånica"
+      acc: "strånicų"
+      gen: "strånice"
+      loc: "strånici"
+      dat: "strånici"
+      ins: "strånicejų"
+      voc: "strånico"
+    plural: 
+      nom: "strånice"
+      acc: "strånice"
+      gen: "strånic"
+      loc: "strånicah"
+      dat: "strånicam"
+      ins: "strånicami"
+      voc: "strånice"

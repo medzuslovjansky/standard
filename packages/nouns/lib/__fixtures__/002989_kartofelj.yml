@@ -1,0 +1,23 @@
+---
+  id: "2989"
+  word: "kartofelj"
+  meta: 
+    irregularity: "(kartoflja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kartofėlj"
+      acc: "kartofėlj"
+      gen: "kartoflja"
+      loc: "kartoflju"
+      dat: "kartoflju"
+      ins: "kartofljem"
+      voc: "kartoflju"
+    plural: 
+      nom: "kartoflje"
+      acc: "kartoflje"
+      gen: "kartofljev"
+      loc: "kartofljah"
+      dat: "kartofljam"
+      ins: "kartofljami"
+      voc: "kartoflje"

@@ -1,0 +1,22 @@
+---
+  id: "36306"
+  word: "specializacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "specializacija"
+      acc: "specializacijų"
+      gen: "specializacije"
+      loc: "specializaciji"
+      dat: "specializaciji"
+      ins: "specializacijejų"
+      voc: "specializacijo"
+    plural: 
+      nom: "specializacije"
+      acc: "specializacije"
+      gen: "specializacij"
+      loc: "specializacijah"
+      dat: "specializacijam"
+      ins: "specializacijami"
+      voc: "specializacije"

@@ -1,0 +1,22 @@
+---
+  id: "27024"
+  word: "kvintesencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kvintesencija"
+      acc: "kvintesencijų"
+      gen: "kvintesencije"
+      loc: "kvintesenciji"
+      dat: "kvintesenciji"
+      ins: "kvintesencijejų"
+      voc: "kvintesencijo"
+    plural: 
+      nom: "kvintesencije"
+      acc: "kvintesencije"
+      gen: "kvintesencij"
+      loc: "kvintesencijah"
+      dat: "kvintesencijam"
+      ins: "kvintesencijami"
+      voc: "kvintesencije"

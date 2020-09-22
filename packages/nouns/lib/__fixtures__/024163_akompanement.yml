@@ -1,0 +1,15 @@
+---
+  id: "24163"
+  word: "akompanement"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "akompanement"
+      acc: "akompanement"
+      gen: "akompanementa"
+      loc: "akompanementu"
+      dat: "akompanementu"
+      ins: "akompanementom"
+      voc: "akompanemente"

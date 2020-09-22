@@ -1,0 +1,22 @@
+---
+  id: "23265"
+  word: "ponožka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ponožka"
+      acc: "ponožkų"
+      gen: "ponožky"
+      loc: "ponožkě"
+      dat: "ponožkě"
+      ins: "ponožkojų"
+      voc: "ponožko"
+    plural: 
+      nom: "ponožky"
+      acc: "ponožky"
+      gen: "ponožek"
+      loc: "ponožkah"
+      dat: "ponožkam"
+      ins: "ponožkami"
+      voc: "ponožky"

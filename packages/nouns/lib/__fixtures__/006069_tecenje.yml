@@ -1,0 +1,22 @@
+---
+  id: "6069"
+  word: "tečeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tečeńje"
+      acc: "tečeńje"
+      gen: "tečeńja"
+      loc: "tečeńju"
+      dat: "tečeńju"
+      ins: "tečeńjem"
+      voc: "tečeńje"
+    plural: 
+      nom: "tečeńja"
+      acc: "tečeńja"
+      gen: "tečenij"
+      loc: "tečeńjah"
+      dat: "tečeńjam"
+      ins: "tečeńjami"
+      voc: "tečeńja"

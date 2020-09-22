@@ -1,0 +1,22 @@
+---
+  id: "23095"
+  word: "prěduprěđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěduprěđeńje"
+      acc: "prěduprěđeńje"
+      gen: "prěduprěđeńja"
+      loc: "prěduprěđeńju"
+      dat: "prěduprěđeńju"
+      ins: "prěduprěđeńjem"
+      voc: "prěduprěđeńje"
+    plural: 
+      nom: "prěduprěđeńja"
+      acc: "prěduprěđeńja"
+      gen: "prěduprěđenij"
+      loc: "prěduprěđeńjah"
+      dat: "prěduprěđeńjam"
+      ins: "prěduprěđeńjami"
+      voc: "prěduprěđeńja"

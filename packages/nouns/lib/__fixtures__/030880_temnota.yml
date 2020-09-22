@@ -1,0 +1,22 @@
+---
+  id: "30880"
+  word: "temnota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "temnota"
+      acc: "temnotų"
+      gen: "temnoty"
+      loc: "temnotě"
+      dat: "temnotě"
+      ins: "temnotojų"
+      voc: "temnoto"
+    plural: 
+      nom: "temnoty"
+      acc: "temnoty"
+      gen: "temnot"
+      loc: "temnotah"
+      dat: "temnotam"
+      ins: "temnotami"
+      voc: "temnoty"

@@ -1,0 +1,22 @@
+---
+  id: "22356"
+  word: "odręd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odręd"
+      acc: "odręd"
+      gen: "odręda"
+      loc: "odrędu"
+      dat: "odrędu"
+      ins: "odrędom"
+      voc: "odręde"
+    plural: 
+      nom: "odrędy"
+      acc: "odrędy"
+      gen: "odrędov"
+      loc: "odrędah"
+      dat: "odrędam"
+      ins: "odrędami"
+      voc: "odrędy"

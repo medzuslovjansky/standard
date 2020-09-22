@@ -1,0 +1,22 @@
+---
+  id: "25593"
+  word: "gaza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gaza"
+      acc: "gazų"
+      gen: "gazy"
+      loc: "gazě"
+      dat: "gazě"
+      ins: "gazojų"
+      voc: "gazo"
+    plural: 
+      nom: "gazy"
+      acc: "gazy"
+      gen: "gaz"
+      loc: "gazah"
+      dat: "gazam"
+      ins: "gazami"
+      voc: "gazy"

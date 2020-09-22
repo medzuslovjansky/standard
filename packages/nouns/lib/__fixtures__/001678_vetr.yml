@@ -1,0 +1,22 @@
+---
+  id: "1678"
+  word: "větr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "větr"
+      acc: "větr"
+      gen: "větra"
+      loc: "větru"
+      dat: "větru"
+      ins: "větrom"
+      voc: "větre"
+    plural: 
+      nom: "větry"
+      acc: "větry"
+      gen: "větrov"
+      loc: "větrah"
+      dat: "větram"
+      ins: "větrami"
+      voc: "větry"

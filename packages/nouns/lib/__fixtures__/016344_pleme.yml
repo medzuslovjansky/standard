@@ -1,0 +1,22 @@
+---
+  id: "16344"
+  word: "plemę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "plemę"
+      acc: "plemę"
+      gen: "plemene / plemena"
+      loc: "plemeni / plemenu"
+      dat: "plemeni / plemenu"
+      ins: "plemenem / plemenom"
+      voc: "plemę"
+    plural: 
+      nom: "plemena"
+      acc: "plemena"
+      gen: "plemen"
+      loc: "plemenah"
+      dat: "plemenam"
+      ins: "plemenami"
+      voc: "plemena"

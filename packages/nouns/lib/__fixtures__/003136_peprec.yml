@@ -1,0 +1,22 @@
+---
+  id: "3136"
+  word: "peprec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "peprec"
+      acc: "peprec"
+      gen: "pepreca"
+      loc: "peprecu"
+      dat: "peprecu"
+      ins: "peprecem"
+      voc: "pepreče"
+    plural: 
+      nom: "peprece"
+      acc: "peprece"
+      gen: "peprecev"
+      loc: "peprecah"
+      dat: "peprecam"
+      ins: "peprecami"
+      voc: "peprece"

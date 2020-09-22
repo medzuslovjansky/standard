@@ -1,0 +1,22 @@
+---
+  id: "883"
+  word: "cegla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "cegla"
+      acc: "ceglų"
+      gen: "cegly"
+      loc: "ceglě"
+      dat: "ceglě"
+      ins: "ceglojų"
+      voc: "ceglo"
+    plural: 
+      nom: "cegly"
+      acc: "cegly"
+      gen: "cegl"
+      loc: "ceglah"
+      dat: "ceglam"
+      ins: "ceglami"
+      voc: "cegly"

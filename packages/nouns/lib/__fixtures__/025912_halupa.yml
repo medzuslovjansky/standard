@@ -1,0 +1,22 @@
+---
+  id: "25912"
+  word: "halupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "halupa"
+      acc: "halupų"
+      gen: "halupy"
+      loc: "halupě"
+      dat: "halupě"
+      ins: "halupojų"
+      voc: "halupo"
+    plural: 
+      nom: "halupy"
+      acc: "halupy"
+      gen: "halup"
+      loc: "halupah"
+      dat: "halupam"
+      ins: "halupami"
+      voc: "halupy"

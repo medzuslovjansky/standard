@@ -1,0 +1,22 @@
+---
+  id: "17470"
+  word: "hristijanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hristijanka"
+      acc: "hristijankų"
+      gen: "hristijanky"
+      loc: "hristijankě"
+      dat: "hristijankě"
+      ins: "hristijankojų"
+      voc: "hristijanko"
+    plural: 
+      nom: "hristijanky"
+      acc: "hristijanky"
+      gen: "hristijanȯk"
+      loc: "hristijankah"
+      dat: "hristijankam"
+      ins: "hristijankami"
+      voc: "hristijanky"

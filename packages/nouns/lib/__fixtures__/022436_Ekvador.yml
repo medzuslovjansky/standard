@@ -1,0 +1,15 @@
+---
+  id: "22436"
+  word: "Ekvador"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Ekvador"
+      acc: "Ekvador"
+      gen: "Ekvadora"
+      loc: "Ekvadoru"
+      dat: "Ekvadoru"
+      ins: "Ekvadorom"
+      voc: "Ekvadore"

@@ -1,0 +1,22 @@
+---
+  id: "20937"
+  word: "odpušćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odpušćeńje"
+      acc: "odpušćeńje"
+      gen: "odpušćeńja"
+      loc: "odpušćeńju"
+      dat: "odpušćeńju"
+      ins: "odpušćeńjem"
+      voc: "odpušćeńje"
+    plural: 
+      nom: "odpušćeńja"
+      acc: "odpušćeńja"
+      gen: "odpušćenij"
+      loc: "odpušćeńjah"
+      dat: "odpušćeńjam"
+      ins: "odpušćeńjami"
+      voc: "odpušćeńja"

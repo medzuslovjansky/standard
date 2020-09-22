@@ -1,0 +1,22 @@
+---
+  id: "26545"
+  word: "klěšča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klěšča"
+      acc: "klěščų"
+      gen: "klěšče"
+      loc: "klěšči"
+      dat: "klěšči"
+      ins: "klěščejų"
+      voc: "klěščo"
+    plural: 
+      nom: "klěšče"
+      acc: "klěšče"
+      gen: "klěšč"
+      loc: "klěščah"
+      dat: "klěščam"
+      ins: "klěščami"
+      voc: "klěšče"

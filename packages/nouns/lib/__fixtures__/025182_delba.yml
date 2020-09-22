@@ -1,0 +1,22 @@
+---
+  id: "25182"
+  word: "dělba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dělba"
+      acc: "dělbų"
+      gen: "dělby"
+      loc: "dělbě"
+      dat: "dělbě"
+      ins: "dělbojų"
+      voc: "dělbo"
+    plural: 
+      nom: "dělby"
+      acc: "dělby"
+      gen: "dělb"
+      loc: "dělbah"
+      dat: "dělbam"
+      ins: "dělbami"
+      voc: "dělby"

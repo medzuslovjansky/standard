@@ -1,0 +1,22 @@
+---
+  id: "34780"
+  word: "milostynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "milostynja"
+      acc: "milostynjų"
+      gen: "milostynje"
+      loc: "milostynji"
+      dat: "milostynji"
+      ins: "milostynjejų"
+      voc: "milostynjo"
+    plural: 
+      nom: "milostynje"
+      acc: "milostynje"
+      gen: "milostynej"
+      loc: "milostynjah"
+      dat: "milostynjam"
+      ins: "milostynjami"
+      voc: "milostynje"

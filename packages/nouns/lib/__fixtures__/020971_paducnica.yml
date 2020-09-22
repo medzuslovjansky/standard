@@ -1,0 +1,22 @@
+---
+  id: "20971"
+  word: "padųčnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "padųčnica"
+      acc: "padųčnicų"
+      gen: "padųčnice"
+      loc: "padųčnici"
+      dat: "padųčnici"
+      ins: "padųčnicejų"
+      voc: "padųčnico"
+    plural: 
+      nom: "padųčnice"
+      acc: "padųčnice"
+      gen: "padųčnic"
+      loc: "padųčnicah"
+      dat: "padųčnicam"
+      ins: "padųčnicami"
+      voc: "padųčnice"

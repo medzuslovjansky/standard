@@ -1,0 +1,22 @@
+---
+  id: "31515"
+  word: "zakųska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zakųska"
+      acc: "zakųskų"
+      gen: "zakųsky"
+      loc: "zakųskě"
+      dat: "zakųskě"
+      ins: "zakųskojų"
+      voc: "zakųsko"
+    plural: 
+      nom: "zakųsky"
+      acc: "zakųsky"
+      gen: "zakųsȯk"
+      loc: "zakųskah"
+      dat: "zakųskam"
+      ins: "zakųskami"
+      voc: "zakųsky"

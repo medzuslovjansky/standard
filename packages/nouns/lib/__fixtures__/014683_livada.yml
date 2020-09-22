@@ -1,0 +1,22 @@
+---
+  id: "14683"
+  word: "livada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "livada"
+      acc: "livadų"
+      gen: "livady"
+      loc: "livadě"
+      dat: "livadě"
+      ins: "livadojų"
+      voc: "livado"
+    plural: 
+      nom: "livady"
+      acc: "livady"
+      gen: "livad"
+      loc: "livadah"
+      dat: "livadam"
+      ins: "livadami"
+      voc: "livady"

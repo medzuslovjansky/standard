@@ -1,0 +1,22 @@
+---
+  id: "5324"
+  word: "prědpoklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědpoklad"
+      acc: "prědpoklad"
+      gen: "prědpoklada"
+      loc: "prědpokladu"
+      dat: "prědpokladu"
+      ins: "prědpokladom"
+      voc: "prědpoklade"
+    plural: 
+      nom: "prědpoklady"
+      acc: "prědpoklady"
+      gen: "prědpokladov"
+      loc: "prědpokladah"
+      dat: "prědpokladam"
+      ins: "prědpokladami"
+      voc: "prědpoklady"

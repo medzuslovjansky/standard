@@ -1,0 +1,22 @@
+---
+  id: "2282"
+  word: "grnec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grnec"
+      acc: "grnec"
+      gen: "grnca"
+      loc: "grncu"
+      dat: "grncu"
+      ins: "grncem"
+      voc: "grnče"
+    plural: 
+      nom: "grnce"
+      acc: "grnce"
+      gen: "grncev"
+      loc: "grncah"
+      dat: "grncam"
+      ins: "grncami"
+      voc: "grnce"

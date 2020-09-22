@@ -1,0 +1,22 @@
+---
+  id: "27573"
+  word: "meteńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "meteńje"
+      acc: "meteńje"
+      gen: "meteńja"
+      loc: "meteńju"
+      dat: "meteńju"
+      ins: "meteńjem"
+      voc: "meteńje"
+    plural: 
+      nom: "meteńja"
+      acc: "meteńja"
+      gen: "metenij"
+      loc: "meteńjah"
+      dat: "meteńjam"
+      ins: "meteńjami"
+      voc: "meteńja"

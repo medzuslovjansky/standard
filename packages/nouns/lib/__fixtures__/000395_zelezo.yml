@@ -1,0 +1,15 @@
+---
+  id: "395"
+  word: "želězo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "želězo"
+      acc: "želězo"
+      gen: "želěza"
+      loc: "želězu"
+      dat: "želězu"
+      ins: "želězom"
+      voc: "želězo"

@@ -1,0 +1,23 @@
+---
+  id: "7925"
+  word: "iskatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "iskatelj"
+      acc: "iskatelja"
+      gen: "iskatelja"
+      loc: "iskatelju"
+      dat: "iskatelju"
+      ins: "iskateljem"
+      voc: "iskatelju"
+    plural: 
+      nom: "iskatelji"
+      acc: "iskateljev"
+      gen: "iskateljev"
+      loc: "iskateljah"
+      dat: "iskateljam"
+      ins: "iskateljami"
+      voc: "iskatelji"

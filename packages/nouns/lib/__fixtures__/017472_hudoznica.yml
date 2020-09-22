@@ -1,0 +1,22 @@
+---
+  id: "17472"
+  word: "hųdožnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hųdožnica"
+      acc: "hųdožnicų"
+      gen: "hųdožnice"
+      loc: "hųdožnici"
+      dat: "hųdožnici"
+      ins: "hųdožnicejų"
+      voc: "hųdožnico"
+    plural: 
+      nom: "hųdožnice"
+      acc: "hųdožnice"
+      gen: "hųdožnic"
+      loc: "hųdožnicah"
+      dat: "hųdožnicam"
+      ins: "hųdožnicami"
+      voc: "hųdožnice"

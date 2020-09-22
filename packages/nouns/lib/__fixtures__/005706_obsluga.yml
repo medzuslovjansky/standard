@@ -1,0 +1,22 @@
+---
+  id: "5706"
+  word: "obsluga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obsluga"
+      acc: "obslugų"
+      gen: "obslugy"
+      loc: "obslugě"
+      dat: "obslugě"
+      ins: "obslugojų"
+      voc: "obslugo"
+    plural: 
+      nom: "obslugy"
+      acc: "obslugy"
+      gen: "obslug"
+      loc: "obslugah"
+      dat: "obslugam"
+      ins: "obslugami"
+      voc: "obslugy"

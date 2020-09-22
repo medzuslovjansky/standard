@@ -1,0 +1,23 @@
+---
+  id: "35774"
+  word: "hronikaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hronikaŕ"
+      acc: "hronikaŕa"
+      gen: "hronikaŕa"
+      loc: "hronikaŕu"
+      dat: "hronikaŕu"
+      ins: "hronikaŕem"
+      voc: "hronikaŕu"
+    plural: 
+      nom: "hronikari"
+      acc: "hronikaŕev"
+      gen: "hronikaŕev"
+      loc: "hronikaŕah"
+      dat: "hronikaŕam"
+      ins: "hronikaŕami"
+      voc: "hronikari"

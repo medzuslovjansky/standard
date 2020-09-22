@@ -1,0 +1,45 @@
+---
+  - 
+    id: "6181"
+    word: "križ"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "križ"
+        acc: "križ"
+        gen: "križa"
+        loc: "križu"
+        dat: "križu"
+        ins: "križem"
+        voc: "križu"
+      plural: 
+        nom: "križe"
+        acc: "križe"
+        gen: "križev"
+        loc: "križah"
+        dat: "križam"
+        ins: "križami"
+        voc: "križe"
+  - 
+    id: "6181"
+    word: "križ"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "križ"
+        acc: "križ"
+        gen: "križi"
+        loc: "križi"
+        dat: "križi"
+        ins: "križjų"
+        voc: "križi"
+      plural: 
+        nom: "križi"
+        acc: "križi"
+        gen: "križij"
+        loc: "križah"
+        dat: "križam"
+        ins: "križami"
+        voc: "križi"

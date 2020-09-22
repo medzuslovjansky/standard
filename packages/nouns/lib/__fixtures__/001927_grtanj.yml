@@ -1,0 +1,22 @@
+---
+  id: "1927"
+  word: "grtanj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grtanj"
+      acc: "grtanj"
+      gen: "grtanji"
+      loc: "grtanji"
+      dat: "grtanji"
+      ins: "grtanjjų"
+      voc: "grtanji"
+    plural: 
+      nom: "grtanji"
+      acc: "grtanji"
+      gen: "grtanjij"
+      loc: "grtanjah"
+      dat: "grtanjam"
+      ins: "grtanjami"
+      voc: "grtanji"

@@ -1,0 +1,22 @@
+---
+  id: "16956"
+  word: "kompromis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kompromis"
+      acc: "kompromis"
+      gen: "kompromisa"
+      loc: "kompromisu"
+      dat: "kompromisu"
+      ins: "kompromisom"
+      voc: "kompromise"
+    plural: 
+      nom: "kompromisy"
+      acc: "kompromisy"
+      gen: "kompromisov"
+      loc: "kompromisah"
+      dat: "kompromisam"
+      ins: "kompromisami"
+      voc: "kompromisy"

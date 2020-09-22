@@ -1,0 +1,22 @@
+---
+  id: "17724"
+  word: "lanec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lanec"
+      acc: "lanec"
+      gen: "lanca"
+      loc: "lancu"
+      dat: "lancu"
+      ins: "lancem"
+      voc: "lanče"
+    plural: 
+      nom: "lance"
+      acc: "lance"
+      gen: "lancev"
+      loc: "lancah"
+      dat: "lancam"
+      ins: "lancami"
+      voc: "lance"

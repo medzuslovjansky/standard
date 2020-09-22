@@ -1,0 +1,22 @@
+---
+  id: "36531"
+  word: "ruž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ruž"
+      acc: "ruž"
+      gen: "ruža"
+      loc: "ružu"
+      dat: "ružu"
+      ins: "ružem"
+      voc: "ružu"
+    plural: 
+      nom: "ruže"
+      acc: "ruže"
+      gen: "ružev"
+      loc: "ružah"
+      dat: "ružam"
+      ins: "ružami"
+      voc: "ruže"

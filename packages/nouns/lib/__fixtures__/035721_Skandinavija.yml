@@ -1,0 +1,15 @@
+---
+  id: "35721"
+  word: "Skandinavija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Skandinavija"
+      acc: "Skandinavijų"
+      gen: "Skandinavije"
+      loc: "Skandinaviji"
+      dat: "Skandinaviji"
+      ins: "Skandinavijejų"
+      voc: "Skandinavijo"

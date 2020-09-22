@@ -1,0 +1,22 @@
+---
+  id: "12341"
+  word: "slučka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slučka"
+      acc: "slučkų"
+      gen: "slučky"
+      loc: "slučkě"
+      dat: "slučkě"
+      ins: "slučkojų"
+      voc: "slučko"
+    plural: 
+      nom: "slučky"
+      acc: "slučky"
+      gen: "sluček"
+      loc: "slučkah"
+      dat: "slučkam"
+      ins: "slučkami"
+      voc: "slučky"

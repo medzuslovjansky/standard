@@ -1,0 +1,22 @@
+---
+  id: "27845"
+  word: "muhomor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "muhomor"
+      acc: "muhomor"
+      gen: "muhomora"
+      loc: "muhomoru"
+      dat: "muhomoru"
+      ins: "muhomorom"
+      voc: "muhomore"
+    plural: 
+      nom: "muhomory"
+      acc: "muhomory"
+      gen: "muhomorov"
+      loc: "muhomorah"
+      dat: "muhomoram"
+      ins: "muhomorami"
+      voc: "muhomory"

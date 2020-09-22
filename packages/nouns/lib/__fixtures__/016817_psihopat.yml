@@ -1,0 +1,23 @@
+---
+  id: "16817"
+  word: "psihopat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "psihopat"
+      acc: "psihopata"
+      gen: "psihopata"
+      loc: "psihopatu"
+      dat: "psihopatu"
+      ins: "psihopatom"
+      voc: "psihopate"
+    plural: 
+      nom: "psihopati"
+      acc: "psihopatov"
+      gen: "psihopatov"
+      loc: "psihopatah"
+      dat: "psihopatam"
+      ins: "psihopatami"
+      voc: "psihopati"

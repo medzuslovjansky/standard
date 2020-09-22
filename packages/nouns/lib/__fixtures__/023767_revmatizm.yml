@@ -1,0 +1,15 @@
+---
+  id: "23767"
+  word: "revmatizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "revmatizm"
+      acc: "revmatizm"
+      gen: "revmatizma"
+      loc: "revmatizmu"
+      dat: "revmatizmu"
+      ins: "revmatizmom"
+      voc: "revmatizme"

@@ -1,0 +1,15 @@
+---
+  id: "24047"
+  word: "absint"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "absint"
+      acc: "absint"
+      gen: "absinta"
+      loc: "absintu"
+      dat: "absintu"
+      ins: "absintom"
+      voc: "absinte"

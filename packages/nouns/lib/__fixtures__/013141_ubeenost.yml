@@ -1,0 +1,22 @@
+---
+  id: "13141"
+  word: "uběđenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uběđenosť"
+      acc: "uběđenosť"
+      gen: "uběđenosti"
+      loc: "uběđenosti"
+      dat: "uběđenosti"
+      ins: "uběđenosťjų"
+      voc: "uběđenosti"
+    plural: 
+      nom: "uběđenosti"
+      acc: "uběđenosti"
+      gen: "uběđenostij"
+      loc: "uběđenosťah"
+      dat: "uběđenosťam"
+      ins: "uběđenosťami"
+      voc: "uběđenosti"

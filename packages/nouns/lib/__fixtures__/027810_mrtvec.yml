@@ -1,0 +1,23 @@
+---
+  id: "27810"
+  word: "mŕtvec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mŕtvec"
+      acc: "mŕtveca"
+      gen: "mŕtveca"
+      loc: "mŕtvecu"
+      dat: "mŕtvecu"
+      ins: "mŕtvecem"
+      voc: "mŕtveče"
+    plural: 
+      nom: "mŕtveci"
+      acc: "mŕtvecev"
+      gen: "mŕtvecev"
+      loc: "mŕtvecah"
+      dat: "mŕtvecam"
+      ins: "mŕtvecami"
+      voc: "mŕtveci"

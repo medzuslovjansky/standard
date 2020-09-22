@@ -1,0 +1,22 @@
+---
+  id: "26366"
+  word: "jelenę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "jelenę"
+      acc: "jelenę"
+      gen: "jelenęte / jelenęta"
+      loc: "jelenęti / jelenętu"
+      dat: "jelenęti / jelenętu"
+      ins: "jelenętem / jelenętom"
+      voc: "jelenę"
+    plural: 
+      nom: "jelenęta"
+      acc: "jelenęta"
+      gen: "jelenęt"
+      loc: "jelenętah"
+      dat: "jelenętam"
+      ins: "jelenętami"
+      voc: "jelenęta"

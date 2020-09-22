@@ -1,0 +1,22 @@
+---
+  id: "32202"
+  word: "ljubosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ljubosť"
+      acc: "ljubosť"
+      gen: "ljubosti"
+      loc: "ljubosti"
+      dat: "ljubosti"
+      ins: "ljubosťjų"
+      voc: "ljubosti"
+    plural: 
+      nom: "ljubosti"
+      acc: "ljubosti"
+      gen: "ljubostij"
+      loc: "ljubosťah"
+      dat: "ljubosťam"
+      ins: "ljubosťami"
+      voc: "ljubosti"

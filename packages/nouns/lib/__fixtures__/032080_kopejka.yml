@@ -1,0 +1,22 @@
+---
+  id: "32080"
+  word: "kopějka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kopějka"
+      acc: "kopějkų"
+      gen: "kopějky"
+      loc: "kopějkě"
+      dat: "kopějkě"
+      ins: "kopějkojų"
+      voc: "kopějko"
+    plural: 
+      nom: "kopějky"
+      acc: "kopějky"
+      gen: "kopějek"
+      loc: "kopějkah"
+      dat: "kopějkam"
+      ins: "kopějkami"
+      voc: "kopějky"

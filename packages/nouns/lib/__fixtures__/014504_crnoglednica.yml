@@ -1,0 +1,22 @@
+---
+  id: "14504"
+  word: "črnoględnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črnoględnica"
+      acc: "črnoględnicų"
+      gen: "črnoględnice"
+      loc: "črnoględnici"
+      dat: "črnoględnici"
+      ins: "črnoględnicejų"
+      voc: "črnoględnico"
+    plural: 
+      nom: "črnoględnice"
+      acc: "črnoględnice"
+      gen: "črnoględnic"
+      loc: "črnoględnicah"
+      dat: "črnoględnicam"
+      ins: "črnoględnicami"
+      voc: "črnoględnice"

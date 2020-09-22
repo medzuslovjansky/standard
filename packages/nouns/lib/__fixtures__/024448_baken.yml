@@ -1,0 +1,22 @@
+---
+  id: "24448"
+  word: "baken"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baken"
+      acc: "baken"
+      gen: "bakena"
+      loc: "bakenu"
+      dat: "bakenu"
+      ins: "bakenom"
+      voc: "bakene"
+    plural: 
+      nom: "bakeny"
+      acc: "bakeny"
+      gen: "bakenov"
+      loc: "bakenah"
+      dat: "bakenam"
+      ins: "bakenami"
+      voc: "bakeny"

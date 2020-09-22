@@ -1,0 +1,22 @@
+---
+  id: "30979"
+  word: "vakancija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vakancija"
+      acc: "vakancijų"
+      gen: "vakancije"
+      loc: "vakanciji"
+      dat: "vakanciji"
+      ins: "vakancijejų"
+      voc: "vakancijo"
+    plural: 
+      nom: "vakancije"
+      acc: "vakancije"
+      gen: "vakancij"
+      loc: "vakancijah"
+      dat: "vakancijam"
+      ins: "vakancijami"
+      voc: "vakancije"

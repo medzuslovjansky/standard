@@ -1,0 +1,22 @@
+---
+  id: "24125"
+  word: "agregat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "agregat"
+      acc: "agregat"
+      gen: "agregata"
+      loc: "agregatu"
+      dat: "agregatu"
+      ins: "agregatom"
+      voc: "agregate"
+    plural: 
+      nom: "agregaty"
+      acc: "agregaty"
+      gen: "agregatov"
+      loc: "agregatah"
+      dat: "agregatam"
+      ins: "agregatami"
+      voc: "agregaty"

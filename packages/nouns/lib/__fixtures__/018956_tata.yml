@@ -1,0 +1,23 @@
+---
+  id: "18956"
+  word: "tata"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tata"
+      acc: "tatų"
+      gen: "taty"
+      loc: "tatě"
+      dat: "tatě"
+      ins: "tatojų"
+      voc: "tato"
+    plural: 
+      nom: "tati"
+      acc: "tatov"
+      gen: "tatov"
+      loc: "tatah"
+      dat: "tatam"
+      ins: "tatami"
+      voc: "tati"

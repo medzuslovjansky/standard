@@ -1,0 +1,22 @@
+---
+  id: "4974"
+  word: "masturbacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "masturbacija"
+      acc: "masturbacijų"
+      gen: "masturbacije"
+      loc: "masturbaciji"
+      dat: "masturbaciji"
+      ins: "masturbacijejų"
+      voc: "masturbacijo"
+    plural: 
+      nom: "masturbacije"
+      acc: "masturbacije"
+      gen: "masturbacij"
+      loc: "masturbacijah"
+      dat: "masturbacijam"
+      ins: "masturbacijami"
+      voc: "masturbacije"

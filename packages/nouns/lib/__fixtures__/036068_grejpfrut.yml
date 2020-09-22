@@ -1,0 +1,22 @@
+---
+  id: "36068"
+  word: "grejpfrut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grejpfrut"
+      acc: "grejpfrut"
+      gen: "grejpfruta"
+      loc: "grejpfrutu"
+      dat: "grejpfrutu"
+      ins: "grejpfrutom"
+      voc: "grejpfrute"
+    plural: 
+      nom: "grejpfruty"
+      acc: "grejpfruty"
+      gen: "grejpfrutov"
+      loc: "grejpfrutah"
+      dat: "grejpfrutam"
+      ins: "grejpfrutami"
+      voc: "grejpfruty"

@@ -1,0 +1,22 @@
+---
+  id: "2459"
+  word: "blok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blok"
+      acc: "blok"
+      gen: "bloka"
+      loc: "bloku"
+      dat: "bloku"
+      ins: "blokom"
+      voc: "bloče"
+    plural: 
+      nom: "bloky"
+      acc: "bloky"
+      gen: "blokov"
+      loc: "blokah"
+      dat: "blokam"
+      ins: "blokami"
+      voc: "bloky"

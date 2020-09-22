@@ -1,0 +1,22 @@
+---
+  id: "31177"
+  word: "viadukt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "viadukt"
+      acc: "viadukt"
+      gen: "viadukta"
+      loc: "viaduktu"
+      dat: "viaduktu"
+      ins: "viaduktom"
+      voc: "viadukte"
+    plural: 
+      nom: "viadukty"
+      acc: "viadukty"
+      gen: "viaduktov"
+      loc: "viaduktah"
+      dat: "viaduktam"
+      ins: "viaduktami"
+      voc: "viadukty"

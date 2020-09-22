@@ -1,0 +1,22 @@
+---
+  id: "36203"
+  word: "polěno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "polěno"
+      acc: "polěno"
+      gen: "polěna"
+      loc: "polěnu"
+      dat: "polěnu"
+      ins: "polěnom"
+      voc: "polěno"
+    plural: 
+      nom: "polěna"
+      acc: "polěna"
+      gen: "polěn"
+      loc: "polěnah"
+      dat: "polěnam"
+      ins: "polěnami"
+      voc: "polěna"

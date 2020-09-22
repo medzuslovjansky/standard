@@ -1,0 +1,23 @@
+---
+  id: "1192"
+  word: "stryjec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "stryjec"
+      acc: "stryjca"
+      gen: "stryjca"
+      loc: "stryjcu"
+      dat: "stryjcu"
+      ins: "stryjcem"
+      voc: "stryjče"
+    plural: 
+      nom: "stryjci"
+      acc: "stryjcev"
+      gen: "stryjcev"
+      loc: "stryjcah"
+      dat: "stryjcam"
+      ins: "stryjcami"
+      voc: "stryjci"

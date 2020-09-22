@@ -1,0 +1,23 @@
+---
+  id: "35692"
+  word: "cěsaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "cěsaŕ"
+      acc: "cěsaŕa"
+      gen: "cěsaŕa"
+      loc: "cěsaŕu"
+      dat: "cěsaŕu"
+      ins: "cěsaŕem"
+      voc: "cěsaŕu"
+    plural: 
+      nom: "cěsari"
+      acc: "cěsaŕev"
+      gen: "cěsaŕev"
+      loc: "cěsaŕah"
+      dat: "cěsaŕam"
+      ins: "cěsaŕami"
+      voc: "cěsari"

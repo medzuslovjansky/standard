@@ -1,0 +1,22 @@
+---
+  id: "3026"
+  word: "forum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "forum"
+      acc: "forum"
+      gen: "foruma"
+      loc: "forumu"
+      dat: "forumu"
+      ins: "forumom"
+      voc: "forum"
+    plural: 
+      nom: "foruma"
+      acc: "foruma"
+      gen: "forum"
+      loc: "forumah"
+      dat: "forumam"
+      ins: "forumami"
+      voc: "foruma"

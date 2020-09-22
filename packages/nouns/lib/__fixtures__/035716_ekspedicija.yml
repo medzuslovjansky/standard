@@ -1,0 +1,22 @@
+---
+  id: "35716"
+  word: "ekspedicija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ekspedicija"
+      acc: "ekspedicijų"
+      gen: "ekspedicije"
+      loc: "ekspediciji"
+      dat: "ekspediciji"
+      ins: "ekspedicijejų"
+      voc: "ekspedicijo"
+    plural: 
+      nom: "ekspedicije"
+      acc: "ekspedicije"
+      gen: "ekspedicij"
+      loc: "ekspedicijah"
+      dat: "ekspedicijam"
+      ins: "ekspedicijami"
+      voc: "ekspedicije"

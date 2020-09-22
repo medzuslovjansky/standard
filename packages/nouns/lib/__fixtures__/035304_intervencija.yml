@@ -1,0 +1,22 @@
+---
+  id: "35304"
+  word: "intervencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "intervencija"
+      acc: "intervencijų"
+      gen: "intervencije"
+      loc: "intervenciji"
+      dat: "intervenciji"
+      ins: "intervencijejų"
+      voc: "intervencijo"
+    plural: 
+      nom: "intervencije"
+      acc: "intervencije"
+      gen: "intervencij"
+      loc: "intervencijah"
+      dat: "intervencijam"
+      ins: "intervencijami"
+      voc: "intervencije"

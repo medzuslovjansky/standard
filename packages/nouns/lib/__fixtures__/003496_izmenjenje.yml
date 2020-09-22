@@ -1,0 +1,22 @@
+---
+  id: "3496"
+  word: "izměnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izměnjeńje"
+      acc: "izměnjeńje"
+      gen: "izměnjeńja"
+      loc: "izměnjeńju"
+      dat: "izměnjeńju"
+      ins: "izměnjeńjem"
+      voc: "izměnjeńje"
+    plural: 
+      nom: "izměnjeńja"
+      acc: "izměnjeńja"
+      gen: "izměnjenij"
+      loc: "izměnjeńjah"
+      dat: "izměnjeńjam"
+      ins: "izměnjeńjami"
+      voc: "izměnjeńja"

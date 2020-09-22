@@ -1,0 +1,22 @@
+---
+  id: "3855"
+  word: "komanda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "komanda"
+      acc: "komandų"
+      gen: "komandy"
+      loc: "komandě"
+      dat: "komandě"
+      ins: "komandojų"
+      voc: "komando"
+    plural: 
+      nom: "komandy"
+      acc: "komandy"
+      gen: "komand"
+      loc: "komandah"
+      dat: "komandam"
+      ins: "komandami"
+      voc: "komandy"

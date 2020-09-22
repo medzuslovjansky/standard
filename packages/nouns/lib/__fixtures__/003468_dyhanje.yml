@@ -1,0 +1,15 @@
+---
+  id: "3468"
+  word: "dyhańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dyhańje"
+      acc: "dyhańje"
+      gen: "dyhańja"
+      loc: "dyhańju"
+      dat: "dyhańju"
+      ins: "dyhańjem"
+      voc: "dyhańje"

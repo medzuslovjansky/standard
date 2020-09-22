@@ -1,0 +1,22 @@
+---
+  id: "20270"
+  word: "vměšańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vměšańje"
+      acc: "vměšańje"
+      gen: "vměšańja"
+      loc: "vměšańju"
+      dat: "vměšańju"
+      ins: "vměšańjem"
+      voc: "vměšańje"
+    plural: 
+      nom: "vměšańja"
+      acc: "vměšańja"
+      gen: "vměšanij"
+      loc: "vměšańjah"
+      dat: "vměšańjam"
+      ins: "vměšańjami"
+      voc: "vměšańja"

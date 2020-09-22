@@ -1,0 +1,22 @@
+---
+  id: "2823"
+  word: "otrava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "otrava"
+      acc: "otravų"
+      gen: "otravy"
+      loc: "otravě"
+      dat: "otravě"
+      ins: "otravojų"
+      voc: "otravo"
+    plural: 
+      nom: "otravy"
+      acc: "otravy"
+      gen: "otrav"
+      loc: "otravah"
+      dat: "otravam"
+      ins: "otravami"
+      voc: "otravy"

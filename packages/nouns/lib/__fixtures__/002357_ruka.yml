@@ -1,0 +1,22 @@
+---
+  id: "2357"
+  word: "rųka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rųka"
+      acc: "rųkų"
+      gen: "rųky"
+      loc: "rųkě"
+      dat: "rųkě"
+      ins: "rųkojų"
+      voc: "rųko"
+    plural: 
+      nom: "rųky"
+      acc: "rųky"
+      gen: "rųk"
+      loc: "rųkah"
+      dat: "rųkam"
+      ins: "rųkami"
+      voc: "rųky"

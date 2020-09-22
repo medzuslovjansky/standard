@@ -1,0 +1,23 @@
+---
+  id: "6065"
+  word: "dopisnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dopisnik"
+      acc: "dopisnika"
+      gen: "dopisnika"
+      loc: "dopisniku"
+      dat: "dopisniku"
+      ins: "dopisnikom"
+      voc: "dopisniče"
+    plural: 
+      nom: "dopisniki"
+      acc: "dopisnikov"
+      gen: "dopisnikov"
+      loc: "dopisnikah"
+      dat: "dopisnikam"
+      ins: "dopisnikami"
+      voc: "dopisniki"

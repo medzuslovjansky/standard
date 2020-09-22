@@ -1,0 +1,15 @@
+---
+  id: "16427"
+  word: "četverčęta"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "četverčęta"
+      acc: "četverčęta"
+      gen: "četverčęt"
+      loc: "četverčętah"
+      dat: "četverčętam"
+      ins: "četverčętami"
+      voc: "četverčęta"

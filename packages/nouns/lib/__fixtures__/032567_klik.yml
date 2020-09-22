@@ -1,0 +1,22 @@
+---
+  id: "32567"
+  word: "klik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klik"
+      acc: "klik"
+      gen: "klika"
+      loc: "kliku"
+      dat: "kliku"
+      ins: "klikom"
+      voc: "kliče"
+    plural: 
+      nom: "kliky"
+      acc: "kliky"
+      gen: "klikov"
+      loc: "klikah"
+      dat: "klikam"
+      ins: "klikami"
+      voc: "kliky"

@@ -1,0 +1,22 @@
+---
+  id: "2689"
+  word: "maksimum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "maksimum"
+      acc: "maksimum"
+      gen: "maksimuma"
+      loc: "maksimumu"
+      dat: "maksimumu"
+      ins: "maksimumom"
+      voc: "maksimum"
+    plural: 
+      nom: "maksimuma"
+      acc: "maksimuma"
+      gen: "maksimum"
+      loc: "maksimumah"
+      dat: "maksimumam"
+      ins: "maksimumami"
+      voc: "maksimuma"

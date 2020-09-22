@@ -1,0 +1,22 @@
+---
+  id: "26424"
+  word: "kabarga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kabarga"
+      acc: "kabargų"
+      gen: "kabargy"
+      loc: "kabargě"
+      dat: "kabargě"
+      ins: "kabargojų"
+      voc: "kabargo"
+    plural: 
+      nom: "kabargy"
+      acc: "kabargy"
+      gen: "kabarg"
+      loc: "kabargah"
+      dat: "kabargam"
+      ins: "kabargami"
+      voc: "kabargy"

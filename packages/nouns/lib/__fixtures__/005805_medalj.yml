@@ -1,0 +1,22 @@
+---
+  id: "5805"
+  word: "medalj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "medalj"
+      acc: "medalj"
+      gen: "medalji"
+      loc: "medalji"
+      dat: "medalji"
+      ins: "medaljjų"
+      voc: "medalji"
+    plural: 
+      nom: "medalji"
+      acc: "medalji"
+      gen: "medaljij"
+      loc: "medaljah"
+      dat: "medaljam"
+      ins: "medaljami"
+      voc: "medalji"

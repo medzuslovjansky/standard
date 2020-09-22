@@ -1,0 +1,23 @@
+---
+  id: "4179"
+  word: "prěžitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prěžitelj"
+      acc: "prěžitelja"
+      gen: "prěžitelja"
+      loc: "prěžitelju"
+      dat: "prěžitelju"
+      ins: "prěžiteljem"
+      voc: "prěžitelju"
+    plural: 
+      nom: "prěžitelji"
+      acc: "prěžiteljev"
+      gen: "prěžiteljev"
+      loc: "prěžiteljah"
+      dat: "prěžiteljam"
+      ins: "prěžiteljami"
+      voc: "prěžitelji"

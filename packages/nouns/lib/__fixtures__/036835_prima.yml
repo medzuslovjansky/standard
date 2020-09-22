@@ -1,0 +1,22 @@
+---
+  id: "36835"
+  word: "prima"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prima"
+      acc: "primų"
+      gen: "primy"
+      loc: "primě"
+      dat: "primě"
+      ins: "primojų"
+      voc: "primo"
+    plural: 
+      nom: "primy"
+      acc: "primy"
+      gen: "prim"
+      loc: "primah"
+      dat: "primam"
+      ins: "primami"
+      voc: "primy"

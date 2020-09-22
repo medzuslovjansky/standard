@@ -1,0 +1,23 @@
+---
+  id: "4724"
+  word: "Latyš"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Latyš"
+      acc: "Latyša"
+      gen: "Latyša"
+      loc: "Latyšu"
+      dat: "Latyšu"
+      ins: "Latyšem"
+      voc: "Latyšu"
+    plural: 
+      nom: "Latyši"
+      acc: "Latyšev"
+      gen: "Latyšev"
+      loc: "Latyšah"
+      dat: "Latyšam"
+      ins: "Latyšami"
+      voc: "Latyši"

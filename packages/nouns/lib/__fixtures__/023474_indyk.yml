@@ -1,0 +1,23 @@
+---
+  id: "23474"
+  word: "indyk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "indyk"
+      acc: "indyka"
+      gen: "indyka"
+      loc: "indyku"
+      dat: "indyku"
+      ins: "indykom"
+      voc: "indyče"
+    plural: 
+      nom: "indyki"
+      acc: "indykov"
+      gen: "indykov"
+      loc: "indykah"
+      dat: "indykam"
+      ins: "indykami"
+      voc: "indyki"

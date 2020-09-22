@@ -1,0 +1,22 @@
+---
+  id: "36414"
+  word: "aranžman"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aranžman"
+      acc: "aranžman"
+      gen: "aranžmana"
+      loc: "aranžmanu"
+      dat: "aranžmanu"
+      ins: "aranžmanom"
+      voc: "aranžmane"
+    plural: 
+      nom: "aranžmany"
+      acc: "aranžmany"
+      gen: "aranžmanov"
+      loc: "aranžmanah"
+      dat: "aranžmanam"
+      ins: "aranžmanami"
+      voc: "aranžmany"

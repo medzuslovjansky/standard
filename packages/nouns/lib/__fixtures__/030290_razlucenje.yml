@@ -1,0 +1,22 @@
+---
+  id: "30290"
+  word: "råzlųčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzlųčeńje"
+      acc: "råzlųčeńje"
+      gen: "råzlųčeńja"
+      loc: "råzlųčeńju"
+      dat: "råzlųčeńju"
+      ins: "råzlųčeńjem"
+      voc: "råzlųčeńje"
+    plural: 
+      nom: "råzlųčeńja"
+      acc: "råzlųčeńja"
+      gen: "råzlųčenij"
+      loc: "råzlųčeńjah"
+      dat: "råzlųčeńjam"
+      ins: "råzlųčeńjami"
+      voc: "råzlųčeńja"

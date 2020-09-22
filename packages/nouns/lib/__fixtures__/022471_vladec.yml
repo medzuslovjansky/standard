@@ -1,0 +1,23 @@
+---
+  id: "22471"
+  word: "vladec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vladec"
+      acc: "vladca"
+      gen: "vladca"
+      loc: "vladcu"
+      dat: "vladcu"
+      ins: "vladcem"
+      voc: "vladče"
+    plural: 
+      nom: "vladci"
+      acc: "vladcev"
+      gen: "vladcev"
+      loc: "vladcah"
+      dat: "vladcam"
+      ins: "vladcami"
+      voc: "vladci"

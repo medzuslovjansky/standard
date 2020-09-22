@@ -1,0 +1,22 @@
+---
+  id: "19370"
+  word: "zajezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zajezd"
+      acc: "zajezd"
+      gen: "zajezda"
+      loc: "zajezdu"
+      dat: "zajezdu"
+      ins: "zajezdom"
+      voc: "zajezde"
+    plural: 
+      nom: "zajezdy"
+      acc: "zajezdy"
+      gen: "zajezdov"
+      loc: "zajezdah"
+      dat: "zajezdam"
+      ins: "zajezdami"
+      voc: "zajezdy"

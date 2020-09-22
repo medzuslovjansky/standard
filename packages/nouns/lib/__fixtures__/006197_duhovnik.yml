@@ -1,0 +1,23 @@
+---
+  id: "6197"
+  word: "duhovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "duhovnik"
+      acc: "duhovnika"
+      gen: "duhovnika"
+      loc: "duhovniku"
+      dat: "duhovniku"
+      ins: "duhovnikom"
+      voc: "duhovniče"
+    plural: 
+      nom: "duhovniki"
+      acc: "duhovnikov"
+      gen: "duhovnikov"
+      loc: "duhovnikah"
+      dat: "duhovnikam"
+      ins: "duhovnikami"
+      voc: "duhovniki"

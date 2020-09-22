@@ -1,0 +1,22 @@
+---
+  id: "36823"
+  word: "inercija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "inercija"
+      acc: "inercijų"
+      gen: "inercije"
+      loc: "inerciji"
+      dat: "inerciji"
+      ins: "inercijejų"
+      voc: "inercijo"
+    plural: 
+      nom: "inercije"
+      acc: "inercije"
+      gen: "inercij"
+      loc: "inercijah"
+      dat: "inercijam"
+      ins: "inercijami"
+      voc: "inercije"

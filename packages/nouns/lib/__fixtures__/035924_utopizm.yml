@@ -1,0 +1,15 @@
+---
+  id: "35924"
+  word: "utopizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "utopizm"
+      acc: "utopizm"
+      gen: "utopizma"
+      loc: "utopizmu"
+      dat: "utopizmu"
+      ins: "utopizmom"
+      voc: "utopizme"

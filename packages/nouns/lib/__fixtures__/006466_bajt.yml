@@ -1,0 +1,22 @@
+---
+  id: "6466"
+  word: "bajt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bajt"
+      acc: "bajt"
+      gen: "bajta"
+      loc: "bajtu"
+      dat: "bajtu"
+      ins: "bajtom"
+      voc: "bajte"
+    plural: 
+      nom: "bajty"
+      acc: "bajty"
+      gen: "bajtov"
+      loc: "bajtah"
+      dat: "bajtam"
+      ins: "bajtami"
+      voc: "bajty"

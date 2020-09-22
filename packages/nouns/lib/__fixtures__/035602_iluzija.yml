@@ -1,0 +1,22 @@
+---
+  id: "35602"
+  word: "iluzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iluzija"
+      acc: "iluzijų"
+      gen: "iluzije"
+      loc: "iluziji"
+      dat: "iluziji"
+      ins: "iluzijejų"
+      voc: "iluzijo"
+    plural: 
+      nom: "iluzije"
+      acc: "iluzije"
+      gen: "iluzij"
+      loc: "iluzijah"
+      dat: "iluzijam"
+      ins: "iluzijami"
+      voc: "iluzije"

@@ -1,0 +1,22 @@
+---
+  id: "30033"
+  word: "pŕstenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕsten / pŕstenj"
+      acc: "pŕsten / pŕstenj"
+      gen: "pŕstene / pŕstenja"
+      loc: "pŕsteni / pŕstenju"
+      dat: "pŕsteni / pŕstenju"
+      ins: "pŕstenem / pŕstenjem"
+      voc: "pŕsten / pŕstenju"
+    plural: 
+      nom: "pŕsteni / pŕstenje"
+      acc: "pŕsteni / pŕstenje"
+      gen: "pŕstenev / pŕstenjev"
+      loc: "pŕstenah / pŕstenjah"
+      dat: "pŕstenam / pŕstenjam"
+      ins: "pŕstenami / pŕstenjami"
+      voc: "pŕsteni / pŕstenje"

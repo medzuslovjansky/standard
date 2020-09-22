@@ -1,0 +1,23 @@
+---
+  id: "5248"
+  word: "ljubȯvnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ljubȯvnik"
+      acc: "ljubȯvnika"
+      gen: "ljubȯvnika"
+      loc: "ljubȯvniku"
+      dat: "ljubȯvniku"
+      ins: "ljubȯvnikom"
+      voc: "ljubȯvniče"
+    plural: 
+      nom: "ljubȯvniki"
+      acc: "ljubȯvnikov"
+      gen: "ljubȯvnikov"
+      loc: "ljubȯvnikah"
+      dat: "ljubȯvnikam"
+      ins: "ljubȯvnikami"
+      voc: "ljubȯvniki"

@@ -1,0 +1,22 @@
+---
+  id: "22079"
+  word: "prědteča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědteča"
+      acc: "prědtečų"
+      gen: "prědteče"
+      loc: "prědteči"
+      dat: "prědteči"
+      ins: "prědtečejų"
+      voc: "prědtečo"
+    plural: 
+      nom: "prědteče"
+      acc: "prědteče"
+      gen: "prědteč"
+      loc: "prědtečah"
+      dat: "prědtečam"
+      ins: "prědtečami"
+      voc: "prědteče"

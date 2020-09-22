@@ -1,0 +1,23 @@
+---
+  id: "18130"
+  word: "omamnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "omamnik"
+      acc: "omamnika"
+      gen: "omamnika"
+      loc: "omamniku"
+      dat: "omamniku"
+      ins: "omamnikom"
+      voc: "omamniče"
+    plural: 
+      nom: "omamniki"
+      acc: "omamnikov"
+      gen: "omamnikov"
+      loc: "omamnikah"
+      dat: "omamnikam"
+      ins: "omamnikami"
+      voc: "omamniki"

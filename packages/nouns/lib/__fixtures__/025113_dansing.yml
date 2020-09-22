@@ -1,0 +1,22 @@
+---
+  id: "25113"
+  word: "dansing"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dansing"
+      acc: "dansing"
+      gen: "dansinga"
+      loc: "dansingu"
+      dat: "dansingu"
+      ins: "dansingom"
+      voc: "dansinže"
+    plural: 
+      nom: "dansingy"
+      acc: "dansingy"
+      gen: "dansingov"
+      loc: "dansingah"
+      dat: "dansingam"
+      ins: "dansingami"
+      voc: "dansingy"

@@ -1,0 +1,15 @@
+---
+  id: "8947"
+  word: "lovjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lovjeńje"
+      acc: "lovjeńje"
+      gen: "lovjeńja"
+      loc: "lovjeńju"
+      dat: "lovjeńju"
+      ins: "lovjeńjem"
+      voc: "lovjeńje"

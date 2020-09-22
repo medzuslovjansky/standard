@@ -1,0 +1,22 @@
+---
+  id: "36848"
+  word: "jak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jak"
+      acc: "jak"
+      gen: "jaka"
+      loc: "jaku"
+      dat: "jaku"
+      ins: "jakom"
+      voc: "jače"
+    plural: 
+      nom: "jaky"
+      acc: "jaky"
+      gen: "jakov"
+      loc: "jakah"
+      dat: "jakam"
+      ins: "jakami"
+      voc: "jaky"

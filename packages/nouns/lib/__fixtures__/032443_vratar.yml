@@ -1,0 +1,23 @@
+---
+  id: "32443"
+  word: "vråtaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vråtaŕ"
+      acc: "vråtaŕa"
+      gen: "vråtaŕa"
+      loc: "vråtaŕu"
+      dat: "vråtaŕu"
+      ins: "vråtaŕem"
+      voc: "vråtaŕu"
+    plural: 
+      nom: "vråtari"
+      acc: "vråtaŕev"
+      gen: "vråtaŕev"
+      loc: "vråtaŕah"
+      dat: "vråtaŕam"
+      ins: "vråtaŕami"
+      voc: "vråtari"

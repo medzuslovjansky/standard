@@ -1,0 +1,23 @@
+---
+  id: "31520"
+  word: "založnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "založnik"
+      acc: "založnika"
+      gen: "založnika"
+      loc: "založniku"
+      dat: "založniku"
+      ins: "založnikom"
+      voc: "založniče"
+    plural: 
+      nom: "založniki"
+      acc: "založnikov"
+      gen: "založnikov"
+      loc: "založnikah"
+      dat: "založnikam"
+      ins: "založnikami"
+      voc: "založniki"

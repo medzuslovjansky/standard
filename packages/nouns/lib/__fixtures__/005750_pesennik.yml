@@ -1,0 +1,23 @@
+---
+  id: "5750"
+  word: "pěsennik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pěsennik"
+      acc: "pěsennika"
+      gen: "pěsennika"
+      loc: "pěsenniku"
+      dat: "pěsenniku"
+      ins: "pěsennikom"
+      voc: "pěsenniče"
+    plural: 
+      nom: "pěsenniki"
+      acc: "pěsennikov"
+      gen: "pěsennikov"
+      loc: "pěsennikah"
+      dat: "pěsennikam"
+      ins: "pěsennikami"
+      voc: "pěsenniki"

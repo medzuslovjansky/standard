@@ -1,0 +1,22 @@
+---
+  id: "15772"
+  word: "avtoritet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtoritet"
+      acc: "avtoritet"
+      gen: "avtoriteta"
+      loc: "avtoritetu"
+      dat: "avtoritetu"
+      ins: "avtoritetom"
+      voc: "avtoritete"
+    plural: 
+      nom: "avtoritety"
+      acc: "avtoritety"
+      gen: "avtoritetov"
+      loc: "avtoritetah"
+      dat: "avtoritetam"
+      ins: "avtoritetami"
+      voc: "avtoritety"

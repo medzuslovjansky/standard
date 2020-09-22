@@ -1,0 +1,22 @@
+---
+  id: "36558"
+  word: "podgoŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podgoŕje"
+      acc: "podgoŕje"
+      gen: "podgoŕja"
+      loc: "podgoŕju"
+      dat: "podgoŕju"
+      ins: "podgoŕjem"
+      voc: "podgoŕje"
+    plural: 
+      nom: "podgoŕja"
+      acc: "podgoŕja"
+      gen: "podgorij"
+      loc: "podgoŕjah"
+      dat: "podgoŕjam"
+      ins: "podgoŕjami"
+      voc: "podgoŕja"

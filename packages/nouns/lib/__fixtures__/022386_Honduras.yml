@@ -1,0 +1,15 @@
+---
+  id: "22386"
+  word: "Honduras"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Honduras"
+      acc: "Honduras"
+      gen: "Hondurasa"
+      loc: "Hondurasu"
+      dat: "Hondurasu"
+      ins: "Hondurasom"
+      voc: "Hondurase"

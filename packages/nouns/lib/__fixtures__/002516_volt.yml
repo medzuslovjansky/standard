@@ -1,0 +1,22 @@
+---
+  id: "2516"
+  word: "volt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "volt"
+      acc: "volt"
+      gen: "volta"
+      loc: "voltu"
+      dat: "voltu"
+      ins: "voltom"
+      voc: "volte"
+    plural: 
+      nom: "volty"
+      acc: "volty"
+      gen: "voltov"
+      loc: "voltah"
+      dat: "voltam"
+      ins: "voltami"
+      voc: "volty"

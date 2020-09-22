@@ -1,0 +1,22 @@
+---
+  id: "30973"
+  word: "vagonetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vagonetka"
+      acc: "vagonetkų"
+      gen: "vagonetky"
+      loc: "vagonetkě"
+      dat: "vagonetkě"
+      ins: "vagonetkojų"
+      voc: "vagonetko"
+    plural: 
+      nom: "vagonetky"
+      acc: "vagonetky"
+      gen: "vagonetȯk"
+      loc: "vagonetkah"
+      dat: "vagonetkam"
+      ins: "vagonetkami"
+      voc: "vagonetky"

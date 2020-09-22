@@ -1,0 +1,23 @@
+---
+  id: "32332"
+  word: "gubernator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gubernator"
+      acc: "gubernatora"
+      gen: "gubernatora"
+      loc: "gubernatoru"
+      dat: "gubernatoru"
+      ins: "gubernatorom"
+      voc: "gubernatore"
+    plural: 
+      nom: "gubernatori"
+      acc: "gubernatorov"
+      gen: "gubernatorov"
+      loc: "gubernatorah"
+      dat: "gubernatoram"
+      ins: "gubernatorami"
+      voc: "gubernatori"

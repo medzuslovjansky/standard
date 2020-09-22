@@ -1,0 +1,22 @@
+---
+  id: "21360"
+  word: "nasědka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nasědka"
+      acc: "nasědkų"
+      gen: "nasědky"
+      loc: "nasědkě"
+      dat: "nasědkě"
+      ins: "nasědkojų"
+      voc: "nasědko"
+    plural: 
+      nom: "nasědky"
+      acc: "nasědky"
+      gen: "nasědȯk"
+      loc: "nasědkah"
+      dat: "nasědkam"
+      ins: "nasědkami"
+      voc: "nasědky"

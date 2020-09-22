@@ -1,0 +1,22 @@
+---
+  id: "18234"
+  word: "počin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "počin"
+      acc: "počin"
+      gen: "počina"
+      loc: "počinu"
+      dat: "počinu"
+      ins: "počinom"
+      voc: "počine"
+    plural: 
+      nom: "počiny"
+      acc: "počiny"
+      gen: "počinov"
+      loc: "počinah"
+      dat: "počinam"
+      ins: "počinami"
+      voc: "počiny"

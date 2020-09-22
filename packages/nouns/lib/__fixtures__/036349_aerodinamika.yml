@@ -1,0 +1,15 @@
+---
+  id: "36349"
+  word: "aerodinamika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "aerodinamika"
+      acc: "aerodinamikų"
+      gen: "aerodinamiky"
+      loc: "aerodinamikě"
+      dat: "aerodinamikě"
+      ins: "aerodinamikojų"
+      voc: "aerodinamiko"

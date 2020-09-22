@@ -1,0 +1,22 @@
+---
+  id: "1945"
+  word: "revnivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "revnivosť"
+      acc: "revnivosť"
+      gen: "revnivosti"
+      loc: "revnivosti"
+      dat: "revnivosti"
+      ins: "revnivosťjų"
+      voc: "revnivosti"
+    plural: 
+      nom: "revnivosti"
+      acc: "revnivosti"
+      gen: "revnivostij"
+      loc: "revnivosťah"
+      dat: "revnivosťam"
+      ins: "revnivosťami"
+      voc: "revnivosti"

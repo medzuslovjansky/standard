@@ -1,0 +1,22 @@
+---
+  id: "35438"
+  word: "podtaliŕka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podtaliŕka"
+      acc: "podtaliŕkų"
+      gen: "podtaliŕky"
+      loc: "podtaliŕkě"
+      dat: "podtaliŕkě"
+      ins: "podtaliŕkojų"
+      voc: "podtaliŕko"
+    plural: 
+      nom: "podtaliŕky"
+      acc: "podtaliŕky"
+      gen: "podtaliŕek"
+      loc: "podtaliŕkah"
+      dat: "podtaliŕkam"
+      ins: "podtaliŕkami"
+      voc: "podtaliŕky"

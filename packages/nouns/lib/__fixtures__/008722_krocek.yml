@@ -1,0 +1,22 @@
+---
+  id: "8722"
+  word: "kroček"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kroček"
+      acc: "kroček"
+      gen: "kročeka"
+      loc: "kročeku"
+      dat: "kročeku"
+      ins: "kročekom"
+      voc: "kročeče"
+    plural: 
+      nom: "kročeky"
+      acc: "kročeky"
+      gen: "kročekov"
+      loc: "kročekah"
+      dat: "kročekam"
+      ins: "kročekami"
+      voc: "kročeky"

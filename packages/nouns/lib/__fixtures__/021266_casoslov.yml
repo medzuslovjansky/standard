@@ -1,0 +1,22 @@
+---
+  id: "21266"
+  word: "časoslov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "časoslov"
+      acc: "časoslov"
+      gen: "časoslova"
+      loc: "časoslovu"
+      dat: "časoslovu"
+      ins: "časoslovom"
+      voc: "časoslove"
+    plural: 
+      nom: "časoslovy"
+      acc: "časoslovy"
+      gen: "časoslovov"
+      loc: "časoslovah"
+      dat: "časoslovam"
+      ins: "časoslovami"
+      voc: "časoslovy"

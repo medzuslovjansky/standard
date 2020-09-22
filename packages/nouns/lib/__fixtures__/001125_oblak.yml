@@ -1,0 +1,22 @@
+---
+  id: "1125"
+  word: "oblåk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oblåk"
+      acc: "oblåk"
+      gen: "oblåka"
+      loc: "oblåku"
+      dat: "oblåku"
+      ins: "oblåkom"
+      voc: "oblåče"
+    plural: 
+      nom: "oblåky"
+      acc: "oblåky"
+      gen: "oblåkov"
+      loc: "oblåkah"
+      dat: "oblåkam"
+      ins: "oblåkami"
+      voc: "oblåky"

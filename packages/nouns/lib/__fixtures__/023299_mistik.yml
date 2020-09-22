@@ -1,0 +1,23 @@
+---
+  id: "23299"
+  word: "mistik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mistik"
+      acc: "mistika"
+      gen: "mistika"
+      loc: "mistiku"
+      dat: "mistiku"
+      ins: "mistikom"
+      voc: "mističe"
+    plural: 
+      nom: "mistiki"
+      acc: "mistikov"
+      gen: "mistikov"
+      loc: "mistikah"
+      dat: "mistikam"
+      ins: "mistikami"
+      voc: "mistiki"

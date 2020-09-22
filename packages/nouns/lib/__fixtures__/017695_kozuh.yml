@@ -1,0 +1,22 @@
+---
+  id: "17695"
+  word: "kožuh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kožuh"
+      acc: "kožuh"
+      gen: "kožuha"
+      loc: "kožuhu"
+      dat: "kožuhu"
+      ins: "kožuhom"
+      voc: "kožuše"
+    plural: 
+      nom: "kožuhy"
+      acc: "kožuhy"
+      gen: "kožuhov"
+      loc: "kožuhah"
+      dat: "kožuham"
+      ins: "kožuhami"
+      voc: "kožuhy"

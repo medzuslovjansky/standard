@@ -1,0 +1,22 @@
+---
+  id: "19816"
+  word: "kroj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kroj"
+      acc: "kroj"
+      gen: "kroja"
+      loc: "kroju"
+      dat: "kroju"
+      ins: "krojem"
+      voc: "kroju"
+    plural: 
+      nom: "kroje"
+      acc: "kroje"
+      gen: "krojev"
+      loc: "krojah"
+      dat: "krojam"
+      ins: "krojami"
+      voc: "kroje"

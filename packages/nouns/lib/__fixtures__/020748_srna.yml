@@ -1,0 +1,22 @@
+---
+  id: "20748"
+  word: "srna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "srna"
+      acc: "srnų"
+      gen: "srny"
+      loc: "srně"
+      dat: "srně"
+      ins: "srnojų"
+      voc: "srno"
+    plural: 
+      nom: "srny"
+      acc: "srny"
+      gen: "srn"
+      loc: "srnah"
+      dat: "srnam"
+      ins: "srnami"
+      voc: "srny"

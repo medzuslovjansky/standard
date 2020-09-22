@@ -1,0 +1,22 @@
+---
+  id: "3360"
+  word: "tišina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tišina"
+      acc: "tišinų"
+      gen: "tišiny"
+      loc: "tišině"
+      dat: "tišině"
+      ins: "tišinojų"
+      voc: "tišino"
+    plural: 
+      nom: "tišiny"
+      acc: "tišiny"
+      gen: "tišin"
+      loc: "tišinah"
+      dat: "tišinam"
+      ins: "tišinami"
+      voc: "tišiny"

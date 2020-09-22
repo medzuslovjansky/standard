@@ -1,0 +1,22 @@
+---
+  id: "1333"
+  word: "slučaj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slučaj"
+      acc: "slučaj"
+      gen: "slučaja"
+      loc: "slučaju"
+      dat: "slučaju"
+      ins: "slučajem"
+      voc: "slučaju"
+    plural: 
+      nom: "slučaje"
+      acc: "slučaje"
+      gen: "slučajev"
+      loc: "slučajah"
+      dat: "slučajam"
+      ins: "slučajami"
+      voc: "slučaje"

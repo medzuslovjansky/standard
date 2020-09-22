@@ -1,0 +1,22 @@
+---
+  id: "36840"
+  word: "seksta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "seksta"
+      acc: "sekstų"
+      gen: "seksty"
+      loc: "sekstě"
+      dat: "sekstě"
+      ins: "sekstojų"
+      voc: "seksto"
+    plural: 
+      nom: "seksty"
+      acc: "seksty"
+      gen: "sekst"
+      loc: "sekstah"
+      dat: "sekstam"
+      ins: "sekstami"
+      voc: "seksty"

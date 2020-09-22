@@ -1,0 +1,22 @@
+---
+  id: "32754"
+  word: "vegetarianka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vegetarianka"
+      acc: "vegetariankų"
+      gen: "vegetarianky"
+      loc: "vegetariankě"
+      dat: "vegetariankě"
+      ins: "vegetariankojų"
+      voc: "vegetarianko"
+    plural: 
+      nom: "vegetarianky"
+      acc: "vegetarianky"
+      gen: "vegetarianȯk"
+      loc: "vegetariankah"
+      dat: "vegetariankam"
+      ins: "vegetariankami"
+      voc: "vegetarianky"

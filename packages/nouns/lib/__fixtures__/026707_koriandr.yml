@@ -1,0 +1,15 @@
+---
+  id: "26707"
+  word: "koriandr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "koriandr"
+      acc: "koriandr"
+      gen: "koriandra"
+      loc: "koriandru"
+      dat: "koriandru"
+      ins: "koriandrom"
+      voc: "koriandre"

@@ -1,0 +1,23 @@
+---
+  id: "14596"
+  word: "hujesȯs"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hujesȯs"
+      acc: "hujessa"
+      gen: "hujessa"
+      loc: "hujessu"
+      dat: "hujessu"
+      ins: "hujessom"
+      voc: "hujesse"
+    plural: 
+      nom: "hujessi"
+      acc: "hujessov"
+      gen: "hujessov"
+      loc: "hujessah"
+      dat: "hujessam"
+      ins: "hujessami"
+      voc: "hujessi"

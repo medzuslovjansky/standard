@@ -1,0 +1,22 @@
+---
+  id: "35188"
+  word: "higiena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "higiena"
+      acc: "higienų"
+      gen: "higieny"
+      loc: "higieně"
+      dat: "higieně"
+      ins: "higienojų"
+      voc: "higieno"
+    plural: 
+      nom: "higieny"
+      acc: "higieny"
+      gen: "higien"
+      loc: "higienah"
+      dat: "higienam"
+      ins: "higienami"
+      voc: "higieny"

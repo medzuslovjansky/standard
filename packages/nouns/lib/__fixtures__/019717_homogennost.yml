@@ -1,0 +1,22 @@
+---
+  id: "19717"
+  word: "homogennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "homogennosť"
+      acc: "homogennosť"
+      gen: "homogennosti"
+      loc: "homogennosti"
+      dat: "homogennosti"
+      ins: "homogennosťjų"
+      voc: "homogennosti"
+    plural: 
+      nom: "homogennosti"
+      acc: "homogennosti"
+      gen: "homogennostij"
+      loc: "homogennosťah"
+      dat: "homogennosťam"
+      ins: "homogennosťami"
+      voc: "homogennosti"

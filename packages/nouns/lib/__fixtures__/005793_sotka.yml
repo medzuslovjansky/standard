@@ -1,0 +1,45 @@
+---
+  - 
+    id: "5793"
+    word: "sȯtka"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sȯtka"
+        acc: "sȯtkų"
+        gen: "sȯtky"
+        loc: "sȯtkě"
+        dat: "sȯtkě"
+        ins: "sȯtkojų"
+        voc: "sȯtko"
+      plural: 
+        nom: "sȯtky"
+        acc: "sȯtky"
+        gen: "sȯtȯk"
+        loc: "sȯtkah"
+        dat: "sȯtkam"
+        ins: "sȯtkami"
+        voc: "sȯtky"
+  - 
+    id: "5793"
+    word: "sȯtnja"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "sȯtnja"
+        acc: "sȯtnjų"
+        gen: "sȯtnje"
+        loc: "sȯtnji"
+        dat: "sȯtnji"
+        ins: "sȯtnjejų"
+        voc: "sȯtnjo"
+      plural: 
+        nom: "sȯtnje"
+        acc: "sȯtnje"
+        gen: "sȯtnej"
+        loc: "sȯtnjah"
+        dat: "sȯtnjam"
+        ins: "sȯtnjami"
+        voc: "sȯtnje"

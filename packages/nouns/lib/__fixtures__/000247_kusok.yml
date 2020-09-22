@@ -1,0 +1,22 @@
+---
+  id: "247"
+  word: "kųsȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kųsȯk"
+      acc: "kųsȯk"
+      gen: "kųska"
+      loc: "kųsku"
+      dat: "kųsku"
+      ins: "kųskom"
+      voc: "kųsče"
+    plural: 
+      nom: "kųsky"
+      acc: "kųsky"
+      gen: "kųskov"
+      loc: "kųskah"
+      dat: "kųskam"
+      ins: "kųskami"
+      voc: "kųsky"

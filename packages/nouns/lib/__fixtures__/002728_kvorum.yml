@@ -1,0 +1,22 @@
+---
+  id: "2728"
+  word: "kvorum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kvorum"
+      acc: "kvorum"
+      gen: "kvoruma"
+      loc: "kvorumu"
+      dat: "kvorumu"
+      ins: "kvorumom"
+      voc: "kvorum"
+    plural: 
+      nom: "kvoruma"
+      acc: "kvoruma"
+      gen: "kvorum"
+      loc: "kvorumah"
+      dat: "kvorumam"
+      ins: "kvorumami"
+      voc: "kvoruma"

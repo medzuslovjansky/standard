@@ -1,0 +1,22 @@
+---
+  id: "25849"
+  word: "grozď"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "grozď"
+      acc: "grozď"
+      gen: "grozďa"
+      loc: "grozďu"
+      dat: "grozďu"
+      ins: "grozďem"
+      voc: "grozďu"
+    plural: 
+      nom: "grozďe"
+      acc: "grozďe"
+      gen: "grozďev"
+      loc: "grozďah"
+      dat: "grozďam"
+      ins: "grozďami"
+      voc: "grozďe"

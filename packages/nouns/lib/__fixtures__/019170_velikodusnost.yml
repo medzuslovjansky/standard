@@ -1,0 +1,22 @@
+---
+  id: "19170"
+  word: "velikodušnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "velikodušnosť"
+      acc: "velikodušnosť"
+      gen: "velikodušnosti"
+      loc: "velikodušnosti"
+      dat: "velikodušnosti"
+      ins: "velikodušnosťjų"
+      voc: "velikodušnosti"
+    plural: 
+      nom: "velikodušnosti"
+      acc: "velikodušnosti"
+      gen: "velikodušnostij"
+      loc: "velikodušnosťah"
+      dat: "velikodušnosťam"
+      ins: "velikodušnosťami"
+      voc: "velikodušnosti"

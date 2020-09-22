@@ -1,0 +1,23 @@
+---
+  id: "23591"
+  word: "sȯsavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sȯsavec"
+      acc: "sȯsavca"
+      gen: "sȯsavca"
+      loc: "sȯsavcu"
+      dat: "sȯsavcu"
+      ins: "sȯsavcem"
+      voc: "sȯsavče"
+    plural: 
+      nom: "sȯsavci"
+      acc: "sȯsavcev"
+      gen: "sȯsavcev"
+      loc: "sȯsavcah"
+      dat: "sȯsavcam"
+      ins: "sȯsavcami"
+      voc: "sȯsavci"

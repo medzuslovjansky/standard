@@ -1,0 +1,23 @@
+---
+  id: "36049"
+  word: "konspirator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "konspirator"
+      acc: "konspiratora"
+      gen: "konspiratora"
+      loc: "konspiratoru"
+      dat: "konspiratoru"
+      ins: "konspiratorom"
+      voc: "konspiratore"
+    plural: 
+      nom: "konspiratori"
+      acc: "konspiratorov"
+      gen: "konspiratorov"
+      loc: "konspiratorah"
+      dat: "konspiratoram"
+      ins: "konspiratorami"
+      voc: "konspiratori"

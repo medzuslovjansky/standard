@@ -1,0 +1,22 @@
+---
+  id: "36169"
+  word: "podȯšva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podȯšva"
+      acc: "podȯšvų"
+      gen: "podȯšvy"
+      loc: "podȯšvě"
+      dat: "podȯšvě"
+      ins: "podȯšvojų"
+      voc: "podȯšvo"
+    plural: 
+      nom: "podȯšvy"
+      acc: "podȯšvy"
+      gen: "podȯšv"
+      loc: "podȯšvah"
+      dat: "podȯšvam"
+      ins: "podȯšvami"
+      voc: "podȯšvy"

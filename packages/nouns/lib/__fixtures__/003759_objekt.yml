@@ -1,0 +1,22 @@
+---
+  id: "3759"
+  word: "objekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "objekt"
+      acc: "objekt"
+      gen: "objekta"
+      loc: "objektu"
+      dat: "objektu"
+      ins: "objektom"
+      voc: "objekte"
+    plural: 
+      nom: "objekty"
+      acc: "objekty"
+      gen: "objektov"
+      loc: "objektah"
+      dat: "objektam"
+      ins: "objektami"
+      voc: "objekty"

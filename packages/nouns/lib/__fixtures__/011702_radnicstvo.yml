@@ -1,0 +1,15 @@
+---
+  id: "11702"
+  word: "radničstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "radničstvo"
+      acc: "radničstvo"
+      gen: "radničstva"
+      loc: "radničstvu"
+      dat: "radničstvu"
+      ins: "radničstvom"
+      voc: "radničstvo"

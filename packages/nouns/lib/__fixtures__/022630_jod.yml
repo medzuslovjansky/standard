@@ -1,0 +1,15 @@
+---
+  id: "22630"
+  word: "jod"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "jod"
+      acc: "jod"
+      gen: "joda"
+      loc: "jodu"
+      dat: "jodu"
+      ins: "jodom"
+      voc: "jode"

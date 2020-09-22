@@ -1,0 +1,22 @@
+---
+  id: "24401"
+  word: "azalija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "azalija"
+      acc: "azalijų"
+      gen: "azalije"
+      loc: "azaliji"
+      dat: "azaliji"
+      ins: "azalijejų"
+      voc: "azalijo"
+    plural: 
+      nom: "azalije"
+      acc: "azalije"
+      gen: "azalij"
+      loc: "azalijah"
+      dat: "azalijam"
+      ins: "azalijami"
+      voc: "azalije"

@@ -1,0 +1,15 @@
+---
+  id: "17250"
+  word: "destalinizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "destalinizacija"
+      acc: "destalinizacijų"
+      gen: "destalinizacije"
+      loc: "destalinizaciji"
+      dat: "destalinizaciji"
+      ins: "destalinizacijejų"
+      voc: "destalinizacijo"

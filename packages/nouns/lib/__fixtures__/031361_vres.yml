@@ -1,0 +1,22 @@
+---
+  id: "31361"
+  word: "vrěs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vrěs"
+      acc: "vrěs"
+      gen: "vrěsa"
+      loc: "vrěsu"
+      dat: "vrěsu"
+      ins: "vrěsom"
+      voc: "vrěse"
+    plural: 
+      nom: "vrěsy"
+      acc: "vrěsy"
+      gen: "vrěsov"
+      loc: "vrěsah"
+      dat: "vrěsam"
+      ins: "vrěsami"
+      voc: "vrěsy"

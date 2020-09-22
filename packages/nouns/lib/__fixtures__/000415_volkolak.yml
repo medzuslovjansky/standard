@@ -1,0 +1,23 @@
+---
+  id: "415"
+  word: "vȯlkolak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vȯlkolak"
+      acc: "vȯlkolaka"
+      gen: "vȯlkolaka"
+      loc: "vȯlkolaku"
+      dat: "vȯlkolaku"
+      ins: "vȯlkolakom"
+      voc: "vȯlkolače"
+    plural: 
+      nom: "vȯlkolaki"
+      acc: "vȯlkolakov"
+      gen: "vȯlkolakov"
+      loc: "vȯlkolakah"
+      dat: "vȯlkolakam"
+      ins: "vȯlkolakami"
+      voc: "vȯlkolaki"

@@ -1,0 +1,22 @@
+---
+  id: "2888"
+  word: "avto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "avto"
+      acc: "avto"
+      gen: "avta"
+      loc: "avtu"
+      dat: "avtu"
+      ins: "avtom"
+      voc: "avto"
+    plural: 
+      nom: "avta"
+      acc: "avta"
+      gen: "avt"
+      loc: "avtah"
+      dat: "avtam"
+      ins: "avtami"
+      voc: "avta"

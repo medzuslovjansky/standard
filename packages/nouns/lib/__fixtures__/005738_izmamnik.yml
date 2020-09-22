@@ -1,0 +1,23 @@
+---
+  id: "5738"
+  word: "izmamnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izmamnik"
+      acc: "izmamnika"
+      gen: "izmamnika"
+      loc: "izmamniku"
+      dat: "izmamniku"
+      ins: "izmamnikom"
+      voc: "izmamniče"
+    plural: 
+      nom: "izmamniki"
+      acc: "izmamnikov"
+      gen: "izmamnikov"
+      loc: "izmamnikah"
+      dat: "izmamnikam"
+      ins: "izmamnikami"
+      voc: "izmamniki"

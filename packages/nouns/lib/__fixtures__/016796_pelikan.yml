@@ -1,0 +1,23 @@
+---
+  id: "16796"
+  word: "pelikan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pelikan"
+      acc: "pelikana"
+      gen: "pelikana"
+      loc: "pelikanu"
+      dat: "pelikanu"
+      ins: "pelikanom"
+      voc: "pelikane"
+    plural: 
+      nom: "pelikani"
+      acc: "pelikanov"
+      gen: "pelikanov"
+      loc: "pelikanah"
+      dat: "pelikanam"
+      ins: "pelikanami"
+      voc: "pelikani"

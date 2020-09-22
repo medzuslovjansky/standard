@@ -1,0 +1,22 @@
+---
+  id: "19391"
+  word: "založeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "založeńje"
+      acc: "založeńje"
+      gen: "založeńja"
+      loc: "založeńju"
+      dat: "založeńju"
+      ins: "založeńjem"
+      voc: "založeńje"
+    plural: 
+      nom: "založeńja"
+      acc: "založeńja"
+      gen: "založenij"
+      loc: "založeńjah"
+      dat: "založeńjam"
+      ins: "založeńjami"
+      voc: "založeńja"

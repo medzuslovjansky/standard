@@ -1,0 +1,15 @@
+---
+  id: "23377"
+  word: "vpivańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vpivańje"
+      acc: "vpivańje"
+      gen: "vpivańja"
+      loc: "vpivańju"
+      dat: "vpivańju"
+      ins: "vpivańjem"
+      voc: "vpivańje"

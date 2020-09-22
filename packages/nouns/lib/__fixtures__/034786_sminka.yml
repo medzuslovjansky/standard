@@ -1,0 +1,22 @@
+---
+  id: "34786"
+  word: "šminka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šminka"
+      acc: "šminkų"
+      gen: "šminky"
+      loc: "šminkě"
+      dat: "šminkě"
+      ins: "šminkojų"
+      voc: "šminko"
+    plural: 
+      nom: "šminky"
+      acc: "šminky"
+      gen: "šminȯk"
+      loc: "šminkah"
+      dat: "šminkam"
+      ins: "šminkami"
+      voc: "šminky"

@@ -1,0 +1,15 @@
+---
+  id: "24499"
+  word: "banditizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "banditizm"
+      acc: "banditizm"
+      gen: "banditizma"
+      loc: "banditizmu"
+      dat: "banditizmu"
+      ins: "banditizmom"
+      voc: "banditizme"

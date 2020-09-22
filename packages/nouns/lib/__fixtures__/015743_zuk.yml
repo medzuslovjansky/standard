@@ -1,0 +1,23 @@
+---
+  id: "15743"
+  word: "žuk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žuk"
+      acc: "žuka"
+      gen: "žuka"
+      loc: "žuku"
+      dat: "žuku"
+      ins: "žukom"
+      voc: "žuče"
+    plural: 
+      nom: "žuki"
+      acc: "žukov"
+      gen: "žukov"
+      loc: "žukah"
+      dat: "žukam"
+      ins: "žukami"
+      voc: "žuki"

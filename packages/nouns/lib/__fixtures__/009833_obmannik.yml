@@ -1,0 +1,23 @@
+---
+  id: "9833"
+  word: "obmannik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "obmannik"
+      acc: "obmannika"
+      gen: "obmannika"
+      loc: "obmanniku"
+      dat: "obmanniku"
+      ins: "obmannikom"
+      voc: "obmanniče"
+    plural: 
+      nom: "obmanniki"
+      acc: "obmannikov"
+      gen: "obmannikov"
+      loc: "obmannikah"
+      dat: "obmannikam"
+      ins: "obmannikami"
+      voc: "obmanniki"

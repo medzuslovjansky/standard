@@ -1,0 +1,22 @@
+---
+  id: "27308"
+  word: "lososina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lososina"
+      acc: "lososinų"
+      gen: "lososiny"
+      loc: "lososině"
+      dat: "lososině"
+      ins: "lososinojų"
+      voc: "lososino"
+    plural: 
+      nom: "lososiny"
+      acc: "lososiny"
+      gen: "lososin"
+      loc: "lososinah"
+      dat: "lososinam"
+      ins: "lososinami"
+      voc: "lososiny"

@@ -1,0 +1,15 @@
+---
+  id: "17453"
+  word: "hlåđeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hlåđeńje"
+      acc: "hlåđeńje"
+      gen: "hlåđeńja"
+      loc: "hlåđeńju"
+      dat: "hlåđeńju"
+      ins: "hlåđeńjem"
+      voc: "hlåđeńje"

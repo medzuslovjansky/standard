@@ -1,0 +1,22 @@
+---
+  id: "36804"
+  word: "iznahodȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "iznahodȯk"
+      acc: "iznahodȯk"
+      gen: "iznahodka"
+      loc: "iznahodku"
+      dat: "iznahodku"
+      ins: "iznahodkom"
+      voc: "iznahodče"
+    plural: 
+      nom: "iznahodky"
+      acc: "iznahodky"
+      gen: "iznahodkov"
+      loc: "iznahodkah"
+      dat: "iznahodkam"
+      ins: "iznahodkami"
+      voc: "iznahodky"

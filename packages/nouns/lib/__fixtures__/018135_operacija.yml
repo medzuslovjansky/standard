@@ -1,0 +1,22 @@
+---
+  id: "18135"
+  word: "operacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "operacija"
+      acc: "operacijų"
+      gen: "operacije"
+      loc: "operaciji"
+      dat: "operaciji"
+      ins: "operacijejų"
+      voc: "operacijo"
+    plural: 
+      nom: "operacije"
+      acc: "operacije"
+      gen: "operacij"
+      loc: "operacijah"
+      dat: "operacijam"
+      ins: "operacijami"
+      voc: "operacije"

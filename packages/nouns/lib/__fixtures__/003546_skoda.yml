@@ -1,0 +1,22 @@
+---
+  id: "3546"
+  word: "škoda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "škoda"
+      acc: "škodų"
+      gen: "škody"
+      loc: "škodě"
+      dat: "škodě"
+      ins: "škodojų"
+      voc: "škodo"
+    plural: 
+      nom: "škody"
+      acc: "škody"
+      gen: "škod"
+      loc: "škodah"
+      dat: "škodam"
+      ins: "škodami"
+      voc: "škody"

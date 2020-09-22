@@ -1,0 +1,23 @@
+---
+  id: "1452"
+  word: "muzikant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "muzikant"
+      acc: "muzikanta"
+      gen: "muzikanta"
+      loc: "muzikantu"
+      dat: "muzikantu"
+      ins: "muzikantom"
+      voc: "muzikante"
+    plural: 
+      nom: "muzikanti"
+      acc: "muzikantov"
+      gen: "muzikantov"
+      loc: "muzikantah"
+      dat: "muzikantam"
+      ins: "muzikantami"
+      voc: "muzikanti"

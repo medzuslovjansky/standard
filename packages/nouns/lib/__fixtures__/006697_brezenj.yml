@@ -1,0 +1,15 @@
+---
+  id: "6697"
+  word: "brězenj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "brězenj"
+      acc: "brězenj"
+      gen: "brězenja"
+      loc: "brězenju"
+      dat: "brězenju"
+      ins: "brězenjem"
+      voc: "brězenju"

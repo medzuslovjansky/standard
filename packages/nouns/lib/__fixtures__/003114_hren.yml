@@ -1,0 +1,22 @@
+---
+  id: "3114"
+  word: "hrěn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hrěn"
+      acc: "hrěn"
+      gen: "hrěna"
+      loc: "hrěnu"
+      dat: "hrěnu"
+      ins: "hrěnom"
+      voc: "hrěne"
+    plural: 
+      nom: "hrěny"
+      acc: "hrěny"
+      gen: "hrěnov"
+      loc: "hrěnah"
+      dat: "hrěnam"
+      ins: "hrěnami"
+      voc: "hrěny"

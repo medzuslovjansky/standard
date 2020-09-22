@@ -1,0 +1,22 @@
+---
+  id: "16306"
+  word: "podględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podględ"
+      acc: "podględ"
+      gen: "podględa"
+      loc: "podględu"
+      dat: "podględu"
+      ins: "podględom"
+      voc: "podględe"
+    plural: 
+      nom: "podględy"
+      acc: "podględy"
+      gen: "podględov"
+      loc: "podględah"
+      dat: "podględam"
+      ins: "podględami"
+      voc: "podględy"

@@ -1,0 +1,23 @@
+---
+  id: "21597"
+  word: "thoŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "thoŕ"
+      acc: "thoŕa"
+      gen: "thoŕa"
+      loc: "thoŕu"
+      dat: "thoŕu"
+      ins: "thoŕem"
+      voc: "thoŕu"
+    plural: 
+      nom: "thori"
+      acc: "thoŕev"
+      gen: "thoŕev"
+      loc: "thoŕah"
+      dat: "thoŕam"
+      ins: "thoŕami"
+      voc: "thori"

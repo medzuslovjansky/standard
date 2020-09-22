@@ -1,0 +1,15 @@
+---
+  id: "2442"
+  word: "běda"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "běda"
+      acc: "bědų"
+      gen: "bědy"
+      loc: "bědě"
+      dat: "bědě"
+      ins: "bědojų"
+      voc: "bědo"

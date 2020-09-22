@@ -1,0 +1,22 @@
+---
+  id: "1426"
+  word: "nųđa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nųđa"
+      acc: "nųđų"
+      gen: "nųđy"
+      loc: "nųđě"
+      dat: "nųđě"
+      ins: "nųđojų"
+      voc: "nųđo"
+    plural: 
+      nom: "nųđy"
+      acc: "nųđy"
+      gen: "nųđ"
+      loc: "nųđah"
+      dat: "nųđam"
+      ins: "nųđami"
+      voc: "nųđy"

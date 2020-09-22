@@ -1,0 +1,22 @@
+---
+  id: "15047"
+  word: "sųmněńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sųmněńje"
+      acc: "sųmněńje"
+      gen: "sųmněńja"
+      loc: "sųmněńju"
+      dat: "sųmněńju"
+      ins: "sųmněńjem"
+      voc: "sųmněńje"
+    plural: 
+      nom: "sųmněńja"
+      acc: "sųmněńja"
+      gen: "sųmněnij"
+      loc: "sųmněńjah"
+      dat: "sųmněńjam"
+      ins: "sųmněńjami"
+      voc: "sųmněńja"

@@ -1,0 +1,22 @@
+---
+  id: "208"
+  word: "bomba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bomba"
+      acc: "bombų"
+      gen: "bomby"
+      loc: "bombě"
+      dat: "bombě"
+      ins: "bombojų"
+      voc: "bombo"
+    plural: 
+      nom: "bomby"
+      acc: "bomby"
+      gen: "bomb"
+      loc: "bombah"
+      dat: "bombam"
+      ins: "bombami"
+      voc: "bomby"

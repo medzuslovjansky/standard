@@ -1,0 +1,22 @@
+---
+  id: "4411"
+  word: "trikųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trikųtnik"
+      acc: "trikųtnik"
+      gen: "trikųtnika"
+      loc: "trikųtniku"
+      dat: "trikųtniku"
+      ins: "trikųtnikom"
+      voc: "trikųtniče"
+    plural: 
+      nom: "trikųtniky"
+      acc: "trikųtniky"
+      gen: "trikųtnikov"
+      loc: "trikųtnikah"
+      dat: "trikųtnikam"
+      ins: "trikųtnikami"
+      voc: "trikųtniky"

@@ -1,0 +1,22 @@
+---
+  id: "23564"
+  word: "galaktika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galaktika"
+      acc: "galaktikų"
+      gen: "galaktiky"
+      loc: "galaktikě"
+      dat: "galaktikě"
+      ins: "galaktikojų"
+      voc: "galaktiko"
+    plural: 
+      nom: "galaktiky"
+      acc: "galaktiky"
+      gen: "galaktik"
+      loc: "galaktikah"
+      dat: "galaktikam"
+      ins: "galaktikami"
+      voc: "galaktiky"

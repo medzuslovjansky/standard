@@ -1,0 +1,23 @@
+---
+  id: "2539"
+  word: "vol"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vol"
+      acc: "vola"
+      gen: "vola"
+      loc: "volu"
+      dat: "volu"
+      ins: "volom"
+      voc: "vole"
+    plural: 
+      nom: "voli"
+      acc: "volov"
+      gen: "volov"
+      loc: "volah"
+      dat: "volam"
+      ins: "volami"
+      voc: "voli"

@@ -1,0 +1,22 @@
+---
+  id: "24281"
+  word: "almaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "almaz"
+      acc: "almaz"
+      gen: "almaza"
+      loc: "almazu"
+      dat: "almazu"
+      ins: "almazom"
+      voc: "almaze"
+    plural: 
+      nom: "almazy"
+      acc: "almazy"
+      gen: "almazov"
+      loc: "almazah"
+      dat: "almazam"
+      ins: "almazami"
+      voc: "almazy"

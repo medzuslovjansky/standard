@@ -1,0 +1,15 @@
+---
+  id: "22638"
+  word: "plutonij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "plutonij"
+      acc: "plutonij"
+      gen: "plutonija"
+      loc: "plutoniju"
+      dat: "plutoniju"
+      ins: "plutonijem"
+      voc: "plutoniju"

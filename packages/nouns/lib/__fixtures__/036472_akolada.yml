@@ -1,0 +1,22 @@
+---
+  id: "36472"
+  word: "akolada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "akolada"
+      acc: "akoladų"
+      gen: "akolady"
+      loc: "akoladě"
+      dat: "akoladě"
+      ins: "akoladojų"
+      voc: "akolado"
+    plural: 
+      nom: "akolady"
+      acc: "akolady"
+      gen: "akolad"
+      loc: "akoladah"
+      dat: "akoladam"
+      ins: "akoladami"
+      voc: "akolady"

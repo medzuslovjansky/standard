@@ -1,0 +1,22 @@
+---
+  id: "36110"
+  word: "sonet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sonet"
+      acc: "sonet"
+      gen: "soneta"
+      loc: "sonetu"
+      dat: "sonetu"
+      ins: "sonetom"
+      voc: "sonete"
+    plural: 
+      nom: "sonety"
+      acc: "sonety"
+      gen: "sonetov"
+      loc: "sonetah"
+      dat: "sonetam"
+      ins: "sonetami"
+      voc: "sonety"

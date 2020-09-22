@@ -1,0 +1,22 @@
+---
+  id: "13277"
+  word: "umorjenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "umorjenosť"
+      acc: "umorjenosť"
+      gen: "umorjenosti"
+      loc: "umorjenosti"
+      dat: "umorjenosti"
+      ins: "umorjenosťjų"
+      voc: "umorjenosti"
+    plural: 
+      nom: "umorjenosti"
+      acc: "umorjenosti"
+      gen: "umorjenostij"
+      loc: "umorjenosťah"
+      dat: "umorjenosťam"
+      ins: "umorjenosťami"
+      voc: "umorjenosti"

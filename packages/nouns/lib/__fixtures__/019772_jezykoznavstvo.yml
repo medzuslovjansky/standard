@@ -1,0 +1,15 @@
+---
+  id: "19772"
+  word: "językoznavstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "językoznavstvo"
+      acc: "językoznavstvo"
+      gen: "językoznavstva"
+      loc: "językoznavstvu"
+      dat: "językoznavstvu"
+      ins: "językoznavstvom"
+      voc: "językoznavstvo"

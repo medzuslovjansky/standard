@@ -1,0 +1,23 @@
+---
+  id: "24524"
+  word: "bard"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bard"
+      acc: "barda"
+      gen: "barda"
+      loc: "bardu"
+      dat: "bardu"
+      ins: "bardom"
+      voc: "barde"
+    plural: 
+      nom: "bardi"
+      acc: "bardov"
+      gen: "bardov"
+      loc: "bardah"
+      dat: "bardam"
+      ins: "bardami"
+      voc: "bardi"

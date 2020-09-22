@@ -1,0 +1,22 @@
+---
+  id: "20723"
+  word: "salo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "salo"
+      acc: "salo"
+      gen: "sala"
+      loc: "salu"
+      dat: "salu"
+      ins: "salom"
+      voc: "salo"
+    plural: 
+      nom: "sala"
+      acc: "sala"
+      gen: "sal"
+      loc: "salah"
+      dat: "salam"
+      ins: "salami"
+      voc: "sala"

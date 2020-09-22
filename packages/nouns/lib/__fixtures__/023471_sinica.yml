@@ -1,0 +1,22 @@
+---
+  id: "23471"
+  word: "sinica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sinica"
+      acc: "sinicų"
+      gen: "sinice"
+      loc: "sinici"
+      dat: "sinici"
+      ins: "sinicejų"
+      voc: "sinico"
+    plural: 
+      nom: "sinice"
+      acc: "sinice"
+      gen: "sinic"
+      loc: "sinicah"
+      dat: "sinicam"
+      ins: "sinicami"
+      voc: "sinice"

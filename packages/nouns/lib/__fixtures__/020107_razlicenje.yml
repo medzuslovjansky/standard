@@ -1,0 +1,22 @@
+---
+  id: "20107"
+  word: "råzličeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzličeńje"
+      acc: "råzličeńje"
+      gen: "råzličeńja"
+      loc: "råzličeńju"
+      dat: "råzličeńju"
+      ins: "råzličeńjem"
+      voc: "råzličeńje"
+    plural: 
+      nom: "råzličeńja"
+      acc: "råzličeńja"
+      gen: "råzličenij"
+      loc: "råzličeńjah"
+      dat: "råzličeńjam"
+      ins: "råzličeńjami"
+      voc: "råzličeńja"

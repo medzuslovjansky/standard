@@ -1,0 +1,22 @@
+---
+  id: "30116"
+  word: "råzbojnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzbojnica"
+      acc: "råzbojnicų"
+      gen: "råzbojnice"
+      loc: "råzbojnici"
+      dat: "råzbojnici"
+      ins: "råzbojnicejų"
+      voc: "råzbojnico"
+    plural: 
+      nom: "råzbojnice"
+      acc: "råzbojnice"
+      gen: "råzbojnic"
+      loc: "råzbojnicah"
+      dat: "råzbojnicam"
+      ins: "råzbojnicami"
+      voc: "råzbojnice"

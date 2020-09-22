@@ -1,0 +1,23 @@
+---
+  id: "36225"
+  word: "věrolomnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "věrolomnik"
+      acc: "věrolomnika"
+      gen: "věrolomnika"
+      loc: "věrolomniku"
+      dat: "věrolomniku"
+      ins: "věrolomnikom"
+      voc: "věrolomniče"
+    plural: 
+      nom: "věrolomniki"
+      acc: "věrolomnikov"
+      gen: "věrolomnikov"
+      loc: "věrolomnikah"
+      dat: "věrolomnikam"
+      ins: "věrolomnikami"
+      voc: "věrolomniki"

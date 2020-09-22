@@ -1,0 +1,22 @@
+---
+  id: "5645"
+  word: "vaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vaga"
+      acc: "vagų"
+      gen: "vagy"
+      loc: "vagě"
+      dat: "vagě"
+      ins: "vagojų"
+      voc: "vago"
+    plural: 
+      nom: "vagy"
+      acc: "vagy"
+      gen: "vag"
+      loc: "vagah"
+      dat: "vagam"
+      ins: "vagami"
+      voc: "vagy"

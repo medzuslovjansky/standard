@@ -1,0 +1,22 @@
+---
+  id: "21014"
+  word: "poldnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poldnik"
+      acc: "poldnik"
+      gen: "poldnika"
+      loc: "poldniku"
+      dat: "poldniku"
+      ins: "poldnikom"
+      voc: "poldniče"
+    plural: 
+      nom: "poldniky"
+      acc: "poldniky"
+      gen: "poldnikov"
+      loc: "poldnikah"
+      dat: "poldnikam"
+      ins: "poldnikami"
+      voc: "poldniky"

@@ -1,0 +1,15 @@
+---
+  id: "35053"
+  word: "Škotska"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Škotska"
+      acc: "Škotskų"
+      gen: "Škotsky"
+      loc: "Škotskě"
+      dat: "Škotskě"
+      ins: "Škotskojų"
+      voc: "Škotsko"

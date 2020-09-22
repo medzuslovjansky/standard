@@ -1,0 +1,15 @@
+---
+  id: "26084"
+  word: "ignorovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ignorovańje"
+      acc: "ignorovańje"
+      gen: "ignorovańja"
+      loc: "ignorovańju"
+      dat: "ignorovańju"
+      ins: "ignorovańjem"
+      voc: "ignorovańje"

@@ -1,0 +1,15 @@
+---
+  id: "35457"
+  word: "surrealizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "surrealizm"
+      acc: "surrealizm"
+      gen: "surrealizma"
+      loc: "surrealizmu"
+      dat: "surrealizmu"
+      ins: "surrealizmom"
+      voc: "surrealizme"

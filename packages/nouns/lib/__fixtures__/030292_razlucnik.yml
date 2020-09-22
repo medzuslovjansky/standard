@@ -1,0 +1,23 @@
+---
+  id: "30292"
+  word: "råzlųčnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råzlųčnik"
+      acc: "råzlųčnika"
+      gen: "råzlųčnika"
+      loc: "råzlųčniku"
+      dat: "råzlųčniku"
+      ins: "råzlųčnikom"
+      voc: "råzlųčniče"
+    plural: 
+      nom: "råzlųčniki"
+      acc: "råzlųčnikov"
+      gen: "råzlųčnikov"
+      loc: "råzlųčnikah"
+      dat: "råzlųčnikam"
+      ins: "råzlųčnikami"
+      voc: "råzlųčniki"

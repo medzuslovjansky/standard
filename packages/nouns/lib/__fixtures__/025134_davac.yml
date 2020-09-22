@@ -1,0 +1,23 @@
+---
+  id: "25134"
+  word: "davač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "davač"
+      acc: "davača"
+      gen: "davača"
+      loc: "davaču"
+      dat: "davaču"
+      ins: "davačem"
+      voc: "davaču"
+    plural: 
+      nom: "davači"
+      acc: "davačev"
+      gen: "davačev"
+      loc: "davačah"
+      dat: "davačam"
+      ins: "davačami"
+      voc: "davači"

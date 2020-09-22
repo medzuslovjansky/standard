@@ -1,0 +1,23 @@
+---
+  id: "33537"
+  word: "mamut"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "mamut"
+      acc: "mamuta"
+      gen: "mamuta"
+      loc: "mamutu"
+      dat: "mamutu"
+      ins: "mamutom"
+      voc: "mamute"
+    plural: 
+      nom: "mamuti"
+      acc: "mamutov"
+      gen: "mamutov"
+      loc: "mamutah"
+      dat: "mamutam"
+      ins: "mamutami"
+      voc: "mamuti"

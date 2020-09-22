@@ -1,0 +1,22 @@
+---
+  id: "16490"
+  word: "samoglåska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "samoglåska"
+      acc: "samoglåskų"
+      gen: "samoglåsky"
+      loc: "samoglåskě"
+      dat: "samoglåskě"
+      ins: "samoglåskojų"
+      voc: "samoglåsko"
+    plural: 
+      nom: "samoglåsky"
+      acc: "samoglåsky"
+      gen: "samoglåsȯk"
+      loc: "samoglåskah"
+      dat: "samoglåskam"
+      ins: "samoglåskami"
+      voc: "samoglåsky"

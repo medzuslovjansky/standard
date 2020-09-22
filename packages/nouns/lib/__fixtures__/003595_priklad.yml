@@ -1,0 +1,22 @@
+---
+  id: "3595"
+  word: "priklad"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "priklad"
+      acc: "priklad"
+      gen: "priklada"
+      loc: "prikladu"
+      dat: "prikladu"
+      ins: "prikladom"
+      voc: "priklade"
+    plural: 
+      nom: "priklady"
+      acc: "priklady"
+      gen: "prikladov"
+      loc: "prikladah"
+      dat: "prikladam"
+      ins: "prikladami"
+      voc: "priklady"

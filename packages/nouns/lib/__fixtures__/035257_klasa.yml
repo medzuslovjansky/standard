@@ -1,0 +1,22 @@
+---
+  id: "35257"
+  word: "klasa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "klasa"
+      acc: "klasų"
+      gen: "klasy"
+      loc: "klasě"
+      dat: "klasě"
+      ins: "klasojų"
+      voc: "klaso"
+    plural: 
+      nom: "klasy"
+      acc: "klasy"
+      gen: "klas"
+      loc: "klasah"
+      dat: "klasam"
+      ins: "klasami"
+      voc: "klasy"

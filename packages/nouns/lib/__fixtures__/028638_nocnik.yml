@@ -1,0 +1,23 @@
+---
+  id: "28638"
+  word: "nočnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nočnik"
+      acc: "nočnika"
+      gen: "nočnika"
+      loc: "nočniku"
+      dat: "nočniku"
+      ins: "nočnikom"
+      voc: "nočniče"
+    plural: 
+      nom: "nočniki"
+      acc: "nočnikov"
+      gen: "nočnikov"
+      loc: "nočnikah"
+      dat: "nočnikam"
+      ins: "nočnikami"
+      voc: "nočniki"

@@ -1,0 +1,23 @@
+---
+  id: "2648"
+  word: "kupovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kupovatelj"
+      acc: "kupovatelja"
+      gen: "kupovatelja"
+      loc: "kupovatelju"
+      dat: "kupovatelju"
+      ins: "kupovateljem"
+      voc: "kupovatelju"
+    plural: 
+      nom: "kupovatelji"
+      acc: "kupovateljev"
+      gen: "kupovateljev"
+      loc: "kupovateljah"
+      dat: "kupovateljam"
+      ins: "kupovateljami"
+      voc: "kupovatelji"

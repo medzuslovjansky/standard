@@ -1,0 +1,23 @@
+---
+  id: "35922"
+  word: "sultan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sultan"
+      acc: "sultana"
+      gen: "sultana"
+      loc: "sultanu"
+      dat: "sultanu"
+      ins: "sultanom"
+      voc: "sultane"
+    plural: 
+      nom: "sultani"
+      acc: "sultanov"
+      gen: "sultanov"
+      loc: "sultanah"
+      dat: "sultanam"
+      ins: "sultanami"
+      voc: "sultani"

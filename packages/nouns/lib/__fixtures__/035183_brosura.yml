@@ -1,0 +1,22 @@
+---
+  id: "35183"
+  word: "brošura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "brošura"
+      acc: "brošurų"
+      gen: "brošury"
+      loc: "brošurě"
+      dat: "brošurě"
+      ins: "brošurojų"
+      voc: "brošuro"
+    plural: 
+      nom: "brošury"
+      acc: "brošury"
+      gen: "brošur"
+      loc: "brošurah"
+      dat: "brošuram"
+      ins: "brošurami"
+      voc: "brošury"

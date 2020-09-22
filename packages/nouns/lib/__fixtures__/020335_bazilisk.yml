@@ -1,0 +1,23 @@
+---
+  id: "20335"
+  word: "bazilisk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bazilisk"
+      acc: "baziliska"
+      gen: "baziliska"
+      loc: "bazilisku"
+      dat: "bazilisku"
+      ins: "baziliskom"
+      voc: "bazilisče"
+    plural: 
+      nom: "baziliski"
+      acc: "baziliskov"
+      gen: "baziliskov"
+      loc: "baziliskah"
+      dat: "baziliskam"
+      ins: "baziliskami"
+      voc: "baziliski"

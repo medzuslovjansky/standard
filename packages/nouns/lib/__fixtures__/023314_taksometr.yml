@@ -1,0 +1,22 @@
+---
+  id: "23314"
+  word: "taksometr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "taksometr"
+      acc: "taksometr"
+      gen: "taksometra"
+      loc: "taksometru"
+      dat: "taksometru"
+      ins: "taksometrom"
+      voc: "taksometre"
+    plural: 
+      nom: "taksometry"
+      acc: "taksometry"
+      gen: "taksometrov"
+      loc: "taksometrah"
+      dat: "taksometram"
+      ins: "taksometrami"
+      voc: "taksometry"

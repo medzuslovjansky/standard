@@ -1,0 +1,22 @@
+---
+  id: "4786"
+  word: "ksilofon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ksilofon"
+      acc: "ksilofon"
+      gen: "ksilofona"
+      loc: "ksilofonu"
+      dat: "ksilofonu"
+      ins: "ksilofonom"
+      voc: "ksilofone"
+    plural: 
+      nom: "ksilofony"
+      acc: "ksilofony"
+      gen: "ksilofonov"
+      loc: "ksilofonah"
+      dat: "ksilofonam"
+      ins: "ksilofonami"
+      voc: "ksilofony"

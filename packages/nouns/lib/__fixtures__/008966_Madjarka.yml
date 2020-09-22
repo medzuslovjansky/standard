@@ -1,0 +1,22 @@
+---
+  id: "8966"
+  word: "Madjarka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Madjarka"
+      acc: "Madjarkų"
+      gen: "Madjarky"
+      loc: "Madjarkě"
+      dat: "Madjarkě"
+      ins: "Madjarkojų"
+      voc: "Madjarko"
+    plural: 
+      nom: "Madjarky"
+      acc: "Madjarky"
+      gen: "Madjarȯk"
+      loc: "Madjarkah"
+      dat: "Madjarkam"
+      ins: "Madjarkami"
+      voc: "Madjarky"

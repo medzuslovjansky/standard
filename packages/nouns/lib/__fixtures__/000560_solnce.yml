@@ -1,0 +1,22 @@
+---
+  id: "560"
+  word: "sȯlnce"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sȯlnce"
+      acc: "sȯlnce"
+      gen: "sȯlnca"
+      loc: "sȯlncu"
+      dat: "sȯlncu"
+      ins: "sȯlncem"
+      voc: "sȯlnce"
+    plural: 
+      nom: "sȯlnca"
+      acc: "sȯlnca"
+      gen: "sȯlnc"
+      loc: "sȯlncah"
+      dat: "sȯlncam"
+      ins: "sȯlncami"
+      voc: "sȯlnca"

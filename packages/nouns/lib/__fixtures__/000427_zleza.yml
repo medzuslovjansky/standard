@@ -1,0 +1,22 @@
+---
+  id: "427"
+  word: "žlěza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žlěza"
+      acc: "žlězų"
+      gen: "žlězy"
+      loc: "žlězě"
+      dat: "žlězě"
+      ins: "žlězojų"
+      voc: "žlězo"
+    plural: 
+      nom: "žlězy"
+      acc: "žlězy"
+      gen: "žlěz"
+      loc: "žlězah"
+      dat: "žlězam"
+      ins: "žlězami"
+      voc: "žlězy"

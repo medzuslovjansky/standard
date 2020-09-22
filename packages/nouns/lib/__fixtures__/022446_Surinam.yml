@@ -1,0 +1,15 @@
+---
+  id: "22446"
+  word: "Surinam"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Surinam"
+      acc: "Surinam"
+      gen: "Surinama"
+      loc: "Surinamu"
+      dat: "Surinamu"
+      ins: "Surinamom"
+      voc: "Suriname"

@@ -1,0 +1,23 @@
+---
+  id: "3586"
+  word: "entuziast"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "entuziast"
+      acc: "entuziasta"
+      gen: "entuziasta"
+      loc: "entuziastu"
+      dat: "entuziastu"
+      ins: "entuziastom"
+      voc: "entuziaste"
+    plural: 
+      nom: "entuziasti"
+      acc: "entuziastov"
+      gen: "entuziastov"
+      loc: "entuziastah"
+      dat: "entuziastam"
+      ins: "entuziastami"
+      voc: "entuziasti"

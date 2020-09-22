@@ -1,0 +1,22 @@
+---
+  id: "32414"
+  word: "barak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "barak"
+      acc: "barak"
+      gen: "baraka"
+      loc: "baraku"
+      dat: "baraku"
+      ins: "barakom"
+      voc: "barače"
+    plural: 
+      nom: "baraky"
+      acc: "baraky"
+      gen: "barakov"
+      loc: "barakah"
+      dat: "barakam"
+      ins: "barakami"
+      voc: "baraky"

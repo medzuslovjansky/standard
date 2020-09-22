@@ -1,0 +1,22 @@
+---
+  id: "1278"
+  word: "časina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "časina"
+      acc: "časinų"
+      gen: "časiny"
+      loc: "časině"
+      dat: "časině"
+      ins: "časinojų"
+      voc: "časino"
+    plural: 
+      nom: "časiny"
+      acc: "časiny"
+      gen: "časin"
+      loc: "časinah"
+      dat: "časinam"
+      ins: "časinami"
+      voc: "časiny"

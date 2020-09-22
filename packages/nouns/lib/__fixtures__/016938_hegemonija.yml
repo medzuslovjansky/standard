@@ -1,0 +1,22 @@
+---
+  id: "16938"
+  word: "hegemonija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hegemonija"
+      acc: "hegemonijų"
+      gen: "hegemonije"
+      loc: "hegemoniji"
+      dat: "hegemoniji"
+      ins: "hegemonijejų"
+      voc: "hegemonijo"
+    plural: 
+      nom: "hegemonije"
+      acc: "hegemonije"
+      gen: "hegemonij"
+      loc: "hegemonijah"
+      dat: "hegemonijam"
+      ins: "hegemonijami"
+      voc: "hegemonije"

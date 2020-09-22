@@ -1,0 +1,23 @@
+---
+  id: "24102"
+  word: "Afroamerikanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Afroamerikanec"
+      acc: "Afroamerikanca"
+      gen: "Afroamerikanca"
+      loc: "Afroamerikancu"
+      dat: "Afroamerikancu"
+      ins: "Afroamerikancem"
+      voc: "Afroamerikanče"
+    plural: 
+      nom: "Afroamerikanci"
+      acc: "Afroamerikancev"
+      gen: "Afroamerikancev"
+      loc: "Afroamerikancah"
+      dat: "Afroamerikancam"
+      ins: "Afroamerikancami"
+      voc: "Afroamerikanci"

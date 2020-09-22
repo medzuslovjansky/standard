@@ -1,0 +1,15 @@
+---
+  id: "36480"
+  word: "Java"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Java"
+      acc: "Javų"
+      gen: "Javy"
+      loc: "Javě"
+      dat: "Javě"
+      ins: "Javojų"
+      voc: "Javo"

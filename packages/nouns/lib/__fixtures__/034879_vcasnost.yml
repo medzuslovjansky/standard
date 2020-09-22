@@ -1,0 +1,22 @@
+---
+  id: "34879"
+  word: "včasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "včasnosť"
+      acc: "včasnosť"
+      gen: "včasnosti"
+      loc: "včasnosti"
+      dat: "včasnosti"
+      ins: "včasnosťjų"
+      voc: "včasnosti"
+    plural: 
+      nom: "včasnosti"
+      acc: "včasnosti"
+      gen: "včasnostij"
+      loc: "včasnosťah"
+      dat: "včasnosťam"
+      ins: "včasnosťami"
+      voc: "včasnosti"

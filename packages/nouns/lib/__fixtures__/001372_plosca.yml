@@ -1,0 +1,22 @@
+---
+  id: "1372"
+  word: "plošča"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plošča"
+      acc: "ploščų"
+      gen: "plošče"
+      loc: "plošči"
+      dat: "plošči"
+      ins: "ploščejų"
+      voc: "ploščo"
+    plural: 
+      nom: "plošče"
+      acc: "plošče"
+      gen: "plošč"
+      loc: "ploščah"
+      dat: "ploščam"
+      ins: "ploščami"
+      voc: "plošče"

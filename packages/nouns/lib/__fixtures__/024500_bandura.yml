@@ -1,0 +1,22 @@
+---
+  id: "24500"
+  word: "bandura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bandura"
+      acc: "bandurų"
+      gen: "bandury"
+      loc: "bandurě"
+      dat: "bandurě"
+      ins: "bandurojų"
+      voc: "banduro"
+    plural: 
+      nom: "bandury"
+      acc: "bandury"
+      gen: "bandur"
+      loc: "bandurah"
+      dat: "banduram"
+      ins: "bandurami"
+      voc: "bandury"

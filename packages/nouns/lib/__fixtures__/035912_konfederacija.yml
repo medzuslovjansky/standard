@@ -1,0 +1,22 @@
+---
+  id: "35912"
+  word: "konfederacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konfederacija"
+      acc: "konfederacijų"
+      gen: "konfederacije"
+      loc: "konfederaciji"
+      dat: "konfederaciji"
+      ins: "konfederacijejų"
+      voc: "konfederacijo"
+    plural: 
+      nom: "konfederacije"
+      acc: "konfederacije"
+      gen: "konfederacij"
+      loc: "konfederacijah"
+      dat: "konfederacijam"
+      ins: "konfederacijami"
+      voc: "konfederacije"

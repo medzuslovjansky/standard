@@ -1,0 +1,22 @@
+---
+  id: "13955"
+  word: "udarjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "udarjeńje"
+      acc: "udarjeńje"
+      gen: "udarjeńja"
+      loc: "udarjeńju"
+      dat: "udarjeńju"
+      ins: "udarjeńjem"
+      voc: "udarjeńje"
+    plural: 
+      nom: "udarjeńja"
+      acc: "udarjeńja"
+      gen: "udarjenij"
+      loc: "udarjeńjah"
+      dat: "udarjeńjam"
+      ins: "udarjeńjami"
+      voc: "udarjeńja"

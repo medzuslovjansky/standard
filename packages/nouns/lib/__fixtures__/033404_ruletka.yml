@@ -1,0 +1,22 @@
+---
+  id: "33404"
+  word: "ruletka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ruletka"
+      acc: "ruletkų"
+      gen: "ruletky"
+      loc: "ruletkě"
+      dat: "ruletkě"
+      ins: "ruletkojų"
+      voc: "ruletko"
+    plural: 
+      nom: "ruletky"
+      acc: "ruletky"
+      gen: "ruletȯk"
+      loc: "ruletkah"
+      dat: "ruletkam"
+      ins: "ruletkami"
+      voc: "ruletky"

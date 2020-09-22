@@ -1,0 +1,22 @@
+---
+  id: "17801"
+  word: "mokrišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mokrišče"
+      acc: "mokrišče"
+      gen: "mokrišča"
+      loc: "mokrišču"
+      dat: "mokrišču"
+      ins: "mokriščem"
+      voc: "mokrišče"
+    plural: 
+      nom: "mokrišča"
+      acc: "mokrišča"
+      gen: "mokrišč"
+      loc: "mokriščah"
+      dat: "mokriščam"
+      ins: "mokriščami"
+      voc: "mokrišča"

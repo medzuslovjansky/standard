@@ -1,0 +1,22 @@
+---
+  id: "9454"
+  word: "nasiľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nasiľnosť"
+      acc: "nasiľnosť"
+      gen: "nasiľnosti"
+      loc: "nasiľnosti"
+      dat: "nasiľnosti"
+      ins: "nasiľnosťjų"
+      voc: "nasiľnosti"
+    plural: 
+      nom: "nasiľnosti"
+      acc: "nasiľnosti"
+      gen: "nasiľnostij"
+      loc: "nasiľnosťah"
+      dat: "nasiľnosťam"
+      ins: "nasiľnosťami"
+      voc: "nasiľnosti"

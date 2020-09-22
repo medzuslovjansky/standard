@@ -1,0 +1,22 @@
+---
+  id: "1658"
+  word: "kråljeva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kråljeva"
+      acc: "kråljevų"
+      gen: "kråljevy"
+      loc: "kråljevě"
+      dat: "kråljevě"
+      ins: "kråljevojų"
+      voc: "kråljevo"
+    plural: 
+      nom: "kråljevy"
+      acc: "kråljevy"
+      gen: "kråljev"
+      loc: "kråljevah"
+      dat: "kråljevam"
+      ins: "kråljevami"
+      voc: "kråljevy"

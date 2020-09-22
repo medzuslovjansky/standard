@@ -1,0 +1,23 @@
+---
+  id: "1203"
+  word: "prědstavitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prědstavitelj"
+      acc: "prědstavitelja"
+      gen: "prědstavitelja"
+      loc: "prědstavitelju"
+      dat: "prědstavitelju"
+      ins: "prědstaviteljem"
+      voc: "prědstavitelju"
+    plural: 
+      nom: "prědstavitelji"
+      acc: "prědstaviteljev"
+      gen: "prědstaviteljev"
+      loc: "prědstaviteljah"
+      dat: "prědstaviteljam"
+      ins: "prědstaviteljami"
+      voc: "prědstavitelji"

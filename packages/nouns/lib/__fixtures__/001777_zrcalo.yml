@@ -1,0 +1,22 @@
+---
+  id: "1777"
+  word: "zŕcalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zŕcalo"
+      acc: "zŕcalo"
+      gen: "zŕcala"
+      loc: "zŕcalu"
+      dat: "zŕcalu"
+      ins: "zŕcalom"
+      voc: "zŕcalo"
+    plural: 
+      nom: "zŕcala"
+      acc: "zŕcala"
+      gen: "zŕcal"
+      loc: "zŕcalah"
+      dat: "zŕcalam"
+      ins: "zŕcalami"
+      voc: "zŕcala"

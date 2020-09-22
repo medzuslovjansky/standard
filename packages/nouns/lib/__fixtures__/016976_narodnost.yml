@@ -1,0 +1,22 @@
+---
+  id: "16976"
+  word: "narodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "narodnosť"
+      acc: "narodnosť"
+      gen: "narodnosti"
+      loc: "narodnosti"
+      dat: "narodnosti"
+      ins: "narodnosťjų"
+      voc: "narodnosti"
+    plural: 
+      nom: "narodnosti"
+      acc: "narodnosti"
+      gen: "narodnostij"
+      loc: "narodnosťah"
+      dat: "narodnosťam"
+      ins: "narodnosťami"
+      voc: "narodnosti"

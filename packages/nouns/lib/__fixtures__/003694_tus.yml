@@ -1,0 +1,22 @@
+---
+  id: "3694"
+  word: "tuš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tuš"
+      acc: "tuš"
+      gen: "tuša"
+      loc: "tušu"
+      dat: "tušu"
+      ins: "tušem"
+      voc: "tušu"
+    plural: 
+      nom: "tuše"
+      acc: "tuše"
+      gen: "tušev"
+      loc: "tušah"
+      dat: "tušam"
+      ins: "tušami"
+      voc: "tuše"

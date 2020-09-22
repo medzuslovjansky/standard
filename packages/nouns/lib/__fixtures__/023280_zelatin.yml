@@ -1,0 +1,15 @@
+---
+  id: "23280"
+  word: "želatin"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "želatin"
+      acc: "želatin"
+      gen: "želatina"
+      loc: "želatinu"
+      dat: "želatinu"
+      ins: "želatinom"
+      voc: "želatine"

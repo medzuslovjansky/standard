@@ -1,0 +1,22 @@
+---
+  id: "35755"
+  word: "anomalija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "anomalija"
+      acc: "anomalijų"
+      gen: "anomalije"
+      loc: "anomaliji"
+      dat: "anomaliji"
+      ins: "anomalijejų"
+      voc: "anomalijo"
+    plural: 
+      nom: "anomalije"
+      acc: "anomalije"
+      gen: "anomalij"
+      loc: "anomalijah"
+      dat: "anomalijam"
+      ins: "anomalijami"
+      voc: "anomalije"

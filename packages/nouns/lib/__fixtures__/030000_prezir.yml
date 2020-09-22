@@ -1,0 +1,22 @@
+---
+  id: "30000"
+  word: "prězir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prězir"
+      acc: "prězir"
+      gen: "prězira"
+      loc: "prěziru"
+      dat: "prěziru"
+      ins: "prězirom"
+      voc: "prězire"
+    plural: 
+      nom: "prěziry"
+      acc: "prěziry"
+      gen: "prězirov"
+      loc: "prězirah"
+      dat: "prěziram"
+      ins: "prězirami"
+      voc: "prěziry"

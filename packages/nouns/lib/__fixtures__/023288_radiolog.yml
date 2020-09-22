@@ -1,0 +1,23 @@
+---
+  id: "23288"
+  word: "radiolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "radiolog"
+      acc: "radiologa"
+      gen: "radiologa"
+      loc: "radiologu"
+      dat: "radiologu"
+      ins: "radiologom"
+      voc: "radiolože"
+    plural: 
+      nom: "radiologi"
+      acc: "radiologov"
+      gen: "radiologov"
+      loc: "radiologah"
+      dat: "radiologam"
+      ins: "radiologami"
+      voc: "radiologi"

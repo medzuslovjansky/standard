@@ -1,0 +1,15 @@
+---
+  id: "17195"
+  word: "čehoslovakizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čehoslovakizm"
+      acc: "čehoslovakizm"
+      gen: "čehoslovakizma"
+      loc: "čehoslovakizmu"
+      dat: "čehoslovakizmu"
+      ins: "čehoslovakizmom"
+      voc: "čehoslovakizme"

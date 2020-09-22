@@ -1,0 +1,22 @@
+---
+  id: "28661"
+  word: "nosȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nosȯk"
+      acc: "nosȯk"
+      gen: "noska"
+      loc: "nosku"
+      dat: "nosku"
+      ins: "noskom"
+      voc: "nosče"
+    plural: 
+      nom: "nosky"
+      acc: "nosky"
+      gen: "noskov"
+      loc: "noskah"
+      dat: "noskam"
+      ins: "noskami"
+      voc: "nosky"

@@ -1,0 +1,22 @@
+---
+  id: "6988"
+  word: "dějańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dějańje"
+      acc: "dějańje"
+      gen: "dějańja"
+      loc: "dějańju"
+      dat: "dějańju"
+      ins: "dějańjem"
+      voc: "dějańje"
+    plural: 
+      nom: "dějańja"
+      acc: "dějańja"
+      gen: "dějanij"
+      loc: "dějańjah"
+      dat: "dějańjam"
+      ins: "dějańjami"
+      voc: "dějańja"

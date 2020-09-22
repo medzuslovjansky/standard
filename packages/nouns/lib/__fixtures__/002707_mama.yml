@@ -1,0 +1,22 @@
+---
+  id: "2707"
+  word: "mama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mama"
+      acc: "mamų"
+      gen: "mamy"
+      loc: "mamě"
+      dat: "mamě"
+      ins: "mamojų"
+      voc: "mamo"
+    plural: 
+      nom: "mamy"
+      acc: "mamy"
+      gen: "mam"
+      loc: "mamah"
+      dat: "mamam"
+      ins: "mamami"
+      voc: "mamy"

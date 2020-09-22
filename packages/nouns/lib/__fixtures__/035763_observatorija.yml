@@ -1,0 +1,22 @@
+---
+  id: "35763"
+  word: "observatorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "observatorija"
+      acc: "observatorijų"
+      gen: "observatorije"
+      loc: "observatoriji"
+      dat: "observatoriji"
+      ins: "observatorijejų"
+      voc: "observatorijo"
+    plural: 
+      nom: "observatorije"
+      acc: "observatorije"
+      gen: "observatorij"
+      loc: "observatorijah"
+      dat: "observatorijam"
+      ins: "observatorijami"
+      voc: "observatorije"

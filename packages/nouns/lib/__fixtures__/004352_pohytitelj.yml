@@ -1,0 +1,23 @@
+---
+  id: "4352"
+  word: "pohytitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pohytitelj"
+      acc: "pohytitelja"
+      gen: "pohytitelja"
+      loc: "pohytitelju"
+      dat: "pohytitelju"
+      ins: "pohytiteljem"
+      voc: "pohytitelju"
+    plural: 
+      nom: "pohytitelji"
+      acc: "pohytiteljev"
+      gen: "pohytiteljev"
+      loc: "pohytiteljah"
+      dat: "pohytiteljam"
+      ins: "pohytiteljami"
+      voc: "pohytitelji"

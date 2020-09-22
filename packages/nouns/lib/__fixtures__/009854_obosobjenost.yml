@@ -1,0 +1,22 @@
+---
+  id: "9854"
+  word: "obosobjenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obosobjenosť"
+      acc: "obosobjenosť"
+      gen: "obosobjenosti"
+      loc: "obosobjenosti"
+      dat: "obosobjenosti"
+      ins: "obosobjenosťjų"
+      voc: "obosobjenosti"
+    plural: 
+      nom: "obosobjenosti"
+      acc: "obosobjenosti"
+      gen: "obosobjenostij"
+      loc: "obosobjenosťah"
+      dat: "obosobjenosťam"
+      ins: "obosobjenosťami"
+      voc: "obosobjenosti"

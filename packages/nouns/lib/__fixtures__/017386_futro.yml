@@ -1,0 +1,22 @@
+---
+  id: "17386"
+  word: "futro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "futro"
+      acc: "futro"
+      gen: "futra"
+      loc: "futru"
+      dat: "futru"
+      ins: "futrom"
+      voc: "futro"
+    plural: 
+      nom: "futra"
+      acc: "futra"
+      gen: "futr"
+      loc: "futrah"
+      dat: "futram"
+      ins: "futrami"
+      voc: "futra"

@@ -1,0 +1,22 @@
+---
+  id: "22086"
+  word: "stečeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stečeńje"
+      acc: "stečeńje"
+      gen: "stečeńja"
+      loc: "stečeńju"
+      dat: "stečeńju"
+      ins: "stečeńjem"
+      voc: "stečeńje"
+    plural: 
+      nom: "stečeńja"
+      acc: "stečeńja"
+      gen: "stečenij"
+      loc: "stečeńjah"
+      dat: "stečeńjam"
+      ins: "stečeńjami"
+      voc: "stečeńja"

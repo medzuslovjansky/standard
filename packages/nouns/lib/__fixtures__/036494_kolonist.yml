@@ -1,0 +1,23 @@
+---
+  id: "36494"
+  word: "kolonist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kolonist"
+      acc: "kolonista"
+      gen: "kolonista"
+      loc: "kolonistu"
+      dat: "kolonistu"
+      ins: "kolonistom"
+      voc: "koloniste"
+    plural: 
+      nom: "kolonisti"
+      acc: "kolonistov"
+      gen: "kolonistov"
+      loc: "kolonistah"
+      dat: "kolonistam"
+      ins: "kolonistami"
+      voc: "kolonisti"

@@ -1,0 +1,22 @@
+---
+  id: "4979"
+  word: "publikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "publikacija"
+      acc: "publikacijų"
+      gen: "publikacije"
+      loc: "publikaciji"
+      dat: "publikaciji"
+      ins: "publikacijejų"
+      voc: "publikacijo"
+    plural: 
+      nom: "publikacije"
+      acc: "publikacije"
+      gen: "publikacij"
+      loc: "publikacijah"
+      dat: "publikacijam"
+      ins: "publikacijami"
+      voc: "publikacije"

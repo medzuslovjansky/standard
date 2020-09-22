@@ -1,0 +1,22 @@
+---
+  id: "24664"
+  word: "bezvětŕje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bezvětŕje"
+      acc: "bezvětŕje"
+      gen: "bezvětŕja"
+      loc: "bezvětŕju"
+      dat: "bezvětŕju"
+      ins: "bezvětŕjem"
+      voc: "bezvětŕje"
+    plural: 
+      nom: "bezvětŕja"
+      acc: "bezvětŕja"
+      gen: "bezvětrij"
+      loc: "bezvětŕjah"
+      dat: "bezvětŕjam"
+      ins: "bezvětŕjami"
+      voc: "bezvětŕja"

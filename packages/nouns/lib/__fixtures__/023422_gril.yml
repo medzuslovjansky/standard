@@ -1,0 +1,22 @@
+---
+  id: "23422"
+  word: "gril"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gril"
+      acc: "gril"
+      gen: "grila"
+      loc: "grilu"
+      dat: "grilu"
+      ins: "grilom"
+      voc: "grile"
+    plural: 
+      nom: "grily"
+      acc: "grily"
+      gen: "grilov"
+      loc: "grilah"
+      dat: "grilam"
+      ins: "grilami"
+      voc: "grily"

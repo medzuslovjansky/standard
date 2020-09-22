@@ -1,0 +1,22 @@
+---
+  id: "3670"
+  word: "poljanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poljanka"
+      acc: "poljankų"
+      gen: "poljanky"
+      loc: "poljankě"
+      dat: "poljankě"
+      ins: "poljankojų"
+      voc: "poljanko"
+    plural: 
+      nom: "poljanky"
+      acc: "poljanky"
+      gen: "poljanȯk"
+      loc: "poljankah"
+      dat: "poljankam"
+      ins: "poljankami"
+      voc: "poljanky"

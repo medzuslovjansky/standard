@@ -1,0 +1,22 @@
+---
+  id: "19626"
+  word: "abstrakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "abstrakcija"
+      acc: "abstrakcijų"
+      gen: "abstrakcije"
+      loc: "abstrakciji"
+      dat: "abstrakciji"
+      ins: "abstrakcijejų"
+      voc: "abstrakcijo"
+    plural: 
+      nom: "abstrakcije"
+      acc: "abstrakcije"
+      gen: "abstrakcij"
+      loc: "abstrakcijah"
+      dat: "abstrakcijam"
+      ins: "abstrakcijami"
+      voc: "abstrakcije"

@@ -1,0 +1,23 @@
+---
+  id: "26879"
+  word: "kriva"
+  meta: 
+    irregularity: "(krivoj)"
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kriva"
+      acc: "krivų"
+      gen: "krivoj"
+      loc: "krivoj"
+      dat: "krivoj"
+      ins: "krivojų"
+      voc: "kriva"
+    plural: 
+      nom: "krive"
+      acc: "krive"
+      gen: "krivyh"
+      loc: "krivyh"
+      dat: "krivym"
+      ins: "krivymi"
+      voc: "krive"

@@ -1,0 +1,22 @@
+---
+  id: "3484"
+  word: "kavarnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kavarnja"
+      acc: "kavarnjų"
+      gen: "kavarnje"
+      loc: "kavarnji"
+      dat: "kavarnji"
+      ins: "kavarnjejų"
+      voc: "kavarnjo"
+    plural: 
+      nom: "kavarnje"
+      acc: "kavarnje"
+      gen: "kavarnej"
+      loc: "kavarnjah"
+      dat: "kavarnjam"
+      ins: "kavarnjami"
+      voc: "kavarnje"

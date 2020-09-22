@@ -1,0 +1,22 @@
+---
+  id: "23894"
+  word: "pohodka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pohodka"
+      acc: "pohodkų"
+      gen: "pohodky"
+      loc: "pohodkě"
+      dat: "pohodkě"
+      ins: "pohodkojų"
+      voc: "pohodko"
+    plural: 
+      nom: "pohodky"
+      acc: "pohodky"
+      gen: "pohodȯk"
+      loc: "pohodkah"
+      dat: "pohodkam"
+      ins: "pohodkami"
+      voc: "pohodky"

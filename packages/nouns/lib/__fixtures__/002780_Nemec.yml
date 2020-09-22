@@ -1,0 +1,23 @@
+---
+  id: "2780"
+  word: "Němec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Němec"
+      acc: "Němca"
+      gen: "Němca"
+      loc: "Němcu"
+      dat: "Němcu"
+      ins: "Němcem"
+      voc: "Němče"
+    plural: 
+      nom: "Němci"
+      acc: "Němcev"
+      gen: "Němcev"
+      loc: "Němcah"
+      dat: "Němcam"
+      ins: "Němcami"
+      voc: "Němci"

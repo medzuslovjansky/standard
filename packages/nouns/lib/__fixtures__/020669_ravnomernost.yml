@@ -1,0 +1,22 @@
+---
+  id: "20669"
+  word: "råvnoměrnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnoměrnosť"
+      acc: "råvnoměrnosť"
+      gen: "råvnoměrnosti"
+      loc: "råvnoměrnosti"
+      dat: "råvnoměrnosti"
+      ins: "råvnoměrnosťjų"
+      voc: "råvnoměrnosti"
+    plural: 
+      nom: "råvnoměrnosti"
+      acc: "råvnoměrnosti"
+      gen: "råvnoměrnostij"
+      loc: "råvnoměrnosťah"
+      dat: "råvnoměrnosťam"
+      ins: "råvnoměrnosťami"
+      voc: "råvnoměrnosti"

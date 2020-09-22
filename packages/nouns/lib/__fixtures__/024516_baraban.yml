@@ -1,0 +1,22 @@
+---
+  id: "24516"
+  word: "baraban"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baraban"
+      acc: "baraban"
+      gen: "barabana"
+      loc: "barabanu"
+      dat: "barabanu"
+      ins: "barabanom"
+      voc: "barabane"
+    plural: 
+      nom: "barabany"
+      acc: "barabany"
+      gen: "barabanov"
+      loc: "barabanah"
+      dat: "barabanam"
+      ins: "barabanami"
+      voc: "barabany"

@@ -1,0 +1,22 @@
+---
+  id: "26592"
+  word: "kočerga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kočerga"
+      acc: "kočergų"
+      gen: "kočergy"
+      loc: "kočergě"
+      dat: "kočergě"
+      ins: "kočergojų"
+      voc: "kočergo"
+    plural: 
+      nom: "kočergy"
+      acc: "kočergy"
+      gen: "kočerg"
+      loc: "kočergah"
+      dat: "kočergam"
+      ins: "kočergami"
+      voc: "kočergy"

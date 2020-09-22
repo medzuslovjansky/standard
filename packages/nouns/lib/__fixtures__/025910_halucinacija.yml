@@ -1,0 +1,22 @@
+---
+  id: "25910"
+  word: "halucinacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "halucinacija"
+      acc: "halucinacijų"
+      gen: "halucinacije"
+      loc: "halucinaciji"
+      dat: "halucinaciji"
+      ins: "halucinacijejų"
+      voc: "halucinacijo"
+    plural: 
+      nom: "halucinacije"
+      acc: "halucinacije"
+      gen: "halucinacij"
+      loc: "halucinacijah"
+      dat: "halucinacijam"
+      ins: "halucinacijami"
+      voc: "halucinacije"

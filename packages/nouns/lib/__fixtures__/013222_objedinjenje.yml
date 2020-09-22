@@ -1,0 +1,15 @@
+---
+  id: "13222"
+  word: "objedinjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "objedinjeńje"
+      acc: "objedinjeńje"
+      gen: "objedinjeńja"
+      loc: "objedinjeńju"
+      dat: "objedinjeńju"
+      ins: "objedinjeńjem"
+      voc: "objedinjeńje"

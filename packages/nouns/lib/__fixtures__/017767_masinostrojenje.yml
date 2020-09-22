@@ -1,0 +1,15 @@
+---
+  id: "17767"
+  word: "mašinostrojeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mašinostrojeńje"
+      acc: "mašinostrojeńje"
+      gen: "mašinostrojeńja"
+      loc: "mašinostrojeńju"
+      dat: "mašinostrojeńju"
+      ins: "mašinostrojeńjem"
+      voc: "mašinostrojeńje"

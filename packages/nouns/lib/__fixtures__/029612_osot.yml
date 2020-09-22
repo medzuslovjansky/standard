@@ -1,0 +1,23 @@
+---
+  id: "29612"
+  word: "osȯt"
+  meta: 
+    irregularity: "(osta)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "os(ȯ)t"
+      acc: "os(ȯ)t"
+      gen: "os(ȯ)ta"
+      loc: "os(ȯ)tu"
+      dat: "os(ȯ)tu"
+      ins: "os(ȯ)tom"
+      voc: "os(ȯ)te"
+    plural: 
+      nom: "os(ȯ)ty"
+      acc: "os(ȯ)ty"
+      gen: "os(ȯ)tov"
+      loc: "os(ȯ)tah"
+      dat: "os(ȯ)tam"
+      ins: "os(ȯ)tami"
+      voc: "os(ȯ)ty"

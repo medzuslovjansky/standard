@@ -1,0 +1,23 @@
+---
+  id: "36330"
+  word: "kancler"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kancler"
+      acc: "kanclera"
+      gen: "kanclera"
+      loc: "kancleru"
+      dat: "kancleru"
+      ins: "kanclerom"
+      voc: "kanclere"
+    plural: 
+      nom: "kancleri"
+      acc: "kanclerov"
+      gen: "kanclerov"
+      loc: "kanclerah"
+      dat: "kancleram"
+      ins: "kanclerami"
+      voc: "kancleri"

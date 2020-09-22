@@ -1,0 +1,22 @@
+---
+  id: "23020"
+  word: "hektolitr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hektolitr"
+      acc: "hektolitr"
+      gen: "hektolitra"
+      loc: "hektolitru"
+      dat: "hektolitru"
+      ins: "hektolitrom"
+      voc: "hektolitre"
+    plural: 
+      nom: "hektolitry"
+      acc: "hektolitry"
+      gen: "hektolitrov"
+      loc: "hektolitrah"
+      dat: "hektolitram"
+      ins: "hektolitrami"
+      voc: "hektolitry"

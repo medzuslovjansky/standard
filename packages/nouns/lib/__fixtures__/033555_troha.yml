@@ -1,0 +1,22 @@
+---
+  id: "33555"
+  word: "troha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "troha"
+      acc: "trohų"
+      gen: "trohy"
+      loc: "trohě"
+      dat: "trohě"
+      ins: "trohojų"
+      voc: "troho"
+    plural: 
+      nom: "trohy"
+      acc: "trohy"
+      gen: "troh"
+      loc: "trohah"
+      dat: "troham"
+      ins: "trohami"
+      voc: "trohy"

@@ -1,0 +1,22 @@
+---
+  id: "27789"
+  word: "mråčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mråčnosť"
+      acc: "mråčnosť"
+      gen: "mråčnosti"
+      loc: "mråčnosti"
+      dat: "mråčnosti"
+      ins: "mråčnosťjų"
+      voc: "mråčnosti"
+    plural: 
+      nom: "mråčnosti"
+      acc: "mråčnosti"
+      gen: "mråčnostij"
+      loc: "mråčnosťah"
+      dat: "mråčnosťam"
+      ins: "mråčnosťami"
+      voc: "mråčnosti"

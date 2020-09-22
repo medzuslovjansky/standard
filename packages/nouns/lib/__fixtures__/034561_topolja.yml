@@ -1,0 +1,22 @@
+---
+  id: "34561"
+  word: "topolja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "topolja"
+      acc: "topoljų"
+      gen: "topolje"
+      loc: "topolji"
+      dat: "topolji"
+      ins: "topoljejų"
+      voc: "topoljo"
+    plural: 
+      nom: "topolje"
+      acc: "topolje"
+      gen: "topolej"
+      loc: "topoljah"
+      dat: "topoljam"
+      ins: "topoljami"
+      voc: "topolje"

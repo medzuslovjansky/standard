@@ -1,0 +1,22 @@
+---
+  id: "19692"
+  word: "fantazija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fantazija"
+      acc: "fantazijų"
+      gen: "fantazije"
+      loc: "fantaziji"
+      dat: "fantaziji"
+      ins: "fantazijejų"
+      voc: "fantazijo"
+    plural: 
+      nom: "fantazije"
+      acc: "fantazije"
+      gen: "fantazij"
+      loc: "fantazijah"
+      dat: "fantazijam"
+      ins: "fantazijami"
+      voc: "fantazije"

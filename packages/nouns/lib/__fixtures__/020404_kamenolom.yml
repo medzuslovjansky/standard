@@ -1,0 +1,22 @@
+---
+  id: "20404"
+  word: "kamenolom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kamenolom"
+      acc: "kamenolom"
+      gen: "kamenoloma"
+      loc: "kamenolomu"
+      dat: "kamenolomu"
+      ins: "kamenolomom"
+      voc: "kamenolome"
+    plural: 
+      nom: "kamenolomy"
+      acc: "kamenolomy"
+      gen: "kamenolomov"
+      loc: "kamenolomah"
+      dat: "kamenolomam"
+      ins: "kamenolomami"
+      voc: "kamenolomy"

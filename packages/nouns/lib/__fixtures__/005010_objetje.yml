@@ -1,0 +1,22 @@
+---
+  id: "5010"
+  word: "objęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "objęťje"
+      acc: "objęťje"
+      gen: "objęťja"
+      loc: "objęťju"
+      dat: "objęťju"
+      ins: "objęťjem"
+      voc: "objęťje"
+    plural: 
+      nom: "objęťja"
+      acc: "objęťja"
+      gen: "objętij"
+      loc: "objęťjah"
+      dat: "objęťjam"
+      ins: "objęťjami"
+      voc: "objęťja"

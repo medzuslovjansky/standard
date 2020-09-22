@@ -1,0 +1,22 @@
+---
+  id: "31204"
+  word: "vinegret"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vinegret"
+      acc: "vinegret"
+      gen: "vinegreta"
+      loc: "vinegretu"
+      dat: "vinegretu"
+      ins: "vinegretom"
+      voc: "vinegrete"
+    plural: 
+      nom: "vinegrety"
+      acc: "vinegrety"
+      gen: "vinegretov"
+      loc: "vinegretah"
+      dat: "vinegretam"
+      ins: "vinegretami"
+      voc: "vinegrety"

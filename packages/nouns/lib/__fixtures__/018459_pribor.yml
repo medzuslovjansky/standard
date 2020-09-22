@@ -1,0 +1,22 @@
+---
+  id: "18459"
+  word: "pribor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pribor"
+      acc: "pribor"
+      gen: "pribora"
+      loc: "priboru"
+      dat: "priboru"
+      ins: "priborom"
+      voc: "pribore"
+    plural: 
+      nom: "pribory"
+      acc: "pribory"
+      gen: "priborov"
+      loc: "priborah"
+      dat: "priboram"
+      ins: "priborami"
+      voc: "pribory"

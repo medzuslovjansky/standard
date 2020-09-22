@@ -1,0 +1,15 @@
+---
+  id: "29989"
+  word: "prěljubstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prěljubstvo"
+      acc: "prěljubstvo"
+      gen: "prěljubstva"
+      loc: "prěljubstvu"
+      dat: "prěljubstvu"
+      ins: "prěljubstvom"
+      voc: "prěljubstvo"

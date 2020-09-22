@@ -1,0 +1,23 @@
+---
+  id: "32457"
+  word: "kaper"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kaper"
+      acc: "kapera"
+      gen: "kapera"
+      loc: "kaperu"
+      dat: "kaperu"
+      ins: "kaperom"
+      voc: "kapere"
+    plural: 
+      nom: "kaperi"
+      acc: "kaperov"
+      gen: "kaperov"
+      loc: "kaperah"
+      dat: "kaperam"
+      ins: "kaperami"
+      voc: "kaperi"

@@ -1,0 +1,23 @@
+---
+  id: "30955"
+  word: "upyŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "upyŕ"
+      acc: "upyŕa"
+      gen: "upyŕa"
+      loc: "upyŕu"
+      dat: "upyŕu"
+      ins: "upyŕem"
+      voc: "upyŕu"
+    plural: 
+      nom: "upyri"
+      acc: "upyŕev"
+      gen: "upyŕev"
+      loc: "upyŕah"
+      dat: "upyŕam"
+      ins: "upyŕami"
+      voc: "upyri"

@@ -1,0 +1,23 @@
+---
+  id: "27374"
+  word: "lžec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lžec"
+      acc: "lžeca"
+      gen: "lžeca"
+      loc: "lžecu"
+      dat: "lžecu"
+      ins: "lžecem"
+      voc: "lžeče"
+    plural: 
+      nom: "lžeci"
+      acc: "lžecev"
+      gen: "lžecev"
+      loc: "lžecah"
+      dat: "lžecam"
+      ins: "lžecami"
+      voc: "lžeci"

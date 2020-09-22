@@ -1,0 +1,22 @@
+---
+  id: "1999"
+  word: "recesija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "recesija"
+      acc: "recesijų"
+      gen: "recesije"
+      loc: "recesiji"
+      dat: "recesiji"
+      ins: "recesijejų"
+      voc: "recesijo"
+    plural: 
+      nom: "recesije"
+      acc: "recesije"
+      gen: "recesij"
+      loc: "recesijah"
+      dat: "recesijam"
+      ins: "recesijami"
+      voc: "recesije"

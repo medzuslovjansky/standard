@@ -1,0 +1,22 @@
+---
+  id: "25704"
+  word: "golěnj"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "golěnj"
+      acc: "golěnj"
+      gen: "golěnji"
+      loc: "golěnji"
+      dat: "golěnji"
+      ins: "golěnjjų"
+      voc: "golěnji"
+    plural: 
+      nom: "golěnji"
+      acc: "golěnji"
+      gen: "golěnjij"
+      loc: "golěnjah"
+      dat: "golěnjam"
+      ins: "golěnjami"
+      voc: "golěnji"

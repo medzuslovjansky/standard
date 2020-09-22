@@ -1,0 +1,22 @@
+---
+  id: "25014"
+  word: "čir"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čir"
+      acc: "čir"
+      gen: "čira"
+      loc: "čiru"
+      dat: "čiru"
+      ins: "čirom"
+      voc: "čire"
+    plural: 
+      nom: "čiry"
+      acc: "čiry"
+      gen: "čirov"
+      loc: "čirah"
+      dat: "čiram"
+      ins: "čirami"
+      voc: "čiry"

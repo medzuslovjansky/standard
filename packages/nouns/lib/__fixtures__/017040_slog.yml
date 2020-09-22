@@ -1,0 +1,22 @@
+---
+  id: "17040"
+  word: "slog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slog"
+      acc: "slog"
+      gen: "sloga"
+      loc: "slogu"
+      dat: "slogu"
+      ins: "slogom"
+      voc: "slože"
+    plural: 
+      nom: "slogy"
+      acc: "slogy"
+      gen: "slogov"
+      loc: "slogah"
+      dat: "slogam"
+      ins: "slogami"
+      voc: "slogy"

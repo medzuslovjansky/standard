@@ -1,0 +1,22 @@
+---
+  id: "20416"
+  word: "krasivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasivosť"
+      acc: "krasivosť"
+      gen: "krasivosti"
+      loc: "krasivosti"
+      dat: "krasivosti"
+      ins: "krasivosťjų"
+      voc: "krasivosti"
+    plural: 
+      nom: "krasivosti"
+      acc: "krasivosti"
+      gen: "krasivostij"
+      loc: "krasivosťah"
+      dat: "krasivosťam"
+      ins: "krasivosťami"
+      voc: "krasivosti"

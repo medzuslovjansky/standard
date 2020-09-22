@@ -1,0 +1,22 @@
+---
+  id: "14125"
+  word: "zamysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zamysl"
+      acc: "zamysl"
+      gen: "zamysla"
+      loc: "zamyslu"
+      dat: "zamyslu"
+      ins: "zamyslom"
+      voc: "zamysle"
+    plural: 
+      nom: "zamysly"
+      acc: "zamysly"
+      gen: "zamyslov"
+      loc: "zamyslah"
+      dat: "zamyslam"
+      ins: "zamyslami"
+      voc: "zamysly"

@@ -1,0 +1,22 @@
+---
+  id: "31097"
+  word: "velur"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "velur"
+      acc: "velur"
+      gen: "velura"
+      loc: "veluru"
+      dat: "veluru"
+      ins: "velurom"
+      voc: "velure"
+    plural: 
+      nom: "velury"
+      acc: "velury"
+      gen: "velurov"
+      loc: "velurah"
+      dat: "veluram"
+      ins: "velurami"
+      voc: "velury"

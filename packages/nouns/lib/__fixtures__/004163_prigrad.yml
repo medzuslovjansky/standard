@@ -1,0 +1,22 @@
+---
+  id: "4163"
+  word: "prigråd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prigråd"
+      acc: "prigråd"
+      gen: "prigråda"
+      loc: "prigrådu"
+      dat: "prigrådu"
+      ins: "prigrådom"
+      voc: "prigråde"
+    plural: 
+      nom: "prigrådy"
+      acc: "prigrådy"
+      gen: "prigrådov"
+      loc: "prigrådah"
+      dat: "prigrådam"
+      ins: "prigrådami"
+      voc: "prigrådy"

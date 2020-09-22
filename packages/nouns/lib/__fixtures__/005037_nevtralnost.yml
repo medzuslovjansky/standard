@@ -1,0 +1,22 @@
+---
+  id: "5037"
+  word: "nevtraľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevtraľnosť"
+      acc: "nevtraľnosť"
+      gen: "nevtraľnosti"
+      loc: "nevtraľnosti"
+      dat: "nevtraľnosti"
+      ins: "nevtraľnosťjų"
+      voc: "nevtraľnosti"
+    plural: 
+      nom: "nevtraľnosti"
+      acc: "nevtraľnosti"
+      gen: "nevtraľnostij"
+      loc: "nevtraľnosťah"
+      dat: "nevtraľnosťam"
+      ins: "nevtraľnosťami"
+      voc: "nevtraľnosti"

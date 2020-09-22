@@ -1,0 +1,22 @@
+---
+  id: "23473"
+  word: "čajka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čajka"
+      acc: "čajkų"
+      gen: "čajky"
+      loc: "čajkě"
+      dat: "čajkě"
+      ins: "čajkojų"
+      voc: "čajko"
+    plural: 
+      nom: "čajky"
+      acc: "čajky"
+      gen: "čajek"
+      loc: "čajkah"
+      dat: "čajkam"
+      ins: "čajkami"
+      voc: "čajky"

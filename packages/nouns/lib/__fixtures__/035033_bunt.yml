@@ -1,0 +1,22 @@
+---
+  id: "35033"
+  word: "bunt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bunt"
+      acc: "bunt"
+      gen: "bunta"
+      loc: "buntu"
+      dat: "buntu"
+      ins: "buntom"
+      voc: "bunte"
+    plural: 
+      nom: "bunty"
+      acc: "bunty"
+      gen: "buntov"
+      loc: "buntah"
+      dat: "buntam"
+      ins: "buntami"
+      voc: "bunty"

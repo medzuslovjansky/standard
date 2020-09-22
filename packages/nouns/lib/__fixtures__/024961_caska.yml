@@ -1,0 +1,22 @@
+---
+  id: "24961"
+  word: "čaška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čaška"
+      acc: "čaškų"
+      gen: "čašky"
+      loc: "čaškě"
+      dat: "čaškě"
+      ins: "čaškojų"
+      voc: "čaško"
+    plural: 
+      nom: "čašky"
+      acc: "čašky"
+      gen: "čašek"
+      loc: "čaškah"
+      dat: "čaškam"
+      ins: "čaškami"
+      voc: "čašky"

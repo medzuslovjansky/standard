@@ -1,0 +1,22 @@
+---
+  id: "33175"
+  word: "smråd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "smråd"
+      acc: "smråd"
+      gen: "smråda"
+      loc: "smrådu"
+      dat: "smrådu"
+      ins: "smrådom"
+      voc: "smråde"
+    plural: 
+      nom: "smrådy"
+      acc: "smrådy"
+      gen: "smrådov"
+      loc: "smrådah"
+      dat: "smrådam"
+      ins: "smrådami"
+      voc: "smrådy"

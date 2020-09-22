@@ -1,0 +1,15 @@
+---
+  id: "36798"
+  word: "anis"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "anis"
+      acc: "anis"
+      gen: "anisa"
+      loc: "anisu"
+      dat: "anisu"
+      ins: "anisom"
+      voc: "anise"

@@ -1,0 +1,23 @@
+---
+  id: "22945"
+  word: "męsožerec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "męsožerec"
+      acc: "męsožerca"
+      gen: "męsožerca"
+      loc: "męsožercu"
+      dat: "męsožercu"
+      ins: "męsožercem"
+      voc: "męsožerče"
+    plural: 
+      nom: "męsožerci"
+      acc: "męsožercev"
+      gen: "męsožercev"
+      loc: "męsožercah"
+      dat: "męsožercam"
+      ins: "męsožercami"
+      voc: "męsožerci"

@@ -1,0 +1,22 @@
+---
+  id: "1074"
+  word: "religija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "religija"
+      acc: "religijų"
+      gen: "religije"
+      loc: "religiji"
+      dat: "religiji"
+      ins: "religijejų"
+      voc: "religijo"
+    plural: 
+      nom: "religije"
+      acc: "religije"
+      gen: "religij"
+      loc: "religijah"
+      dat: "religijam"
+      ins: "religijami"
+      voc: "religije"

@@ -1,0 +1,23 @@
+---
+  id: "20746"
+  word: "sokol"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sokol"
+      acc: "sokola"
+      gen: "sokola"
+      loc: "sokolu"
+      dat: "sokolu"
+      ins: "sokolom"
+      voc: "sokole"
+    plural: 
+      nom: "sokoli"
+      acc: "sokolov"
+      gen: "sokolov"
+      loc: "sokolah"
+      dat: "sokolam"
+      ins: "sokolami"
+      voc: "sokoli"

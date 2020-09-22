@@ -1,0 +1,22 @@
+---
+  id: "36121"
+  word: "plodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plodnosť"
+      acc: "plodnosť"
+      gen: "plodnosti"
+      loc: "plodnosti"
+      dat: "plodnosti"
+      ins: "plodnosťjų"
+      voc: "plodnosti"
+    plural: 
+      nom: "plodnosti"
+      acc: "plodnosti"
+      gen: "plodnostij"
+      loc: "plodnosťah"
+      dat: "plodnosťam"
+      ins: "plodnosťami"
+      voc: "plodnosti"

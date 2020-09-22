@@ -1,0 +1,22 @@
+---
+  id: "1677"
+  word: "veto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "veto"
+      acc: "veto"
+      gen: "veta"
+      loc: "vetu"
+      dat: "vetu"
+      ins: "vetom"
+      voc: "veto"
+    plural: 
+      nom: "veta"
+      acc: "veta"
+      gen: "vet"
+      loc: "vetah"
+      dat: "vetam"
+      ins: "vetami"
+      voc: "veta"

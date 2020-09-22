@@ -1,0 +1,22 @@
+---
+  id: "34459"
+  word: "mŕzkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mŕzkosť"
+      acc: "mŕzkosť"
+      gen: "mŕzkosti"
+      loc: "mŕzkosti"
+      dat: "mŕzkosti"
+      ins: "mŕzkosťjų"
+      voc: "mŕzkosti"
+    plural: 
+      nom: "mŕzkosti"
+      acc: "mŕzkosti"
+      gen: "mŕzkostij"
+      loc: "mŕzkosťah"
+      dat: "mŕzkosťam"
+      ins: "mŕzkosťami"
+      voc: "mŕzkosti"

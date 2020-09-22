@@ -1,0 +1,22 @@
+---
+  id: "5045"
+  word: "meditacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "meditacija"
+      acc: "meditacijų"
+      gen: "meditacije"
+      loc: "meditaciji"
+      dat: "meditaciji"
+      ins: "meditacijejų"
+      voc: "meditacijo"
+    plural: 
+      nom: "meditacije"
+      acc: "meditacije"
+      gen: "meditacij"
+      loc: "meditacijah"
+      dat: "meditacijam"
+      ins: "meditacijami"
+      voc: "meditacije"

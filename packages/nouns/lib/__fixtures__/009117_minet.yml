@@ -1,0 +1,22 @@
+---
+  id: "9117"
+  word: "minet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "minet"
+      acc: "minet"
+      gen: "mineta"
+      loc: "minetu"
+      dat: "minetu"
+      ins: "minetom"
+      voc: "minete"
+    plural: 
+      nom: "minety"
+      acc: "minety"
+      gen: "minetov"
+      loc: "minetah"
+      dat: "minetam"
+      ins: "minetami"
+      voc: "minety"

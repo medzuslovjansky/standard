@@ -1,0 +1,22 @@
+---
+  id: "31810"
+  word: "dok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dok"
+      acc: "dok"
+      gen: "doka"
+      loc: "doku"
+      dat: "doku"
+      ins: "dokom"
+      voc: "doče"
+    plural: 
+      nom: "doky"
+      acc: "doky"
+      gen: "dokov"
+      loc: "dokah"
+      dat: "dokam"
+      ins: "dokami"
+      voc: "doky"

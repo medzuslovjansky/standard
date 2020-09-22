@@ -1,0 +1,22 @@
+---
+  id: "407"
+  word: "lěk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lěk"
+      acc: "lěk"
+      gen: "lěka"
+      loc: "lěku"
+      dat: "lěku"
+      ins: "lěkom"
+      voc: "lěče"
+    plural: 
+      nom: "lěky"
+      acc: "lěky"
+      gen: "lěkov"
+      loc: "lěkah"
+      dat: "lěkam"
+      ins: "lěkami"
+      voc: "lěky"

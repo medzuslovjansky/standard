@@ -1,0 +1,23 @@
+---
+  id: "27515"
+  word: "měľnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "měľnik"
+      acc: "měľnika"
+      gen: "měľnika"
+      loc: "měľniku"
+      dat: "měľniku"
+      ins: "měľnikom"
+      voc: "měľniče"
+    plural: 
+      nom: "měľniki"
+      acc: "měľnikov"
+      gen: "měľnikov"
+      loc: "měľnikah"
+      dat: "měľnikam"
+      ins: "měľnikami"
+      voc: "měľniki"

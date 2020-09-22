@@ -1,0 +1,22 @@
+---
+  id: "24014"
+  word: "vlastničstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vlastničstvo"
+      acc: "vlastničstvo"
+      gen: "vlastničstva"
+      loc: "vlastničstvu"
+      dat: "vlastničstvu"
+      ins: "vlastničstvom"
+      voc: "vlastničstvo"
+    plural: 
+      nom: "vlastničstva"
+      acc: "vlastničstva"
+      gen: "vlastničstv"
+      loc: "vlastničstvah"
+      dat: "vlastničstvam"
+      ins: "vlastničstvami"
+      voc: "vlastničstva"

@@ -1,0 +1,22 @@
+---
+  id: "19016"
+  word: "tyčkoskok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tyčkoskok"
+      acc: "tyčkoskok"
+      gen: "tyčkoskoka"
+      loc: "tyčkoskoku"
+      dat: "tyčkoskoku"
+      ins: "tyčkoskokom"
+      voc: "tyčkoskoče"
+    plural: 
+      nom: "tyčkoskoky"
+      acc: "tyčkoskoky"
+      gen: "tyčkoskokov"
+      loc: "tyčkoskokah"
+      dat: "tyčkoskokam"
+      ins: "tyčkoskokami"
+      voc: "tyčkoskoky"

@@ -1,0 +1,22 @@
+---
+  id: "1254"
+  word: "rizik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rizik"
+      acc: "rizik"
+      gen: "rizika"
+      loc: "riziku"
+      dat: "riziku"
+      ins: "rizikom"
+      voc: "riziče"
+    plural: 
+      nom: "riziky"
+      acc: "riziky"
+      gen: "rizikov"
+      loc: "rizikah"
+      dat: "rizikam"
+      ins: "rizikami"
+      voc: "riziky"

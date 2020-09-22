@@ -1,0 +1,22 @@
+---
+  id: "36577"
+  word: "kari"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kari"
+      acc: "karų"
+      gen: "kare"
+      loc: "kari"
+      dat: "kari"
+      ins: "karejų"
+      voc: "karo"
+    plural: 
+      nom: "kare"
+      acc: "kare"
+      gen: "kar"
+      loc: "karah"
+      dat: "karam"
+      ins: "karami"
+      voc: "kare"

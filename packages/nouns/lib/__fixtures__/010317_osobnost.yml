@@ -1,0 +1,22 @@
+---
+  id: "10317"
+  word: "osobnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "osobnosť"
+      acc: "osobnosť"
+      gen: "osobnosti"
+      loc: "osobnosti"
+      dat: "osobnosti"
+      ins: "osobnosťjų"
+      voc: "osobnosti"
+    plural: 
+      nom: "osobnosti"
+      acc: "osobnosti"
+      gen: "osobnostij"
+      loc: "osobnosťah"
+      dat: "osobnosťam"
+      ins: "osobnosťami"
+      voc: "osobnosti"

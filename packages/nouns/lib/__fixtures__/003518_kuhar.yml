@@ -1,0 +1,23 @@
+---
+  id: "3518"
+  word: "kuhaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kuhaŕ"
+      acc: "kuhaŕa"
+      gen: "kuhaŕa"
+      loc: "kuhaŕu"
+      dat: "kuhaŕu"
+      ins: "kuhaŕem"
+      voc: "kuhaŕu"
+    plural: 
+      nom: "kuhari"
+      acc: "kuhaŕev"
+      gen: "kuhaŕev"
+      loc: "kuhaŕah"
+      dat: "kuhaŕam"
+      ins: "kuhaŕami"
+      voc: "kuhari"

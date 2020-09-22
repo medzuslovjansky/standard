@@ -1,0 +1,23 @@
+---
+  id: "35870"
+  word: "avtostopnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "avtostopnik"
+      acc: "avtostopnika"
+      gen: "avtostopnika"
+      loc: "avtostopniku"
+      dat: "avtostopniku"
+      ins: "avtostopnikom"
+      voc: "avtostopniče"
+    plural: 
+      nom: "avtostopniki"
+      acc: "avtostopnikov"
+      gen: "avtostopnikov"
+      loc: "avtostopnikah"
+      dat: "avtostopnikam"
+      ins: "avtostopnikami"
+      voc: "avtostopniki"

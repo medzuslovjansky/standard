@@ -1,0 +1,22 @@
+---
+  id: "36466"
+  word: "prěduslovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěduslovje"
+      acc: "prěduslovje"
+      gen: "prěduslovja"
+      loc: "prěduslovju"
+      dat: "prěduslovju"
+      ins: "prěduslovjem"
+      voc: "prěduslovje"
+    plural: 
+      nom: "prěduslovja"
+      acc: "prěduslovja"
+      gen: "prěduslovij"
+      loc: "prěduslovjah"
+      dat: "prěduslovjam"
+      ins: "prěduslovjami"
+      voc: "prěduslovja"

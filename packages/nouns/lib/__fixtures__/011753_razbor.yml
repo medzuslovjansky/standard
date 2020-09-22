@@ -1,0 +1,22 @@
+---
+  id: "11753"
+  word: "råzbor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzbor"
+      acc: "råzbor"
+      gen: "råzbora"
+      loc: "råzboru"
+      dat: "råzboru"
+      ins: "råzborom"
+      voc: "råzbore"
+    plural: 
+      nom: "råzbory"
+      acc: "råzbory"
+      gen: "råzborov"
+      loc: "råzborah"
+      dat: "råzboram"
+      ins: "råzborami"
+      voc: "råzbory"

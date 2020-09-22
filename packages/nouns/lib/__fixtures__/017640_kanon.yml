@@ -1,0 +1,22 @@
+---
+  id: "17640"
+  word: "kanon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kanon"
+      acc: "kanon"
+      gen: "kanona"
+      loc: "kanonu"
+      dat: "kanonu"
+      ins: "kanonom"
+      voc: "kanone"
+    plural: 
+      nom: "kanony"
+      acc: "kanony"
+      gen: "kanonov"
+      loc: "kanonah"
+      dat: "kanonam"
+      ins: "kanonami"
+      voc: "kanony"

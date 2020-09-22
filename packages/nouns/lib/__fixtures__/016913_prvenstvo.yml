@@ -1,0 +1,22 @@
+---
+  id: "16913"
+  word: "pŕvenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pŕvenstvo"
+      acc: "pŕvenstvo"
+      gen: "pŕvenstva"
+      loc: "pŕvenstvu"
+      dat: "pŕvenstvu"
+      ins: "pŕvenstvom"
+      voc: "pŕvenstvo"
+    plural: 
+      nom: "pŕvenstva"
+      acc: "pŕvenstva"
+      gen: "pŕvenstv"
+      loc: "pŕvenstvah"
+      dat: "pŕvenstvam"
+      ins: "pŕvenstvami"
+      voc: "pŕvenstva"

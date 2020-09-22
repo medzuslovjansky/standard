@@ -1,0 +1,15 @@
+---
+  id: "1642"
+  word: "izbory"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "izbory"
+      acc: "izbory"
+      gen: "izborov"
+      loc: "izborah"
+      dat: "izboram"
+      ins: "izborami"
+      voc: "izbory"

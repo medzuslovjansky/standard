@@ -1,0 +1,22 @@
+---
+  id: "83"
+  word: "avtomagistralj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtomagistralj"
+      acc: "avtomagistralj"
+      gen: "avtomagistralja"
+      loc: "avtomagistralju"
+      dat: "avtomagistralju"
+      ins: "avtomagistraljem"
+      voc: "avtomagistralju"
+    plural: 
+      nom: "avtomagistralje"
+      acc: "avtomagistralje"
+      gen: "avtomagistraljev"
+      loc: "avtomagistraljah"
+      dat: "avtomagistraljam"
+      ins: "avtomagistraljami"
+      voc: "avtomagistralje"

@@ -1,0 +1,23 @@
+---
+  id: "17920"
+  word: "nepȯlnomožnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nepȯlnomožnik"
+      acc: "nepȯlnomožnika"
+      gen: "nepȯlnomožnika"
+      loc: "nepȯlnomožniku"
+      dat: "nepȯlnomožniku"
+      ins: "nepȯlnomožnikom"
+      voc: "nepȯlnomožniče"
+    plural: 
+      nom: "nepȯlnomožniki"
+      acc: "nepȯlnomožnikov"
+      gen: "nepȯlnomožnikov"
+      loc: "nepȯlnomožnikah"
+      dat: "nepȯlnomožnikam"
+      ins: "nepȯlnomožnikami"
+      voc: "nepȯlnomožniki"

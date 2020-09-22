@@ -1,0 +1,22 @@
+---
+  id: "392"
+  word: "utro"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "utro"
+      acc: "utro"
+      gen: "utra"
+      loc: "utru"
+      dat: "utru"
+      ins: "utrom"
+      voc: "utro"
+    plural: 
+      nom: "utra"
+      acc: "utra"
+      gen: "utr"
+      loc: "utrah"
+      dat: "utram"
+      ins: "utrami"
+      voc: "utra"

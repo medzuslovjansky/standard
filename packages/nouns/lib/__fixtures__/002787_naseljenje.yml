@@ -1,0 +1,22 @@
+---
+  id: "2787"
+  word: "naseljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "naseljeńje"
+      acc: "naseljeńje"
+      gen: "naseljeńja"
+      loc: "naseljeńju"
+      dat: "naseljeńju"
+      ins: "naseljeńjem"
+      voc: "naseljeńje"
+    plural: 
+      nom: "naseljeńja"
+      acc: "naseljeńja"
+      gen: "naseljenij"
+      loc: "naseljeńjah"
+      dat: "naseljeńjam"
+      ins: "naseljeńjami"
+      voc: "naseljeńja"

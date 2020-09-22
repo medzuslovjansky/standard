@@ -1,0 +1,22 @@
+---
+  id: "24407"
+  word: "azimut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "azimut"
+      acc: "azimut"
+      gen: "azimuta"
+      loc: "azimutu"
+      dat: "azimutu"
+      ins: "azimutom"
+      voc: "azimute"
+    plural: 
+      nom: "azimuty"
+      acc: "azimuty"
+      gen: "azimutov"
+      loc: "azimutah"
+      dat: "azimutam"
+      ins: "azimutami"
+      voc: "azimuty"

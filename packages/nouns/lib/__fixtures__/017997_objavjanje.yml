@@ -1,0 +1,22 @@
+---
+  id: "17997"
+  word: "objavjańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "objavjańje"
+      acc: "objavjańje"
+      gen: "objavjańja"
+      loc: "objavjańju"
+      dat: "objavjańju"
+      ins: "objavjańjem"
+      voc: "objavjańje"
+    plural: 
+      nom: "objavjańja"
+      acc: "objavjańja"
+      gen: "objavjanij"
+      loc: "objavjańjah"
+      dat: "objavjańjam"
+      ins: "objavjańjami"
+      voc: "objavjańja"

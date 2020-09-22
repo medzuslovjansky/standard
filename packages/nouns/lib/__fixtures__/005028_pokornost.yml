@@ -1,0 +1,22 @@
+---
+  id: "5028"
+  word: "pokornosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pokornosť"
+      acc: "pokornosť"
+      gen: "pokornosti"
+      loc: "pokornosti"
+      dat: "pokornosti"
+      ins: "pokornosťjų"
+      voc: "pokornosti"
+    plural: 
+      nom: "pokornosti"
+      acc: "pokornosti"
+      gen: "pokornostij"
+      loc: "pokornosťah"
+      dat: "pokornosťam"
+      ins: "pokornosťami"
+      voc: "pokornosti"

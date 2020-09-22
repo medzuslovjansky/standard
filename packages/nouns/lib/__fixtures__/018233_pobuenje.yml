@@ -1,0 +1,22 @@
+---
+  id: "18233"
+  word: "pobuđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pobuđeńje"
+      acc: "pobuđeńje"
+      gen: "pobuđeńja"
+      loc: "pobuđeńju"
+      dat: "pobuđeńju"
+      ins: "pobuđeńjem"
+      voc: "pobuđeńje"
+    plural: 
+      nom: "pobuđeńja"
+      acc: "pobuđeńja"
+      gen: "pobuđenij"
+      loc: "pobuđeńjah"
+      dat: "pobuđeńjam"
+      ins: "pobuđeńjami"
+      voc: "pobuđeńja"

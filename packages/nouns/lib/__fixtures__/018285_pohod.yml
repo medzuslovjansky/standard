@@ -1,0 +1,22 @@
+---
+  id: "18285"
+  word: "pohod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pohod"
+      acc: "pohod"
+      gen: "pohoda"
+      loc: "pohodu"
+      dat: "pohodu"
+      ins: "pohodom"
+      voc: "pohode"
+    plural: 
+      nom: "pohody"
+      acc: "pohody"
+      gen: "pohodov"
+      loc: "pohodah"
+      dat: "pohodam"
+      ins: "pohodami"
+      voc: "pohody"

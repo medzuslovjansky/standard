@@ -1,0 +1,22 @@
+---
+  id: "13434"
+  word: "uvěrjenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uvěrjenosť"
+      acc: "uvěrjenosť"
+      gen: "uvěrjenosti"
+      loc: "uvěrjenosti"
+      dat: "uvěrjenosti"
+      ins: "uvěrjenosťjų"
+      voc: "uvěrjenosti"
+    plural: 
+      nom: "uvěrjenosti"
+      acc: "uvěrjenosti"
+      gen: "uvěrjenostij"
+      loc: "uvěrjenosťah"
+      dat: "uvěrjenosťam"
+      ins: "uvěrjenosťami"
+      voc: "uvěrjenosti"

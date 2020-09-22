@@ -1,0 +1,22 @@
+---
+  id: "25070"
+  word: "čub"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čub"
+      acc: "čub"
+      gen: "čuba"
+      loc: "čubu"
+      dat: "čubu"
+      ins: "čubom"
+      voc: "čube"
+    plural: 
+      nom: "čuby"
+      acc: "čuby"
+      gen: "čubov"
+      loc: "čubah"
+      dat: "čubam"
+      ins: "čubami"
+      voc: "čuby"

@@ -1,0 +1,22 @@
+---
+  id: "26685"
+  word: "kora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kora"
+      acc: "korų"
+      gen: "kory"
+      loc: "korě"
+      dat: "korě"
+      ins: "korojų"
+      voc: "koro"
+    plural: 
+      nom: "kory"
+      acc: "kory"
+      gen: "kor"
+      loc: "korah"
+      dat: "koram"
+      ins: "korami"
+      voc: "kory"

@@ -1,0 +1,22 @@
+---
+  id: "32225"
+  word: "karo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "karo"
+      acc: "karo"
+      gen: "kara"
+      loc: "karu"
+      dat: "karu"
+      ins: "karom"
+      voc: "karo"
+    plural: 
+      nom: "kara"
+      acc: "kara"
+      gen: "kar"
+      loc: "karah"
+      dat: "karam"
+      ins: "karami"
+      voc: "kara"

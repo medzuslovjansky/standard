@@ -1,0 +1,22 @@
+---
+  id: "32147"
+  word: "laska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "laska"
+      acc: "laskų"
+      gen: "lasky"
+      loc: "laskě"
+      dat: "laskě"
+      ins: "laskojų"
+      voc: "lasko"
+    plural: 
+      nom: "lasky"
+      acc: "lasky"
+      gen: "lasȯk"
+      loc: "laskah"
+      dat: "laskam"
+      ins: "laskami"
+      voc: "lasky"

@@ -1,0 +1,22 @@
+---
+  id: "4415"
+  word: "kvadrat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kvadrat"
+      acc: "kvadrat"
+      gen: "kvadrata"
+      loc: "kvadratu"
+      dat: "kvadratu"
+      ins: "kvadratom"
+      voc: "kvadrate"
+    plural: 
+      nom: "kvadraty"
+      acc: "kvadraty"
+      gen: "kvadratov"
+      loc: "kvadratah"
+      dat: "kvadratam"
+      ins: "kvadratami"
+      voc: "kvadraty"

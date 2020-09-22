@@ -1,0 +1,22 @@
+---
+  id: "23988"
+  word: "bordelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bordelj"
+      acc: "bordelj"
+      gen: "bordelja"
+      loc: "bordelju"
+      dat: "bordelju"
+      ins: "bordeljem"
+      voc: "bordelju"
+    plural: 
+      nom: "bordelje"
+      acc: "bordelje"
+      gen: "bordeljev"
+      loc: "bordeljah"
+      dat: "bordeljam"
+      ins: "bordeljami"
+      voc: "bordelje"

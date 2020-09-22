@@ -1,0 +1,22 @@
+---
+  id: "32521"
+  word: "uhovŕtka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "uhovŕtka"
+      acc: "uhovŕtkų"
+      gen: "uhovŕtky"
+      loc: "uhovŕtkě"
+      dat: "uhovŕtkě"
+      ins: "uhovŕtkojų"
+      voc: "uhovŕtko"
+    plural: 
+      nom: "uhovŕtky"
+      acc: "uhovŕtky"
+      gen: "uhovŕtȯk"
+      loc: "uhovŕtkah"
+      dat: "uhovŕtkam"
+      ins: "uhovŕtkami"
+      voc: "uhovŕtky"

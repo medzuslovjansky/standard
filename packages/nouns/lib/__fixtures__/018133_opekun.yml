@@ -1,0 +1,23 @@
+---
+  id: "18133"
+  word: "opekun"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "opekun"
+      acc: "opekuna"
+      gen: "opekuna"
+      loc: "opekunu"
+      dat: "opekunu"
+      ins: "opekunom"
+      voc: "opekune"
+    plural: 
+      nom: "opekuni"
+      acc: "opekunov"
+      gen: "opekunov"
+      loc: "opekunah"
+      dat: "opekunam"
+      ins: "opekunami"
+      voc: "opekuni"

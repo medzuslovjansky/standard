@@ -1,0 +1,22 @@
+---
+  id: "23023"
+  word: "hektometr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hektometr"
+      acc: "hektometr"
+      gen: "hektometra"
+      loc: "hektometru"
+      dat: "hektometru"
+      ins: "hektometrom"
+      voc: "hektometre"
+    plural: 
+      nom: "hektometry"
+      acc: "hektometry"
+      gen: "hektometrov"
+      loc: "hektometrah"
+      dat: "hektometram"
+      ins: "hektometrami"
+      voc: "hektometry"

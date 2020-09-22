@@ -1,0 +1,22 @@
+---
+  id: "21636"
+  word: "vȯzråst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯzråst"
+      acc: "vȯzråst"
+      gen: "vȯzråsta"
+      loc: "vȯzråstu"
+      dat: "vȯzråstu"
+      ins: "vȯzråstom"
+      voc: "vȯzråste"
+    plural: 
+      nom: "vȯzråsty"
+      acc: "vȯzråsty"
+      gen: "vȯzråstov"
+      loc: "vȯzråstah"
+      dat: "vȯzråstam"
+      ins: "vȯzråstami"
+      voc: "vȯzråsty"

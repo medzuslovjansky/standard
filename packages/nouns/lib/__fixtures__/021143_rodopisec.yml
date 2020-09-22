@@ -1,0 +1,23 @@
+---
+  id: "21143"
+  word: "rodopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "rodopisec"
+      acc: "rodopisca"
+      gen: "rodopisca"
+      loc: "rodopiscu"
+      dat: "rodopiscu"
+      ins: "rodopiscem"
+      voc: "rodopisče"
+    plural: 
+      nom: "rodopisci"
+      acc: "rodopiscev"
+      gen: "rodopiscev"
+      loc: "rodopiscah"
+      dat: "rodopiscam"
+      ins: "rodopiscami"
+      voc: "rodopisci"

@@ -1,0 +1,22 @@
+---
+  id: "1763"
+  word: "harakteristika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "harakteristika"
+      acc: "harakteristikų"
+      gen: "harakteristiky"
+      loc: "harakteristikě"
+      dat: "harakteristikě"
+      ins: "harakteristikojų"
+      voc: "harakteristiko"
+    plural: 
+      nom: "harakteristiky"
+      acc: "harakteristiky"
+      gen: "harakteristik"
+      loc: "harakteristikah"
+      dat: "harakteristikam"
+      ins: "harakteristikami"
+      voc: "harakteristiky"

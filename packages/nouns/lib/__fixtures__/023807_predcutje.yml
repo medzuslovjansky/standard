@@ -1,0 +1,22 @@
+---
+  id: "23807"
+  word: "prědčuťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědčuťje"
+      acc: "prědčuťje"
+      gen: "prědčuťja"
+      loc: "prědčuťju"
+      dat: "prědčuťju"
+      ins: "prědčuťjem"
+      voc: "prědčuťje"
+    plural: 
+      nom: "prědčuťja"
+      acc: "prědčuťja"
+      gen: "prědčutij"
+      loc: "prědčuťjah"
+      dat: "prědčuťjam"
+      ins: "prědčuťjami"
+      voc: "prědčuťja"

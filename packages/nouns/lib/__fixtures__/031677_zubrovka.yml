@@ -1,0 +1,22 @@
+---
+  id: "31677"
+  word: "zubrovka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zubrovka"
+      acc: "zubrovkų"
+      gen: "zubrovky"
+      loc: "zubrovkě"
+      dat: "zubrovkě"
+      ins: "zubrovkojų"
+      voc: "zubrovko"
+    plural: 
+      nom: "zubrovky"
+      acc: "zubrovky"
+      gen: "zubrovȯk"
+      loc: "zubrovkah"
+      dat: "zubrovkam"
+      ins: "zubrovkami"
+      voc: "zubrovky"

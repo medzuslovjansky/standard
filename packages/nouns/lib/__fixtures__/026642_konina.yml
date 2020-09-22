@@ -1,0 +1,22 @@
+---
+  id: "26642"
+  word: "konina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konina"
+      acc: "koninų"
+      gen: "koniny"
+      loc: "konině"
+      dat: "konině"
+      ins: "koninojų"
+      voc: "konino"
+    plural: 
+      nom: "koniny"
+      acc: "koniny"
+      gen: "konin"
+      loc: "koninah"
+      dat: "koninam"
+      ins: "koninami"
+      voc: "koniny"

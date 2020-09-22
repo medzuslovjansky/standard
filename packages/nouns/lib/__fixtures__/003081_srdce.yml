@@ -1,0 +1,22 @@
+---
+  id: "3081"
+  word: "sŕdce"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sŕdce"
+      acc: "sŕdce"
+      gen: "sŕdca"
+      loc: "sŕdcu"
+      dat: "sŕdcu"
+      ins: "sŕdcem"
+      voc: "sŕdce"
+    plural: 
+      nom: "sŕdca"
+      acc: "sŕdca"
+      gen: "sŕdc"
+      loc: "sŕdcah"
+      dat: "sŕdcam"
+      ins: "sŕdcami"
+      voc: "sŕdca"

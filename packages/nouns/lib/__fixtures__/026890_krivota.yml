@@ -1,0 +1,22 @@
+---
+  id: "26890"
+  word: "krivota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krivota"
+      acc: "krivotų"
+      gen: "krivoty"
+      loc: "krivotě"
+      dat: "krivotě"
+      ins: "krivotojų"
+      voc: "krivoto"
+    plural: 
+      nom: "krivoty"
+      acc: "krivoty"
+      gen: "krivot"
+      loc: "krivotah"
+      dat: "krivotam"
+      ins: "krivotami"
+      voc: "krivoty"

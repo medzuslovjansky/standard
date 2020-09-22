@@ -1,0 +1,22 @@
+---
+  id: "35387"
+  word: "nebožčik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nebožčik"
+      acc: "nebožčik"
+      gen: "nebožčika"
+      loc: "nebožčiku"
+      dat: "nebožčiku"
+      ins: "nebožčikom"
+      voc: "nebožčiče"
+    plural: 
+      nom: "nebožčiky"
+      acc: "nebožčiky"
+      gen: "nebožčikov"
+      loc: "nebožčikah"
+      dat: "nebožčikam"
+      ins: "nebožčikami"
+      voc: "nebožčiky"

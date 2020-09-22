@@ -1,0 +1,22 @@
+---
+  id: "35998"
+  word: "sokovnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sokovnik"
+      acc: "sokovnik"
+      gen: "sokovnika"
+      loc: "sokovniku"
+      dat: "sokovniku"
+      ins: "sokovnikom"
+      voc: "sokovniče"
+    plural: 
+      nom: "sokovniky"
+      acc: "sokovniky"
+      gen: "sokovnikov"
+      loc: "sokovnikah"
+      dat: "sokovnikam"
+      ins: "sokovnikami"
+      voc: "sokovniky"

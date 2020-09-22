@@ -1,0 +1,22 @@
+---
+  id: "27650"
+  word: "mlåťba"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlåťba"
+      acc: "mlåťbų"
+      gen: "mlåťby"
+      loc: "mlåťbě"
+      dat: "mlåťbě"
+      ins: "mlåťbojų"
+      voc: "mlåťbo"
+    plural: 
+      nom: "mlåťby"
+      acc: "mlåťby"
+      gen: "mlåťb"
+      loc: "mlåťbah"
+      dat: "mlåťbam"
+      ins: "mlåťbami"
+      voc: "mlåťby"

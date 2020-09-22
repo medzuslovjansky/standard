@@ -1,0 +1,22 @@
+---
+  id: "27911"
+  word: "myto"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "myto"
+      acc: "myto"
+      gen: "myta"
+      loc: "mytu"
+      dat: "mytu"
+      ins: "mytom"
+      voc: "myto"
+    plural: 
+      nom: "myta"
+      acc: "myta"
+      gen: "myt"
+      loc: "mytah"
+      dat: "mytam"
+      ins: "mytami"
+      voc: "myta"

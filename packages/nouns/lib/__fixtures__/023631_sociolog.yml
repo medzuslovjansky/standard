@@ -1,0 +1,23 @@
+---
+  id: "23631"
+  word: "sociolog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sociolog"
+      acc: "sociologa"
+      gen: "sociologa"
+      loc: "sociologu"
+      dat: "sociologu"
+      ins: "sociologom"
+      voc: "sociolože"
+    plural: 
+      nom: "sociologi"
+      acc: "sociologov"
+      gen: "sociologov"
+      loc: "sociologah"
+      dat: "sociologam"
+      ins: "sociologami"
+      voc: "sociologi"

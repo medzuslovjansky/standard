@@ -1,0 +1,15 @@
+---
+  id: "17216"
+  word: "čitkody"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "čitkody"
+      acc: "čitkody"
+      gen: "čitkodov"
+      loc: "čitkodah"
+      dat: "čitkodam"
+      ins: "čitkodami"
+      voc: "čitkody"

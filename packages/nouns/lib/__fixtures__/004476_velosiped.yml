@@ -1,0 +1,22 @@
+---
+  id: "4476"
+  word: "velosiped"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "velosiped"
+      acc: "velosiped"
+      gen: "velosipeda"
+      loc: "velosipedu"
+      dat: "velosipedu"
+      ins: "velosipedom"
+      voc: "velosipede"
+    plural: 
+      nom: "velosipedy"
+      acc: "velosipedy"
+      gen: "velosipedov"
+      loc: "velosipedah"
+      dat: "velosipedam"
+      ins: "velosipedami"
+      voc: "velosipedy"

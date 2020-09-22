@@ -1,0 +1,22 @@
+---
+  id: "2558"
+  word: "kapitulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kapitulacija"
+      acc: "kapitulacijų"
+      gen: "kapitulacije"
+      loc: "kapitulaciji"
+      dat: "kapitulaciji"
+      ins: "kapitulacijejų"
+      voc: "kapitulacijo"
+    plural: 
+      nom: "kapitulacije"
+      acc: "kapitulacije"
+      gen: "kapitulacij"
+      loc: "kapitulacijah"
+      dat: "kapitulacijam"
+      ins: "kapitulacijami"
+      voc: "kapitulacije"

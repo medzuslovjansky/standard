@@ -1,0 +1,22 @@
+---
+  id: "36664"
+  word: "matč"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "matč"
+      acc: "matč"
+      gen: "matča"
+      loc: "matču"
+      dat: "matču"
+      ins: "matčem"
+      voc: "matču"
+    plural: 
+      nom: "matče"
+      acc: "matče"
+      gen: "matčev"
+      loc: "matčah"
+      dat: "matčam"
+      ins: "matčami"
+      voc: "matče"

@@ -1,0 +1,22 @@
+---
+  id: "5688"
+  word: "svistȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "svistȯk"
+      acc: "svistȯk"
+      gen: "svistka"
+      loc: "svistku"
+      dat: "svistku"
+      ins: "svistkom"
+      voc: "svistče"
+    plural: 
+      nom: "svistky"
+      acc: "svistky"
+      gen: "svistkov"
+      loc: "svistkah"
+      dat: "svistkam"
+      ins: "svistkami"
+      voc: "svistky"

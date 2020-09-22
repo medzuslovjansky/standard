@@ -1,0 +1,22 @@
+---
+  id: "24245"
+  word: "aliteracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aliteracija"
+      acc: "aliteracijų"
+      gen: "aliteracije"
+      loc: "aliteraciji"
+      dat: "aliteraciji"
+      ins: "aliteracijejų"
+      voc: "aliteracijo"
+    plural: 
+      nom: "aliteracije"
+      acc: "aliteracije"
+      gen: "aliteracij"
+      loc: "aliteracijah"
+      dat: "aliteracijam"
+      ins: "aliteracijami"
+      voc: "aliteracije"

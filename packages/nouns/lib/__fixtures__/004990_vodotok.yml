@@ -1,0 +1,22 @@
+---
+  id: "4990"
+  word: "vodotok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodotok"
+      acc: "vodotok"
+      gen: "vodotoka"
+      loc: "vodotoku"
+      dat: "vodotoku"
+      ins: "vodotokom"
+      voc: "vodotoče"
+    plural: 
+      nom: "vodotoky"
+      acc: "vodotoky"
+      gen: "vodotokov"
+      loc: "vodotokah"
+      dat: "vodotokam"
+      ins: "vodotokami"
+      voc: "vodotoky"

@@ -1,0 +1,23 @@
+---
+  id: "23323"
+  word: "botanik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "botanik"
+      acc: "botanika"
+      gen: "botanika"
+      loc: "botaniku"
+      dat: "botaniku"
+      ins: "botanikom"
+      voc: "botaniče"
+    plural: 
+      nom: "botaniki"
+      acc: "botanikov"
+      gen: "botanikov"
+      loc: "botanikah"
+      dat: "botanikam"
+      ins: "botanikami"
+      voc: "botaniki"

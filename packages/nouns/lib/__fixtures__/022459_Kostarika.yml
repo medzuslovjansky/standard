@@ -1,0 +1,15 @@
+---
+  id: "22459"
+  word: "Kostarika"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kostarika"
+      acc: "Kostarikų"
+      gen: "Kostariky"
+      loc: "Kostarikě"
+      dat: "Kostarikě"
+      ins: "Kostarikojų"
+      voc: "Kostariko"

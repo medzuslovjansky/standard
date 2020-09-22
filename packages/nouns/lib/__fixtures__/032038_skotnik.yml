@@ -1,0 +1,23 @@
+---
+  id: "32038"
+  word: "skotnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skotnik"
+      acc: "skotnika"
+      gen: "skotnika"
+      loc: "skotniku"
+      dat: "skotniku"
+      ins: "skotnikom"
+      voc: "skotniče"
+    plural: 
+      nom: "skotniki"
+      acc: "skotnikov"
+      gen: "skotnikov"
+      loc: "skotnikah"
+      dat: "skotnikam"
+      ins: "skotnikami"
+      voc: "skotniki"

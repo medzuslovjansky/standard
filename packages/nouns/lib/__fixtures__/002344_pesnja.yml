@@ -1,0 +1,22 @@
+---
+  id: "2344"
+  word: "pěsnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pěsnja"
+      acc: "pěsnjų"
+      gen: "pěsnje"
+      loc: "pěsnji"
+      dat: "pěsnji"
+      ins: "pěsnjejų"
+      voc: "pěsnjo"
+    plural: 
+      nom: "pěsnje"
+      acc: "pěsnje"
+      gen: "pěsnej"
+      loc: "pěsnjah"
+      dat: "pěsnjam"
+      ins: "pěsnjami"
+      voc: "pěsnje"

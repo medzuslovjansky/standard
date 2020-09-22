@@ -1,0 +1,22 @@
+---
+  id: "16965"
+  word: "liturgija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "liturgija"
+      acc: "liturgijų"
+      gen: "liturgije"
+      loc: "liturgiji"
+      dat: "liturgiji"
+      ins: "liturgijejų"
+      voc: "liturgijo"
+    plural: 
+      nom: "liturgije"
+      acc: "liturgije"
+      gen: "liturgij"
+      loc: "liturgijah"
+      dat: "liturgijam"
+      ins: "liturgijami"
+      voc: "liturgije"

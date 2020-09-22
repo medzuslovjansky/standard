@@ -1,0 +1,22 @@
+---
+  id: "15329"
+  word: "hytrica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hytrica"
+      acc: "hytricų"
+      gen: "hytrice"
+      loc: "hytrici"
+      dat: "hytrici"
+      ins: "hytricejų"
+      voc: "hytrico"
+    plural: 
+      nom: "hytrice"
+      acc: "hytrice"
+      gen: "hytric"
+      loc: "hytricah"
+      dat: "hytricam"
+      ins: "hytricami"
+      voc: "hytrice"

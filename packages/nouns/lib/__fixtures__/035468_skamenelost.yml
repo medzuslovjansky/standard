@@ -1,0 +1,22 @@
+---
+  id: "35468"
+  word: "skamenělosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skamenělosť"
+      acc: "skamenělosť"
+      gen: "skamenělosti"
+      loc: "skamenělosti"
+      dat: "skamenělosti"
+      ins: "skamenělosťjų"
+      voc: "skamenělosti"
+    plural: 
+      nom: "skamenělosti"
+      acc: "skamenělosti"
+      gen: "skamenělostij"
+      loc: "skamenělosťah"
+      dat: "skamenělosťam"
+      ins: "skamenělosťami"
+      voc: "skamenělosti"

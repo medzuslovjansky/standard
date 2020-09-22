@@ -1,0 +1,22 @@
+---
+  id: "24847"
+  word: "bŕvno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bŕvno"
+      acc: "bŕvno"
+      gen: "bŕvna"
+      loc: "bŕvnu"
+      dat: "bŕvnu"
+      ins: "bŕvnom"
+      voc: "bŕvno"
+    plural: 
+      nom: "bŕvna"
+      acc: "bŕvna"
+      gen: "bŕven"
+      loc: "bŕvnah"
+      dat: "bŕvnam"
+      ins: "bŕvnami"
+      voc: "bŕvna"

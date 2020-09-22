@@ -1,0 +1,22 @@
+---
+  id: "2883"
+  word: "dolina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dolina"
+      acc: "dolinų"
+      gen: "doliny"
+      loc: "dolině"
+      dat: "dolině"
+      ins: "dolinojų"
+      voc: "dolino"
+    plural: 
+      nom: "doliny"
+      acc: "doliny"
+      gen: "dolin"
+      loc: "dolinah"
+      dat: "dolinam"
+      ins: "dolinami"
+      voc: "doliny"

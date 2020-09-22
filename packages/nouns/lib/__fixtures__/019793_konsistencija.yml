@@ -1,0 +1,22 @@
+---
+  id: "19793"
+  word: "konsistencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konsistencija"
+      acc: "konsistencijų"
+      gen: "konsistencije"
+      loc: "konsistenciji"
+      dat: "konsistenciji"
+      ins: "konsistencijejų"
+      voc: "konsistencijo"
+    plural: 
+      nom: "konsistencije"
+      acc: "konsistencije"
+      gen: "konsistencij"
+      loc: "konsistencijah"
+      dat: "konsistencijam"
+      ins: "konsistencijami"
+      voc: "konsistencije"

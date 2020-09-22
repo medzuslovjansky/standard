@@ -1,0 +1,22 @@
+---
+  id: "2335"
+  word: "bezdna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bezdna"
+      acc: "bezdnų"
+      gen: "bezdny"
+      loc: "bezdně"
+      dat: "bezdně"
+      ins: "bezdnojų"
+      voc: "bezdno"
+    plural: 
+      nom: "bezdny"
+      acc: "bezdny"
+      gen: "bezdn"
+      loc: "bezdnah"
+      dat: "bezdnam"
+      ins: "bezdnami"
+      voc: "bezdny"

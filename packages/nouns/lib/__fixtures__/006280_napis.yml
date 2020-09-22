@@ -1,0 +1,22 @@
+---
+  id: "6280"
+  word: "napis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "napis"
+      acc: "napis"
+      gen: "napisa"
+      loc: "napisu"
+      dat: "napisu"
+      ins: "napisom"
+      voc: "napise"
+    plural: 
+      nom: "napisy"
+      acc: "napisy"
+      gen: "napisov"
+      loc: "napisah"
+      dat: "napisam"
+      ins: "napisami"
+      voc: "napisy"

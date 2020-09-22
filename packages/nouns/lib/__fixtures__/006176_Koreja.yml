@@ -1,0 +1,15 @@
+---
+  id: "6176"
+  word: "Koreja"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Koreja"
+      acc: "Korejų"
+      gen: "Koreje"
+      loc: "Koreji"
+      dat: "Koreji"
+      ins: "Korejejų"
+      voc: "Korejo"

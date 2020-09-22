@@ -1,0 +1,22 @@
+---
+  id: "1867"
+  word: "žrěbętko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "žrěbętko"
+      acc: "žrěbętko"
+      gen: "žrěbętka"
+      loc: "žrěbętku"
+      dat: "žrěbętku"
+      ins: "žrěbętkom"
+      voc: "žrěbętko"
+    plural: 
+      nom: "žrěbętka"
+      acc: "žrěbętka"
+      gen: "žrěbętȯk"
+      loc: "žrěbętkah"
+      dat: "žrěbętkam"
+      ins: "žrěbętkami"
+      voc: "žrěbętka"

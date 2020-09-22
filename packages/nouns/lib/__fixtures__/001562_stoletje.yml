@@ -1,0 +1,22 @@
+---
+  id: "1562"
+  word: "stolěťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stolěťje"
+      acc: "stolěťje"
+      gen: "stolěťja"
+      loc: "stolěťju"
+      dat: "stolěťju"
+      ins: "stolěťjem"
+      voc: "stolěťje"
+    plural: 
+      nom: "stolěťja"
+      acc: "stolěťja"
+      gen: "stolětij"
+      loc: "stolěťjah"
+      dat: "stolěťjam"
+      ins: "stolěťjami"
+      voc: "stolěťja"

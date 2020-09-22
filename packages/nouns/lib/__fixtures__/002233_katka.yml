@@ -1,0 +1,22 @@
+---
+  id: "2233"
+  word: "katka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "katka"
+      acc: "katkų"
+      gen: "katky"
+      loc: "katkě"
+      dat: "katkě"
+      ins: "katkojų"
+      voc: "katko"
+    plural: 
+      nom: "katky"
+      acc: "katky"
+      gen: "katȯk"
+      loc: "katkah"
+      dat: "katkam"
+      ins: "katkami"
+      voc: "katky"

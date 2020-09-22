@@ -1,0 +1,23 @@
+---
+  id: "1523"
+  word: "vųž"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vųž"
+      acc: "vųža"
+      gen: "vųža"
+      loc: "vųžu"
+      dat: "vųžu"
+      ins: "vųžem"
+      voc: "vųžu"
+    plural: 
+      nom: "vųži"
+      acc: "vųžev"
+      gen: "vųžev"
+      loc: "vųžah"
+      dat: "vųžam"
+      ins: "vųžami"
+      voc: "vųži"

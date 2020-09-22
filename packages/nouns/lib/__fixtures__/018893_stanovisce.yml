@@ -1,0 +1,22 @@
+---
+  id: "18893"
+  word: "stanovišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "stanovišče"
+      acc: "stanovišče"
+      gen: "stanovišča"
+      loc: "stanovišču"
+      dat: "stanovišču"
+      ins: "stanoviščem"
+      voc: "stanovišče"
+    plural: 
+      nom: "stanovišča"
+      acc: "stanovišča"
+      gen: "stanovišč"
+      loc: "stanoviščah"
+      dat: "stanoviščam"
+      ins: "stanoviščami"
+      voc: "stanovišča"

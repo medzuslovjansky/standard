@@ -1,0 +1,22 @@
+---
+  id: "1363"
+  word: "zŕno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zŕno"
+      acc: "zŕno"
+      gen: "zŕna"
+      loc: "zŕnu"
+      dat: "zŕnu"
+      ins: "zŕnom"
+      voc: "zŕno"
+    plural: 
+      nom: "zŕna"
+      acc: "zŕna"
+      gen: "zŕn"
+      loc: "zŕnah"
+      dat: "zŕnam"
+      ins: "zŕnami"
+      voc: "zŕna"

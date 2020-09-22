@@ -1,0 +1,22 @@
+---
+  id: "2424"
+  word: "tragedija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tragedija"
+      acc: "tragedijų"
+      gen: "tragedije"
+      loc: "tragediji"
+      dat: "tragediji"
+      ins: "tragedijejų"
+      voc: "tragedijo"
+    plural: 
+      nom: "tragedije"
+      acc: "tragedije"
+      gen: "tragedij"
+      loc: "tragedijah"
+      dat: "tragedijam"
+      ins: "tragedijami"
+      voc: "tragedije"

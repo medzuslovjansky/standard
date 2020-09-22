@@ -1,0 +1,15 @@
+---
+  id: "19220"
+  word: "Viena"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Viena"
+      acc: "Vienų"
+      gen: "Vieny"
+      loc: "Vieně"
+      dat: "Vieně"
+      ins: "Vienojų"
+      voc: "Vieno"

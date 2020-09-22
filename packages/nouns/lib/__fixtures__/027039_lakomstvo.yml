@@ -1,0 +1,22 @@
+---
+  id: "27039"
+  word: "lakomstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "lakomstvo"
+      acc: "lakomstvo"
+      gen: "lakomstva"
+      loc: "lakomstvu"
+      dat: "lakomstvu"
+      ins: "lakomstvom"
+      voc: "lakomstvo"
+    plural: 
+      nom: "lakomstva"
+      acc: "lakomstva"
+      gen: "lakomstv"
+      loc: "lakomstvah"
+      dat: "lakomstvam"
+      ins: "lakomstvami"
+      voc: "lakomstva"

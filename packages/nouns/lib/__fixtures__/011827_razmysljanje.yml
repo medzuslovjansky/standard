@@ -1,0 +1,22 @@
+---
+  id: "11827"
+  word: "råzmysljańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzmysljańje"
+      acc: "råzmysljańje"
+      gen: "råzmysljańja"
+      loc: "råzmysljańju"
+      dat: "råzmysljańju"
+      ins: "råzmysljańjem"
+      voc: "råzmysljańje"
+    plural: 
+      nom: "råzmysljańja"
+      acc: "råzmysljańja"
+      gen: "råzmysljanij"
+      loc: "råzmysljańjah"
+      dat: "råzmysljańjam"
+      ins: "råzmysljańjami"
+      voc: "råzmysljańja"

@@ -1,0 +1,22 @@
+---
+  id: "8944"
+  word: "lovhata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lovhata"
+      acc: "lovhatų"
+      gen: "lovhaty"
+      loc: "lovhatě"
+      dat: "lovhatě"
+      ins: "lovhatojų"
+      voc: "lovhato"
+    plural: 
+      nom: "lovhaty"
+      acc: "lovhaty"
+      gen: "lovhat"
+      loc: "lovhatah"
+      dat: "lovhatam"
+      ins: "lovhatami"
+      voc: "lovhaty"

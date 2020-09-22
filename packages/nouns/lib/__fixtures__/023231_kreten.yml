@@ -1,0 +1,23 @@
+---
+  id: "23231"
+  word: "kreten"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kreten"
+      acc: "kretena"
+      gen: "kretena"
+      loc: "kretenu"
+      dat: "kretenu"
+      ins: "kretenom"
+      voc: "kretene"
+    plural: 
+      nom: "kreteni"
+      acc: "kretenov"
+      gen: "kretenov"
+      loc: "kretenah"
+      dat: "kretenam"
+      ins: "kretenami"
+      voc: "kreteni"

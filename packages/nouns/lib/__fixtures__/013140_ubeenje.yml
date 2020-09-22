@@ -1,0 +1,22 @@
+---
+  id: "13140"
+  word: "uběđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uběđeńje"
+      acc: "uběđeńje"
+      gen: "uběđeńja"
+      loc: "uběđeńju"
+      dat: "uběđeńju"
+      ins: "uběđeńjem"
+      voc: "uběđeńje"
+    plural: 
+      nom: "uběđeńja"
+      acc: "uběđeńja"
+      gen: "uběđenij"
+      loc: "uběđeńjah"
+      dat: "uběđeńjam"
+      ins: "uběđeńjami"
+      voc: "uběđeńja"

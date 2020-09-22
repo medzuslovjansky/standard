@@ -1,0 +1,22 @@
+---
+  id: "23038"
+  word: "kyslina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kyslina"
+      acc: "kyslinų"
+      gen: "kysliny"
+      loc: "kyslině"
+      dat: "kyslině"
+      ins: "kyslinojų"
+      voc: "kyslino"
+    plural: 
+      nom: "kysliny"
+      acc: "kysliny"
+      gen: "kyslin"
+      loc: "kyslinah"
+      dat: "kyslinam"
+      ins: "kyslinami"
+      voc: "kysliny"

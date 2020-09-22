@@ -1,0 +1,45 @@
+---
+  - 
+    id: "239"
+    word: "stil"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "stil"
+        acc: "stil"
+        gen: "stila"
+        loc: "stilu"
+        dat: "stilu"
+        ins: "stilom"
+        voc: "stile"
+      plural: 
+        nom: "stily"
+        acc: "stily"
+        gen: "stilov"
+        loc: "stilah"
+        dat: "stilam"
+        ins: "stilami"
+        voc: "stily"
+  - 
+    id: "239"
+    word: "stilj"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "stilj"
+        acc: "stilj"
+        gen: "stilja"
+        loc: "stilju"
+        dat: "stilju"
+        ins: "stiljem"
+        voc: "stilju"
+      plural: 
+        nom: "stilje"
+        acc: "stilje"
+        gen: "stiljev"
+        loc: "stiljah"
+        dat: "stiljam"
+        ins: "stiljami"
+        voc: "stilje"

@@ -1,0 +1,22 @@
+---
+  id: "24502"
+  word: "bandžo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bandže"
+      acc: "bandže"
+      gen: "bandža"
+      loc: "bandžu"
+      dat: "bandžu"
+      ins: "bandžem"
+      voc: "bandže"
+    plural: 
+      nom: "bandža"
+      acc: "bandža"
+      gen: "bandž"
+      loc: "bandžah"
+      dat: "bandžam"
+      ins: "bandžami"
+      voc: "bandža"

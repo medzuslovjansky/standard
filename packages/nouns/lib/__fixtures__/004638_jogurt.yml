@@ -1,0 +1,22 @@
+---
+  id: "4638"
+  word: "jogurt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jogurt"
+      acc: "jogurt"
+      gen: "jogurta"
+      loc: "jogurtu"
+      dat: "jogurtu"
+      ins: "jogurtom"
+      voc: "jogurte"
+    plural: 
+      nom: "jogurty"
+      acc: "jogurty"
+      gen: "jogurtov"
+      loc: "jogurtah"
+      dat: "jogurtam"
+      ins: "jogurtami"
+      voc: "jogurty"

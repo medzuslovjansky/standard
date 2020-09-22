@@ -1,0 +1,22 @@
+---
+  id: "20837"
+  word: "žȯlv"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žȯlȯv"
+      acc: "žȯlȯv"
+      gen: "žȯlve / žȯlvi"
+      loc: "žȯlvi"
+      dat: "žȯlvi"
+      ins: "žȯlȯvjų"
+      voc: "žȯlȯv"
+    plural: 
+      nom: "žȯlvi"
+      acc: "žȯlvi"
+      gen: "žȯlvij"
+      loc: "žȯlvah"
+      dat: "žȯlvam"
+      ins: "žȯlvami"
+      voc: "žȯlvi"

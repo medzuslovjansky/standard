@@ -1,0 +1,22 @@
+---
+  id: "632"
+  word: "šans"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šans"
+      acc: "šans"
+      gen: "šansa"
+      loc: "šansu"
+      dat: "šansu"
+      ins: "šansom"
+      voc: "šanse"
+    plural: 
+      nom: "šansy"
+      acc: "šansy"
+      gen: "šansov"
+      loc: "šansah"
+      dat: "šansam"
+      ins: "šansami"
+      voc: "šansy"

@@ -1,0 +1,22 @@
+---
+  id: "2994"
+  word: "partija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "partija"
+      acc: "partijų"
+      gen: "partije"
+      loc: "partiji"
+      dat: "partiji"
+      ins: "partijejų"
+      voc: "partijo"
+    plural: 
+      nom: "partije"
+      acc: "partije"
+      gen: "partij"
+      loc: "partijah"
+      dat: "partijam"
+      ins: "partijami"
+      voc: "partije"

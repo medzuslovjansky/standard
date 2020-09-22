@@ -1,0 +1,22 @@
+---
+  id: "1461"
+  word: "bratstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "bratstvo"
+      acc: "bratstvo"
+      gen: "bratstva"
+      loc: "bratstvu"
+      dat: "bratstvu"
+      ins: "bratstvom"
+      voc: "bratstvo"
+    plural: 
+      nom: "bratstva"
+      acc: "bratstva"
+      gen: "bratstv"
+      loc: "bratstvah"
+      dat: "bratstvam"
+      ins: "bratstvami"
+      voc: "bratstva"

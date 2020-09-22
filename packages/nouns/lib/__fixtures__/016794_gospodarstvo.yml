@@ -1,0 +1,22 @@
+---
+  id: "16794"
+  word: "gospodaŕstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gospodaŕstvo"
+      acc: "gospodaŕstvo"
+      gen: "gospodaŕstva"
+      loc: "gospodaŕstvu"
+      dat: "gospodaŕstvu"
+      ins: "gospodaŕstvom"
+      voc: "gospodaŕstvo"
+    plural: 
+      nom: "gospodaŕstva"
+      acc: "gospodaŕstva"
+      gen: "gospodaŕstv"
+      loc: "gospodaŕstvah"
+      dat: "gospodaŕstvam"
+      ins: "gospodaŕstvami"
+      voc: "gospodaŕstva"

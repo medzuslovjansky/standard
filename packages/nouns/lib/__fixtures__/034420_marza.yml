@@ -1,0 +1,22 @@
+---
+  id: "34420"
+  word: "marža"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marža"
+      acc: "maržų"
+      gen: "marže"
+      loc: "marži"
+      dat: "marži"
+      ins: "maržejų"
+      voc: "maržo"
+    plural: 
+      nom: "marže"
+      acc: "marže"
+      gen: "marž"
+      loc: "maržah"
+      dat: "maržam"
+      ins: "maržami"
+      voc: "marže"

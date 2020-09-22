@@ -1,0 +1,22 @@
+---
+  id: "36301"
+  word: "prolom"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prolom"
+      acc: "prolom"
+      gen: "proloma"
+      loc: "prolomu"
+      dat: "prolomu"
+      ins: "prolomom"
+      voc: "prolome"
+    plural: 
+      nom: "prolomy"
+      acc: "prolomy"
+      gen: "prolomov"
+      loc: "prolomah"
+      dat: "prolomam"
+      ins: "prolomami"
+      voc: "prolomy"

@@ -1,0 +1,22 @@
+---
+  id: "35893"
+  word: "džin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "džin"
+      acc: "džin"
+      gen: "džina"
+      loc: "džinu"
+      dat: "džinu"
+      ins: "džinom"
+      voc: "džine"
+    plural: 
+      nom: "džiny"
+      acc: "džiny"
+      gen: "džinov"
+      loc: "džinah"
+      dat: "džinam"
+      ins: "džinami"
+      voc: "džiny"

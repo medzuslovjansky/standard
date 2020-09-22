@@ -1,0 +1,22 @@
+---
+  id: "36616"
+  word: "sųćnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųćnosť"
+      acc: "sųćnosť"
+      gen: "sųćnosti"
+      loc: "sųćnosti"
+      dat: "sųćnosti"
+      ins: "sųćnosťjų"
+      voc: "sųćnosti"
+    plural: 
+      nom: "sųćnosti"
+      acc: "sųćnosti"
+      gen: "sųćnostij"
+      loc: "sųćnosťah"
+      dat: "sųćnosťam"
+      ins: "sųćnosťami"
+      voc: "sųćnosti"

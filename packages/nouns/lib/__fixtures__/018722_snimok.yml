@@ -1,0 +1,22 @@
+---
+  id: "18722"
+  word: "snimȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "snimȯk"
+      acc: "snimȯk"
+      gen: "snimka"
+      loc: "snimku"
+      dat: "snimku"
+      ins: "snimkom"
+      voc: "snimče"
+    plural: 
+      nom: "snimky"
+      acc: "snimky"
+      gen: "snimkov"
+      loc: "snimkah"
+      dat: "snimkam"
+      ins: "snimkami"
+      voc: "snimky"

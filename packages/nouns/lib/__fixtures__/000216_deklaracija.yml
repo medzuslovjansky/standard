@@ -1,0 +1,22 @@
+---
+  id: "216"
+  word: "deklaracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "deklaracija"
+      acc: "deklaracijų"
+      gen: "deklaracije"
+      loc: "deklaraciji"
+      dat: "deklaraciji"
+      ins: "deklaracijejų"
+      voc: "deklaracijo"
+    plural: 
+      nom: "deklaracije"
+      acc: "deklaracije"
+      gen: "deklaracij"
+      loc: "deklaracijah"
+      dat: "deklaracijam"
+      ins: "deklaracijami"
+      voc: "deklaracije"

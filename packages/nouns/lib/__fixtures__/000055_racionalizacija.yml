@@ -1,0 +1,22 @@
+---
+  id: "55"
+  word: "racionalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "racionalizacija"
+      acc: "racionalizacijų"
+      gen: "racionalizacije"
+      loc: "racionalizaciji"
+      dat: "racionalizaciji"
+      ins: "racionalizacijejų"
+      voc: "racionalizacijo"
+    plural: 
+      nom: "racionalizacije"
+      acc: "racionalizacije"
+      gen: "racionalizacij"
+      loc: "racionalizacijah"
+      dat: "racionalizacijam"
+      ins: "racionalizacijami"
+      voc: "racionalizacije"

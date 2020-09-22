@@ -1,0 +1,22 @@
+---
+  id: "671"
+  word: "gråd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gråd"
+      acc: "gråd"
+      gen: "gråda"
+      loc: "grådu"
+      dat: "grådu"
+      ins: "grådom"
+      voc: "gråde"
+    plural: 
+      nom: "grådy"
+      acc: "grådy"
+      gen: "grådov"
+      loc: "grådah"
+      dat: "grådam"
+      ins: "grådami"
+      voc: "grådy"

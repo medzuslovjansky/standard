@@ -1,0 +1,22 @@
+---
+  id: "3495"
+  word: "kreda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kreda"
+      acc: "kredų"
+      gen: "kredy"
+      loc: "kredě"
+      dat: "kredě"
+      ins: "kredojų"
+      voc: "kredo"
+    plural: 
+      nom: "kredy"
+      acc: "kredy"
+      gen: "kred"
+      loc: "kredah"
+      dat: "kredam"
+      ins: "kredami"
+      voc: "kredy"

@@ -1,0 +1,22 @@
+---
+  id: "3668"
+  word: "humor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "humor"
+      acc: "humor"
+      gen: "humora"
+      loc: "humoru"
+      dat: "humoru"
+      ins: "humorom"
+      voc: "humore"
+    plural: 
+      nom: "humory"
+      acc: "humory"
+      gen: "humorov"
+      loc: "humorah"
+      dat: "humoram"
+      ins: "humorami"
+      voc: "humory"

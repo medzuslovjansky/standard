@@ -1,0 +1,22 @@
+---
+  id: "16386"
+  word: "vzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vzor"
+      acc: "vzor"
+      gen: "vzora"
+      loc: "vzoru"
+      dat: "vzoru"
+      ins: "vzorom"
+      voc: "vzore"
+    plural: 
+      nom: "vzory"
+      acc: "vzory"
+      gen: "vzorov"
+      loc: "vzorah"
+      dat: "vzoram"
+      ins: "vzorami"
+      voc: "vzory"

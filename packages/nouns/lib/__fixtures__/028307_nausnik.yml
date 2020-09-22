@@ -1,0 +1,22 @@
+---
+  id: "28307"
+  word: "naušnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naušnik"
+      acc: "naušnik"
+      gen: "naušnika"
+      loc: "naušniku"
+      dat: "naušniku"
+      ins: "naušnikom"
+      voc: "naušniče"
+    plural: 
+      nom: "naušniky"
+      acc: "naušniky"
+      gen: "naušnikov"
+      loc: "naušnikah"
+      dat: "naušnikam"
+      ins: "naušnikami"
+      voc: "naušniky"

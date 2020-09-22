@@ -1,0 +1,22 @@
+---
+  id: "31073"
+  word: "věko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "věko"
+      acc: "věko"
+      gen: "věka"
+      loc: "věku"
+      dat: "věku"
+      ins: "věkom"
+      voc: "věko"
+    plural: 
+      nom: "věka"
+      acc: "věka"
+      gen: "věk"
+      loc: "věkah"
+      dat: "věkam"
+      ins: "věkami"
+      voc: "věka"

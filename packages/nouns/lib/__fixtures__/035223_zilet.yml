@@ -1,0 +1,22 @@
+---
+  id: "35223"
+  word: "žilet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "žilet"
+      acc: "žilet"
+      gen: "žileta"
+      loc: "žiletu"
+      dat: "žiletu"
+      ins: "žiletom"
+      voc: "žilete"
+    plural: 
+      nom: "žilety"
+      acc: "žilety"
+      gen: "žiletov"
+      loc: "žiletah"
+      dat: "žiletam"
+      ins: "žiletami"
+      voc: "žilety"

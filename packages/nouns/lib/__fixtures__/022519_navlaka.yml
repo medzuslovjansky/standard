@@ -1,0 +1,22 @@
+---
+  id: "22519"
+  word: "navlåka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "navlåka"
+      acc: "navlåkų"
+      gen: "navlåky"
+      loc: "navlåkě"
+      dat: "navlåkě"
+      ins: "navlåkojų"
+      voc: "navlåko"
+    plural: 
+      nom: "navlåky"
+      acc: "navlåky"
+      gen: "navlåk"
+      loc: "navlåkah"
+      dat: "navlåkam"
+      ins: "navlåkami"
+      voc: "navlåky"

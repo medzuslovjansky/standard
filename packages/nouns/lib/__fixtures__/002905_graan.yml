@@ -1,0 +1,47 @@
+---
+  - 
+    id: "2905"
+    word: "gråđan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "gråđan"
+        acc: "gråđana"
+        gen: "gråđana"
+        loc: "gråđanu"
+        dat: "gråđanu"
+        ins: "gråđanom"
+        voc: "gråđane"
+      plural: 
+        nom: "gråđani"
+        acc: "gråđanov"
+        gen: "gråđanov"
+        loc: "gråđanah"
+        dat: "gråđanam"
+        ins: "gråđanami"
+        voc: "gråđani"
+  - 
+    id: "2905"
+    word: "gråđanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "gråđanin"
+        acc: "gråđanina"
+        gen: "gråđanina"
+        loc: "gråđaninu"
+        dat: "gråđaninu"
+        ins: "gråđaninom"
+        voc: "gråđanine"
+      plural: 
+        nom: "gråđani"
+        acc: "gråđanov"
+        gen: "gråđanov"
+        loc: "gråđanah"
+        dat: "gråđanam"
+        ins: "gråđanami"
+        voc: "gråđani"

@@ -1,0 +1,22 @@
+---
+  id: "35719"
+  word: "kronika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kronika"
+      acc: "kronikų"
+      gen: "kroniky"
+      loc: "kronikě"
+      dat: "kronikě"
+      ins: "kronikojų"
+      voc: "kroniko"
+    plural: 
+      nom: "kroniky"
+      acc: "kroniky"
+      gen: "kronik"
+      loc: "kronikah"
+      dat: "kronikam"
+      ins: "kronikami"
+      voc: "kroniky"

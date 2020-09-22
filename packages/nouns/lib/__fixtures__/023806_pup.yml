@@ -1,0 +1,22 @@
+---
+  id: "23806"
+  word: "pųp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pųp"
+      acc: "pųp"
+      gen: "pųpa"
+      loc: "pųpu"
+      dat: "pųpu"
+      ins: "pųpom"
+      voc: "pųpe"
+    plural: 
+      nom: "pųpy"
+      acc: "pųpy"
+      gen: "pųpov"
+      loc: "pųpah"
+      dat: "pųpam"
+      ins: "pųpami"
+      voc: "pųpy"

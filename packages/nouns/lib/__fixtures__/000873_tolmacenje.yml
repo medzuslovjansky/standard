@@ -1,0 +1,22 @@
+---
+  id: "873"
+  word: "tȯlmačeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tȯlmačeńje"
+      acc: "tȯlmačeńje"
+      gen: "tȯlmačeńja"
+      loc: "tȯlmačeńju"
+      dat: "tȯlmačeńju"
+      ins: "tȯlmačeńjem"
+      voc: "tȯlmačeńje"
+    plural: 
+      nom: "tȯlmačeńja"
+      acc: "tȯlmačeńja"
+      gen: "tȯlmačenij"
+      loc: "tȯlmačeńjah"
+      dat: "tȯlmačeńjam"
+      ins: "tȯlmačeńjami"
+      voc: "tȯlmačeńja"

@@ -1,0 +1,22 @@
+---
+  id: "1486"
+  word: "temperatura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "temperatura"
+      acc: "temperaturų"
+      gen: "temperatury"
+      loc: "temperaturě"
+      dat: "temperaturě"
+      ins: "temperaturojų"
+      voc: "temperaturo"
+    plural: 
+      nom: "temperatury"
+      acc: "temperatury"
+      gen: "temperatur"
+      loc: "temperaturah"
+      dat: "temperaturam"
+      ins: "temperaturami"
+      voc: "temperatury"

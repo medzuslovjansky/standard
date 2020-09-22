@@ -1,0 +1,22 @@
+---
+  id: "31179"
+  word: "vibrator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vibrator"
+      acc: "vibrator"
+      gen: "vibratora"
+      loc: "vibratoru"
+      dat: "vibratoru"
+      ins: "vibratorom"
+      voc: "vibratore"
+    plural: 
+      nom: "vibratory"
+      acc: "vibratory"
+      gen: "vibratorov"
+      loc: "vibratorah"
+      dat: "vibratoram"
+      ins: "vibratorami"
+      voc: "vibratory"

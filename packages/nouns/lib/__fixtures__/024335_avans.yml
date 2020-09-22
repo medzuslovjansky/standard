@@ -1,0 +1,22 @@
+---
+  id: "24335"
+  word: "avans"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avans"
+      acc: "avans"
+      gen: "avansa"
+      loc: "avansu"
+      dat: "avansu"
+      ins: "avansom"
+      voc: "avanse"
+    plural: 
+      nom: "avansy"
+      acc: "avansy"
+      gen: "avansov"
+      loc: "avansah"
+      dat: "avansam"
+      ins: "avansami"
+      voc: "avansy"

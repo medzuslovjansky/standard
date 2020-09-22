@@ -1,0 +1,22 @@
+---
+  id: "4767"
+  word: "melodija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "melodija"
+      acc: "melodijų"
+      gen: "melodije"
+      loc: "melodiji"
+      dat: "melodiji"
+      ins: "melodijejų"
+      voc: "melodijo"
+    plural: 
+      nom: "melodije"
+      acc: "melodije"
+      gen: "melodij"
+      loc: "melodijah"
+      dat: "melodijam"
+      ins: "melodijami"
+      voc: "melodije"

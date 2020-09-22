@@ -1,0 +1,22 @@
+---
+  id: "33207"
+  word: "gramotnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gramotnosť"
+      acc: "gramotnosť"
+      gen: "gramotnosti"
+      loc: "gramotnosti"
+      dat: "gramotnosti"
+      ins: "gramotnosťjų"
+      voc: "gramotnosti"
+    plural: 
+      nom: "gramotnosti"
+      acc: "gramotnosti"
+      gen: "gramotnostij"
+      loc: "gramotnosťah"
+      dat: "gramotnosťam"
+      ins: "gramotnosťami"
+      voc: "gramotnosti"

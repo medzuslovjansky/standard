@@ -1,0 +1,22 @@
+---
+  id: "36367"
+  word: "piedestal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "piedestal"
+      acc: "piedestal"
+      gen: "piedestala"
+      loc: "piedestalu"
+      dat: "piedestalu"
+      ins: "piedestalom"
+      voc: "piedestale"
+    plural: 
+      nom: "piedestaly"
+      acc: "piedestaly"
+      gen: "piedestalov"
+      loc: "piedestalah"
+      dat: "piedestalam"
+      ins: "piedestalami"
+      voc: "piedestaly"

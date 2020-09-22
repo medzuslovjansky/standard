@@ -1,0 +1,22 @@
+---
+  id: "36222"
+  word: "obložka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obložka"
+      acc: "obložkų"
+      gen: "obložky"
+      loc: "obložkě"
+      dat: "obložkě"
+      ins: "obložkojų"
+      voc: "obložko"
+    plural: 
+      nom: "obložky"
+      acc: "obložky"
+      gen: "obložek"
+      loc: "obložkah"
+      dat: "obložkam"
+      ins: "obložkami"
+      voc: "obložky"

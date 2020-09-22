@@ -1,0 +1,22 @@
+---
+  id: "31794"
+  word: "fasada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fasada"
+      acc: "fasadų"
+      gen: "fasady"
+      loc: "fasadě"
+      dat: "fasadě"
+      ins: "fasadojų"
+      voc: "fasado"
+    plural: 
+      nom: "fasady"
+      acc: "fasady"
+      gen: "fasad"
+      loc: "fasadah"
+      dat: "fasadam"
+      ins: "fasadami"
+      voc: "fasady"

@@ -1,0 +1,22 @@
+---
+  id: "2127"
+  word: "snižka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "snižka"
+      acc: "snižkų"
+      gen: "snižky"
+      loc: "snižkě"
+      dat: "snižkě"
+      ins: "snižkojų"
+      voc: "snižko"
+    plural: 
+      nom: "snižky"
+      acc: "snižky"
+      gen: "snižek"
+      loc: "snižkah"
+      dat: "snižkam"
+      ins: "snižkami"
+      voc: "snižky"

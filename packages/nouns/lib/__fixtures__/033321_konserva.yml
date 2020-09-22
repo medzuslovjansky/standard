@@ -1,0 +1,22 @@
+---
+  id: "33321"
+  word: "konserva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konserva"
+      acc: "konservų"
+      gen: "konservy"
+      loc: "konservě"
+      dat: "konservě"
+      ins: "konservojų"
+      voc: "konservo"
+    plural: 
+      nom: "konservy"
+      acc: "konservy"
+      gen: "konserv"
+      loc: "konservah"
+      dat: "konservam"
+      ins: "konservami"
+      voc: "konservy"

@@ -1,0 +1,23 @@
+---
+  id: "2152"
+  word: "vųgoŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vųgoŕ"
+      acc: "vųgoŕa"
+      gen: "vųgoŕa"
+      loc: "vųgoŕu"
+      dat: "vųgoŕu"
+      ins: "vųgoŕem"
+      voc: "vųgoŕu"
+    plural: 
+      nom: "vųgori"
+      acc: "vųgoŕev"
+      gen: "vųgoŕev"
+      loc: "vųgoŕah"
+      dat: "vųgoŕam"
+      ins: "vųgoŕami"
+      voc: "vųgori"

@@ -1,0 +1,22 @@
+---
+  id: "23802"
+  word: "protivrěčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "protivrěčnosť"
+      acc: "protivrěčnosť"
+      gen: "protivrěčnosti"
+      loc: "protivrěčnosti"
+      dat: "protivrěčnosti"
+      ins: "protivrěčnosťjų"
+      voc: "protivrěčnosti"
+    plural: 
+      nom: "protivrěčnosti"
+      acc: "protivrěčnosti"
+      gen: "protivrěčnostij"
+      loc: "protivrěčnosťah"
+      dat: "protivrěčnosťam"
+      ins: "protivrěčnosťami"
+      voc: "protivrěčnosti"

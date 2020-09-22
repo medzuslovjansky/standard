@@ -1,0 +1,23 @@
+---
+  id: "25745"
+  word: "gospoď"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gospoď"
+      acc: "gospoďa"
+      gen: "gospoďa"
+      loc: "gospoďu"
+      dat: "gospoďu"
+      ins: "gospoďem"
+      voc: "gospoďu"
+    plural: 
+      nom: "gospodi"
+      acc: "gospoďev"
+      gen: "gospoďev"
+      loc: "gospoďah"
+      dat: "gospoďam"
+      ins: "gospoďami"
+      voc: "gospodi"

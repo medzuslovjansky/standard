@@ -1,0 +1,22 @@
+---
+  id: "24484"
+  word: "balustrada"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "balustrada"
+      acc: "balustradų"
+      gen: "balustrady"
+      loc: "balustradě"
+      dat: "balustradě"
+      ins: "balustradojų"
+      voc: "balustrado"
+    plural: 
+      nom: "balustrady"
+      acc: "balustrady"
+      gen: "balustrad"
+      loc: "balustradah"
+      dat: "balustradam"
+      ins: "balustradami"
+      voc: "balustrady"

@@ -1,0 +1,22 @@
+---
+  id: "20410"
+  word: "kobra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kobra"
+      acc: "kobrų"
+      gen: "kobry"
+      loc: "kobrě"
+      dat: "kobrě"
+      ins: "kobrojų"
+      voc: "kobro"
+    plural: 
+      nom: "kobry"
+      acc: "kobry"
+      gen: "kobr"
+      loc: "kobrah"
+      dat: "kobram"
+      ins: "kobrami"
+      voc: "kobry"

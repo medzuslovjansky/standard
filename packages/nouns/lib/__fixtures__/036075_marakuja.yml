@@ -1,0 +1,22 @@
+---
+  id: "36075"
+  word: "marakuja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marakuja"
+      acc: "marakujų"
+      gen: "marakuje"
+      loc: "marakuji"
+      dat: "marakuji"
+      ins: "marakujejų"
+      voc: "marakujo"
+    plural: 
+      nom: "marakuje"
+      acc: "marakuje"
+      gen: "marakuj"
+      loc: "marakujah"
+      dat: "marakujam"
+      ins: "marakujami"
+      voc: "marakuje"

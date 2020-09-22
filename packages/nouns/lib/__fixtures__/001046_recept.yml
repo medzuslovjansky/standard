@@ -1,0 +1,22 @@
+---
+  id: "1046"
+  word: "recept"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "recept"
+      acc: "recept"
+      gen: "recepta"
+      loc: "receptu"
+      dat: "receptu"
+      ins: "receptom"
+      voc: "recepte"
+    plural: 
+      nom: "recepty"
+      acc: "recepty"
+      gen: "receptov"
+      loc: "receptah"
+      dat: "receptam"
+      ins: "receptami"
+      voc: "recepty"

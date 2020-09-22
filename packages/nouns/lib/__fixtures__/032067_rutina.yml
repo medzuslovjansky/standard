@@ -1,0 +1,22 @@
+---
+  id: "32067"
+  word: "rutina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rutina"
+      acc: "rutinų"
+      gen: "rutiny"
+      loc: "rutině"
+      dat: "rutině"
+      ins: "rutinojų"
+      voc: "rutino"
+    plural: 
+      nom: "rutiny"
+      acc: "rutiny"
+      gen: "rutin"
+      loc: "rutinah"
+      dat: "rutinam"
+      ins: "rutinami"
+      voc: "rutiny"

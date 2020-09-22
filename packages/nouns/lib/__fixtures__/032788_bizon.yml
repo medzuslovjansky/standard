@@ -1,0 +1,23 @@
+---
+  id: "32788"
+  word: "bizon"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bizon"
+      acc: "bizona"
+      gen: "bizona"
+      loc: "bizonu"
+      dat: "bizonu"
+      ins: "bizonom"
+      voc: "bizone"
+    plural: 
+      nom: "bizoni"
+      acc: "bizonov"
+      gen: "bizonov"
+      loc: "bizonah"
+      dat: "bizonam"
+      ins: "bizonami"
+      voc: "bizoni"

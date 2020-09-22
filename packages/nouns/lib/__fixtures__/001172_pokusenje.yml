@@ -1,0 +1,22 @@
+---
+  id: "1172"
+  word: "pokušeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pokušeńje"
+      acc: "pokušeńje"
+      gen: "pokušeńja"
+      loc: "pokušeńju"
+      dat: "pokušeńju"
+      ins: "pokušeńjem"
+      voc: "pokušeńje"
+    plural: 
+      nom: "pokušeńja"
+      acc: "pokušeńja"
+      gen: "pokušenij"
+      loc: "pokušeńjah"
+      dat: "pokušeńjam"
+      ins: "pokušeńjami"
+      voc: "pokušeńja"

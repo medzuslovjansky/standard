@@ -1,0 +1,23 @@
+---
+  id: "16905"
+  word: "ekstremist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ekstremist"
+      acc: "ekstremista"
+      gen: "ekstremista"
+      loc: "ekstremistu"
+      dat: "ekstremistu"
+      ins: "ekstremistom"
+      voc: "ekstremiste"
+    plural: 
+      nom: "ekstremisti"
+      acc: "ekstremistov"
+      gen: "ekstremistov"
+      loc: "ekstremistah"
+      dat: "ekstremistam"
+      ins: "ekstremistami"
+      voc: "ekstremisti"

@@ -1,0 +1,22 @@
+---
+  id: "18465"
+  word: "pridatȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pridatȯk"
+      acc: "pridatȯk"
+      gen: "pridatka"
+      loc: "pridatku"
+      dat: "pridatku"
+      ins: "pridatkom"
+      voc: "pridatče"
+    plural: 
+      nom: "pridatky"
+      acc: "pridatky"
+      gen: "pridatkov"
+      loc: "pridatkah"
+      dat: "pridatkam"
+      ins: "pridatkami"
+      voc: "pridatky"

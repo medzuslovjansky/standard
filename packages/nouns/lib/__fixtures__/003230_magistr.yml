@@ -1,0 +1,23 @@
+---
+  id: "3230"
+  word: "magistr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "magistr"
+      acc: "magistra"
+      gen: "magistra"
+      loc: "magistru"
+      dat: "magistru"
+      ins: "magistrom"
+      voc: "magistre"
+    plural: 
+      nom: "magistri"
+      acc: "magistrov"
+      gen: "magistrov"
+      loc: "magistrah"
+      dat: "magistram"
+      ins: "magistrami"
+      voc: "magistri"

@@ -1,0 +1,22 @@
+---
+  id: "17851"
+  word: "nahodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nahodnosť"
+      acc: "nahodnosť"
+      gen: "nahodnosti"
+      loc: "nahodnosti"
+      dat: "nahodnosti"
+      ins: "nahodnosťjų"
+      voc: "nahodnosti"
+    plural: 
+      nom: "nahodnosti"
+      acc: "nahodnosti"
+      gen: "nahodnostij"
+      loc: "nahodnosťah"
+      dat: "nahodnosťam"
+      ins: "nahodnosťami"
+      voc: "nahodnosti"

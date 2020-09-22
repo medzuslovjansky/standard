@@ -1,0 +1,15 @@
+---
+  id: "3052"
+  word: "Japonija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Japonija"
+      acc: "Japonijų"
+      gen: "Japonije"
+      loc: "Japoniji"
+      dat: "Japoniji"
+      ins: "Japonijejų"
+      voc: "Japonijo"

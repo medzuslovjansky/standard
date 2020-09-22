@@ -1,0 +1,22 @@
+---
+  id: "23674"
+  word: "elektrokucija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "elektrokucija"
+      acc: "elektrokucijų"
+      gen: "elektrokucije"
+      loc: "elektrokuciji"
+      dat: "elektrokuciji"
+      ins: "elektrokucijejų"
+      voc: "elektrokucijo"
+    plural: 
+      nom: "elektrokucije"
+      acc: "elektrokucije"
+      gen: "elektrokucij"
+      loc: "elektrokucijah"
+      dat: "elektrokucijam"
+      ins: "elektrokucijami"
+      voc: "elektrokucije"

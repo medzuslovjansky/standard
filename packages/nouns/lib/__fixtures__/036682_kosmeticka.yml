@@ -1,0 +1,22 @@
+---
+  id: "36682"
+  word: "kosmetička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kosmetička"
+      acc: "kosmetičkų"
+      gen: "kosmetičky"
+      loc: "kosmetičkě"
+      dat: "kosmetičkě"
+      ins: "kosmetičkojų"
+      voc: "kosmetičko"
+    plural: 
+      nom: "kosmetičky"
+      acc: "kosmetičky"
+      gen: "kosmetiček"
+      loc: "kosmetičkah"
+      dat: "kosmetičkam"
+      ins: "kosmetičkami"
+      voc: "kosmetičky"

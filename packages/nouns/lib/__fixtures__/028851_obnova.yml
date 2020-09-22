@@ -1,0 +1,22 @@
+---
+  id: "28851"
+  word: "obnova"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obnova"
+      acc: "obnovų"
+      gen: "obnovy"
+      loc: "obnově"
+      dat: "obnově"
+      ins: "obnovojų"
+      voc: "obnovo"
+    plural: 
+      nom: "obnovy"
+      acc: "obnovy"
+      gen: "obnov"
+      loc: "obnovah"
+      dat: "obnovam"
+      ins: "obnovami"
+      voc: "obnovy"

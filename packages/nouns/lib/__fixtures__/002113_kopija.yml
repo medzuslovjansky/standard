@@ -1,0 +1,22 @@
+---
+  id: "2113"
+  word: "kopija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kopija"
+      acc: "kopijų"
+      gen: "kopije"
+      loc: "kopiji"
+      dat: "kopiji"
+      ins: "kopijejų"
+      voc: "kopijo"
+    plural: 
+      nom: "kopije"
+      acc: "kopije"
+      gen: "kopij"
+      loc: "kopijah"
+      dat: "kopijam"
+      ins: "kopijami"
+      voc: "kopije"

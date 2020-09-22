@@ -1,0 +1,22 @@
+---
+  id: "3577"
+  word: "zemjetręseńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zemjetręseńje"
+      acc: "zemjetręseńje"
+      gen: "zemjetręseńja"
+      loc: "zemjetręseńju"
+      dat: "zemjetręseńju"
+      ins: "zemjetręseńjem"
+      voc: "zemjetręseńje"
+    plural: 
+      nom: "zemjetręseńja"
+      acc: "zemjetręseńja"
+      gen: "zemjetręsenij"
+      loc: "zemjetręseńjah"
+      dat: "zemjetręseńjam"
+      ins: "zemjetręseńjami"
+      voc: "zemjetręseńja"

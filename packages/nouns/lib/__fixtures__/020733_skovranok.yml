@@ -1,0 +1,23 @@
+---
+  id: "20733"
+  word: "skovrånȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skovrånȯk"
+      acc: "skovrånka"
+      gen: "skovrånka"
+      loc: "skovrånku"
+      dat: "skovrånku"
+      ins: "skovrånkom"
+      voc: "skovrånče"
+    plural: 
+      nom: "skovrånki"
+      acc: "skovrånkov"
+      gen: "skovrånkov"
+      loc: "skovrånkah"
+      dat: "skovrånkam"
+      ins: "skovrånkami"
+      voc: "skovrånki"

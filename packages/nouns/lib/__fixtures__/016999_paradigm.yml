@@ -1,0 +1,22 @@
+---
+  id: "16999"
+  word: "paradigm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "paradigm"
+      acc: "paradigm"
+      gen: "paradigma"
+      loc: "paradigmu"
+      dat: "paradigmu"
+      ins: "paradigmom"
+      voc: "paradigme"
+    plural: 
+      nom: "paradigmy"
+      acc: "paradigmy"
+      gen: "paradigmov"
+      loc: "paradigmah"
+      dat: "paradigmam"
+      ins: "paradigmami"
+      voc: "paradigmy"

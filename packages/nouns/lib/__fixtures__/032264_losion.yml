@@ -1,0 +1,22 @@
+---
+  id: "32264"
+  word: "losion"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "losion"
+      acc: "losion"
+      gen: "losiona"
+      loc: "losionu"
+      dat: "losionu"
+      ins: "losionom"
+      voc: "losione"
+    plural: 
+      nom: "losiony"
+      acc: "losiony"
+      gen: "losionov"
+      loc: "losionah"
+      dat: "losionam"
+      ins: "losionami"
+      voc: "losiony"

@@ -1,0 +1,22 @@
+---
+  id: "18276"
+  word: "poglåvȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "poglåvȯk"
+      acc: "poglåvȯk"
+      gen: "poglåvka"
+      loc: "poglåvku"
+      dat: "poglåvku"
+      ins: "poglåvkom"
+      voc: "poglåvče"
+    plural: 
+      nom: "poglåvky"
+      acc: "poglåvky"
+      gen: "poglåvkov"
+      loc: "poglåvkah"
+      dat: "poglåvkam"
+      ins: "poglåvkami"
+      voc: "poglåvky"

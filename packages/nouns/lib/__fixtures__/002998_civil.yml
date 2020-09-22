@@ -1,0 +1,23 @@
+---
+  id: "2998"
+  word: "civil"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "civil"
+      acc: "civila"
+      gen: "civila"
+      loc: "civilu"
+      dat: "civilu"
+      ins: "civilom"
+      voc: "civile"
+    plural: 
+      nom: "civili"
+      acc: "civilov"
+      gen: "civilov"
+      loc: "civilah"
+      dat: "civilam"
+      ins: "civilami"
+      voc: "civili"

@@ -1,0 +1,22 @@
+---
+  id: "17284"
+  word: "dohod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dohod"
+      acc: "dohod"
+      gen: "dohoda"
+      loc: "dohodu"
+      dat: "dohodu"
+      ins: "dohodom"
+      voc: "dohode"
+    plural: 
+      nom: "dohody"
+      acc: "dohody"
+      gen: "dohodov"
+      loc: "dohodah"
+      dat: "dohodam"
+      ins: "dohodami"
+      voc: "dohody"

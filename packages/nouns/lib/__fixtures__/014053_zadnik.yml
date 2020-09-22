@@ -1,0 +1,23 @@
+---
+  id: "14053"
+  word: "zadnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zadnik"
+      acc: "zadnika"
+      gen: "zadnika"
+      loc: "zadniku"
+      dat: "zadniku"
+      ins: "zadnikom"
+      voc: "zadniče"
+    plural: 
+      nom: "zadniki"
+      acc: "zadnikov"
+      gen: "zadnikov"
+      loc: "zadnikah"
+      dat: "zadnikam"
+      ins: "zadnikami"
+      voc: "zadniki"

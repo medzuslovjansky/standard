@@ -1,0 +1,15 @@
+---
+  id: "35423"
+  word: "okuljary"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "okuljary"
+      acc: "okuljary"
+      gen: "okuljarov"
+      loc: "okuljarah"
+      dat: "okuljaram"
+      ins: "okuljarami"
+      voc: "okuljary"

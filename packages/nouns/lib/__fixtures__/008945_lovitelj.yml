@@ -1,0 +1,23 @@
+---
+  id: "8945"
+  word: "lovitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lovitelj"
+      acc: "lovitelja"
+      gen: "lovitelja"
+      loc: "lovitelju"
+      dat: "lovitelju"
+      ins: "loviteljem"
+      voc: "lovitelju"
+    plural: 
+      nom: "lovitelji"
+      acc: "loviteljev"
+      gen: "loviteljev"
+      loc: "loviteljah"
+      dat: "loviteljam"
+      ins: "loviteljami"
+      voc: "lovitelji"

@@ -1,0 +1,23 @@
+---
+  id: "24005"
+  word: "svekr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svekr"
+      acc: "svekra"
+      gen: "svekra"
+      loc: "svekru"
+      dat: "svekru"
+      ins: "svekrom"
+      voc: "svekre"
+    plural: 
+      nom: "svekri"
+      acc: "svekrov"
+      gen: "svekrov"
+      loc: "svekrah"
+      dat: "svekram"
+      ins: "svekrami"
+      voc: "svekri"

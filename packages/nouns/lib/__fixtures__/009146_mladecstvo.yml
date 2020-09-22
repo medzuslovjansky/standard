@@ -1,0 +1,15 @@
+---
+  id: "9146"
+  word: "mlådečstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mlådečstvo"
+      acc: "mlådečstvo"
+      gen: "mlådečstva"
+      loc: "mlådečstvu"
+      dat: "mlådečstvu"
+      ins: "mlådečstvom"
+      voc: "mlådečstvo"

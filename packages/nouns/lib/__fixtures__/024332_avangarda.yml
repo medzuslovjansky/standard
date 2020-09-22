@@ -1,0 +1,22 @@
+---
+  id: "24332"
+  word: "avangarda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avangarda"
+      acc: "avangardų"
+      gen: "avangardy"
+      loc: "avangardě"
+      dat: "avangardě"
+      ins: "avangardojų"
+      voc: "avangardo"
+    plural: 
+      nom: "avangardy"
+      acc: "avangardy"
+      gen: "avangard"
+      loc: "avangardah"
+      dat: "avangardam"
+      ins: "avangardami"
+      voc: "avangardy"

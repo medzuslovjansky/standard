@@ -1,0 +1,22 @@
+---
+  id: "822"
+  word: "konflikt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konflikt"
+      acc: "konflikt"
+      gen: "konflikta"
+      loc: "konfliktu"
+      dat: "konfliktu"
+      ins: "konfliktom"
+      voc: "konflikte"
+    plural: 
+      nom: "konflikty"
+      acc: "konflikty"
+      gen: "konfliktov"
+      loc: "konfliktah"
+      dat: "konfliktam"
+      ins: "konfliktami"
+      voc: "konflikty"

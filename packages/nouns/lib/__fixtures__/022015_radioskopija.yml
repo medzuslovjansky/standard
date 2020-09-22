@@ -1,0 +1,22 @@
+---
+  id: "22015"
+  word: "radioskopija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "radioskopija"
+      acc: "radioskopijų"
+      gen: "radioskopije"
+      loc: "radioskopiji"
+      dat: "radioskopiji"
+      ins: "radioskopijejų"
+      voc: "radioskopijo"
+    plural: 
+      nom: "radioskopije"
+      acc: "radioskopije"
+      gen: "radioskopij"
+      loc: "radioskopijah"
+      dat: "radioskopijam"
+      ins: "radioskopijami"
+      voc: "radioskopije"

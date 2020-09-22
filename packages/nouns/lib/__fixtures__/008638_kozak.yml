@@ -1,0 +1,23 @@
+---
+  id: "8638"
+  word: "kozak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kozak"
+      acc: "kozaka"
+      gen: "kozaka"
+      loc: "kozaku"
+      dat: "kozaku"
+      ins: "kozakom"
+      voc: "kozače"
+    plural: 
+      nom: "kozaki"
+      acc: "kozakov"
+      gen: "kozakov"
+      loc: "kozakah"
+      dat: "kozakam"
+      ins: "kozakami"
+      voc: "kozaki"

@@ -1,0 +1,22 @@
+---
+  id: "14509"
+  word: "danȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "danȯk"
+      acc: "danȯk"
+      gen: "danka"
+      loc: "danku"
+      dat: "danku"
+      ins: "dankom"
+      voc: "danče"
+    plural: 
+      nom: "danky"
+      acc: "danky"
+      gen: "dankov"
+      loc: "dankah"
+      dat: "dankam"
+      ins: "dankami"
+      voc: "danky"

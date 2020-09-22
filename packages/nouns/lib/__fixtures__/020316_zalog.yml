@@ -1,0 +1,22 @@
+---
+  id: "20316"
+  word: "zalog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zalog"
+      acc: "zalog"
+      gen: "zaloga"
+      loc: "zalogu"
+      dat: "zalogu"
+      ins: "zalogom"
+      voc: "založe"
+    plural: 
+      nom: "zalogy"
+      acc: "zalogy"
+      gen: "zalogov"
+      loc: "zalogah"
+      dat: "zalogam"
+      ins: "zalogami"
+      voc: "zalogy"

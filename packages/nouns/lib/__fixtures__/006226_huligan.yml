@@ -1,0 +1,23 @@
+---
+  id: "6226"
+  word: "huligan"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "huligan"
+      acc: "huligana"
+      gen: "huligana"
+      loc: "huliganu"
+      dat: "huliganu"
+      ins: "huliganom"
+      voc: "huligane"
+    plural: 
+      nom: "huligani"
+      acc: "huliganov"
+      gen: "huliganov"
+      loc: "huliganah"
+      dat: "huliganam"
+      ins: "huliganami"
+      voc: "huligani"

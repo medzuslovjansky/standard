@@ -1,0 +1,23 @@
+---
+  id: "23253"
+  word: "portier"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "portier"
+      acc: "portiera"
+      gen: "portiera"
+      loc: "portieru"
+      dat: "portieru"
+      ins: "portierom"
+      voc: "portiere"
+    plural: 
+      nom: "portieri"
+      acc: "portierov"
+      gen: "portierov"
+      loc: "portierah"
+      dat: "portieram"
+      ins: "portierami"
+      voc: "portieri"

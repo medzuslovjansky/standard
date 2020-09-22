@@ -1,0 +1,22 @@
+---
+  id: "25603"
+  word: "generacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "generacija"
+      acc: "generacijų"
+      gen: "generacije"
+      loc: "generaciji"
+      dat: "generaciji"
+      ins: "generacijejų"
+      voc: "generacijo"
+    plural: 
+      nom: "generacije"
+      acc: "generacije"
+      gen: "generacij"
+      loc: "generacijah"
+      dat: "generacijam"
+      ins: "generacijami"
+      voc: "generacije"

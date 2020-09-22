@@ -1,0 +1,22 @@
+---
+  id: "35405"
+  word: "skandal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skandal"
+      acc: "skandal"
+      gen: "skandala"
+      loc: "skandalu"
+      dat: "skandalu"
+      ins: "skandalom"
+      voc: "skandale"
+    plural: 
+      nom: "skandaly"
+      acc: "skandaly"
+      gen: "skandalov"
+      loc: "skandalah"
+      dat: "skandalam"
+      ins: "skandalami"
+      voc: "skandaly"

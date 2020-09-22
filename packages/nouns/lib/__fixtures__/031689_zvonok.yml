@@ -1,0 +1,22 @@
+---
+  id: "31689"
+  word: "zvonȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvonȯk"
+      acc: "zvonȯk"
+      gen: "zvonka"
+      loc: "zvonku"
+      dat: "zvonku"
+      ins: "zvonkom"
+      voc: "zvonče"
+    plural: 
+      nom: "zvonky"
+      acc: "zvonky"
+      gen: "zvonkov"
+      loc: "zvonkah"
+      dat: "zvonkam"
+      ins: "zvonkami"
+      voc: "zvonky"

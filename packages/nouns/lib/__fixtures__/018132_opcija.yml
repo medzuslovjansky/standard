@@ -1,0 +1,22 @@
+---
+  id: "18132"
+  word: "opcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "opcija"
+      acc: "opcijų"
+      gen: "opcije"
+      loc: "opciji"
+      dat: "opciji"
+      ins: "opcijejų"
+      voc: "opcijo"
+    plural: 
+      nom: "opcije"
+      acc: "opcije"
+      gen: "opcij"
+      loc: "opcijah"
+      dat: "opcijam"
+      ins: "opcijami"
+      voc: "opcije"

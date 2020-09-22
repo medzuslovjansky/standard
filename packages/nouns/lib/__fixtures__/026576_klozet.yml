@@ -1,0 +1,22 @@
+---
+  id: "26576"
+  word: "klozet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "klozet"
+      acc: "klozet"
+      gen: "klozeta"
+      loc: "klozetu"
+      dat: "klozetu"
+      ins: "klozetom"
+      voc: "klozete"
+    plural: 
+      nom: "klozety"
+      acc: "klozety"
+      gen: "klozetov"
+      loc: "klozetah"
+      dat: "klozetam"
+      ins: "klozetami"
+      voc: "klozety"

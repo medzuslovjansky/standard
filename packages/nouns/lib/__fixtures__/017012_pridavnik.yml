@@ -1,0 +1,22 @@
+---
+  id: "17012"
+  word: "pridavnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pridavnik"
+      acc: "pridavnik"
+      gen: "pridavnika"
+      loc: "pridavniku"
+      dat: "pridavniku"
+      ins: "pridavnikom"
+      voc: "pridavniče"
+    plural: 
+      nom: "pridavniky"
+      acc: "pridavniky"
+      gen: "pridavnikov"
+      loc: "pridavnikah"
+      dat: "pridavnikam"
+      ins: "pridavnikami"
+      voc: "pridavniky"

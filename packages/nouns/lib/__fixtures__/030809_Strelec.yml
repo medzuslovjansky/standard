@@ -1,0 +1,23 @@
+---
+  id: "30809"
+  word: "Strělec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Strělec"
+      acc: "Strělca"
+      gen: "Strělca"
+      loc: "Strělcu"
+      dat: "Strělcu"
+      ins: "Strělcem"
+      voc: "Strělče"
+    plural: 
+      nom: "Strělci"
+      acc: "Strělcev"
+      gen: "Strělcev"
+      loc: "Strělcah"
+      dat: "Strělcam"
+      ins: "Strělcami"
+      voc: "Strělci"

@@ -1,0 +1,22 @@
+---
+  id: "36608"
+  word: "nutrija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nutrija"
+      acc: "nutrijų"
+      gen: "nutrije"
+      loc: "nutriji"
+      dat: "nutriji"
+      ins: "nutrijejų"
+      voc: "nutrijo"
+    plural: 
+      nom: "nutrije"
+      acc: "nutrije"
+      gen: "nutrij"
+      loc: "nutrijah"
+      dat: "nutrijam"
+      ins: "nutrijami"
+      voc: "nutrije"

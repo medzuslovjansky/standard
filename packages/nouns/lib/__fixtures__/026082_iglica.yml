@@ -1,0 +1,22 @@
+---
+  id: "26082"
+  word: "iglica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "iglica"
+      acc: "iglicų"
+      gen: "iglice"
+      loc: "iglici"
+      dat: "iglici"
+      ins: "iglicejų"
+      voc: "iglico"
+    plural: 
+      nom: "iglice"
+      acc: "iglice"
+      gen: "iglic"
+      loc: "iglicah"
+      dat: "iglicam"
+      ins: "iglicami"
+      voc: "iglice"

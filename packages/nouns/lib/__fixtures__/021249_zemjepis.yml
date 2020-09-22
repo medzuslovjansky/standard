@@ -1,0 +1,22 @@
+---
+  id: "21249"
+  word: "zemjepis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zemjepis"
+      acc: "zemjepis"
+      gen: "zemjepisa"
+      loc: "zemjepisu"
+      dat: "zemjepisu"
+      ins: "zemjepisom"
+      voc: "zemjepise"
+    plural: 
+      nom: "zemjepisy"
+      acc: "zemjepisy"
+      gen: "zemjepisov"
+      loc: "zemjepisah"
+      dat: "zemjepisam"
+      ins: "zemjepisami"
+      voc: "zemjepisy"

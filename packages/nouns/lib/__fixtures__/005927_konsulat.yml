@@ -1,0 +1,22 @@
+---
+  id: "5927"
+  word: "konsulat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "konsulat"
+      acc: "konsulat"
+      gen: "konsulata"
+      loc: "konsulatu"
+      dat: "konsulatu"
+      ins: "konsulatom"
+      voc: "konsulate"
+    plural: 
+      nom: "konsulaty"
+      acc: "konsulaty"
+      gen: "konsulatov"
+      loc: "konsulatah"
+      dat: "konsulatam"
+      ins: "konsulatami"
+      voc: "konsulaty"

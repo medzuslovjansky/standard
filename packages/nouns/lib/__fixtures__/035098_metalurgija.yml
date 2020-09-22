@@ -1,0 +1,15 @@
+---
+  id: "35098"
+  word: "metalurgija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "metalurgija"
+      acc: "metalurgijų"
+      gen: "metalurgije"
+      loc: "metalurgiji"
+      dat: "metalurgiji"
+      ins: "metalurgijejų"
+      voc: "metalurgijo"

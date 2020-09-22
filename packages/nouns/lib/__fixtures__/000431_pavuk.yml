@@ -1,0 +1,23 @@
+---
+  id: "431"
+  word: "pavųk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pavųk"
+      acc: "pavųka"
+      gen: "pavųka"
+      loc: "pavųku"
+      dat: "pavųku"
+      ins: "pavųkom"
+      voc: "pavųče"
+    plural: 
+      nom: "pavųki"
+      acc: "pavųkov"
+      gen: "pavųkov"
+      loc: "pavųkah"
+      dat: "pavųkam"
+      ins: "pavųkami"
+      voc: "pavųki"

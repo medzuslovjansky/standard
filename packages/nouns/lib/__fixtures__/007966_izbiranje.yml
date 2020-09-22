@@ -1,0 +1,15 @@
+---
+  id: "7966"
+  word: "izbirańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izbirańje"
+      acc: "izbirańje"
+      gen: "izbirańja"
+      loc: "izbirańju"
+      dat: "izbirańju"
+      ins: "izbirańjem"
+      voc: "izbirańje"

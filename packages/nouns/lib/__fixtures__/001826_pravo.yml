@@ -1,0 +1,22 @@
+---
+  id: "1826"
+  word: "pravo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pravo"
+      acc: "pravo"
+      gen: "prava"
+      loc: "pravu"
+      dat: "pravu"
+      ins: "pravom"
+      voc: "pravo"
+    plural: 
+      nom: "prava"
+      acc: "prava"
+      gen: "prav"
+      loc: "pravah"
+      dat: "pravam"
+      ins: "pravami"
+      voc: "prava"

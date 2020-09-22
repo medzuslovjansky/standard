@@ -1,0 +1,23 @@
+---
+  id: "7784"
+  word: "hoditelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hoditelj"
+      acc: "hoditelja"
+      gen: "hoditelja"
+      loc: "hoditelju"
+      dat: "hoditelju"
+      ins: "hoditeljem"
+      voc: "hoditelju"
+    plural: 
+      nom: "hoditelji"
+      acc: "hoditeljev"
+      gen: "hoditeljev"
+      loc: "hoditeljah"
+      dat: "hoditeljam"
+      ins: "hoditeljami"
+      voc: "hoditelji"

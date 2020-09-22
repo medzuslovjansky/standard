@@ -1,0 +1,22 @@
+---
+  id: "2582"
+  word: "homųt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "homųt"
+      acc: "homųt"
+      gen: "homųta"
+      loc: "homųtu"
+      dat: "homųtu"
+      ins: "homųtom"
+      voc: "homųte"
+    plural: 
+      nom: "homųty"
+      acc: "homųty"
+      gen: "homųtov"
+      loc: "homųtah"
+      dat: "homųtam"
+      ins: "homųtami"
+      voc: "homųty"

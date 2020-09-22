@@ -1,0 +1,22 @@
+---
+  id: "36283"
+  word: "afrodiziak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "afrodiziak"
+      acc: "afrodiziak"
+      gen: "afrodiziaka"
+      loc: "afrodiziaku"
+      dat: "afrodiziaku"
+      ins: "afrodiziakom"
+      voc: "afrodiziače"
+    plural: 
+      nom: "afrodiziaky"
+      acc: "afrodiziaky"
+      gen: "afrodiziakov"
+      loc: "afrodiziakah"
+      dat: "afrodiziakam"
+      ins: "afrodiziakami"
+      voc: "afrodiziaky"

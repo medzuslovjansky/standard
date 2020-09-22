@@ -1,0 +1,22 @@
+---
+  id: "917"
+  word: "mněńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mněńje"
+      acc: "mněńje"
+      gen: "mněńja"
+      loc: "mněńju"
+      dat: "mněńju"
+      ins: "mněńjem"
+      voc: "mněńje"
+    plural: 
+      nom: "mněńja"
+      acc: "mněńja"
+      gen: "mněnij"
+      loc: "mněńjah"
+      dat: "mněńjam"
+      ins: "mněńjami"
+      voc: "mněńja"

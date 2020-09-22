@@ -1,0 +1,22 @@
+---
+  id: "5812"
+  word: "izględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izględ"
+      acc: "izględ"
+      gen: "izględa"
+      loc: "izględu"
+      dat: "izględu"
+      ins: "izględom"
+      voc: "izględe"
+    plural: 
+      nom: "izględy"
+      acc: "izględy"
+      gen: "izględov"
+      loc: "izględah"
+      dat: "izględam"
+      ins: "izględami"
+      voc: "izględy"

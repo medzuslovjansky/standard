@@ -1,0 +1,22 @@
+---
+  id: "2255"
+  word: "zemja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zemja"
+      acc: "zemjų"
+      gen: "zemje"
+      loc: "zemji"
+      dat: "zemji"
+      ins: "zemjejų"
+      voc: "zemjo"
+    plural: 
+      nom: "zemje"
+      acc: "zemje"
+      gen: "zemej"
+      loc: "zemjah"
+      dat: "zemjam"
+      ins: "zemjami"
+      voc: "zemje"

@@ -1,0 +1,22 @@
+---
+  id: "35002"
+  word: "zator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zator"
+      acc: "zator"
+      gen: "zatora"
+      loc: "zatoru"
+      dat: "zatoru"
+      ins: "zatorom"
+      voc: "zatore"
+    plural: 
+      nom: "zatory"
+      acc: "zatory"
+      gen: "zatorov"
+      loc: "zatorah"
+      dat: "zatoram"
+      ins: "zatorami"
+      voc: "zatory"

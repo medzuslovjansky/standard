@@ -1,0 +1,22 @@
+---
+  id: "16413"
+  word: "děvčę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "děvčę"
+      acc: "děvčę"
+      gen: "děvčęte / děvčęta"
+      loc: "děvčęti / děvčętu"
+      dat: "děvčęti / děvčętu"
+      ins: "děvčętem / děvčętom"
+      voc: "děvčę"
+    plural: 
+      nom: "děvčęta"
+      acc: "děvčęta"
+      gen: "děvčęt"
+      loc: "děvčętah"
+      dat: "děvčętam"
+      ins: "děvčętami"
+      voc: "děvčęta"

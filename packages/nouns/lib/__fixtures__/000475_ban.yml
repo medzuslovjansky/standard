@@ -1,0 +1,22 @@
+---
+  id: "475"
+  word: "đban"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "đban"
+      acc: "đban"
+      gen: "đbana"
+      loc: "đbanu"
+      dat: "đbanu"
+      ins: "đbanom"
+      voc: "đbane"
+    plural: 
+      nom: "đbany"
+      acc: "đbany"
+      gen: "đbanov"
+      loc: "đbanah"
+      dat: "đbanam"
+      ins: "đbanami"
+      voc: "đbany"

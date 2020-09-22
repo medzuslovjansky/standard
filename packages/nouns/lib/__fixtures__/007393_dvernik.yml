@@ -1,0 +1,23 @@
+---
+  id: "7393"
+  word: "dveŕnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dveŕnik"
+      acc: "dveŕnika"
+      gen: "dveŕnika"
+      loc: "dveŕniku"
+      dat: "dveŕniku"
+      ins: "dveŕnikom"
+      voc: "dveŕniče"
+    plural: 
+      nom: "dveŕniki"
+      acc: "dveŕnikov"
+      gen: "dveŕnikov"
+      loc: "dveŕnikah"
+      dat: "dveŕnikam"
+      ins: "dveŕnikami"
+      voc: "dveŕniki"

@@ -1,0 +1,22 @@
+---
+  id: "4863"
+  word: "mehanika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mehanika"
+      acc: "mehanikų"
+      gen: "mehaniky"
+      loc: "mehanikě"
+      dat: "mehanikě"
+      ins: "mehanikojų"
+      voc: "mehaniko"
+    plural: 
+      nom: "mehaniky"
+      acc: "mehaniky"
+      gen: "mehanik"
+      loc: "mehanikah"
+      dat: "mehanikam"
+      ins: "mehanikami"
+      voc: "mehaniky"

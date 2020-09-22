@@ -1,0 +1,15 @@
+---
+  id: "23567"
+  word: "kuhaŕstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kuhaŕstvo"
+      acc: "kuhaŕstvo"
+      gen: "kuhaŕstva"
+      loc: "kuhaŕstvu"
+      dat: "kuhaŕstvu"
+      ins: "kuhaŕstvom"
+      voc: "kuhaŕstvo"

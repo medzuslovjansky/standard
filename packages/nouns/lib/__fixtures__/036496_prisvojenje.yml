@@ -1,0 +1,15 @@
+---
+  id: "36496"
+  word: "prisvojeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "prisvojeńje"
+      acc: "prisvojeńje"
+      gen: "prisvojeńja"
+      loc: "prisvojeńju"
+      dat: "prisvojeńju"
+      ins: "prisvojeńjem"
+      voc: "prisvojeńje"

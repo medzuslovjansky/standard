@@ -1,0 +1,22 @@
+---
+  id: "2428"
+  word: "krest"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "krest"
+      acc: "krest"
+      gen: "kresta"
+      loc: "krestu"
+      dat: "krestu"
+      ins: "krestom"
+      voc: "kreste"
+    plural: 
+      nom: "kresty"
+      acc: "kresty"
+      gen: "krestov"
+      loc: "krestah"
+      dat: "krestam"
+      ins: "krestami"
+      voc: "kresty"

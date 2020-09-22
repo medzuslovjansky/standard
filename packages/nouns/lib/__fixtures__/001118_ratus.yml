@@ -1,0 +1,22 @@
+---
+  id: "1118"
+  word: "ratuš"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ratuš"
+      acc: "ratuš"
+      gen: "ratuša"
+      loc: "ratušu"
+      dat: "ratušu"
+      ins: "ratušem"
+      voc: "ratušu"
+    plural: 
+      nom: "ratuše"
+      acc: "ratuše"
+      gen: "ratušev"
+      loc: "ratušah"
+      dat: "ratušam"
+      ins: "ratušami"
+      voc: "ratuše"

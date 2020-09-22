@@ -1,0 +1,22 @@
+---
+  id: "10750"
+  word: "podpiska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "podpiska"
+      acc: "podpiskų"
+      gen: "podpisky"
+      loc: "podpiskě"
+      dat: "podpiskě"
+      ins: "podpiskojų"
+      voc: "podpisko"
+    plural: 
+      nom: "podpisky"
+      acc: "podpisky"
+      gen: "podpisȯk"
+      loc: "podpiskah"
+      dat: "podpiskam"
+      ins: "podpiskami"
+      voc: "podpisky"

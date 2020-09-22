@@ -1,0 +1,15 @@
+---
+  id: "35563"
+  word: "izstavjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izstavjeńje"
+      acc: "izstavjeńje"
+      gen: "izstavjeńja"
+      loc: "izstavjeńju"
+      dat: "izstavjeńju"
+      ins: "izstavjeńjem"
+      voc: "izstavjeńje"

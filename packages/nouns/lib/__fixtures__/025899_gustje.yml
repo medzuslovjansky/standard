@@ -1,0 +1,22 @@
+---
+  id: "25899"
+  word: "gųsťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gųsťje"
+      acc: "gųsťje"
+      gen: "gųsťja"
+      loc: "gųsťju"
+      dat: "gųsťju"
+      ins: "gųsťjem"
+      voc: "gųsťje"
+    plural: 
+      nom: "gųsťja"
+      acc: "gųsťja"
+      gen: "gųstij"
+      loc: "gųsťjah"
+      dat: "gųsťjam"
+      ins: "gųsťjami"
+      voc: "gųsťja"

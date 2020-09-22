@@ -1,0 +1,22 @@
+---
+  id: "36112"
+  word: "dresura"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dresura"
+      acc: "dresurų"
+      gen: "dresury"
+      loc: "dresurě"
+      dat: "dresurě"
+      ins: "dresurojų"
+      voc: "dresuro"
+    plural: 
+      nom: "dresury"
+      acc: "dresury"
+      gen: "dresur"
+      loc: "dresurah"
+      dat: "dresuram"
+      ins: "dresurami"
+      voc: "dresury"

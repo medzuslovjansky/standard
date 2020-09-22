@@ -1,0 +1,22 @@
+---
+  id: "27032"
+  word: "laj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "laj"
+      acc: "laj"
+      gen: "laja"
+      loc: "laju"
+      dat: "laju"
+      ins: "lajem"
+      voc: "laju"
+    plural: 
+      nom: "laje"
+      acc: "laje"
+      gen: "lajev"
+      loc: "lajah"
+      dat: "lajam"
+      ins: "lajami"
+      voc: "laje"

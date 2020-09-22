@@ -1,0 +1,22 @@
+---
+  id: "30787"
+  word: "statut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "statut"
+      acc: "statut"
+      gen: "statuta"
+      loc: "statutu"
+      dat: "statutu"
+      ins: "statutom"
+      voc: "statute"
+    plural: 
+      nom: "statuty"
+      acc: "statuty"
+      gen: "statutov"
+      loc: "statutah"
+      dat: "statutam"
+      ins: "statutami"
+      voc: "statuty"

@@ -1,0 +1,22 @@
+---
+  id: "17299"
+  word: "dȯlgodenstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "dȯlgodenstvo"
+      acc: "dȯlgodenstvo"
+      gen: "dȯlgodenstva"
+      loc: "dȯlgodenstvu"
+      dat: "dȯlgodenstvu"
+      ins: "dȯlgodenstvom"
+      voc: "dȯlgodenstvo"
+    plural: 
+      nom: "dȯlgodenstva"
+      acc: "dȯlgodenstva"
+      gen: "dȯlgodenstv"
+      loc: "dȯlgodenstvah"
+      dat: "dȯlgodenstvam"
+      ins: "dȯlgodenstvami"
+      voc: "dȯlgodenstva"

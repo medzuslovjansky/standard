@@ -1,0 +1,22 @@
+---
+  id: "24385"
+  word: "avtomatizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "avtomatizm"
+      acc: "avtomatizm"
+      gen: "avtomatizma"
+      loc: "avtomatizmu"
+      dat: "avtomatizmu"
+      ins: "avtomatizmom"
+      voc: "avtomatizme"
+    plural: 
+      nom: "avtomatizmy"
+      acc: "avtomatizmy"
+      gen: "avtomatizmov"
+      loc: "avtomatizmah"
+      dat: "avtomatizmam"
+      ins: "avtomatizmami"
+      voc: "avtomatizmy"

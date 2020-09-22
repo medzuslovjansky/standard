@@ -1,0 +1,23 @@
+---
+  id: "17157"
+  word: "bogoslovec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bogoslovec"
+      acc: "bogoslovca"
+      gen: "bogoslovca"
+      loc: "bogoslovcu"
+      dat: "bogoslovcu"
+      ins: "bogoslovcem"
+      voc: "bogoslovče"
+    plural: 
+      nom: "bogoslovci"
+      acc: "bogoslovcev"
+      gen: "bogoslovcev"
+      loc: "bogoslovcah"
+      dat: "bogoslovcam"
+      ins: "bogoslovcami"
+      voc: "bogoslovci"

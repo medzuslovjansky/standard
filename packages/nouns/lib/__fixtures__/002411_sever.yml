@@ -1,0 +1,15 @@
+---
+  id: "2411"
+  word: "sěver"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sěver"
+      acc: "sěver"
+      gen: "sěvera"
+      loc: "sěveru"
+      dat: "sěveru"
+      ins: "sěverom"
+      voc: "sěvere"

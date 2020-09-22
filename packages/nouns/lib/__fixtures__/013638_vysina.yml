@@ -1,0 +1,22 @@
+---
+  id: "13638"
+  word: "vyšina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vyšina"
+      acc: "vyšinų"
+      gen: "vyšiny"
+      loc: "vyšině"
+      dat: "vyšině"
+      ins: "vyšinojų"
+      voc: "vyšino"
+    plural: 
+      nom: "vyšiny"
+      acc: "vyšiny"
+      gen: "vyšin"
+      loc: "vyšinah"
+      dat: "vyšinam"
+      ins: "vyšinami"
+      voc: "vyšiny"

@@ -1,0 +1,22 @@
+---
+  id: "21430"
+  word: "poprava"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poprava"
+      acc: "popravų"
+      gen: "popravy"
+      loc: "popravě"
+      dat: "popravě"
+      ins: "popravojų"
+      voc: "popravo"
+    plural: 
+      nom: "popravy"
+      acc: "popravy"
+      gen: "poprav"
+      loc: "popravah"
+      dat: "popravam"
+      ins: "popravami"
+      voc: "popravy"

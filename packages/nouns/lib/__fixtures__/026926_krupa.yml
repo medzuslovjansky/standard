@@ -1,0 +1,22 @@
+---
+  id: "26926"
+  word: "krupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krupa"
+      acc: "krupų"
+      gen: "krupy"
+      loc: "krupě"
+      dat: "krupě"
+      ins: "krupojų"
+      voc: "krupo"
+    plural: 
+      nom: "krupy"
+      acc: "krupy"
+      gen: "krup"
+      loc: "krupah"
+      dat: "krupam"
+      ins: "krupami"
+      voc: "krupy"

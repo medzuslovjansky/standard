@@ -1,0 +1,22 @@
+---
+  id: "10508"
+  word: "pŕvonačęľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pŕvonačęľnosť"
+      acc: "pŕvonačęľnosť"
+      gen: "pŕvonačęľnosti"
+      loc: "pŕvonačęľnosti"
+      dat: "pŕvonačęľnosti"
+      ins: "pŕvonačęľnosťjų"
+      voc: "pŕvonačęľnosti"
+    plural: 
+      nom: "pŕvonačęľnosti"
+      acc: "pŕvonačęľnosti"
+      gen: "pŕvonačęľnostij"
+      loc: "pŕvonačęľnosťah"
+      dat: "pŕvonačęľnosťam"
+      ins: "pŕvonačęľnosťami"
+      voc: "pŕvonačęľnosti"

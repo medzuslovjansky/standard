@@ -1,0 +1,22 @@
+---
+  id: "36603"
+  word: "kolekcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kolekcija"
+      acc: "kolekcijų"
+      gen: "kolekcije"
+      loc: "kolekciji"
+      dat: "kolekciji"
+      ins: "kolekcijejų"
+      voc: "kolekcijo"
+    plural: 
+      nom: "kolekcije"
+      acc: "kolekcije"
+      gen: "kolekcij"
+      loc: "kolekcijah"
+      dat: "kolekcijam"
+      ins: "kolekcijami"
+      voc: "kolekcije"

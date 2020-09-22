@@ -1,0 +1,22 @@
+---
+  id: "35516"
+  word: "zajavjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zajavjeńje"
+      acc: "zajavjeńje"
+      gen: "zajavjeńja"
+      loc: "zajavjeńju"
+      dat: "zajavjeńju"
+      ins: "zajavjeńjem"
+      voc: "zajavjeńje"
+    plural: 
+      nom: "zajavjeńja"
+      acc: "zajavjeńja"
+      gen: "zajavjenij"
+      loc: "zajavjeńjah"
+      dat: "zajavjeńjam"
+      ins: "zajavjeńjami"
+      voc: "zajavjeńja"

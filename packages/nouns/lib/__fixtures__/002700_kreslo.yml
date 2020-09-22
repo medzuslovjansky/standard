@@ -1,0 +1,22 @@
+---
+  id: "2700"
+  word: "krěslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krěslo"
+      acc: "krěslo"
+      gen: "krěsla"
+      loc: "krěslu"
+      dat: "krěslu"
+      ins: "krěslom"
+      voc: "krěslo"
+    plural: 
+      nom: "krěsla"
+      acc: "krěsla"
+      gen: "krěsel"
+      loc: "krěslah"
+      dat: "krěslam"
+      ins: "krěslami"
+      voc: "krěsla"

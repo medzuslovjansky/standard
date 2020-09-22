@@ -1,0 +1,22 @@
+---
+  id: "18407"
+  word: "prědslovje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědslovje"
+      acc: "prědslovje"
+      gen: "prědslovja"
+      loc: "prědslovju"
+      dat: "prědslovju"
+      ins: "prědslovjem"
+      voc: "prědslovje"
+    plural: 
+      nom: "prědslovja"
+      acc: "prědslovja"
+      gen: "prědslovij"
+      loc: "prědslovjah"
+      dat: "prědslovjam"
+      ins: "prědslovjami"
+      voc: "prědslovja"

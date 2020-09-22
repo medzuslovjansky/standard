@@ -1,0 +1,22 @@
+---
+  id: "4966"
+  word: "kalkulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kalkulacija"
+      acc: "kalkulacijų"
+      gen: "kalkulacije"
+      loc: "kalkulaciji"
+      dat: "kalkulaciji"
+      ins: "kalkulacijejų"
+      voc: "kalkulacijo"
+    plural: 
+      nom: "kalkulacije"
+      acc: "kalkulacije"
+      gen: "kalkulacij"
+      loc: "kalkulacijah"
+      dat: "kalkulacijam"
+      ins: "kalkulacijami"
+      voc: "kalkulacije"

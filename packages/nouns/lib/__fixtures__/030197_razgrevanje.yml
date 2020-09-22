@@ -1,0 +1,22 @@
+---
+  id: "30197"
+  word: "råzgrěvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzgrěvańje"
+      acc: "råzgrěvańje"
+      gen: "råzgrěvańja"
+      loc: "råzgrěvańju"
+      dat: "råzgrěvańju"
+      ins: "råzgrěvańjem"
+      voc: "råzgrěvańje"
+    plural: 
+      nom: "råzgrěvańja"
+      acc: "råzgrěvańja"
+      gen: "råzgrěvanij"
+      loc: "råzgrěvańjah"
+      dat: "råzgrěvańjam"
+      ins: "råzgrěvańjami"
+      voc: "råzgrěvańja"

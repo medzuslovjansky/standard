@@ -1,0 +1,22 @@
+---
+  id: "14973"
+  word: "rěčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rěčnik"
+      acc: "rěčnik"
+      gen: "rěčnika"
+      loc: "rěčniku"
+      dat: "rěčniku"
+      ins: "rěčnikom"
+      voc: "rěčniče"
+    plural: 
+      nom: "rěčniky"
+      acc: "rěčniky"
+      gen: "rěčnikov"
+      loc: "rěčnikah"
+      dat: "rěčnikam"
+      ins: "rěčnikami"
+      voc: "rěčniky"

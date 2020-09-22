@@ -1,0 +1,22 @@
+---
+  id: "2153"
+  word: "větka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "větka"
+      acc: "větkų"
+      gen: "větky"
+      loc: "větkě"
+      dat: "větkě"
+      ins: "větkojų"
+      voc: "větko"
+    plural: 
+      nom: "větky"
+      acc: "větky"
+      gen: "větȯk"
+      loc: "větkah"
+      dat: "větkam"
+      ins: "větkami"
+      voc: "větky"

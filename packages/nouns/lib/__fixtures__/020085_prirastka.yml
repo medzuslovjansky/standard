@@ -1,0 +1,22 @@
+---
+  id: "20085"
+  word: "priråstka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "priråstka"
+      acc: "priråstkų"
+      gen: "priråstky"
+      loc: "priråstkě"
+      dat: "priråstkě"
+      ins: "priråstkojų"
+      voc: "priråstko"
+    plural: 
+      nom: "priråstky"
+      acc: "priråstky"
+      gen: "priråstȯk"
+      loc: "priråstkah"
+      dat: "priråstkam"
+      ins: "priråstkami"
+      voc: "priråstky"

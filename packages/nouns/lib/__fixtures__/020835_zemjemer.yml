@@ -1,0 +1,23 @@
+---
+  id: "20835"
+  word: "zemjeměr"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zemjeměr"
+      acc: "zemjeměra"
+      gen: "zemjeměra"
+      loc: "zemjeměru"
+      dat: "zemjeměru"
+      ins: "zemjeměrom"
+      voc: "zemjeměre"
+    plural: 
+      nom: "zemjeměri"
+      acc: "zemjeměrov"
+      gen: "zemjeměrov"
+      loc: "zemjeměrah"
+      dat: "zemjeměram"
+      ins: "zemjeměrami"
+      voc: "zemjeměri"

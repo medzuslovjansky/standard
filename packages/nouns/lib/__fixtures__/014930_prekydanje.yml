@@ -1,0 +1,22 @@
+---
+  id: "14930"
+  word: "prěkydańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěkydańje"
+      acc: "prěkydańje"
+      gen: "prěkydańja"
+      loc: "prěkydańju"
+      dat: "prěkydańju"
+      ins: "prěkydańjem"
+      voc: "prěkydańje"
+    plural: 
+      nom: "prěkydańja"
+      acc: "prěkydańja"
+      gen: "prěkydanij"
+      loc: "prěkydańjah"
+      dat: "prěkydańjam"
+      ins: "prěkydańjami"
+      voc: "prěkydańja"

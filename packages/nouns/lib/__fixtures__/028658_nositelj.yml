@@ -1,0 +1,23 @@
+---
+  id: "28658"
+  word: "nositelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nositelj"
+      acc: "nositelja"
+      gen: "nositelja"
+      loc: "nositelju"
+      dat: "nositelju"
+      ins: "nositeljem"
+      voc: "nositelju"
+    plural: 
+      nom: "nositelji"
+      acc: "nositeljev"
+      gen: "nositeljev"
+      loc: "nositeljah"
+      dat: "nositeljam"
+      ins: "nositeljami"
+      voc: "nositelji"

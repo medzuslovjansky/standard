@@ -1,0 +1,22 @@
+---
+  id: "22077"
+  word: "potok"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "potok"
+      acc: "potok"
+      gen: "potoka"
+      loc: "potoku"
+      dat: "potoku"
+      ins: "potokom"
+      voc: "potoče"
+    plural: 
+      nom: "potoky"
+      acc: "potoky"
+      gen: "potokov"
+      loc: "potokah"
+      dat: "potokam"
+      ins: "potokami"
+      voc: "potoky"

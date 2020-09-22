@@ -1,0 +1,22 @@
+---
+  id: "27434"
+  word: "marena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marena"
+      acc: "marenų"
+      gen: "mareny"
+      loc: "mareně"
+      dat: "mareně"
+      ins: "marenojų"
+      voc: "mareno"
+    plural: 
+      nom: "mareny"
+      acc: "mareny"
+      gen: "maren"
+      loc: "marenah"
+      dat: "marenam"
+      ins: "marenami"
+      voc: "mareny"

@@ -1,0 +1,22 @@
+---
+  id: "33120"
+  word: "neminujemosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neminujemosť"
+      acc: "neminujemosť"
+      gen: "neminujemosti"
+      loc: "neminujemosti"
+      dat: "neminujemosti"
+      ins: "neminujemosťjų"
+      voc: "neminujemosti"
+    plural: 
+      nom: "neminujemosti"
+      acc: "neminujemosti"
+      gen: "neminujemostij"
+      loc: "neminujemosťah"
+      dat: "neminujemosťam"
+      ins: "neminujemosťami"
+      voc: "neminujemosti"

@@ -1,0 +1,22 @@
+---
+  id: "2112"
+  word: "kontinent"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kontinent"
+      acc: "kontinent"
+      gen: "kontinenta"
+      loc: "kontinentu"
+      dat: "kontinentu"
+      ins: "kontinentom"
+      voc: "kontinente"
+    plural: 
+      nom: "kontinenty"
+      acc: "kontinenty"
+      gen: "kontinentov"
+      loc: "kontinentah"
+      dat: "kontinentam"
+      ins: "kontinentami"
+      voc: "kontinenty"

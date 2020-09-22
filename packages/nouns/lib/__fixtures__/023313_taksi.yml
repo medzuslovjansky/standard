@@ -1,0 +1,23 @@
+---
+  id: "23313"
+  word: "taksi"
+  meta: 
+    gender: "masculine"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "taksi"
+      acc: "taksi"
+      gen: "taksi"
+      loc: "taksi"
+      dat: "taksi"
+      ins: "taksi"
+      voc: "taksi"
+    plural: 
+      nom: "taksi"
+      acc: "taksi"
+      gen: "taksi"
+      loc: "taksi"
+      dat: "taksi"
+      ins: "taksi"
+      voc: "taksi"

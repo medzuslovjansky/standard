@@ -1,0 +1,22 @@
+---
+  id: "1635"
+  word: "věć"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věć"
+      acc: "věć"
+      gen: "věći"
+      loc: "věći"
+      dat: "věći"
+      ins: "věćjų"
+      voc: "věći"
+    plural: 
+      nom: "věći"
+      acc: "věći"
+      gen: "věćij"
+      loc: "věćah"
+      dat: "věćam"
+      ins: "věćami"
+      voc: "věći"

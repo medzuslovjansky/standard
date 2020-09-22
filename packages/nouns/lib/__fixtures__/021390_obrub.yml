@@ -1,0 +1,22 @@
+---
+  id: "21390"
+  word: "obrųb"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obrųb"
+      acc: "obrųb"
+      gen: "obrųba"
+      loc: "obrųbu"
+      dat: "obrųbu"
+      ins: "obrųbom"
+      voc: "obrųbe"
+    plural: 
+      nom: "obrųby"
+      acc: "obrųby"
+      gen: "obrųbov"
+      loc: "obrųbah"
+      dat: "obrųbam"
+      ins: "obrųbami"
+      voc: "obrųby"

@@ -1,0 +1,22 @@
+---
+  id: "7599"
+  word: "gȯltȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gȯltȯk"
+      acc: "gȯltȯk"
+      gen: "gȯltka"
+      loc: "gȯltku"
+      dat: "gȯltku"
+      ins: "gȯltkom"
+      voc: "gȯltče"
+    plural: 
+      nom: "gȯltky"
+      acc: "gȯltky"
+      gen: "gȯltkov"
+      loc: "gȯltkah"
+      dat: "gȯltkam"
+      ins: "gȯltkami"
+      voc: "gȯltky"

@@ -1,0 +1,22 @@
+---
+  id: "30349"
+  word: "råznos"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råznos"
+      acc: "råznos"
+      gen: "råznosa"
+      loc: "råznosu"
+      dat: "råznosu"
+      ins: "råznosom"
+      voc: "råznose"
+    plural: 
+      nom: "råznosy"
+      acc: "råznosy"
+      gen: "råznosov"
+      loc: "råznosah"
+      dat: "råznosam"
+      ins: "råznosami"
+      voc: "råznosy"

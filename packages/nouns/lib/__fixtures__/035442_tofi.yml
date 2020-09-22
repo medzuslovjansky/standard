@@ -1,0 +1,23 @@
+---
+  id: "35442"
+  word: "tofi"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "tofi"
+      acc: "tofi"
+      gen: "tofi"
+      loc: "tofi"
+      dat: "tofi"
+      ins: "tofi"
+      voc: "tofi"
+    plural: 
+      nom: "tofi"
+      acc: "tofi"
+      gen: "tofi"
+      loc: "tofi"
+      dat: "tofi"
+      ins: "tofi"
+      voc: "tofi"

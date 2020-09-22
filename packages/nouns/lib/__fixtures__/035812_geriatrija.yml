@@ -1,0 +1,22 @@
+---
+  id: "35812"
+  word: "geriatrija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "geriatrija"
+      acc: "geriatrijų"
+      gen: "geriatrije"
+      loc: "geriatriji"
+      dat: "geriatriji"
+      ins: "geriatrijejų"
+      voc: "geriatrijo"
+    plural: 
+      nom: "geriatrije"
+      acc: "geriatrije"
+      gen: "geriatrij"
+      loc: "geriatrijah"
+      dat: "geriatrijam"
+      ins: "geriatrijami"
+      voc: "geriatrije"

@@ -1,0 +1,22 @@
+---
+  id: "3886"
+  word: "slåma"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "slåma"
+      acc: "slåmų"
+      gen: "slåmy"
+      loc: "slåmě"
+      dat: "slåmě"
+      ins: "slåmojų"
+      voc: "slåmo"
+    plural: 
+      nom: "slåmy"
+      acc: "slåmy"
+      gen: "slåm"
+      loc: "slåmah"
+      dat: "slåmam"
+      ins: "slåmami"
+      voc: "slåmy"

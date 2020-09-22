@@ -1,0 +1,15 @@
+---
+  id: "19633"
+  word: "anestezija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "anestezija"
+      acc: "anestezijų"
+      gen: "anestezije"
+      loc: "anesteziji"
+      dat: "anesteziji"
+      ins: "anestezijejų"
+      voc: "anestezijo"

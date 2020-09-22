@@ -1,0 +1,22 @@
+---
+  id: "17401"
+  word: "glåska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glåska"
+      acc: "glåskų"
+      gen: "glåsky"
+      loc: "glåskě"
+      dat: "glåskě"
+      ins: "glåskojų"
+      voc: "glåsko"
+    plural: 
+      nom: "glåsky"
+      acc: "glåsky"
+      gen: "glåsȯk"
+      loc: "glåskah"
+      dat: "glåskam"
+      ins: "glåskami"
+      voc: "glåsky"

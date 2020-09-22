@@ -1,0 +1,23 @@
+---
+  id: "31123"
+  word: "vepŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "vepŕ"
+      acc: "vepŕa"
+      gen: "vepŕa"
+      loc: "vepŕu"
+      dat: "vepŕu"
+      ins: "vepŕem"
+      voc: "vepŕu"
+    plural: 
+      nom: "vepri"
+      acc: "vepŕev"
+      gen: "vepŕev"
+      loc: "vepŕah"
+      dat: "vepŕam"
+      ins: "vepŕami"
+      voc: "vepri"

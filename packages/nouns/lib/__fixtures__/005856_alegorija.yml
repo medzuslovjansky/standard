@@ -1,0 +1,22 @@
+---
+  id: "5856"
+  word: "alegorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "alegorija"
+      acc: "alegorijų"
+      gen: "alegorije"
+      loc: "alegoriji"
+      dat: "alegoriji"
+      ins: "alegorijejų"
+      voc: "alegorijo"
+    plural: 
+      nom: "alegorije"
+      acc: "alegorije"
+      gen: "alegorij"
+      loc: "alegorijah"
+      dat: "alegorijam"
+      ins: "alegorijami"
+      voc: "alegorije"

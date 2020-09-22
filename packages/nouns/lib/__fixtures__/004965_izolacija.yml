@@ -1,0 +1,22 @@
+---
+  id: "4965"
+  word: "izolacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izolacija"
+      acc: "izolacijų"
+      gen: "izolacije"
+      loc: "izolaciji"
+      dat: "izolaciji"
+      ins: "izolacijejų"
+      voc: "izolacijo"
+    plural: 
+      nom: "izolacije"
+      acc: "izolacije"
+      gen: "izolacij"
+      loc: "izolacijah"
+      dat: "izolacijam"
+      ins: "izolacijami"
+      voc: "izolacije"

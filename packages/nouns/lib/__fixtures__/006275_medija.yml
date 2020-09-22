@@ -1,0 +1,15 @@
+---
+  id: "6275"
+  word: "medija"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "medija"
+      acc: "medija"
+      gen: "medij"
+      loc: "medijah"
+      dat: "medijam"
+      ins: "medijami"
+      voc: "medija"

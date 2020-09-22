@@ -1,0 +1,23 @@
+---
+  id: "29422"
+  word: "okunj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "okunj"
+      acc: "okunja"
+      gen: "okunja"
+      loc: "okunju"
+      dat: "okunju"
+      ins: "okunjem"
+      voc: "okunju"
+    plural: 
+      nom: "okunji"
+      acc: "okunjev"
+      gen: "okunjev"
+      loc: "okunjah"
+      dat: "okunjam"
+      ins: "okunjami"
+      voc: "okunji"

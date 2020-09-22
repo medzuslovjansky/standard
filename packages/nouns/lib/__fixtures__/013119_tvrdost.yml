@@ -1,0 +1,22 @@
+---
+  id: "13119"
+  word: "tvŕdosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tvŕdosť"
+      acc: "tvŕdosť"
+      gen: "tvŕdosti"
+      loc: "tvŕdosti"
+      dat: "tvŕdosti"
+      ins: "tvŕdosťjų"
+      voc: "tvŕdosti"
+    plural: 
+      nom: "tvŕdosti"
+      acc: "tvŕdosti"
+      gen: "tvŕdostij"
+      loc: "tvŕdosťah"
+      dat: "tvŕdosťam"
+      ins: "tvŕdosťami"
+      voc: "tvŕdosti"

@@ -1,0 +1,22 @@
+---
+  id: "36760"
+  word: "amulet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "amulet"
+      acc: "amulet"
+      gen: "amuleta"
+      loc: "amuletu"
+      dat: "amuletu"
+      ins: "amuletom"
+      voc: "amulete"
+    plural: 
+      nom: "amulety"
+      acc: "amulety"
+      gen: "amuletov"
+      loc: "amuletah"
+      dat: "amuletam"
+      ins: "amuletami"
+      voc: "amulety"

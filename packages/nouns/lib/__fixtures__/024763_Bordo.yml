@@ -1,0 +1,15 @@
+---
+  id: "24763"
+  word: "Bordo"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bordo"
+      acc: "Bordo"
+      gen: "Borda"
+      loc: "Bordu"
+      dat: "Bordu"
+      ins: "Bordom"
+      voc: "Bordo"

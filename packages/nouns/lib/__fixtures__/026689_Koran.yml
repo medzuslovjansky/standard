@@ -1,0 +1,22 @@
+---
+  id: "26689"
+  word: "Koran"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "Koran"
+      acc: "Koran"
+      gen: "Korana"
+      loc: "Koranu"
+      dat: "Koranu"
+      ins: "Koranom"
+      voc: "Korane"
+    plural: 
+      nom: "Korany"
+      acc: "Korany"
+      gen: "Koranov"
+      loc: "Koranah"
+      dat: "Koranam"
+      ins: "Koranami"
+      voc: "Korany"

@@ -1,0 +1,22 @@
+---
+  id: "17376"
+  word: "evangeľje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "evangeľje"
+      acc: "evangeľje"
+      gen: "evangeľja"
+      loc: "evangeľju"
+      dat: "evangeľju"
+      ins: "evangeľjem"
+      voc: "evangeľje"
+    plural: 
+      nom: "evangeľja"
+      acc: "evangeľja"
+      gen: "evangelij"
+      loc: "evangeľjah"
+      dat: "evangeľjam"
+      ins: "evangeľjami"
+      voc: "evangeľja"

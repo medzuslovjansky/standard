@@ -1,0 +1,22 @@
+---
+  id: "18898"
+  word: "statistika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "statistika"
+      acc: "statistikų"
+      gen: "statistiky"
+      loc: "statistikě"
+      dat: "statistikě"
+      ins: "statistikojų"
+      voc: "statistiko"
+    plural: 
+      nom: "statistiky"
+      acc: "statistiky"
+      gen: "statistik"
+      loc: "statistikah"
+      dat: "statistikam"
+      ins: "statistikami"
+      voc: "statistiky"

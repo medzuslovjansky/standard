@@ -1,0 +1,22 @@
+---
+  id: "23725"
+  word: "prěhlåđeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěhlåđeńje"
+      acc: "prěhlåđeńje"
+      gen: "prěhlåđeńja"
+      loc: "prěhlåđeńju"
+      dat: "prěhlåđeńju"
+      ins: "prěhlåđeńjem"
+      voc: "prěhlåđeńje"
+    plural: 
+      nom: "prěhlåđeńja"
+      acc: "prěhlåđeńja"
+      gen: "prěhlåđenij"
+      loc: "prěhlåđeńjah"
+      dat: "prěhlåđeńjam"
+      ins: "prěhlåđeńjami"
+      voc: "prěhlåđeńja"

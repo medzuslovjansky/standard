@@ -1,0 +1,22 @@
+---
+  id: "27013"
+  word: "kuznja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuznja"
+      acc: "kuznjų"
+      gen: "kuznje"
+      loc: "kuznji"
+      dat: "kuznji"
+      ins: "kuznjejų"
+      voc: "kuznjo"
+    plural: 
+      nom: "kuznje"
+      acc: "kuznje"
+      gen: "kuznej"
+      loc: "kuznjah"
+      dat: "kuznjam"
+      ins: "kuznjami"
+      voc: "kuznje"

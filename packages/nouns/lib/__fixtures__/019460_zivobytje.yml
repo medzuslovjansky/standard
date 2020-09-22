@@ -1,0 +1,22 @@
+---
+  id: "19460"
+  word: "živobyťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "živobyťje"
+      acc: "živobyťje"
+      gen: "živobyťja"
+      loc: "živobyťju"
+      dat: "živobyťju"
+      ins: "živobyťjem"
+      voc: "živobyťje"
+    plural: 
+      nom: "živobyťja"
+      acc: "živobyťja"
+      gen: "živobytij"
+      loc: "živobyťjah"
+      dat: "živobyťjam"
+      ins: "živobyťjami"
+      voc: "živobyťja"

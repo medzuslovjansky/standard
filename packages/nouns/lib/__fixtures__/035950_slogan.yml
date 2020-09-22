@@ -1,0 +1,22 @@
+---
+  id: "35950"
+  word: "slogan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slogan"
+      acc: "slogan"
+      gen: "slogana"
+      loc: "sloganu"
+      dat: "sloganu"
+      ins: "sloganom"
+      voc: "slogane"
+    plural: 
+      nom: "slogany"
+      acc: "slogany"
+      gen: "sloganov"
+      loc: "sloganah"
+      dat: "sloganam"
+      ins: "sloganami"
+      voc: "slogany"

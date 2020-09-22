@@ -1,0 +1,15 @@
+---
+  id: "17888"
+  word: "nastavjeńja"
+  meta: 
+    gender: "neuter"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "nastavjeńja"
+      acc: "nastavjeńja"
+      gen: "nastavjeńj"
+      loc: "nastavjeńjah"
+      dat: "nastavjeńjam"
+      ins: "nastavjeńjami"
+      voc: "nastavjeńja"

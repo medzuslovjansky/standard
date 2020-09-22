@@ -1,0 +1,22 @@
+---
+  id: "36464"
+  word: "postulat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "postulat"
+      acc: "postulat"
+      gen: "postulata"
+      loc: "postulatu"
+      dat: "postulatu"
+      ins: "postulatom"
+      voc: "postulate"
+    plural: 
+      nom: "postulaty"
+      acc: "postulaty"
+      gen: "postulatov"
+      loc: "postulatah"
+      dat: "postulatam"
+      ins: "postulatami"
+      voc: "postulaty"

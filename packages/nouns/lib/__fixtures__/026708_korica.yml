@@ -1,0 +1,22 @@
+---
+  id: "26708"
+  word: "korica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "korica"
+      acc: "koricų"
+      gen: "korice"
+      loc: "korici"
+      dat: "korici"
+      ins: "koricejų"
+      voc: "korico"
+    plural: 
+      nom: "korice"
+      acc: "korice"
+      gen: "koric"
+      loc: "koricah"
+      dat: "koricam"
+      ins: "koricami"
+      voc: "korice"

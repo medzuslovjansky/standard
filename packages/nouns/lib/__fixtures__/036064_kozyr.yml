@@ -1,0 +1,22 @@
+---
+  id: "36064"
+  word: "kozyŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kozyŕ"
+      acc: "kozyŕ"
+      gen: "kozyŕa"
+      loc: "kozyŕu"
+      dat: "kozyŕu"
+      ins: "kozyŕem"
+      voc: "kozyŕu"
+    plural: 
+      nom: "kozyŕe"
+      acc: "kozyŕe"
+      gen: "kozyŕev"
+      loc: "kozyŕah"
+      dat: "kozyŕam"
+      ins: "kozyŕami"
+      voc: "kozyŕe"

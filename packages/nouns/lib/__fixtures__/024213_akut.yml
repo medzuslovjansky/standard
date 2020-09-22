@@ -1,0 +1,22 @@
+---
+  id: "24213"
+  word: "akut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akut"
+      acc: "akut"
+      gen: "akuta"
+      loc: "akutu"
+      dat: "akutu"
+      ins: "akutom"
+      voc: "akute"
+    plural: 
+      nom: "akuty"
+      acc: "akuty"
+      gen: "akutov"
+      loc: "akutah"
+      dat: "akutam"
+      ins: "akutami"
+      voc: "akuty"

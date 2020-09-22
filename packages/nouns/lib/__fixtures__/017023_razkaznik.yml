@@ -1,0 +1,22 @@
+---
+  id: "17023"
+  word: "råzkaznik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzkaznik"
+      acc: "råzkaznik"
+      gen: "råzkaznika"
+      loc: "råzkazniku"
+      dat: "råzkazniku"
+      ins: "råzkaznikom"
+      voc: "råzkazniče"
+    plural: 
+      nom: "råzkazniky"
+      acc: "råzkazniky"
+      gen: "råzkaznikov"
+      loc: "råzkaznikah"
+      dat: "råzkaznikam"
+      ins: "råzkaznikami"
+      voc: "råzkazniky"

@@ -1,0 +1,22 @@
+---
+  id: "20205"
+  word: "taktika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "taktika"
+      acc: "taktikų"
+      gen: "taktiky"
+      loc: "taktikě"
+      dat: "taktikě"
+      ins: "taktikojų"
+      voc: "taktiko"
+    plural: 
+      nom: "taktiky"
+      acc: "taktiky"
+      gen: "taktik"
+      loc: "taktikah"
+      dat: "taktikam"
+      ins: "taktikami"
+      voc: "taktiky"

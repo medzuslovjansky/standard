@@ -1,0 +1,22 @@
+---
+  id: "6587"
+  word: "blågoslovjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "blågoslovjeńje"
+      acc: "blågoslovjeńje"
+      gen: "blågoslovjeńja"
+      loc: "blågoslovjeńju"
+      dat: "blågoslovjeńju"
+      ins: "blågoslovjeńjem"
+      voc: "blågoslovjeńje"
+    plural: 
+      nom: "blågoslovjeńja"
+      acc: "blågoslovjeńja"
+      gen: "blågoslovjenij"
+      loc: "blågoslovjeńjah"
+      dat: "blågoslovjeńjam"
+      ins: "blågoslovjeńjami"
+      voc: "blågoslovjeńja"

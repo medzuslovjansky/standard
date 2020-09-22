@@ -1,0 +1,22 @@
+---
+  id: "25537"
+  word: "galanterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galanterija"
+      acc: "galanterijų"
+      gen: "galanterije"
+      loc: "galanteriji"
+      dat: "galanteriji"
+      ins: "galanterijejų"
+      voc: "galanterijo"
+    plural: 
+      nom: "galanterije"
+      acc: "galanterije"
+      gen: "galanterij"
+      loc: "galanterijah"
+      dat: "galanterijam"
+      ins: "galanterijami"
+      voc: "galanterije"

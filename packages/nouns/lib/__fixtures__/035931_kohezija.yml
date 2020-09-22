@@ -1,0 +1,22 @@
+---
+  id: "35931"
+  word: "kohezija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kohezija"
+      acc: "kohezijų"
+      gen: "kohezije"
+      loc: "koheziji"
+      dat: "koheziji"
+      ins: "kohezijejų"
+      voc: "kohezijo"
+    plural: 
+      nom: "kohezije"
+      acc: "kohezije"
+      gen: "kohezij"
+      loc: "kohezijah"
+      dat: "kohezijam"
+      ins: "kohezijami"
+      voc: "kohezije"

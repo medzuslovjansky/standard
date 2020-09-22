@@ -1,0 +1,22 @@
+---
+  id: "20414"
+  word: "konkluzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konkluzija"
+      acc: "konkluzijų"
+      gen: "konkluzije"
+      loc: "konkluziji"
+      dat: "konkluziji"
+      ins: "konkluzijejų"
+      voc: "konkluzijo"
+    plural: 
+      nom: "konkluzije"
+      acc: "konkluzije"
+      gen: "konkluzij"
+      loc: "konkluzijah"
+      dat: "konkluzijam"
+      ins: "konkluzijami"
+      voc: "konkluzije"

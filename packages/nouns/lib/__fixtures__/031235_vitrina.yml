@@ -1,0 +1,22 @@
+---
+  id: "31235"
+  word: "vitrina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vitrina"
+      acc: "vitrinų"
+      gen: "vitriny"
+      loc: "vitrině"
+      dat: "vitrině"
+      ins: "vitrinojų"
+      voc: "vitrino"
+    plural: 
+      nom: "vitriny"
+      acc: "vitriny"
+      gen: "vitrin"
+      loc: "vitrinah"
+      dat: "vitrinam"
+      ins: "vitrinami"
+      voc: "vitriny"

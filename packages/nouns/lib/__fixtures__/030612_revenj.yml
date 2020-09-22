@@ -1,0 +1,22 @@
+---
+  id: "30612"
+  word: "revenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "revenj"
+      acc: "revenj"
+      gen: "revenja"
+      loc: "revenju"
+      dat: "revenju"
+      ins: "revenjem"
+      voc: "revenju"
+    plural: 
+      nom: "revenje"
+      acc: "revenje"
+      gen: "revenjev"
+      loc: "revenjah"
+      dat: "revenjam"
+      ins: "revenjami"
+      voc: "revenje"

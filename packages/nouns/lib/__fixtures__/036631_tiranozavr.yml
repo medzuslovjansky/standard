@@ -1,0 +1,22 @@
+---
+  id: "36631"
+  word: "tiranozavr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tiranozavr"
+      acc: "tiranozavr"
+      gen: "tiranozavra"
+      loc: "tiranozavru"
+      dat: "tiranozavru"
+      ins: "tiranozavrom"
+      voc: "tiranozavre"
+    plural: 
+      nom: "tiranozavry"
+      acc: "tiranozavry"
+      gen: "tiranozavrov"
+      loc: "tiranozavrah"
+      dat: "tiranozavram"
+      ins: "tiranozavrami"
+      voc: "tiranozavry"

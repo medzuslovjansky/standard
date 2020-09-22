@@ -1,0 +1,22 @@
+---
+  id: "10032"
+  word: "odpornosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odpornosť"
+      acc: "odpornosť"
+      gen: "odpornosti"
+      loc: "odpornosti"
+      dat: "odpornosti"
+      ins: "odpornosťjų"
+      voc: "odpornosti"
+    plural: 
+      nom: "odpornosti"
+      acc: "odpornosti"
+      gen: "odpornostij"
+      loc: "odpornosťah"
+      dat: "odpornosťam"
+      ins: "odpornosťami"
+      voc: "odpornosti"

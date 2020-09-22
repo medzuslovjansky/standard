@@ -1,0 +1,15 @@
+---
+  id: "21489"
+  word: "pŕvorodstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pŕvorodstvo"
+      acc: "pŕvorodstvo"
+      gen: "pŕvorodstva"
+      loc: "pŕvorodstvu"
+      dat: "pŕvorodstvu"
+      ins: "pŕvorodstvom"
+      voc: "pŕvorodstvo"

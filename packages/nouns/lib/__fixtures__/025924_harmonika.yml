@@ -1,0 +1,22 @@
+---
+  id: "25924"
+  word: "harmonika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "harmonika"
+      acc: "harmonikų"
+      gen: "harmoniky"
+      loc: "harmonikě"
+      dat: "harmonikě"
+      ins: "harmonikojų"
+      voc: "harmoniko"
+    plural: 
+      nom: "harmoniky"
+      acc: "harmoniky"
+      gen: "harmonik"
+      loc: "harmonikah"
+      dat: "harmonikam"
+      ins: "harmonikami"
+      voc: "harmoniky"

@@ -1,0 +1,22 @@
+---
+  id: "11241"
+  word: "prědpočitańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědpočitańje"
+      acc: "prědpočitańje"
+      gen: "prědpočitańja"
+      loc: "prědpočitańju"
+      dat: "prědpočitańju"
+      ins: "prědpočitańjem"
+      voc: "prědpočitańje"
+    plural: 
+      nom: "prědpočitańja"
+      acc: "prědpočitańja"
+      gen: "prědpočitanij"
+      loc: "prědpočitańjah"
+      dat: "prědpočitańjam"
+      ins: "prědpočitańjami"
+      voc: "prědpočitańja"

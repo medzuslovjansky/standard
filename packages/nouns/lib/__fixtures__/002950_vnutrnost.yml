@@ -1,0 +1,22 @@
+---
+  id: "2950"
+  word: "vnųtrnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vnųtrnosť"
+      acc: "vnųtrnosť"
+      gen: "vnųtrnosti"
+      loc: "vnųtrnosti"
+      dat: "vnųtrnosti"
+      ins: "vnųtrnosťjų"
+      voc: "vnųtrnosti"
+    plural: 
+      nom: "vnųtrnosti"
+      acc: "vnųtrnosti"
+      gen: "vnųtrnostij"
+      loc: "vnųtrnosťah"
+      dat: "vnųtrnosťam"
+      ins: "vnųtrnosťami"
+      voc: "vnųtrnosti"

@@ -1,0 +1,22 @@
+---
+  id: "36152"
+  word: "zvukoręd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zvukoręd"
+      acc: "zvukoręd"
+      gen: "zvukoręda"
+      loc: "zvukorędu"
+      dat: "zvukorędu"
+      ins: "zvukorędom"
+      voc: "zvukoręde"
+    plural: 
+      nom: "zvukorędy"
+      acc: "zvukorędy"
+      gen: "zvukorędov"
+      loc: "zvukorędah"
+      dat: "zvukorędam"
+      ins: "zvukorędami"
+      voc: "zvukorędy"

@@ -1,0 +1,15 @@
+---
+  id: "16785"
+  word: "Jamajka"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Jamajka"
+      acc: "Jamajkų"
+      gen: "Jamajky"
+      loc: "Jamajkě"
+      dat: "Jamajkě"
+      ins: "Jamajkojų"
+      voc: "Jamajko"

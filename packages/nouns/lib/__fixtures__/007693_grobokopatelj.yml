@@ -1,0 +1,23 @@
+---
+  id: "7693"
+  word: "grobokopatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "grobokopatelj"
+      acc: "grobokopatelja"
+      gen: "grobokopatelja"
+      loc: "grobokopatelju"
+      dat: "grobokopatelju"
+      ins: "grobokopateljem"
+      voc: "grobokopatelju"
+    plural: 
+      nom: "grobokopatelji"
+      acc: "grobokopateljev"
+      gen: "grobokopateljev"
+      loc: "grobokopateljah"
+      dat: "grobokopateljam"
+      ins: "grobokopateljami"
+      voc: "grobokopatelji"

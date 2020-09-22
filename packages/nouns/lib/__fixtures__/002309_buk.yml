@@ -1,0 +1,22 @@
+---
+  id: "2309"
+  word: "buk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "buk"
+      acc: "buk"
+      gen: "buka"
+      loc: "buku"
+      dat: "buku"
+      ins: "bukom"
+      voc: "buče"
+    plural: 
+      nom: "buky"
+      acc: "buky"
+      gen: "bukov"
+      loc: "bukah"
+      dat: "bukam"
+      ins: "bukami"
+      voc: "buky"

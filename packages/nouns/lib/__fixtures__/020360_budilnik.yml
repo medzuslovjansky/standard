@@ -1,0 +1,22 @@
+---
+  id: "20360"
+  word: "budiľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "budiľnik"
+      acc: "budiľnik"
+      gen: "budiľnika"
+      loc: "budiľniku"
+      dat: "budiľniku"
+      ins: "budiľnikom"
+      voc: "budiľniče"
+    plural: 
+      nom: "budiľniky"
+      acc: "budiľniky"
+      gen: "budiľnikov"
+      loc: "budiľnikah"
+      dat: "budiľnikam"
+      ins: "budiľnikami"
+      voc: "budiľniky"

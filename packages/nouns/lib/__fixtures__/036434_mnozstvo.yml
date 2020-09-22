@@ -1,0 +1,22 @@
+---
+  id: "36434"
+  word: "množstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "množstvo"
+      acc: "množstvo"
+      gen: "množstva"
+      loc: "množstvu"
+      dat: "množstvu"
+      ins: "množstvom"
+      voc: "množstvo"
+    plural: 
+      nom: "množstva"
+      acc: "množstva"
+      gen: "množstv"
+      loc: "množstvah"
+      dat: "množstvam"
+      ins: "množstvami"
+      voc: "množstva"

@@ -1,0 +1,22 @@
+---
+  id: "32614"
+  word: "papirus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "papirus"
+      acc: "papirus"
+      gen: "papirusa"
+      loc: "papirusu"
+      dat: "papirusu"
+      ins: "papirusom"
+      voc: "papiruse"
+    plural: 
+      nom: "papirusy"
+      acc: "papirusy"
+      gen: "papirusov"
+      loc: "papirusah"
+      dat: "papirusam"
+      ins: "papirusami"
+      voc: "papirusy"

@@ -1,0 +1,22 @@
+---
+  id: "10403"
+  word: "ozemja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ozemja"
+      acc: "ozemjų"
+      gen: "ozemje"
+      loc: "ozemji"
+      dat: "ozemji"
+      ins: "ozemjejų"
+      voc: "ozemjo"
+    plural: 
+      nom: "ozemje"
+      acc: "ozemje"
+      gen: "ozemej"
+      loc: "ozemjah"
+      dat: "ozemjam"
+      ins: "ozemjami"
+      voc: "ozemje"

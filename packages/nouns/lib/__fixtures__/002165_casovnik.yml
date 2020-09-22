@@ -1,0 +1,22 @@
+---
+  id: "2165"
+  word: "časovnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "časovnik"
+      acc: "časovnik"
+      gen: "časovnika"
+      loc: "časovniku"
+      dat: "časovniku"
+      ins: "časovnikom"
+      voc: "časovniče"
+    plural: 
+      nom: "časovniky"
+      acc: "časovniky"
+      gen: "časovnikov"
+      loc: "časovnikah"
+      dat: "časovnikam"
+      ins: "časovnikami"
+      voc: "časovniky"

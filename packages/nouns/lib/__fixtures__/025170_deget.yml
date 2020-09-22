@@ -1,0 +1,23 @@
+---
+  id: "25170"
+  word: "degeť"
+  meta: 
+    irregularity: "(degťa)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "degėť"
+      acc: "degėť"
+      gen: "degťa"
+      loc: "degťu"
+      dat: "degťu"
+      ins: "degťem"
+      voc: "degťu"
+    plural: 
+      nom: "degťe"
+      acc: "degťe"
+      gen: "degťev"
+      loc: "degťah"
+      dat: "degťam"
+      ins: "degťami"
+      voc: "degťe"

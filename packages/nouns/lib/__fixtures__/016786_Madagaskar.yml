@@ -1,0 +1,15 @@
+---
+  id: "16786"
+  word: "Madagaskar"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Madagaskar"
+      acc: "Madagaskar"
+      gen: "Madagaskara"
+      loc: "Madagaskaru"
+      dat: "Madagaskaru"
+      ins: "Madagaskarom"
+      voc: "Madagaskare"

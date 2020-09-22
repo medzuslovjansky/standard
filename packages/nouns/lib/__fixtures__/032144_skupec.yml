@@ -1,0 +1,23 @@
+---
+  id: "32144"
+  word: "skųpec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "skųpec"
+      acc: "skųpca"
+      gen: "skųpca"
+      loc: "skųpcu"
+      dat: "skųpcu"
+      ins: "skųpcem"
+      voc: "skųpče"
+    plural: 
+      nom: "skųpci"
+      acc: "skųpcev"
+      gen: "skųpcev"
+      loc: "skųpcah"
+      dat: "skųpcam"
+      ins: "skųpcami"
+      voc: "skųpci"

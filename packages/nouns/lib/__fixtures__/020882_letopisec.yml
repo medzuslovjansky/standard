@@ -1,0 +1,23 @@
+---
+  id: "20882"
+  word: "lětopisec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lětopisec"
+      acc: "lětopisca"
+      gen: "lětopisca"
+      loc: "lětopiscu"
+      dat: "lětopiscu"
+      ins: "lětopiscem"
+      voc: "lětopisče"
+    plural: 
+      nom: "lětopisci"
+      acc: "lětopiscev"
+      gen: "lětopiscev"
+      loc: "lětopiscah"
+      dat: "lětopiscam"
+      ins: "lětopiscami"
+      voc: "lětopisci"

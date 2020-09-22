@@ -1,0 +1,22 @@
+---
+  id: "12135"
+  word: "sejčasnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sejčasnosť"
+      acc: "sejčasnosť"
+      gen: "sejčasnosti"
+      loc: "sejčasnosti"
+      dat: "sejčasnosti"
+      ins: "sejčasnosťjų"
+      voc: "sejčasnosti"
+    plural: 
+      nom: "sejčasnosti"
+      acc: "sejčasnosti"
+      gen: "sejčasnostij"
+      loc: "sejčasnosťah"
+      dat: "sejčasnosťam"
+      ins: "sejčasnosťami"
+      voc: "sejčasnosti"

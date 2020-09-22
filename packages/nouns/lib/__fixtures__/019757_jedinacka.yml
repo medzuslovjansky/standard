@@ -1,0 +1,22 @@
+---
+  id: "19757"
+  word: "jedinačka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jedinačka"
+      acc: "jedinačkų"
+      gen: "jedinačky"
+      loc: "jedinačkě"
+      dat: "jedinačkě"
+      ins: "jedinačkojų"
+      voc: "jedinačko"
+    plural: 
+      nom: "jedinačky"
+      acc: "jedinačky"
+      gen: "jedinaček"
+      loc: "jedinačkah"
+      dat: "jedinačkam"
+      ins: "jedinačkami"
+      voc: "jedinačky"

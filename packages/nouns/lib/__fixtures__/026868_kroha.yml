@@ -1,0 +1,22 @@
+---
+  id: "26868"
+  word: "krȯha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krȯha"
+      acc: "krhų"
+      gen: "krhy"
+      loc: "krhě"
+      dat: "krhě"
+      ins: "krhojų"
+      voc: "krho"
+    plural: 
+      nom: "krhy"
+      acc: "krhy"
+      gen: "krh"
+      loc: "krhah"
+      dat: "krham"
+      ins: "krhami"
+      voc: "krhy"

@@ -1,0 +1,15 @@
+---
+  id: "10537"
+  word: "pěvańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pěvańje"
+      acc: "pěvańje"
+      gen: "pěvańja"
+      loc: "pěvańju"
+      dat: "pěvańju"
+      ins: "pěvańjem"
+      voc: "pěvańje"

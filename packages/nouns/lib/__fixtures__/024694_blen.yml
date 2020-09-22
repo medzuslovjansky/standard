@@ -1,0 +1,22 @@
+---
+  id: "24694"
+  word: "blen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "blen"
+      acc: "blen"
+      gen: "blena"
+      loc: "blenu"
+      dat: "blenu"
+      ins: "blenom"
+      voc: "blene"
+    plural: 
+      nom: "bleny"
+      acc: "bleny"
+      gen: "blenov"
+      loc: "blenah"
+      dat: "blenam"
+      ins: "blenami"
+      voc: "bleny"

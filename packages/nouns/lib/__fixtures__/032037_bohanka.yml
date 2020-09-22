@@ -1,0 +1,22 @@
+---
+  id: "32037"
+  word: "bohanka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "bohanka"
+      acc: "bohankų"
+      gen: "bohanky"
+      loc: "bohankě"
+      dat: "bohankě"
+      ins: "bohankojų"
+      voc: "bohanko"
+    plural: 
+      nom: "bohanky"
+      acc: "bohanky"
+      gen: "bohanȯk"
+      loc: "bohankah"
+      dat: "bohankam"
+      ins: "bohankami"
+      voc: "bohanky"

@@ -1,0 +1,15 @@
+---
+  id: "3410"
+  word: "naturalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "naturalizm"
+      acc: "naturalizm"
+      gen: "naturalizma"
+      loc: "naturalizmu"
+      dat: "naturalizmu"
+      ins: "naturalizmom"
+      voc: "naturalizme"

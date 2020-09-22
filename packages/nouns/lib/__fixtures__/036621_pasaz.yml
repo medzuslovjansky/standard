@@ -1,0 +1,22 @@
+---
+  id: "36621"
+  word: "pasaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pasaž"
+      acc: "pasaž"
+      gen: "pasaža"
+      loc: "pasažu"
+      dat: "pasažu"
+      ins: "pasažem"
+      voc: "pasažu"
+    plural: 
+      nom: "pasaže"
+      acc: "pasaže"
+      gen: "pasažev"
+      loc: "pasažah"
+      dat: "pasažam"
+      ins: "pasažami"
+      voc: "pasaže"

@@ -1,0 +1,15 @@
+---
+  id: "35856"
+  word: "sarkazm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "sarkazm"
+      acc: "sarkazm"
+      gen: "sarkazma"
+      loc: "sarkazmu"
+      dat: "sarkazmu"
+      ins: "sarkazmom"
+      voc: "sarkazme"

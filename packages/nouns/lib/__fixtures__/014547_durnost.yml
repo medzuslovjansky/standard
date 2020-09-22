@@ -1,0 +1,22 @@
+---
+  id: "14547"
+  word: "durnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "durnosť"
+      acc: "durnosť"
+      gen: "durnosti"
+      loc: "durnosti"
+      dat: "durnosti"
+      ins: "durnosťjų"
+      voc: "durnosti"
+    plural: 
+      nom: "durnosti"
+      acc: "durnosti"
+      gen: "durnostij"
+      loc: "durnosťah"
+      dat: "durnosťam"
+      ins: "durnosťami"
+      voc: "durnosti"

@@ -1,0 +1,22 @@
+---
+  id: "2388"
+  word: "test"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "test"
+      acc: "test"
+      gen: "testa"
+      loc: "testu"
+      dat: "testu"
+      ins: "testom"
+      voc: "teste"
+    plural: 
+      nom: "testy"
+      acc: "testy"
+      gen: "testov"
+      loc: "testah"
+      dat: "testam"
+      ins: "testami"
+      voc: "testy"

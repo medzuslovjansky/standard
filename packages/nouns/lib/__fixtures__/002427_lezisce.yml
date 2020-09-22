@@ -1,0 +1,22 @@
+---
+  id: "2427"
+  word: "ležišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ležišče"
+      acc: "ležišče"
+      gen: "ležišča"
+      loc: "ležišču"
+      dat: "ležišču"
+      ins: "ležiščem"
+      voc: "ležišče"
+    plural: 
+      nom: "ležišča"
+      acc: "ležišča"
+      gen: "ležišč"
+      loc: "ležiščah"
+      dat: "ležiščam"
+      ins: "ležiščami"
+      voc: "ležišča"

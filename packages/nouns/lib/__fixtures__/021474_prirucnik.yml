@@ -1,0 +1,22 @@
+---
+  id: "21474"
+  word: "prirųčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prirųčnik"
+      acc: "prirųčnik"
+      gen: "prirųčnika"
+      loc: "prirųčniku"
+      dat: "prirųčniku"
+      ins: "prirųčnikom"
+      voc: "prirųčniče"
+    plural: 
+      nom: "prirųčniky"
+      acc: "prirųčniky"
+      gen: "prirųčnikov"
+      loc: "prirųčnikah"
+      dat: "prirųčnikam"
+      ins: "prirųčnikami"
+      voc: "prirųčniky"

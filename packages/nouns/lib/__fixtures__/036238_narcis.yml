@@ -1,0 +1,22 @@
+---
+  id: "36238"
+  word: "narcis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "narcis"
+      acc: "narcis"
+      gen: "narcisa"
+      loc: "narcisu"
+      dat: "narcisu"
+      ins: "narcisom"
+      voc: "narcise"
+    plural: 
+      nom: "narcisy"
+      acc: "narcisy"
+      gen: "narcisov"
+      loc: "narcisah"
+      dat: "narcisam"
+      ins: "narcisami"
+      voc: "narcisy"

@@ -1,0 +1,22 @@
+---
+  id: "18226"
+  word: "pnevmonija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pnevmonija"
+      acc: "pnevmonijų"
+      gen: "pnevmonije"
+      loc: "pnevmoniji"
+      dat: "pnevmoniji"
+      ins: "pnevmonijejų"
+      voc: "pnevmonijo"
+    plural: 
+      nom: "pnevmonije"
+      acc: "pnevmonije"
+      gen: "pnevmonij"
+      loc: "pnevmonijah"
+      dat: "pnevmonijam"
+      ins: "pnevmonijami"
+      voc: "pnevmonije"

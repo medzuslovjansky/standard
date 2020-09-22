@@ -1,0 +1,22 @@
+---
+  id: "25551"
+  word: "galon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "galon"
+      acc: "galon"
+      gen: "galona"
+      loc: "galonu"
+      dat: "galonu"
+      ins: "galonom"
+      voc: "galone"
+    plural: 
+      nom: "galony"
+      acc: "galony"
+      gen: "galonov"
+      loc: "galonah"
+      dat: "galonam"
+      ins: "galonami"
+      voc: "galony"

@@ -1,0 +1,15 @@
+---
+  id: "17273"
+  word: "dobročinnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dobročinnosť"
+      acc: "dobročinnosť"
+      gen: "dobročinnosti"
+      loc: "dobročinnosti"
+      dat: "dobročinnosti"
+      ins: "dobročinnosťjų"
+      voc: "dobročinnosti"

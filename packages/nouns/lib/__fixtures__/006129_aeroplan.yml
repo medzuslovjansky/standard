@@ -1,0 +1,22 @@
+---
+  id: "6129"
+  word: "aeroplan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aeroplan"
+      acc: "aeroplan"
+      gen: "aeroplana"
+      loc: "aeroplanu"
+      dat: "aeroplanu"
+      ins: "aeroplanom"
+      voc: "aeroplane"
+    plural: 
+      nom: "aeroplany"
+      acc: "aeroplany"
+      gen: "aeroplanov"
+      loc: "aeroplanah"
+      dat: "aeroplanam"
+      ins: "aeroplanami"
+      voc: "aeroplany"

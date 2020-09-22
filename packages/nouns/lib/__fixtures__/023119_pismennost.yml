@@ -1,0 +1,22 @@
+---
+  id: "23119"
+  word: "piśmennosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "piśmennosť"
+      acc: "piśmennosť"
+      gen: "piśmennosti"
+      loc: "piśmennosti"
+      dat: "piśmennosti"
+      ins: "piśmennosťjų"
+      voc: "piśmennosti"
+    plural: 
+      nom: "piśmennosti"
+      acc: "piśmennosti"
+      gen: "piśmennostij"
+      loc: "piśmennosťah"
+      dat: "piśmennosťam"
+      ins: "piśmennosťami"
+      voc: "piśmennosti"

@@ -1,0 +1,22 @@
+---
+  id: "31105"
+  word: "vendeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vendeta"
+      acc: "vendetų"
+      gen: "vendety"
+      loc: "vendetě"
+      dat: "vendetě"
+      ins: "vendetojų"
+      voc: "vendeto"
+    plural: 
+      nom: "vendety"
+      acc: "vendety"
+      gen: "vendet"
+      loc: "vendetah"
+      dat: "vendetam"
+      ins: "vendetami"
+      voc: "vendety"

@@ -1,0 +1,15 @@
+---
+  id: "20264"
+  word: "vključeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "vključeńje"
+      acc: "vključeńje"
+      gen: "vključeńja"
+      loc: "vključeńju"
+      dat: "vključeńju"
+      ins: "vključeńjem"
+      voc: "vključeńje"

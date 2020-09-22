@@ -1,0 +1,22 @@
+---
+  id: "17663"
+  word: "knopka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "knopka"
+      acc: "knopkų"
+      gen: "knopky"
+      loc: "knopkě"
+      dat: "knopkě"
+      ins: "knopkojų"
+      voc: "knopko"
+    plural: 
+      nom: "knopky"
+      acc: "knopky"
+      gen: "knopȯk"
+      loc: "knopkah"
+      dat: "knopkam"
+      ins: "knopkami"
+      voc: "knopky"

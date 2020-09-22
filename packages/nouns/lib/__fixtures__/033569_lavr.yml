@@ -1,0 +1,22 @@
+---
+  id: "33569"
+  word: "lavr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lavr"
+      acc: "lavr"
+      gen: "lavra"
+      loc: "lavru"
+      dat: "lavru"
+      ins: "lavrom"
+      voc: "lavre"
+    plural: 
+      nom: "lavry"
+      acc: "lavry"
+      gen: "lavrov"
+      loc: "lavrah"
+      dat: "lavram"
+      ins: "lavrami"
+      voc: "lavry"

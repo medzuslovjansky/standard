@@ -1,0 +1,22 @@
+---
+  id: "2705"
+  word: "maź"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "maź"
+      acc: "maź"
+      gen: "mazi"
+      loc: "mazi"
+      dat: "mazi"
+      ins: "maźjų"
+      voc: "mazi"
+    plural: 
+      nom: "mazi"
+      acc: "mazi"
+      gen: "mazij"
+      loc: "maźah"
+      dat: "maźam"
+      ins: "maźami"
+      voc: "mazi"

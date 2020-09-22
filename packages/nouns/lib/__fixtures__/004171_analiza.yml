@@ -1,0 +1,22 @@
+---
+  id: "4171"
+  word: "analiza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "analiza"
+      acc: "analizų"
+      gen: "analizy"
+      loc: "analizě"
+      dat: "analizě"
+      ins: "analizojų"
+      voc: "analizo"
+    plural: 
+      nom: "analizy"
+      acc: "analizy"
+      gen: "analiz"
+      loc: "analizah"
+      dat: "analizam"
+      ins: "analizami"
+      voc: "analizy"

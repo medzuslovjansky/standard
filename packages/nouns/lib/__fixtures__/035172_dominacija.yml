@@ -1,0 +1,15 @@
+---
+  id: "35172"
+  word: "dominacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dominacija"
+      acc: "dominacijų"
+      gen: "dominacije"
+      loc: "dominaciji"
+      dat: "dominaciji"
+      ins: "dominacijejų"
+      voc: "dominacijo"

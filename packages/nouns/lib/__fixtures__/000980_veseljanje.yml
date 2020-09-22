@@ -1,0 +1,15 @@
+---
+  id: "980"
+  word: "veseljańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "veseljańje"
+      acc: "veseljańje"
+      gen: "veseljańja"
+      loc: "veseljańju"
+      dat: "veseljańju"
+      ins: "veseljańjem"
+      voc: "veseljańje"

@@ -1,0 +1,22 @@
+---
+  id: "11064"
+  word: "poučeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poučeńje"
+      acc: "poučeńje"
+      gen: "poučeńja"
+      loc: "poučeńju"
+      dat: "poučeńju"
+      ins: "poučeńjem"
+      voc: "poučeńje"
+    plural: 
+      nom: "poučeńja"
+      acc: "poučeńja"
+      gen: "poučenij"
+      loc: "poučeńjah"
+      dat: "poučeńjam"
+      ins: "poučeńjami"
+      voc: "poučeńja"

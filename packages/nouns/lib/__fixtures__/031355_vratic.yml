@@ -1,0 +1,22 @@
+---
+  id: "31355"
+  word: "vråtič"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vråtič"
+      acc: "vråtič"
+      gen: "vråtiča"
+      loc: "vråtiču"
+      dat: "vråtiču"
+      ins: "vråtičem"
+      voc: "vråtiču"
+    plural: 
+      nom: "vråtiče"
+      acc: "vråtiče"
+      gen: "vråtičev"
+      loc: "vråtičah"
+      dat: "vråtičam"
+      ins: "vråtičami"
+      voc: "vråtiče"

@@ -1,0 +1,22 @@
+---
+  id: "5181"
+  word: "formula"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "formula"
+      acc: "formulų"
+      gen: "formuly"
+      loc: "formulě"
+      dat: "formulě"
+      ins: "formulojų"
+      voc: "formulo"
+    plural: 
+      nom: "formuly"
+      acc: "formuly"
+      gen: "formul"
+      loc: "formulah"
+      dat: "formulam"
+      ins: "formulami"
+      voc: "formuly"

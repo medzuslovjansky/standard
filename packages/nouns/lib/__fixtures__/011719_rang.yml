@@ -1,0 +1,22 @@
+---
+  id: "11719"
+  word: "rang"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rang"
+      acc: "rang"
+      gen: "ranga"
+      loc: "rangu"
+      dat: "rangu"
+      ins: "rangom"
+      voc: "ranže"
+    plural: 
+      nom: "rangy"
+      acc: "rangy"
+      gen: "rangov"
+      loc: "rangah"
+      dat: "rangam"
+      ins: "rangami"
+      voc: "rangy"

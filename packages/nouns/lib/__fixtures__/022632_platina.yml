@@ -1,0 +1,15 @@
+---
+  id: "22632"
+  word: "platina"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "platina"
+      acc: "platinų"
+      gen: "platiny"
+      loc: "platině"
+      dat: "platině"
+      ins: "platinojų"
+      voc: "platino"

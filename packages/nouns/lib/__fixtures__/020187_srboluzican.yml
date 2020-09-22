@@ -1,0 +1,47 @@
+---
+  - 
+    id: "20187"
+    word: "sŕbolužičan"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "sŕbolužičan"
+        acc: "sŕbolužičana"
+        gen: "sŕbolužičana"
+        loc: "sŕbolužičanu"
+        dat: "sŕbolužičanu"
+        ins: "sŕbolužičanom"
+        voc: "sŕbolužičane"
+      plural: 
+        nom: "sŕbolužičani"
+        acc: "sŕbolužičanov"
+        gen: "sŕbolužičanov"
+        loc: "sŕbolužičanah"
+        dat: "sŕbolužičanam"
+        ins: "sŕbolužičanami"
+        voc: "sŕbolužičani"
+  - 
+    id: "20187"
+    word: "sŕbolužičanin"
+    meta: 
+      gender: "masculine"
+      animated: true
+    declensions: 
+      singular: 
+        nom: "sŕbolužičanin"
+        acc: "sŕbolužičanina"
+        gen: "sŕbolužičanina"
+        loc: "sŕbolužičaninu"
+        dat: "sŕbolužičaninu"
+        ins: "sŕbolužičaninom"
+        voc: "sŕbolužičanine"
+      plural: 
+        nom: "sŕbolužičani"
+        acc: "sŕbolužičanov"
+        gen: "sŕbolužičanov"
+        loc: "sŕbolužičanah"
+        dat: "sŕbolužičanam"
+        ins: "sŕbolužičanami"
+        voc: "sŕbolužičani"

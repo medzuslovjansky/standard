@@ -1,0 +1,22 @@
+---
+  id: "26444"
+  word: "kalina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kalina"
+      acc: "kalinų"
+      gen: "kaliny"
+      loc: "kalině"
+      dat: "kalině"
+      ins: "kalinojų"
+      voc: "kalino"
+    plural: 
+      nom: "kaliny"
+      acc: "kaliny"
+      gen: "kalin"
+      loc: "kalinah"
+      dat: "kalinam"
+      ins: "kalinami"
+      voc: "kaliny"

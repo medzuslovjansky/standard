@@ -1,0 +1,22 @@
+---
+  id: "32601"
+  word: "lavanda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lavanda"
+      acc: "lavandų"
+      gen: "lavandy"
+      loc: "lavandě"
+      dat: "lavandě"
+      ins: "lavandojų"
+      voc: "lavando"
+    plural: 
+      nom: "lavandy"
+      acc: "lavandy"
+      gen: "lavand"
+      loc: "lavandah"
+      dat: "lavandam"
+      ins: "lavandami"
+      voc: "lavandy"

@@ -1,0 +1,22 @@
+---
+  id: "16911"
+  word: "šampionat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šampionat"
+      acc: "šampionat"
+      gen: "šampionata"
+      loc: "šampionatu"
+      dat: "šampionatu"
+      ins: "šampionatom"
+      voc: "šampionate"
+    plural: 
+      nom: "šampionaty"
+      acc: "šampionaty"
+      gen: "šampionatov"
+      loc: "šampionatah"
+      dat: "šampionatam"
+      ins: "šampionatami"
+      voc: "šampionaty"

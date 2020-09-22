@@ -1,0 +1,22 @@
+---
+  id: "35229"
+  word: "loterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "loterija"
+      acc: "loterijų"
+      gen: "loterije"
+      loc: "loteriji"
+      dat: "loteriji"
+      ins: "loterijejų"
+      voc: "loterijo"
+    plural: 
+      nom: "loterije"
+      acc: "loterije"
+      gen: "loterij"
+      loc: "loterijah"
+      dat: "loterijam"
+      ins: "loterijami"
+      voc: "loterije"

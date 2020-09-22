@@ -1,0 +1,22 @@
+---
+  id: "23019"
+  word: "litr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "litr"
+      acc: "litr"
+      gen: "litra"
+      loc: "litru"
+      dat: "litru"
+      ins: "litrom"
+      voc: "litre"
+    plural: 
+      nom: "litry"
+      acc: "litry"
+      gen: "litrov"
+      loc: "litrah"
+      dat: "litram"
+      ins: "litrami"
+      voc: "litry"

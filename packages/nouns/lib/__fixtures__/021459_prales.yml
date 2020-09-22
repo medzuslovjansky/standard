@@ -1,0 +1,22 @@
+---
+  id: "21459"
+  word: "pralěs"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pralěs"
+      acc: "pralěs"
+      gen: "pralěsa"
+      loc: "pralěsu"
+      dat: "pralěsu"
+      ins: "pralěsom"
+      voc: "pralěse"
+    plural: 
+      nom: "pralěsy"
+      acc: "pralěsy"
+      gen: "pralěsov"
+      loc: "pralěsah"
+      dat: "pralěsam"
+      ins: "pralěsami"
+      voc: "pralěsy"

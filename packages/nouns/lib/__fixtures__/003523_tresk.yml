@@ -1,0 +1,22 @@
+---
+  id: "3523"
+  word: "trěsk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trěsk"
+      acc: "trěsk"
+      gen: "trěska"
+      loc: "trěsku"
+      dat: "trěsku"
+      ins: "trěskom"
+      voc: "trěsče"
+    plural: 
+      nom: "trěsky"
+      acc: "trěsky"
+      gen: "trěskov"
+      loc: "trěskah"
+      dat: "trěskam"
+      ins: "trěskami"
+      voc: "trěsky"

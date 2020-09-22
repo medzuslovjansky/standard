@@ -1,0 +1,22 @@
+---
+  id: "27207"
+  word: "lěpkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "lěpkosť"
+      acc: "lěpkosť"
+      gen: "lěpkosti"
+      loc: "lěpkosti"
+      dat: "lěpkosti"
+      ins: "lěpkosťjų"
+      voc: "lěpkosti"
+    plural: 
+      nom: "lěpkosti"
+      acc: "lěpkosti"
+      gen: "lěpkostij"
+      loc: "lěpkosťah"
+      dat: "lěpkosťam"
+      ins: "lěpkosťami"
+      voc: "lěpkosti"

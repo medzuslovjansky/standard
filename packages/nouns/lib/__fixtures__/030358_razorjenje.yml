@@ -1,0 +1,22 @@
+---
+  id: "30358"
+  word: "råzorjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzorjeńje"
+      acc: "råzorjeńje"
+      gen: "råzorjeńja"
+      loc: "råzorjeńju"
+      dat: "råzorjeńju"
+      ins: "råzorjeńjem"
+      voc: "råzorjeńje"
+    plural: 
+      nom: "råzorjeńja"
+      acc: "råzorjeńja"
+      gen: "råzorjenij"
+      loc: "råzorjeńjah"
+      dat: "råzorjeńjam"
+      ins: "råzorjeńjami"
+      voc: "råzorjeńja"

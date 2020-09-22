@@ -1,0 +1,23 @@
+---
+  id: "1807"
+  word: "zastųpnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zastųpnik"
+      acc: "zastųpnika"
+      gen: "zastųpnika"
+      loc: "zastųpniku"
+      dat: "zastųpniku"
+      ins: "zastųpnikom"
+      voc: "zastųpniče"
+    plural: 
+      nom: "zastųpniki"
+      acc: "zastųpnikov"
+      gen: "zastųpnikov"
+      loc: "zastųpnikah"
+      dat: "zastųpnikam"
+      ins: "zastųpnikami"
+      voc: "zastųpniki"

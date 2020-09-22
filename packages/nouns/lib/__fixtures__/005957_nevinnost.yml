@@ -1,0 +1,22 @@
+---
+  id: "5957"
+  word: "nevinnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevinnosť"
+      acc: "nevinnosť"
+      gen: "nevinnosti"
+      loc: "nevinnosti"
+      dat: "nevinnosti"
+      ins: "nevinnosťjų"
+      voc: "nevinnosti"
+    plural: 
+      nom: "nevinnosti"
+      acc: "nevinnosti"
+      gen: "nevinnostij"
+      loc: "nevinnosťah"
+      dat: "nevinnosťam"
+      ins: "nevinnosťami"
+      voc: "nevinnosti"

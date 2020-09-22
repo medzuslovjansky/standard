@@ -1,0 +1,22 @@
+---
+  id: "25164"
+  word: "defekt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "defekt"
+      acc: "defekt"
+      gen: "defekta"
+      loc: "defektu"
+      dat: "defektu"
+      ins: "defektom"
+      voc: "defekte"
+    plural: 
+      nom: "defekty"
+      acc: "defekty"
+      gen: "defektov"
+      loc: "defektah"
+      dat: "defektam"
+      ins: "defektami"
+      voc: "defekty"

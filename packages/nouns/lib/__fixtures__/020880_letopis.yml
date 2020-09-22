@@ -1,0 +1,22 @@
+---
+  id: "20880"
+  word: "lětopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "lětopis"
+      acc: "lětopis"
+      gen: "lětopisa"
+      loc: "lětopisu"
+      dat: "lětopisu"
+      ins: "lětopisom"
+      voc: "lětopise"
+    plural: 
+      nom: "lětopisy"
+      acc: "lětopisy"
+      gen: "lětopisov"
+      loc: "lětopisah"
+      dat: "lětopisam"
+      ins: "lětopisami"
+      voc: "lětopisy"

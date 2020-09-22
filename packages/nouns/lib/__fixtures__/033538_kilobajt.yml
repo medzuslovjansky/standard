@@ -1,0 +1,22 @@
+---
+  id: "33538"
+  word: "kilobajt"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kilobajt"
+      acc: "kilobajt"
+      gen: "kilobajta"
+      loc: "kilobajtu"
+      dat: "kilobajtu"
+      ins: "kilobajtom"
+      voc: "kilobajte"
+    plural: 
+      nom: "kilobajty"
+      acc: "kilobajty"
+      gen: "kilobajtov"
+      loc: "kilobajtah"
+      dat: "kilobajtam"
+      ins: "kilobajtami"
+      voc: "kilobajty"

@@ -1,0 +1,22 @@
+---
+  id: "17740"
+  word: "liga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "liga"
+      acc: "ligų"
+      gen: "ligy"
+      loc: "ligě"
+      dat: "ligě"
+      ins: "ligojų"
+      voc: "ligo"
+    plural: 
+      nom: "ligy"
+      acc: "ligy"
+      gen: "lig"
+      loc: "ligah"
+      dat: "ligam"
+      ins: "ligami"
+      voc: "ligy"

@@ -1,0 +1,15 @@
+---
+  id: "19667"
+  word: "cělosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "cělosť"
+      acc: "cělosť"
+      gen: "cělosti"
+      loc: "cělosti"
+      dat: "cělosti"
+      ins: "cělosťjų"
+      voc: "cělosti"

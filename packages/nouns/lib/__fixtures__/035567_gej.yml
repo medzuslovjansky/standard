@@ -1,0 +1,23 @@
+---
+  id: "35567"
+  word: "gej"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gej"
+      acc: "geja"
+      gen: "geja"
+      loc: "geju"
+      dat: "geju"
+      ins: "gejem"
+      voc: "geju"
+    plural: 
+      nom: "geji"
+      acc: "gejev"
+      gen: "gejev"
+      loc: "gejah"
+      dat: "gejam"
+      ins: "gejami"
+      voc: "geji"

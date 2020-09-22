@@ -1,0 +1,24 @@
+---
+  id: "27163"
+  word: "Lev"
+  meta: 
+    irregularity: "(Ljva)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Lev"
+      acc: "Ljva"
+      gen: "Ljva"
+      loc: "Ljvu"
+      dat: "Ljvu"
+      ins: "Ljvom"
+      voc: "Ljve"
+    plural: 
+      nom: "Ljvi"
+      acc: "Ljvov"
+      gen: "Ljvov"
+      loc: "Ljvah"
+      dat: "Ljvam"
+      ins: "Ljvami"
+      voc: "Ljvi"

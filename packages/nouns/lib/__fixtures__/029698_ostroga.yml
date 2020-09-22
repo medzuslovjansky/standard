@@ -1,0 +1,22 @@
+---
+  id: "29698"
+  word: "ostroga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ostroga"
+      acc: "ostrogų"
+      gen: "ostrogy"
+      loc: "ostrogě"
+      dat: "ostrogě"
+      ins: "ostrogojų"
+      voc: "ostrogo"
+    plural: 
+      nom: "ostrogy"
+      acc: "ostrogy"
+      gen: "ostrog"
+      loc: "ostrogah"
+      dat: "ostrogam"
+      ins: "ostrogami"
+      voc: "ostrogy"

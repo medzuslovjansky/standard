@@ -1,0 +1,22 @@
+---
+  id: "17215"
+  word: "čislo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "čislo"
+      acc: "čislo"
+      gen: "čisla"
+      loc: "čislu"
+      dat: "čislu"
+      ins: "čislom"
+      voc: "čislo"
+    plural: 
+      nom: "čisla"
+      acc: "čisla"
+      gen: "čisel"
+      loc: "čislah"
+      dat: "čislam"
+      ins: "čislami"
+      voc: "čisla"

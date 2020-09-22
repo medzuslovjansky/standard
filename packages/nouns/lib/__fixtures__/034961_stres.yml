@@ -1,0 +1,22 @@
+---
+  id: "34961"
+  word: "stres"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "stres"
+      acc: "stres"
+      gen: "stresa"
+      loc: "stresu"
+      dat: "stresu"
+      ins: "stresom"
+      voc: "strese"
+    plural: 
+      nom: "stresy"
+      acc: "stresy"
+      gen: "stresov"
+      loc: "stresah"
+      dat: "stresam"
+      ins: "stresami"
+      voc: "stresy"

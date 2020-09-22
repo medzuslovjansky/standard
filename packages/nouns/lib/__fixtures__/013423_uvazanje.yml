@@ -1,0 +1,15 @@
+---
+  id: "13423"
+  word: "uvažańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "uvažańje"
+      acc: "uvažańje"
+      gen: "uvažańja"
+      loc: "uvažańju"
+      dat: "uvažańju"
+      ins: "uvažańjem"
+      voc: "uvažańje"

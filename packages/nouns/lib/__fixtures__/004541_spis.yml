@@ -1,0 +1,22 @@
+---
+  id: "4541"
+  word: "spis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spis"
+      acc: "spis"
+      gen: "spisa"
+      loc: "spisu"
+      dat: "spisu"
+      ins: "spisom"
+      voc: "spise"
+    plural: 
+      nom: "spisy"
+      acc: "spisy"
+      gen: "spisov"
+      loc: "spisah"
+      dat: "spisam"
+      ins: "spisami"
+      voc: "spisy"

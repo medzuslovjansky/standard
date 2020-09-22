@@ -1,0 +1,22 @@
+---
+  id: "4795"
+  word: "kino"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kino"
+      acc: "kino"
+      gen: "kina"
+      loc: "kinu"
+      dat: "kinu"
+      ins: "kinom"
+      voc: "kino"
+    plural: 
+      nom: "kina"
+      acc: "kina"
+      gen: "kin"
+      loc: "kinah"
+      dat: "kinam"
+      ins: "kinami"
+      voc: "kina"

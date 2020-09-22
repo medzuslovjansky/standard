@@ -1,0 +1,15 @@
+---
+  id: "2844"
+  word: "Poljska"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Poljska"
+      acc: "Poljskų"
+      gen: "Poljsky"
+      loc: "Poljskě"
+      dat: "Poljskě"
+      ins: "Poljskojų"
+      voc: "Poljsko"

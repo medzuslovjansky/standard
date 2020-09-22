@@ -1,0 +1,22 @@
+---
+  id: "36674"
+  word: "bufer"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bufer"
+      acc: "bufer"
+      gen: "bufera"
+      loc: "buferu"
+      dat: "buferu"
+      ins: "buferom"
+      voc: "bufere"
+    plural: 
+      nom: "bufery"
+      acc: "bufery"
+      gen: "buferov"
+      loc: "buferah"
+      dat: "buferam"
+      ins: "buferami"
+      voc: "bufery"

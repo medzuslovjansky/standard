@@ -1,0 +1,22 @@
+---
+  id: "34943"
+  word: "studio"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "studio"
+      acc: "studio"
+      gen: "studia"
+      loc: "studiu"
+      dat: "studiu"
+      ins: "studiom"
+      voc: "studio"
+    plural: 
+      nom: "studia"
+      acc: "studia"
+      gen: "studi"
+      loc: "studiah"
+      dat: "studiam"
+      ins: "studiami"
+      voc: "studia"

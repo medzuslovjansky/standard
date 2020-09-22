@@ -1,0 +1,22 @@
+---
+  id: "17763"
+  word: "marlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marlivosť"
+      acc: "marlivosť"
+      gen: "marlivosti"
+      loc: "marlivosti"
+      dat: "marlivosti"
+      ins: "marlivosťjų"
+      voc: "marlivosti"
+    plural: 
+      nom: "marlivosti"
+      acc: "marlivosti"
+      gen: "marlivostij"
+      loc: "marlivosťah"
+      dat: "marlivosťam"
+      ins: "marlivosťami"
+      voc: "marlivosti"

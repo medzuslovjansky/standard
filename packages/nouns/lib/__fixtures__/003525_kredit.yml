@@ -1,0 +1,22 @@
+---
+  id: "3525"
+  word: "kredit"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kredit"
+      acc: "kredit"
+      gen: "kredita"
+      loc: "kreditu"
+      dat: "kreditu"
+      ins: "kreditom"
+      voc: "kredite"
+    plural: 
+      nom: "kredity"
+      acc: "kredity"
+      gen: "kreditov"
+      loc: "kreditah"
+      dat: "kreditam"
+      ins: "kreditami"
+      voc: "kredity"

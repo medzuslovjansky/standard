@@ -1,0 +1,22 @@
+---
+  id: "5005"
+  word: "pojęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pojęťje"
+      acc: "pojęťje"
+      gen: "pojęťja"
+      loc: "pojęťju"
+      dat: "pojęťju"
+      ins: "pojęťjem"
+      voc: "pojęťje"
+    plural: 
+      nom: "pojęťja"
+      acc: "pojęťja"
+      gen: "pojętij"
+      loc: "pojęťjah"
+      dat: "pojęťjam"
+      ins: "pojęťjami"
+      voc: "pojęťja"

@@ -1,0 +1,22 @@
+---
+  id: "25542"
+  word: "galeta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galeta"
+      acc: "galetų"
+      gen: "galety"
+      loc: "galetě"
+      dat: "galetě"
+      ins: "galetojų"
+      voc: "galeto"
+    plural: 
+      nom: "galety"
+      acc: "galety"
+      gen: "galet"
+      loc: "galetah"
+      dat: "galetam"
+      ins: "galetami"
+      voc: "galety"

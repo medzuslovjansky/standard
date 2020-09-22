@@ -1,0 +1,22 @@
+---
+  id: "5286"
+  word: "veličina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "veličina"
+      acc: "veličinų"
+      gen: "veličiny"
+      loc: "veličině"
+      dat: "veličině"
+      ins: "veličinojų"
+      voc: "veličino"
+    plural: 
+      nom: "veličiny"
+      acc: "veličiny"
+      gen: "veličin"
+      loc: "veličinah"
+      dat: "veličinam"
+      ins: "veličinami"
+      voc: "veličiny"

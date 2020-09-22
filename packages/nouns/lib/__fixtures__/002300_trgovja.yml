@@ -1,0 +1,22 @@
+---
+  id: "2300"
+  word: "trgovja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "trgovja"
+      acc: "trgovjų"
+      gen: "trgovje"
+      loc: "trgovji"
+      dat: "trgovji"
+      ins: "trgovjejų"
+      voc: "trgovjo"
+    plural: 
+      nom: "trgovje"
+      acc: "trgovje"
+      gen: "trgovej"
+      loc: "trgovjah"
+      dat: "trgovjam"
+      ins: "trgovjami"
+      voc: "trgovje"

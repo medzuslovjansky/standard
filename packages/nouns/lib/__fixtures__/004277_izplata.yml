@@ -1,0 +1,22 @@
+---
+  id: "4277"
+  word: "izplata"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "izplata"
+      acc: "izplatų"
+      gen: "izplaty"
+      loc: "izplatě"
+      dat: "izplatě"
+      ins: "izplatojų"
+      voc: "izplato"
+    plural: 
+      nom: "izplaty"
+      acc: "izplaty"
+      gen: "izplat"
+      loc: "izplatah"
+      dat: "izplatam"
+      ins: "izplatami"
+      voc: "izplaty"

@@ -1,0 +1,22 @@
+---
+  id: "22121"
+  word: "styk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "styk"
+      acc: "styk"
+      gen: "styka"
+      loc: "styku"
+      dat: "styku"
+      ins: "stykom"
+      voc: "styče"
+    plural: 
+      nom: "styky"
+      acc: "styky"
+      gen: "stykov"
+      loc: "stykah"
+      dat: "stykam"
+      ins: "stykami"
+      voc: "styky"

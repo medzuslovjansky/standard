@@ -1,0 +1,22 @@
+---
+  id: "36185"
+  word: "personifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "personifikacija"
+      acc: "personifikacijų"
+      gen: "personifikacije"
+      loc: "personifikaciji"
+      dat: "personifikaciji"
+      ins: "personifikacijejų"
+      voc: "personifikacijo"
+    plural: 
+      nom: "personifikacije"
+      acc: "personifikacije"
+      gen: "personifikacij"
+      loc: "personifikacijah"
+      dat: "personifikacijam"
+      ins: "personifikacijami"
+      voc: "personifikacije"

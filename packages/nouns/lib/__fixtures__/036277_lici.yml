@@ -1,0 +1,23 @@
+---
+  id: "36277"
+  word: "liči"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "liči"
+      acc: "liči"
+      gen: "liči"
+      loc: "liči"
+      dat: "liči"
+      ins: "liči"
+      voc: "liči"
+    plural: 
+      nom: "liči"
+      acc: "liči"
+      gen: "liči"
+      loc: "liči"
+      dat: "liči"
+      ins: "liči"
+      voc: "liči"

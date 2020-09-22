@@ -1,0 +1,22 @@
+---
+  id: "3796"
+  word: "kakosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kakosť"
+      acc: "kakosť"
+      gen: "kakosti"
+      loc: "kakosti"
+      dat: "kakosti"
+      ins: "kakosťjų"
+      voc: "kakosti"
+    plural: 
+      nom: "kakosti"
+      acc: "kakosti"
+      gen: "kakostij"
+      loc: "kakosťah"
+      dat: "kakosťam"
+      ins: "kakosťami"
+      voc: "kakosti"

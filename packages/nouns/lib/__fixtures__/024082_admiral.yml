@@ -1,0 +1,23 @@
+---
+  id: "24082"
+  word: "admiral"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "admiral"
+      acc: "admirala"
+      gen: "admirala"
+      loc: "admiralu"
+      dat: "admiralu"
+      ins: "admiralom"
+      voc: "admirale"
+    plural: 
+      nom: "admirali"
+      acc: "admiralov"
+      gen: "admiralov"
+      loc: "admiralah"
+      dat: "admiralam"
+      ins: "admiralami"
+      voc: "admirali"

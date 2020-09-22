@@ -1,0 +1,22 @@
+---
+  id: "31234"
+  word: "vitraž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vitraž"
+      acc: "vitraž"
+      gen: "vitraža"
+      loc: "vitražu"
+      dat: "vitražu"
+      ins: "vitražem"
+      voc: "vitražu"
+    plural: 
+      nom: "vitraže"
+      acc: "vitraže"
+      gen: "vitražev"
+      loc: "vitražah"
+      dat: "vitražam"
+      ins: "vitražami"
+      voc: "vitraže"

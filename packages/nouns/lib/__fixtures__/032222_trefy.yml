@@ -1,0 +1,15 @@
+---
+  id: "32222"
+  word: "trefy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "trefy"
+      acc: "trefy"
+      gen: "tref"
+      loc: "trefah"
+      dat: "trefam"
+      ins: "trefami"
+      voc: "trefy"

@@ -1,0 +1,22 @@
+---
+  id: "2695"
+  word: "krasota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krasota"
+      acc: "krasotų"
+      gen: "krasoty"
+      loc: "krasotě"
+      dat: "krasotě"
+      ins: "krasotojų"
+      voc: "krasoto"
+    plural: 
+      nom: "krasoty"
+      acc: "krasoty"
+      gen: "krasot"
+      loc: "krasotah"
+      dat: "krasotam"
+      ins: "krasotami"
+      voc: "krasoty"

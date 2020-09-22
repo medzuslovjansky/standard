@@ -1,0 +1,22 @@
+---
+  id: "6825"
+  word: "čerep"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "čerep"
+      acc: "čerep"
+      gen: "čerepa"
+      loc: "čerepu"
+      dat: "čerepu"
+      ins: "čerepom"
+      voc: "čerepe"
+    plural: 
+      nom: "čerepy"
+      acc: "čerepy"
+      gen: "čerepov"
+      loc: "čerepah"
+      dat: "čerepam"
+      ins: "čerepami"
+      voc: "čerepy"

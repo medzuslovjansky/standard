@@ -1,0 +1,22 @@
+---
+  id: "36756"
+  word: "aforizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aforizm"
+      acc: "aforizm"
+      gen: "aforizma"
+      loc: "aforizmu"
+      dat: "aforizmu"
+      ins: "aforizmom"
+      voc: "aforizme"
+    plural: 
+      nom: "aforizmy"
+      acc: "aforizmy"
+      gen: "aforizmov"
+      loc: "aforizmah"
+      dat: "aforizmam"
+      ins: "aforizmami"
+      voc: "aforizmy"

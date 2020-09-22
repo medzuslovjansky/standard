@@ -1,0 +1,22 @@
+---
+  id: "17124"
+  word: "aristokratka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "aristokratka"
+      acc: "aristokratkų"
+      gen: "aristokratky"
+      loc: "aristokratkě"
+      dat: "aristokratkě"
+      ins: "aristokratkojų"
+      voc: "aristokratko"
+    plural: 
+      nom: "aristokratky"
+      acc: "aristokratky"
+      gen: "aristokratȯk"
+      loc: "aristokratkah"
+      dat: "aristokratkam"
+      ins: "aristokratkami"
+      voc: "aristokratky"

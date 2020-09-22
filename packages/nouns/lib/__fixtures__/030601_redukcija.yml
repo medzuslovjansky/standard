@@ -1,0 +1,22 @@
+---
+  id: "30601"
+  word: "redukcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "redukcija"
+      acc: "redukcijų"
+      gen: "redukcije"
+      loc: "redukciji"
+      dat: "redukciji"
+      ins: "redukcijejų"
+      voc: "redukcijo"
+    plural: 
+      nom: "redukcije"
+      acc: "redukcije"
+      gen: "redukcij"
+      loc: "redukcijah"
+      dat: "redukcijam"
+      ins: "redukcijami"
+      voc: "redukcije"

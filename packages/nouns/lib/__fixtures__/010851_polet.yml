@@ -1,0 +1,22 @@
+---
+  id: "10851"
+  word: "polet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "polet"
+      acc: "polet"
+      gen: "poleta"
+      loc: "poletu"
+      dat: "poletu"
+      ins: "poletom"
+      voc: "polete"
+    plural: 
+      nom: "polety"
+      acc: "polety"
+      gen: "poletov"
+      loc: "poletah"
+      dat: "poletam"
+      ins: "poletami"
+      voc: "polety"

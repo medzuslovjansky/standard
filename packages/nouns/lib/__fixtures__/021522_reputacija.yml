@@ -1,0 +1,22 @@
+---
+  id: "21522"
+  word: "reputacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "reputacija"
+      acc: "reputacijų"
+      gen: "reputacije"
+      loc: "reputaciji"
+      dat: "reputaciji"
+      ins: "reputacijejų"
+      voc: "reputacijo"
+    plural: 
+      nom: "reputacije"
+      acc: "reputacije"
+      gen: "reputacij"
+      loc: "reputacijah"
+      dat: "reputacijam"
+      ins: "reputacijami"
+      voc: "reputacije"

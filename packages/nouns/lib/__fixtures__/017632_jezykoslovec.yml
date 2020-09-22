@@ -1,0 +1,23 @@
+---
+  id: "17632"
+  word: "językoslovec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "językoslovec"
+      acc: "językoslovca"
+      gen: "językoslovca"
+      loc: "językoslovcu"
+      dat: "językoslovcu"
+      ins: "językoslovcem"
+      voc: "językoslovče"
+    plural: 
+      nom: "językoslovci"
+      acc: "językoslovcev"
+      gen: "językoslovcev"
+      loc: "językoslovcah"
+      dat: "językoslovcam"
+      ins: "językoslovcami"
+      voc: "językoslovci"

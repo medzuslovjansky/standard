@@ -1,0 +1,22 @@
+---
+  id: "35970"
+  word: "karnaval"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "karnaval"
+      acc: "karnaval"
+      gen: "karnavala"
+      loc: "karnavalu"
+      dat: "karnavalu"
+      ins: "karnavalom"
+      voc: "karnavale"
+    plural: 
+      nom: "karnavaly"
+      acc: "karnavaly"
+      gen: "karnavalov"
+      loc: "karnavalah"
+      dat: "karnavalam"
+      ins: "karnavalami"
+      voc: "karnavaly"

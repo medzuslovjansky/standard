@@ -1,0 +1,15 @@
+---
+  id: "22598"
+  word: "helij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "helij"
+      acc: "helij"
+      gen: "helija"
+      loc: "heliju"
+      dat: "heliju"
+      ins: "helijem"
+      voc: "heliju"

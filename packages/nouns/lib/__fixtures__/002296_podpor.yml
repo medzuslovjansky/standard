@@ -1,0 +1,22 @@
+---
+  id: "2296"
+  word: "podpor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "podpor"
+      acc: "podpor"
+      gen: "podpora"
+      loc: "podporu"
+      dat: "podporu"
+      ins: "podporom"
+      voc: "podpore"
+    plural: 
+      nom: "podpory"
+      acc: "podpory"
+      gen: "podporov"
+      loc: "podporah"
+      dat: "podporam"
+      ins: "podporami"
+      voc: "podpory"

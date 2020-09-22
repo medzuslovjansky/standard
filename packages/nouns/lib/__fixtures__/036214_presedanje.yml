@@ -1,0 +1,22 @@
+---
+  id: "36214"
+  word: "prěsědańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěsědańje"
+      acc: "prěsědańje"
+      gen: "prěsědańja"
+      loc: "prěsědańju"
+      dat: "prěsědańju"
+      ins: "prěsědańjem"
+      voc: "prěsědańje"
+    plural: 
+      nom: "prěsědańja"
+      acc: "prěsědańja"
+      gen: "prěsědanij"
+      loc: "prěsědańjah"
+      dat: "prěsědańjam"
+      ins: "prěsědańjami"
+      voc: "prěsědańja"

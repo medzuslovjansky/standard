@@ -1,0 +1,22 @@
+---
+  id: "25618"
+  word: "gladkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gladkosť"
+      acc: "gladkosť"
+      gen: "gladkosti"
+      loc: "gladkosti"
+      dat: "gladkosti"
+      ins: "gladkosťjų"
+      voc: "gladkosti"
+    plural: 
+      nom: "gladkosti"
+      acc: "gladkosti"
+      gen: "gladkostij"
+      loc: "gladkosťah"
+      dat: "gladkosťam"
+      ins: "gladkosťami"
+      voc: "gladkosti"

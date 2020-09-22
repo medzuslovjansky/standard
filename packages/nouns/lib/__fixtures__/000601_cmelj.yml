@@ -1,0 +1,23 @@
+---
+  id: "601"
+  word: "čmelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čmelj"
+      acc: "čmelja"
+      gen: "čmelja"
+      loc: "čmelju"
+      dat: "čmelju"
+      ins: "čmeljem"
+      voc: "čmelju"
+    plural: 
+      nom: "čmelji"
+      acc: "čmeljev"
+      gen: "čmeljev"
+      loc: "čmeljah"
+      dat: "čmeljam"
+      ins: "čmeljami"
+      voc: "čmelji"

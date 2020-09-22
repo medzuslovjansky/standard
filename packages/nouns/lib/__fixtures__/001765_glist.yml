@@ -1,0 +1,23 @@
+---
+  id: "1765"
+  word: "glist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "glist"
+      acc: "glista"
+      gen: "glista"
+      loc: "glistu"
+      dat: "glistu"
+      ins: "glistom"
+      voc: "gliste"
+    plural: 
+      nom: "glisti"
+      acc: "glistov"
+      gen: "glistov"
+      loc: "glistah"
+      dat: "glistam"
+      ins: "glistami"
+      voc: "glisti"

@@ -1,0 +1,22 @@
+---
+  id: "21583"
+  word: "sobstvenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sobstvenosť"
+      acc: "sobstvenosť"
+      gen: "sobstvenosti"
+      loc: "sobstvenosti"
+      dat: "sobstvenosti"
+      ins: "sobstvenosťjų"
+      voc: "sobstvenosti"
+    plural: 
+      nom: "sobstvenosti"
+      acc: "sobstvenosti"
+      gen: "sobstvenostij"
+      loc: "sobstvenosťah"
+      dat: "sobstvenosťam"
+      ins: "sobstvenosťami"
+      voc: "sobstvenosti"

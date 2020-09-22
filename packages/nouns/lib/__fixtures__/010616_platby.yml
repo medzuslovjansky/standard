@@ -1,0 +1,15 @@
+---
+  id: "10616"
+  word: "plaťby"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "plaťby"
+      acc: "plaťby"
+      gen: "plaťb"
+      loc: "plaťbah"
+      dat: "plaťbam"
+      ins: "plaťbami"
+      voc: "plaťby"

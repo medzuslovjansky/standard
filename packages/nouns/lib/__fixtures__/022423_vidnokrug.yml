@@ -1,0 +1,22 @@
+---
+  id: "22423"
+  word: "vidnokrųg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vidnokrųg"
+      acc: "vidnokrųg"
+      gen: "vidnokrųga"
+      loc: "vidnokrųgu"
+      dat: "vidnokrųgu"
+      ins: "vidnokrųgom"
+      voc: "vidnokrųže"
+    plural: 
+      nom: "vidnokrųgy"
+      acc: "vidnokrųgy"
+      gen: "vidnokrųgov"
+      loc: "vidnokrųgah"
+      dat: "vidnokrųgam"
+      ins: "vidnokrųgami"
+      voc: "vidnokrųgy"

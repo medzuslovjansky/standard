@@ -1,0 +1,22 @@
+---
+  id: "24560"
+  word: "baterija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "baterija"
+      acc: "baterijų"
+      gen: "baterije"
+      loc: "bateriji"
+      dat: "bateriji"
+      ins: "baterijejų"
+      voc: "baterijo"
+    plural: 
+      nom: "baterije"
+      acc: "baterije"
+      gen: "baterij"
+      loc: "baterijah"
+      dat: "baterijam"
+      ins: "baterijami"
+      voc: "baterije"

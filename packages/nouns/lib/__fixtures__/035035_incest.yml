@@ -1,0 +1,15 @@
+---
+  id: "35035"
+  word: "incest"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "incest"
+      acc: "incest"
+      gen: "incesta"
+      loc: "incestu"
+      dat: "incestu"
+      ins: "incestom"
+      voc: "inceste"

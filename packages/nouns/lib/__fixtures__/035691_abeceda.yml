@@ -1,0 +1,22 @@
+---
+  id: "35691"
+  word: "abeceda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "abeceda"
+      acc: "abecedų"
+      gen: "abecedy"
+      loc: "abecedě"
+      dat: "abecedě"
+      ins: "abecedojų"
+      voc: "abecedo"
+    plural: 
+      nom: "abecedy"
+      acc: "abecedy"
+      gen: "abeced"
+      loc: "abecedah"
+      dat: "abecedam"
+      ins: "abecedami"
+      voc: "abecedy"

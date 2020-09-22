@@ -1,0 +1,22 @@
+---
+  id: "22413"
+  word: "parovoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parovoz"
+      acc: "parovoz"
+      gen: "parovoza"
+      loc: "parovozu"
+      dat: "parovozu"
+      ins: "parovozom"
+      voc: "parovoze"
+    plural: 
+      nom: "parovozy"
+      acc: "parovozy"
+      gen: "parovozov"
+      loc: "parovozah"
+      dat: "parovozam"
+      ins: "parovozami"
+      voc: "parovozy"

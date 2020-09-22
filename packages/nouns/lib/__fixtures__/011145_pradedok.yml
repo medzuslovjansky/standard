@@ -1,0 +1,23 @@
+---
+  id: "11145"
+  word: "pradědȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pradědȯk"
+      acc: "pradědka"
+      gen: "pradědka"
+      loc: "pradědku"
+      dat: "pradědku"
+      ins: "pradědkom"
+      voc: "pradědče"
+    plural: 
+      nom: "pradědki"
+      acc: "pradědkov"
+      gen: "pradědkov"
+      loc: "pradědkah"
+      dat: "pradědkam"
+      ins: "pradědkami"
+      voc: "pradědki"

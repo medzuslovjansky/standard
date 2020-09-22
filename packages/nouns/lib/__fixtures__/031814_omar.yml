@@ -1,0 +1,23 @@
+---
+  id: "31814"
+  word: "omar"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "omar"
+      acc: "omara"
+      gen: "omara"
+      loc: "omaru"
+      dat: "omaru"
+      ins: "omarom"
+      voc: "omare"
+    plural: 
+      nom: "omari"
+      acc: "omarov"
+      gen: "omarov"
+      loc: "omarah"
+      dat: "omaram"
+      ins: "omarami"
+      voc: "omari"

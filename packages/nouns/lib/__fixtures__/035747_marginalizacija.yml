@@ -1,0 +1,22 @@
+---
+  id: "35747"
+  word: "marginalizacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "marginalizacija"
+      acc: "marginalizacijų"
+      gen: "marginalizacije"
+      loc: "marginalizaciji"
+      dat: "marginalizaciji"
+      ins: "marginalizacijejų"
+      voc: "marginalizacijo"
+    plural: 
+      nom: "marginalizacije"
+      acc: "marginalizacije"
+      gen: "marginalizacij"
+      loc: "marginalizacijah"
+      dat: "marginalizacijam"
+      ins: "marginalizacijami"
+      voc: "marginalizacije"

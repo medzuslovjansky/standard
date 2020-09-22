@@ -1,0 +1,22 @@
+---
+  id: "2027"
+  word: "dym"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dym"
+      acc: "dym"
+      gen: "dyma"
+      loc: "dymu"
+      dat: "dymu"
+      ins: "dymom"
+      voc: "dyme"
+    plural: 
+      nom: "dymy"
+      acc: "dymy"
+      gen: "dymov"
+      loc: "dymah"
+      dat: "dymam"
+      ins: "dymami"
+      voc: "dymy"

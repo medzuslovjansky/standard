@@ -1,0 +1,22 @@
+---
+  id: "19240"
+  word: "vodojem"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vodojem"
+      acc: "vodojem"
+      gen: "vodojema"
+      loc: "vodojemu"
+      dat: "vodojemu"
+      ins: "vodojemom"
+      voc: "vodojeme"
+    plural: 
+      nom: "vodojemy"
+      acc: "vodojemy"
+      gen: "vodojemov"
+      loc: "vodojemah"
+      dat: "vodojemam"
+      ins: "vodojemami"
+      voc: "vodojemy"

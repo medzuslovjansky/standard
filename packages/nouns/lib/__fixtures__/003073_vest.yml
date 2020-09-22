@@ -1,0 +1,22 @@
+---
+  id: "3073"
+  word: "věsť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "věsť"
+      acc: "věsť"
+      gen: "věsti"
+      loc: "věsti"
+      dat: "věsti"
+      ins: "věsťjų"
+      voc: "věsti"
+    plural: 
+      nom: "věsti"
+      acc: "věsti"
+      gen: "věstij"
+      loc: "věsťah"
+      dat: "věsťam"
+      ins: "věsťami"
+      voc: "věsti"

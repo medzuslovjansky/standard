@@ -1,0 +1,22 @@
+---
+  id: "36537"
+  word: "animacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "animacija"
+      acc: "animacijų"
+      gen: "animacije"
+      loc: "animaciji"
+      dat: "animaciji"
+      ins: "animacijejų"
+      voc: "animacijo"
+    plural: 
+      nom: "animacije"
+      acc: "animacije"
+      gen: "animacij"
+      loc: "animacijah"
+      dat: "animacijam"
+      ins: "animacijami"
+      voc: "animacije"

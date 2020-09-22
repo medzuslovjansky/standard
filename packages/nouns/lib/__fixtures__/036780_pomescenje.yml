@@ -1,0 +1,22 @@
+---
+  id: "36780"
+  word: "poměščeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "poměščeńje"
+      acc: "poměščeńje"
+      gen: "poměščeńja"
+      loc: "poměščeńju"
+      dat: "poměščeńju"
+      ins: "poměščeńjem"
+      voc: "poměščeńje"
+    plural: 
+      nom: "poměščeńja"
+      acc: "poměščeńja"
+      gen: "poměščenij"
+      loc: "poměščeńjah"
+      dat: "poměščeńjam"
+      ins: "poměščeńjami"
+      voc: "poměščeńja"

@@ -1,0 +1,23 @@
+---
+  id: "7319"
+  word: "dŕkatnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "dŕkatnik"
+      acc: "dŕkatnika"
+      gen: "dŕkatnika"
+      loc: "dŕkatniku"
+      dat: "dŕkatniku"
+      ins: "dŕkatnikom"
+      voc: "dŕkatniče"
+    plural: 
+      nom: "dŕkatniki"
+      acc: "dŕkatnikov"
+      gen: "dŕkatnikov"
+      loc: "dŕkatnikah"
+      dat: "dŕkatnikam"
+      ins: "dŕkatnikami"
+      voc: "dŕkatniki"

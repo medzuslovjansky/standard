@@ -1,0 +1,22 @@
+---
+  id: "18836"
+  word: "šljahtička"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šljahtička"
+      acc: "šljahtičkų"
+      gen: "šljahtičky"
+      loc: "šljahtičkě"
+      dat: "šljahtičkě"
+      ins: "šljahtičkojų"
+      voc: "šljahtičko"
+    plural: 
+      nom: "šljahtičky"
+      acc: "šljahtičky"
+      gen: "šljahtiček"
+      loc: "šljahtičkah"
+      dat: "šljahtičkam"
+      ins: "šljahtičkami"
+      voc: "šljahtičky"

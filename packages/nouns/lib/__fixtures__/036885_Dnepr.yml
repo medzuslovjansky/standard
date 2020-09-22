@@ -1,0 +1,15 @@
+---
+  id: "36885"
+  word: "Dněpr"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Dněpr"
+      acc: "Dněpr"
+      gen: "Dněpra"
+      loc: "Dněpru"
+      dat: "Dněpru"
+      ins: "Dněprom"
+      voc: "Dněpre"

@@ -1,0 +1,22 @@
+---
+  id: "3698"
+  word: "množinstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "množinstvo"
+      acc: "množinstvo"
+      gen: "množinstva"
+      loc: "množinstvu"
+      dat: "množinstvu"
+      ins: "množinstvom"
+      voc: "množinstvo"
+    plural: 
+      nom: "množinstva"
+      acc: "množinstva"
+      gen: "množinstv"
+      loc: "množinstvah"
+      dat: "množinstvam"
+      ins: "množinstvami"
+      voc: "množinstva"

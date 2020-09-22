@@ -1,0 +1,22 @@
+---
+  id: "11332"
+  word: "prěpona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěpona"
+      acc: "prěponų"
+      gen: "prěpony"
+      loc: "prěponě"
+      dat: "prěponě"
+      ins: "prěponojų"
+      voc: "prěpono"
+    plural: 
+      nom: "prěpony"
+      acc: "prěpony"
+      gen: "prěpon"
+      loc: "prěponah"
+      dat: "prěponam"
+      ins: "prěponami"
+      voc: "prěpony"

@@ -1,0 +1,15 @@
+---
+  id: "23598"
+  word: "Neptun"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Neptun"
+      acc: "Neptun"
+      gen: "Neptuna"
+      loc: "Neptunu"
+      dat: "Neptunu"
+      ins: "Neptunom"
+      voc: "Neptune"

@@ -1,0 +1,22 @@
+---
+  id: "936"
+  word: "muzej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "muzej"
+      acc: "muzej"
+      gen: "muzeja"
+      loc: "muzeju"
+      dat: "muzeju"
+      ins: "muzejem"
+      voc: "muzeju"
+    plural: 
+      nom: "muzeje"
+      acc: "muzeje"
+      gen: "muzejev"
+      loc: "muzejah"
+      dat: "muzejam"
+      ins: "muzejami"
+      voc: "muzeje"

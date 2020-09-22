@@ -1,0 +1,22 @@
+---
+  id: "4706"
+  word: "povråtȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "povråtȯk"
+      acc: "povråtȯk"
+      gen: "povråtka"
+      loc: "povråtku"
+      dat: "povråtku"
+      ins: "povråtkom"
+      voc: "povråtče"
+    plural: 
+      nom: "povråtky"
+      acc: "povråtky"
+      gen: "povråtkov"
+      loc: "povråtkah"
+      dat: "povråtkam"
+      ins: "povråtkami"
+      voc: "povråtky"

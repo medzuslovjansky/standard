@@ -1,0 +1,23 @@
+---
+  id: "17630"
+  word: "Jezus"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "Jezus"
+      acc: "Jezusa"
+      gen: "Jezusa"
+      loc: "Jezusu"
+      dat: "Jezusu"
+      ins: "Jezusom"
+      voc: "Jezuse"
+    plural: 
+      nom: "Jezusi"
+      acc: "Jezusov"
+      gen: "Jezusov"
+      loc: "Jezusah"
+      dat: "Jezusam"
+      ins: "Jezusami"
+      voc: "Jezusi"

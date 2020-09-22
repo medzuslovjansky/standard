@@ -1,0 +1,22 @@
+---
+  id: "23442"
+  word: "viola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "viola"
+      acc: "violų"
+      gen: "violy"
+      loc: "violě"
+      dat: "violě"
+      ins: "violojų"
+      voc: "violo"
+    plural: 
+      nom: "violy"
+      acc: "violy"
+      gen: "viol"
+      loc: "violah"
+      dat: "violam"
+      ins: "violami"
+      voc: "violy"

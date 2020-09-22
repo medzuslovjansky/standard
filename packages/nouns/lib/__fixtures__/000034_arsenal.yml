@@ -1,0 +1,22 @@
+---
+  id: "34"
+  word: "arsenal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "arsenal"
+      acc: "arsenal"
+      gen: "arsenala"
+      loc: "arsenalu"
+      dat: "arsenalu"
+      ins: "arsenalom"
+      voc: "arsenale"
+    plural: 
+      nom: "arsenaly"
+      acc: "arsenaly"
+      gen: "arsenalov"
+      loc: "arsenalah"
+      dat: "arsenalam"
+      ins: "arsenalami"
+      voc: "arsenaly"

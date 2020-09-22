@@ -1,0 +1,22 @@
+---
+  id: "21782"
+  word: "råzstojańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzstojańje"
+      acc: "råzstojańje"
+      gen: "råzstojańja"
+      loc: "råzstojańju"
+      dat: "råzstojańju"
+      ins: "råzstojańjem"
+      voc: "råzstojańje"
+    plural: 
+      nom: "råzstojańja"
+      acc: "råzstojańja"
+      gen: "råzstojanij"
+      loc: "råzstojańjah"
+      dat: "råzstojańjam"
+      ins: "råzstojańjami"
+      voc: "råzstojańja"

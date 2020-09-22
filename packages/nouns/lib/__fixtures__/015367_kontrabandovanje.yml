@@ -1,0 +1,15 @@
+---
+  id: "15367"
+  word: "kontrabandovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kontrabandovańje"
+      acc: "kontrabandovańje"
+      gen: "kontrabandovańja"
+      loc: "kontrabandovańju"
+      dat: "kontrabandovańju"
+      ins: "kontrabandovańjem"
+      voc: "kontrabandovańje"

@@ -1,0 +1,22 @@
+---
+  id: "2827"
+  word: "ovoć"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ovoć"
+      acc: "ovoć"
+      gen: "ovoća"
+      loc: "ovoću"
+      dat: "ovoću"
+      ins: "ovoćem"
+      voc: "ovoću"
+    plural: 
+      nom: "ovoće"
+      acc: "ovoće"
+      gen: "ovoćev"
+      loc: "ovoćah"
+      dat: "ovoćam"
+      ins: "ovoćami"
+      voc: "ovoće"

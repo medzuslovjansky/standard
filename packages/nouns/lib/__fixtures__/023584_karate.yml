@@ -1,0 +1,23 @@
+---
+  id: "23584"
+  word: "karate"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "karate"
+      acc: "karate"
+      gen: "karate"
+      loc: "karate"
+      dat: "karate"
+      ins: "karate"
+      voc: "karate"
+    plural: 
+      nom: "karate"
+      acc: "karate"
+      gen: "karate"
+      loc: "karate"
+      dat: "karate"
+      ins: "karate"
+      voc: "karate"

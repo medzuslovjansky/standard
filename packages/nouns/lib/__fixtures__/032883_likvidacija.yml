@@ -1,0 +1,22 @@
+---
+  id: "32883"
+  word: "likvidacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "likvidacija"
+      acc: "likvidacijų"
+      gen: "likvidacije"
+      loc: "likvidaciji"
+      dat: "likvidaciji"
+      ins: "likvidacijejų"
+      voc: "likvidacijo"
+    plural: 
+      nom: "likvidacije"
+      acc: "likvidacije"
+      gen: "likvidacij"
+      loc: "likvidacijah"
+      dat: "likvidacijam"
+      ins: "likvidacijami"
+      voc: "likvidacije"

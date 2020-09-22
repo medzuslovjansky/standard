@@ -1,0 +1,23 @@
+---
+  id: "345"
+  word: "črv"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črv"
+      acc: "črva"
+      gen: "črva"
+      loc: "črvu"
+      dat: "črvu"
+      ins: "črvom"
+      voc: "črve"
+    plural: 
+      nom: "črvi"
+      acc: "črvov"
+      gen: "črvov"
+      loc: "črvah"
+      dat: "črvam"
+      ins: "črvami"
+      voc: "črvi"

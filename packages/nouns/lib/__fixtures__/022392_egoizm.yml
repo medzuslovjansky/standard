@@ -1,0 +1,15 @@
+---
+  id: "22392"
+  word: "egoizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "egoizm"
+      acc: "egoizm"
+      gen: "egoizma"
+      loc: "egoizmu"
+      dat: "egoizmu"
+      ins: "egoizmom"
+      voc: "egoizme"

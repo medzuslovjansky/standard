@@ -1,0 +1,22 @@
+---
+  id: "23757"
+  word: "baobab"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "baobab"
+      acc: "baobab"
+      gen: "baobaba"
+      loc: "baobabu"
+      dat: "baobabu"
+      ins: "baobabom"
+      voc: "baobabe"
+    plural: 
+      nom: "baobaby"
+      acc: "baobaby"
+      gen: "baobabov"
+      loc: "baobabah"
+      dat: "baobabam"
+      ins: "baobabami"
+      voc: "baobaby"

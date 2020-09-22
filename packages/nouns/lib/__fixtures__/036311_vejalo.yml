@@ -1,0 +1,22 @@
+---
+  id: "36311"
+  word: "vějalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vějalo"
+      acc: "vějalo"
+      gen: "vějala"
+      loc: "vějalu"
+      dat: "vějalu"
+      ins: "vějalom"
+      voc: "vějalo"
+    plural: 
+      nom: "vějala"
+      acc: "vějala"
+      gen: "vějal"
+      loc: "vějalah"
+      dat: "vějalam"
+      ins: "vějalami"
+      voc: "vějala"

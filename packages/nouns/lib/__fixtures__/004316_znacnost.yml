@@ -1,0 +1,22 @@
+---
+  id: "4316"
+  word: "značnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "značnosť"
+      acc: "značnosť"
+      gen: "značnosti"
+      loc: "značnosti"
+      dat: "značnosti"
+      ins: "značnosťjų"
+      voc: "značnosti"
+    plural: 
+      nom: "značnosti"
+      acc: "značnosti"
+      gen: "značnostij"
+      loc: "značnosťah"
+      dat: "značnosťam"
+      ins: "značnosťami"
+      voc: "značnosti"

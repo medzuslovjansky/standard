@@ -1,0 +1,22 @@
+---
+  id: "23696"
+  word: "etiketa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "etiketa"
+      acc: "etiketų"
+      gen: "etikety"
+      loc: "etiketě"
+      dat: "etiketě"
+      ins: "etiketojų"
+      voc: "etiketo"
+    plural: 
+      nom: "etikety"
+      acc: "etikety"
+      gen: "etiket"
+      loc: "etiketah"
+      dat: "etiketam"
+      ins: "etiketami"
+      voc: "etikety"

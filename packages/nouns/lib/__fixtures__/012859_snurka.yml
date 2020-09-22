@@ -1,0 +1,22 @@
+---
+  id: "12859"
+  word: "šnurka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šnurka"
+      acc: "šnurkų"
+      gen: "šnurky"
+      loc: "šnurkě"
+      dat: "šnurkě"
+      ins: "šnurkojų"
+      voc: "šnurko"
+    plural: 
+      nom: "šnurky"
+      acc: "šnurky"
+      gen: "šnurȯk"
+      loc: "šnurkah"
+      dat: "šnurkam"
+      ins: "šnurkami"
+      voc: "šnurky"

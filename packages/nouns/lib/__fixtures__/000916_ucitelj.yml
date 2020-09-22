@@ -1,0 +1,23 @@
+---
+  id: "916"
+  word: "učitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "učitelj"
+      acc: "učitelja"
+      gen: "učitelja"
+      loc: "učitelju"
+      dat: "učitelju"
+      ins: "učiteljem"
+      voc: "učitelju"
+    plural: 
+      nom: "učitelji"
+      acc: "učiteljev"
+      gen: "učiteljev"
+      loc: "učiteljah"
+      dat: "učiteljam"
+      ins: "učiteljami"
+      voc: "učitelji"

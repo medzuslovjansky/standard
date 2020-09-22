@@ -1,0 +1,22 @@
+---
+  id: "997"
+  word: "nevěsta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nevěsta"
+      acc: "nevěstų"
+      gen: "nevěsty"
+      loc: "nevěstě"
+      dat: "nevěstě"
+      ins: "nevěstojų"
+      voc: "nevěsto"
+    plural: 
+      nom: "nevěsty"
+      acc: "nevěsty"
+      gen: "nevěst"
+      loc: "nevěstah"
+      dat: "nevěstam"
+      ins: "nevěstami"
+      voc: "nevěsty"

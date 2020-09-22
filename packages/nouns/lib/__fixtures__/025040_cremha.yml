@@ -1,0 +1,22 @@
+---
+  id: "25040"
+  word: "črěmha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "črěmha"
+      acc: "črěmhų"
+      gen: "črěmhy"
+      loc: "črěmhě"
+      dat: "črěmhě"
+      ins: "črěmhojų"
+      voc: "črěmho"
+    plural: 
+      nom: "črěmhy"
+      acc: "črěmhy"
+      gen: "črěmh"
+      loc: "črěmhah"
+      dat: "črěmham"
+      ins: "črěmhami"
+      voc: "črěmhy"

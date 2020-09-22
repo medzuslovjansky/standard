@@ -1,0 +1,23 @@
+---
+  id: "15734"
+  word: "tęznitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tęznitelj"
+      acc: "tęznitelja"
+      gen: "tęznitelja"
+      loc: "tęznitelju"
+      dat: "tęznitelju"
+      ins: "tęzniteljem"
+      voc: "tęznitelju"
+    plural: 
+      nom: "tęznitelji"
+      acc: "tęzniteljev"
+      gen: "tęzniteljev"
+      loc: "tęzniteljah"
+      dat: "tęzniteljam"
+      ins: "tęzniteljami"
+      voc: "tęznitelji"

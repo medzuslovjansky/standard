@@ -1,0 +1,22 @@
+---
+  id: "20993"
+  word: "piśmę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "piśmę"
+      acc: "piśmę"
+      gen: "piśmene / piśmena"
+      loc: "piśmeni / piśmenu"
+      dat: "piśmeni / piśmenu"
+      ins: "piśmenem / piśmenom"
+      voc: "piśmę"
+    plural: 
+      nom: "piśmena"
+      acc: "piśmena"
+      gen: "piśmen"
+      loc: "piśmenah"
+      dat: "piśmenam"
+      ins: "piśmenami"
+      voc: "piśmena"

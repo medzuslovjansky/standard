@@ -1,0 +1,22 @@
+---
+  id: "17445"
+  word: "grųď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grųď"
+      acc: "grųď"
+      gen: "grųdi"
+      loc: "grųdi"
+      dat: "grųdi"
+      ins: "grųďjų"
+      voc: "grųdi"
+    plural: 
+      nom: "grųdi"
+      acc: "grųdi"
+      gen: "grųdij"
+      loc: "grųďah"
+      dat: "grųďam"
+      ins: "grųďami"
+      voc: "grųdi"

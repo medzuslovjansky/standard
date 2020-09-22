@@ -1,0 +1,22 @@
+---
+  id: "33402"
+  word: "kapjušon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kapjušon"
+      acc: "kapjušon"
+      gen: "kapjušona"
+      loc: "kapjušonu"
+      dat: "kapjušonu"
+      ins: "kapjušonom"
+      voc: "kapjušone"
+    plural: 
+      nom: "kapjušony"
+      acc: "kapjušony"
+      gen: "kapjušonov"
+      loc: "kapjušonah"
+      dat: "kapjušonam"
+      ins: "kapjušonami"
+      voc: "kapjušony"

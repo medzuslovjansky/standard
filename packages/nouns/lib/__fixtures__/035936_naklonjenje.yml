@@ -1,0 +1,22 @@
+---
+  id: "35936"
+  word: "naklonjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "naklonjeńje"
+      acc: "naklonjeńje"
+      gen: "naklonjeńja"
+      loc: "naklonjeńju"
+      dat: "naklonjeńju"
+      ins: "naklonjeńjem"
+      voc: "naklonjeńje"
+    plural: 
+      nom: "naklonjeńja"
+      acc: "naklonjeńja"
+      gen: "naklonjenij"
+      loc: "naklonjeńjah"
+      dat: "naklonjeńjam"
+      ins: "naklonjeńjami"
+      voc: "naklonjeńja"

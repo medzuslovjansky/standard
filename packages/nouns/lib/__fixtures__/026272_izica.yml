@@ -1,0 +1,22 @@
+---
+  id: "26272"
+  word: "ižica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ižica"
+      acc: "ižicų"
+      gen: "ižice"
+      loc: "ižici"
+      dat: "ižici"
+      ins: "ižicejų"
+      voc: "ižico"
+    plural: 
+      nom: "ižice"
+      acc: "ižice"
+      gen: "ižic"
+      loc: "ižicah"
+      dat: "ižicam"
+      ins: "ižicami"
+      voc: "ižice"

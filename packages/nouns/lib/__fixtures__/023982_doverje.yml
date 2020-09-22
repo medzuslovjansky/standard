@@ -1,0 +1,15 @@
+---
+  id: "23982"
+  word: "dověŕje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dověŕje"
+      acc: "dověŕje"
+      gen: "dověŕja"
+      loc: "dověŕju"
+      dat: "dověŕju"
+      ins: "dověŕjem"
+      voc: "dověŕje"

@@ -1,0 +1,22 @@
+---
+  id: "35886"
+  word: "špala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "špala"
+      acc: "špalų"
+      gen: "špaly"
+      loc: "špalě"
+      dat: "špalě"
+      ins: "špalojų"
+      voc: "špalo"
+    plural: 
+      nom: "špaly"
+      acc: "špaly"
+      gen: "špal"
+      loc: "špalah"
+      dat: "špalam"
+      ins: "špalami"
+      voc: "špaly"

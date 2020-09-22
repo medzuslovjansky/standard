@@ -1,0 +1,22 @@
+---
+  id: "32"
+  word: "ataka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ataka"
+      acc: "atakų"
+      gen: "ataky"
+      loc: "atakě"
+      dat: "atakě"
+      ins: "atakojų"
+      voc: "atako"
+    plural: 
+      nom: "ataky"
+      acc: "ataky"
+      gen: "atak"
+      loc: "atakah"
+      dat: "atakam"
+      ins: "atakami"
+      voc: "ataky"

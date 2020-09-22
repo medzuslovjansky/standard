@@ -1,0 +1,23 @@
+---
+  id: "32023"
+  word: "ovčaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "ovčaŕ"
+      acc: "ovčaŕa"
+      gen: "ovčaŕa"
+      loc: "ovčaŕu"
+      dat: "ovčaŕu"
+      ins: "ovčaŕem"
+      voc: "ovčaŕu"
+    plural: 
+      nom: "ovčari"
+      acc: "ovčaŕev"
+      gen: "ovčaŕev"
+      loc: "ovčaŕah"
+      dat: "ovčaŕam"
+      ins: "ovčaŕami"
+      voc: "ovčari"

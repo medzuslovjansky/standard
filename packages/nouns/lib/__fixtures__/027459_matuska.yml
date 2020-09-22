@@ -1,0 +1,22 @@
+---
+  id: "27459"
+  word: "matuška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "matuška"
+      acc: "matuškų"
+      gen: "matušky"
+      loc: "matuškě"
+      dat: "matuškě"
+      ins: "matuškojų"
+      voc: "matuško"
+    plural: 
+      nom: "matušky"
+      acc: "matušky"
+      gen: "matušek"
+      loc: "matuškah"
+      dat: "matuškam"
+      ins: "matuškami"
+      voc: "matušky"

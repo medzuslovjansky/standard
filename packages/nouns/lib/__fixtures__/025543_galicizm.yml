@@ -1,0 +1,22 @@
+---
+  id: "25543"
+  word: "galicizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "galicizm"
+      acc: "galicizm"
+      gen: "galicizma"
+      loc: "galicizmu"
+      dat: "galicizmu"
+      ins: "galicizmom"
+      voc: "galicizme"
+    plural: 
+      nom: "galicizmy"
+      acc: "galicizmy"
+      gen: "galicizmov"
+      loc: "galicizmah"
+      dat: "galicizmam"
+      ins: "galicizmami"
+      voc: "galicizmy"

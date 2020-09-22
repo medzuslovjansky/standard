@@ -1,0 +1,23 @@
+---
+  id: "29559"
+  word: "orač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "orač"
+      acc: "orača"
+      gen: "orača"
+      loc: "oraču"
+      dat: "oraču"
+      ins: "oračem"
+      voc: "oraču"
+    plural: 
+      nom: "orači"
+      acc: "oračev"
+      gen: "oračev"
+      loc: "oračah"
+      dat: "oračam"
+      ins: "oračami"
+      voc: "orači"

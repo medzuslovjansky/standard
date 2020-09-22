@@ -1,0 +1,22 @@
+---
+  id: "14083"
+  word: "zajęčlivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zajęčlivosť"
+      acc: "zajęčlivosť"
+      gen: "zajęčlivosti"
+      loc: "zajęčlivosti"
+      dat: "zajęčlivosti"
+      ins: "zajęčlivosťjų"
+      voc: "zajęčlivosti"
+    plural: 
+      nom: "zajęčlivosti"
+      acc: "zajęčlivosti"
+      gen: "zajęčlivostij"
+      loc: "zajęčlivosťah"
+      dat: "zajęčlivosťam"
+      ins: "zajęčlivosťami"
+      voc: "zajęčlivosti"

@@ -1,0 +1,22 @@
+---
+  id: "35108"
+  word: "tornado"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tornado"
+      acc: "tornado"
+      gen: "tornada"
+      loc: "tornadu"
+      dat: "tornadu"
+      ins: "tornadom"
+      voc: "tornado"
+    plural: 
+      nom: "tornada"
+      acc: "tornada"
+      gen: "tornad"
+      loc: "tornadah"
+      dat: "tornadam"
+      ins: "tornadami"
+      voc: "tornada"

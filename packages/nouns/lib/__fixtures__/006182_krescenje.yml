@@ -1,0 +1,22 @@
+---
+  id: "6182"
+  word: "krešćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "krešćeńje"
+      acc: "krešćeńje"
+      gen: "krešćeńja"
+      loc: "krešćeńju"
+      dat: "krešćeńju"
+      ins: "krešćeńjem"
+      voc: "krešćeńje"
+    plural: 
+      nom: "krešćeńja"
+      acc: "krešćeńja"
+      gen: "krešćenij"
+      loc: "krešćeńjah"
+      dat: "krešćeńjam"
+      ins: "krešćeńjami"
+      voc: "krešćeńja"

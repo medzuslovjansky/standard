@@ -1,0 +1,22 @@
+---
+  id: "35045"
+  word: "moped"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "moped"
+      acc: "moped"
+      gen: "mopeda"
+      loc: "mopedu"
+      dat: "mopedu"
+      ins: "mopedom"
+      voc: "mopede"
+    plural: 
+      nom: "mopedy"
+      acc: "mopedy"
+      gen: "mopedov"
+      loc: "mopedah"
+      dat: "mopedam"
+      ins: "mopedami"
+      voc: "mopedy"

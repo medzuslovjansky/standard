@@ -1,0 +1,23 @@
+---
+  id: "20985"
+  word: "pekaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pekaŕ"
+      acc: "pekaŕa"
+      gen: "pekaŕa"
+      loc: "pekaŕu"
+      dat: "pekaŕu"
+      ins: "pekaŕem"
+      voc: "pekaŕu"
+    plural: 
+      nom: "pekari"
+      acc: "pekaŕev"
+      gen: "pekaŕev"
+      loc: "pekaŕah"
+      dat: "pekaŕam"
+      ins: "pekaŕami"
+      voc: "pekari"

@@ -1,0 +1,15 @@
+---
+  id: "35734"
+  word: "destabilizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "destabilizacija"
+      acc: "destabilizacijų"
+      gen: "destabilizacije"
+      loc: "destabilizaciji"
+      dat: "destabilizaciji"
+      ins: "destabilizacijejų"
+      voc: "destabilizacijo"

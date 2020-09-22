@@ -1,0 +1,22 @@
+---
+  id: "21955"
+  word: "postųp"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "postųp"
+      acc: "postųp"
+      gen: "postųpa"
+      loc: "postųpu"
+      dat: "postųpu"
+      ins: "postųpom"
+      voc: "postųpe"
+    plural: 
+      nom: "postųpy"
+      acc: "postųpy"
+      gen: "postųpov"
+      loc: "postųpah"
+      dat: "postųpam"
+      ins: "postųpami"
+      voc: "postųpy"

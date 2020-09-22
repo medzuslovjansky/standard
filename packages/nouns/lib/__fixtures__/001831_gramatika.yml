@@ -1,0 +1,22 @@
+---
+  id: "1831"
+  word: "gramatika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gramatika"
+      acc: "gramatikų"
+      gen: "gramatiky"
+      loc: "gramatikě"
+      dat: "gramatikě"
+      ins: "gramatikojų"
+      voc: "gramatiko"
+    plural: 
+      nom: "gramatiky"
+      acc: "gramatiky"
+      gen: "gramatik"
+      loc: "gramatikah"
+      dat: "gramatikam"
+      ins: "gramatikami"
+      voc: "gramatiky"

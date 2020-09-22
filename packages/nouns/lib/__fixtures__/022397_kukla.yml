@@ -1,0 +1,22 @@
+---
+  id: "22397"
+  word: "kukla"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kukla"
+      acc: "kuklų"
+      gen: "kukly"
+      loc: "kuklě"
+      dat: "kuklě"
+      ins: "kuklojų"
+      voc: "kuklo"
+    plural: 
+      nom: "kukly"
+      acc: "kukly"
+      gen: "kukȯl"
+      loc: "kuklah"
+      dat: "kuklam"
+      ins: "kuklami"
+      voc: "kukly"

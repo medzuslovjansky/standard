@@ -1,0 +1,22 @@
+---
+  id: "35647"
+  word: "modifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "modifikacija"
+      acc: "modifikacijų"
+      gen: "modifikacije"
+      loc: "modifikaciji"
+      dat: "modifikaciji"
+      ins: "modifikacijejų"
+      voc: "modifikacijo"
+    plural: 
+      nom: "modifikacije"
+      acc: "modifikacije"
+      gen: "modifikacij"
+      loc: "modifikacijah"
+      dat: "modifikacijam"
+      ins: "modifikacijami"
+      voc: "modifikacije"

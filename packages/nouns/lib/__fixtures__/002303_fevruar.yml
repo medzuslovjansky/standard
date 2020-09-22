@@ -1,0 +1,15 @@
+---
+  id: "2303"
+  word: "fevruaŕ"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "fevruaŕ"
+      acc: "fevruaŕ"
+      gen: "fevruaŕa"
+      loc: "fevruaŕu"
+      dat: "fevruaŕu"
+      ins: "fevruaŕem"
+      voc: "fevruaŕu"

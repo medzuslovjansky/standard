@@ -1,0 +1,22 @@
+---
+  id: "1199"
+  word: "prědhistorija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prědhistorija"
+      acc: "prědhistorijų"
+      gen: "prědhistorije"
+      loc: "prědhistoriji"
+      dat: "prědhistoriji"
+      ins: "prědhistorijejų"
+      voc: "prědhistorijo"
+    plural: 
+      nom: "prědhistorije"
+      acc: "prědhistorije"
+      gen: "prědhistorij"
+      loc: "prědhistorijah"
+      dat: "prědhistorijam"
+      ins: "prědhistorijami"
+      voc: "prědhistorije"

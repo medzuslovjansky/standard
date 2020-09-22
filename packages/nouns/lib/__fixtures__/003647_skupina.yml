@@ -1,0 +1,22 @@
+---
+  id: "3647"
+  word: "skupina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skupina"
+      acc: "skupinų"
+      gen: "skupiny"
+      loc: "skupině"
+      dat: "skupině"
+      ins: "skupinojų"
+      voc: "skupino"
+    plural: 
+      nom: "skupiny"
+      acc: "skupiny"
+      gen: "skupin"
+      loc: "skupinah"
+      dat: "skupinam"
+      ins: "skupinami"
+      voc: "skupiny"

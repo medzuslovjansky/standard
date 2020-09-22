@@ -1,0 +1,22 @@
+---
+  id: "887"
+  word: "radiacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "radiacija"
+      acc: "radiacijų"
+      gen: "radiacije"
+      loc: "radiaciji"
+      dat: "radiaciji"
+      ins: "radiacijejų"
+      voc: "radiacijo"
+    plural: 
+      nom: "radiacije"
+      acc: "radiacije"
+      gen: "radiacij"
+      loc: "radiacijah"
+      dat: "radiacijam"
+      ins: "radiacijami"
+      voc: "radiacije"

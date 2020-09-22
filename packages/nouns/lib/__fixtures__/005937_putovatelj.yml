@@ -1,0 +1,23 @@
+---
+  id: "5937"
+  word: "pųtovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "pųtovatelj"
+      acc: "pųtovatelja"
+      gen: "pųtovatelja"
+      loc: "pųtovatelju"
+      dat: "pųtovatelju"
+      ins: "pųtovateljem"
+      voc: "pųtovatelju"
+    plural: 
+      nom: "pųtovatelji"
+      acc: "pųtovateljev"
+      gen: "pųtovateljev"
+      loc: "pųtovateljah"
+      dat: "pųtovateljam"
+      ins: "pųtovateljami"
+      voc: "pųtovatelji"

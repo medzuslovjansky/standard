@@ -1,0 +1,22 @@
+---
+  id: "36658"
+  word: "ropuha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ropuha"
+      acc: "ropuhų"
+      gen: "ropuhy"
+      loc: "ropuhě"
+      dat: "ropuhě"
+      ins: "ropuhojų"
+      voc: "ropuho"
+    plural: 
+      nom: "ropuhy"
+      acc: "ropuhy"
+      gen: "ropuh"
+      loc: "ropuhah"
+      dat: "ropuham"
+      ins: "ropuhami"
+      voc: "ropuhy"

@@ -1,0 +1,15 @@
+---
+  id: "23568"
+  word: "geologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "geologija"
+      acc: "geologijų"
+      gen: "geologije"
+      loc: "geologiji"
+      dat: "geologiji"
+      ins: "geologijejų"
+      voc: "geologijo"

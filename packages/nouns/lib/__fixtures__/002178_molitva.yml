@@ -1,0 +1,22 @@
+---
+  id: "2178"
+  word: "molitva"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "molitva"
+      acc: "molitvų"
+      gen: "molitvy"
+      loc: "molitvě"
+      dat: "molitvě"
+      ins: "molitvojų"
+      voc: "molitvo"
+    plural: 
+      nom: "molitvy"
+      acc: "molitvy"
+      gen: "molitv"
+      loc: "molitvah"
+      dat: "molitvam"
+      ins: "molitvami"
+      voc: "molitvy"

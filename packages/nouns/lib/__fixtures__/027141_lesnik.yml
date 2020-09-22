@@ -1,0 +1,23 @@
+---
+  id: "27141"
+  word: "lěsnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lěsnik"
+      acc: "lěsnika"
+      gen: "lěsnika"
+      loc: "lěsniku"
+      dat: "lěsniku"
+      ins: "lěsnikom"
+      voc: "lěsniče"
+    plural: 
+      nom: "lěsniki"
+      acc: "lěsnikov"
+      gen: "lěsnikov"
+      loc: "lěsnikah"
+      dat: "lěsnikam"
+      ins: "lěsnikami"
+      voc: "lěsniki"

@@ -1,0 +1,22 @@
+---
+  id: "1601"
+  word: "tulipan"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tulipan"
+      acc: "tulipan"
+      gen: "tulipana"
+      loc: "tulipanu"
+      dat: "tulipanu"
+      ins: "tulipanom"
+      voc: "tulipane"
+    plural: 
+      nom: "tulipany"
+      acc: "tulipany"
+      gen: "tulipanov"
+      loc: "tulipanah"
+      dat: "tulipanam"
+      ins: "tulipanami"
+      voc: "tulipany"

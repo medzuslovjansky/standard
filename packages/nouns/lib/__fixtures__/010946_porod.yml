@@ -1,0 +1,22 @@
+---
+  id: "10946"
+  word: "porod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "porod"
+      acc: "porod"
+      gen: "poroda"
+      loc: "porodu"
+      dat: "porodu"
+      ins: "porodom"
+      voc: "porode"
+    plural: 
+      nom: "porody"
+      acc: "porody"
+      gen: "porodov"
+      loc: "porodah"
+      dat: "porodam"
+      ins: "porodami"
+      voc: "porody"

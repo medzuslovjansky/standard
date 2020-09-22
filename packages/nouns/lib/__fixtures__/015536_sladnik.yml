@@ -1,0 +1,23 @@
+---
+  id: "15536"
+  word: "slådnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "slådnik"
+      acc: "slådnika"
+      gen: "slådnika"
+      loc: "slådniku"
+      dat: "slådniku"
+      ins: "slådnikom"
+      voc: "slådniče"
+    plural: 
+      nom: "slådniki"
+      acc: "slådnikov"
+      gen: "slådnikov"
+      loc: "slådnikah"
+      dat: "slådnikam"
+      ins: "slådnikami"
+      voc: "slådniki"

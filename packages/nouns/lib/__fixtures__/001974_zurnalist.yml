@@ -1,0 +1,23 @@
+---
+  id: "1974"
+  word: "žurnalist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "žurnalist"
+      acc: "žurnalista"
+      gen: "žurnalista"
+      loc: "žurnalistu"
+      dat: "žurnalistu"
+      ins: "žurnalistom"
+      voc: "žurnaliste"
+    plural: 
+      nom: "žurnalisti"
+      acc: "žurnalistov"
+      gen: "žurnalistov"
+      loc: "žurnalistah"
+      dat: "žurnalistam"
+      ins: "žurnalistami"
+      voc: "žurnalisti"

@@ -1,0 +1,22 @@
+---
+  id: "31075"
+  word: "veksel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "veksel"
+      acc: "veksel"
+      gen: "veksela"
+      loc: "vekselu"
+      dat: "vekselu"
+      ins: "vekselom"
+      voc: "veksele"
+    plural: 
+      nom: "veksely"
+      acc: "veksely"
+      gen: "vekselov"
+      loc: "vekselah"
+      dat: "vekselam"
+      ins: "vekselami"
+      voc: "veksely"

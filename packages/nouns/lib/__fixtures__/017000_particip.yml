@@ -1,0 +1,22 @@
+---
+  id: "17000"
+  word: "particip"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "particip"
+      acc: "particip"
+      gen: "participa"
+      loc: "participu"
+      dat: "participu"
+      ins: "participom"
+      voc: "participe"
+    plural: 
+      nom: "participy"
+      acc: "participy"
+      gen: "participov"
+      loc: "participah"
+      dat: "participam"
+      ins: "participami"
+      voc: "participy"

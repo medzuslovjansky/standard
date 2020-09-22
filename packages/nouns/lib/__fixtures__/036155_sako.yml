@@ -1,0 +1,22 @@
+---
+  id: "36155"
+  word: "sako"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sako"
+      acc: "sako"
+      gen: "saka"
+      loc: "saku"
+      dat: "saku"
+      ins: "sakom"
+      voc: "sako"
+    plural: 
+      nom: "saka"
+      acc: "saka"
+      gen: "sak"
+      loc: "sakah"
+      dat: "sakam"
+      ins: "sakami"
+      voc: "saka"

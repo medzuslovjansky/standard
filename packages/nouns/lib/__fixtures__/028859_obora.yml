@@ -1,0 +1,22 @@
+---
+  id: "28859"
+  word: "obora"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obora"
+      acc: "oborų"
+      gen: "obory"
+      loc: "oborě"
+      dat: "oborě"
+      ins: "oborojų"
+      voc: "oboro"
+    plural: 
+      nom: "obory"
+      acc: "obory"
+      gen: "obor"
+      loc: "oborah"
+      dat: "oboram"
+      ins: "oborami"
+      voc: "obory"

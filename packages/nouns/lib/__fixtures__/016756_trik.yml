@@ -1,0 +1,22 @@
+---
+  id: "16756"
+  word: "trik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trik"
+      acc: "trik"
+      gen: "trika"
+      loc: "triku"
+      dat: "triku"
+      ins: "trikom"
+      voc: "triče"
+    plural: 
+      nom: "triky"
+      acc: "triky"
+      gen: "trikov"
+      loc: "trikah"
+      dat: "trikam"
+      ins: "trikami"
+      voc: "triky"

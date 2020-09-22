@@ -1,0 +1,23 @@
+---
+  id: "15247"
+  word: "bezumnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "bezumnik"
+      acc: "bezumnika"
+      gen: "bezumnika"
+      loc: "bezumniku"
+      dat: "bezumniku"
+      ins: "bezumnikom"
+      voc: "bezumniče"
+    plural: 
+      nom: "bezumniki"
+      acc: "bezumnikov"
+      gen: "bezumnikov"
+      loc: "bezumnikah"
+      dat: "bezumnikam"
+      ins: "bezumnikami"
+      voc: "bezumniki"

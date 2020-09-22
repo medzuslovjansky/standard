@@ -1,0 +1,22 @@
+---
+  id: "29729"
+  word: "osvobođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "osvobođeńje"
+      acc: "osvobođeńje"
+      gen: "osvobođeńja"
+      loc: "osvobođeńju"
+      dat: "osvobođeńju"
+      ins: "osvobođeńjem"
+      voc: "osvobođeńje"
+    plural: 
+      nom: "osvobođeńja"
+      acc: "osvobođeńja"
+      gen: "osvobođenij"
+      loc: "osvobođeńjah"
+      dat: "osvobođeńjam"
+      ins: "osvobođeńjami"
+      voc: "osvobođeńja"

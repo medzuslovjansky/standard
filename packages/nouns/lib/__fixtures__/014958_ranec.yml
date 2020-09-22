@@ -1,0 +1,22 @@
+---
+  id: "14958"
+  word: "ranec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ranec"
+      acc: "ranec"
+      gen: "ranca"
+      loc: "rancu"
+      dat: "rancu"
+      ins: "rancem"
+      voc: "ranče"
+    plural: 
+      nom: "rance"
+      acc: "rance"
+      gen: "rancev"
+      loc: "rancah"
+      dat: "rancam"
+      ins: "rancami"
+      voc: "rance"

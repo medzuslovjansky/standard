@@ -1,0 +1,22 @@
+---
+  id: "23208"
+  word: "analogija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "analogija"
+      acc: "analogijų"
+      gen: "analogije"
+      loc: "analogiji"
+      dat: "analogiji"
+      ins: "analogijejų"
+      voc: "analogijo"
+    plural: 
+      nom: "analogije"
+      acc: "analogije"
+      gen: "analogij"
+      loc: "analogijah"
+      dat: "analogijam"
+      ins: "analogijami"
+      voc: "analogije"

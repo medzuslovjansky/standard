@@ -1,0 +1,23 @@
+---
+  id: "35874"
+  word: "kafe"
+  meta: 
+    gender: "neuter"
+    indeclinable: true
+  declensions: 
+    singular: 
+      nom: "kafe"
+      acc: "kafe"
+      gen: "kafe"
+      loc: "kafe"
+      dat: "kafe"
+      ins: "kafe"
+      voc: "kafe"
+    plural: 
+      nom: "kafe"
+      acc: "kafe"
+      gen: "kafe"
+      loc: "kafe"
+      dat: "kafe"
+      ins: "kafe"
+      voc: "kafe"

@@ -1,0 +1,22 @@
+---
+  id: "35867"
+  word: "interval"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "interval"
+      acc: "interval"
+      gen: "intervala"
+      loc: "intervalu"
+      dat: "intervalu"
+      ins: "intervalom"
+      voc: "intervale"
+    plural: 
+      nom: "intervaly"
+      acc: "intervaly"
+      gen: "intervalov"
+      loc: "intervalah"
+      dat: "intervalam"
+      ins: "intervalami"
+      voc: "intervaly"

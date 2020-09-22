@@ -1,0 +1,15 @@
+---
+  id: "36354"
+  word: "minimalizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "minimalizm"
+      acc: "minimalizm"
+      gen: "minimalizma"
+      loc: "minimalizmu"
+      dat: "minimalizmu"
+      ins: "minimalizmom"
+      voc: "minimalizme"

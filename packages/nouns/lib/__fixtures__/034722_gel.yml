@@ -1,0 +1,22 @@
+---
+  id: "34722"
+  word: "gel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "gel"
+      acc: "gel"
+      gen: "gela"
+      loc: "gelu"
+      dat: "gelu"
+      ins: "gelom"
+      voc: "gele"
+    plural: 
+      nom: "gely"
+      acc: "gely"
+      gen: "gelov"
+      loc: "gelah"
+      dat: "gelam"
+      ins: "gelami"
+      voc: "gely"

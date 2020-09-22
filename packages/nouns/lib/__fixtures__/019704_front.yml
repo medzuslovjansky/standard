@@ -1,0 +1,22 @@
+---
+  id: "19704"
+  word: "front"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "front"
+      acc: "front"
+      gen: "fronta"
+      loc: "frontu"
+      dat: "frontu"
+      ins: "frontom"
+      voc: "fronte"
+    plural: 
+      nom: "fronty"
+      acc: "fronty"
+      gen: "frontov"
+      loc: "frontah"
+      dat: "frontam"
+      ins: "frontami"
+      voc: "fronty"

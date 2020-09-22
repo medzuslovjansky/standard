@@ -1,0 +1,22 @@
+---
+  id: "2815"
+  word: "oś"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oś"
+      acc: "oś"
+      gen: "osi"
+      loc: "osi"
+      dat: "osi"
+      ins: "ośjų"
+      voc: "osi"
+    plural: 
+      nom: "osi"
+      acc: "osi"
+      gen: "osij"
+      loc: "ośah"
+      dat: "ośam"
+      ins: "ośami"
+      voc: "osi"

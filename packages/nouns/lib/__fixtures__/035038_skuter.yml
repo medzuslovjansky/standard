@@ -1,0 +1,22 @@
+---
+  id: "35038"
+  word: "skuter"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "skuter"
+      acc: "skuter"
+      gen: "skutera"
+      loc: "skuteru"
+      dat: "skuteru"
+      ins: "skuterom"
+      voc: "skutere"
+    plural: 
+      nom: "skutery"
+      acc: "skutery"
+      gen: "skuterov"
+      loc: "skuterah"
+      dat: "skuteram"
+      ins: "skuterami"
+      voc: "skutery"

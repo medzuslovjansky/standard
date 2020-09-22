@@ -1,0 +1,15 @@
+---
+  id: "20943"
+  word: "opekunstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "opekunstvo"
+      acc: "opekunstvo"
+      gen: "opekunstva"
+      loc: "opekunstvu"
+      dat: "opekunstvu"
+      ins: "opekunstvom"
+      voc: "opekunstvo"

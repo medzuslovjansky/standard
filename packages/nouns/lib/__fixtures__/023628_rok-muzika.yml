@@ -1,0 +1,22 @@
+---
+  id: "23628"
+  word: "rok-muzika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "rok-muzika"
+      acc: "rok-muzikų"
+      gen: "rok-muziky"
+      loc: "rok-muzikě"
+      dat: "rok-muzikě"
+      ins: "rok-muzikojų"
+      voc: "rok-muziko"
+    plural: 
+      nom: "rok-muziky"
+      acc: "rok-muziky"
+      gen: "rok-muzik"
+      loc: "rok-muzikah"
+      dat: "rok-muzikam"
+      ins: "rok-muzikami"
+      voc: "rok-muziky"

@@ -1,0 +1,22 @@
+---
+  id: "12937"
+  word: "tečnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tečnosť"
+      acc: "tečnosť"
+      gen: "tečnosti"
+      loc: "tečnosti"
+      dat: "tečnosti"
+      ins: "tečnosťjų"
+      voc: "tečnosti"
+    plural: 
+      nom: "tečnosti"
+      acc: "tečnosti"
+      gen: "tečnostij"
+      loc: "tečnosťah"
+      dat: "tečnosťam"
+      ins: "tečnosťami"
+      voc: "tečnosti"

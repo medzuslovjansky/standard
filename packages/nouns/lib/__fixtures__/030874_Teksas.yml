@@ -1,0 +1,15 @@
+---
+  id: "30874"
+  word: "Teksas"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Teksas"
+      acc: "Teksas"
+      gen: "Teksasa"
+      loc: "Teksasu"
+      dat: "Teksasu"
+      ins: "Teksasom"
+      voc: "Teksase"

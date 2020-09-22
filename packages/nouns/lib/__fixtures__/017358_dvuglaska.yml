@@ -1,0 +1,22 @@
+---
+  id: "17358"
+  word: "dvuglåska"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dvuglåska"
+      acc: "dvuglåskų"
+      gen: "dvuglåsky"
+      loc: "dvuglåskě"
+      dat: "dvuglåskě"
+      ins: "dvuglåskojų"
+      voc: "dvuglåsko"
+    plural: 
+      nom: "dvuglåsky"
+      acc: "dvuglåsky"
+      gen: "dvuglåsȯk"
+      loc: "dvuglåskah"
+      dat: "dvuglåskam"
+      ins: "dvuglåskami"
+      voc: "dvuglåsky"

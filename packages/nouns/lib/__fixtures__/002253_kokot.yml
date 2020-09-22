@@ -1,0 +1,23 @@
+---
+  id: "2253"
+  word: "kokot"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kokot"
+      acc: "kokota"
+      gen: "kokota"
+      loc: "kokotu"
+      dat: "kokotu"
+      ins: "kokotom"
+      voc: "kokote"
+    plural: 
+      nom: "kokoti"
+      acc: "kokotov"
+      gen: "kokotov"
+      loc: "kokotah"
+      dat: "kokotam"
+      ins: "kokotami"
+      voc: "kokoti"

@@ -1,0 +1,22 @@
+---
+  id: "309"
+  word: "-lěťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "-lěťje"
+      acc: "-lěťje"
+      gen: "-lěťja"
+      loc: "-lěťju"
+      dat: "-lěťju"
+      ins: "-lěťjem"
+      voc: "-lěťje"
+    plural: 
+      nom: "-lěťja"
+      acc: "-lěťja"
+      gen: "-lětij"
+      loc: "-lěťjah"
+      dat: "-lěťjam"
+      ins: "-lěťjami"
+      voc: "-lěťja"

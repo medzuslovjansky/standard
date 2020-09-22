@@ -1,0 +1,22 @@
+---
+  id: "11284"
+  word: "prěględ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěględ"
+      acc: "prěględ"
+      gen: "prěględa"
+      loc: "prěględu"
+      dat: "prěględu"
+      ins: "prěględom"
+      voc: "prěględe"
+    plural: 
+      nom: "prěględy"
+      acc: "prěględy"
+      gen: "prěględov"
+      loc: "prěględah"
+      dat: "prěględam"
+      ins: "prěględami"
+      voc: "prěględy"

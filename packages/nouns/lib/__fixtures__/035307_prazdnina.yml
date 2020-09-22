@@ -1,0 +1,22 @@
+---
+  id: "35307"
+  word: "pråzdnina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pråzdnina"
+      acc: "pråzdninų"
+      gen: "pråzdniny"
+      loc: "pråzdnině"
+      dat: "pråzdnině"
+      ins: "pråzdninojų"
+      voc: "pråzdnino"
+    plural: 
+      nom: "pråzdniny"
+      acc: "pråzdniny"
+      gen: "pråzdnin"
+      loc: "pråzdninah"
+      dat: "pråzdninam"
+      ins: "pråzdninami"
+      voc: "pråzdniny"

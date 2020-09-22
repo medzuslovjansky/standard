@@ -1,0 +1,15 @@
+---
+  id: "4896"
+  word: "Okeanija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Okeanija"
+      acc: "Okeanijų"
+      gen: "Okeanije"
+      loc: "Okeaniji"
+      dat: "Okeaniji"
+      ins: "Okeanijejų"
+      voc: "Okeanijo"

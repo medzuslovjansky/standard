@@ -1,0 +1,22 @@
+---
+  id: "921"
+  word: "poema"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "poema"
+      acc: "poemų"
+      gen: "poemy"
+      loc: "poemě"
+      dat: "poemě"
+      ins: "poemojų"
+      voc: "poemo"
+    plural: 
+      nom: "poemy"
+      acc: "poemy"
+      gen: "poem"
+      loc: "poemah"
+      dat: "poemam"
+      ins: "poemami"
+      voc: "poemy"

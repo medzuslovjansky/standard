@@ -1,0 +1,23 @@
+---
+  id: "4158"
+  word: "kontrabandnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kontrabandnik"
+      acc: "kontrabandnika"
+      gen: "kontrabandnika"
+      loc: "kontrabandniku"
+      dat: "kontrabandniku"
+      ins: "kontrabandnikom"
+      voc: "kontrabandniče"
+    plural: 
+      nom: "kontrabandniki"
+      acc: "kontrabandnikov"
+      gen: "kontrabandnikov"
+      loc: "kontrabandnikah"
+      dat: "kontrabandnikam"
+      ins: "kontrabandnikami"
+      voc: "kontrabandniki"

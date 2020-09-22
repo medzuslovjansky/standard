@@ -1,0 +1,15 @@
+---
+  id: "4418"
+  word: "arheologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "arheologija"
+      acc: "arheologijų"
+      gen: "arheologije"
+      loc: "arheologiji"
+      dat: "arheologiji"
+      ins: "arheologijejų"
+      voc: "arheologijo"

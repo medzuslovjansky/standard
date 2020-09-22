@@ -1,0 +1,22 @@
+---
+  id: "28041"
+  word: "nakolěnnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nakolěnnik"
+      acc: "nakolěnnik"
+      gen: "nakolěnnika"
+      loc: "nakolěnniku"
+      dat: "nakolěnniku"
+      ins: "nakolěnnikom"
+      voc: "nakolěnniče"
+    plural: 
+      nom: "nakolěnniky"
+      acc: "nakolěnniky"
+      gen: "nakolěnnikov"
+      loc: "nakolěnnikah"
+      dat: "nakolěnnikam"
+      ins: "nakolěnnikami"
+      voc: "nakolěnniky"

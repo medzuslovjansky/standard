@@ -1,0 +1,15 @@
+---
+  id: "4368"
+  word: "etimologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "etimologija"
+      acc: "etimologijų"
+      gen: "etimologije"
+      loc: "etimologiji"
+      dat: "etimologiji"
+      ins: "etimologijejų"
+      voc: "etimologijo"

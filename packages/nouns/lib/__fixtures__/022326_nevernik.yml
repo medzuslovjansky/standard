@@ -1,0 +1,23 @@
+---
+  id: "22326"
+  word: "nevěrnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nevěrnik"
+      acc: "nevěrnika"
+      gen: "nevěrnika"
+      loc: "nevěrniku"
+      dat: "nevěrniku"
+      ins: "nevěrnikom"
+      voc: "nevěrniče"
+    plural: 
+      nom: "nevěrniki"
+      acc: "nevěrnikov"
+      gen: "nevěrnikov"
+      loc: "nevěrnikah"
+      dat: "nevěrnikam"
+      ins: "nevěrnikami"
+      voc: "nevěrniki"

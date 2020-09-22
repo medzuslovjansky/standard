@@ -1,0 +1,22 @@
+---
+  id: "31617"
+  word: "zěnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zěnica"
+      acc: "zěnicų"
+      gen: "zěnice"
+      loc: "zěnici"
+      dat: "zěnici"
+      ins: "zěnicejų"
+      voc: "zěnico"
+    plural: 
+      nom: "zěnice"
+      acc: "zěnice"
+      gen: "zěnic"
+      loc: "zěnicah"
+      dat: "zěnicam"
+      ins: "zěnicami"
+      voc: "zěnice"

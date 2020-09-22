@@ -1,0 +1,23 @@
+---
+  id: "36448"
+  word: "informatik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "informatik"
+      acc: "informatika"
+      gen: "informatika"
+      loc: "informatiku"
+      dat: "informatiku"
+      ins: "informatikom"
+      voc: "informatiče"
+    plural: 
+      nom: "informatiki"
+      acc: "informatikov"
+      gen: "informatikov"
+      loc: "informatikah"
+      dat: "informatikam"
+      ins: "informatikami"
+      voc: "informatiki"

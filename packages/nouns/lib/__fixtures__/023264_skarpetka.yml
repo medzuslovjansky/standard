@@ -1,0 +1,22 @@
+---
+  id: "23264"
+  word: "škarpetka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "škarpetka"
+      acc: "škarpetkų"
+      gen: "škarpetky"
+      loc: "škarpetkě"
+      dat: "škarpetkě"
+      ins: "škarpetkojų"
+      voc: "škarpetko"
+    plural: 
+      nom: "škarpetky"
+      acc: "škarpetky"
+      gen: "škarpetȯk"
+      loc: "škarpetkah"
+      dat: "škarpetkam"
+      ins: "škarpetkami"
+      voc: "škarpetky"

@@ -1,0 +1,22 @@
+---
+  id: "19963"
+  word: "odkrytka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "odkrytka"
+      acc: "odkrytkų"
+      gen: "odkrytky"
+      loc: "odkrytkě"
+      dat: "odkrytkě"
+      ins: "odkrytkojų"
+      voc: "odkrytko"
+    plural: 
+      nom: "odkrytky"
+      acc: "odkrytky"
+      gen: "odkrytȯk"
+      loc: "odkrytkah"
+      dat: "odkrytkam"
+      ins: "odkrytkami"
+      voc: "odkrytky"

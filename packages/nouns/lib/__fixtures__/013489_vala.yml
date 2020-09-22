@@ -1,0 +1,22 @@
+---
+  id: "13489"
+  word: "vala"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vala"
+      acc: "valų"
+      gen: "valy"
+      loc: "valě"
+      dat: "valě"
+      ins: "valojų"
+      voc: "valo"
+    plural: 
+      nom: "valy"
+      acc: "valy"
+      gen: "val"
+      loc: "valah"
+      dat: "valam"
+      ins: "valami"
+      voc: "valy"

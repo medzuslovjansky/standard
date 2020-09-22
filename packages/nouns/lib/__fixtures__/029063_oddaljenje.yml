@@ -1,0 +1,22 @@
+---
+  id: "29063"
+  word: "oddaljeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "oddaljeńje"
+      acc: "oddaljeńje"
+      gen: "oddaljeńja"
+      loc: "oddaljeńju"
+      dat: "oddaljeńju"
+      ins: "oddaljeńjem"
+      voc: "oddaljeńje"
+    plural: 
+      nom: "oddaljeńja"
+      acc: "oddaljeńja"
+      gen: "oddaljenij"
+      loc: "oddaljeńjah"
+      dat: "oddaljeńjam"
+      ins: "oddaljeńjami"
+      voc: "oddaljeńja"

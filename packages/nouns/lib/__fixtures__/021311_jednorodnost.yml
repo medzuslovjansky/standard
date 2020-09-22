@@ -1,0 +1,22 @@
+---
+  id: "21311"
+  word: "jednorodnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jednorodnosť"
+      acc: "jednorodnosť"
+      gen: "jednorodnosti"
+      loc: "jednorodnosti"
+      dat: "jednorodnosti"
+      ins: "jednorodnosťjų"
+      voc: "jednorodnosti"
+    plural: 
+      nom: "jednorodnosti"
+      acc: "jednorodnosti"
+      gen: "jednorodnostij"
+      loc: "jednorodnosťah"
+      dat: "jednorodnosťam"
+      ins: "jednorodnosťami"
+      voc: "jednorodnosti"

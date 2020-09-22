@@ -1,0 +1,22 @@
+---
+  id: "33332"
+  word: "zarųčeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zarųčeńje"
+      acc: "zarųčeńje"
+      gen: "zarųčeńja"
+      loc: "zarųčeńju"
+      dat: "zarųčeńju"
+      ins: "zarųčeńjem"
+      voc: "zarųčeńje"
+    plural: 
+      nom: "zarųčeńja"
+      acc: "zarųčeńja"
+      gen: "zarųčenij"
+      loc: "zarųčeńjah"
+      dat: "zarųčeńjam"
+      ins: "zarųčeńjami"
+      voc: "zarųčeńja"

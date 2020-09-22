@@ -1,0 +1,15 @@
+---
+  id: "17750"
+  word: "ljudojedstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ljudojedstvo"
+      acc: "ljudojedstvo"
+      gen: "ljudojedstva"
+      loc: "ljudojedstvu"
+      dat: "ljudojedstvu"
+      ins: "ljudojedstvom"
+      voc: "ljudojedstvo"

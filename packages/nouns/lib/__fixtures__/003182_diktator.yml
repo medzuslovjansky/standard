@@ -1,0 +1,23 @@
+---
+  id: "3182"
+  word: "diktator"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "diktator"
+      acc: "diktatora"
+      gen: "diktatora"
+      loc: "diktatoru"
+      dat: "diktatoru"
+      ins: "diktatorom"
+      voc: "diktatore"
+    plural: 
+      nom: "diktatori"
+      acc: "diktatorov"
+      gen: "diktatorov"
+      loc: "diktatorah"
+      dat: "diktatoram"
+      ins: "diktatorami"
+      voc: "diktatori"

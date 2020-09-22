@@ -1,0 +1,22 @@
+---
+  id: "32489"
+  word: "tors"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tors"
+      acc: "tors"
+      gen: "torsa"
+      loc: "torsu"
+      dat: "torsu"
+      ins: "torsom"
+      voc: "torse"
+    plural: 
+      nom: "torsy"
+      acc: "torsy"
+      gen: "torsov"
+      loc: "torsah"
+      dat: "torsam"
+      ins: "torsami"
+      voc: "torsy"

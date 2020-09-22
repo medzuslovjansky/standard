@@ -1,0 +1,22 @@
+---
+  id: "35604"
+  word: "prěuveličeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěuveličeńje"
+      acc: "prěuveličeńje"
+      gen: "prěuveličeńja"
+      loc: "prěuveličeńju"
+      dat: "prěuveličeńju"
+      ins: "prěuveličeńjem"
+      voc: "prěuveličeńje"
+    plural: 
+      nom: "prěuveličeńja"
+      acc: "prěuveličeńja"
+      gen: "prěuveličenij"
+      loc: "prěuveličeńjah"
+      dat: "prěuveličeńjam"
+      ins: "prěuveličeńjami"
+      voc: "prěuveličeńja"

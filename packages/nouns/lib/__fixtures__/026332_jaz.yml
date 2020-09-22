@@ -1,0 +1,22 @@
+---
+  id: "26332"
+  word: "jaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jaz"
+      acc: "jaz"
+      gen: "jaza"
+      loc: "jazu"
+      dat: "jazu"
+      ins: "jazom"
+      voc: "jaze"
+    plural: 
+      nom: "jazy"
+      acc: "jazy"
+      gen: "jazov"
+      loc: "jazah"
+      dat: "jazam"
+      ins: "jazami"
+      voc: "jazy"

@@ -1,0 +1,15 @@
+---
+  id: "23525"
+  word: "Rim"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Rim"
+      acc: "Rim"
+      gen: "Rima"
+      loc: "Rimu"
+      dat: "Rimu"
+      ins: "Rimom"
+      voc: "Rime"

@@ -1,0 +1,15 @@
+---
+  id: "24008"
+  word: "bezumje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezumje"
+      acc: "bezumje"
+      gen: "bezumja"
+      loc: "bezumju"
+      dat: "bezumju"
+      ins: "bezumjem"
+      voc: "bezumje"

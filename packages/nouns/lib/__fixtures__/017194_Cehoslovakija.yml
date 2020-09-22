@@ -1,0 +1,15 @@
+---
+  id: "17194"
+  word: "Čehoslovakija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Čehoslovakija"
+      acc: "Čehoslovakijų"
+      gen: "Čehoslovakije"
+      loc: "Čehoslovakiji"
+      dat: "Čehoslovakiji"
+      ins: "Čehoslovakijejų"
+      voc: "Čehoslovakijo"

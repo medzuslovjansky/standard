@@ -1,0 +1,23 @@
+---
+  id: "14369"
+  word: "želězničaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "želězničaŕ"
+      acc: "želězničaŕa"
+      gen: "želězničaŕa"
+      loc: "želězničaŕu"
+      dat: "želězničaŕu"
+      ins: "želězničaŕem"
+      voc: "želězničaŕu"
+    plural: 
+      nom: "želězničari"
+      acc: "želězničaŕev"
+      gen: "želězničaŕev"
+      loc: "želězničaŕah"
+      dat: "želězničaŕam"
+      ins: "želězničaŕami"
+      voc: "želězničari"

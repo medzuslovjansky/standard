@@ -1,0 +1,22 @@
+---
+  id: "28010"
+  word: "najemnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "najemnica"
+      acc: "najemnicų"
+      gen: "najemnice"
+      loc: "najemnici"
+      dat: "najemnici"
+      ins: "najemnicejų"
+      voc: "najemnico"
+    plural: 
+      nom: "najemnice"
+      acc: "najemnice"
+      gen: "najemnic"
+      loc: "najemnicah"
+      dat: "najemnicam"
+      ins: "najemnicami"
+      voc: "najemnice"

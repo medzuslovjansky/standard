@@ -1,0 +1,22 @@
+---
+  id: "36554"
+  word: "tancorka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tancorka"
+      acc: "tancorkų"
+      gen: "tancorky"
+      loc: "tancorkě"
+      dat: "tancorkě"
+      ins: "tancorkojų"
+      voc: "tancorko"
+    plural: 
+      nom: "tancorky"
+      acc: "tancorky"
+      gen: "tancorȯk"
+      loc: "tancorkah"
+      dat: "tancorkam"
+      ins: "tancorkami"
+      voc: "tancorky"

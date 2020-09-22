@@ -1,0 +1,22 @@
+---
+  id: "18971"
+  word: "tkanina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tkanina"
+      acc: "tkaninų"
+      gen: "tkaniny"
+      loc: "tkanině"
+      dat: "tkanině"
+      ins: "tkaninojų"
+      voc: "tkanino"
+    plural: 
+      nom: "tkany"
+      acc: "tkany"
+      gen: "tkan"
+      loc: "tkanah"
+      dat: "tkanam"
+      ins: "tkanami"
+      voc: "tkany"

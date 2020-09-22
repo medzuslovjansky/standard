@@ -1,0 +1,23 @@
+---
+  id: "19413"
+  word: "zaspanec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zaspanec"
+      acc: "zaspanca"
+      gen: "zaspanca"
+      loc: "zaspancu"
+      dat: "zaspancu"
+      ins: "zaspancem"
+      voc: "zaspanče"
+    plural: 
+      nom: "zaspanci"
+      acc: "zaspancev"
+      gen: "zaspancev"
+      loc: "zaspancah"
+      dat: "zaspancam"
+      ins: "zaspancami"
+      voc: "zaspanci"

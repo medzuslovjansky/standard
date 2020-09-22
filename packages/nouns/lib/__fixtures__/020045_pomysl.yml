@@ -1,0 +1,22 @@
+---
+  id: "20045"
+  word: "pomysl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pomysl"
+      acc: "pomysl"
+      gen: "pomysla"
+      loc: "pomyslu"
+      dat: "pomyslu"
+      ins: "pomyslom"
+      voc: "pomysle"
+    plural: 
+      nom: "pomysly"
+      acc: "pomysly"
+      gen: "pomyslov"
+      loc: "pomyslah"
+      dat: "pomyslam"
+      ins: "pomyslami"
+      voc: "pomysly"

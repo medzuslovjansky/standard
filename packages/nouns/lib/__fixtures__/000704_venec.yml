@@ -1,0 +1,22 @@
+---
+  id: "704"
+  word: "věnec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "věnec"
+      acc: "věnec"
+      gen: "věnca"
+      loc: "věncu"
+      dat: "věncu"
+      ins: "věncem"
+      voc: "věnče"
+    plural: 
+      nom: "věnce"
+      acc: "věnce"
+      gen: "věncev"
+      loc: "věncah"
+      dat: "věncam"
+      ins: "věncami"
+      voc: "věnce"

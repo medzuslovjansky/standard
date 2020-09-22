@@ -1,0 +1,23 @@
+---
+  id: "36096"
+  word: "seržant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "seržant"
+      acc: "seržanta"
+      gen: "seržanta"
+      loc: "seržantu"
+      dat: "seržantu"
+      ins: "seržantom"
+      voc: "seržante"
+    plural: 
+      nom: "seržanti"
+      acc: "seržantov"
+      gen: "seržantov"
+      loc: "seržantah"
+      dat: "seržantam"
+      ins: "seržantami"
+      voc: "seržanti"

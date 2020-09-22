@@ -1,0 +1,22 @@
+---
+  id: "20014"
+  word: "panika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "panika"
+      acc: "panikų"
+      gen: "paniky"
+      loc: "panikě"
+      dat: "panikě"
+      ins: "panikojų"
+      voc: "paniko"
+    plural: 
+      nom: "paniky"
+      acc: "paniky"
+      gen: "panik"
+      loc: "panikah"
+      dat: "panikam"
+      ins: "panikami"
+      voc: "paniky"

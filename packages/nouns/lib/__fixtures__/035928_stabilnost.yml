@@ -1,0 +1,22 @@
+---
+  id: "35928"
+  word: "stabiľnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stabiľnosť"
+      acc: "stabiľnosť"
+      gen: "stabiľnosti"
+      loc: "stabiľnosti"
+      dat: "stabiľnosti"
+      ins: "stabiľnosťjų"
+      voc: "stabiľnosti"
+    plural: 
+      nom: "stabiľnosti"
+      acc: "stabiľnosti"
+      gen: "stabiľnostij"
+      loc: "stabiľnosťah"
+      dat: "stabiľnosťam"
+      ins: "stabiľnosťami"
+      voc: "stabiľnosti"

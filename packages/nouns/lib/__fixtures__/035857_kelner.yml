@@ -1,0 +1,23 @@
+---
+  id: "35857"
+  word: "kelner"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kelner"
+      acc: "kelnera"
+      gen: "kelnera"
+      loc: "kelneru"
+      dat: "kelneru"
+      ins: "kelnerom"
+      voc: "kelnere"
+    plural: 
+      nom: "kelneri"
+      acc: "kelnerov"
+      gen: "kelnerov"
+      loc: "kelnerah"
+      dat: "kelneram"
+      ins: "kelnerami"
+      voc: "kelneri"

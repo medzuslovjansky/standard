@@ -1,0 +1,22 @@
+---
+  id: "4771"
+  word: "kuna"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuna"
+      acc: "kunų"
+      gen: "kuny"
+      loc: "kuně"
+      dat: "kuně"
+      ins: "kunojų"
+      voc: "kuno"
+    plural: 
+      nom: "kuny"
+      acc: "kuny"
+      gen: "kun"
+      loc: "kunah"
+      dat: "kunam"
+      ins: "kunami"
+      voc: "kuny"

@@ -1,0 +1,22 @@
+---
+  id: "25202"
+  word: "desnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "desnica"
+      acc: "desnicų"
+      gen: "desnice"
+      loc: "desnici"
+      dat: "desnici"
+      ins: "desnicejų"
+      voc: "desnico"
+    plural: 
+      nom: "desnice"
+      acc: "desnice"
+      gen: "desnic"
+      loc: "desnicah"
+      dat: "desnicam"
+      ins: "desnicami"
+      voc: "desnice"

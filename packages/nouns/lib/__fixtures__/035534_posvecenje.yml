@@ -1,0 +1,22 @@
+---
+  id: "35534"
+  word: "posvęćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "posvęćeńje"
+      acc: "posvęćeńje"
+      gen: "posvęćeńja"
+      loc: "posvęćeńju"
+      dat: "posvęćeńju"
+      ins: "posvęćeńjem"
+      voc: "posvęćeńje"
+    plural: 
+      nom: "posvęćeńja"
+      acc: "posvęćeńja"
+      gen: "posvęćenij"
+      loc: "posvęćeńjah"
+      dat: "posvęćeńjam"
+      ins: "posvęćeńjami"
+      voc: "posvęćeńja"

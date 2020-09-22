@@ -1,0 +1,15 @@
+---
+  id: "5657"
+  word: "odpady"
+  meta: 
+    gender: "masculine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "odpady"
+      acc: "odpady"
+      gen: "odpadov"
+      loc: "odpadah"
+      dat: "odpadam"
+      ins: "odpadami"
+      voc: "odpady"

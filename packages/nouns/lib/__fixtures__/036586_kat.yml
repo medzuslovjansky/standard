@@ -1,0 +1,22 @@
+---
+  id: "36586"
+  word: "kat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kat"
+      acc: "kat"
+      gen: "kata"
+      loc: "katu"
+      dat: "katu"
+      ins: "katom"
+      voc: "kate"
+    plural: 
+      nom: "katy"
+      acc: "katy"
+      gen: "katov"
+      loc: "katah"
+      dat: "katam"
+      ins: "katami"
+      voc: "katy"

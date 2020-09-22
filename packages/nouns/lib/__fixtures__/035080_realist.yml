@@ -1,0 +1,23 @@
+---
+  id: "35080"
+  word: "realist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "realist"
+      acc: "realista"
+      gen: "realista"
+      loc: "realistu"
+      dat: "realistu"
+      ins: "realistom"
+      voc: "realiste"
+    plural: 
+      nom: "realisti"
+      acc: "realistov"
+      gen: "realistov"
+      loc: "realistah"
+      dat: "realistam"
+      ins: "realistami"
+      voc: "realisti"

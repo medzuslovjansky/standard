@@ -1,0 +1,15 @@
+---
+  id: "2816"
+  word: "orųžje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "orųžje"
+      acc: "orųžje"
+      gen: "orųžja"
+      loc: "orųžju"
+      dat: "orųžju"
+      ins: "orųžjem"
+      voc: "orųžje"

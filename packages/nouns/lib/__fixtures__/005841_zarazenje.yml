@@ -1,0 +1,22 @@
+---
+  id: "5841"
+  word: "zaražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zaražeńje"
+      acc: "zaražeńje"
+      gen: "zaražeńja"
+      loc: "zaražeńju"
+      dat: "zaražeńju"
+      ins: "zaražeńjem"
+      voc: "zaražeńje"
+    plural: 
+      nom: "zaražeńja"
+      acc: "zaražeńja"
+      gen: "zaraženij"
+      loc: "zaražeńjah"
+      dat: "zaražeńjam"
+      ins: "zaražeńjami"
+      voc: "zaražeńja"

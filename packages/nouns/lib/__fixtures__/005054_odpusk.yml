@@ -1,0 +1,22 @@
+---
+  id: "5054"
+  word: "odpusk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odpusk"
+      acc: "odpusk"
+      gen: "odpuska"
+      loc: "odpusku"
+      dat: "odpusku"
+      ins: "odpuskom"
+      voc: "odpusče"
+    plural: 
+      nom: "odpusky"
+      acc: "odpusky"
+      gen: "odpuskov"
+      loc: "odpuskah"
+      dat: "odpuskam"
+      ins: "odpuskami"
+      voc: "odpusky"

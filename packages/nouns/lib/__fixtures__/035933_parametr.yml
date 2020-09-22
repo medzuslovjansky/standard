@@ -1,0 +1,22 @@
+---
+  id: "35933"
+  word: "parametr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parametr"
+      acc: "parametr"
+      gen: "parametra"
+      loc: "parametru"
+      dat: "parametru"
+      ins: "parametrom"
+      voc: "parametre"
+    plural: 
+      nom: "parametry"
+      acc: "parametry"
+      gen: "parametrov"
+      loc: "parametrah"
+      dat: "parametram"
+      ins: "parametrami"
+      voc: "parametry"

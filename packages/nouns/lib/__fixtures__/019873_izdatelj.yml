@@ -1,0 +1,23 @@
+---
+  id: "19873"
+  word: "izdatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izdatelj"
+      acc: "izdatelja"
+      gen: "izdatelja"
+      loc: "izdatelju"
+      dat: "izdatelju"
+      ins: "izdateljem"
+      voc: "izdatelju"
+    plural: 
+      nom: "izdatelji"
+      acc: "izdateljev"
+      gen: "izdateljev"
+      loc: "izdateljah"
+      dat: "izdateljam"
+      ins: "izdateljami"
+      voc: "izdatelji"

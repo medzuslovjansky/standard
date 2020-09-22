@@ -1,0 +1,22 @@
+---
+  id: "26270"
+  word: "izvor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izvor"
+      acc: "izvor"
+      gen: "izvora"
+      loc: "izvoru"
+      dat: "izvoru"
+      ins: "izvorom"
+      voc: "izvore"
+    plural: 
+      nom: "izvory"
+      acc: "izvory"
+      gen: "izvorov"
+      loc: "izvorah"
+      dat: "izvoram"
+      ins: "izvorami"
+      voc: "izvory"

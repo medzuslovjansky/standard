@@ -1,0 +1,15 @@
+---
+  id: "20846"
+  word: "bezpečnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezpečnosť"
+      acc: "bezpečnosť"
+      gen: "bezpečnosti"
+      loc: "bezpečnosti"
+      dat: "bezpečnosti"
+      ins: "bezpečnosťjų"
+      voc: "bezpečnosti"

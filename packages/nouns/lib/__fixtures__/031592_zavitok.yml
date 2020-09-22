@@ -1,0 +1,22 @@
+---
+  id: "31592"
+  word: "zavitȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "zavitȯk"
+      acc: "zavitȯk"
+      gen: "zavitka"
+      loc: "zavitku"
+      dat: "zavitku"
+      ins: "zavitkom"
+      voc: "zavitče"
+    plural: 
+      nom: "zavitky"
+      acc: "zavitky"
+      gen: "zavitkov"
+      loc: "zavitkah"
+      dat: "zavitkam"
+      ins: "zavitkami"
+      voc: "zavitky"

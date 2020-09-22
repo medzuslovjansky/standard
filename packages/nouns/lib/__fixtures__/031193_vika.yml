@@ -1,0 +1,22 @@
+---
+  id: "31193"
+  word: "vika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "vika"
+      acc: "vikų"
+      gen: "viky"
+      loc: "vikě"
+      dat: "vikě"
+      ins: "vikojų"
+      voc: "viko"
+    plural: 
+      nom: "viky"
+      acc: "viky"
+      gen: "vik"
+      loc: "vikah"
+      dat: "vikam"
+      ins: "vikami"
+      voc: "viky"

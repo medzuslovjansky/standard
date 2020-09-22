@@ -1,0 +1,22 @@
+---
+  id: "21152"
+  word: "spona"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spona"
+      acc: "sponų"
+      gen: "spony"
+      loc: "sponě"
+      dat: "sponě"
+      ins: "sponojų"
+      voc: "spono"
+    plural: 
+      nom: "spony"
+      acc: "spony"
+      gen: "spon"
+      loc: "sponah"
+      dat: "sponam"
+      ins: "sponami"
+      voc: "spony"

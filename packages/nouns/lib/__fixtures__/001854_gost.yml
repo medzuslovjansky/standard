@@ -1,0 +1,23 @@
+---
+  id: "1854"
+  word: "gosť"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gosť"
+      acc: "gosťa"
+      gen: "gosťa"
+      loc: "gosťu"
+      dat: "gosťu"
+      ins: "gosťem"
+      voc: "gosťu"
+    plural: 
+      nom: "gosti"
+      acc: "gosťev"
+      gen: "gosťev"
+      loc: "gosťah"
+      dat: "gosťam"
+      ins: "gosťami"
+      voc: "gosti"

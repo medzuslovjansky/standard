@@ -1,0 +1,22 @@
+---
+  id: "25525"
+  word: "haček"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "haček"
+      acc: "haček"
+      gen: "hačeka"
+      loc: "hačeku"
+      dat: "hačeku"
+      ins: "hačekom"
+      voc: "hačeče"
+    plural: 
+      nom: "hačeky"
+      acc: "hačeky"
+      gen: "hačekov"
+      loc: "hačekah"
+      dat: "hačekam"
+      ins: "hačekami"
+      voc: "hačeky"

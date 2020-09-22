@@ -1,0 +1,22 @@
+---
+  id: "20791"
+  word: "vliv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vliv"
+      acc: "vliv"
+      gen: "vliva"
+      loc: "vlivu"
+      dat: "vlivu"
+      ins: "vlivom"
+      voc: "vlive"
+    plural: 
+      nom: "vlivy"
+      acc: "vlivy"
+      gen: "vlivov"
+      loc: "vlivah"
+      dat: "vlivam"
+      ins: "vlivami"
+      voc: "vlivy"

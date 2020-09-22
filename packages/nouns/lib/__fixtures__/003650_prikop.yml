@@ -1,0 +1,22 @@
+---
+  id: "3650"
+  word: "prikop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prikop"
+      acc: "prikop"
+      gen: "prikopa"
+      loc: "prikopu"
+      dat: "prikopu"
+      ins: "prikopom"
+      voc: "prikope"
+    plural: 
+      nom: "prikopy"
+      acc: "prikopy"
+      gen: "prikopov"
+      loc: "prikopah"
+      dat: "prikopam"
+      ins: "prikopami"
+      voc: "prikopy"

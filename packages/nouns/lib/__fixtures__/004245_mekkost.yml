@@ -1,0 +1,22 @@
+---
+  id: "4245"
+  word: "mękkosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mękkosť"
+      acc: "mękkosť"
+      gen: "mękkosti"
+      loc: "mękkosti"
+      dat: "mękkosti"
+      ins: "mękkosťjų"
+      voc: "mękkosti"
+    plural: 
+      nom: "mękkosti"
+      acc: "mękkosti"
+      gen: "mękkostij"
+      loc: "mękkosťah"
+      dat: "mękkosťam"
+      ins: "mękkosťami"
+      voc: "mękkosti"

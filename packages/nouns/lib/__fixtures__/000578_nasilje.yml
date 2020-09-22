@@ -1,0 +1,15 @@
+---
+  id: "578"
+  word: "nasiľje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nasiľje"
+      acc: "nasiľje"
+      gen: "nasiľja"
+      loc: "nasiľju"
+      dat: "nasiľju"
+      ins: "nasiľjem"
+      voc: "nasiľje"

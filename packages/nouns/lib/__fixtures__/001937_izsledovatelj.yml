@@ -1,0 +1,23 @@
+---
+  id: "1937"
+  word: "izslědovatelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "izslědovatelj"
+      acc: "izslědovatelja"
+      gen: "izslědovatelja"
+      loc: "izslědovatelju"
+      dat: "izslědovatelju"
+      ins: "izslědovateljem"
+      voc: "izslědovatelju"
+    plural: 
+      nom: "izslědovatelji"
+      acc: "izslědovateljev"
+      gen: "izslědovateljev"
+      loc: "izslědovateljah"
+      dat: "izslědovateljam"
+      ins: "izslědovateljami"
+      voc: "izslědovatelji"

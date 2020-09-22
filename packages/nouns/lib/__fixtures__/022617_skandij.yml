@@ -1,0 +1,15 @@
+---
+  id: "22617"
+  word: "skandij"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "skandij"
+      acc: "skandij"
+      gen: "skandija"
+      loc: "skandiju"
+      dat: "skandiju"
+      ins: "skandijem"
+      voc: "skandiju"

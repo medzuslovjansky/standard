@@ -1,0 +1,22 @@
+---
+  id: "24365"
+  word: "avtobiografija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "avtobiografija"
+      acc: "avtobiografijų"
+      gen: "avtobiografije"
+      loc: "avtobiografiji"
+      dat: "avtobiografiji"
+      ins: "avtobiografijejų"
+      voc: "avtobiografijo"
+    plural: 
+      nom: "avtobiografije"
+      acc: "avtobiografije"
+      gen: "avtobiografij"
+      loc: "avtobiografijah"
+      dat: "avtobiografijam"
+      ins: "avtobiografijami"
+      voc: "avtobiografije"

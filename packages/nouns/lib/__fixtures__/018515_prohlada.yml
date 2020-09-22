@@ -1,0 +1,22 @@
+---
+  id: "18515"
+  word: "prohlåda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prohlåda"
+      acc: "prohlådų"
+      gen: "prohlådy"
+      loc: "prohlådě"
+      dat: "prohlådě"
+      ins: "prohlådojų"
+      voc: "prohlådo"
+    plural: 
+      nom: "prohlådy"
+      acc: "prohlådy"
+      gen: "prohlåd"
+      loc: "prohlådah"
+      dat: "prohlådam"
+      ins: "prohlådami"
+      voc: "prohlådy"

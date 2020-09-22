@@ -1,0 +1,15 @@
+---
+  id: "17198"
+  word: "čelik"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "čelik"
+      acc: "čelik"
+      gen: "čelika"
+      loc: "čeliku"
+      dat: "čeliku"
+      ins: "čelikom"
+      voc: "čeliče"

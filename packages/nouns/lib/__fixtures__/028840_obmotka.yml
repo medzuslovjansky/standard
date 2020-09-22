@@ -1,0 +1,22 @@
+---
+  id: "28840"
+  word: "obmotka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "obmotka"
+      acc: "obmotkų"
+      gen: "obmotky"
+      loc: "obmotkě"
+      dat: "obmotkě"
+      ins: "obmotkojų"
+      voc: "obmotko"
+    plural: 
+      nom: "obmotky"
+      acc: "obmotky"
+      gen: "obmotȯk"
+      loc: "obmotkah"
+      dat: "obmotkam"
+      ins: "obmotkami"
+      voc: "obmotky"

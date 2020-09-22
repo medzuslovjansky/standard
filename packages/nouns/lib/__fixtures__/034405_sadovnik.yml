@@ -1,0 +1,23 @@
+---
+  id: "34405"
+  word: "sadovnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sadovnik"
+      acc: "sadovnika"
+      gen: "sadovnika"
+      loc: "sadovniku"
+      dat: "sadovniku"
+      ins: "sadovnikom"
+      voc: "sadovniče"
+    plural: 
+      nom: "sadovniki"
+      acc: "sadovnikov"
+      gen: "sadovnikov"
+      loc: "sadovnikah"
+      dat: "sadovnikam"
+      ins: "sadovnikami"
+      voc: "sadovniki"

@@ -1,0 +1,22 @@
+---
+  id: "1405"
+  word: "statija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "statija"
+      acc: "statijų"
+      gen: "statije"
+      loc: "statiji"
+      dat: "statiji"
+      ins: "statijejų"
+      voc: "statijo"
+    plural: 
+      nom: "statije"
+      acc: "statije"
+      gen: "statij"
+      loc: "statijah"
+      dat: "statijam"
+      ins: "statijami"
+      voc: "statije"

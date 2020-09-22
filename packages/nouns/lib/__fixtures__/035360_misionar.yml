@@ -1,0 +1,22 @@
+---
+  id: "35360"
+  word: "misionaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "misionaŕ"
+      acc: "misionaŕ"
+      gen: "misionaŕa"
+      loc: "misionaŕu"
+      dat: "misionaŕu"
+      ins: "misionaŕem"
+      voc: "misionaŕu"
+    plural: 
+      nom: "misionaŕe"
+      acc: "misionaŕe"
+      gen: "misionaŕev"
+      loc: "misionaŕah"
+      dat: "misionaŕam"
+      ins: "misionaŕami"
+      voc: "misionaŕe"

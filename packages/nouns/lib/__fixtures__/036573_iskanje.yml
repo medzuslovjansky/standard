@@ -1,0 +1,22 @@
+---
+  id: "36573"
+  word: "iskańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "iskańje"
+      acc: "iskańje"
+      gen: "iskańja"
+      loc: "iskańju"
+      dat: "iskańju"
+      ins: "iskańjem"
+      voc: "iskańje"
+    plural: 
+      nom: "iskańja"
+      acc: "iskańja"
+      gen: "iskanij"
+      loc: "iskańjah"
+      dat: "iskańjam"
+      ins: "iskańjami"
+      voc: "iskańja"

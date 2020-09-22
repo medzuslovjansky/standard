@@ -1,0 +1,22 @@
+---
+  id: "1968"
+  word: "budynȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "budynȯk"
+      acc: "budynȯk"
+      gen: "budynka"
+      loc: "budynku"
+      dat: "budynku"
+      ins: "budynkom"
+      voc: "budynče"
+    plural: 
+      nom: "budynky"
+      acc: "budynky"
+      gen: "budynkov"
+      loc: "budynkah"
+      dat: "budynkam"
+      ins: "budynkami"
+      voc: "budynky"

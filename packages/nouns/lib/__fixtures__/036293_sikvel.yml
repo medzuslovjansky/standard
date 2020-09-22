@@ -1,0 +1,22 @@
+---
+  id: "36293"
+  word: "sikvel"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "sikvel"
+      acc: "sikvel"
+      gen: "sikvela"
+      loc: "sikvelu"
+      dat: "sikvelu"
+      ins: "sikvelom"
+      voc: "sikvele"
+    plural: 
+      nom: "sikvely"
+      acc: "sikvely"
+      gen: "sikvelov"
+      loc: "sikvelah"
+      dat: "sikvelam"
+      ins: "sikvelami"
+      voc: "sikvely"

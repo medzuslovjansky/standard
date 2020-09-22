@@ -1,0 +1,22 @@
+---
+  id: "10931"
+  word: "popravka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "popravka"
+      acc: "popravkų"
+      gen: "popravky"
+      loc: "popravkě"
+      dat: "popravkě"
+      ins: "popravkojų"
+      voc: "popravko"
+    plural: 
+      nom: "popravky"
+      acc: "popravky"
+      gen: "popravȯk"
+      loc: "popravkah"
+      dat: "popravkam"
+      ins: "popravkami"
+      voc: "popravky"

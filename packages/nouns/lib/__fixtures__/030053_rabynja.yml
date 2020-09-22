@@ -1,0 +1,22 @@
+---
+  id: "30053"
+  word: "råbynja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råbynja"
+      acc: "råbynjų"
+      gen: "råbynje"
+      loc: "råbynji"
+      dat: "råbynji"
+      ins: "råbynjejų"
+      voc: "råbynjo"
+    plural: 
+      nom: "råbynje"
+      acc: "råbynje"
+      gen: "råbynej"
+      loc: "råbynjah"
+      dat: "råbynjam"
+      ins: "råbynjami"
+      voc: "råbynje"

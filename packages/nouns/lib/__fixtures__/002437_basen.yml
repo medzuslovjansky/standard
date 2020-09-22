@@ -1,0 +1,22 @@
+---
+  id: "2437"
+  word: "basen"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "basen"
+      acc: "basen"
+      gen: "basena"
+      loc: "basenu"
+      dat: "basenu"
+      ins: "basenom"
+      voc: "basene"
+    plural: 
+      nom: "baseny"
+      acc: "baseny"
+      gen: "basenov"
+      loc: "basenah"
+      dat: "basenam"
+      ins: "basenami"
+      voc: "baseny"

@@ -1,0 +1,22 @@
+---
+  id: "2409"
+  word: "råzdražnjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råzdražnjeńje"
+      acc: "råzdražnjeńje"
+      gen: "råzdražnjeńja"
+      loc: "råzdražnjeńju"
+      dat: "råzdražnjeńju"
+      ins: "råzdražnjeńjem"
+      voc: "råzdražnjeńje"
+    plural: 
+      nom: "råzdražnjeńja"
+      acc: "råzdražnjeńja"
+      gen: "råzdražnjenij"
+      loc: "råzdražnjeńjah"
+      dat: "råzdražnjeńjam"
+      ins: "råzdražnjeńjami"
+      voc: "råzdražnjeńja"

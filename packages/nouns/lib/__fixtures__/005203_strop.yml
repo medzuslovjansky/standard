@@ -1,0 +1,22 @@
+---
+  id: "5203"
+  word: "strop"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "strop"
+      acc: "strop"
+      gen: "stropa"
+      loc: "stropu"
+      dat: "stropu"
+      ins: "stropom"
+      voc: "strope"
+    plural: 
+      nom: "stropy"
+      acc: "stropy"
+      gen: "stropov"
+      loc: "stropah"
+      dat: "stropam"
+      ins: "stropami"
+      voc: "stropy"

@@ -1,0 +1,23 @@
+---
+  id: "34849"
+  word: "iluzionist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "iluzionist"
+      acc: "iluzionista"
+      gen: "iluzionista"
+      loc: "iluzionistu"
+      dat: "iluzionistu"
+      ins: "iluzionistom"
+      voc: "iluzioniste"
+    plural: 
+      nom: "iluzionisti"
+      acc: "iluzionistov"
+      gen: "iluzionistov"
+      loc: "iluzionistah"
+      dat: "iluzionistam"
+      ins: "iluzionistami"
+      voc: "iluzionisti"

@@ -1,0 +1,23 @@
+---
+  id: "4264"
+  word: "prodavec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "prodavec"
+      acc: "prodavca"
+      gen: "prodavca"
+      loc: "prodavcu"
+      dat: "prodavcu"
+      ins: "prodavcem"
+      voc: "prodavče"
+    plural: 
+      nom: "prodavci"
+      acc: "prodavcev"
+      gen: "prodavcev"
+      loc: "prodavcah"
+      dat: "prodavcam"
+      ins: "prodavcami"
+      voc: "prodavci"

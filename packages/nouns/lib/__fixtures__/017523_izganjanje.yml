@@ -1,0 +1,15 @@
+---
+  id: "17523"
+  word: "izganjańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "izganjańje"
+      acc: "izganjańje"
+      gen: "izganjańja"
+      loc: "izganjańju"
+      dat: "izganjańju"
+      ins: "izganjańjem"
+      voc: "izganjańje"

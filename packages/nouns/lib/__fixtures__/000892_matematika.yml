@@ -1,0 +1,22 @@
+---
+  id: "892"
+  word: "matematika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "matematika"
+      acc: "matematikų"
+      gen: "matematiky"
+      loc: "matematikě"
+      dat: "matematikě"
+      ins: "matematikojų"
+      voc: "matematiko"
+    plural: 
+      nom: "matematiky"
+      acc: "matematiky"
+      gen: "matematik"
+      loc: "matematikah"
+      dat: "matematikam"
+      ins: "matematikami"
+      voc: "matematiky"

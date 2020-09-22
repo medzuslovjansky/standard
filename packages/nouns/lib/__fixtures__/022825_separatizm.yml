@@ -1,0 +1,15 @@
+---
+  id: "22825"
+  word: "separatizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "separatizm"
+      acc: "separatizm"
+      gen: "separatizma"
+      loc: "separatizmu"
+      dat: "separatizmu"
+      ins: "separatizmom"
+      voc: "separatizme"

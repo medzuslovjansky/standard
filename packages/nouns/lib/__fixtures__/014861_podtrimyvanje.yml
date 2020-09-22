@@ -1,0 +1,22 @@
+---
+  id: "14861"
+  word: "podtrimyvańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podtrimyvańje"
+      acc: "podtrimyvańje"
+      gen: "podtrimyvańja"
+      loc: "podtrimyvańju"
+      dat: "podtrimyvańju"
+      ins: "podtrimyvańjem"
+      voc: "podtrimyvańje"
+    plural: 
+      nom: "podtrimyvańja"
+      acc: "podtrimyvańja"
+      gen: "podtrimyvanij"
+      loc: "podtrimyvańjah"
+      dat: "podtrimyvańjam"
+      ins: "podtrimyvańjami"
+      voc: "podtrimyvańja"

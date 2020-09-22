@@ -1,0 +1,22 @@
+---
+  id: "6839"
+  word: "čęstica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čęstica"
+      acc: "čęsticų"
+      gen: "čęstice"
+      loc: "čęstici"
+      dat: "čęstici"
+      ins: "čęsticejų"
+      voc: "čęstico"
+    plural: 
+      nom: "čęstice"
+      acc: "čęstice"
+      gen: "čęstic"
+      loc: "čęsticah"
+      dat: "čęsticam"
+      ins: "čęsticami"
+      voc: "čęstice"

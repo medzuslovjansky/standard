@@ -1,0 +1,22 @@
+---
+  id: "3534"
+  word: "krivina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krivina"
+      acc: "krivinų"
+      gen: "kriviny"
+      loc: "krivině"
+      dat: "krivině"
+      ins: "krivinojų"
+      voc: "krivino"
+    plural: 
+      nom: "kriviny"
+      acc: "kriviny"
+      gen: "krivin"
+      loc: "krivinah"
+      dat: "krivinam"
+      ins: "krivinami"
+      voc: "kriviny"

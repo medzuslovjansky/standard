@@ -1,0 +1,22 @@
+---
+  id: "4288"
+  word: "tajnišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "tajnišče"
+      acc: "tajnišče"
+      gen: "tajnišča"
+      loc: "tajnišču"
+      dat: "tajnišču"
+      ins: "tajniščem"
+      voc: "tajnišče"
+    plural: 
+      nom: "tajnišča"
+      acc: "tajnišča"
+      gen: "tajnišč"
+      loc: "tajniščah"
+      dat: "tajniščam"
+      ins: "tajniščami"
+      voc: "tajnišča"

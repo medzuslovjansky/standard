@@ -1,0 +1,22 @@
+---
+  id: "10240"
+  word: "oprętnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oprętnosť"
+      acc: "oprętnosť"
+      gen: "oprętnosti"
+      loc: "oprętnosti"
+      dat: "oprętnosti"
+      ins: "oprętnosťjų"
+      voc: "oprętnosti"
+    plural: 
+      nom: "oprętnosti"
+      acc: "oprętnosti"
+      gen: "oprętnostij"
+      loc: "oprętnosťah"
+      dat: "oprętnosťam"
+      ins: "oprętnosťami"
+      voc: "oprętnosti"

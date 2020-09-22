@@ -1,0 +1,22 @@
+---
+  id: "425"
+  word: "směh"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "směh"
+      acc: "směh"
+      gen: "směha"
+      loc: "směhu"
+      dat: "směhu"
+      ins: "směhom"
+      voc: "směše"
+    plural: 
+      nom: "směhy"
+      acc: "směhy"
+      gen: "směhov"
+      loc: "směhah"
+      dat: "směham"
+      ins: "směhami"
+      voc: "směhy"

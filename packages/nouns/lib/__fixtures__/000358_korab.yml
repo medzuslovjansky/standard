@@ -1,0 +1,22 @@
+---
+  id: "358"
+  word: "korab"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "korab"
+      acc: "korab"
+      gen: "koraba"
+      loc: "korabu"
+      dat: "korabu"
+      ins: "korabom"
+      voc: "korabe"
+    plural: 
+      nom: "koraby"
+      acc: "koraby"
+      gen: "korabov"
+      loc: "korabah"
+      dat: "korabam"
+      ins: "korabami"
+      voc: "koraby"

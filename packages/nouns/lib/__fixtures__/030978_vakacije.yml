@@ -1,0 +1,15 @@
+---
+  id: "30978"
+  word: "vakacije"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "vakacije"
+      acc: "vakacije"
+      gen: "vakacij"
+      loc: "vakacijah"
+      dat: "vakacijam"
+      ins: "vakacijami"
+      voc: "vakacije"

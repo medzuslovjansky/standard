@@ -1,0 +1,23 @@
+---
+  id: "2709"
+  word: "matematik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "matematik"
+      acc: "matematika"
+      gen: "matematika"
+      loc: "matematiku"
+      dat: "matematiku"
+      ins: "matematikom"
+      voc: "matematiče"
+    plural: 
+      nom: "matematiki"
+      acc: "matematikov"
+      gen: "matematikov"
+      loc: "matematikah"
+      dat: "matematikam"
+      ins: "matematikami"
+      voc: "matematiki"

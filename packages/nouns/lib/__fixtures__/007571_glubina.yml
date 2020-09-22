@@ -1,0 +1,22 @@
+---
+  id: "7571"
+  word: "glųbina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "glųbina"
+      acc: "glųbinų"
+      gen: "glųbiny"
+      loc: "glųbině"
+      dat: "glųbině"
+      ins: "glųbinojų"
+      voc: "glųbino"
+    plural: 
+      nom: "glųbiny"
+      acc: "glųbiny"
+      gen: "glųbin"
+      loc: "glųbinah"
+      dat: "glųbinam"
+      ins: "glųbinami"
+      voc: "glųbiny"

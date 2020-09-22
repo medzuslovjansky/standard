@@ -1,0 +1,22 @@
+---
+  id: "11350"
+  word: "prěselenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "prěselenica"
+      acc: "prěselenicų"
+      gen: "prěselenice"
+      loc: "prěselenici"
+      dat: "prěselenici"
+      ins: "prěselenicejų"
+      voc: "prěselenico"
+    plural: 
+      nom: "prěselenice"
+      acc: "prěselenice"
+      gen: "prěselenic"
+      loc: "prěselenicah"
+      dat: "prěselenicam"
+      ins: "prěselenicami"
+      voc: "prěselenice"

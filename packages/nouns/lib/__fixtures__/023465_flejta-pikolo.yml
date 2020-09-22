@@ -1,0 +1,22 @@
+---
+  id: "23465"
+  word: "flejta-pikolo"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "flejta-pikolo"
+      acc: "flejta-pikolo"
+      gen: "flejta-pikola"
+      loc: "flejta-pikolu"
+      dat: "flejta-pikolu"
+      ins: "flejta-pikolom"
+      voc: "flejta-pikolo"
+    plural: 
+      nom: "flejta-pikola"
+      acc: "flejta-pikola"
+      gen: "flejta-pikol"
+      loc: "flejta-pikolah"
+      dat: "flejta-pikolam"
+      ins: "flejta-pikolami"
+      voc: "flejta-pikola"

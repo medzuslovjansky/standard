@@ -1,0 +1,22 @@
+---
+  id: "35828"
+  word: "detonator"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "detonator"
+      acc: "detonator"
+      gen: "detonatora"
+      loc: "detonatoru"
+      dat: "detonatoru"
+      ins: "detonatorom"
+      voc: "detonatore"
+    plural: 
+      nom: "detonatory"
+      acc: "detonatory"
+      gen: "detonatorov"
+      loc: "detonatorah"
+      dat: "detonatoram"
+      ins: "detonatorami"
+      voc: "detonatory"

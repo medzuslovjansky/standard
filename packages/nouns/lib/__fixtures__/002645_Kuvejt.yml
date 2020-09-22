@@ -1,0 +1,15 @@
+---
+  id: "2645"
+  word: "Kuvejt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Kuvejt"
+      acc: "Kuvejt"
+      gen: "Kuvejta"
+      loc: "Kuvejtu"
+      dat: "Kuvejtu"
+      ins: "Kuvejtom"
+      voc: "Kuvejte"

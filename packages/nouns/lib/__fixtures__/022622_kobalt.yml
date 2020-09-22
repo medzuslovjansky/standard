@@ -1,0 +1,15 @@
+---
+  id: "22622"
+  word: "kobalt"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "kobalt"
+      acc: "kobalt"
+      gen: "kobalta"
+      loc: "kobaltu"
+      dat: "kobaltu"
+      ins: "kobaltom"
+      voc: "kobalte"

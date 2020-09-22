@@ -1,0 +1,22 @@
+---
+  id: "10085"
+  word: "odvět"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odvět"
+      acc: "odvět"
+      gen: "odvěta"
+      loc: "odvětu"
+      dat: "odvětu"
+      ins: "odvětom"
+      voc: "odvěte"
+    plural: 
+      nom: "odvěty"
+      acc: "odvěty"
+      gen: "odvětov"
+      loc: "odvětah"
+      dat: "odvětam"
+      ins: "odvětami"
+      voc: "odvěty"

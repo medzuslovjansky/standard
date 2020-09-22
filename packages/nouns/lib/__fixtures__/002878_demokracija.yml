@@ -1,0 +1,22 @@
+---
+  id: "2878"
+  word: "demokracija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "demokracija"
+      acc: "demokracijų"
+      gen: "demokracije"
+      loc: "demokraciji"
+      dat: "demokraciji"
+      ins: "demokracijejų"
+      voc: "demokracijo"
+    plural: 
+      nom: "demokracije"
+      acc: "demokracije"
+      gen: "demokracij"
+      loc: "demokracijah"
+      dat: "demokracijam"
+      ins: "demokracijami"
+      voc: "demokracije"

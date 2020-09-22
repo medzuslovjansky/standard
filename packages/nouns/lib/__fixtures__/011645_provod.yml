@@ -1,0 +1,22 @@
+---
+  id: "11645"
+  word: "provod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "provod"
+      acc: "provod"
+      gen: "provoda"
+      loc: "provodu"
+      dat: "provodu"
+      ins: "provodom"
+      voc: "provode"
+    plural: 
+      nom: "provody"
+      acc: "provody"
+      gen: "provodov"
+      loc: "provodah"
+      dat: "provodam"
+      ins: "provodami"
+      voc: "provody"

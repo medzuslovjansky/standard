@@ -1,0 +1,45 @@
+---
+  - 
+    id: "339"
+    word: "luč"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "luč"
+        acc: "luč"
+        gen: "luča"
+        loc: "luču"
+        dat: "luču"
+        ins: "lučem"
+        voc: "luču"
+      plural: 
+        nom: "luče"
+        acc: "luče"
+        gen: "lučev"
+        loc: "lučah"
+        dat: "lučam"
+        ins: "lučami"
+        voc: "luče"
+  - 
+    id: "339"
+    word: "luč"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "luč"
+        acc: "luč"
+        gen: "luči"
+        loc: "luči"
+        dat: "luči"
+        ins: "lučjų"
+        voc: "luči"
+      plural: 
+        nom: "luči"
+        acc: "luči"
+        gen: "lučij"
+        loc: "lučah"
+        dat: "lučam"
+        ins: "lučami"
+        voc: "luči"

@@ -1,0 +1,22 @@
+---
+  id: "10465"
+  word: "pauza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pauza"
+      acc: "pauzų"
+      gen: "pauzy"
+      loc: "pauzě"
+      dat: "pauzě"
+      ins: "pauzojų"
+      voc: "pauzo"
+    plural: 
+      nom: "pauzy"
+      acc: "pauzy"
+      gen: "pauz"
+      loc: "pauzah"
+      dat: "pauzam"
+      ins: "pauzami"
+      voc: "pauzy"

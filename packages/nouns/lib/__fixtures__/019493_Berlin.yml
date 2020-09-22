@@ -1,0 +1,15 @@
+---
+  id: "19493"
+  word: "Berlin"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Berlin"
+      acc: "Berlin"
+      gen: "Berlina"
+      loc: "Berlinu"
+      dat: "Berlinu"
+      ins: "Berlinom"
+      voc: "Berline"

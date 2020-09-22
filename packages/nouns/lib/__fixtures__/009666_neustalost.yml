@@ -1,0 +1,22 @@
+---
+  id: "9666"
+  word: "neustalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neustalosť"
+      acc: "neustalosť"
+      gen: "neustalosti"
+      loc: "neustalosti"
+      dat: "neustalosti"
+      ins: "neustalosťjų"
+      voc: "neustalosti"
+    plural: 
+      nom: "neustalosti"
+      acc: "neustalosti"
+      gen: "neustalostij"
+      loc: "neustalosťah"
+      dat: "neustalosťam"
+      ins: "neustalosťami"
+      voc: "neustalosti"

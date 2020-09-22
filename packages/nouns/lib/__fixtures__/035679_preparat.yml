@@ -1,0 +1,22 @@
+---
+  id: "35679"
+  word: "preparat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "preparat"
+      acc: "preparat"
+      gen: "preparata"
+      loc: "preparatu"
+      dat: "preparatu"
+      ins: "preparatom"
+      voc: "preparate"
+    plural: 
+      nom: "preparaty"
+      acc: "preparaty"
+      gen: "preparatov"
+      loc: "preparatah"
+      dat: "preparatam"
+      ins: "preparatami"
+      voc: "preparaty"

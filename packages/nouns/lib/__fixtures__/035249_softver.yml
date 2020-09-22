@@ -1,0 +1,15 @@
+---
+  id: "35249"
+  word: "softver"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "softver"
+      acc: "softver"
+      gen: "softvera"
+      loc: "softveru"
+      dat: "softveru"
+      ins: "softverom"
+      voc: "softvere"

@@ -1,0 +1,22 @@
+---
+  id: "3649"
+  word: "porųčiteljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "porųčiteljstvo"
+      acc: "porųčiteljstvo"
+      gen: "porųčiteljstva"
+      loc: "porųčiteljstvu"
+      dat: "porųčiteljstvu"
+      ins: "porųčiteljstvom"
+      voc: "porųčiteljstvo"
+    plural: 
+      nom: "porųčiteljstva"
+      acc: "porųčiteljstva"
+      gen: "porųčiteljstv"
+      loc: "porųčiteljstvah"
+      dat: "porųčiteljstvam"
+      ins: "porųčiteljstvami"
+      voc: "porųčiteljstva"

@@ -1,0 +1,22 @@
+---
+  id: "36479"
+  word: "jęčmenj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "jęčmen / jęčmenj"
+      acc: "jęčmen / jęčmenj"
+      gen: "jęčmene / jęčmenja"
+      loc: "jęčmeni / jęčmenju"
+      dat: "jęčmeni / jęčmenju"
+      ins: "jęčmenem / jęčmenjem"
+      voc: "jęčmen / jęčmenju"
+    plural: 
+      nom: "jęčmeni / jęčmenje"
+      acc: "jęčmeni / jęčmenje"
+      gen: "jęčmenev / jęčmenjev"
+      loc: "jęčmenah / jęčmenjah"
+      dat: "jęčmenam / jęčmenjam"
+      ins: "jęčmenami / jęčmenjami"
+      voc: "jęčmeni / jęčmenje"

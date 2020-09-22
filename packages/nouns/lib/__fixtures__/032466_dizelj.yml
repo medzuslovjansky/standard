@@ -1,0 +1,15 @@
+---
+  id: "32466"
+  word: "dizelj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "dizelj"
+      acc: "dizelj"
+      gen: "dizelja"
+      loc: "dizelju"
+      dat: "dizelju"
+      ins: "dizeljem"
+      voc: "dizelju"

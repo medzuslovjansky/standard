@@ -1,0 +1,22 @@
+---
+  id: "23716"
+  word: "zasuvka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zasuvka"
+      acc: "zasuvkų"
+      gen: "zasuvky"
+      loc: "zasuvkě"
+      dat: "zasuvkě"
+      ins: "zasuvkojų"
+      voc: "zasuvko"
+    plural: 
+      nom: "zasuvky"
+      acc: "zasuvky"
+      gen: "zasuvȯk"
+      loc: "zasuvkah"
+      dat: "zasuvkam"
+      ins: "zasuvkami"
+      voc: "zasuvky"

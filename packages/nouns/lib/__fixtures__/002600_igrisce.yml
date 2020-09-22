@@ -1,0 +1,22 @@
+---
+  id: "2600"
+  word: "igrišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "igrišče"
+      acc: "igrišče"
+      gen: "igrišča"
+      loc: "igrišču"
+      dat: "igrišču"
+      ins: "igriščem"
+      voc: "igrišče"
+    plural: 
+      nom: "igrišča"
+      acc: "igrišča"
+      gen: "igrišč"
+      loc: "igriščah"
+      dat: "igriščam"
+      ins: "igriščami"
+      voc: "igrišča"

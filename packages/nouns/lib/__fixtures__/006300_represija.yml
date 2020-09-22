@@ -1,0 +1,22 @@
+---
+  id: "6300"
+  word: "represija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "represija"
+      acc: "represijų"
+      gen: "represije"
+      loc: "represiji"
+      dat: "represiji"
+      ins: "represijejų"
+      voc: "represijo"
+    plural: 
+      nom: "represije"
+      acc: "represije"
+      gen: "represij"
+      loc: "represijah"
+      dat: "represijam"
+      ins: "represijami"
+      voc: "represije"

@@ -1,0 +1,22 @@
+---
+  id: "11172"
+  word: "pravopisańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pravopisańje"
+      acc: "pravopisańje"
+      gen: "pravopisańja"
+      loc: "pravopisańju"
+      dat: "pravopisańju"
+      ins: "pravopisańjem"
+      voc: "pravopisańje"
+    plural: 
+      nom: "pravopisańja"
+      acc: "pravopisańja"
+      gen: "pravopisanij"
+      loc: "pravopisańjah"
+      dat: "pravopisańjam"
+      ins: "pravopisańjami"
+      voc: "pravopisańja"

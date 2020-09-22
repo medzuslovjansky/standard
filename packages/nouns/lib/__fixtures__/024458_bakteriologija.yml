@@ -1,0 +1,15 @@
+---
+  id: "24458"
+  word: "bakteriologija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bakteriologija"
+      acc: "bakteriologijų"
+      gen: "bakteriologije"
+      loc: "bakteriologiji"
+      dat: "bakteriologiji"
+      ins: "bakteriologijejų"
+      voc: "bakteriologijo"

@@ -1,0 +1,23 @@
+---
+  id: "36028"
+  word: "brådobrivec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "brådobrivec"
+      acc: "brådobrivca"
+      gen: "brådobrivca"
+      loc: "brådobrivcu"
+      dat: "brådobrivcu"
+      ins: "brådobrivcem"
+      voc: "brådobrivče"
+    plural: 
+      nom: "brådobrivci"
+      acc: "brådobrivcev"
+      gen: "brådobrivcev"
+      loc: "brådobrivcah"
+      dat: "brådobrivcam"
+      ins: "brådobrivcami"
+      voc: "brådobrivci"

@@ -1,0 +1,23 @@
+---
+  id: "23618"
+  word: "programist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "programist"
+      acc: "programista"
+      gen: "programista"
+      loc: "programistu"
+      dat: "programistu"
+      ins: "programistom"
+      voc: "programiste"
+    plural: 
+      nom: "programisti"
+      acc: "programistov"
+      gen: "programistov"
+      loc: "programistah"
+      dat: "programistam"
+      ins: "programistami"
+      voc: "programisti"

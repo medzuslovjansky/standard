@@ -1,0 +1,22 @@
+---
+  id: "36678"
+  word: "učiteljka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "učiteljka"
+      acc: "učiteljkų"
+      gen: "učiteljky"
+      loc: "učiteljkě"
+      dat: "učiteljkě"
+      ins: "učiteljkojų"
+      voc: "učiteljko"
+    plural: 
+      nom: "učiteljky"
+      acc: "učiteljky"
+      gen: "učiteljek"
+      loc: "učiteljkah"
+      dat: "učiteljkam"
+      ins: "učiteljkami"
+      voc: "učiteljky"

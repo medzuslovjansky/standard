@@ -1,0 +1,22 @@
+---
+  id: "27632"
+  word: "mlådoženka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådoženka"
+      acc: "mlådoženkų"
+      gen: "mlådoženky"
+      loc: "mlådoženkě"
+      dat: "mlådoženkě"
+      ins: "mlådoženkojų"
+      voc: "mlådoženko"
+    plural: 
+      nom: "mlådoženky"
+      acc: "mlådoženky"
+      gen: "mlådoženȯk"
+      loc: "mlådoženkah"
+      dat: "mlådoženkam"
+      ins: "mlådoženkami"
+      voc: "mlådoženky"

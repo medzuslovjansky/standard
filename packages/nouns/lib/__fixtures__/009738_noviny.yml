@@ -1,0 +1,15 @@
+---
+  id: "9738"
+  word: "noviny"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "noviny"
+      acc: "noviny"
+      gen: "novin"
+      loc: "novinah"
+      dat: "novinam"
+      ins: "novinami"
+      voc: "noviny"

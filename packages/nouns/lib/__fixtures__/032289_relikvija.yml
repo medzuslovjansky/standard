@@ -1,0 +1,22 @@
+---
+  id: "32289"
+  word: "relikvija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "relikvija"
+      acc: "relikvijų"
+      gen: "relikvije"
+      loc: "relikviji"
+      dat: "relikviji"
+      ins: "relikvijejų"
+      voc: "relikvijo"
+    plural: 
+      nom: "relikvije"
+      acc: "relikvije"
+      gen: "relikvij"
+      loc: "relikvijah"
+      dat: "relikvijam"
+      ins: "relikvijami"
+      voc: "relikvije"

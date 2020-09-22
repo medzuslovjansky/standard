@@ -1,0 +1,22 @@
+---
+  id: "16814"
+  word: "puška"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "puška"
+      acc: "puškų"
+      gen: "pušky"
+      loc: "puškě"
+      dat: "puškě"
+      ins: "puškojų"
+      voc: "puško"
+    plural: 
+      nom: "pušky"
+      acc: "pušky"
+      gen: "pušek"
+      loc: "puškah"
+      dat: "puškam"
+      ins: "puškami"
+      voc: "pušky"

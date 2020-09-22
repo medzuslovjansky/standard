@@ -1,0 +1,22 @@
+---
+  id: "20044"
+  word: "polus"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "polus"
+      acc: "polus"
+      gen: "polusa"
+      loc: "polusu"
+      dat: "polusu"
+      ins: "polusom"
+      voc: "poluse"
+    plural: 
+      nom: "polusy"
+      acc: "polusy"
+      gen: "polusov"
+      loc: "polusah"
+      dat: "polusam"
+      ins: "polusami"
+      voc: "polusy"

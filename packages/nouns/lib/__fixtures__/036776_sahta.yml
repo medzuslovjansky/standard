@@ -1,0 +1,22 @@
+---
+  id: "36776"
+  word: "šahta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "šahta"
+      acc: "šahtų"
+      gen: "šahty"
+      loc: "šahtě"
+      dat: "šahtě"
+      ins: "šahtojų"
+      voc: "šahto"
+    plural: 
+      nom: "šahty"
+      acc: "šahty"
+      gen: "šaht"
+      loc: "šahtah"
+      dat: "šahtam"
+      ins: "šahtami"
+      voc: "šahty"

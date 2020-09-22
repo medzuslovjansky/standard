@@ -1,0 +1,22 @@
+---
+  id: "4319"
+  word: "perverznosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "perverznosť"
+      acc: "perverznosť"
+      gen: "perverznosti"
+      loc: "perverznosti"
+      dat: "perverznosti"
+      ins: "perverznosťjų"
+      voc: "perverznosti"
+    plural: 
+      nom: "perverznosti"
+      acc: "perverznosti"
+      gen: "perverznostij"
+      loc: "perverznosťah"
+      dat: "perverznosťam"
+      ins: "perverznosťami"
+      voc: "perverznosti"

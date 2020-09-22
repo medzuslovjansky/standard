@@ -1,0 +1,22 @@
+---
+  id: "12253"
+  word: "sklonnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sklonnosť"
+      acc: "sklonnosť"
+      gen: "sklonnosti"
+      loc: "sklonnosti"
+      dat: "sklonnosti"
+      ins: "sklonnosťjų"
+      voc: "sklonnosti"
+    plural: 
+      nom: "sklonnosti"
+      acc: "sklonnosti"
+      gen: "sklonnostij"
+      loc: "sklonnosťah"
+      dat: "sklonnosťam"
+      ins: "sklonnosťami"
+      voc: "sklonnosti"

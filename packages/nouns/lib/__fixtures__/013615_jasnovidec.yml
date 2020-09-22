@@ -1,0 +1,23 @@
+---
+  id: "13615"
+  word: "jasnovidec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jasnovidec"
+      acc: "jasnovidca"
+      gen: "jasnovidca"
+      loc: "jasnovidcu"
+      dat: "jasnovidcu"
+      ins: "jasnovidcem"
+      voc: "jasnovidče"
+    plural: 
+      nom: "jasnovidci"
+      acc: "jasnovidcev"
+      gen: "jasnovidcev"
+      loc: "jasnovidcah"
+      dat: "jasnovidcam"
+      ins: "jasnovidcami"
+      voc: "jasnovidci"

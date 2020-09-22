@@ -1,0 +1,22 @@
+---
+  id: "6004"
+  word: "nepovaga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nepovaga"
+      acc: "nepovagų"
+      gen: "nepovagy"
+      loc: "nepovagě"
+      dat: "nepovagě"
+      ins: "nepovagojų"
+      voc: "nepovago"
+    plural: 
+      nom: "nepovagy"
+      acc: "nepovagy"
+      gen: "nepovag"
+      loc: "nepovagah"
+      dat: "nepovagam"
+      ins: "nepovagami"
+      voc: "nepovagy"

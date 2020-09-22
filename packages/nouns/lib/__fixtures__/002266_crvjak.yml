@@ -1,0 +1,23 @@
+---
+  id: "2266"
+  word: "črvjak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "črvjak"
+      acc: "črvjaka"
+      gen: "črvjaka"
+      loc: "črvjaku"
+      dat: "črvjaku"
+      ins: "črvjakom"
+      voc: "črvjače"
+    plural: 
+      nom: "črvjaki"
+      acc: "črvjakov"
+      gen: "črvjakov"
+      loc: "črvjakah"
+      dat: "črvjakam"
+      ins: "črvjakami"
+      voc: "črvjaki"

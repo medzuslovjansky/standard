@@ -1,0 +1,22 @@
+---
+  id: "1790"
+  word: "kuhnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kuhnja"
+      acc: "kuhnjų"
+      gen: "kuhnje"
+      loc: "kuhnji"
+      dat: "kuhnji"
+      ins: "kuhnjejų"
+      voc: "kuhnjo"
+    plural: 
+      nom: "kuhnje"
+      acc: "kuhnje"
+      gen: "kuhnej"
+      loc: "kuhnjah"
+      dat: "kuhnjam"
+      ins: "kuhnjami"
+      voc: "kuhnje"

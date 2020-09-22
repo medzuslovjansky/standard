@@ -1,0 +1,22 @@
+---
+  id: "3407"
+  word: "povědka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "povědka"
+      acc: "povědkų"
+      gen: "povědky"
+      loc: "povědkě"
+      dat: "povědkě"
+      ins: "povědkojų"
+      voc: "povědko"
+    plural: 
+      nom: "povědky"
+      acc: "povědky"
+      gen: "povědȯk"
+      loc: "povědkah"
+      dat: "povědkam"
+      ins: "povědkami"
+      voc: "povědky"

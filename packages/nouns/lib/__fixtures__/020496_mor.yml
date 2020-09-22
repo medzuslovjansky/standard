@@ -1,0 +1,22 @@
+---
+  id: "20496"
+  word: "mor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mor"
+      acc: "mor"
+      gen: "mora"
+      loc: "moru"
+      dat: "moru"
+      ins: "morom"
+      voc: "more"
+    plural: 
+      nom: "mory"
+      acc: "mory"
+      gen: "morov"
+      loc: "morah"
+      dat: "moram"
+      ins: "morami"
+      voc: "mory"

@@ -1,0 +1,23 @@
+---
+  id: "23615"
+  word: "tiskaŕ"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "tiskaŕ"
+      acc: "tiskaŕa"
+      gen: "tiskaŕa"
+      loc: "tiskaŕu"
+      dat: "tiskaŕu"
+      ins: "tiskaŕem"
+      voc: "tiskaŕu"
+    plural: 
+      nom: "tiskari"
+      acc: "tiskaŕev"
+      gen: "tiskaŕev"
+      loc: "tiskaŕah"
+      dat: "tiskaŕam"
+      ins: "tiskaŕami"
+      voc: "tiskari"

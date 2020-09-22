@@ -1,0 +1,15 @@
+---
+  id: "36887"
+  word: "Rejn"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Rejn"
+      acc: "Rejn"
+      gen: "Rejna"
+      loc: "Rejnu"
+      dat: "Rejnu"
+      ins: "Rejnom"
+      voc: "Rejne"

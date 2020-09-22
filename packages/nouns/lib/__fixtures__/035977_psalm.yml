@@ -1,0 +1,22 @@
+---
+  id: "35977"
+  word: "psalm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "psalm"
+      acc: "psalm"
+      gen: "psalma"
+      loc: "psalmu"
+      dat: "psalmu"
+      ins: "psalmom"
+      voc: "psalme"
+    plural: 
+      nom: "psalmy"
+      acc: "psalmy"
+      gen: "psalmov"
+      loc: "psalmah"
+      dat: "psalmam"
+      ins: "psalmami"
+      voc: "psalmy"

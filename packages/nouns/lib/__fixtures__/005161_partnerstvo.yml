@@ -1,0 +1,22 @@
+---
+  id: "5161"
+  word: "partnerstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "partnerstvo"
+      acc: "partnerstvo"
+      gen: "partnerstva"
+      loc: "partnerstvu"
+      dat: "partnerstvu"
+      ins: "partnerstvom"
+      voc: "partnerstvo"
+    plural: 
+      nom: "partnerstva"
+      acc: "partnerstva"
+      gen: "partnerstv"
+      loc: "partnerstvah"
+      dat: "partnerstvam"
+      ins: "partnerstvami"
+      voc: "partnerstva"

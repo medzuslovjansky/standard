@@ -1,0 +1,23 @@
+---
+  id: "14673"
+  word: "lěčitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lěčitelj"
+      acc: "lěčitelja"
+      gen: "lěčitelja"
+      loc: "lěčitelju"
+      dat: "lěčitelju"
+      ins: "lěčiteljem"
+      voc: "lěčitelju"
+    plural: 
+      nom: "lěčitelji"
+      acc: "lěčiteljev"
+      gen: "lěčiteljev"
+      loc: "lěčiteljah"
+      dat: "lěčiteljam"
+      ins: "lěčiteljami"
+      voc: "lěčitelji"

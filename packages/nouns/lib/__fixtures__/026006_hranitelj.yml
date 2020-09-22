@@ -1,0 +1,23 @@
+---
+  id: "26006"
+  word: "hrånitelj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hrånitelj"
+      acc: "hrånitelja"
+      gen: "hrånitelja"
+      loc: "hrånitelju"
+      dat: "hrånitelju"
+      ins: "hråniteljem"
+      voc: "hrånitelju"
+    plural: 
+      nom: "hrånitelji"
+      acc: "hråniteljev"
+      gen: "hråniteljev"
+      loc: "hråniteljah"
+      dat: "hråniteljam"
+      ins: "hråniteljami"
+      voc: "hrånitelji"

@@ -1,0 +1,22 @@
+---
+  id: "16425"
+  word: "Portugalka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "Portugalka"
+      acc: "Portugalkų"
+      gen: "Portugalky"
+      loc: "Portugalkě"
+      dat: "Portugalkě"
+      ins: "Portugalkojų"
+      voc: "Portugalko"
+    plural: 
+      nom: "Portugalky"
+      acc: "Portugalky"
+      gen: "Portugalȯk"
+      loc: "Portugalkah"
+      dat: "Portugalkam"
+      ins: "Portugalkami"
+      voc: "Portugalky"

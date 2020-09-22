@@ -1,0 +1,22 @@
+---
+  id: "10783"
+  word: "podtiskańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "podtiskańje"
+      acc: "podtiskańje"
+      gen: "podtiskańja"
+      loc: "podtiskańju"
+      dat: "podtiskańju"
+      ins: "podtiskańjem"
+      voc: "podtiskańje"
+    plural: 
+      nom: "podtiskańja"
+      acc: "podtiskańja"
+      gen: "podtiskanij"
+      loc: "podtiskańjah"
+      dat: "podtiskańjam"
+      ins: "podtiskańjami"
+      voc: "podtiskańja"

@@ -1,0 +1,15 @@
+---
+  id: "24032"
+  word: "abolicionizm"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "abolicionizm"
+      acc: "abolicionizm"
+      gen: "abolicionizma"
+      loc: "abolicionizmu"
+      dat: "abolicionizmu"
+      ins: "abolicionizmom"
+      voc: "abolicionizme"

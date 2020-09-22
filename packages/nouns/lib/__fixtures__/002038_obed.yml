@@ -1,0 +1,22 @@
+---
+  id: "2038"
+  word: "oběd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "oběd"
+      acc: "oběd"
+      gen: "oběda"
+      loc: "obědu"
+      dat: "obědu"
+      ins: "obědom"
+      voc: "oběde"
+    plural: 
+      nom: "obědy"
+      acc: "obědy"
+      gen: "obědov"
+      loc: "obědah"
+      dat: "obědam"
+      ins: "obědami"
+      voc: "obědy"

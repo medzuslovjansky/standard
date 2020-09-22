@@ -1,0 +1,22 @@
+---
+  id: "16849"
+  word: "obezčešćeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obezčešćeńje"
+      acc: "obezčešćeńje"
+      gen: "obezčešćeńja"
+      loc: "obezčešćeńju"
+      dat: "obezčešćeńju"
+      ins: "obezčešćeńjem"
+      voc: "obezčešćeńje"
+    plural: 
+      nom: "obezčešćeńja"
+      acc: "obezčešćeńja"
+      gen: "obezčešćenij"
+      loc: "obezčešćeńjah"
+      dat: "obezčešćeńjam"
+      ins: "obezčešćeńjami"
+      voc: "obezčešćeńja"

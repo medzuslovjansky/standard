@@ -1,0 +1,24 @@
+---
+  id: "8928"
+  word: "ljuty"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "ljuty"
+      acc: "ljuty"
+      gen: "ljutogo"
+      loc: "ljutom"
+      dat: "ljutomu"
+      ins: "ljutym"
+      voc: "ljuty"
+    plural: 
+      nom: "ljute"
+      acc: "ljute"
+      gen: "ljutyh"
+      loc: "ljutyh"
+      dat: "ljutym"
+      ins: "ljutymi"
+      voc: "ljute"

@@ -1,0 +1,22 @@
+---
+  id: "3524"
+  word: "suhaŕ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "suhaŕ"
+      acc: "suhaŕ"
+      gen: "suhaŕa"
+      loc: "suhaŕu"
+      dat: "suhaŕu"
+      ins: "suhaŕem"
+      voc: "suhaŕu"
+    plural: 
+      nom: "suhaŕe"
+      acc: "suhaŕe"
+      gen: "suhaŕev"
+      loc: "suhaŕah"
+      dat: "suhaŕam"
+      ins: "suhaŕami"
+      voc: "suhaŕe"

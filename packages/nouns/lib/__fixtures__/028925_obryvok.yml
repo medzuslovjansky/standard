@@ -1,0 +1,22 @@
+---
+  id: "28925"
+  word: "obryvȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "obryvȯk"
+      acc: "obryvȯk"
+      gen: "obryvka"
+      loc: "obryvku"
+      dat: "obryvku"
+      ins: "obryvkom"
+      voc: "obryvče"
+    plural: 
+      nom: "obryvky"
+      acc: "obryvky"
+      gen: "obryvkov"
+      loc: "obryvkah"
+      dat: "obryvkam"
+      ins: "obryvkami"
+      voc: "obryvky"

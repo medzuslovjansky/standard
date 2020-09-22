@@ -1,0 +1,15 @@
+---
+  id: "23609"
+  word: "pečętaŕstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "pečętaŕstvo"
+      acc: "pečętaŕstvo"
+      gen: "pečętaŕstva"
+      loc: "pečętaŕstvu"
+      dat: "pečętaŕstvu"
+      ins: "pečętaŕstvom"
+      voc: "pečętaŕstvo"

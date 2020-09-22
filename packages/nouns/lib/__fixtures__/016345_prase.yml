@@ -1,0 +1,22 @@
+---
+  id: "16345"
+  word: "pråsę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pråsę"
+      acc: "pråsę"
+      gen: "pråsęte / pråsęta"
+      loc: "pråsęti / pråsętu"
+      dat: "pråsęti / pråsętu"
+      ins: "pråsętem / pråsętom"
+      voc: "pråsę"
+    plural: 
+      nom: "pråsęta"
+      acc: "pråsęta"
+      gen: "pråsęt"
+      loc: "pråsętah"
+      dat: "pråsętam"
+      ins: "pråsętami"
+      voc: "pråsęta"

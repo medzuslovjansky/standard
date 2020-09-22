@@ -1,0 +1,22 @@
+---
+  id: "17666"
+  word: "kolokrěslo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "kolokrěslo"
+      acc: "kolokrěslo"
+      gen: "kolokrěsla"
+      loc: "kolokrěslu"
+      dat: "kolokrěslu"
+      ins: "kolokrěslom"
+      voc: "kolokrěslo"
+    plural: 
+      nom: "kolokrěsla"
+      acc: "kolokrěsla"
+      gen: "kolokrěsel"
+      loc: "kolokrěslah"
+      dat: "kolokrěslam"
+      ins: "kolokrěslami"
+      voc: "kolokrěsla"

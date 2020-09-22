@@ -1,0 +1,15 @@
+---
+  id: "16932"
+  word: "edukacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "edukacija"
+      acc: "edukacijų"
+      gen: "edukacije"
+      loc: "edukaciji"
+      dat: "edukaciji"
+      ins: "edukacijejų"
+      voc: "edukacijo"

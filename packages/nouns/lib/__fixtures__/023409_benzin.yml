@@ -1,0 +1,22 @@
+---
+  id: "23409"
+  word: "benzin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "benzin"
+      acc: "benzin"
+      gen: "benzina"
+      loc: "benzinu"
+      dat: "benzinu"
+      ins: "benzinom"
+      voc: "benzine"
+    plural: 
+      nom: "benziny"
+      acc: "benziny"
+      gen: "benzinov"
+      loc: "benzinah"
+      dat: "benzinam"
+      ins: "benzinami"
+      voc: "benziny"

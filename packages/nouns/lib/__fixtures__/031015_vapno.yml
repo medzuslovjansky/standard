@@ -1,0 +1,22 @@
+---
+  id: "31015"
+  word: "vapno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vapno"
+      acc: "vapno"
+      gen: "vapna"
+      loc: "vapnu"
+      dat: "vapnu"
+      ins: "vapnom"
+      voc: "vapno"
+    plural: 
+      nom: "vapna"
+      acc: "vapna"
+      gen: "vapen"
+      loc: "vapnah"
+      dat: "vapnam"
+      ins: "vapnami"
+      voc: "vapna"

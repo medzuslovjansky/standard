@@ -1,0 +1,22 @@
+---
+  id: "32595"
+  word: "orgija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "orgija"
+      acc: "orgijų"
+      gen: "orgije"
+      loc: "orgiji"
+      dat: "orgiji"
+      ins: "orgijejų"
+      voc: "orgijo"
+    plural: 
+      nom: "orgije"
+      acc: "orgije"
+      gen: "orgij"
+      loc: "orgijah"
+      dat: "orgijam"
+      ins: "orgijami"
+      voc: "orgije"

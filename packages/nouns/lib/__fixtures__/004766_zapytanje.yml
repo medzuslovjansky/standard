@@ -1,0 +1,22 @@
+---
+  id: "4766"
+  word: "zapytańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zapytańje"
+      acc: "zapytańje"
+      gen: "zapytańja"
+      loc: "zapytańju"
+      dat: "zapytańju"
+      ins: "zapytańjem"
+      voc: "zapytańje"
+    plural: 
+      nom: "zapytańja"
+      acc: "zapytańja"
+      gen: "zapytanij"
+      loc: "zapytańjah"
+      dat: "zapytańjam"
+      ins: "zapytańjami"
+      voc: "zapytańja"

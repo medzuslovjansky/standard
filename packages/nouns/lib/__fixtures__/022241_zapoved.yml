@@ -1,0 +1,22 @@
+---
+  id: "22241"
+  word: "zapověď"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zapověď"
+      acc: "zapověď"
+      gen: "zapovědi"
+      loc: "zapovědi"
+      dat: "zapovědi"
+      ins: "zapověďjų"
+      voc: "zapovědi"
+    plural: 
+      nom: "zapovědi"
+      acc: "zapovědi"
+      gen: "zapovědij"
+      loc: "zapověďah"
+      dat: "zapověďam"
+      ins: "zapověďami"
+      voc: "zapovědi"

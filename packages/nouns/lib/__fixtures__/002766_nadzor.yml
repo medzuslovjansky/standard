@@ -1,0 +1,22 @@
+---
+  id: "2766"
+  word: "nadzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "nadzor"
+      acc: "nadzor"
+      gen: "nadzora"
+      loc: "nadzoru"
+      dat: "nadzoru"
+      ins: "nadzorom"
+      voc: "nadzore"
+    plural: 
+      nom: "nadzory"
+      acc: "nadzory"
+      gen: "nadzorov"
+      loc: "nadzorah"
+      dat: "nadzoram"
+      ins: "nadzorami"
+      voc: "nadzory"

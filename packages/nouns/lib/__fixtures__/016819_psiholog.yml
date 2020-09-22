@@ -1,0 +1,23 @@
+---
+  id: "16819"
+  word: "psiholog"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "psiholog"
+      acc: "psihologa"
+      gen: "psihologa"
+      loc: "psihologu"
+      dat: "psihologu"
+      ins: "psihologom"
+      voc: "psiholože"
+    plural: 
+      nom: "psihologi"
+      acc: "psihologov"
+      gen: "psihologov"
+      loc: "psihologah"
+      dat: "psihologam"
+      ins: "psihologami"
+      voc: "psihologi"

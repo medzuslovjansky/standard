@@ -1,0 +1,23 @@
+---
+  id: "2202"
+  word: "jelenj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jelen / jelenj"
+      acc: "jelen / jelenj"
+      gen: "jelene / jelenja"
+      loc: "jeleni / jelenju"
+      dat: "jeleni / jelenju"
+      ins: "jelenem / jelenjem"
+      voc: "jelen / jelenju"
+    plural: 
+      nom: "jeleni / jelenje"
+      acc: "jeleni / jelenje"
+      gen: "jelenev / jelenjev"
+      loc: "jelenah / jelenjah"
+      dat: "jelenam / jelenjam"
+      ins: "jelenami / jelenjami"
+      voc: "jeleni / jelenje"

@@ -1,0 +1,22 @@
+---
+  id: "421"
+  word: "cělj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "cělj"
+      acc: "cělj"
+      gen: "cělja"
+      loc: "cělju"
+      dat: "cělju"
+      ins: "cěljem"
+      voc: "cělju"
+    plural: 
+      nom: "cělje"
+      acc: "cělje"
+      gen: "cěljev"
+      loc: "cěljah"
+      dat: "cěljam"
+      ins: "cěljami"
+      voc: "cělje"

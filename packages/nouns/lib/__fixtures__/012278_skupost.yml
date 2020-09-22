@@ -1,0 +1,22 @@
+---
+  id: "12278"
+  word: "skųposť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "skųposť"
+      acc: "skųposť"
+      gen: "skųposti"
+      loc: "skųposti"
+      dat: "skųposti"
+      ins: "skųposťjų"
+      voc: "skųposti"
+    plural: 
+      nom: "skųposti"
+      acc: "skųposti"
+      gen: "skųpostij"
+      loc: "skųposťah"
+      dat: "skųposťam"
+      ins: "skųposťami"
+      voc: "skųposti"

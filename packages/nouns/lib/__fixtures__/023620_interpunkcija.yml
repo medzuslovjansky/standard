@@ -1,0 +1,22 @@
+---
+  id: "23620"
+  word: "interpunkcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "interpunkcija"
+      acc: "interpunkcijų"
+      gen: "interpunkcije"
+      loc: "interpunkciji"
+      dat: "interpunkciji"
+      ins: "interpunkcijejų"
+      voc: "interpunkcijo"
+    plural: 
+      nom: "interpunkcije"
+      acc: "interpunkcije"
+      gen: "interpunkcij"
+      loc: "interpunkcijah"
+      dat: "interpunkcijam"
+      ins: "interpunkcijami"
+      voc: "interpunkcije"

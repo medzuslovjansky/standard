@@ -1,0 +1,22 @@
+---
+  id: "35682"
+  word: "koronacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "koronacija"
+      acc: "koronacijų"
+      gen: "koronacije"
+      loc: "koronaciji"
+      dat: "koronaciji"
+      ins: "koronacijejų"
+      voc: "koronacijo"
+    plural: 
+      nom: "koronacije"
+      acc: "koronacije"
+      gen: "koronacij"
+      loc: "koronacijah"
+      dat: "koronacijam"
+      ins: "koronacijami"
+      voc: "koronacije"

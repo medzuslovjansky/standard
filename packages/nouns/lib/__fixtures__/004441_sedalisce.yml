@@ -1,0 +1,22 @@
+---
+  id: "4441"
+  word: "sědališče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sědališče"
+      acc: "sědališče"
+      gen: "sědališča"
+      loc: "sědališču"
+      dat: "sědališču"
+      ins: "sědališčem"
+      voc: "sědališče"
+    plural: 
+      nom: "sědališča"
+      acc: "sědališča"
+      gen: "sědališč"
+      loc: "sědališčah"
+      dat: "sědališčam"
+      ins: "sědališčami"
+      voc: "sědališča"

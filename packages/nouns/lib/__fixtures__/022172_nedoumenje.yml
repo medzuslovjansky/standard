@@ -1,0 +1,15 @@
+---
+  id: "22172"
+  word: "nedouměńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nedouměńje"
+      acc: "nedouměńje"
+      gen: "nedouměńja"
+      loc: "nedouměńju"
+      dat: "nedouměńju"
+      ins: "nedouměńjem"
+      voc: "nedouměńje"

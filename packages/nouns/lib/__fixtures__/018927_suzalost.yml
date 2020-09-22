@@ -1,0 +1,22 @@
+---
+  id: "18927"
+  word: "sųžalosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųžalosť"
+      acc: "sųžalosť"
+      gen: "sųžalosti"
+      loc: "sųžalosti"
+      dat: "sųžalosti"
+      ins: "sųžalosťjų"
+      voc: "sųžalosti"
+    plural: 
+      nom: "sųžalosti"
+      acc: "sųžalosti"
+      gen: "sųžalostij"
+      loc: "sųžalosťah"
+      dat: "sųžalosťam"
+      ins: "sųžalosťami"
+      voc: "sųžalosti"

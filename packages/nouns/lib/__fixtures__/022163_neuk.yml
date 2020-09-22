@@ -1,0 +1,23 @@
+---
+  id: "22163"
+  word: "neuk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "neuk"
+      acc: "neuka"
+      gen: "neuka"
+      loc: "neuku"
+      dat: "neuku"
+      ins: "neukom"
+      voc: "neuče"
+    plural: 
+      nom: "neuki"
+      acc: "neukov"
+      gen: "neukov"
+      loc: "neukah"
+      dat: "neukam"
+      ins: "neukami"
+      voc: "neuki"

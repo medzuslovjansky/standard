@@ -1,0 +1,22 @@
+---
+  id: "20560"
+  word: "obličje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obličje"
+      acc: "obličje"
+      gen: "obličja"
+      loc: "obličju"
+      dat: "obličju"
+      ins: "obličjem"
+      voc: "obličje"
+    plural: 
+      nom: "obličja"
+      acc: "obličja"
+      gen: "obličij"
+      loc: "obličjah"
+      dat: "obličjam"
+      ins: "obličjami"
+      voc: "obličja"

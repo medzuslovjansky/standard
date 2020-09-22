@@ -1,0 +1,22 @@
+---
+  id: "16119"
+  word: "tendencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tendencija"
+      acc: "tendencijų"
+      gen: "tendencije"
+      loc: "tendenciji"
+      dat: "tendenciji"
+      ins: "tendencijejų"
+      voc: "tendencijo"
+    plural: 
+      nom: "tendencije"
+      acc: "tendencije"
+      gen: "tendencij"
+      loc: "tendencijah"
+      dat: "tendencijam"
+      ins: "tendencijami"
+      voc: "tendencije"

@@ -1,0 +1,22 @@
+---
+  id: "30280"
+  word: "råzliv"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzliv"
+      acc: "råzliv"
+      gen: "råzliva"
+      loc: "råzlivu"
+      dat: "råzlivu"
+      ins: "råzlivom"
+      voc: "råzlive"
+    plural: 
+      nom: "råzlivy"
+      acc: "råzlivy"
+      gen: "råzlivov"
+      loc: "råzlivah"
+      dat: "råzlivam"
+      ins: "råzlivami"
+      voc: "råzlivy"

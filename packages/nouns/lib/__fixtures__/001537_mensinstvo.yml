@@ -1,0 +1,22 @@
+---
+  id: "1537"
+  word: "menšinstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "menšinstvo"
+      acc: "menšinstvo"
+      gen: "menšinstva"
+      loc: "menšinstvu"
+      dat: "menšinstvu"
+      ins: "menšinstvom"
+      voc: "menšinstvo"
+    plural: 
+      nom: "menšinstva"
+      acc: "menšinstva"
+      gen: "menšinstv"
+      loc: "menšinstvah"
+      dat: "menšinstvam"
+      ins: "menšinstvami"
+      voc: "menšinstva"

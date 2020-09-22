@@ -1,0 +1,23 @@
+---
+  id: "17150"
+  word: "blondin"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "blondin"
+      acc: "blondina"
+      gen: "blondina"
+      loc: "blondinu"
+      dat: "blondinu"
+      ins: "blondinom"
+      voc: "blondine"
+    plural: 
+      nom: "blondini"
+      acc: "blondinov"
+      gen: "blondinov"
+      loc: "blondinah"
+      dat: "blondinam"
+      ins: "blondinami"
+      voc: "blondini"

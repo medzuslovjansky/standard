@@ -1,0 +1,22 @@
+---
+  id: "35240"
+  word: "bastard"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bastard"
+      acc: "bastard"
+      gen: "bastarda"
+      loc: "bastardu"
+      dat: "bastardu"
+      ins: "bastardom"
+      voc: "bastarde"
+    plural: 
+      nom: "bastardy"
+      acc: "bastardy"
+      gen: "bastardov"
+      loc: "bastardah"
+      dat: "bastardam"
+      ins: "bastardami"
+      voc: "bastardy"

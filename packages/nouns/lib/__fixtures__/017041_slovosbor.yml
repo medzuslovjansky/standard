@@ -1,0 +1,22 @@
+---
+  id: "17041"
+  word: "slovosbor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slovosbor"
+      acc: "slovosbor"
+      gen: "slovosbora"
+      loc: "slovosboru"
+      dat: "slovosboru"
+      ins: "slovosborom"
+      voc: "slovosbore"
+    plural: 
+      nom: "slovosbory"
+      acc: "slovosbory"
+      gen: "slovosborov"
+      loc: "slovosborah"
+      dat: "slovosboram"
+      ins: "slovosborami"
+      voc: "slovosbory"

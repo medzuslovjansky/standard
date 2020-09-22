@@ -1,0 +1,15 @@
+---
+  id: "6422"
+  word: "apendektomija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "apendektomija"
+      acc: "apendektomijų"
+      gen: "apendektomije"
+      loc: "apendektomiji"
+      dat: "apendektomiji"
+      ins: "apendektomijejų"
+      voc: "apendektomijo"

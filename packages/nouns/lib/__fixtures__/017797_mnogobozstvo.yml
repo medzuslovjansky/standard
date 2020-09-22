@@ -1,0 +1,15 @@
+---
+  id: "17797"
+  word: "mnogobožstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "mnogobožstvo"
+      acc: "mnogobožstvo"
+      gen: "mnogobožstva"
+      loc: "mnogobožstvu"
+      dat: "mnogobožstvu"
+      ins: "mnogobožstvom"
+      voc: "mnogobožstvo"

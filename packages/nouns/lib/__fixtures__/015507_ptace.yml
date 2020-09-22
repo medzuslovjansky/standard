@@ -1,0 +1,22 @@
+---
+  id: "15507"
+  word: "ptačę"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ptačę"
+      acc: "ptačę"
+      gen: "ptačęte / ptačęta"
+      loc: "ptačęti / ptačętu"
+      dat: "ptačęti / ptačętu"
+      ins: "ptačętem / ptačętom"
+      voc: "ptačę"
+    plural: 
+      nom: "ptačęta"
+      acc: "ptačęta"
+      gen: "ptačęt"
+      loc: "ptačętah"
+      dat: "ptačętam"
+      ins: "ptačętami"
+      voc: "ptačęta"

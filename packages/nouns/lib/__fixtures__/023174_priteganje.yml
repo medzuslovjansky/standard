@@ -1,0 +1,22 @@
+---
+  id: "23174"
+  word: "pritęgańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pritęgańje"
+      acc: "pritęgańje"
+      gen: "pritęgańja"
+      loc: "pritęgańju"
+      dat: "pritęgańju"
+      ins: "pritęgańjem"
+      voc: "pritęgańje"
+    plural: 
+      nom: "pritęgańja"
+      acc: "pritęgańja"
+      gen: "pritęganij"
+      loc: "pritęgańjah"
+      dat: "pritęgańjam"
+      ins: "pritęgańjami"
+      voc: "pritęgańja"

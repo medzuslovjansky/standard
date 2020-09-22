@@ -1,0 +1,23 @@
+---
+  id: "36296"
+  word: "povědač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "povědač"
+      acc: "povědača"
+      gen: "povědača"
+      loc: "povědaču"
+      dat: "povědaču"
+      ins: "povědačem"
+      voc: "povědaču"
+    plural: 
+      nom: "povědači"
+      acc: "povědačev"
+      gen: "povědačev"
+      loc: "povědačah"
+      dat: "povědačam"
+      ins: "povědačami"
+      voc: "povědači"

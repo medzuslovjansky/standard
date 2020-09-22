@@ -1,0 +1,22 @@
+---
+  id: "35039"
+  word: "kritika"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "kritika"
+      acc: "kritikų"
+      gen: "kritiky"
+      loc: "kritikě"
+      dat: "kritikě"
+      ins: "kritikojų"
+      voc: "kritiko"
+    plural: 
+      nom: "kritiky"
+      acc: "kritiky"
+      gen: "kritik"
+      loc: "kritikah"
+      dat: "kritikam"
+      ins: "kritikami"
+      voc: "kritiky"

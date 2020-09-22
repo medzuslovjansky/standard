@@ -1,0 +1,22 @@
+---
+  id: "902"
+  word: "raport"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "raport"
+      acc: "raport"
+      gen: "raporta"
+      loc: "raportu"
+      dat: "raportu"
+      ins: "raportom"
+      voc: "raporte"
+    plural: 
+      nom: "raporty"
+      acc: "raporty"
+      gen: "raportov"
+      loc: "raportah"
+      dat: "raportam"
+      ins: "raportami"
+      voc: "raporty"

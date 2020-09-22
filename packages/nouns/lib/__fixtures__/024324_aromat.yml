@@ -1,0 +1,22 @@
+---
+  id: "24324"
+  word: "aromat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "aromat"
+      acc: "aromat"
+      gen: "aromata"
+      loc: "aromatu"
+      dat: "aromatu"
+      ins: "aromatom"
+      voc: "aromate"
+    plural: 
+      nom: "aromaty"
+      acc: "aromaty"
+      gen: "aromatov"
+      loc: "aromatah"
+      dat: "aromatam"
+      ins: "aromatami"
+      voc: "aromaty"

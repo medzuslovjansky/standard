@@ -1,0 +1,22 @@
+---
+  id: "31843"
+  word: "as"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "as"
+      acc: "as"
+      gen: "asa"
+      loc: "asu"
+      dat: "asu"
+      ins: "asom"
+      voc: "ase"
+    plural: 
+      nom: "asy"
+      acc: "asy"
+      gen: "asov"
+      loc: "asah"
+      dat: "asam"
+      ins: "asami"
+      voc: "asy"

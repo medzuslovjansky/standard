@@ -1,0 +1,22 @@
+---
+  id: "35412"
+  word: "nekaznivosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nekaznivosť"
+      acc: "nekaznivosť"
+      gen: "nekaznivosti"
+      loc: "nekaznivosti"
+      dat: "nekaznivosti"
+      ins: "nekaznivosťjų"
+      voc: "nekaznivosti"
+    plural: 
+      nom: "nekaznivosti"
+      acc: "nekaznivosti"
+      gen: "nekaznivostij"
+      loc: "nekaznivosťah"
+      dat: "nekaznivosťam"
+      ins: "nekaznivosťami"
+      voc: "nekaznivosti"

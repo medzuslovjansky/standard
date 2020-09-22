@@ -1,0 +1,22 @@
+---
+  id: "21043"
+  word: "prědpis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědpis"
+      acc: "prědpis"
+      gen: "prědpisa"
+      loc: "prědpisu"
+      dat: "prědpisu"
+      ins: "prědpisom"
+      voc: "prědpise"
+    plural: 
+      nom: "prědpisy"
+      acc: "prědpisy"
+      gen: "prědpisov"
+      loc: "prědpisah"
+      dat: "prědpisam"
+      ins: "prědpisami"
+      voc: "prědpisy"

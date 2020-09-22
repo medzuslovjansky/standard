@@ -1,0 +1,22 @@
+---
+  id: "35603"
+  word: "epitet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "epitet"
+      acc: "epitet"
+      gen: "epiteta"
+      loc: "epitetu"
+      dat: "epitetu"
+      ins: "epitetom"
+      voc: "epitete"
+    plural: 
+      nom: "epitety"
+      acc: "epitety"
+      gen: "epitetov"
+      loc: "epitetah"
+      dat: "epitetam"
+      ins: "epitetami"
+      voc: "epitety"

@@ -1,0 +1,22 @@
+---
+  id: "36337"
+  word: "masakra"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "masakra"
+      acc: "masakrų"
+      gen: "masakry"
+      loc: "masakrě"
+      dat: "masakrě"
+      ins: "masakrojų"
+      voc: "masakro"
+    plural: 
+      nom: "masakry"
+      acc: "masakry"
+      gen: "masakr"
+      loc: "masakrah"
+      dat: "masakram"
+      ins: "masakrami"
+      voc: "masakry"

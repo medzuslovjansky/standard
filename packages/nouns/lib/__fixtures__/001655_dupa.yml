@@ -1,0 +1,22 @@
+---
+  id: "1655"
+  word: "dupa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dupa"
+      acc: "dupų"
+      gen: "dupy"
+      loc: "dupě"
+      dat: "dupě"
+      ins: "dupojų"
+      voc: "dupo"
+    plural: 
+      nom: "dupy"
+      acc: "dupy"
+      gen: "dup"
+      loc: "dupah"
+      dat: "dupam"
+      ins: "dupami"
+      voc: "dupy"

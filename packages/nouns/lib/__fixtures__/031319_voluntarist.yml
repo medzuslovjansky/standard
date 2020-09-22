@@ -1,0 +1,23 @@
+---
+  id: "31319"
+  word: "voluntarist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "voluntarist"
+      acc: "voluntarista"
+      gen: "voluntarista"
+      loc: "voluntaristu"
+      dat: "voluntaristu"
+      ins: "voluntaristom"
+      voc: "voluntariste"
+    plural: 
+      nom: "voluntaristi"
+      acc: "voluntaristov"
+      gen: "voluntaristov"
+      loc: "voluntaristah"
+      dat: "voluntaristam"
+      ins: "voluntaristami"
+      voc: "voluntaristi"

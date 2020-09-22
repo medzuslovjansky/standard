@@ -1,0 +1,22 @@
+---
+  id: "35016"
+  word: "kupon"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kupon"
+      acc: "kupon"
+      gen: "kupona"
+      loc: "kuponu"
+      dat: "kuponu"
+      ins: "kuponom"
+      voc: "kupone"
+    plural: 
+      nom: "kupony"
+      acc: "kupony"
+      gen: "kuponov"
+      loc: "kuponah"
+      dat: "kuponam"
+      ins: "kuponami"
+      voc: "kupony"

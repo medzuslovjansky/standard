@@ -1,0 +1,15 @@
+---
+  id: "24384"
+  word: "avtomatizacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "avtomatizacija"
+      acc: "avtomatizacijų"
+      gen: "avtomatizacije"
+      loc: "avtomatizaciji"
+      dat: "avtomatizaciji"
+      ins: "avtomatizacijejų"
+      voc: "avtomatizacijo"

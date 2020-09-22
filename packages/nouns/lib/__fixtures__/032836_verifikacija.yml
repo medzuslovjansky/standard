@@ -1,0 +1,22 @@
+---
+  id: "32836"
+  word: "verifikacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "verifikacija"
+      acc: "verifikacijų"
+      gen: "verifikacije"
+      loc: "verifikaciji"
+      dat: "verifikaciji"
+      ins: "verifikacijejų"
+      voc: "verifikacijo"
+    plural: 
+      nom: "verifikacije"
+      acc: "verifikacije"
+      gen: "verifikacij"
+      loc: "verifikacijah"
+      dat: "verifikacijam"
+      ins: "verifikacijami"
+      voc: "verifikacije"

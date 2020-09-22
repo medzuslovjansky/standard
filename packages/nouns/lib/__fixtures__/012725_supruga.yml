@@ -1,0 +1,22 @@
+---
+  id: "12725"
+  word: "sųprųga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sųprųga"
+      acc: "sųprųgų"
+      gen: "sųprųgy"
+      loc: "sųprųgě"
+      dat: "sųprųgě"
+      ins: "sųprųgojų"
+      voc: "sųprųgo"
+    plural: 
+      nom: "sųprųgy"
+      acc: "sųprųgy"
+      gen: "sųprųg"
+      loc: "sųprųgah"
+      dat: "sųprųgam"
+      ins: "sųprųgami"
+      voc: "sųprųgy"

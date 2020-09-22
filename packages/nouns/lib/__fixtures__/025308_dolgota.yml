@@ -1,0 +1,22 @@
+---
+  id: "25308"
+  word: "dȯlgota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dȯlgota"
+      acc: "dȯlgotų"
+      gen: "dȯlgoty"
+      loc: "dȯlgotě"
+      dat: "dȯlgotě"
+      ins: "dȯlgotojų"
+      voc: "dȯlgoto"
+    plural: 
+      nom: "dȯlgoty"
+      acc: "dȯlgoty"
+      gen: "dȯlgot"
+      loc: "dȯlgotah"
+      dat: "dȯlgotam"
+      ins: "dȯlgotami"
+      voc: "dȯlgoty"

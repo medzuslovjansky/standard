@@ -1,0 +1,22 @@
+---
+  id: "727"
+  word: "gnida"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "gnida"
+      acc: "gnidų"
+      gen: "gnidy"
+      loc: "gnidě"
+      dat: "gnidě"
+      ins: "gnidojų"
+      voc: "gnido"
+    plural: 
+      nom: "gnidy"
+      acc: "gnidy"
+      gen: "gnid"
+      loc: "gnidah"
+      dat: "gnidam"
+      ins: "gnidami"
+      voc: "gnidy"

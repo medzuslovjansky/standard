@@ -1,0 +1,22 @@
+---
+  id: "36062"
+  word: "drobjenec"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "drobjenec"
+      acc: "drobjenec"
+      gen: "drobjenca"
+      loc: "drobjencu"
+      dat: "drobjencu"
+      ins: "drobjencem"
+      voc: "drobjenče"
+    plural: 
+      nom: "drobjence"
+      acc: "drobjence"
+      gen: "drobjencev"
+      loc: "drobjencah"
+      dat: "drobjencam"
+      ins: "drobjencami"
+      voc: "drobjence"

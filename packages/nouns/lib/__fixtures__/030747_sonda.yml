@@ -1,0 +1,22 @@
+---
+  id: "30747"
+  word: "sonda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sonda"
+      acc: "sondų"
+      gen: "sondy"
+      loc: "sondě"
+      dat: "sondě"
+      ins: "sondojų"
+      voc: "sondo"
+    plural: 
+      nom: "sondy"
+      acc: "sondy"
+      gen: "sond"
+      loc: "sondah"
+      dat: "sondam"
+      ins: "sondami"
+      voc: "sondy"

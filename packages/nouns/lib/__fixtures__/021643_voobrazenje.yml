@@ -1,0 +1,22 @@
+---
+  id: "21643"
+  word: "vȯobražeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "vȯobražeńje"
+      acc: "vȯobražeńje"
+      gen: "vȯobražeńja"
+      loc: "vȯobražeńju"
+      dat: "vȯobražeńju"
+      ins: "vȯobražeńjem"
+      voc: "vȯobražeńje"
+    plural: 
+      nom: "vȯobražeńja"
+      acc: "vȯobražeńja"
+      gen: "vȯobraženij"
+      loc: "vȯobražeńjah"
+      dat: "vȯobražeńjam"
+      ins: "vȯobražeńjami"
+      voc: "vȯobražeńja"

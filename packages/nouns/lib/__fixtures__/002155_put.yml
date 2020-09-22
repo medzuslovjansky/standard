@@ -1,0 +1,45 @@
+---
+  - 
+    id: "2155"
+    word: "pųť"
+    meta: 
+      gender: "masculine"
+    declensions: 
+      singular: 
+        nom: "pųť"
+        acc: "pųť"
+        gen: "pųťa"
+        loc: "pųťu"
+        dat: "pųťu"
+        ins: "pųťem"
+        voc: "pųťu"
+      plural: 
+        nom: "pųťe"
+        acc: "pųťe"
+        gen: "pųťev"
+        loc: "pųťah"
+        dat: "pųťam"
+        ins: "pųťami"
+        voc: "pųťe"
+  - 
+    id: "2155"
+    word: "pųť"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "pųť"
+        acc: "pųť"
+        gen: "pųti"
+        loc: "pųti"
+        dat: "pųti"
+        ins: "pųťjų"
+        voc: "pųti"
+      plural: 
+        nom: "pųti"
+        acc: "pųti"
+        gen: "pųtij"
+        loc: "pųťah"
+        dat: "pųťam"
+        ins: "pųťami"
+        voc: "pųti"

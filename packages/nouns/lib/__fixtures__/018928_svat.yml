@@ -1,0 +1,23 @@
+---
+  id: "18928"
+  word: "svat"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "svat"
+      acc: "svata"
+      gen: "svata"
+      loc: "svatu"
+      dat: "svatu"
+      ins: "svatom"
+      voc: "svate"
+    plural: 
+      nom: "svati"
+      acc: "svatov"
+      gen: "svatov"
+      loc: "svatah"
+      dat: "svatam"
+      ins: "svatami"
+      voc: "svati"

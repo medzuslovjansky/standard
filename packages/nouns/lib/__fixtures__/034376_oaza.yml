@@ -1,0 +1,22 @@
+---
+  id: "34376"
+  word: "oaza"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oaza"
+      acc: "oazų"
+      gen: "oazy"
+      loc: "oazě"
+      dat: "oazě"
+      ins: "oazojų"
+      voc: "oazo"
+    plural: 
+      nom: "oazy"
+      acc: "oazy"
+      gen: "oaz"
+      loc: "oazah"
+      dat: "oazam"
+      ins: "oazami"
+      voc: "oazy"

@@ -1,0 +1,23 @@
+---
+  id: "26340"
+  word: "jedak"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "jedak"
+      acc: "jedaka"
+      gen: "jedaka"
+      loc: "jedaku"
+      dat: "jedaku"
+      ins: "jedakom"
+      voc: "jedače"
+    plural: 
+      nom: "jedaki"
+      acc: "jedakov"
+      gen: "jedakov"
+      loc: "jedakah"
+      dat: "jedakam"
+      ins: "jedakami"
+      voc: "jedaki"

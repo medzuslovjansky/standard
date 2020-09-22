@@ -1,0 +1,22 @@
+---
+  id: "24029"
+  word: "ablativ"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "ablativ"
+      acc: "ablativ"
+      gen: "ablativa"
+      loc: "ablativu"
+      dat: "ablativu"
+      ins: "ablativom"
+      voc: "ablative"
+    plural: 
+      nom: "ablativy"
+      acc: "ablativy"
+      gen: "ablativov"
+      loc: "ablativah"
+      dat: "ablativam"
+      ins: "ablativami"
+      voc: "ablativy"

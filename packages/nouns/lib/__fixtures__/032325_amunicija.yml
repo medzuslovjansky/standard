@@ -1,0 +1,15 @@
+---
+  id: "32325"
+  word: "amunicija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "amunicija"
+      acc: "amunicijų"
+      gen: "amunicije"
+      loc: "amuniciji"
+      dat: "amuniciji"
+      ins: "amunicijejų"
+      voc: "amunicijo"

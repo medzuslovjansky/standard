@@ -1,0 +1,23 @@
+---
+  id: "5959"
+  word: "děvėc"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "děvėc"
+      acc: "děvca"
+      gen: "děvca"
+      loc: "děvcu"
+      dat: "děvcu"
+      ins: "děvcem"
+      voc: "děvcu"
+    plural: 
+      nom: "děvci"
+      acc: "děvcev"
+      gen: "děvcev"
+      loc: "děvcah"
+      dat: "děvcam"
+      ins: "děvcami"
+      voc: "děvci"

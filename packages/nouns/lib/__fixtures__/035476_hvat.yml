@@ -1,0 +1,22 @@
+---
+  id: "35476"
+  word: "hvat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hvat"
+      acc: "hvat"
+      gen: "hvata"
+      loc: "hvatu"
+      dat: "hvatu"
+      ins: "hvatom"
+      voc: "hvate"
+    plural: 
+      nom: "hvaty"
+      acc: "hvaty"
+      gen: "hvatov"
+      loc: "hvatah"
+      dat: "hvatam"
+      ins: "hvatami"
+      voc: "hvaty"

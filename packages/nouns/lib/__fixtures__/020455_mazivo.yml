@@ -1,0 +1,22 @@
+---
+  id: "20455"
+  word: "mazivo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "mazivo"
+      acc: "mazivo"
+      gen: "maziva"
+      loc: "mazivu"
+      dat: "mazivu"
+      ins: "mazivom"
+      voc: "mazivo"
+    plural: 
+      nom: "maziva"
+      acc: "maziva"
+      gen: "maziv"
+      loc: "mazivah"
+      dat: "mazivam"
+      ins: "mazivami"
+      voc: "maziva"

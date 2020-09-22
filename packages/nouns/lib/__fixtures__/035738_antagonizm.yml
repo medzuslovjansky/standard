@@ -1,0 +1,22 @@
+---
+  id: "35738"
+  word: "antagonizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "antagonizm"
+      acc: "antagonizm"
+      gen: "antagonizma"
+      loc: "antagonizmu"
+      dat: "antagonizmu"
+      ins: "antagonizmom"
+      voc: "antagonizme"
+    plural: 
+      nom: "antagonizmy"
+      acc: "antagonizmy"
+      gen: "antagonizmov"
+      loc: "antagonizmah"
+      dat: "antagonizmam"
+      ins: "antagonizmami"
+      voc: "antagonizmy"

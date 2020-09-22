@@ -1,0 +1,23 @@
+---
+  id: "31853"
+  word: "valet"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "valet"
+      acc: "valeta"
+      gen: "valeta"
+      loc: "valetu"
+      dat: "valetu"
+      ins: "valetom"
+      voc: "valete"
+    plural: 
+      nom: "valeti"
+      acc: "valetov"
+      gen: "valetov"
+      loc: "valetah"
+      dat: "valetam"
+      ins: "valetami"
+      voc: "valeti"

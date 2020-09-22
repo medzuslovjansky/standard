@@ -1,0 +1,22 @@
+---
+  id: "30916"
+  word: "tulov"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tulov"
+      acc: "tulov"
+      gen: "tulova"
+      loc: "tulovu"
+      dat: "tulovu"
+      ins: "tulovom"
+      voc: "tulove"
+    plural: 
+      nom: "tulovy"
+      acc: "tulovy"
+      gen: "tulovov"
+      loc: "tulovah"
+      dat: "tulovam"
+      ins: "tulovami"
+      voc: "tulovy"

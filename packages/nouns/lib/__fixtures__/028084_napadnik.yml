@@ -1,0 +1,23 @@
+---
+  id: "28084"
+  word: "napadnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "napadnik"
+      acc: "napadnika"
+      gen: "napadnika"
+      loc: "napadniku"
+      dat: "napadniku"
+      ins: "napadnikom"
+      voc: "napadniče"
+    plural: 
+      nom: "napadniki"
+      acc: "napadnikov"
+      gen: "napadnikov"
+      loc: "napadnikah"
+      dat: "napadnikam"
+      ins: "napadnikami"
+      voc: "napadniki"

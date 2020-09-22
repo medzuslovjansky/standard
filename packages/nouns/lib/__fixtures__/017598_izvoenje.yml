@@ -1,0 +1,22 @@
+---
+  id: "17598"
+  word: "izvođeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izvođeńje"
+      acc: "izvođeńje"
+      gen: "izvođeńja"
+      loc: "izvođeńju"
+      dat: "izvođeńju"
+      ins: "izvođeńjem"
+      voc: "izvođeńje"
+    plural: 
+      nom: "izvođeńja"
+      acc: "izvođeńja"
+      gen: "izvođenij"
+      loc: "izvođeńjah"
+      dat: "izvođeńjam"
+      ins: "izvođeńjami"
+      voc: "izvođeńja"

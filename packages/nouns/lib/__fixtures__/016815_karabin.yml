@@ -1,0 +1,22 @@
+---
+  id: "16815"
+  word: "karabin"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "karabin"
+      acc: "karabin"
+      gen: "karabina"
+      loc: "karabinu"
+      dat: "karabinu"
+      ins: "karabinom"
+      voc: "karabine"
+    plural: 
+      nom: "karabiny"
+      acc: "karabiny"
+      gen: "karabinov"
+      loc: "karabinah"
+      dat: "karabinam"
+      ins: "karabinami"
+      voc: "karabiny"

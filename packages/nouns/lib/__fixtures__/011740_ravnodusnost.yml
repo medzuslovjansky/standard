@@ -1,0 +1,22 @@
+---
+  id: "11740"
+  word: "råvnodušnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råvnodušnosť"
+      acc: "råvnodušnosť"
+      gen: "råvnodušnosti"
+      loc: "råvnodušnosti"
+      dat: "råvnodušnosti"
+      ins: "råvnodušnosťjų"
+      voc: "råvnodušnosti"
+    plural: 
+      nom: "råvnodušnosti"
+      acc: "råvnodušnosti"
+      gen: "råvnodušnostij"
+      loc: "råvnodušnosťah"
+      dat: "råvnodušnosťam"
+      ins: "råvnodušnosťami"
+      voc: "råvnodušnosti"

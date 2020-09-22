@@ -1,0 +1,22 @@
+---
+  id: "33887"
+  word: "råzkaz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzkaz"
+      acc: "råzkaz"
+      gen: "råzkaza"
+      loc: "råzkazu"
+      dat: "råzkazu"
+      ins: "råzkazom"
+      voc: "råzkaze"
+    plural: 
+      nom: "råzkazy"
+      acc: "råzkazy"
+      gen: "råzkazov"
+      loc: "råzkazah"
+      dat: "råzkazam"
+      ins: "råzkazami"
+      voc: "råzkazy"

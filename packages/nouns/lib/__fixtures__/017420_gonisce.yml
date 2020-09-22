@@ -1,0 +1,22 @@
+---
+  id: "17420"
+  word: "gonišče"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "gonišče"
+      acc: "gonišče"
+      gen: "gonišča"
+      loc: "gonišču"
+      dat: "gonišču"
+      ins: "goniščem"
+      voc: "gonišče"
+    plural: 
+      nom: "gonišča"
+      acc: "gonišča"
+      gen: "gonišč"
+      loc: "goniščah"
+      dat: "goniščam"
+      ins: "goniščami"
+      voc: "gonišča"

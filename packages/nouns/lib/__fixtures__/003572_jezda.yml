@@ -1,0 +1,22 @@
+---
+  id: "3572"
+  word: "jezda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "jezda"
+      acc: "jezdų"
+      gen: "jezdy"
+      loc: "jezdě"
+      dat: "jezdě"
+      ins: "jezdojų"
+      voc: "jezdo"
+    plural: 
+      nom: "jezdy"
+      acc: "jezdy"
+      gen: "jezd"
+      loc: "jezdah"
+      dat: "jezdam"
+      ins: "jezdami"
+      voc: "jezdy"

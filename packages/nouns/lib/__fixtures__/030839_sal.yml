@@ -1,0 +1,22 @@
+---
+  id: "30839"
+  word: "šal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "šal"
+      acc: "šal"
+      gen: "šala"
+      loc: "šalu"
+      dat: "šalu"
+      ins: "šalom"
+      voc: "šale"
+    plural: 
+      nom: "šaly"
+      acc: "šaly"
+      gen: "šalov"
+      loc: "šalah"
+      dat: "šalam"
+      ins: "šalami"
+      voc: "šaly"

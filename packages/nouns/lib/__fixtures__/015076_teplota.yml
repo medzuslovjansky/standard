@@ -1,0 +1,22 @@
+---
+  id: "15076"
+  word: "teplota"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "teplota"
+      acc: "teplotų"
+      gen: "teploty"
+      loc: "teplotě"
+      dat: "teplotě"
+      ins: "teplotojų"
+      voc: "teploto"
+    plural: 
+      nom: "teploty"
+      acc: "teploty"
+      gen: "teplot"
+      loc: "teplotah"
+      dat: "teplotam"
+      ins: "teplotami"
+      voc: "teploty"

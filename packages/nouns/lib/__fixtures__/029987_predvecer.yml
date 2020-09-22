@@ -1,0 +1,22 @@
+---
+  id: "29987"
+  word: "prědvečer"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prědvečer"
+      acc: "prědvečer"
+      gen: "prědvečera"
+      loc: "prědvečeru"
+      dat: "prědvečeru"
+      ins: "prědvečerom"
+      voc: "prědvečere"
+    plural: 
+      nom: "prědvečery"
+      acc: "prědvečery"
+      gen: "prědvečerov"
+      loc: "prědvečerah"
+      dat: "prědvečeram"
+      ins: "prědvečerami"
+      voc: "prědvečery"

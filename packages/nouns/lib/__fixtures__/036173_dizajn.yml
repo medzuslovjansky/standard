@@ -1,0 +1,22 @@
+---
+  id: "36173"
+  word: "dizajn"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dizajn"
+      acc: "dizajn"
+      gen: "dizajna"
+      loc: "dizajnu"
+      dat: "dizajnu"
+      ins: "dizajnom"
+      voc: "dizajne"
+    plural: 
+      nom: "dizajny"
+      acc: "dizajny"
+      gen: "dizajnov"
+      loc: "dizajnah"
+      dat: "dizajnam"
+      ins: "dizajnami"
+      voc: "dizajny"

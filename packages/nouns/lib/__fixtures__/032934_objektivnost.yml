@@ -1,0 +1,22 @@
+---
+  id: "32934"
+  word: "objektivnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "objektivnosť"
+      acc: "objektivnosť"
+      gen: "objektivnosti"
+      loc: "objektivnosti"
+      dat: "objektivnosti"
+      ins: "objektivnosťjų"
+      voc: "objektivnosti"
+    plural: 
+      nom: "objektivnosti"
+      acc: "objektivnosti"
+      gen: "objektivnostij"
+      loc: "objektivnosťah"
+      dat: "objektivnosťam"
+      ins: "objektivnosťami"
+      voc: "objektivnosti"

@@ -1,0 +1,23 @@
+---
+  id: "34948"
+  word: "terorist"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "terorist"
+      acc: "terorista"
+      gen: "terorista"
+      loc: "teroristu"
+      dat: "teroristu"
+      ins: "teroristom"
+      voc: "teroriste"
+    plural: 
+      nom: "teroristi"
+      acc: "teroristov"
+      gen: "teroristov"
+      loc: "teroristah"
+      dat: "teroristam"
+      ins: "teroristami"
+      voc: "teroristi"

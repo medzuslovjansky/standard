@@ -1,0 +1,22 @@
+---
+  id: "4501"
+  word: "pancyrovoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pancirovoz"
+      acc: "pancirovoz"
+      gen: "pancirovoza"
+      loc: "pancirovozu"
+      dat: "pancirovozu"
+      ins: "pancirovozom"
+      voc: "pancirovoze"
+    plural: 
+      nom: "pancirovozy"
+      acc: "pancirovozy"
+      gen: "pancirovozov"
+      loc: "pancirovozah"
+      dat: "pancirovozam"
+      ins: "pancirovozami"
+      voc: "pancirovozy"

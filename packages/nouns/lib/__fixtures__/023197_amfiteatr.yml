@@ -1,0 +1,22 @@
+---
+  id: "23197"
+  word: "amfiteatr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "amfiteatr"
+      acc: "amfiteatr"
+      gen: "amfiteatra"
+      loc: "amfiteatru"
+      dat: "amfiteatru"
+      ins: "amfiteatrom"
+      voc: "amfiteatre"
+    plural: 
+      nom: "amfiteatry"
+      acc: "amfiteatry"
+      gen: "amfiteatrov"
+      loc: "amfiteatrah"
+      dat: "amfiteatram"
+      ins: "amfiteatrami"
+      voc: "amfiteatry"

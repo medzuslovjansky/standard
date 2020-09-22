@@ -1,0 +1,22 @@
+---
+  id: "20914"
+  word: "narodopis"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "narodopis"
+      acc: "narodopis"
+      gen: "narodopisa"
+      loc: "narodopisu"
+      dat: "narodopisu"
+      ins: "narodopisom"
+      voc: "narodopise"
+    plural: 
+      nom: "narodopisy"
+      acc: "narodopisy"
+      gen: "narodopisov"
+      loc: "narodopisah"
+      dat: "narodopisam"
+      ins: "narodopisami"
+      voc: "narodopisy"

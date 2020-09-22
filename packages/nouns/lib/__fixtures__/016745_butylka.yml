@@ -1,0 +1,22 @@
+---
+  id: "16745"
+  word: "butylka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "butylka"
+      acc: "butylkų"
+      gen: "butylky"
+      loc: "butylkě"
+      dat: "butylkě"
+      ins: "butylkojų"
+      voc: "butylko"
+    plural: 
+      nom: "butylky"
+      acc: "butylky"
+      gen: "butylȯk"
+      loc: "butylkah"
+      dat: "butylkam"
+      ins: "butylkami"
+      voc: "butylky"

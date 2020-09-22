@@ -1,0 +1,22 @@
+---
+  id: "35067"
+  word: "netolerantnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "netolerantnosť"
+      acc: "netolerantnosť"
+      gen: "netolerantnosti"
+      loc: "netolerantnosti"
+      dat: "netolerantnosti"
+      ins: "netolerantnosťjų"
+      voc: "netolerantnosti"
+    plural: 
+      nom: "netolerantnosti"
+      acc: "netolerantnosti"
+      gen: "netolerantnostij"
+      loc: "netolerantnosťah"
+      dat: "netolerantnosťam"
+      ins: "netolerantnosťami"
+      voc: "netolerantnosti"

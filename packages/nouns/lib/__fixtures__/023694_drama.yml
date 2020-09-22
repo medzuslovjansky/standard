@@ -1,0 +1,22 @@
+---
+  id: "23694"
+  word: "drama"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "drama"
+      acc: "dramų"
+      gen: "dramy"
+      loc: "dramě"
+      dat: "dramě"
+      ins: "dramojų"
+      voc: "dramo"
+    plural: 
+      nom: "dramy"
+      acc: "dramy"
+      gen: "dram"
+      loc: "dramah"
+      dat: "dramam"
+      ins: "dramami"
+      voc: "dramy"

@@ -1,0 +1,23 @@
+---
+  id: "26599"
+  word: "kȯl"
+  meta: 
+    irregularity: "(kla)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "k(ȯ)l"
+      acc: "k(ȯ)l"
+      gen: "k(ȯ)la"
+      loc: "k(ȯ)lu"
+      dat: "k(ȯ)lu"
+      ins: "k(ȯ)lom"
+      voc: "k(ȯ)le"
+    plural: 
+      nom: "k(ȯ)ly"
+      acc: "k(ȯ)ly"
+      gen: "k(ȯ)lov"
+      loc: "k(ȯ)lah"
+      dat: "k(ȯ)lam"
+      ins: "k(ȯ)lami"
+      voc: "k(ȯ)ly"

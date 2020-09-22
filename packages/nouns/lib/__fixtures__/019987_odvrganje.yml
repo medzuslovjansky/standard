@@ -1,0 +1,22 @@
+---
+  id: "19987"
+  word: "odvŕgańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "odvŕgańje"
+      acc: "odvŕgańje"
+      gen: "odvŕgańja"
+      loc: "odvŕgańju"
+      dat: "odvŕgańju"
+      ins: "odvŕgańjem"
+      voc: "odvŕgańje"
+    plural: 
+      nom: "odvŕgańja"
+      acc: "odvŕgańja"
+      gen: "odvŕganij"
+      loc: "odvŕgańjah"
+      dat: "odvŕgańjam"
+      ins: "odvŕgańjami"
+      voc: "odvŕgańja"

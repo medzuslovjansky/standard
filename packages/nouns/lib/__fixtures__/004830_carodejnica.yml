@@ -1,0 +1,22 @@
+---
+  id: "4830"
+  word: "čarodějnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "čarodějnica"
+      acc: "čarodějnicų"
+      gen: "čarodějnice"
+      loc: "čarodějnici"
+      dat: "čarodějnici"
+      ins: "čarodějnicejų"
+      voc: "čarodějnico"
+    plural: 
+      nom: "čarodějnice"
+      acc: "čarodějnice"
+      gen: "čarodějnic"
+      loc: "čarodějnicah"
+      dat: "čarodějnicam"
+      ins: "čarodějnicami"
+      voc: "čarodějnice"

@@ -1,0 +1,22 @@
+---
+  id: "36040"
+  word: "prěsměrjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěsměrjeńje"
+      acc: "prěsměrjeńje"
+      gen: "prěsměrjeńja"
+      loc: "prěsměrjeńju"
+      dat: "prěsměrjeńju"
+      ins: "prěsměrjeńjem"
+      voc: "prěsměrjeńje"
+    plural: 
+      nom: "prěsměrjeńja"
+      acc: "prěsměrjeńja"
+      gen: "prěsměrjenij"
+      loc: "prěsměrjeńjah"
+      dat: "prěsměrjeńjam"
+      ins: "prěsměrjeńjami"
+      voc: "prěsměrjeńja"

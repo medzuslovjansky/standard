@@ -1,0 +1,22 @@
+---
+  id: "9663"
+  word: "neumorjenosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "neumorjenosť"
+      acc: "neumorjenosť"
+      gen: "neumorjenosti"
+      loc: "neumorjenosti"
+      dat: "neumorjenosti"
+      ins: "neumorjenosťjų"
+      voc: "neumorjenosti"
+    plural: 
+      nom: "neumorjenosti"
+      acc: "neumorjenosti"
+      gen: "neumorjenostij"
+      loc: "neumorjenosťah"
+      dat: "neumorjenosťam"
+      ins: "neumorjenosťami"
+      voc: "neumorjenosti"

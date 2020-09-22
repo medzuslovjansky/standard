@@ -1,0 +1,22 @@
+---
+  id: "33720"
+  word: "tort"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tort"
+      acc: "tort"
+      gen: "torta"
+      loc: "tortu"
+      dat: "tortu"
+      ins: "tortom"
+      voc: "torte"
+    plural: 
+      nom: "torty"
+      acc: "torty"
+      gen: "tortov"
+      loc: "tortah"
+      dat: "tortam"
+      ins: "tortami"
+      voc: "torty"

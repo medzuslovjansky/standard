@@ -1,0 +1,22 @@
+---
+  id: "2762"
+  word: "naftoprovod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "naftoprovod"
+      acc: "naftoprovod"
+      gen: "naftoprovoda"
+      loc: "naftoprovodu"
+      dat: "naftoprovodu"
+      ins: "naftoprovodom"
+      voc: "naftoprovode"
+    plural: 
+      nom: "naftoprovody"
+      acc: "naftoprovody"
+      gen: "naftoprovodov"
+      loc: "naftoprovodah"
+      dat: "naftoprovodam"
+      ins: "naftoprovodami"
+      voc: "naftoprovody"

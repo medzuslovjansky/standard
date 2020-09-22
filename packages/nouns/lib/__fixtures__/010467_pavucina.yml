@@ -1,0 +1,22 @@
+---
+  id: "10467"
+  word: "pavųčina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pavųčina"
+      acc: "pavųčinų"
+      gen: "pavųčiny"
+      loc: "pavųčině"
+      dat: "pavųčině"
+      ins: "pavųčinojų"
+      voc: "pavųčino"
+    plural: 
+      nom: "pavųčiny"
+      acc: "pavųčiny"
+      gen: "pavųčin"
+      loc: "pavųčinah"
+      dat: "pavųčinam"
+      ins: "pavųčinami"
+      voc: "pavųčiny"

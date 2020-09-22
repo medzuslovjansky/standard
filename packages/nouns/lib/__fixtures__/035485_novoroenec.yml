@@ -1,0 +1,23 @@
+---
+  id: "35485"
+  word: "novorođenec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "novorođenec"
+      acc: "novorođenca"
+      gen: "novorođenca"
+      loc: "novorođencu"
+      dat: "novorođencu"
+      ins: "novorođencem"
+      voc: "novorođenče"
+    plural: 
+      nom: "novorođenci"
+      acc: "novorođencev"
+      gen: "novorođencev"
+      loc: "novorođencah"
+      dat: "novorođencam"
+      ins: "novorođencami"
+      voc: "novorođenci"

@@ -1,0 +1,22 @@
+---
+  id: "31881"
+  word: "zatišje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "zatišje"
+      acc: "zatišje"
+      gen: "zatišja"
+      loc: "zatišju"
+      dat: "zatišju"
+      ins: "zatišjem"
+      voc: "zatišje"
+    plural: 
+      nom: "zatišja"
+      acc: "zatišja"
+      gen: "zatišij"
+      loc: "zatišjah"
+      dat: "zatišjam"
+      ins: "zatišjami"
+      voc: "zatišja"

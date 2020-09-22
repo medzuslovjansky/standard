@@ -1,0 +1,23 @@
+---
+  id: "5335"
+  word: "sųråbotnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "sųråbotnik"
+      acc: "sųråbotnika"
+      gen: "sųråbotnika"
+      loc: "sųråbotniku"
+      dat: "sųråbotniku"
+      ins: "sųråbotnikom"
+      voc: "sųråbotniče"
+    plural: 
+      nom: "sųråbotniki"
+      acc: "sųråbotnikov"
+      gen: "sųråbotnikov"
+      loc: "sųråbotnikah"
+      dat: "sųråbotnikam"
+      ins: "sųråbotnikami"
+      voc: "sųråbotniki"

@@ -1,0 +1,23 @@
+---
+  id: "25078"
+  word: "čudotvorec"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "čudotvorec"
+      acc: "čudotvorca"
+      gen: "čudotvorca"
+      loc: "čudotvorcu"
+      dat: "čudotvorcu"
+      ins: "čudotvorcem"
+      voc: "čudotvorče"
+    plural: 
+      nom: "čudotvorci"
+      acc: "čudotvorcev"
+      gen: "čudotvorcev"
+      loc: "čudotvorcah"
+      dat: "čudotvorcam"
+      ins: "čudotvorcami"
+      voc: "čudotvorci"

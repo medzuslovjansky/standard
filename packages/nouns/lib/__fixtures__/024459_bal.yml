@@ -1,0 +1,22 @@
+---
+  id: "24459"
+  word: "bal"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bal"
+      acc: "bal"
+      gen: "bala"
+      loc: "balu"
+      dat: "balu"
+      ins: "balom"
+      voc: "bale"
+    plural: 
+      nom: "baly"
+      acc: "baly"
+      gen: "balov"
+      loc: "balah"
+      dat: "balam"
+      ins: "balami"
+      voc: "baly"

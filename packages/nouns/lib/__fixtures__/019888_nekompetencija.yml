@@ -1,0 +1,22 @@
+---
+  id: "19888"
+  word: "nekompetencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nekompetencija"
+      acc: "nekompetencijų"
+      gen: "nekompetencije"
+      loc: "nekompetenciji"
+      dat: "nekompetenciji"
+      ins: "nekompetencijejų"
+      voc: "nekompetencijo"
+    plural: 
+      nom: "nekompetencije"
+      acc: "nekompetencije"
+      gen: "nekompetencij"
+      loc: "nekompetencijah"
+      dat: "nekompetencijam"
+      ins: "nekompetencijami"
+      voc: "nekompetencije"

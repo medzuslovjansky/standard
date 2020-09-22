@@ -1,0 +1,15 @@
+---
+  id: "24542"
+  word: "baryj"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "baryj"
+      acc: "baryj"
+      gen: "baryja"
+      loc: "baryju"
+      dat: "baryju"
+      ins: "baryjem"
+      voc: "baryju"

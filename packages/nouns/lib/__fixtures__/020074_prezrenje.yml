@@ -1,0 +1,22 @@
+---
+  id: "20074"
+  word: "prězrěńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prězrěńje"
+      acc: "prězrěńje"
+      gen: "prězrěńja"
+      loc: "prězrěńju"
+      dat: "prězrěńju"
+      ins: "prězrěńjem"
+      voc: "prězrěńje"
+    plural: 
+      nom: "prězrěńja"
+      acc: "prězrěńja"
+      gen: "prězrěnij"
+      loc: "prězrěńjah"
+      dat: "prězrěńjam"
+      ins: "prězrěńjami"
+      voc: "prězrěńja"

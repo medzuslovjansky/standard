@@ -1,0 +1,23 @@
+---
+  id: "27525"
+  word: "menj"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "menj"
+      acc: "menja"
+      gen: "menja"
+      loc: "menju"
+      dat: "menju"
+      ins: "menjem"
+      voc: "menju"
+    plural: 
+      nom: "menji"
+      acc: "menjev"
+      gen: "menjev"
+      loc: "menjah"
+      dat: "menjam"
+      ins: "menjami"
+      voc: "menji"

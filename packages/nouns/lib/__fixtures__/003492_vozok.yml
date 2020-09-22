@@ -1,0 +1,22 @@
+---
+  id: "3492"
+  word: "vozȯk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vozȯk"
+      acc: "vozȯk"
+      gen: "vozka"
+      loc: "vozku"
+      dat: "vozku"
+      ins: "vozkom"
+      voc: "vozče"
+    plural: 
+      nom: "vozky"
+      acc: "vozky"
+      gen: "vozkov"
+      loc: "vozkah"
+      dat: "vozkam"
+      ins: "vozkami"
+      voc: "vozky"

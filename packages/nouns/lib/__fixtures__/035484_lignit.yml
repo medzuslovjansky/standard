@@ -1,0 +1,15 @@
+---
+  id: "35484"
+  word: "lignit"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "lignit"
+      acc: "lignit"
+      gen: "lignita"
+      loc: "lignitu"
+      dat: "lignitu"
+      ins: "lignitom"
+      voc: "lignite"

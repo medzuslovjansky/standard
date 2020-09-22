@@ -1,0 +1,23 @@
+---
+  id: "1830"
+  word: "kašelj"
+  meta: 
+    irregularity: "(kašlja)"
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "kašėlj"
+      acc: "kašėlj"
+      gen: "kašlja"
+      loc: "kašlju"
+      dat: "kašlju"
+      ins: "kašljem"
+      voc: "kašlju"
+    plural: 
+      nom: "kašlje"
+      acc: "kašlje"
+      gen: "kašljev"
+      loc: "kašljah"
+      dat: "kašljam"
+      ins: "kašljami"
+      voc: "kašlje"

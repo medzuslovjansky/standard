@@ -1,0 +1,22 @@
+---
+  id: "15713"
+  word: "senzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "senzor"
+      acc: "senzor"
+      gen: "senzora"
+      loc: "senzoru"
+      dat: "senzoru"
+      ins: "senzorom"
+      voc: "senzore"
+    plural: 
+      nom: "senzory"
+      acc: "senzory"
+      gen: "senzorov"
+      loc: "senzorah"
+      dat: "senzoram"
+      ins: "senzorami"
+      voc: "senzory"

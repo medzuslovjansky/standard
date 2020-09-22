@@ -1,0 +1,22 @@
+---
+  id: "5883"
+  word: "ekipa"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "ekipa"
+      acc: "ekipų"
+      gen: "ekipy"
+      loc: "ekipě"
+      dat: "ekipě"
+      ins: "ekipojų"
+      voc: "ekipo"
+    plural: 
+      nom: "ekipy"
+      acc: "ekipy"
+      gen: "ekip"
+      loc: "ekipah"
+      dat: "ekipam"
+      ins: "ekipami"
+      voc: "ekipy"

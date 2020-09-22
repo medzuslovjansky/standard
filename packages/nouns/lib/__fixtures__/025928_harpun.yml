@@ -1,0 +1,22 @@
+---
+  id: "25928"
+  word: "harpun"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "harpun"
+      acc: "harpun"
+      gen: "harpuna"
+      loc: "harpunu"
+      dat: "harpunu"
+      ins: "harpunom"
+      voc: "harpune"
+    plural: 
+      nom: "harpuny"
+      acc: "harpuny"
+      gen: "harpunov"
+      loc: "harpunah"
+      dat: "harpunam"
+      ins: "harpunami"
+      voc: "harpuny"

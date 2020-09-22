@@ -1,0 +1,22 @@
+---
+  id: "31274"
+  word: "vododěl"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vododěl"
+      acc: "vododěl"
+      gen: "vododěla"
+      loc: "vododělu"
+      dat: "vododělu"
+      ins: "vododělom"
+      voc: "vododěle"
+    plural: 
+      nom: "vododěly"
+      acc: "vododěly"
+      gen: "vododělov"
+      loc: "vododělah"
+      dat: "vododělam"
+      ins: "vododělami"
+      voc: "vododěly"

@@ -1,0 +1,22 @@
+---
+  id: "34891"
+  word: "predikat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "predikat"
+      acc: "predikat"
+      gen: "predikata"
+      loc: "predikatu"
+      dat: "predikatu"
+      ins: "predikatom"
+      voc: "predikate"
+    plural: 
+      nom: "predikaty"
+      acc: "predikaty"
+      gen: "predikatov"
+      loc: "predikatah"
+      dat: "predikatam"
+      ins: "predikatami"
+      voc: "predikaty"

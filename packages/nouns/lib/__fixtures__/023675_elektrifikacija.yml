@@ -1,0 +1,15 @@
+---
+  id: "23675"
+  word: "elektrifikacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "elektrifikacija"
+      acc: "elektrifikacijų"
+      gen: "elektrifikacije"
+      loc: "elektrifikaciji"
+      dat: "elektrifikaciji"
+      ins: "elektrifikacijejų"
+      voc: "elektrifikacijo"

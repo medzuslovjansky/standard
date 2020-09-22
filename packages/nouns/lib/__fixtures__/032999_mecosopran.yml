@@ -1,0 +1,22 @@
+---
+  id: "32999"
+  word: "mecosopran"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mecosopran"
+      acc: "mecosopran"
+      gen: "mecosoprana"
+      loc: "mecosopranu"
+      dat: "mecosopranu"
+      ins: "mecosopranom"
+      voc: "mecosoprane"
+    plural: 
+      nom: "mecosoprany"
+      acc: "mecosoprany"
+      gen: "mecosopranov"
+      loc: "mecosopranah"
+      dat: "mecosopranam"
+      ins: "mecosopranami"
+      voc: "mecosoprany"

@@ -1,0 +1,22 @@
+---
+  id: "23040"
+  word: "nakovaljnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "nakovaljnja"
+      acc: "nakovaljnjų"
+      gen: "nakovaljnje"
+      loc: "nakovaljnji"
+      dat: "nakovaljnji"
+      ins: "nakovaljnjejų"
+      voc: "nakovaljnjo"
+    plural: 
+      nom: "nakovaljnje"
+      acc: "nakovaljnje"
+      gen: "nakovaljnej"
+      loc: "nakovaljnjah"
+      dat: "nakovaljnjam"
+      ins: "nakovaljnjami"
+      voc: "nakovaljnje"

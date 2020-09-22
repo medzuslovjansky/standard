@@ -1,0 +1,22 @@
+---
+  id: "4859"
+  word: "redakcija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "redakcija"
+      acc: "redakcijų"
+      gen: "redakcije"
+      loc: "redakciji"
+      dat: "redakciji"
+      ins: "redakcijejų"
+      voc: "redakcijo"
+    plural: 
+      nom: "redakcije"
+      acc: "redakcije"
+      gen: "redakcij"
+      loc: "redakcijah"
+      dat: "redakcijam"
+      ins: "redakcijami"
+      voc: "redakcije"

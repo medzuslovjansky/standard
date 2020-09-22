@@ -1,0 +1,22 @@
+---
+  id: "5127"
+  word: "konsultacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "konsultacija"
+      acc: "konsultacijų"
+      gen: "konsultacije"
+      loc: "konsultaciji"
+      dat: "konsultaciji"
+      ins: "konsultacijejų"
+      voc: "konsultacijo"
+    plural: 
+      nom: "konsultacije"
+      acc: "konsultacije"
+      gen: "konsultacij"
+      loc: "konsultacijah"
+      dat: "konsultacijam"
+      ins: "konsultacijami"
+      voc: "konsultacije"

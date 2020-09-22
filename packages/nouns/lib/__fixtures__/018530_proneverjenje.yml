@@ -1,0 +1,22 @@
+---
+  id: "18530"
+  word: "pronevěrjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "pronevěrjeńje"
+      acc: "pronevěrjeńje"
+      gen: "pronevěrjeńja"
+      loc: "pronevěrjeńju"
+      dat: "pronevěrjeńju"
+      ins: "pronevěrjeńjem"
+      voc: "pronevěrjeńje"
+    plural: 
+      nom: "pronevěrjeńja"
+      acc: "pronevěrjeńja"
+      gen: "pronevěrjenij"
+      loc: "pronevěrjeńjah"
+      dat: "pronevěrjeńjam"
+      ins: "pronevěrjeńjami"
+      voc: "pronevěrjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "34288"
+  word: "stružka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "stružka"
+      acc: "stružkų"
+      gen: "stružky"
+      loc: "stružkě"
+      dat: "stružkě"
+      ins: "stružkojų"
+      voc: "stružko"
+    plural: 
+      nom: "stružky"
+      acc: "stružky"
+      gen: "stružek"
+      loc: "stružkah"
+      dat: "stružkam"
+      ins: "stružkami"
+      voc: "stružky"

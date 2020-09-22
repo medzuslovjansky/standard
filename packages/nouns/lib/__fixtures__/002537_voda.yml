@@ -1,0 +1,22 @@
+---
+  id: "2537"
+  word: "voda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "voda"
+      acc: "vodų"
+      gen: "vody"
+      loc: "vodě"
+      dat: "vodě"
+      ins: "vodojų"
+      voc: "vodo"
+    plural: 
+      nom: "vody"
+      acc: "vody"
+      gen: "vod"
+      loc: "vodah"
+      dat: "vodam"
+      ins: "vodami"
+      voc: "vody"

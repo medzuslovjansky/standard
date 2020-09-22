@@ -1,0 +1,22 @@
+---
+  id: "24325"
+  word: "artikulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "artikulacija"
+      acc: "artikulacijų"
+      gen: "artikulacije"
+      loc: "artikulaciji"
+      dat: "artikulaciji"
+      ins: "artikulacijejų"
+      voc: "artikulacijo"
+    plural: 
+      nom: "artikulacije"
+      acc: "artikulacije"
+      gen: "artikulacij"
+      loc: "artikulacijah"
+      dat: "artikulacijam"
+      ins: "artikulacijami"
+      voc: "artikulacije"

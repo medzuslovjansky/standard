@@ -1,0 +1,22 @@
+---
+  id: "1894"
+  word: "strajk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "strajk"
+      acc: "strajk"
+      gen: "strajka"
+      loc: "strajku"
+      dat: "strajku"
+      ins: "strajkom"
+      voc: "strajče"
+    plural: 
+      nom: "strajky"
+      acc: "strajky"
+      gen: "strajkov"
+      loc: "strajkah"
+      dat: "strajkam"
+      ins: "strajkami"
+      voc: "strajky"

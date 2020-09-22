@@ -1,0 +1,22 @@
+---
+  id: "26929"
+  word: "krušina"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "krušina"
+      acc: "krušinų"
+      gen: "krušiny"
+      loc: "krušině"
+      dat: "krušině"
+      ins: "krušinojų"
+      voc: "krušino"
+    plural: 
+      nom: "krušiny"
+      acc: "krušiny"
+      gen: "krušin"
+      loc: "krušinah"
+      dat: "krušinam"
+      ins: "krušinami"
+      voc: "krušiny"

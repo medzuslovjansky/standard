@@ -1,0 +1,45 @@
+---
+  - 
+    id: "33509"
+    word: "nesȯglåśje"
+    meta: 
+      gender: "neuter"
+    declensions: 
+      singular: 
+        nom: "nesȯglåśje"
+        acc: "nesȯglåśje"
+        gen: "nesȯglåśja"
+        loc: "nesȯglåśju"
+        dat: "nesȯglåśju"
+        ins: "nesȯglåśjem"
+        voc: "nesȯglåśje"
+      plural: 
+        nom: "nesȯglåśja"
+        acc: "nesȯglåśja"
+        gen: "nesȯglåsij"
+        loc: "nesȯglåśjah"
+        dat: "nesȯglåśjam"
+        ins: "nesȯglåśjami"
+        voc: "nesȯglåśja"
+  - 
+    id: "33509"
+    word: "nesųglåśje"
+    meta: 
+      gender: "neuter"
+    declensions: 
+      singular: 
+        nom: "nesųglåśje"
+        acc: "nesųglåśje"
+        gen: "nesųglåśja"
+        loc: "nesųglåśju"
+        dat: "nesųglåśju"
+        ins: "nesųglåśjem"
+        voc: "nesųglåśje"
+      plural: 
+        nom: "nesųglåśja"
+        acc: "nesųglåśja"
+        gen: "nesųglåsij"
+        loc: "nesųglåśjah"
+        dat: "nesųglåśjam"
+        ins: "nesųglåśjami"
+        voc: "nesųglåśja"

@@ -1,0 +1,22 @@
+---
+  id: "14727"
+  word: "načęťje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "načęťje"
+      acc: "načęťje"
+      gen: "načęťja"
+      loc: "načęťju"
+      dat: "načęťju"
+      ins: "načęťjem"
+      voc: "načęťje"
+    plural: 
+      nom: "načęťja"
+      acc: "načęťja"
+      gen: "načętij"
+      loc: "načęťjah"
+      dat: "načęťjam"
+      ins: "načęťjami"
+      voc: "načęťja"

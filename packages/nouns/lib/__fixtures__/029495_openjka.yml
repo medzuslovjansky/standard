@@ -1,0 +1,22 @@
+---
+  id: "29495"
+  word: "openjka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "openjka"
+      acc: "openjkų"
+      gen: "openjky"
+      loc: "openjkě"
+      dat: "openjkě"
+      ins: "openjkojų"
+      voc: "openjko"
+    plural: 
+      nom: "openjky"
+      acc: "openjky"
+      gen: "openjek"
+      loc: "openjkah"
+      dat: "openjkam"
+      ins: "openjkami"
+      voc: "openjky"

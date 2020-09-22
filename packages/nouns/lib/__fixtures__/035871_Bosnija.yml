@@ -1,0 +1,15 @@
+---
+  id: "35871"
+  word: "Bosnija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Bosnija"
+      acc: "Bosnijų"
+      gen: "Bosnije"
+      loc: "Bosniji"
+      dat: "Bosniji"
+      ins: "Bosnijejų"
+      voc: "Bosnijo"

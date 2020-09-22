@@ -1,0 +1,15 @@
+---
+  id: "30974"
+  word: "Vagy"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "Vagy"
+      acc: "Vagy"
+      gen: "Vag"
+      loc: "Vagah"
+      dat: "Vagam"
+      ins: "Vagami"
+      voc: "Vagy"

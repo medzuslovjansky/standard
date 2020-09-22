@@ -1,0 +1,22 @@
+---
+  id: "4169"
+  word: "råzumnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "råzumnosť"
+      acc: "råzumnosť"
+      gen: "råzumnosti"
+      loc: "råzumnosti"
+      dat: "råzumnosti"
+      ins: "råzumnosťjų"
+      voc: "råzumnosti"
+    plural: 
+      nom: "råzumnosti"
+      acc: "råzumnosti"
+      gen: "råzumnostij"
+      loc: "råzumnosťah"
+      dat: "råzumnosťam"
+      ins: "råzumnosťami"
+      voc: "råzumnosti"

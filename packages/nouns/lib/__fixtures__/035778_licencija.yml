@@ -1,0 +1,22 @@
+---
+  id: "35778"
+  word: "licencija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "licencija"
+      acc: "licencijų"
+      gen: "licencije"
+      loc: "licenciji"
+      dat: "licenciji"
+      ins: "licencijejų"
+      voc: "licencijo"
+    plural: 
+      nom: "licencije"
+      acc: "licencije"
+      gen: "licencij"
+      loc: "licencijah"
+      dat: "licencijam"
+      ins: "licencijami"
+      voc: "licencije"

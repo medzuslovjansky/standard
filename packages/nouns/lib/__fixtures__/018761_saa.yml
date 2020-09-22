@@ -1,0 +1,22 @@
+---
+  id: "18761"
+  word: "sađa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "sađa"
+      acc: "sađų"
+      gen: "sađy"
+      loc: "sađě"
+      dat: "sađě"
+      ins: "sađojų"
+      voc: "sađo"
+    plural: 
+      nom: "sađy"
+      acc: "sađy"
+      gen: "sađ"
+      loc: "sađah"
+      dat: "sađam"
+      ins: "sađami"
+      voc: "sađy"

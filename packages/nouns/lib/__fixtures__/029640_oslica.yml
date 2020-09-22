@@ -1,0 +1,22 @@
+---
+  id: "29640"
+  word: "oslica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "oslica"
+      acc: "oslicų"
+      gen: "oslice"
+      loc: "oslici"
+      dat: "oslici"
+      ins: "oslicejų"
+      voc: "oslico"
+    plural: 
+      nom: "oslice"
+      acc: "oslice"
+      gen: "oslic"
+      loc: "oslicah"
+      dat: "oslicam"
+      ins: "oslicami"
+      voc: "oslice"

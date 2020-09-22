@@ -1,0 +1,23 @@
+---
+  id: "28655"
+  word: "nosač"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "nosač"
+      acc: "nosača"
+      gen: "nosača"
+      loc: "nosaču"
+      dat: "nosaču"
+      ins: "nosačem"
+      voc: "nosaču"
+    plural: 
+      nom: "nosači"
+      acc: "nosačev"
+      gen: "nosačev"
+      loc: "nosačah"
+      dat: "nosačam"
+      ins: "nosačami"
+      voc: "nosači"

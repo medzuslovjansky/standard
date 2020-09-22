@@ -1,0 +1,22 @@
+---
+  id: "31999"
+  word: "ostriga"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ostriga"
+      acc: "ostrigų"
+      gen: "ostrigy"
+      loc: "ostrigě"
+      dat: "ostrigě"
+      ins: "ostrigojų"
+      voc: "ostrigo"
+    plural: 
+      nom: "ostrigy"
+      acc: "ostrigy"
+      gen: "ostrig"
+      loc: "ostrigah"
+      dat: "ostrigam"
+      ins: "ostrigami"
+      voc: "ostrigy"

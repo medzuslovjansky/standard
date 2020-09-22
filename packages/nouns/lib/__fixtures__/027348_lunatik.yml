@@ -1,0 +1,23 @@
+---
+  id: "27348"
+  word: "lunatik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "lunatik"
+      acc: "lunatika"
+      gen: "lunatika"
+      loc: "lunatiku"
+      dat: "lunatiku"
+      ins: "lunatikom"
+      voc: "lunatiče"
+    plural: 
+      nom: "lunatiki"
+      acc: "lunatikov"
+      gen: "lunatikov"
+      loc: "lunatikah"
+      dat: "lunatikam"
+      ins: "lunatikami"
+      voc: "lunatiki"

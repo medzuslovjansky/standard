@@ -1,0 +1,22 @@
+---
+  id: "4891"
+  word: "mavzolej"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "mavzolej"
+      acc: "mavzolej"
+      gen: "mavzoleja"
+      loc: "mavzoleju"
+      dat: "mavzoleju"
+      ins: "mavzolejem"
+      voc: "mavzoleju"
+    plural: 
+      nom: "mavzoleje"
+      acc: "mavzoleje"
+      gen: "mavzolejev"
+      loc: "mavzolejah"
+      dat: "mavzolejam"
+      ins: "mavzolejami"
+      voc: "mavzoleje"

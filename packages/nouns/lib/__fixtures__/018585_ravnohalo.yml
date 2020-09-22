@@ -1,0 +1,22 @@
+---
+  id: "18585"
+  word: "råvnohalo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "råvnohalo"
+      acc: "råvnohalo"
+      gen: "råvnohala"
+      loc: "råvnohalu"
+      dat: "råvnohalu"
+      ins: "råvnohalom"
+      voc: "råvnohalo"
+    plural: 
+      nom: "råvnohala"
+      acc: "råvnohala"
+      gen: "råvnohal"
+      loc: "råvnohalah"
+      dat: "råvnohalam"
+      ins: "råvnohalami"
+      voc: "råvnohala"

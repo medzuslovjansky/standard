@@ -1,0 +1,22 @@
+---
+  id: "36079"
+  word: "grozdinka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grozdinka"
+      acc: "grozdinkų"
+      gen: "grozdinky"
+      loc: "grozdinkě"
+      dat: "grozdinkě"
+      ins: "grozdinkojų"
+      voc: "grozdinko"
+    plural: 
+      nom: "grozdinky"
+      acc: "grozdinky"
+      gen: "grozdinȯk"
+      loc: "grozdinkah"
+      dat: "grozdinkam"
+      ins: "grozdinkami"
+      voc: "grozdinky"

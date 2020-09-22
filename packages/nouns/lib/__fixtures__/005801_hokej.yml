@@ -1,0 +1,15 @@
+---
+  id: "5801"
+  word: "hokej"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "hokej"
+      acc: "hokej"
+      gen: "hokeja"
+      loc: "hokeju"
+      dat: "hokeju"
+      ins: "hokejem"
+      voc: "hokeju"

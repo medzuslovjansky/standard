@@ -1,0 +1,15 @@
+---
+  id: "6198"
+  word: "duhovenstvo"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "duhovenstvo"
+      acc: "duhovenstvo"
+      gen: "duhovenstva"
+      loc: "duhovenstvu"
+      dat: "duhovenstvu"
+      ins: "duhovenstvom"
+      voc: "duhovenstvo"

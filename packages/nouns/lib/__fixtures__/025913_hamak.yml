@@ -1,0 +1,22 @@
+---
+  id: "25913"
+  word: "hamak"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hamak"
+      acc: "hamak"
+      gen: "hamaka"
+      loc: "hamaku"
+      dat: "hamaku"
+      ins: "hamakom"
+      voc: "hamače"
+    plural: 
+      nom: "hamaky"
+      acc: "hamaky"
+      gen: "hamakov"
+      loc: "hamakah"
+      dat: "hamakam"
+      ins: "hamakami"
+      voc: "hamaky"

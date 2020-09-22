@@ -1,0 +1,22 @@
+---
+  id: "29849"
+  word: "parapet"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "parapet"
+      acc: "parapet"
+      gen: "parapeta"
+      loc: "parapetu"
+      dat: "parapetu"
+      ins: "parapetom"
+      voc: "parapete"
+    plural: 
+      nom: "parapety"
+      acc: "parapety"
+      gen: "parapetov"
+      loc: "parapetah"
+      dat: "parapetam"
+      ins: "parapetami"
+      voc: "parapety"

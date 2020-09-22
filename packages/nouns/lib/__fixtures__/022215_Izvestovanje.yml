@@ -1,0 +1,15 @@
+---
+  id: "22215"
+  word: "Izvěstovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Izvěstovańje"
+      acc: "Izvěstovańje"
+      gen: "Izvěstovańja"
+      loc: "Izvěstovańju"
+      dat: "Izvěstovańju"
+      ins: "Izvěstovańjem"
+      voc: "Izvěstovańje"

@@ -1,0 +1,22 @@
+---
+  id: "15646"
+  word: "vȯprosnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vȯprosnik"
+      acc: "vȯprosnik"
+      gen: "vȯprosnika"
+      loc: "vȯprosniku"
+      dat: "vȯprosniku"
+      ins: "vȯprosnikom"
+      voc: "vȯprosniče"
+    plural: 
+      nom: "vȯprosniky"
+      acc: "vȯprosniky"
+      gen: "vȯprosnikov"
+      loc: "vȯprosnikah"
+      dat: "vȯprosnikam"
+      ins: "vȯprosnikami"
+      voc: "vȯprosniky"

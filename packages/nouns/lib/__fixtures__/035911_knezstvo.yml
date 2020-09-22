@@ -1,0 +1,22 @@
+---
+  id: "35911"
+  word: "knęžstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "knęžstvo"
+      acc: "knęžstvo"
+      gen: "knęžstva"
+      loc: "knęžstvu"
+      dat: "knęžstvu"
+      ins: "knęžstvom"
+      voc: "knęžstvo"
+    plural: 
+      nom: "knęžstva"
+      acc: "knęžstva"
+      gen: "knęžstv"
+      loc: "knęžstvah"
+      dat: "knęžstvam"
+      ins: "knęžstvami"
+      voc: "knęžstva"

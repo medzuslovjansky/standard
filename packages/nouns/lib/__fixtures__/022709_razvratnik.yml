@@ -1,0 +1,23 @@
+---
+  id: "22709"
+  word: "råzvråtnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "råzvråtnik"
+      acc: "råzvråtnika"
+      gen: "råzvråtnika"
+      loc: "råzvråtniku"
+      dat: "råzvråtniku"
+      ins: "råzvråtnikom"
+      voc: "råzvråtniče"
+    plural: 
+      nom: "råzvråtniki"
+      acc: "råzvråtnikov"
+      gen: "råzvråtnikov"
+      loc: "råzvråtnikah"
+      dat: "råzvråtnikam"
+      ins: "råzvråtnikami"
+      voc: "råzvråtniki"

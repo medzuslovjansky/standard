@@ -1,0 +1,22 @@
+---
+  id: "1348"
+  word: "pljuća"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pljuća"
+      acc: "pljućų"
+      gen: "pljuće"
+      loc: "pljući"
+      dat: "pljući"
+      ins: "pljućejų"
+      voc: "pljućo"
+    plural: 
+      nom: "pljuće"
+      acc: "pljuće"
+      gen: "pljuć"
+      loc: "pljućah"
+      dat: "pljućam"
+      ins: "pljućami"
+      voc: "pljuće"

@@ -1,0 +1,22 @@
+---
+  id: "21012"
+  word: "pola"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pola"
+      acc: "polų"
+      gen: "poly"
+      loc: "polě"
+      dat: "polě"
+      ins: "polojų"
+      voc: "polo"
+    plural: 
+      nom: "poly"
+      acc: "poly"
+      gen: "pol"
+      loc: "polah"
+      dat: "polam"
+      ins: "polami"
+      voc: "poly"

@@ -1,0 +1,23 @@
+---
+  id: "22959"
+  word: "kanibal"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "kanibal"
+      acc: "kanibala"
+      gen: "kanibala"
+      loc: "kanibalu"
+      dat: "kanibalu"
+      ins: "kanibalom"
+      voc: "kanibale"
+    plural: 
+      nom: "kanibali"
+      acc: "kanibalov"
+      gen: "kanibalov"
+      loc: "kanibalah"
+      dat: "kanibalam"
+      ins: "kanibalami"
+      voc: "kanibali"

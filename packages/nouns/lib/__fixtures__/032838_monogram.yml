@@ -1,0 +1,22 @@
+---
+  id: "32838"
+  word: "monogram"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "monogram"
+      acc: "monogram"
+      gen: "monograma"
+      loc: "monogramu"
+      dat: "monogramu"
+      ins: "monogramom"
+      voc: "monograme"
+    plural: 
+      nom: "monogramy"
+      acc: "monogramy"
+      gen: "monogramov"
+      loc: "monogramah"
+      dat: "monogramam"
+      ins: "monogramami"
+      voc: "monogramy"

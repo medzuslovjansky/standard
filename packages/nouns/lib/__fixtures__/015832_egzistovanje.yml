@@ -1,0 +1,15 @@
+---
+  id: "15832"
+  word: "egzistovańje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "egzistovańje"
+      acc: "egzistovańje"
+      gen: "egzistovańja"
+      loc: "egzistovańju"
+      dat: "egzistovańju"
+      ins: "egzistovańjem"
+      voc: "egzistovańje"

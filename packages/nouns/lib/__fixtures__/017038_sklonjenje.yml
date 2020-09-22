@@ -1,0 +1,22 @@
+---
+  id: "17038"
+  word: "sklonjeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "sklonjeńje"
+      acc: "sklonjeńje"
+      gen: "sklonjeńja"
+      loc: "sklonjeńju"
+      dat: "sklonjeńju"
+      ins: "sklonjeńjem"
+      voc: "sklonjeńje"
+    plural: 
+      nom: "sklonjeńja"
+      acc: "sklonjeńja"
+      gen: "sklonjenij"
+      loc: "sklonjeńjah"
+      dat: "sklonjeńjam"
+      ins: "sklonjeńjami"
+      voc: "sklonjeńja"

@@ -1,0 +1,22 @@
+---
+  id: "2098"
+  word: "ulica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ulica"
+      acc: "ulicų"
+      gen: "ulice"
+      loc: "ulici"
+      dat: "ulici"
+      ins: "ulicejų"
+      voc: "ulico"
+    plural: 
+      nom: "ulice"
+      acc: "ulice"
+      gen: "ulic"
+      loc: "ulicah"
+      dat: "ulicam"
+      ins: "ulicami"
+      voc: "ulice"

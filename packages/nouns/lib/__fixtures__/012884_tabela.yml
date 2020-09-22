@@ -1,0 +1,22 @@
+---
+  id: "12884"
+  word: "tabela"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "tabela"
+      acc: "tabelų"
+      gen: "tabely"
+      loc: "tabelě"
+      dat: "tabelě"
+      ins: "tabelojų"
+      voc: "tabelo"
+    plural: 
+      nom: "tabely"
+      acc: "tabely"
+      gen: "tabel"
+      loc: "tabelah"
+      dat: "tabelam"
+      ins: "tabelami"
+      voc: "tabely"

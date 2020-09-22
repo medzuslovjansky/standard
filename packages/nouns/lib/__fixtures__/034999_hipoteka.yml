@@ -1,0 +1,22 @@
+---
+  id: "34999"
+  word: "hipoteka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "hipoteka"
+      acc: "hipotekų"
+      gen: "hipoteky"
+      loc: "hipotekě"
+      dat: "hipotekě"
+      ins: "hipotekojų"
+      voc: "hipoteko"
+    plural: 
+      nom: "hipoteky"
+      acc: "hipoteky"
+      gen: "hipotek"
+      loc: "hipotekah"
+      dat: "hipotekam"
+      ins: "hipotekami"
+      voc: "hipoteky"

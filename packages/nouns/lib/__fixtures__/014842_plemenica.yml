@@ -1,0 +1,22 @@
+---
+  id: "14842"
+  word: "plemenica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "plemenica"
+      acc: "plemenicų"
+      gen: "plemenice"
+      loc: "plemenici"
+      dat: "plemenici"
+      ins: "plemenicejų"
+      voc: "plemenico"
+    plural: 
+      nom: "plemenice"
+      acc: "plemenice"
+      gen: "plemenic"
+      loc: "plemenicah"
+      dat: "plemenicam"
+      ins: "plemenicami"
+      voc: "plemenice"

@@ -1,0 +1,22 @@
+---
+  id: "1438"
+  word: "svinja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "svinja"
+      acc: "svinjų"
+      gen: "svinje"
+      loc: "svinji"
+      dat: "svinji"
+      ins: "svinjejų"
+      voc: "svinjo"
+    plural: 
+      nom: "svinje"
+      acc: "svinje"
+      gen: "svinej"
+      loc: "svinjah"
+      dat: "svinjam"
+      ins: "svinjami"
+      voc: "svinje"

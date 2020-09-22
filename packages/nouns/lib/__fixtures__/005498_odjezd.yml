@@ -1,0 +1,22 @@
+---
+  id: "5498"
+  word: "odjezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "odjezd"
+      acc: "odjezd"
+      gen: "odjezda"
+      loc: "odjezdu"
+      dat: "odjezdu"
+      ins: "odjezdom"
+      voc: "odjezde"
+    plural: 
+      nom: "odjezdy"
+      acc: "odjezdy"
+      gen: "odjezdov"
+      loc: "odjezdah"
+      dat: "odjezdam"
+      ins: "odjezdami"
+      voc: "odjezdy"

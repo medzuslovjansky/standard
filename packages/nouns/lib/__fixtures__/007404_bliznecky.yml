@@ -1,0 +1,15 @@
+---
+  id: "7404"
+  word: "bliznečky"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "bliznečky"
+      acc: "bliznečky"
+      gen: "bliznečk"
+      loc: "bliznečkah"
+      dat: "bliznečkam"
+      ins: "bliznečkami"
+      voc: "bliznečky"

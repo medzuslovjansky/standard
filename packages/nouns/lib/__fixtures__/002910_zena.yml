@@ -1,0 +1,22 @@
+---
+  id: "2910"
+  word: "žena"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "žena"
+      acc: "ženų"
+      gen: "ženy"
+      loc: "ženě"
+      dat: "ženě"
+      ins: "ženojų"
+      voc: "ženo"
+    plural: 
+      nom: "ženy"
+      acc: "ženy"
+      gen: "žen"
+      loc: "ženah"
+      dat: "ženam"
+      ins: "ženami"
+      voc: "ženy"

@@ -1,0 +1,22 @@
+---
+  id: "4333"
+  word: "izbor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "izbor"
+      acc: "izbor"
+      gen: "izbora"
+      loc: "izboru"
+      dat: "izboru"
+      ins: "izborom"
+      voc: "izbore"
+    plural: 
+      nom: "izbory"
+      acc: "izbory"
+      gen: "izborov"
+      loc: "izborah"
+      dat: "izboram"
+      ins: "izborami"
+      voc: "izbory"

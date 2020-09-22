@@ -1,0 +1,45 @@
+---
+  - 
+    id: "959"
+    word: "versija"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "versija"
+        acc: "versijų"
+        gen: "versije"
+        loc: "versiji"
+        dat: "versiji"
+        ins: "versijejų"
+        voc: "versijo"
+      plural: 
+        nom: "versije"
+        acc: "versije"
+        gen: "versij"
+        loc: "versijah"
+        dat: "versijam"
+        ins: "versijami"
+        voc: "versije"
+  - 
+    id: "959"
+    word: "verzija"
+    meta: 
+      gender: "feminine"
+    declensions: 
+      singular: 
+        nom: "verzija"
+        acc: "verzijų"
+        gen: "verzije"
+        loc: "verziji"
+        dat: "verziji"
+        ins: "verzijejų"
+        voc: "verzijo"
+      plural: 
+        nom: "verzije"
+        acc: "verzije"
+        gen: "verzij"
+        loc: "verzijah"
+        dat: "verzijam"
+        ins: "verzijami"
+        voc: "verzije"

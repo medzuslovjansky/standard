@@ -1,0 +1,22 @@
+---
+  id: "17860"
+  word: "najezd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "najezd"
+      acc: "najezd"
+      gen: "najezda"
+      loc: "najezdu"
+      dat: "najezdu"
+      ins: "najezdom"
+      voc: "najezde"
+    plural: 
+      nom: "najezdy"
+      acc: "najezdy"
+      gen: "najezdov"
+      loc: "najezdah"
+      dat: "najezdam"
+      ins: "najezdami"
+      voc: "najezdy"

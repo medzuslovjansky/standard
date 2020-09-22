@@ -1,0 +1,22 @@
+---
+  id: "1859"
+  word: "moment"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "moment"
+      acc: "moment"
+      gen: "momenta"
+      loc: "momentu"
+      dat: "momentu"
+      ins: "momentom"
+      voc: "momente"
+    plural: 
+      nom: "momenty"
+      acc: "momenty"
+      gen: "momentov"
+      loc: "momentah"
+      dat: "momentam"
+      ins: "momentami"
+      voc: "momenty"

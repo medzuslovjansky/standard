@@ -1,0 +1,22 @@
+---
+  id: "7277"
+  word: "dovoz"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dovoz"
+      acc: "dovoz"
+      gen: "dovoza"
+      loc: "dovozu"
+      dat: "dovozu"
+      ins: "dovozom"
+      voc: "dovoze"
+    plural: 
+      nom: "dovozy"
+      acc: "dovozy"
+      gen: "dovozov"
+      loc: "dovozah"
+      dat: "dovozam"
+      ins: "dovozami"
+      voc: "dovozy"

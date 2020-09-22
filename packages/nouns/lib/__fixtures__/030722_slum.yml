@@ -1,0 +1,22 @@
+---
+  id: "30722"
+  word: "slum"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "slum"
+      acc: "slum"
+      gen: "sluma"
+      loc: "slumu"
+      dat: "slumu"
+      ins: "slumom"
+      voc: "slum"
+    plural: 
+      nom: "sluma"
+      acc: "sluma"
+      gen: "slum"
+      loc: "slumah"
+      dat: "slumam"
+      ins: "slumami"
+      voc: "sluma"

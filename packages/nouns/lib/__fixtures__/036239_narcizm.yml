@@ -1,0 +1,22 @@
+---
+  id: "36239"
+  word: "narcizm"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "narcizm"
+      acc: "narcizm"
+      gen: "narcizma"
+      loc: "narcizmu"
+      dat: "narcizmu"
+      ins: "narcizmom"
+      voc: "narcizme"
+    plural: 
+      nom: "narcizmy"
+      acc: "narcizmy"
+      gen: "narcizmov"
+      loc: "narcizmah"
+      dat: "narcizmam"
+      ins: "narcizmami"
+      voc: "narcizmy"

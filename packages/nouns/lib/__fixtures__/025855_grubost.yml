@@ -1,0 +1,22 @@
+---
+  id: "25855"
+  word: "grubosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "grubosť"
+      acc: "grubosť"
+      gen: "grubosti"
+      loc: "grubosti"
+      dat: "grubosti"
+      ins: "grubosťjų"
+      voc: "grubosti"
+    plural: 
+      nom: "grubosti"
+      acc: "grubosti"
+      gen: "grubostij"
+      loc: "grubosťah"
+      dat: "grubosťam"
+      ins: "grubosťami"
+      voc: "grubosti"

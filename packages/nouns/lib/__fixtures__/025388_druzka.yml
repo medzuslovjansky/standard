@@ -1,0 +1,22 @@
+---
+  id: "25388"
+  word: "družka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "družka"
+      acc: "družkų"
+      gen: "družky"
+      loc: "družkě"
+      dat: "družkě"
+      ins: "družkojų"
+      voc: "družko"
+    plural: 
+      nom: "družky"
+      acc: "družky"
+      gen: "družek"
+      loc: "družkah"
+      dat: "družkam"
+      ins: "družkami"
+      voc: "družky"

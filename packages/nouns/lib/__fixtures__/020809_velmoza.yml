@@ -1,0 +1,23 @@
+---
+  id: "20809"
+  word: "veľmoža"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "veľmoža"
+      acc: "veľmožų"
+      gen: "veľmože"
+      loc: "veľmoži"
+      dat: "veľmoži"
+      ins: "veľmožejų"
+      voc: "veľmožo"
+    plural: 
+      nom: "veľmoži"
+      acc: "veľmožev"
+      gen: "veľmožev"
+      loc: "veľmožah"
+      dat: "veľmožam"
+      ins: "veľmožami"
+      voc: "veľmoži"

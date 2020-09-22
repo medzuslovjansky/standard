@@ -1,0 +1,23 @@
+---
+  id: "3157"
+  word: "potomȯk"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "potomȯk"
+      acc: "potomka"
+      gen: "potomka"
+      loc: "potomku"
+      dat: "potomku"
+      ins: "potomkom"
+      voc: "potomče"
+    plural: 
+      nom: "potomki"
+      acc: "potomkov"
+      gen: "potomkov"
+      loc: "potomkah"
+      dat: "potomkam"
+      ins: "potomkami"
+      voc: "potomki"

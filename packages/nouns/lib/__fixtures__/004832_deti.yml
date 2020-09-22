@@ -1,0 +1,15 @@
+---
+  id: "4832"
+  word: "děti"
+  meta: 
+    gender: "feminine"
+    plural: true
+  declensions: 
+    plural: 
+      nom: "děti"
+      acc: "děti"
+      gen: "dětij"
+      loc: "dětjah"
+      dat: "dětjam"
+      ins: "dětjami"
+      voc: "děti"

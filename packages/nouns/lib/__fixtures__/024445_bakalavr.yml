@@ -1,0 +1,22 @@
+---
+  id: "24445"
+  word: "bakalavr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "bakalavr"
+      acc: "bakalavr"
+      gen: "bakalavra"
+      loc: "bakalavru"
+      dat: "bakalavru"
+      ins: "bakalavrom"
+      voc: "bakalavre"
+    plural: 
+      nom: "bakalavry"
+      acc: "bakalavry"
+      gen: "bakalavrov"
+      loc: "bakalavrah"
+      dat: "bakalavram"
+      ins: "bakalavrami"
+      voc: "bakalavry"

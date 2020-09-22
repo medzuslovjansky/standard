@@ -1,0 +1,22 @@
+---
+  id: "14872"
+  word: "pȯlk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pȯlk"
+      acc: "pȯlk"
+      gen: "pȯlka"
+      loc: "pȯlku"
+      dat: "pȯlku"
+      ins: "pȯlkom"
+      voc: "pȯlče"
+    plural: 
+      nom: "pȯlky"
+      acc: "pȯlky"
+      gen: "pȯlkov"
+      loc: "pȯlkah"
+      dat: "pȯlkam"
+      ins: "pȯlkami"
+      voc: "pȯlky"

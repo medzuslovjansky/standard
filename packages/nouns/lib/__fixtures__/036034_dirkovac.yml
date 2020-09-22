@@ -1,0 +1,22 @@
+---
+  id: "36034"
+  word: "dirkovač"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dirkovač"
+      acc: "dirkovač"
+      gen: "dirkovača"
+      loc: "dirkovaču"
+      dat: "dirkovaču"
+      ins: "dirkovačem"
+      voc: "dirkovaču"
+    plural: 
+      nom: "dirkovače"
+      acc: "dirkovače"
+      gen: "dirkovačev"
+      loc: "dirkovačah"
+      dat: "dirkovačam"
+      ins: "dirkovačami"
+      voc: "dirkovače"

@@ -1,0 +1,22 @@
+---
+  id: "36742"
+  word: "alergija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "alergija"
+      acc: "alergijų"
+      gen: "alergije"
+      loc: "alergiji"
+      dat: "alergiji"
+      ins: "alergijejų"
+      voc: "alergijo"
+    plural: 
+      nom: "alergije"
+      acc: "alergije"
+      gen: "alergij"
+      loc: "alergijah"
+      dat: "alergijam"
+      ins: "alergijami"
+      voc: "alergije"

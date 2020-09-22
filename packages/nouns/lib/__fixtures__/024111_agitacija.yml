@@ -1,0 +1,15 @@
+---
+  id: "24111"
+  word: "agitacija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "agitacija"
+      acc: "agitacijų"
+      gen: "agitacije"
+      loc: "agitaciji"
+      dat: "agitaciji"
+      ins: "agitacijejų"
+      voc: "agitacijo"

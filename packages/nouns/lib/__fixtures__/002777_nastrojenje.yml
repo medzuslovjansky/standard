@@ -1,0 +1,22 @@
+---
+  id: "2777"
+  word: "nastrojeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "nastrojeńje"
+      acc: "nastrojeńje"
+      gen: "nastrojeńja"
+      loc: "nastrojeńju"
+      dat: "nastrojeńju"
+      ins: "nastrojeńjem"
+      voc: "nastrojeńje"
+    plural: 
+      nom: "nastrojeńja"
+      acc: "nastrojeńja"
+      gen: "nastrojenij"
+      loc: "nastrojeńjah"
+      dat: "nastrojeńjam"
+      ins: "nastrojeńjami"
+      voc: "nastrojeńja"

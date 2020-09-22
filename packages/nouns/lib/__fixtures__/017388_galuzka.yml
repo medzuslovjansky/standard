@@ -1,0 +1,22 @@
+---
+  id: "17388"
+  word: "galųzka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "galųzka"
+      acc: "galųzkų"
+      gen: "galųzky"
+      loc: "galųzkě"
+      dat: "galųzkě"
+      ins: "galųzkojų"
+      voc: "galųzko"
+    plural: 
+      nom: "galųzky"
+      acc: "galųzky"
+      gen: "galųzȯk"
+      loc: "galųzkah"
+      dat: "galųzkam"
+      ins: "galųzkami"
+      voc: "galųzky"

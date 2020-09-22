@@ -1,0 +1,22 @@
+---
+  id: "19221"
+  word: "višnja"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "višnja"
+      acc: "višnjų"
+      gen: "višnje"
+      loc: "višnji"
+      dat: "višnji"
+      ins: "višnjejų"
+      voc: "višnjo"
+    plural: 
+      nom: "višnje"
+      acc: "višnje"
+      gen: "višnej"
+      loc: "višnjah"
+      dat: "višnjam"
+      ins: "višnjami"
+      voc: "višnje"

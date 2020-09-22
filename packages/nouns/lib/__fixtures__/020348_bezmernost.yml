@@ -1,0 +1,15 @@
+---
+  id: "20348"
+  word: "bezměrnosť"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "bezměrnosť"
+      acc: "bezměrnosť"
+      gen: "bezměrnosti"
+      loc: "bezměrnosti"
+      dat: "bezměrnosti"
+      ins: "bezměrnosťjų"
+      voc: "bezměrnosti"

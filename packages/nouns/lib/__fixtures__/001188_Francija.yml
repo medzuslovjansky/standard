@@ -1,0 +1,15 @@
+---
+  id: "1188"
+  word: "Francija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Francija"
+      acc: "Francijų"
+      gen: "Francije"
+      loc: "Franciji"
+      dat: "Franciji"
+      ins: "Francijejų"
+      voc: "Francijo"

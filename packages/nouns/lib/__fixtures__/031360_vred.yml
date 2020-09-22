@@ -1,0 +1,22 @@
+---
+  id: "31360"
+  word: "vrěd"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vrěd"
+      acc: "vrěd"
+      gen: "vrěda"
+      loc: "vrědu"
+      dat: "vrědu"
+      ins: "vrědom"
+      voc: "vrěde"
+    plural: 
+      nom: "vrědy"
+      acc: "vrědy"
+      gen: "vrědov"
+      loc: "vrědah"
+      dat: "vrědam"
+      ins: "vrědami"
+      voc: "vrědy"

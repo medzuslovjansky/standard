@@ -1,0 +1,22 @@
+---
+  id: "30964"
+  word: "uživańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "uživańje"
+      acc: "uživańje"
+      gen: "uživańja"
+      loc: "uživańju"
+      dat: "uživańju"
+      ins: "uživańjem"
+      voc: "uživańje"
+    plural: 
+      nom: "uživańja"
+      acc: "uživańja"
+      gen: "uživanij"
+      loc: "uživańjah"
+      dat: "uživańjam"
+      ins: "uživańjami"
+      voc: "uživańja"

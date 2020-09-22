@@ -1,0 +1,15 @@
+---
+  id: "21211"
+  word: "varjeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "varjeńje"
+      acc: "varjeńje"
+      gen: "varjeńja"
+      loc: "varjeńju"
+      dat: "varjeńju"
+      ins: "varjeńjem"
+      voc: "varjeńje"

@@ -1,0 +1,22 @@
+---
+  id: "248"
+  word: "adresa"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "adresa"
+      acc: "adresų"
+      gen: "adresy"
+      loc: "adresě"
+      dat: "adresě"
+      ins: "adresojų"
+      voc: "adreso"
+    plural: 
+      nom: "adresy"
+      acc: "adresy"
+      gen: "adres"
+      loc: "adresah"
+      dat: "adresam"
+      ins: "adresami"
+      voc: "adresy"

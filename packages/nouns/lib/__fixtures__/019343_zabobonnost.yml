@@ -1,0 +1,22 @@
+---
+  id: "19343"
+  word: "zabobonnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "zabobonnosť"
+      acc: "zabobonnosť"
+      gen: "zabobonnosti"
+      loc: "zabobonnosti"
+      dat: "zabobonnosti"
+      ins: "zabobonnosťjų"
+      voc: "zabobonnosti"
+    plural: 
+      nom: "zabobonnosti"
+      acc: "zabobonnosti"
+      gen: "zabobonnostij"
+      loc: "zabobonnosťah"
+      dat: "zabobonnosťam"
+      ins: "zabobonnosťami"
+      voc: "zabobonnosti"

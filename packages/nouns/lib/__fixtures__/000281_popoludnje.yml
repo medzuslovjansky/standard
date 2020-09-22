@@ -1,0 +1,22 @@
+---
+  id: "281"
+  word: "popoludńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "popoludńje"
+      acc: "popoludńje"
+      gen: "popoludńja"
+      loc: "popoludńju"
+      dat: "popoludńju"
+      ins: "popoludńjem"
+      voc: "popoludńje"
+    plural: 
+      nom: "popoludńja"
+      acc: "popoludńja"
+      gen: "popoludnij"
+      loc: "popoludńjah"
+      dat: "popoludńjam"
+      ins: "popoludńjami"
+      voc: "popoludńja"

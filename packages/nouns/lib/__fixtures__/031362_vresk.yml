@@ -1,0 +1,22 @@
+---
+  id: "31362"
+  word: "vrěsk"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "vrěsk"
+      acc: "vrěsk"
+      gen: "vrěska"
+      loc: "vrěsku"
+      dat: "vrěsku"
+      ins: "vrěskom"
+      voc: "vrěsče"
+    plural: 
+      nom: "vrěsky"
+      acc: "vrěsky"
+      gen: "vrěskov"
+      loc: "vrěskah"
+      dat: "vrěskam"
+      ins: "vrěskami"
+      voc: "vrěsky"

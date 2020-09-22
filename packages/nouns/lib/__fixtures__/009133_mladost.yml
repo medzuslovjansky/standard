@@ -1,0 +1,22 @@
+---
+  id: "9133"
+  word: "mlådosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådosť"
+      acc: "mlådosť"
+      gen: "mlådosti"
+      loc: "mlådosti"
+      dat: "mlådosti"
+      ins: "mlådosťjų"
+      voc: "mlådosti"
+    plural: 
+      nom: "mlådosti"
+      acc: "mlådosti"
+      gen: "mlådostij"
+      loc: "mlådosťah"
+      dat: "mlådosťam"
+      ins: "mlådosťami"
+      voc: "mlådosti"

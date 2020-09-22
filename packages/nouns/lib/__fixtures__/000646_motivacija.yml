@@ -1,0 +1,22 @@
+---
+  id: "646"
+  word: "motivacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "motivacija"
+      acc: "motivacijų"
+      gen: "motivacije"
+      loc: "motivaciji"
+      dat: "motivaciji"
+      ins: "motivacijejų"
+      voc: "motivacijo"
+    plural: 
+      nom: "motivacije"
+      acc: "motivacije"
+      gen: "motivacij"
+      loc: "motivacijah"
+      dat: "motivacijam"
+      ins: "motivacijami"
+      voc: "motivacije"

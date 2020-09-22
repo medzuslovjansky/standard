@@ -1,0 +1,22 @@
+---
+  id: "36754"
+  word: "antitělo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "antitělo"
+      acc: "antitělo"
+      gen: "antitěla"
+      loc: "antitělu"
+      dat: "antitělu"
+      ins: "antitělom"
+      voc: "antitělo"
+    plural: 
+      nom: "antitěla"
+      acc: "antitěla"
+      gen: "antitěl"
+      loc: "antitělah"
+      dat: "antitělam"
+      ins: "antitělami"
+      voc: "antitěla"

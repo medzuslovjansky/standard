@@ -1,0 +1,22 @@
+---
+  id: "35190"
+  word: "hamburger"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "hamburger"
+      acc: "hamburger"
+      gen: "hamburgera"
+      loc: "hamburgeru"
+      dat: "hamburgeru"
+      ins: "hamburgerom"
+      voc: "hamburgere"
+    plural: 
+      nom: "hamburgery"
+      acc: "hamburgery"
+      gen: "hamburgerov"
+      loc: "hamburgerah"
+      dat: "hamburgeram"
+      ins: "hamburgerami"
+      voc: "hamburgery"

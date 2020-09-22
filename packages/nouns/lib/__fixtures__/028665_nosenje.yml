@@ -1,0 +1,15 @@
+---
+  id: "28665"
+  word: "nošeńje"
+  meta: 
+    gender: "neuter"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "nošeńje"
+      acc: "nošeńje"
+      gen: "nošeńja"
+      loc: "nošeńju"
+      dat: "nošeńju"
+      ins: "nošeńjem"
+      voc: "nošeńje"

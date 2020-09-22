@@ -1,0 +1,22 @@
+---
+  id: "2348"
+  word: "trg"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "trg"
+      acc: "trg"
+      gen: "trga"
+      loc: "trgu"
+      dat: "trgu"
+      ins: "trgom"
+      voc: "trže"
+    plural: 
+      nom: "trgy"
+      acc: "trgy"
+      gen: "trgov"
+      loc: "trgah"
+      dat: "trgam"
+      ins: "trgami"
+      voc: "trgy"

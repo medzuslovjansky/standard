@@ -1,0 +1,24 @@
+---
+  id: "21352"
+  word: "narěčeny"
+  meta: 
+    irregularity: "(-ogo)"
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "narěčeny"
+      acc: "narěčenogo"
+      gen: "narěčenogo"
+      loc: "narěčenom"
+      dat: "narěčenomu"
+      ins: "narěčenym"
+      voc: "narěčeny"
+    plural: 
+      nom: "narěčeni"
+      acc: "narěčenyh"
+      gen: "narěčenyh"
+      loc: "narěčenyh"
+      dat: "narěčenym"
+      ins: "narěčenymi"
+      voc: "narěčeni"

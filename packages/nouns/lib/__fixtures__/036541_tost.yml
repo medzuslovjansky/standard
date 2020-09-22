@@ -1,0 +1,22 @@
+---
+  id: "36541"
+  word: "tost"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tost"
+      acc: "tost"
+      gen: "tosta"
+      loc: "tostu"
+      dat: "tostu"
+      ins: "tostom"
+      voc: "toste"
+    plural: 
+      nom: "tosty"
+      acc: "tosty"
+      gen: "tostov"
+      loc: "tostah"
+      dat: "tostam"
+      ins: "tostami"
+      voc: "tosty"

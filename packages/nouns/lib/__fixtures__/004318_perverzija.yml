@@ -1,0 +1,22 @@
+---
+  id: "4318"
+  word: "perverzija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "perverzija"
+      acc: "perverzijų"
+      gen: "perverzije"
+      loc: "perverziji"
+      dat: "perverziji"
+      ins: "perverzijejų"
+      voc: "perverzijo"
+    plural: 
+      nom: "perverzije"
+      acc: "perverzije"
+      gen: "perverzij"
+      loc: "perverzijah"
+      dat: "perverzijam"
+      ins: "perverzijami"
+      voc: "perverzije"

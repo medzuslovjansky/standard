@@ -1,0 +1,22 @@
+---
+  id: "23434"
+  word: "flejta"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "flejta"
+      acc: "flejtų"
+      gen: "flejty"
+      loc: "flejtě"
+      dat: "flejtě"
+      ins: "flejtojų"
+      voc: "flejto"
+    plural: 
+      nom: "flejty"
+      acc: "flejty"
+      gen: "flejt"
+      loc: "flejtah"
+      dat: "flejtam"
+      ins: "flejtami"
+      voc: "flejty"

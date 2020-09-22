@@ -1,0 +1,15 @@
+---
+  id: "2473"
+  word: "Brazilija"
+  meta: 
+    gender: "feminine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Brazilija"
+      acc: "Brazilijų"
+      gen: "Brazilije"
+      loc: "Braziliji"
+      dat: "Braziliji"
+      ins: "Brazilijejų"
+      voc: "Brazilijo"

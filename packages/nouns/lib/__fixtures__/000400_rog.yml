@@ -1,0 +1,22 @@
+---
+  id: "400"
+  word: "rog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rog"
+      acc: "rog"
+      gen: "roga"
+      loc: "rogu"
+      dat: "rogu"
+      ins: "rogom"
+      voc: "rože"
+    plural: 
+      nom: "rogy"
+      acc: "rogy"
+      gen: "rogov"
+      loc: "rogah"
+      dat: "rogam"
+      ins: "rogami"
+      voc: "rogy"

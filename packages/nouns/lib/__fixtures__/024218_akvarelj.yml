@@ -1,0 +1,22 @@
+---
+  id: "24218"
+  word: "akvarelj"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "akvarelj"
+      acc: "akvarelj"
+      gen: "akvarelja"
+      loc: "akvarelju"
+      dat: "akvarelju"
+      ins: "akvareljem"
+      voc: "akvarelju"
+    plural: 
+      nom: "akvarelje"
+      acc: "akvarelje"
+      gen: "akvareljev"
+      loc: "akvareljah"
+      dat: "akvareljam"
+      ins: "akvareljami"
+      voc: "akvarelje"

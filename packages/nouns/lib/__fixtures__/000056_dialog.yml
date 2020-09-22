@@ -1,0 +1,22 @@
+---
+  id: "56"
+  word: "dialog"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "dialog"
+      acc: "dialog"
+      gen: "dialoga"
+      loc: "dialogu"
+      dat: "dialogu"
+      ins: "dialogom"
+      voc: "dialože"
+    plural: 
+      nom: "dialogy"
+      acc: "dialogy"
+      gen: "dialogov"
+      loc: "dialogah"
+      dat: "dialogam"
+      ins: "dialogami"
+      voc: "dialogy"

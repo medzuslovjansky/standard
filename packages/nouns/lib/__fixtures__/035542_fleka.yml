@@ -1,0 +1,22 @@
+---
+  id: "35542"
+  word: "fleka"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "fleka"
+      acc: "flekų"
+      gen: "fleky"
+      loc: "flekě"
+      dat: "flekě"
+      ins: "flekojų"
+      voc: "fleko"
+    plural: 
+      nom: "fleky"
+      acc: "fleky"
+      gen: "flek"
+      loc: "flekah"
+      dat: "flekam"
+      ins: "flekami"
+      voc: "fleky"

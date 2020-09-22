@@ -1,0 +1,22 @@
+---
+  id: "34845"
+  word: "špinat"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "špinat"
+      acc: "špinat"
+      gen: "špinata"
+      loc: "špinatu"
+      dat: "špinatu"
+      ins: "špinatom"
+      voc: "špinate"
+    plural: 
+      nom: "špinaty"
+      acc: "špinaty"
+      gen: "špinatov"
+      loc: "špinatah"
+      dat: "špinatam"
+      ins: "špinatami"
+      voc: "špinaty"

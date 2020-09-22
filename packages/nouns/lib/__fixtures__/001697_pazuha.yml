@@ -1,0 +1,22 @@
+---
+  id: "1697"
+  word: "pazuha"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pazuha"
+      acc: "pazuhų"
+      gen: "pazuhy"
+      loc: "pazuhě"
+      dat: "pazuhě"
+      ins: "pazuhojų"
+      voc: "pazuho"
+    plural: 
+      nom: "pazuhy"
+      acc: "pazuhy"
+      gen: "pazuh"
+      loc: "pazuhah"
+      dat: "pazuham"
+      ins: "pazuhami"
+      voc: "pazuhy"

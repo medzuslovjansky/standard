@@ -1,0 +1,22 @@
+---
+  id: "1989"
+  word: "okno"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "okno"
+      acc: "okno"
+      gen: "okna"
+      loc: "oknu"
+      dat: "oknu"
+      ins: "oknom"
+      voc: "okno"
+    plural: 
+      nom: "okna"
+      acc: "okna"
+      gen: "okȯn"
+      loc: "oknah"
+      dat: "oknam"
+      ins: "oknami"
+      voc: "okna"

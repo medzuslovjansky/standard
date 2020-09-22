@@ -1,0 +1,22 @@
+---
+  id: "3464"
+  word: "městečko"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "městečko"
+      acc: "městečko"
+      gen: "městečka"
+      loc: "městečku"
+      dat: "městečku"
+      ins: "městečkom"
+      voc: "městečko"
+    plural: 
+      nom: "městečka"
+      acc: "městečka"
+      gen: "městeček"
+      loc: "městečkah"
+      dat: "městečkam"
+      ins: "městečkami"
+      voc: "městečka"

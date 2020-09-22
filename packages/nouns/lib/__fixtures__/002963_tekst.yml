@@ -1,0 +1,22 @@
+---
+  id: "2963"
+  word: "tekst"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "tekst"
+      acc: "tekst"
+      gen: "teksta"
+      loc: "tekstu"
+      dat: "tekstu"
+      ins: "tekstom"
+      voc: "tekste"
+    plural: 
+      nom: "teksty"
+      acc: "teksty"
+      gen: "tekstov"
+      loc: "tekstah"
+      dat: "tekstam"
+      ins: "tekstami"
+      voc: "teksty"

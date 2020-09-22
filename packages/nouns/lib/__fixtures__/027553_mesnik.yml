@@ -1,0 +1,23 @@
+---
+  id: "27553"
+  word: "męsnik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "męsnik"
+      acc: "męsnika"
+      gen: "męsnika"
+      loc: "męsniku"
+      dat: "męsniku"
+      ins: "męsnikom"
+      voc: "męsniče"
+    plural: 
+      nom: "męsniki"
+      acc: "męsnikov"
+      gen: "męsnikov"
+      loc: "męsnikah"
+      dat: "męsnikam"
+      ins: "męsnikami"
+      voc: "męsniki"

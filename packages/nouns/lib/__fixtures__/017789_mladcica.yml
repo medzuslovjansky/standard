@@ -1,0 +1,22 @@
+---
+  id: "17789"
+  word: "mlådčica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "mlådčica"
+      acc: "mlådčicų"
+      gen: "mlådčice"
+      loc: "mlådčici"
+      dat: "mlådčici"
+      ins: "mlådčicejų"
+      voc: "mlådčico"
+    plural: 
+      nom: "mlådčice"
+      acc: "mlådčice"
+      gen: "mlådčic"
+      loc: "mlådčicah"
+      dat: "mlådčicam"
+      ins: "mlådčicami"
+      voc: "mlådčice"

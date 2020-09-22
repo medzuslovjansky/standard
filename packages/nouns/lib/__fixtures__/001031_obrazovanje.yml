@@ -1,0 +1,22 @@
+---
+  id: "1031"
+  word: "obrazovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "obrazovańje"
+      acc: "obrazovańje"
+      gen: "obrazovańja"
+      loc: "obrazovańju"
+      dat: "obrazovańju"
+      ins: "obrazovańjem"
+      voc: "obrazovańje"
+    plural: 
+      nom: "obrazovańja"
+      acc: "obrazovańja"
+      gen: "obrazovanij"
+      loc: "obrazovańjah"
+      dat: "obrazovańjam"
+      ins: "obrazovańjami"
+      voc: "obrazovańja"

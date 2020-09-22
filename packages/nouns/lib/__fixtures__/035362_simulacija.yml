@@ -1,0 +1,22 @@
+---
+  id: "35362"
+  word: "simulacija"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "simulacija"
+      acc: "simulacijų"
+      gen: "simulacije"
+      loc: "simulaciji"
+      dat: "simulaciji"
+      ins: "simulacijejų"
+      voc: "simulacijo"
+    plural: 
+      nom: "simulacije"
+      acc: "simulacije"
+      gen: "simulacij"
+      loc: "simulacijah"
+      dat: "simulacijam"
+      ins: "simulacijami"
+      voc: "simulacije"

@@ -1,0 +1,22 @@
+---
+  id: "30763"
+  word: "spod"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "spod"
+      acc: "spod"
+      gen: "spoda"
+      loc: "spodu"
+      dat: "spodu"
+      ins: "spodom"
+      voc: "spode"
+    plural: 
+      nom: "spody"
+      acc: "spody"
+      gen: "spodov"
+      loc: "spodah"
+      dat: "spodam"
+      ins: "spodami"
+      voc: "spody"

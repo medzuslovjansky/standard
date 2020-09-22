@@ -1,0 +1,22 @@
+---
+  id: "26131"
+  word: "institut"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "institut"
+      acc: "institut"
+      gen: "instituta"
+      loc: "institutu"
+      dat: "institutu"
+      ins: "institutom"
+      voc: "institute"
+    plural: 
+      nom: "instituty"
+      acc: "instituty"
+      gen: "institutov"
+      loc: "institutah"
+      dat: "institutam"
+      ins: "institutami"
+      voc: "instituty"

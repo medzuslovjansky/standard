@@ -1,0 +1,22 @@
+---
+  id: "11247"
+  word: "prědpoložeńje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prědpoložeńje"
+      acc: "prědpoložeńje"
+      gen: "prědpoložeńja"
+      loc: "prědpoložeńju"
+      dat: "prědpoložeńju"
+      ins: "prědpoložeńjem"
+      voc: "prědpoložeńje"
+    plural: 
+      nom: "prědpoložeńja"
+      acc: "prědpoložeńja"
+      gen: "prědpoloženij"
+      loc: "prědpoložeńjah"
+      dat: "prědpoložeńjam"
+      ins: "prědpoložeńjami"
+      voc: "prědpoložeńja"

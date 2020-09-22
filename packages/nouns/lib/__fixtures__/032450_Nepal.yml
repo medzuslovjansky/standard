@@ -1,0 +1,15 @@
+---
+  id: "32450"
+  word: "Nepal"
+  meta: 
+    gender: "masculine"
+    singular: true
+  declensions: 
+    singular: 
+      nom: "Nepal"
+      acc: "Nepal"
+      gen: "Nepala"
+      loc: "Nepalu"
+      dat: "Nepalu"
+      ins: "Nepalom"
+      voc: "Nepale"

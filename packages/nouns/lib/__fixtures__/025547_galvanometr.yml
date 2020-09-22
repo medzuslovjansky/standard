@@ -1,0 +1,22 @@
+---
+  id: "25547"
+  word: "galvanometr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "galvanometr"
+      acc: "galvanometr"
+      gen: "galvanometra"
+      loc: "galvanometru"
+      dat: "galvanometru"
+      ins: "galvanometrom"
+      voc: "galvanometre"
+    plural: 
+      nom: "galvanometry"
+      acc: "galvanometry"
+      gen: "galvanometrov"
+      loc: "galvanometrah"
+      dat: "galvanometram"
+      ins: "galvanometrami"
+      voc: "galvanometry"

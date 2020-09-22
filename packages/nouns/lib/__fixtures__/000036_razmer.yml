@@ -1,0 +1,22 @@
+---
+  id: "36"
+  word: "råzměr"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "råzměr"
+      acc: "råzměr"
+      gen: "råzměra"
+      loc: "råzměru"
+      dat: "råzměru"
+      ins: "råzměrom"
+      voc: "råzměre"
+    plural: 
+      nom: "råzměry"
+      acc: "råzměry"
+      gen: "råzměrov"
+      loc: "råzměrah"
+      dat: "råzměram"
+      ins: "råzměrami"
+      voc: "råzměry"

@@ -1,0 +1,23 @@
+---
+  id: "36048"
+  word: "zagovornik"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zagovornik"
+      acc: "zagovornika"
+      gen: "zagovornika"
+      loc: "zagovorniku"
+      dat: "zagovorniku"
+      ins: "zagovornikom"
+      voc: "zagovorniče"
+    plural: 
+      nom: "zagovorniki"
+      acc: "zagovornikov"
+      gen: "zagovornikov"
+      loc: "zagovornikah"
+      dat: "zagovornikam"
+      ins: "zagovornikami"
+      voc: "zagovorniki"

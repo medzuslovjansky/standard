@@ -1,0 +1,23 @@
+---
+  id: "36297"
+  word: "zombi"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "zombi"
+      acc: "zombų"
+      gen: "zombe"
+      loc: "zombi"
+      dat: "zombi"
+      ins: "zombejų"
+      voc: "zombo"
+    plural: 
+      nom: "zombi"
+      acc: "zombev"
+      gen: "zombev"
+      loc: "zombah"
+      dat: "zombam"
+      ins: "zombami"
+      voc: "zombi"

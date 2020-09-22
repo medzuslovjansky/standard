@@ -1,0 +1,23 @@
+---
+  id: "836"
+  word: "gigant"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "gigant"
+      acc: "giganta"
+      gen: "giganta"
+      loc: "gigantu"
+      dat: "gigantu"
+      ins: "gigantom"
+      voc: "gigante"
+    plural: 
+      nom: "giganti"
+      acc: "gigantov"
+      gen: "gigantov"
+      loc: "gigantah"
+      dat: "gigantam"
+      ins: "gigantami"
+      voc: "giganti"

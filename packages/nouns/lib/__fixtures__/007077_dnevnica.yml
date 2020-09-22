@@ -1,0 +1,22 @@
+---
+  id: "7077"
+  word: "dnevnica"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "dnevnica"
+      acc: "dnevnicų"
+      gen: "dnevnice"
+      loc: "dnevnici"
+      dat: "dnevnici"
+      ins: "dnevnicejų"
+      voc: "dnevnico"
+    plural: 
+      nom: "dnevnice"
+      acc: "dnevnice"
+      gen: "dnevnic"
+      loc: "dnevnicah"
+      dat: "dnevnicam"
+      ins: "dnevnicami"
+      voc: "dnevnice"

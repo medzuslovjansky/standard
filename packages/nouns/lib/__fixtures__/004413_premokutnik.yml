@@ -1,0 +1,22 @@
+---
+  id: "4413"
+  word: "prěmokųtnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "prěmokųtnik"
+      acc: "prěmokųtnik"
+      gen: "prěmokųtnika"
+      loc: "prěmokųtniku"
+      dat: "prěmokųtniku"
+      ins: "prěmokųtnikom"
+      voc: "prěmokųtniče"
+    plural: 
+      nom: "prěmokųtniky"
+      acc: "prěmokųtniky"
+      gen: "prěmokųtnikov"
+      loc: "prěmokųtnikah"
+      dat: "prěmokųtnikam"
+      ins: "prěmokųtnikami"
+      voc: "prěmokųtniky"

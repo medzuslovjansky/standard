@@ -1,0 +1,22 @@
+---
+  id: "4291"
+  word: "prěslědovańje"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "prěslědovańje"
+      acc: "prěslědovańje"
+      gen: "prěslědovańja"
+      loc: "prěslědovańju"
+      dat: "prěslědovańju"
+      ins: "prěslědovańjem"
+      voc: "prěslědovańje"
+    plural: 
+      nom: "prěslědovańja"
+      acc: "prěslědovańja"
+      gen: "prěslědovanij"
+      loc: "prěslědovańjah"
+      dat: "prěslědovańjam"
+      ins: "prěslědovańjami"
+      voc: "prěslědovańja"

@@ -1,0 +1,22 @@
+---
+  id: "827"
+  word: "glågol"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "glågol"
+      acc: "glågol"
+      gen: "glågola"
+      loc: "glågolu"
+      dat: "glågolu"
+      ins: "glågolom"
+      voc: "glågole"
+    plural: 
+      nom: "glågoly"
+      acc: "glågoly"
+      gen: "glågolov"
+      loc: "glågolah"
+      dat: "glågolam"
+      ins: "glågolami"
+      voc: "glågoly"

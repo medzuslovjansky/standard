@@ -1,0 +1,22 @@
+---
+  id: "20098"
+  word: "pŕvovzor"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pŕvovzor"
+      acc: "pŕvovzor"
+      gen: "pŕvovzora"
+      loc: "pŕvovzoru"
+      dat: "pŕvovzoru"
+      ins: "pŕvovzorom"
+      voc: "pŕvovzore"
+    plural: 
+      nom: "pŕvovzory"
+      acc: "pŕvovzory"
+      gen: "pŕvovzorov"
+      loc: "pŕvovzorah"
+      dat: "pŕvovzoram"
+      ins: "pŕvovzorami"
+      voc: "pŕvovzory"

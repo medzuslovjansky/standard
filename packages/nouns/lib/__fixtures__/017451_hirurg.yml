@@ -1,0 +1,23 @@
+---
+  id: "17451"
+  word: "hirurg"
+  meta: 
+    gender: "masculine"
+    animated: true
+  declensions: 
+    singular: 
+      nom: "hirurg"
+      acc: "hirurga"
+      gen: "hirurga"
+      loc: "hirurgu"
+      dat: "hirurgu"
+      ins: "hirurgom"
+      voc: "hirurže"
+    plural: 
+      nom: "hirurgi"
+      acc: "hirurgov"
+      gen: "hirurgov"
+      loc: "hirurgah"
+      dat: "hirurgam"
+      ins: "hirurgami"
+      voc: "hirurgi"

@@ -1,0 +1,22 @@
+---
+  id: "29870"
+  word: "pčeľnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "pčeľnik"
+      acc: "pčeľnik"
+      gen: "pčeľnika"
+      loc: "pčeľniku"
+      dat: "pčeľniku"
+      ins: "pčeľnikom"
+      voc: "pčeľniče"
+    plural: 
+      nom: "pčeľniky"
+      acc: "pčeľniky"
+      gen: "pčeľnikov"
+      loc: "pčeľnikah"
+      dat: "pčeľnikam"
+      ins: "pčeľnikami"
+      voc: "pčeľniky"

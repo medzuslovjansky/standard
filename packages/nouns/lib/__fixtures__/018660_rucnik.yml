@@ -1,0 +1,22 @@
+---
+  id: "18660"
+  word: "rųčnik"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "rųčnik"
+      acc: "rųčnik"
+      gen: "rųčnika"
+      loc: "rųčniku"
+      dat: "rųčniku"
+      ins: "rųčnikom"
+      voc: "rųčniče"
+    plural: 
+      nom: "rųčniky"
+      acc: "rųčniky"
+      gen: "rųčnikov"
+      loc: "rųčnikah"
+      dat: "rųčnikam"
+      ins: "rųčnikami"
+      voc: "rųčniky"

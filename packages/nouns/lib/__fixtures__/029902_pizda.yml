@@ -1,0 +1,22 @@
+---
+  id: "29902"
+  word: "pizda"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "pizda"
+      acc: "pizdų"
+      gen: "pizdy"
+      loc: "pizdě"
+      dat: "pizdě"
+      ins: "pizdojų"
+      voc: "pizdo"
+    plural: 
+      nom: "pizdy"
+      acc: "pizdy"
+      gen: "pizd"
+      loc: "pizdah"
+      dat: "pizdam"
+      ins: "pizdami"
+      voc: "pizdy"

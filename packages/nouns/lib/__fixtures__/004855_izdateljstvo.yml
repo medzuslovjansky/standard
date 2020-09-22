@@ -1,0 +1,22 @@
+---
+  id: "4855"
+  word: "izdateljstvo"
+  meta: 
+    gender: "neuter"
+  declensions: 
+    singular: 
+      nom: "izdateljstvo"
+      acc: "izdateljstvo"
+      gen: "izdateljstva"
+      loc: "izdateljstvu"
+      dat: "izdateljstvu"
+      ins: "izdateljstvom"
+      voc: "izdateljstvo"
+    plural: 
+      nom: "izdateljstva"
+      acc: "izdateljstva"
+      gen: "izdateljstv"
+      loc: "izdateljstvah"
+      dat: "izdateljstvam"
+      ins: "izdateljstvami"
+      voc: "izdateljstva"

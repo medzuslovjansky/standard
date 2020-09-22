@@ -1,0 +1,22 @@
+---
+  id: "23079"
+  word: "personaž"
+  meta: 
+    gender: "masculine"
+  declensions: 
+    singular: 
+      nom: "personaž"
+      acc: "personaž"
+      gen: "personaža"
+      loc: "personažu"
+      dat: "personažu"
+      ins: "personažem"
+      voc: "personažu"
+    plural: 
+      nom: "personaže"
+      acc: "personaže"
+      gen: "personažev"
+      loc: "personažah"
+      dat: "personažam"
+      ins: "personažami"
+      voc: "personaže"

@@ -1,0 +1,22 @@
+---
+  id: "3509"
+  word: "spolȯčnosť"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "spolȯčnosť"
+      acc: "spolȯčnosť"
+      gen: "spolȯčnosti"
+      loc: "spolȯčnosti"
+      dat: "spolȯčnosti"
+      ins: "spolȯčnosťjų"
+      voc: "spolȯčnosti"
+    plural: 
+      nom: "spolȯčnosti"
+      acc: "spolȯčnosti"
+      gen: "spolȯčnostij"
+      loc: "spolȯčnosťah"
+      dat: "spolȯčnosťam"
+      ins: "spolȯčnosťami"
+      voc: "spolȯčnosti"

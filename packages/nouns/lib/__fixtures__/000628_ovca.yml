@@ -1,0 +1,22 @@
+---
+  id: "628"
+  word: "ovca"
+  meta: 
+    gender: "feminine"
+  declensions: 
+    singular: 
+      nom: "ovca"
+      acc: "ovcų"
+      gen: "ovce"
+      loc: "ovci"
+      dat: "ovci"
+      ins: "ovcejų"
+      voc: "ovco"
+    plural: 
+      nom: "ovce"
+      acc: "ovce"
+      gen: "ovc"
+      loc: "ovcah"
+      dat: "ovcam"
+      ins: "ovcami"
+      voc: "ovce"
