@@ -1,7 +1,7 @@
 {
-  "name": "@interslavic/google-sheets-sync",
+  "name": "@interslavic/db",
   "version": "0.0.0",
-  "description": "Syncs the latest progress made in \"Interslavic words\" on Google Sheets",
+  "description": "Document database of Interslavic language",
   "keywords": [
     "interslavic",
     "medzuslovjansky"
@@ -29,8 +29,5 @@
   },
   "bugs": {
     "url": "https://github.com/medzuslovjansky/standard/issues"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
   }
 }
