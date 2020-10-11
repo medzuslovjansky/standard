@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  id="000001">
+
+  <set lang="art-x-isv">
+    <examples>
+      <item>
+        Či ty slyšiš,
+        <agreement case="accusative">kaky <use /></agreement>
+        ty tutčas govoriš?!
+      </item>
+    </examples>
+    <options>
+      <use noun="absurd" />
+      <use noun="gluposť" />
+      <use noun="nonsens" />
+    </options>
+  </set>
+
+  <set lang="ru">
+    <examples>
+      <item>
+        Ты хоть слышишь, что за
+        <agreement case="accusative"><use /></agreement>
+        ты сейчас несешь?!
+      </item>
+    </examples>
+    <options>
+      <use noun="глупость">
+        <with number="pl" />
+      </use>
+      <use noun="чушь" register="colloqial" />
+      <use phraseme="чушь собачья" register="colloqial" />
+      <use noun="ахинея" register="colloqial" />
+      <use noun="абсурд" />
+      <use noun="бред" register="colloqial" />
+      <use noun="хрень" register="colloqial" />
+      <use noun="херня" register="vulgar" />
+      <use noun="нонсенс" register="foreign" />
+    </options>
+  </set>
+
+  <set lang="uk">
+    <examples>
+      <item>
+        Чи ти сам чуєш,
+        <agreement case="accusative">який <use /></agreement>
+        ти зараз верзеш?
+      </item>
+    </examples>
+    <options>
+      <use noun="нісенітниця" />
+      <use noun="маячня" register="colloqial">
+      <use noun="нонсенс" register="bookish" />
+      <use noun="дурість" />
+      <use noun="дурниця" register="colloqial">
+        <with number="pl" />
+      </use>
+    </options>
+  </set>
+</synset>
