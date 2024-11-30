@@ -10,4 +10,14 @@
 - Conjugation Tables
 - Word Formation Tables
 
+#### Noun Declension: **"rųka" (hand)**
 
+| Case        | Singular | Plural  |
+|-------------|----------|---------|
+| Nominative  | rųka     | rųky    |
+| Genitive    | rųky     | rųk     |
+| Dative      | rųkě     | rųkam   |
+| Accusative  | rųkų     | rųky    |
+| Instrumental| rųkojų   | rųkami  |
+| Locative    | rųkě     | rųkah   |
+| Vocative    | rųko     | rųky    |
