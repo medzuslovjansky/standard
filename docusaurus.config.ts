@@ -5,13 +5,13 @@ import remarkDirective from 'remark-directive';
 import remarkIsvDirective from './src/remark-isv-directive';
 
 const config: Config = {
-  title: 'Interslavic Language Standard',
-  tagline: 'Official specification of the Interslavic auxiliary language',
+  title: 'Interslavic',
+  tagline: 'A language understood by 400 million Slavic speakers — without prior study',
   favicon: 'img/favicon.ico',
-  url: 'https://interslavic.fun',
-  baseUrl: '/standard/',
+  url: 'https://interslavic.online',
+  baseUrl: '/',
   organizationName: 'medzuslovjansky',
-  projectName: 'standard',
+  projectName: 'interslavic.online',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
@@ -23,12 +23,14 @@ const config: Config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/',
+          routeBasePath: '/standard',
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/medzuslovjansky/standard/edit/main/',
           remarkPlugins: [remarkDirective, remarkIsvDirective],
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+        },
         theme: {
           customCss: './src/custom.css',
         },
@@ -40,22 +42,28 @@ const config: Config = {
       '@easyops-cn/docusaurus-search-local',
       {
         hashed: true,
-        docsRouteBasePath: '/',
+        docsRouteBasePath: '/standard',
         indexBlog: false,
       },
     ],
   ],
   themeConfig: {
     navbar: {
-      title: 'Interslavic Specification',
+      title: 'Interslavic',
       logo: {
         alt: 'Interslavic Logo',
         src: 'img/logo.svg',
       },
       items: [
+        {to: '/explore', label: 'Explore', position: 'left'},
+        {to: '/learn', label: 'Learn', position: 'left'},
+        {to: '/standard', label: 'Standard', position: 'left'},
+        {to: '/develop', label: 'Develop', position: 'left'},
+        {to: '/about', label: 'About', position: 'left'},
+        {to: '/blog', label: 'News', position: 'right'},
         {
-          href: 'https://github.com/medzuslovjansky/standard',
-          label: 'GitHub',
+          href: 'https://github.com/medzuslovjansky/interslavic.online/issues/new',
+          label: 'Feedback',
           position: 'right',
         },
       ],
@@ -64,21 +72,33 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Links',
+          title: 'Explore',
           items: [
-            {
-              label: 'Spec',
-              to: '/',
-            },
+            {label: 'Community', to: '/explore'},
+            {label: 'Events', to: '/explore/events'},
+            {label: 'Discord', href: 'https://discord.gg/interslavic'},
           ],
         },
         {
-          title: 'Community',
+          title: 'Learn',
           items: [
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/interslavic',
-            },
+            {label: 'Learn', to: '/learn'},
+            {label: 'Standard', to: '/standard'},
+          ],
+        },
+        {
+          title: 'Develop',
+          items: [
+            {label: 'Tools & APIs', to: '/develop'},
+            {label: 'Contribute', to: '/develop'},
+            {label: 'GitHub', href: 'https://github.com/medzuslovjansky'},
+          ],
+        },
+        {
+          title: 'About',
+          items: [
+            {label: 'About', to: '/about'},
+            {label: 'History', to: '/about/history'},
           ],
         },
       ],

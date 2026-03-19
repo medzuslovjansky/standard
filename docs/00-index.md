@@ -1,13 +1,13 @@
 ---
-slug: /
 sidebar_position: 1
+slug: /
 ---
 
 # Overview
 
 The normative specification of **Interslavic** (*Medžuslovjansky jezyk* / *Меджусловјанскы језык*) — a zonal auxiliary language constructed to be broadly intelligible to speakers of the Slavic language family without prior study.
 
-Covers phonology, orthography, morphology, syntax, semantics, lexicon, and flavorization for both **Standard Interslavic** and **Basic Interslavic** (*Slovianto*).
+Covers phonology, orthography, morphology, syntax, semantics, lexicon, and flavorization.
 
 ---
 

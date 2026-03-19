@@ -1,0 +1,194 @@
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Hero */
+.hero {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-bottom: 3rem;
+}
+
+.heroPoster {
+  flex: 0 0 300px;
+}
+
+.heroPoster img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+.heroText {
+  flex: 1;
+}
+
+.heroText h1 {
+  font-size: 2.4rem;
+  margin-bottom: 0.25rem;
+}
+
+.titleOriginal {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-500);
+  margin-bottom: 1rem;
+}
+
+.tagline {
+  font-size: 1.15rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-radius: 100px;
+  background: var(--ifm-color-emphasis-100);
+  color: var(--ifm-color-emphasis-700);
+}
+
+.meta {
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-bottom: 0.25rem;
+}
+
+/* About & Interslavic sections */
+.about,
+.interslavic {
+  margin-bottom: 2.5rem;
+}
+
+.about p,
+.interslavic p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Cast */
+.castSection {
+  margin-bottom: 2.5rem;
+}
+
+.castGrid {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.castMember {
+  display: flex;
+  flex-direction: column;
+}
+
+.actorName {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.roleName {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-500);
+}
+
+/* Specs bar */
+.specs {
+  margin-bottom: 2.5rem;
+}
+
+.specsGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.specItem {
+  flex: 1 1 auto;
+  min-width: 120px;
+  padding: 1rem 1.25rem;
+  text-align: center;
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.specItem:last-child {
+  border-right: none;
+}
+
+.specLabel {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ifm-color-emphasis-500);
+  margin-bottom: 0.3rem;
+}
+
+.specValue {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+/* Bonus */
+.bonus {
+  margin-bottom: 2.5rem;
+}
+
+.bonus ul {
+  padding-left: 1.25rem;
+}
+
+.bonus li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+/* CTA */
+.cta {
+  text-align: center;
+  padding: 2rem 0;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .heroPoster {
+    flex: none;
+    width: 220px;
+  }
+
+  .badges {
+    justify-content: center;
+  }
+
+  .castGrid {
+    justify-content: center;
+  }
+}

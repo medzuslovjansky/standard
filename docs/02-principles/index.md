@@ -54,34 +54,8 @@ No single Slavic language SHALL function as the default or primary model for Int
 - When two candidate forms receive equal votes, population weighting may serve as a tiebreaker.
 - Languages with fewer than approximately one million speakers (e.g., Sorbian, Kashubian, Rusyn) do not participate in formal voting but SHALL still be considered in the evaluation of proposed forms.
 
-### Scalability: Basic vs. Extended Register
-Interslavic accommodates users with varying levels of proficiency and differing communication needs through two defined usage registers.
-
-**Basic Interslavic** (also referred to as :isv[Slovianto] / :cyrl[Словянто]) is a simplified subset intended primarily for non-Slavs or beginners:
-
-- It uses a minimalistic grammar characterised by the absence of elements not strictly required for simple communication.
-- It is structured in progressive levels: Level 1 omits grammatical gender and noun cases; Level 2 introduces grammatical gender and basic verbal conjugation; Level 3 introduces the case system.
-:::caution[Unverified Content]
-The source says memorising the forms should be "a matter of minutes rather than of hours," not that a learner can express themselves on a basic level within minutes of study.
-:::
-
-- A learner at Level 1 can express themselves on a basic level within minutes of study.
-
-**Standard Interslavic** is the full register described by this specification:
-
-- It includes grammatical gender, seven cases, verbal aspect, and full verbal conjugation.
-- It is primarily intended for Slavs and for non-Slavs who need to communicate at a serious level.
-:::caution[Unverified Content]
-The source says the advanced level is suitable for "contacts and publications" and "insight into the nature of Slavic." The claims about "literary use" and "scholarly engagement with Slavic linguistics" are not in the source.
-:::
-
-- It is suitable for written publications, literary use, and scholarly engagement with Slavic linguistics.
-
-:::caution[Unverified Content]
-The source says "Ideally, level 1 should be a subset of level 2" — a descriptive aspiration, not a normative SHALL requirement. The register names "Basic Interslavic" and "Standard Interslavic" are not used in the source, which refers to "Simple level" and "Advanced level."
-:::
-
-The two registers SHALL be defined such that Basic Interslavic is a strict subset of Standard Interslavic. A learner MAY advance from one register to the other without invalidating previously acquired knowledge.
+### Scalability
+Interslavic accommodates users with varying levels of proficiency. The full grammatical system described by this specification includes grammatical gender, seven cases, verbal aspect, and full verbal conjugation. It is primarily intended for Slavs and for non-Slavs who need to communicate at a serious level.
 
 ## Linguistic Basis
 ### Proto-Slavic and Common Slavic Heritage

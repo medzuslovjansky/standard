@@ -32,7 +32,7 @@ This specification normatively describes the **Interslavic language** (:isv[Med�
 | Lexicon and vocabulary policy (selection criteria, borrowing, neologism formation) |  |
 | Flavorization (systematic regional adaptation) |  |
 
-The specification covers **Standard Interslavic** (the full grammatical system) and **Basic Interslavic** (the simplified register sometimes called :isv[Slovianto]), defining which rules in each section apply to each register.
+The specification covers the full grammatical system of Interslavic.
 
 ### What this specification does not cover
 The following topics are explicitly **outside the scope** of this specification:
@@ -100,10 +100,10 @@ Requirements on text producers (authors, speakers) do not imply requirements on 
 Linguists and language researchers SHOULD use this specification as the primary reference for the synchronic description of Interslavic. IPA transcriptions (in /slashes/ for phonemic and [brackets] for phonetic representations) and comparative Slavic data are provided in the relevant section and throughout for scientific reference. Historical and comparative context is informative, not normative.
 
 ### Educators and advanced learners
-Educators and advanced learners SHOULD use this specification alongside derived pedagogical materials. Paradigm tables, worked examples, and informative notes throughout the document are provided for pedagogical utility but are not themselves normative. For introductory learning, the :isv[Slovianto] simplified grammar (, Basic Interslavic register) provides a sufficient starting point.
+Educators and advanced learners SHOULD use this specification alongside derived pedagogical materials. Paradigm tables, worked examples, and informative notes throughout the document are provided for pedagogical utility but are not themselves normative.
 
 :::note
-This specification defines the language; it does not define a teaching sequence. Recommended learning paths are the responsibility of derived teaching materials. Beginners are referred to the :isv[Slovianto] overview before consulting the full morphological paradigms in the relevant section
+This specification defines the language; it does not define a teaching sequence. Recommended learning paths are the responsibility of derived teaching materials.
 :::
 
 ---
@@ -272,11 +272,7 @@ From a utilitarian standpoint, Interslavic belongs to the family of **zonal auxi
 
 Features that might appear complex in a universal auxiliary language — grammatical gender, nominal case, verbal aspect, the hard/soft consonant distinction, irregular verbs — are preserved in Interslavic because they are natural and familiar to its target audience: speakers of Slavic languages. Stripping these features would make the language artificial and unfamiliar to the very people it is intended to serve.
 
-:::caution[Unverified Content]
-The claim that "Basic Interslavic is a proper subset of Standard Interslavic" is a formal characterization not found in the source material. The source describes two levels that can be mixed, with knowledge expanded gradually, but does not use the formal term "proper subset."
-:::
-
-At the same time, Interslavic maintains **scalability**. A **Basic Interslavic** register (corresponding to the earlier :isv[Slovianto] materials) provides a significantly simplified grammar with reduced case distinctions and regularized morphology, intended for beginners, non-Slavic learners, and informal communication contexts. The two registers are compatible: Basic Interslavic is a proper subset of Standard Interslavic, and knowledge can be built incrementally.
+Interslavic is designed to be **scalable** — its grammar can be approached gradually, allowing learners to start with core patterns and progressively acquire more complex structures.
 
 ### The name :isv[Medžuslovjansky]
 

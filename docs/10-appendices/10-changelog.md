@@ -12,8 +12,7 @@ This specification consolidates and supersedes the body of prior descriptive wor
 
 The specification covers:
 
-- **Standard Interslavic** — the full grammatical system including seven cases, three genders, verbal aspect, and full conjugation.
-- **Basic Interslavic** (*Slovianto*) — a simplified subset structured in progressive levels, intended for beginners and non-Slavic learners.
+- The full grammatical system including seven cases, three genders, verbal aspect, and full conjugation.
 
 ### Governance
 
@@ -53,7 +52,6 @@ For feedback, suggestions, or inquiries regarding this specification, contact th
 - Complete restructuring of the specification into ten normative sections plus appendices, superseding the earlier informal descriptive structure.
 - Adoption of RFC 2119 normative keyword conventions (SHALL, MUST, SHOULD, MAY) throughout.
 - Formal definition of the weighted six-subgroup voting mechanism  previously described only informally.
-- Explicit codification of the Basic Interslavic / Standard Interslavic register distinction .
 - Expanded phonological section  with IPA transcriptions and explicit phonotactic rules.
 - Reorganized morphology chapter  with machine-readable paradigm tables.
 - New sections on syntax , semantics and pragmatics , and flavorization .
@@ -90,7 +88,6 @@ For feedback, suggestions, or inquiries regarding this specification, contact th
 **Scope of changes:**
 
 - The name *Medžuslovjansky* (*Interslavic*) adopted in 2011 as the common moniker for converging projects, replacing *Slovianski*.
-- *Slovianto* (Basic Interslavic) introduced and documented as a simplified entry-level subset, structured in three progressive levels.
 - Ongoing collaborative development on vocabulary, orthography, and grammar, coordinated via the Interslavic Language Portal and associated forums.
 - Etymological (scientific) alphabet (*Naučny Medžuslovjansky*) described as an optional extension.
 

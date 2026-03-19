@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="580" viewBox="0 0 400 580">
+  <rect width="400" height="580" rx="4" fill="#e8e0d4" stroke="#999" stroke-width="2"/>
+  <rect x="30" y="20" width="340" height="540" rx="3" fill="#f5f0e8" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="370" y1="20" x2="370" y2="560" stroke="#ccc" stroke-width="3"/>
+  <!-- Title in Cyrillic -->
+  <text x="200" y="120" text-anchor="middle" font-family="serif" font-size="24" fill="#444">Нехај Несут Нас</text>
+  <text x="200" y="152" text-anchor="middle" font-family="serif" font-size="24" fill="#444">Бєле Облакы</text>
+  <!-- Script badge -->
+  <rect x="130" y="170" width="140" height="26" rx="13" fill="#3578e5" opacity="0.15"/>
+  <text x="200" y="188" text-anchor="middle" font-size="13" fill="#3578e5" font-weight="600">КИРИЛИЦА</text>
+  <!-- Cover art area -->
+  <rect x="80" y="220" width="240" height="200" rx="2" fill="none" stroke="#aaa" stroke-dasharray="8 4"/>
+  <text x="200" y="310" text-anchor="middle" font-size="13" fill="#999">COVER ART</text>
+  <text x="200" y="330" text-anchor="middle" font-size="11" fill="#bbb">by Leon Ning</text>
+  <!-- Author -->
+  <text x="200" y="475" text-anchor="middle" font-size="16" fill="#777">Алексиј Бернат</text>
+  <!-- Photo guide -->
+  <text x="200" y="555" text-anchor="middle" font-size="9" fill="#c44" font-style="italic">PHOTO: flat lay, Cyrillic edition cover, soft light</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f7f4ef"/>
+
+  <!-- Left book (Latin) — angled right -->
+  <g transform="translate(130, 40) rotate(-8, 160, 220)">
+    <rect width="320" height="440" rx="4" fill="#ede7db" stroke="#bbb" stroke-width="1.5"/>
+    <rect x="20" y="15" width="280" height="410" rx="2" fill="#f5f0e8" stroke="#ccc" stroke-width="1"/>
+    <text x="160" y="100" text-anchor="middle" font-family="serif" font-size="20" fill="#555">Nehaj Nesut Nas</text>
+    <text x="160" y="126" text-anchor="middle" font-family="serif" font-size="20" fill="#555">Běle Oblaky</text>
+    <rect x="100" y="140" width="120" height="22" rx="11" fill="#3578e5" opacity="0.12"/>
+    <text x="160" y="156" text-anchor="middle" font-size="11" fill="#3578e5" font-weight="600">LATINICA</text>
+    <rect x="60" y="180" width="200" height="140" rx="2" fill="none" stroke="#bbb" stroke-dasharray="6 3"/>
+    <text x="160" y="255" text-anchor="middle" font-size="11" fill="#bbb">COVER ART</text>
+    <text x="160" y="370" text-anchor="middle" font-size="14" fill="#888">Aleksy Bernat</text>
+  </g>
+
+  <!-- Right book (Cyrillic) — angled left -->
+  <g transform="translate(350, 40) rotate(8, 160, 220)">
+    <rect width="320" height="440" rx="4" fill="#ede7db" stroke="#bbb" stroke-width="1.5"/>
+    <rect x="20" y="15" width="280" height="410" rx="2" fill="#f5f0e8" stroke="#ccc" stroke-width="1"/>
+    <text x="160" y="100" text-anchor="middle" font-family="serif" font-size="20" fill="#555">Нехај Несут Нас</text>
+    <text x="160" y="126" text-anchor="middle" font-family="serif" font-size="20" fill="#555">Бєле Облакы</text>
+    <rect x="95" y="140" width="130" height="22" rx="11" fill="#3578e5" opacity="0.12"/>
+    <text x="160" y="156" text-anchor="middle" font-size="11" fill="#3578e5" font-weight="600">КИРИЛИЦА</text>
+    <rect x="60" y="180" width="200" height="140" rx="2" fill="none" stroke="#bbb" stroke-dasharray="6 3"/>
+    <text x="160" y="255" text-anchor="middle" font-size="11" fill="#bbb">COVER ART</text>
+    <text x="160" y="370" text-anchor="middle" font-size="14" fill="#888">Алексиј Бернат</text>
+  </g>
+
+  <!-- Photo guide -->
+  <text x="400" y="488" text-anchor="middle" font-size="10" fill="#c44" font-style="italic">PHOTO: both hardcovers, spines touching, fanned like a mirror — top-down studio shot</text>
+</svg>

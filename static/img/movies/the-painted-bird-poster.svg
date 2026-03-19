@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="580" viewBox="0 0 400 580">
+  <!-- Dark cinematic poster placeholder -->
+  <rect width="400" height="580" rx="4" fill="#1a1a1a"/>
+  <rect x="2" y="2" width="396" height="576" rx="3" fill="none" stroke="#333" stroke-width="1"/>
+
+  <!-- Silhouette of boy walking -->
+  <line x1="200" y1="350" x2="200" y2="280" stroke="#555" stroke-width="2"/>
+  <circle cx="200" cy="270" r="12" fill="none" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="310" x2="185" y2="350" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="310" x2="215" y2="350" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="300" x2="180" y2="320" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="300" x2="220" y2="320" stroke="#555" stroke-width="2"/>
+
+  <!-- Horizon line -->
+  <line x1="40" y1="370" x2="360" y2="370" stroke="#333" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="200" y="120" text-anchor="middle" font-family="serif" font-size="30" fill="#e0e0e0" font-weight="700" letter-spacing="2">THE</text>
+  <text x="200" y="160" text-anchor="middle" font-family="serif" font-size="30" fill="#e0e0e0" font-weight="700" letter-spacing="2">PAINTED</text>
+  <text x="200" y="200" text-anchor="middle" font-family="serif" font-size="30" fill="#e0e0e0" font-weight="700" letter-spacing="2">BIRD</text>
+
+  <!-- Subtitle -->
+  <text x="200" y="235" text-anchor="middle" font-size="11" fill="#888" letter-spacing="3">NABARVENÉ PTÁČE</text>
+
+  <!-- Director -->
+  <text x="200" y="440" text-anchor="middle" font-size="11" fill="#666">A FILM BY</text>
+  <text x="200" y="460" text-anchor="middle" font-size="14" fill="#999" font-weight="600">VÁCLAV MARHOUL</text>
+
+  <!-- Venice badge -->
+  <text x="200" y="500" text-anchor="middle" font-size="9" fill="#777" letter-spacing="2">VENICE FILM FESTIVAL 2019</text>
+
+  <!-- Interslavic note -->
+  <rect x="120" y="515" width="160" height="22" rx="11" fill="#333"/>
+  <text x="200" y="530" text-anchor="middle" font-size="10" fill="#aaa" letter-spacing="1">DIALOGUE IN INTERSLAVIC</text>
+
+  <!-- Photo guide -->
+  <text x="200" y="568" text-anchor="middle" font-size="8" fill="#c44" font-style="italic">REPLACE: use official movie poster</text>
+</svg>
