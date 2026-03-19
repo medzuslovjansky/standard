@@ -1,12 +1,10 @@
-# 4.5. Transliteration
-
+# Transliteration
 Transliteration is the systematic, rule-governed conversion of text from the Latin script to the Cyrillic script, or vice versa, without reference to pronunciation rules beyond what the orthography itself encodes.
-Because the two standard Interslavic orthographies were designed as mutual mirrors, transliteration between them is nearly always one-to-one at the grapheme level; the few cases requiring contextual rules are enumerated in §4.5.3 and §4.5.4.
+Because the two standard Interslavic orthographies were designed as mutual mirrors, transliteration between them is nearly always one-to-one at the grapheme level; the few cases requiring contextual rules are enumerated in the relevant section and 
 
 ---
 
-## 4.5.1. Normative Latin-to-Cyrillic Transliteration Table
-
+## Normative Latin-to-Cyrillic Transliteration Table
 The table below constitutes the normative mapping for converting Standard Latin orthography to Standard Cyrillic orthography.
 Every Latin grapheme listed in column 1 MUST be rendered by the corresponding Cyrillic grapheme in column 2.
 The IPA column is provided for reference only; it does not affect the transliteration rule.
@@ -18,20 +16,20 @@ The IPA column is provided for reference only; it does not affect the transliter
 | :latn[C c] | :cyrl[Ц ц] | :ipa[t͡s] | |
 | :latn[Č č] | :cyrl[Ч ч] | :ipa[t͡ʃ] | |
 | :latn[D d] | :cyrl[Д д] | :ipa[d] | |
-| :latn[Dž dž] | :cyrl[Дж дж] | :ipa[d͡ʒ] | digraph; see §4.5.3 |
+| :latn[Dž dž] | :cyrl[Дж дж] | :ipa[d͡ʒ] | digraph; see the relevant section |
 | :latn[E e] | :cyrl[Е е] | :ipa[e] | |
 | :latn[Ě ě] | :cyrl[Ѣ ѣ] | :ipa[ě] | |
 | :latn[F f] | :cyrl[Ф ф] | :ipa[f] | |
 | :latn[G g] | :cyrl[Г г] | :ipa[ɡ] | |
 | :latn[H h] | :cyrl[Х х] | :ipa[x] | |
 | :latn[I i] | :cyrl[И и] | :ipa[i] | |
-| :latn[J j] | :cyrl[Ј ј] | :ipa[j] | see §4.5.4 for post-vowel positions |
+| :latn[J j] | :cyrl[Ј ј] | :ipa[j] | see the relevant section for post-vowel positions |
 | :latn[K k] | :cyrl[К к] | :ipa[k] | |
 | :latn[L l] | :cyrl[Л л] | :ipa[l] | |
-| :latn[Lj lj] | :cyrl[Љ љ] | :ipa[ʎ] | digraph; see §4.5.3 |
+| :latn[Lj lj] | :cyrl[Љ љ] | :ipa[ʎ] | digraph; see the relevant section |
 | :latn[M m] | :cyrl[М м] | :ipa[m] | |
 | :latn[N n] | :cyrl[Н н] | :ipa[n] | |
-| :latn[Nj nj] | :cyrl[Њ њ] | :ipa[ɲ] | digraph; see §4.5.3 |
+| :latn[Nj nj] | :cyrl[Њ њ] | :ipa[ɲ] | digraph; see the relevant section |
 | :latn[O o] | :cyrl[О о] | :ipa[o] | |
 | :latn[P p] | :cyrl[П п] | :ipa[p] | |
 | :latn[R r] | :cyrl[Р р] | :ipa[r] | |
@@ -48,8 +46,7 @@ The IPA column is provided for reference only; it does not affect the transliter
 
 ---
 
-## 4.5.2. Normative Cyrillic-to-Latin Transliteration Table
-
+## Normative Cyrillic-to-Latin Transliteration Table
 The table below constitutes the normative mapping for converting Standard Cyrillic orthography to Standard Latin orthography.
 
 | Cyrillic | Latin | IPA (canonical) | Notes |
@@ -59,12 +56,12 @@ The table below constitutes the normative mapping for converting Standard Cyrill
 | :cyrl[В в] | :latn[V v] | :ipa[v] | |
 | :cyrl[Г г] | :latn[G g] | :ipa[ɡ] | |
 | :cyrl[Д д] | :latn[D d] | :ipa[d] | |
-| :cyrl[Дж дж] | :latn[Dž dž] | :ipa[d͡ʒ] | digraph; see §4.5.3 |
+| :cyrl[Дж дж] | :latn[Dž dž] | :ipa[d͡ʒ] | digraph; see the relevant section |
 | :cyrl[Е е] | :latn[E e] | :ipa[e] | |
 | :cyrl[Ж ж] | :latn[Ž ž] | :ipa[ʒ] | |
 | :cyrl[З з] | :latn[Z z] | :ipa[z] | |
 | :cyrl[И и] | :latn[I i] | :ipa[i] | |
-| :cyrl[Ј ј] | :latn[J j] | :ipa[j] | see §4.5.4 for post-vowel positions |
+| :cyrl[Ј ј] | :latn[J j] | :ipa[j] | see the relevant section for post-vowel positions |
 | :cyrl[К к] | :latn[K k] | :ipa[k] | |
 | :cyrl[Л л] | :latn[L l] | :ipa[l] | |
 | :cyrl[Љ љ] | :latn[Lj lj] | :ipa[ʎ] | |
@@ -90,13 +87,11 @@ The letter :cyrl[Й й], used by some writers instead of :cyrl[Ј ј], translite
 
 ---
 
-## 4.5.3. Digraph and Cluster Handling in Transliteration
-
+## Digraph and Cluster Handling in Transliteration
 Three Latin digraphs function as single phoneme units and each maps to a single Cyrillic unit, or vice versa.
 These MUST be treated atomically — never split — during transliteration.
 
-### 4.5.3.1. Latin :latn[dž] → Cyrillic :cyrl[дж]
-
+### Latin :latn[dž] → Cyrillic :cyrl[дж]
 The digraph :latn[dž] (Latin) represents the single affricate :ipa[d͡ʒ] and MUST be rendered as the digraph :cyrl[дж] (Cyrillic) in its entirety.
 
 | Latin | Cyrillic | Gloss |
@@ -107,8 +102,7 @@ The digraph :latn[dž] (Latin) represents the single affricate :ipa[d͡ʒ] and M
 Capitalization rule: when :latn[dž] begins a sentence or proper noun, only the first letter is capitalized: :latn[Džez], not :latn[DŽez].
 In all-caps contexts the full digraph is capitalized: :latn[DŽEZ] / :cyrl[ДЖЕЗ].
 
-### 4.5.3.2. Latin :latn[lj] → Cyrillic :cyrl[љ]
-
+### Latin :latn[lj] → Cyrillic :cyrl[љ]
 The digraph :latn[lj] (Latin) represents the palatal lateral :ipa[ʎ] and MUST be rendered as the single Cyrillic letter :cyrl[љ].
 Conversely, :cyrl[љ] (Cyrillic) MUST be rendered as :latn[lj] (Latin).
 
@@ -120,8 +114,7 @@ Conversely, :cyrl[љ] (Cyrillic) MUST be rendered as :latn[lj] (Latin).
 Capitalization rule: at word-initial position, only :latn[L] is capitalized: :latn[Ljubljana] / :cyrl[Љубљана].
 In all-caps: :latn[LJUBOV] / :cyrl[ЉУБОВ].
 
-### 4.5.3.3. Latin :latn[nj] → Cyrillic :cyrl[њ]
-
+### Latin :latn[nj] → Cyrillic :cyrl[њ]
 The digraph :latn[nj] (Latin) represents the palatal nasal :ipa[ɲ] and MUST be rendered as the single Cyrillic letter :cyrl[њ].
 Conversely, :cyrl[њ] (Cyrillic) MUST be rendered as :latn[nj] (Latin).
 
@@ -130,14 +123,12 @@ Conversely, :cyrl[њ] (Cyrillic) MUST be rendered as :latn[nj] (Latin).
 | :latn[njuhati] | :cyrl[њухати] | to smell |
 | :latn[konj] | :cyrl[конь]\* | horse |
 
-\* Note: :cyrl[конь] is an acceptable Cyrillic alternative for :cyrl[коњ] in contexts where :cyrl[њ] is unavailable on a keyboard; however, the normative form is :cyrl[коњ]. See §4.5.4.2.
+\* Note: :cyrl[конь] is an acceptable Cyrillic alternative for :cyrl[коњ] in contexts where :cyrl[њ] is unavailable on a keyboard; however, the normative form is :cyrl[коњ]. See the relevant section
 
 ---
 
-## 4.5.4. Handling Ambiguous Sequences
-
-### 4.5.4.1. Distinguishing digraphs from letter sequences at morpheme boundaries
-
+## Handling Ambiguous Sequences
+### Distinguishing digraphs from letter sequences at morpheme boundaries
 A digraph sequence that spans a morpheme boundary MUST NOT be treated as a single digraph.
 The following method resolves such ambiguities:
 
@@ -146,8 +137,7 @@ In standard Latin orthography this ambiguity is rare and normally resolved by co
 
 **Cyrillic script:** Because :cyrl[лj] and :cyrl[нj] are already single letters :cyrl[Љ] / :cyrl[Њ] in Cyrillic, and the digraph :cyrl[дж] is written as a two-letter sequence, ambiguous clusters involving :cyrl[д+ж] across a morpheme boundary MUST be marked with a hyphen when the reading is otherwise unclear: :cyrl[под-жечи] (to set fire to, cf. *podjěči*).
 
-### 4.5.4.2. The letter :latn[j] (Latin) / :cyrl[ј] (Cyrillic) after vowels
-
+### The letter :latn[j] (Latin) / :cyrl[ј] (Cyrillic) after vowels
 In informal Cyrillic writing, the letter :cyrl[ј] is sometimes replaced by iotated vowel letters following a vowel:
 
 | Normative Cyrillic | Informal alternative | Latin equivalent |
@@ -159,10 +149,9 @@ In informal Cyrillic writing, the letter :cyrl[ј] is sometimes replaced by iota
 | :cyrl[ыј] | :cyrl[ый] | :latn[yj] |
 
 These informal alternatives do **not** affect Latin transliteration: all Cyrillic forms above transliterate uniformly to Latin :latn[j] following the corresponding vowel.
-Conversely, when converting Latin to Cyrillic, the normative form with :cyrl[ј] MUST be used; the Russian-style forms with :cyrl[й] are permitted only as keyboard-fallback alternatives (see §4.3.2 of the core orthography spec).
+Conversely, when converting Latin to Cyrillic, the normative form with :cyrl[ј] MUST be used; the Russian-style forms with :cyrl[й] are permitted only as keyboard-fallback alternatives (see  of the core orthography spec).
 
-### 4.5.4.3. Iotated vowels in informal Cyrillic
-
+### Iotated vowels in informal Cyrillic
 Some writers use iotated vowel letters (:cyrl[ја], :cyrl[је], :cyrl[ји], :cyrl[ју]) or pre-iotated letters (:cyrl[я], :cyrl[є]/:cyrl[е], :cyrl[и], :cyrl[ю]) instead of the sequence :cyrl[ј] + vowel.
 For transliteration purposes these sequences MUST be resolved as follows:
 
@@ -179,14 +168,12 @@ Transliteration software SHOULD normalize informal Cyrillic iotated forms to the
 
 ---
 
-## 4.5.5. Etymological Alphabet Transliteration
-
+## Etymological Alphabet Transliteration
 The etymological (scientific) alphabet contains additional letters beyond the standard set.
-These letters are defined and described in §4.4; they appear only in scholarly or etymological-register texts.
+These letters are defined and described in the relevant section; they appear only in scholarly or etymological-register texts.
 The transliteration correspondences for etymological letters are given below for completeness.
 
-### 4.5.5.1. Etymological Latin-to-Cyrillic
-
+### Etymological Latin-to-Cyrillic
 | Latin (etym.) | Cyrillic (etym.) | IPA | Notes |
 |---|---|---|---|
 | :latn[Å å] | :cyrl[Ӑ ӑ] | :ipa[ɒ ~ o] | syllabic liquid context: :latn[rå], :latn[lå] |
@@ -207,8 +194,7 @@ The transliteration correspondences for etymological letters are given below for
 \* In the etymological Cyrillic register, :latn[ė] and :latn[ȯ] share the Cyrillic letter :cyrl[Ъ]; the distinction is encoded only in the Latin form.
 In practice, the Cyrillic etymological register does not maintain a full one-to-one correspondence for the strong yer letters, and authors working in the etymological register are advised to use the Latin script.
 
-### 4.5.5.2. Etymological Cyrillic-to-Latin
-
+### Etymological Cyrillic-to-Latin
 | Cyrillic (etym.) | Latin (etym.) | Notes |
 |---|---|---|
 | :cyrl[Ӑ ӑ] | :latn[Å å] | |
@@ -220,8 +206,7 @@ In practice, the Cyrillic etymological register does not maintain a full one-to-
 
 ---
 
-## 4.5.6. Summary of Exceptional Cases
-
+## Summary of Exceptional Cases
 For quick reference, the following table collects all cases where simple letter-by-letter substitution is insufficient.
 
 | Situation | Rule |
@@ -234,4 +219,4 @@ For quick reference, the following table collects all cases where simple letter-
 | Cyrillic iotated forms :cyrl[я], :cyrl[ю], :cyrl[є], :cyrl[ји] | Resolve to :latn[j] + plain vowel before transliterating |
 | Cyrillic :cyrl[Є є] (= :cyrl[Ѣ ѣ] variant) | Transliterate as Latin :latn[Ě ě] |
 | Cyrillic :cyrl[Й й] (= :cyrl[Ј ј] informal) | Transliterate as Latin :latn[J j] |
-| Etymological letters | Apply §4.5.5 table; standard forms follow §4.5.1–4.5.2 |
+| Etymological letters | Apply  table; standard forms follow – |

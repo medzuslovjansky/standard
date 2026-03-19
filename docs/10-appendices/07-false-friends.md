@@ -1,5 +1,4 @@
-# 10.7. False Friends Register
-
+# False Friends Register
 :::info
 
 A false friend (_lažny prijatelj_) is a word that looks or sounds similar to a word in another Slavic language but differs substantially in meaning. Because Interslavic draws its vocabulary from the common Slavic stock, a learner who already knows one or more Slavic languages may occasionally misread an Interslavic word through the lens of their own language. This register documents the most consequential such pairs.

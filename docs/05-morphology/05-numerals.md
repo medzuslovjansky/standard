@@ -1,5 +1,4 @@
-# 5.6. Numerals
-
+# Numerals
 :::caution[Unverified Content]
 The RFC 2119 normative framing (MUST, SHALL, SHOULD, MAY) is not present in the source material. The source uses informal language throughout. The RECOMMENDED and MUST claims in this introduction go beyond what the source states; the source simply says "it deserves recommendation to write digits instead of number words."
 :::
@@ -10,36 +9,33 @@ Because numeral forms differ considerably across the individual Slavic languages
 
 ---
 
-## 5.6.1. Cardinal Numerals
-
+## Cardinal Numerals
 :::caution[Unverified Content]
 The structural classification into "simple," "compound," and "composite" numerals, and the further division by meaning into "definite cardinals," "fractional numerals," "collective numerals," and "indefinite cardinals," is not found in the source material.
 :::
 
-Cardinal numerals in Interslavic are divided by structure into simple (:isv[osm] "eight", :isv[sto] "hundred"), compound (:isv[petdeset] "fifty", :isv[devetdeset] "ninety"), and composite (:isv[devet sot trideset sedm] "nine hundred thirty-seven"). By meaning they are further divided into definite cardinals (treated in §5.6.1.1–5.6.1.4), fractional numerals (§5.6.2.4), collective numerals (§5.6.4), and indefinite cardinals (§5.6.1.5).
+Cardinal numerals in Interslavic are divided by structure into simple (:isv[osm] "eight", :isv[sto] "hundred"), compound (:isv[petdeset] "fifty", :isv[devetdeset] "ninety"), and composite (:isv[devet sot trideset sedm] "nine hundred thirty-seven"). By meaning they are further divided into definite cardinals (treated in the relevant section), fractional numerals , collective numerals , and indefinite cardinals .
 
-### 5.6.1.1. Forms 1–10
-
+### Forms 1–10
 The basic cardinal forms for zero through ten are:
 
 | Digit | Latin | Notes |
 |-------|-------|-------|
 | 0 | :isv[nula] | feminine noun, declines like :isv[žena] |
-| 1 | :isv[jedin / jedna / jedno] | agrees with noun in gender, number, case; see §5.6.3.1 |
-| 2 | :isv[dva] (m./n.) / :isv[dvě] (f.) | see §5.6.3.2 |
-| 3 | :isv[tri] | see §5.6.3.2 |
-| 4 | :isv[četyri] | see §5.6.3.2 |
-| 5 | :isv[pet] | see §5.6.3.3 |
-| 6 | :isv[šest] | see §5.6.3.3 |
-| 7 | :isv[sedm] | see §5.6.3.3 |
-| 8 | :isv[osm] | see §5.6.3.3 |
-| 9 | :isv[devet] | see §5.6.3.3 |
-| 10 | :isv[deset] | see §5.6.3.3 |
+| 1 | :isv[jedin / jedna / jedno] | agrees with noun in gender, number, case; see the relevant section |
+| 2 | :isv[dva] (m./n.) / :isv[dvě] (f.) | see the relevant section |
+| 3 | :isv[tri] | see the relevant section |
+| 4 | :isv[četyri] | see the relevant section |
+| 5 | :isv[pet] | see the relevant section |
+| 6 | :isv[šest] | see the relevant section |
+| 7 | :isv[sedm] | see the relevant section |
+| 8 | :isv[osm] | see the relevant section |
+| 9 | :isv[devet] | see the relevant section |
+| 10 | :isv[deset] | see the relevant section |
 
 The neuter form of "2" is :isv[dva] in Russian, Belarusian, Ukrainian, Polish, Kashubian, and Serbo-Croatian; it is :isv[dvě] in Old Church Slavonic, Czech, Slovak, Upper and Lower Sorbian, Slovene, Macedonian, Bulgarian, and Rusyn. Both options are equally valid in Interslavic.
 
-### 5.6.1.2. Forms 11–19
-
+### Forms 11–19
 The teens are formed by suffixing :isv[-nadset] (pronounced :isv[-nacet]) to the units 1–9:
 
 | Digit | Latin |
@@ -54,8 +50,7 @@ The teens are formed by suffixing :isv[-nadset] (pronounced :isv[-nacet]) to the
 | 18 | :isv[osmnadset] |
 | 19 | :isv[devetnadset] |
 
-### 5.6.1.3. Tens: 20–90
-
+### Tens: 20–90
 The tens are formed by suffixing :isv[-deset] to the units 2–9:
 
 | Digit | Latin |
@@ -77,15 +72,14 @@ The following claim about reversed order in Czech, Slovak, and Slovene under Ger
 
 The reversed order (units before tens), which exists in Czech, Slovak, and Slovene under German influence, MAY be used as a stylistic variant but is NOT RECOMMENDED in standard Interslavic.
 
-### 5.6.1.4. Hundreds and thousands
-
+### Hundreds and thousands
 :::caution[Unverified Content]
 The source material presents fused forms (e.g., :isv[dvasto], :isv[tristo]) as the primary method for hundreds, with inflected forms (:isv[dvěstě], :isv[trista], :isv[petsot]) as the alternative. The doc reverses this order, presenting inflected forms as primary. Additionally, the source's fused forms differ from those in the doc (e.g., source has :isv[dvasto], doc has :isv[dvěsto]).
 :::
 
 **Hundreds (100–900):**
 
-The primary method for hundreds is to inflect the word :isv[sto] "hundred" as a neuter noun (paradigm in §5.6.3.4):
+The primary method for hundreds is to inflect the word :isv[sto] "hundred" as a neuter noun (paradigm in the relevant section):
 
 | Digit | Latin | Structure |
 |-------|-------|-----------|
@@ -112,7 +106,7 @@ An alternative method — fusing the numeral and :isv[sto] into a single uninfle
 | 800 | :isv[osmsto] |
 | 900 | :isv[devetsto] |
 
-When the two-part forms (e.g., :isv[dvě stě], :isv[tri sta], :isv[pet sot]) are used, both components are declined (see §5.6.3.4). Fused forms are not declined and are treated as indeclinable nouns.
+When the two-part forms (e.g., :isv[dvě stě], :isv[tri sta], :isv[pet sot]) are used, both components are declined (see the relevant section). Fused forms are not declined and are treated as indeclinable nouns.
 
 :::caution[Unverified Content]
 The counting nouns :isv[sotnja] and :isv[sotka] are not mentioned in the source material.
@@ -126,7 +120,7 @@ Counting by hundreds may also be expressed with the counting nouns :isv[sotnja] 
 The source mentions :isv[tyseč] as masculine or feminine (gen. :isv[tyseča] or :isv[tyseči]) but does not describe a separate second-declension feminine paradigm :isv[tyseča] (like :isv[žena]), nor does it mention :isv[hiljada] as an alternative form.
 :::
 
-The word for "thousand" is :isv[tyseč]. It may be treated as a masculine noun of the first declension or as a feminine noun of the third declension (genitive :isv[tyseči]). The feminine form :isv[tyseča], declined as a second-declension feminine noun (like :isv[žena]), is also accepted and reflects East Slavic and Serbo-Croatian usage. The alternative South Slavic form :isv[hiljada] is likewise acceptable. All paradigms for :isv[tyseč] are given in §5.6.3.4.
+The word for "thousand" is :isv[tyseč]. It may be treated as a masculine noun of the first declension or as a feminine noun of the third declension (genitive :isv[tyseči]). The feminine form :isv[tyseča], declined as a second-declension feminine noun (like :isv[žena]), is also accepted and reflects East Slavic and Serbo-Croatian usage. The alternative South Slavic form :isv[hiljada] is likewise acceptable. All paradigms for :isv[tyseč] are given in the relevant section
 
 | Qty. | Latin |
 |------|-------|
@@ -162,14 +156,12 @@ The number scale names are:
 | :isv[trilion] | 10¹² | 10¹⁸ |
 | :isv[kvadrilion] | 10¹⁵ | 10²⁴ |
 
-### 5.6.1.5. Composite numbers and word order
-
+### Composite numbers and word order
 Composite numbers are always formed from high to low: thousands — hundreds — tens — units. The word :isv[i] "and" MAY be inserted between tens and units: :isv[tri-tyseč četyristo petdeset (i) šest] "3 456".
 
-For agreement of composite numbers with their dependent nouns, the rightmost component governs the agreement (see §5.6.2).
+For agreement of composite numbers with their dependent nouns, the rightmost component governs the agreement (see the relevant section).
 
-### 5.6.1.6. Indefinite cardinal numerals
-
+### Indefinite cardinal numerals
 Apart from the definite cardinals, Interslavic has a category of indefinite cardinal numerals:
 
 | Latin | Meaning |
@@ -193,15 +185,13 @@ The words :isv[malo] and :isv[pol] "half" are not declined. All other indefinite
 ---
 
 :::caution[Unverified Content]
-This entire section (5.6.2) significantly expands on the source material. The source provides only a brief recommendation: "nominative singular after 1, nominative plural after 2-4, genitive plural after 5 and more." The detailed agreement paradigm tables, Pattern A/B distinctions, and composite number agreement examples with full case declensions are not found in the source.
+This entire section () significantly expands on the source material. The source provides only a brief recommendation: "nominative singular after 1, nominative plural after 2-4, genitive plural after 5 and more." The detailed agreement paradigm tables, Pattern A/B distinctions, and composite number agreement examples with full case declensions are not found in the source.
 :::
 
-## 5.6.2. Numeral–Noun Agreement
-
+## Numeral–Noun Agreement
 The case and number form of a noun following a cardinal numeral depends on the value of the numeral. Agreement patterns differ sharply between the numerals 1–4 and all higher numerals.
 
-### 5.6.2.1. 1: full agreement with noun
-
+### 1: full agreement with noun
 The numeral :isv[jedin] "one" agrees with its noun in gender, number, and case, exactly as an adjective does. Examples:
 
 - :isv[jedin dobry prijatelj] "one good friend" (masc. sg.)
@@ -211,8 +201,7 @@ The numeral :isv[jedin] "one" agrees with its noun in gender, number, and case, 
 
 The numeral :isv[jedin] is not restricted to its purely numerical sense; it is also used in the meanings "a certain", "lone", "individual", "single", making it even more adjective-like in behaviour.
 
-### 5.6.2.2. 2–4: nominative plural of noun
-
+### 2–4: nominative plural of noun
 The numerals :isv[dva], :isv[tri], :isv[četyri], :isv[oba], and :isv[obydva] govern the **nominative plural** of the following noun (and its modifying adjective) in the nominative and accusative cases. In oblique cases, these numerals agree with the noun in case. Examples:
 
 - :isv[dva věrni drugi] "two faithful friends" (nom.)
@@ -230,8 +219,7 @@ The source mentions that "some languages, notably Serbo-Croat and Russian, prefe
 
 The Russian and Serbo-Croatian pattern of using the genitive singular after 2–4 (cf. Russ. *dva vernogo druga*) MAY be used as a variant but is NOT RECOMMENDED in standard Interslavic.
 
-### 5.6.2.3. 5 and above: genitive plural of noun
-
+### 5 and above: genitive plural of noun
 The numerals :isv[pet] and all higher numerals govern the **genitive plural** of the following noun and its modifiers in the nominative and accusative. In oblique cases, the numeral itself is declined and the dependent noun stands in the plural of the appropriate case. Two patterns exist:
 
 **Pattern A (numerals 5–99 and compound numbers whose rightmost element is 5–99):** In the nominative/accusative, the numeral governs genitive plural; in oblique cases, the numeral is in the singular (as a noun-like form) and the dependent noun is in the corresponding plural case.
@@ -267,13 +255,11 @@ The numerals :isv[pet] and all higher numerals govern the **genitive plural** of
 ---
 
 :::caution[Unverified Content]
-This entire section (5.6.3) provides extensive declension paradigm tables that go far beyond the source material. The source gives only brief declension guidance: :isv[jedin] is declined "like an adjective," numerals 5+ are "inflected like nouns of the pattern :isv[kost]," and the remaining numbers "are declined as nouns." The full paradigm tables, dual-based declension options, compound hundreds declension, and three separate :isv[tyseč] paradigms are elaborations not found in the source.
+This entire section () provides extensive declension paradigm tables that go far beyond the source material. The source gives only brief declension guidance: :isv[jedin] is declined "like an adjective," numerals 5+ are "inflected like nouns of the pattern :isv[kost]," and the remaining numbers "are declined as nouns." The full paradigm tables, dual-based declension options, compound hundreds declension, and three separate :isv[tyseč] paradigms are elaborations not found in the source.
 :::
 
-## 5.6.3. Declension of Numerals
-
-### 5.6.3.1. Declension of :isv[jedin] (1)
-
+## Declension of Numerals
+### Declension of :isv[jedin] (1)
 The numeral :isv[jedin] is declined like a hard adjective (:isv[dobry]-type) for all forms except the masculine nominative singular animate, which ends in :isv[-in] rather than :isv[-y]. It has both singular and plural paradigms (plural for pluralia tantum nouns and distributive uses).
 
 | Case | Masc. sg. anim. | Masc. sg. inan. | Neut. sg. | Fem. sg. | Pl. (all genders) |
@@ -285,8 +271,7 @@ The numeral :isv[jedin] is declined like a hard adjective (:isv[dobry]-type) for
 | Ins. | :isv[jednym] | :isv[jednym] | :isv[jednym] | :isv[jednoju] | :isv[jednymi] |
 | Loc. | :isv[(o) jednom] | :isv[(o) jednom] | :isv[(o) jednom] | :isv[(o) jednoj] | :isv[(o) jednyh] |
 
-### 5.6.3.2. Declension of :isv[dva] (2), :isv[oba], :isv[obydva]
-
+### Declension of :isv[dva] (2), :isv[oba], :isv[obydva]
 These three numerals are declined together because they share the same paradigm. Only :isv[dva] and :isv[obydva] have a gender distinction in the nominative/accusative (masculine/neuter vs. feminine). The endings preserve remnants of the ancient dual number.
 
 **Standard plural-based declension (preferred):**
@@ -302,19 +287,21 @@ These three numerals are declined together because they share the same paradigm.
 
 **Dual-based declension (optional):**
 
-Interslavic permits the use of dual forms for :isv[dva], :isv[oba], and :isv[obydva]. In this paradigm, the neuter nominative/accusative coincides with the feminine form (i.e., only :isv[dvě], :isv[obě], :isv[obydvě] are used for neuter, not :isv[dva], :isv[oba], :isv[obydva]).
+Interslavic permits the use of dual forms for :isv[dva], :isv[oba], and :isv[obydva]. In this paradigm, the neuter nominative/accusative coincides with the feminine form (i.e., only :isv[dvě], :isv[obě], :isv[obydvě] are used for neuter, not :isv[dva], :isv[oba], :isv[obydva]). The dual-based declension of :isv[dva] documented by Lombino (2021) distinguishes gender in the dative/instrumental as well:
 
-| Case | :isv[dva] m./n. | :isv[dva] f. (:isv[dvě]) |
-|------|-------------|-----------------|
-| Nom./Acc. | :isv[dva] (m.) / :isv[dvě] (f./n.) | — |
-| Acc. anim. | :isv[dvoju] | — |
-| Gen./Loc. | :isv[dvoju] | :isv[dvoju] |
-| Dat./Ins. | :isv[dvěma] | :isv[dvěma] |
+| Case | Masculine | Feminine/Neuter | All genders |
+|------|-----------|-----------------|-------------|
+| Nom. | :isv[dva] | :isv[dvě] | — |
+| Acc. inan. | = Nom. | = Nom. | — |
+| Acc. anim. | :isv[dvu] | — | — |
+| Gen./Loc. | — | — | :isv[dvu] |
+| Dat./Instr. | :isv[dvoma] | :isv[dvěma] | — |
+
+This paradigm directly mirrors the dual case-merging pattern found in nouns: nominative = accusative (with animate exception), genitive = locative, dative = instrumental. See the nouns chapter for the full optional dual number paradigm.
 
 The endings of these numerals resemble adjectival plural endings, which is natural given that they originally were adjectival in function.
 
-### 5.6.3.3. Declension of :isv[tri] (3) and :isv[četyri] (4)
-
+### Declension of :isv[tri] (3) and :isv[četyri] (4)
 The numerals :isv[tri] and :isv[četyri] do not distinguish gender. They are declined similarly to the plural of adjectives.
 
 | Case | :isv[tri] | :isv[četyri] |
@@ -326,8 +313,7 @@ The numerals :isv[tri] and :isv[četyri] do not distinguish gender. They are dec
 | Ins. | :isv[trěmi] | :isv[četyrěmi] |
 | Loc. | :isv[(o) trěh] | :isv[(o) četyrěh] |
 
-### 5.6.3.4. Declension of numerals 5–99
-
+### Declension of numerals 5–99
 The numerals from :isv[pet] upwards are inflected as nouns of the :isv[kost]-type (third-declension feminine). Only one number (nominative = accusative) is used throughout; the form for all oblique cases other than instrumental is identical with the genitive.
 
 **Paradigm for selected numerals:**
@@ -348,8 +334,7 @@ For compound tens (50–90), only the second element (:isv[-deset]) changes in d
 
 For the teens (11–19), the entire compound word is declined as a :isv[kost]-type noun: :isv[jedinnadset], gen. :isv[jedinnadseti].
 
-### 5.6.3.5. Declension of :isv[sto] (100)
-
+### Declension of :isv[sto] (100)
 The numeral :isv[sto] declines as a neuter noun (like :isv[slovo]) with singular, plural, and dual forms. The dual is used in the numeral :isv[dvě stě] "200"; the plural nominative :isv[sta] is used for 300–400; the genitive plural :isv[sot] is used for 500–900.
 
 | Case | Singular | Plural | Dual |
@@ -370,8 +355,7 @@ In compound hundreds (:isv[dvě stě], :isv[tri sta], :isv[pet sot], etc.) both 
 | Ins. | :isv[dvoma stami] | :isv[trěmi stami] | :isv[petju stami] |
 | Loc. | :isv[(o) dvoh stah] | :isv[(o) trěh stah] | :isv[(o) peti stah] |
 
-### 5.6.3.6. Declension of :isv[tyseč] (1 000), :isv[milion], :isv[miliard]
-
+### Declension of :isv[tyseč] (1 000), :isv[milion], :isv[miliard]
 **Tyseč:**
 
 The word :isv[tyseč] MAY be declined as a masculine noun (type :isv[dom]), as a third-declension feminine noun (type :isv[kost]), or as :isv[tyseča] — a second-declension feminine noun (type :isv[žena]). All three paradigms are accepted.
@@ -402,14 +386,12 @@ Both are masculine nouns declined like :isv[dom]:
 
 ---
 
-## 5.6.4. Ordinal Numerals
-
+## Ordinal Numerals
 Ordinal numerals indicate the position of an item in a sequence. Grammatically they are adjectives and MUST agree with the noun they modify in gender, number, and case.
 
-All ordinals except :isv[trětji] are declined as hard adjectives (:isv[dobry]-type; see §5.3.2.1). The ordinal :isv[trětji] follows the soft adjectival declension (:isv[svěži]-type; see §5.3.2.2).
+All ordinals except :isv[trětji] are declined as hard adjectives (:isv[dobry]-type; see the relevant section). The ordinal :isv[trětji] follows the soft adjectival declension (:isv[svěži]-type; see the relevant section).
 
-### 5.6.4.1. Irregular ordinals 1st–4th
-
+### Irregular ordinals 1st–4th
 | Cardinal | Latin ordinal |
 |----------|---------------|
 | 1 | :isv[prvy] |
@@ -417,8 +399,7 @@ All ordinals except :isv[trětji] are declined as hard adjectives (:isv[dobry]-t
 | 3 | :isv[trětji] |
 | 4 | :isv[četvrty] |
 
-### 5.6.4.2. Regular ordinals 5th and above
-
+### Regular ordinals 5th and above
 Ordinals from 5th upward are formed by adding the hard adjectival ending :isv[-y] (with appropriate gender/number/case inflection) directly to the cardinal form:
 
 | Cardinal | Ordinal (Latin) |
@@ -450,8 +431,7 @@ The forms :isv[milionny] and :isv[miliardny] are not mentioned in the source mat
 For millions: :isv[milionny] "millionth".
 For milliards: :isv[miliardny] "milliardth".
 
-### 5.6.4.3. Composite ordinals
-
+### Composite ordinals
 In a composite ordinal numeral, **only the last element** is declined as an ordinal; all preceding elements remain as cardinals in their nominative form:
 
 :isv[v tyseč devetsot osmdeset četvrtom godu] "in the year 1984".
@@ -468,8 +448,7 @@ The convention of indicating ordinals with a digit followed by a period, and the
 
 When written with digits, ordinals are indicated by a digit followed by a period (even when not at the end of a sentence): :isv[Aleksandr ima den rodenija 1. januara] "Aleksandr's birthday is January 1st."
 
-### 5.6.4.4. Declension of ordinal numerals
-
+### Declension of ordinal numerals
 :::caution[Unverified Content]
 This entire subsection with the full declension table of :isv[sto dvadeset pety] across all genders, numbers, and cases is not found in the source material. The source only states that ordinals "are inflected like adjectives."
 :::
@@ -489,8 +468,7 @@ Ordinals are fully declined as adjectives. In composite ordinals, only the final
 
 ---
 
-## 5.6.5. Collective Numerals
-
+## Collective Numerals
 Collective numerals refer to members of a closed group and can be translated as "a group of" or "-some". They are:
 
 | Latin | Meaning |
@@ -526,10 +504,8 @@ The noun following a collective numeral is always in the **genitive plural**. If
 
 ---
 
-## 5.6.6. Further Numeral-Based Word Classes
-
-### 5.6.6.1. Multiplicative adjectives
-
+## Further Numeral-Based Word Classes
+### Multiplicative adjectives
 The stems of collective numerals serve as the base for multiplicative (aggregative) adjectives meaning "X-fold":
 
 | Latin | Meaning |
@@ -543,8 +519,7 @@ The stems of collective numerals serve as the base for multiplicative (aggregati
 
 With the prefix :isv[po-], these adjectives become verbs meaning "to multiply by X": :isv[podvojiti] "to double", :isv[potrojiti] "to triple", :isv[početveriti] "to multiply by four". The prefix :isv[raz-] produces the converse: :isv[razdvojiti] "to split in two", :isv[raztrojiti] "to split into three".
 
-### 5.6.6.2. Multiplicative adverbs
-
+### Multiplicative adverbs
 Multiplicative adverbs are formed by adding :isv[-kratno] to the cardinal stem:
 
 | Latin | Meaning |
@@ -561,8 +536,7 @@ Multiplicative adverbs are formed by adding :isv[-kratno] to the cardinal stem:
 The source uses the form :isv[několikokratno] for "a few times", not :isv[nekolicokratno] as written here.
 :::
 
-### 5.6.6.3. Differential (generic) numerals
-
+### Differential (generic) numerals
 Differential numerals indicate qualitative differentiation — "of different types" or "of how many kinds". The older form uses the collective stem directly: :isv[dvoj], :isv[troj] (declined like the possessive pronoun :isv[moj]).
 
 The more common form uses the suffix :isv[-aky]:
@@ -577,8 +551,7 @@ The more common form uses the suffix :isv[-aky]:
 
 When adverbialised, the meaning becomes "in X ways": :isv[trojako] "in three ways".
 
-### 5.6.6.4. Fractions
-
+### Fractions
 For the word "half", Interslavic uses :isv[pol] (indeclinable) or its full noun form :isv[polovina] / :isv[polovica] (declined as a feminine noun). :isv[Pol] MAY also be used as a prefix: :isv[pol-mrtvy] "half-dead".
 
 All other fractions are formed by replacing the ordinal ending :isv[-y] with :isv[-ina]:
@@ -604,8 +577,7 @@ These fraction nouns are feminine and are declined as second-declension nouns. T
 
 Ordinal-based fractions (e.g., :isv[dvě trětje] "two thirds") are also used, reflecting the pattern common across most Slavic languages.
 
-### 5.6.6.5. Substantivised numerals
-
+### Substantivised numerals
 When a numeral is used as a noun (referring to a digit, a bus line, a school grade, a playing card, a banknote, etc.), the following forms apply:
 
 For 2–4, the collective numeral stem plus :isv[-ka] is used: :isv[dvojka] "a two", :isv[trojka] "a three", :isv[četverka] "a four".
@@ -618,8 +590,7 @@ The claim that "not all forms in :isv[-ica] are equally established" and that "f
 
 Alternatively, the suffix :isv[-ica] MAY be used: :isv[jedinica], :isv[petica], :isv[šestica], :isv[sedmica], etc. Not all forms in :isv[-ica] are equally established; forms in :isv[-ka] are preferred.
 
-### 5.6.6.6. Numeral terms for multiple births
-
+### Numeral terms for multiple births
 Interslavic accommodates several suffixal patterns for denoting one of a set of twins, triplets, etc., reflecting variation across the Slavic languages:
 
 | Suffix | Example | Meaning | Language models |

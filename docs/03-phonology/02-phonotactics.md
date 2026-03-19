@@ -1,19 +1,16 @@
-# 3.2. Phonotactics
-
+# Phonotactics
 Interslavic orthography is based on etymology rather than pronunciation, so consonant clusters arise that may appear unpronounceable to speakers of non-Slavic languages — for example, :isv[vozvršenje].
 The language does not impose phonotactic constraints on consonant clusters beyond what is inherited from the attested Slavic lexicon.
 Constraints do exist, however, in the co-occurrence of certain vowels and consonants.
 
 ---
 
-## 3.2.1. Syllable Structure
-
+## Syllable Structure
 :::caution[Unverified Content]
 The source material does not discuss syllable structure, syllable templates, or maximal syllable forms. The source states only that "every syllable contains one of the following vowels" and lists them. The formal syllable-template analysis in this subsection appears to be editorial elaboration.
 :::
 
-### 3.2.1.1. Syllable Template
-
+### Syllable Template
 The maximal syllable template in Interslavic is:
 
 **(C)(C)(C) V (C)(C)(C)**
@@ -33,8 +30,7 @@ The source material does not discuss pronunciation advice for difficult clusters
 Because Interslavic orthography is etymological, the written form may produce onset and coda clusters that exceed the phonotactic norms of any individual Slavic language.
 Such clusters SHOULD be pronounced as they are in the speaker's native Slavic language, with epenthesis or cluster reduction permitted as natural adaptations.
 
-### 3.2.1.2. Onset Constraints
-
+### Onset Constraints
 :::caution[Unverified Content]
 The source material does not discuss onset constraints, a "positive-attestation criterion," or epenthetic vowel insertion. The source states only that orthography is etymological and clusters may appear unpronounceable. This subsection is editorial elaboration.
 :::
@@ -44,18 +40,16 @@ There are no additional restrictions on onset complexity beyond this positive-at
 
 Speakers whose native language does not permit a given cluster MAY insert an epenthetic vowel to aid pronunciation without this being considered an error in spoken Interslavic.
 
-### 3.2.1.3. Coda Constraints
-
+### Coda Constraints
 :::caution[Unverified Content]
 The source material does not discuss coda constraints, the "positive-attestation criterion" for codas, or obstruent voicing assimilation rules. This subsection is editorial elaboration.
 :::
 
 Coda clusters are likewise governed by the positive-attestation criterion: any coda sequence attested in at least one Slavic language is permitted.
 
-Obstruent voicing assimilation applies across syllable and morpheme boundaries (see §3.3, Morphophonemic Alternations): a voiced obstruent in coda position assimilates to the voicing of a following obstruent, and word-finally obstruents MAY devoice in accordance with the speaker's native-language phonology.
+Obstruent voicing assimilation applies across syllable and morpheme boundaries (see , Morphophonemic Alternations): a voiced obstruent in coda position assimilates to the voicing of a following obstruent, and word-finally obstruents MAY devoice in accordance with the speaker's native-language phonology.
 
-### 3.2.1.4. Sonority Hierarchy and Cluster Well-Formedness
-
+### Sonority Hierarchy and Cluster Well-Formedness
 :::caution[Unverified Content]
 The source material does not mention a sonority hierarchy, cluster well-formedness criteria, or sonority-based onset/coda preferences. This entire subsection is editorial elaboration drawing on general phonological theory.
 :::
@@ -75,8 +69,7 @@ The preferred cluster structure follows the **sonority hierarchy**:
 In the preferred (canonical) onset, sonority SHOULD rise toward the nucleus; in the preferred coda, sonority SHOULD fall away from the nucleus.
 Departures from the sonority hierarchy are well-attested in the Slavic lexicon (e.g., :isv[sv-], :isv[zv-], :isv[čr-]) and are fully permitted in Interslavic as inherited clusters.
 
-### 3.2.1.5. Positive Inventory of Permitted Onset Clusters
-
+### Positive Inventory of Permitted Onset Clusters
 :::caution[Unverified Content]
 The source material does not provide an inventory of permitted onset clusters. This table and the "illustrative, not exhaustive" framing are editorial additions. The example words appear plausible but have not been verified against the source.
 :::
@@ -119,8 +112,7 @@ This list is illustrative, not exhaustive; clusters not listed here are permitte
 The positive inventory of onset clusters should be reviewed and expanded by the committee with reference to the full Interslavic lexicon. Clusters arising in loanwords and neologisms should be explicitly addressed.
 :::
 
-### 3.2.1.6. Positive Inventory of Permitted Coda Clusters
-
+### Positive Inventory of Permitted Coda Clusters
 :::caution[Unverified Content]
 The source material does not provide an inventory of permitted coda clusters. This table is an editorial addition. While some examples (e.g., smrt, trg) appear in the source in other contexts, the systematic coda inventory is unsourced. Additionally, the gloss "hazel" for :isv[lesk] appears incorrect; in Slavic languages, "lesk" typically means "lustre/shine."
 :::
@@ -148,8 +140,7 @@ The coda cluster inventory should be reviewed and completed by the committee. Th
 
 ---
 
-## 3.2.2. Vowel-Consonant Co-occurrence Restrictions
-
+## Vowel-Consonant Co-occurrence Restrictions
 The following rules govern which vowels may follow which consonants.
 
 :::caution[Unverified Content]
@@ -158,8 +149,7 @@ The source does not reference a "Proto-Slavic law of syllabic harmony" or the pr
 
 These restrictions reflect the Proto-Slavic law of syllabic harmony — the principle that hard and soft sounds within a syllable must be congruent — and its modern reflexes in the Slavic languages.
 
-### 3.2.2.1. Distribution of :ipa[/y/]
-
+### Distribution of :ipa[/y/]
 The phoneme :ipa[/y/] (Latin :isv[y], Cyrillic `ы`) is subject to strict distributional constraints:
 
 1. :ipa[/y/] MUST NOT follow a soft consonant. The soft consonants that prohibit :ipa[/y/] are: :isv[š] :ipa[/ʃ/], :isv[ž] :ipa[/ʒ/], :isv[č] :ipa[/t͡ʃ/], :isv[dž] :ipa[/d͡ʒ/], :isv[c] :ipa[/t͡s/], :isv[lj] :ipa[/lʲ/], :isv[nj] :ipa[/nʲ/], :isv[j] :ipa[/j/] — and in the etymological register: :isv[ŕ], :isv[ť], :isv[ď], :isv[ś], :isv[ź].
@@ -178,8 +168,7 @@ Because several Slavic languages do not distinguish :ipa[/i/] from :ipa[/y/], su
 | after soft consonant (correct) | :isv[svěži] | fresh (adj., m.sg.) |
 | after soft consonant (incorrect) | ~~:isv[svěžy]~~ | — |
 
-### 3.2.2.2. Distribution of :ipa[/ě/] and :ipa[/ŕ/]
-
+### Distribution of :ipa[/ě/] and :ipa[/ŕ/]
 The phonemes :ipa[/ě/] (Latin :isv[ě], Cyrillic `ѣ`) and :ipa[/ŕ/] (Latin :isv[ŕ], Cyrillic `рь`) MUST follow a hard consonant or the affricate :isv[c] :ipa[/t͡s/] in their base (lexical) forms.
 
 In morphological contexts where a soft-consonant stem would ordinarily take :ipa[/ě/], the :ipa[/ě/] SHALL be replaced by :ipa[/i/]:
@@ -199,14 +188,13 @@ These exceptions are lexicalized and SHALL be treated as listed forms rather tha
 | After soft consonant (dative) | :isv[zemji] | earth — :ipa[/ě/] → :ipa[/i/] |
 | Apparent exception | :isv[jěsti] | to eat — lexicalized |
 
-### 3.2.2.3. Distribution of :ipa[/o/] and :ipa[/ȯ/] after Soft Consonants
-
+### Distribution of :ipa[/o/] and :ipa[/ȯ/] after Soft Consonants
 :::caution[Unverified Content]
 The source says o and ȯ "rarely follow a soft consonant," which is weaker than the SHOULD NOT normative requirement stated here.
 :::
 
 The vowels :ipa[/o/] (Latin :isv[o], Cyrillic `о`) and :ipa[/ȯ/] (Latin :isv[ȯ], Cyrillic `ȯ`) SHOULD NOT follow a soft consonant in native Slavic vocabulary.
-This restriction reflects the Proto-Slavic o→e rule (see §3.3, Morphophonemic Alternations), by which :ipa[/o/] was historically replaced by :ipa[/e/] after a soft consonant in grammatical endings and suffixes.
+This restriction reflects the Proto-Slavic o→e rule (see , Morphophonemic Alternations), by which :ipa[/o/] was historically replaced by :ipa[/e/] after a soft consonant in grammatical endings and suffixes.
 
 Exceptions are permitted in:
 - International loanwords: :isv[majonez] (mayonnaise), :isv[čokolada] (chocolate).
@@ -221,14 +209,13 @@ In native Slavic morphology, endings containing :ipa[/o/] become :ipa[/e/] after
 | :isv[-ogo] (gen.sg. adj.) | :isv[kogo] | :isv[čego] |
 | :isv[-oj] (dat.sg. adj.) | :isv[dobr-oj] | :isv[svěž-ej] |
 
-### 3.2.2.4. Distribution of :ipa[/å/]
-
+### Distribution of :ipa[/å/]
 The optional vowel :ipa[/å/] (Latin :isv[å], Cyrillic `а̊`) is subject to two positional constraints:
 
 1. :ipa[/å/] MUST be preceded by a liquid consonant — either :isv[r] :ipa[/r/] or :isv[l] :ipa[/l/].
 2. :ipa[/å/] MUST be followed by a consonant; it does not appear in word-final position or before a vowel.
 
-Additionally, :ipa[/å/] MUST NOT appear word-initially or after a vowel (see §3.2.2.5).
+Additionally, :ipa[/å/] MUST NOT appear word-initially or after a vowel (see the relevant section).
 
 :::caution[Unverified Content]
 The etymological explanation referring to Proto-Slavic *ā development is not present in the source material. The source confirms the distributional constraint but does not provide this historical derivation.
@@ -243,8 +230,7 @@ In flavourised Interslavic, :ipa[/å/] is written and pronounced as :isv[o].
 | :isv[dlåg] | :ipa[/dlɑg/] | debt |
 | :isv[glåva] | :ipa[/glɑva/] | head (etym.) |
 
-### 3.2.2.5. Word-Initial Restrictions on Optional Vowels
-
+### Word-Initial Restrictions on Optional Vowels
 The following vowels and syllabic consonants MUST NOT appear word-initially or immediately after another vowel:
 
 :isv[å], :isv[ę], :isv[ė], :isv[ě], :isv[ȯ], :isv[ų], :isv[y], syllabic :isv[r], syllabic :isv[ŕ]
@@ -269,8 +255,7 @@ These phonemes are historically conditioned: they developed from Proto-Slavic ph
 
 ---
 
-## 3.2.3. Geminate Consonants
-
+## Geminate Consonants
 :::caution[Unverified Content]
 The source confirms that geminates arise only from prefixing, suffixing, or rare loanwords, but does not prescribe how geminates should be pronounced. The SHALL requirement to pronounce them as "single (lengthened or unreleased) consonants" and the characterization as "surface phenomenon" vs "underlying phonological representations" are editorial additions.
 :::

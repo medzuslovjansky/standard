@@ -1,16 +1,14 @@
-# 7.1. Tense, Aspect, and Mood
-
+# Tense, Aspect, and Mood
 This section specifies the semantic interpretation of tense and aspect combinations, the interaction of aspect with negation and phase verbs, the system of modal expressions, and the treatment of evidentiality in Interslavic.
 
 ---
 
-## 7.1.1. Tense–Aspect Interaction Matrix
-
+## Tense–Aspect Interaction Matrix
 :::caution[Unverified Content]
 The source material describes an "anterior future" nowhere. The source mentions present, past (compound), future, plus optional aorist/imperfect (merged) and pluperfect, but no anterior future tense.
 :::
 
-Interslavic has two tense systems. The **standard system** (used in the vast majority of contexts) uses three tenses: present, past, and future. The **extended system** adds an aorist/imperfect distinction, a pluperfect, and an anterior future; these are optional and literary in character (see §5.7 for morphological forms).
+Interslavic has two tense systems. The **standard system** (used in the vast majority of contexts) uses three tenses: present, past, and future. The **extended system** adds an aorist/imperfect distinction, a pluperfect, and an anterior future; these are optional and literary in character (see  for morphological forms).
 
 Within either system, every finite verb bears one of two **aspects**:
 
@@ -19,8 +17,7 @@ Within either system, every finite verb bears one of two **aspects**:
 
 The interaction of tense and aspect produces the interpretations listed in the matrix below.
 
-### 7.1.1.1. Standard System: Tense × Aspect Matrix
-
+### Standard System: Tense × Aspect Matrix
 | Tense | Imperfective aspect | Perfective aspect |
 |---|---|---|
 | **Present** | Ongoing action; habitual or repeated action; generic statement. :isv[Ja pišu pismo.] "I am writing a letter." / "I write letters (habitually)." | **Not used** for present reference. A present-tense form of a pf. verb is future in meaning (see Future row below). |
@@ -31,32 +28,41 @@ The interaction of tense and aspect produces the interpretations listed in the m
 The source says the perfective present for future "is rather to be avoided, as it can easily be misunderstood by South Slavs," but does not specify that they would "misread it as a present tense." The claim that the analytic future is "the recommended standard form" is editorial interpretation not stated in the source.
 :::
 
-**Note on perfective present forms:** Writers SHOULD NOT use the present-tense form of a perfective verb with present meaning. In Interslavic, using the perfective present for future reference (:isv[Ja napišu pismo]) is permitted as a variant but SHOULD be avoided in formal writing, because South Slavic speakers may misread it as a present tense. The analytic future with :isv[budu] is the recommended standard form (see §5.7.4).
+**Note on perfective present forms:** Writers SHOULD NOT use the present-tense form of a perfective verb with present meaning. In Interslavic, using the perfective present for future reference (:isv[Ja napišu pismo]) is permitted as a variant but SHOULD be avoided in formal writing, because South Slavic speakers may misread it as a present tense. The analytic future with :isv[budu] is the recommended standard form (see the relevant section).
 
-### 7.1.1.2. Extended System: Additional Tenses
-
+### Extended System: Additional Tenses
 The extended system provides finer temporal distinctions, primarily useful in literary or narrative prose.
 
 :::caution[Unverified Content]
-The source explicitly states that "In modern Interslavic, we simplify this system somewhat by merging the imperfect with the aorist." A separate imperfect tense (row 3 below) distinct from the aorist is not supported by the source, and the example form `pišěh` is not attested. The anterior future (row 5 below) is not mentioned anywhere in the source material and cannot be verified.
+The source explicitly states that "In modern Interslavic, we simplify this system somewhat by merging the imperfect with the aorist." A separate imperfect tense (row 3 below) distinct from the aorist is not supported by the primary source. The anterior future (row 5 below) is not mentioned anywhere in the source material and cannot be verified. However, Roberto Lombino's proposal (2022) provides detailed morphological rules for distinguishing the aorist from the imperfect; see the morphology chapter for formation details.
 :::
 
 | Form | Name | Interpretation | Example |
 |---|---|---|---|
 | Present of :isv[byti] + L-participle | **Perfect** | Past action with present relevance; action just completed; result visible now. | :isv[Ja jesm pisal.] |
-| Simple past (aorist/imperfect endings) | **Aorist / Simple past** | Action fully completed in the past, no present connection. | :isv[Ja pisah.] |
-| Imperfect tense | **Imperfect** | Extended or repeated past action (background narration). | :isv[Ja pišěh.] |
+| Aorist endings on infinitive stem | **Aorist** | Action fully completed in the past, no present connection. Typically used with perfective verbs. The 2sg./3sg. have zero endings. | :isv[Ja sdělah.] :isv[On sděla.] |
+| Imperfect endings on present stem | **Imperfect** | Extended, ongoing, or repeated past action (background narration). Typically used with imperfective verbs. Formed from the 3sg. present with `-jah`/`-ěh` endings. | :isv[Ja dělajah.] :isv[Ja dělajaše.] |
 | Past of :isv[byti] + L-participle | **Pluperfect** | Action anterior to a past reference point. | :isv[Ja běh pisal.] |
 | Future of :isv[byti] + L-participle | **Anterior future** | Action completed before a future reference point. | :isv[Ja budu pisal.] |
 
 When the aorist and imperfect co-occur in a narrative, the aorist expresses the **foregrounded** event (the main narrative action) and the imperfect expresses the **background** condition against which that event occurs. This mirrors the Past Simple / Past Continuous distinction in English.
 
+The general correlation between aspect and tense is: perfective verbs take the aorist, imperfective verbs take the imperfect. However, cross-combinations are permitted: an **imperfect of a perfective verb** expresses repeated completed actions (:isv[Vsegda, kogda pogledijah...] "Every time I looked..."), while an **aorist of an imperfective verb** emphasizes that an ongoing activity came to an end (:isv[Hodih v tu školu do prošlogo leta] "I went to that school until last year [and then stopped]").
+
 Writers who use the extended system SHOULD NOT do so in communication with audiences unfamiliar with it, as the simple past endings are not widely intelligible to speakers of North Slavic languages.
+
+:::warning[Unresolved: Status of the aorist/imperfect distinction]
+The primary grammar (Jan van Steenbergen) merges the aorist and imperfect into a single "simple past" tense. Roberto Lombino's proposal (2022) argues that this merger is unnatural for speakers of Bulgarian, Macedonian, and Serbian/Croatian, and provides three strategies for forming a morphologically distinct imperfect. The key semantic question is whether the extended tense system should formally recognize two separate past synthetic tenses (aorist and imperfect) or treat the "simple past" as a single undifferentiated category.
+
+If the distinction is adopted, additional decisions are needed:
+- Which imperfect formation strategy (from 3sg. present with `-jah`, with `-ěh`, or from passive participle stem) should be recommended as primary?
+- How should the compound past (L-participle) interact semantically with the aorist and imperfect? The compound past with auxiliary omission (:isv[on pisal]) can be ambiguous with the simple past in function.
+- Should the imperfect of perfective verbs and the aorist of imperfective verbs be documented as standard or marked as advanced usage?
+:::
 
 ---
 
-## 7.1.2. Aspect with Negation
-
+## Aspect with Negation
 :::caution[Unverified Content]
 This entire section on aspect-negation interaction, including the genitive of negation rule, has no basis in the source material, which does not discuss negation semantics.
 :::
@@ -71,12 +77,11 @@ Aspect interacts with negation in predictable ways:
 
 Under negation, **imperfective is often preferred** when the statement expresses a general fact, denial of habit, or absence of activity. Perfective is used when the negation specifically denies the completion of a bounded act.
 
-The **genitive of negation** (see §6.1.5.2) applies to direct objects of negated verbs; this is a syntactic reflex of the semantic scope of negation over the object's referential status.
+The **genitive of negation** (see the relevant section) applies to direct objects of negated verbs; this is a syntactic reflex of the semantic scope of negation over the object's referential status.
 
 ---
 
-## 7.1.3. Aspect with Phase Verbs
-
+## Aspect with Phase Verbs
 :::caution[Unverified Content]
 This entire section on phase verbs and the MUST requirement for imperfective complements has no basis in the source material, which does not discuss phase verbs or their complement requirements.
 :::
@@ -103,16 +108,14 @@ Confirm the complete list of phase verbs that require imperfective complements. 
 
 ---
 
-## 7.1.4. Modality
-
+## Modality
 :::caution[Unverified Content]
-This entire modality section (7.1.4, including all subsections on epistemic, deontic, and dynamic modality) is not covered by the source material, which does not discuss modal predicates, epistemic adverbs, or deontic expressions. Only the conditional mood forms (§7.1.4.4) have partial support in the source.
+This entire modality section (, including all subsections on epistemic, deontic, and dynamic modality) is not covered by the source material, which does not discuss modal predicates, epistemic adverbs, or deontic expressions. Only the conditional mood forms  have partial support in the source.
 :::
 
 Interslavic expresses modal meanings — possibility, necessity, obligation, permission, ability — primarily through **modal predicates** (lexical items functioning as impersonal predicates or agreeing adjectives/verbs) and through the **conditional mood**. There is no morphological category of "modal auxiliary" as a separate grammatical class.
 
-### 7.1.4.1. Epistemic Modality
-
+### Epistemic Modality
 Epistemic modality concerns the speaker's degree of confidence in the truth of a proposition.
 
 | Expression | Meaning | Syntactic behavior | Example |
@@ -125,8 +128,7 @@ Epistemic modality concerns the speaker's degree of confidence in the truth of a
 
 Epistemic expressions are **sentence adverbs** that scope over the entire proposition. They do not agree with any noun phrase and do not alter the tense of the main clause.
 
-### 7.1.4.2. Deontic Modality
-
+### Deontic Modality
 Deontic modality concerns obligation, necessity, and permission.
 
 | Expression | Meaning | Syntactic behavior | Example |
@@ -143,8 +145,7 @@ The use of `iměti` as a modal verb meaning "to have to; to be supposed to" (las
 
 :isv[Trěba] is strictly **impersonal** and does not agree with any subject. :isv[Dolžen] is an **agreeing predicate adjective** and MUST agree with the grammatical subject in gender and number.
 
-### 7.1.4.3. Dynamic Modality
-
+### Dynamic Modality
 Dynamic modality concerns ability — whether an agent is capable of performing an action.
 
 :::caution[Unverified Content]
@@ -158,9 +159,8 @@ The source uses the infinitive form `mogti` (not `moći`), explicitly noting tha
 
 The distinction between :isv[moći] and :isv[uměti] is obligatory in formal Interslavic. Writers SHOULD NOT substitute one for the other.
 
-### 7.1.4.4. The Conditional as a Modality Marker
-
-The **conditional mood** (L-participle + conditional forms of :isv[byti]: :isv[byh, by, by, byhmo, byste, by]) expresses hypothetical, counterfactual, and polite meanings in addition to its core conditional function (see §5.7.6).
+### The Conditional as a Modality Marker
+The **conditional mood** (L-participle + conditional forms of :isv[byti]: :isv[byh, by, by, byhmo, byste, by]) expresses hypothetical, counterfactual, and polite meanings in addition to its core conditional function (see the relevant section).
 
 | Use | Form | Example |
 |---|---|---|
@@ -169,12 +169,11 @@ The **conditional mood** (L-participle + conditional forms of :isv[byti]: :isv[b
 | Wish or desire | Conditional | :isv[Ja byh hotel/a pobyti tamo.] "I would like to be there." |
 | Purpose clause complement | Conditional after :isv[že by / da by] | :isv[Ona prišla, že by my mogli govoriti.] "She came so that we could talk." |
 
-The conditional is the preferred polite register for requests. Using the imperative alone in a formal context is pragmatically marked as abrupt (see §7.3.1).
+The conditional is the preferred polite register for requests. Using the imperative alone in a formal context is pragmatically marked as abrupt (see the relevant section).
 
 ---
 
-## 7.1.5. Evidentiality
-
+## Evidentiality
 :::caution[Unverified Content]
 This entire section on evidentiality has no basis in the source material, which does not discuss evidentiality, renarrative mood, or evidential adverbs. The specific lexical items listed (e.g., `slyhom`, `po skazaniju`, `kažetsja`, `po slovam`, `dle`) are not attested in the source.
 :::

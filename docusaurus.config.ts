@@ -35,6 +35,16 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        docsRouteBasePath: '/',
+        indexBlog: false,
+      },
+    ],
+  ],
   themeConfig: {
     navbar: {
       title: 'Interslavic Specification',

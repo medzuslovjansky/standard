@@ -1,13 +1,10 @@
-# 5.7. Verbs
-
+# Verbs
 This section specifies the grammatical categories, conjugation classes, tense and mood systems, non-finite forms, and irregular verb paradigms for verbs in Interslavic. All normative rules use the terms MUST, SHALL, SHOULD, and MAY as defined in RFC 2119.
 
 ---
 
-## 5.7.1. Verbal Aspect
-
-### 5.7.1.1. Perfective and Imperfective: Definition
-
+## Verbal Aspect
+### Perfective and Imperfective: Definition
 Interslavic verbs possess **verbal aspect**, a grammatical category inherited from Proto-Slavic and present in all Slavic languages. Every verb is lexically marked as either **perfective** (pf.) or **imperfective** (impf.), and most verbs exist in aspect pairs that share a common meaning but differ in their temporal perspective.
 
 - **Imperfective aspect** focuses on the action itself: its ongoing progress, habituality, iteration, or duration. It does not assert completion.
@@ -23,11 +20,10 @@ Interslavic verbs possess **verbal aspect**, a grammatical category inherited fr
 
 Both forms MUST be listed separately in the dictionary; they cannot be predicted from each other without reference to the lexical entry.
 
-### 5.7.1.2. Aspect Pairs: Morphological Relationships
-
+### Aspect Pairs: Morphological Relationships
 Aspect pairs are formed by one of three mechanisms:
 
-1. **Prefixation of a bare imperfective** creates a perfective with a narrowed or directional meaning. The resulting perfective then frequently acquires a secondary imperfective (see §5.7.1.3):
+1. **Prefixation of a bare imperfective** creates a perfective with a narrowed or directional meaning. The resulting perfective then frequently acquires a secondary imperfective (see the relevant section):
    - :isv[pisati] (impf.) → :isv[napisati] (pf.) "to write / to have written"
    - :isv[čistiti] (impf.) → :isv[izčistiti] (pf.) "to clean / to have cleaned"
 
@@ -44,8 +40,7 @@ The "suffix alternation" category and its examples (:isv[vråćati]/:isv[vråtit
    - :isv[vråćati] (impf.) / :isv[vråtiti] (pf.) "to return"
    - :isv[ględěti] (impf.) / :isv[ględnųti] (pf.) "to look / to glance"
 
-### 5.7.1.3. Secondary Imperfective Formation Rules
-
+### Secondary Imperfective Formation Rules
 When a prefixed perfective verb requires an imperfective counterpart, a **secondary imperfective** is derived from the perfective stem according to the following rules:
 
 | Perfective ending | Secondary imperfective | Mechanism | Example |
@@ -60,8 +55,7 @@ The normative claim that rules "MUST be applied in the order given above" is not
 
 These rules MUST be applied in the order given above. When none of the rules apply predictably, the secondary imperfective is listed separately in the dictionary.
 
-### 5.7.1.4. Aspect Selection Rules
-
+### Aspect Selection Rules
 :::caution[Unverified Content]
 The source material provides informal guidance on aspect usage but does not formulate these as MUST/SHOULD normative rules. In particular, the rules about phase verbs, verbs of perception, and negated contexts are not stated in the source.
 :::
@@ -74,8 +68,7 @@ The following normative rules govern aspect selection:
 - An imperfective verb MUST be used with **phase verbs** (begin, continue, stop) and with verbs of perception governing a subordinate action.
 - An imperfective verb SHOULD be used in negated contexts where completion of the action is denied: :isv[ja ne pisal] "I was not writing / I did not write."
 
-### 5.7.1.5. Verbs of Motion: Three-Way Aspect Distinction
-
+### Verbs of Motion: Three-Way Aspect Distinction
 Verbs of motion in Interslavic make a **three-way** distinction rather than the two-way distinction of most other verbs:
 
 | Type | Example | Meaning |
@@ -101,10 +94,8 @@ In prefixed compounds, the **non-directional** form MUST be used for the imperfe
 
 ---
 
-## 5.7.2. Conjugation Classes
-
-### 5.7.2.1. Two-Stem System: Infinitive Stem and Present Tense Stem
-
+## Conjugation Classes
+### Two-Stem System: Infinitive Stem and Present Tense Stem
 All inflected forms of a verb derive from one of two stems:
 
 1. **The infinitive stem** is obtained by removing the infinitive ending `-ti`. It serves as the base for the past tense, conditional mood, past participles, and verbal nouns.
@@ -116,8 +107,7 @@ The infinitive ending in Interslavic is always `-ti`. Verbs with stems ending in
 
 When the present tense stem cannot be derived by the regular rules below, it is given in the dictionary. Examples: :isv[pisati] (:isv[piše]), :isv[htěti] (:isv[hoče]), :isv[spati] (:isv[spi]), :isv[zvati] (:isv[zove]), :isv[brati] (:isv[bere]), :isv[vzeti] (:isv[vozme]).
 
-### 5.7.2.2. First Conjugation (Non-i-Stems)
-
+### First Conjugation (Non-i-Stems)
 The **First Conjugation** covers verbs whose present tense stem does not end in `-i`. The present tense stem is derived from the infinitive stem as follows:
 
 | Infinitive type | Present tense stem | Example |
@@ -140,8 +130,7 @@ Present tense endings for the First Conjugation:
 
 **Morphophonological note:** If the present stem ends in `k` or `g`, these consonants become `č` and `ž` respectively before the front vowel `e`: :isv[mog-eš] → :isv[možeš]; :isv[pek-eš] → :isv[pečeš].
 
-### 5.7.2.3. Second Conjugation (-iti / -ěti, i-Stems)
-
+### Second Conjugation (-iti / -ěti, i-Stems)
 The **Second Conjugation** covers verbs in `-iti` and most verbs in `-ěti`. The present tense stem ends in `-i-`.
 
 | Infinitive | Present stem | Example: :isv[hvaliti] / :isv[viděti] |
@@ -168,8 +157,7 @@ Present tense endings for the Second Conjugation:
 | :isv[viděti] "to see" | :isv[vid-] + `-ju` | :isv[vidžu] / :isv[vidim] |
 | :isv[nositi] "to carry" | :isv[nos-] + `-ju` | :isv[nošu] |
 
-### 5.7.2.4. Third Conjugation (Contracted -aje- Forms)
-
+### Third Conjugation (Contracted -aje- Forms)
 A **Third (contracted) Conjugation** is an optional variant used principally in West and South Slavic. It applies to `-ati` and `-ěti` verbs that otherwise belong to the First Conjugation with the `-aj-` stem.
 
 The contracted forms compress the `-aje-` sequence, producing endings: **-m, -š, -Ø, -mo, -te, -jut**.
@@ -187,8 +175,7 @@ Use of the contracted forms is **permitted** (MAY) and represents a natural styl
 
 ---
 
-## 5.7.3. Present Tense
-
+## Present Tense
 The present tense is formed by appending the personal endings of the appropriate conjugation to the present tense stem.
 
 **Paradigm — First Conjugation, example :isv[nesti] "to carry":**
@@ -238,10 +225,46 @@ The rule that negation is "always written separately" is not discussed in the so
 
 ---
 
-## 5.7.4. Past Tense
+## Optional Dual Number in Verb Conjugation
 
-### 5.7.4.1. Compound Past (Primary): L-Participle + byti
+The dual number in verbs is entirely optional and corresponds to the optional dual in nouns and pronouns (see the nouns chapter for the full discussion of dual number status). Dual verb forms distinguish masculine from feminine/neuter in the endings. The dual has distinct forms for 1st person (1du.) and 2nd/3rd person (2du./3du., which share one form).
 
+:::info[Source: Lombino (2021)]
+The dual verb paradigm below is based on Roberto Lombino's reconstruction from Old Church Slavonic and Slovenian models. The ending :isv[-tě] for 2du./3du. feminine/neuter was proposed by Konstantin as an innovation to avoid ambiguity with other forms, but is not attested in Old Church Slavonic.
+:::
+
+**Present tense dual endings (example: :isv[dělati] "to do"):**
+
+| Person | Masculine | Feminine/Neuter |
+|--------|-----------|-----------------|
+| 1du. | :isv[na dělajeva] | :isv[ně dělajeve] |
+| 2du. | :isv[va dělajeta] | :isv[vě dělajete] (or :isv[-tě]) |
+| 3du. | :isv[ona dělajeta] | :isv[one dělajete] (or :isv[-tě]) |
+
+The dual personal pronouns used with these forms are: :isv[na] / :isv[ně] (1du. masc. / fem.), :isv[va] / :isv[vě] (2du.), :isv[ona] / :isv[one] (3du.).
+
+**Simple past (aorist) dual endings:**
+
+| Person | Masculine | Feminine/Neuter |
+|--------|-----------|-----------------|
+| 1du. | :isv[dělahova] | :isv[dělahově] |
+| 2du./3du. | :isv[dělasta] | :isv[dělaste] (or :isv[-tě]) |
+
+For the imperfect, the same pattern applies with the imperfect stem: :isv[dělašta] / :isv[dělašte].
+
+**Compound past (perfect) dual:**
+
+The L-participle takes dual gender agreement, and the auxiliary :isv[byti] takes dual forms:
+
+| Person | Masculine | Feminine/Neuter |
+|--------|-----------|-----------------|
+| 1du. | :isv[dělala (je)sva] | :isv[dělale (je)svě] |
+| 2du./3du. | :isv[dělala (je)sta] | :isv[dělale (je)ste] (or :isv[-tě]) |
+
+---
+
+## Past Tense
+### Compound Past (Primary): L-Participle + byti
 The primary past tense of Interslavic is the **compound past**, formed by combining the present tense of the auxiliary verb :isv[byti] "to be" with the **L-participle** of the main verb.
 
 The L-participle is formed by appending the suffix `-l` (+ gender/number ending) to the **infinitive stem**:
@@ -252,6 +275,33 @@ The L-participle is formed by appending the suffix `-l` (+ gender/number ending)
 | Feminine singular | `-la` | :isv[pisala] |
 | Neuter singular | `-lo` | :isv[pisalo] |
 | Plural (all genders) | `-li` | :isv[pisali] |
+
+:::info[Literary Register: Gender-Differentiated Plural L-Participle]
+In Standard Interslavic, the L-participle plural ending is `-li` for all genders. Lombino (2022) proposes restoring the gender distinction in the plural for the literary register:
+
+- `-li` for masculine animate plural: :isv[dělali] (men did)
+- `-ly` for masculine inanimate and feminine plural: :isv[dělaly] (women did, things did)
+- `-la` for neuter plural: :isv[dělala] (neuter things did)
+
+Gender precedence in mixed groups follows: masculine animate > masculine inanimate/feminine > neuter. This system is preserved in Ukrainian (_робили/робили/робила_) and partially in Polish (_robili/robiły_), where the virile/non-virile distinction in past tense forms is a core grammatical feature. Standard Interslavic's unified `-li` follows the Russian and South Slavic pattern where the plural L-participle is invariant.
+:::
+
+:::info[Literary Register: Full vs. Clitic Forms of byti]
+Lombino (2022) formalizes a distinction between **full (stressed)** and **clitic (unstressed)** forms of the present tense of :isv[byti]:
+
+| Person | Full form | Clitic form |
+|---|---|---|
+| 1sg. | :isv[jesmj] | :isv[sŭm] |
+| 2sg. | :isv[jesi] | :isv[si] |
+| 3sg. | :isv[jest] | :isv[je] |
+| 1pl. | :isv[jesjmo] | :isv[sjmo] |
+| 2pl. | :isv[jesjte] | :isv[sjte] |
+| 3pl. | :isv[jesųt] | :isv[sųt] |
+
+Full forms appear sentence-initially or after a personal pronoun; clitic forms appear in second position (Wackernagel position) after the first stressed phrase: :isv[Jesmj gladŭn.] vs. :isv[Gladŭn sŭm.] This distinction mirrors Serbian/Croatian, Slovenian, Bulgarian, and Slovak clitic systems. Standard Interslavic already notes that the short forms MAY be used but does not formalize their positional distribution.
+
+Similarly, the first person pronoun has full (:isv[az]) and clitic (:isv[ja]) forms, with :isv[az] used when stressed and :isv[ja] in second position: :isv[Az ne imějų vrěmene.] ("I don't have time" --- emphasis on "I") vs. :isv[Ne imějų ja vrěmene.] ("I don't have time" --- emphasis on "don't have").
+:::
 
 **Full compound past paradigm (:isv[pisati]):**
 
@@ -266,8 +316,7 @@ The L-participle is formed by appending the suffix `-l` (+ gender/number ending)
 
 In the **3rd person**, the forms of :isv[byti] (:isv[jest], :isv[sųt]) are typically omitted in informal usage, though their use is not incorrect: :isv[on pisal] "he was writing / he wrote."
 
-### 5.7.4.2. L-Participle Formation
-
+### L-Participle Formation
 The L-participle is always formed regularly from the infinitive stem, with one exception:
 
 - :isv[idti] "to go" has the suppletive L-participle :isv[šel] (m.), :isv[šla] (f.), :isv[šlo] (n.), :isv[šli] (pl.). The alternative forms :isv[išel], :isv[išla] etc. are also acceptable.
@@ -279,17 +328,31 @@ The rule about consonant cluster preservation in the L-participle (no cluster si
 
 When the infinitive stem ends in a consonant cluster (e.g. :isv[mogti] → stem :isv[mog-]), the L-participle does not undergo the cluster simplification that occurs in East Slavic: :isv[mogl], :isv[grebl], :isv[izrěkl] (not :isv[mog], :isv[greb], :isv[izrěk]).
 
-### 5.7.4.3. Interpretation: Aspect Determines Perfectivity of Past
-
+### Interpretation: Aspect Determines Perfectivity of Past
 The aspectual value of the compound past is determined by the lexical aspect of the main verb:
 
 - **Imperfective + compound past** = ongoing or habitual past: :isv[ja jesm dělal] "I was doing / I used to do."
 - **Perfective + compound past** = completed past (perfect): :isv[ja jesm sdělal] "I have done (and finished)."
 
-### 5.7.4.4. Simple Past (Aorist/Imperfect — Optional)
-
+### Simple Past (Aorist/Imperfect — Optional)
 :::caution[Committee Review Needed]
-The simple past conflates the aorist and imperfect. The Steen grammar treats this as a single optional category; the Ranmaru sources note the distinction and propose treating them separately for audiences familiar with South Slavic. The present specification follows the Steen position: aorist and imperfect are merged into a single **simple past** paradigm for Standard Interslavic, with an informative note that speakers with South Slavic backgrounds MAY distinguish them. The detailed aorist/imperfect paradigms given in §5.7.4.4.1–§5.7.4.4.2 are optional extensions.
+The simple past conflates the aorist and imperfect. The Steen grammar treats this as a single optional category; the Ranmaru sources note the distinction and propose treating them separately for audiences familiar with South Slavic. The present specification follows the Steen position: aorist and imperfect are merged into a single **simple past** paradigm for Standard Interslavic, with an informative note that speakers with South Slavic backgrounds MAY distinguish them. The detailed aorist/imperfect paradigms given in the relevant section are optional extensions.
+:::
+
+:::info[Literary Register: Distinct Aorist and Imperfect]
+Lombino (2022) treats the aorist and imperfect as distinct tenses in the literary register, following the full Common Slavic and Old Church Slavonic system:
+
+- The **aorist** is used primarily with perfective verbs and denotes a completed action in the past.
+- The **imperfect** is used with imperfective verbs and denotes an ongoing or habitual action in the past. Its stem is formed from the infinitive stem with the suffix `-ja-` for consonant-stem verbs: :isv[nesti] > :isv[nesjah], :isv[vezti] > :isv[vezjah], :isv[idti] > :isv[idjah].
+
+The literary register also includes a full tense system with:
+- **Pre-present (perfect)**: compound past with :isv[byti]
+- **Pre-past (pluperfect)**: :isv[běh] + L-participle
+- **Future**: :isv[bųdų] + infinitive
+- **Pre-future (future perfect)**: :isv[bųdų] + L-participle
+- **Future-in-the-past**: imperfect of :isv[byti] (:isv[budjah]) + infinitive
+
+This expanded tense system mirrors the full Old Church Slavonic temporal paradigm, which no single modern Slavic language preserves in its entirety but whose individual elements survive across the family.
 :::
 
 The **simple past** is an optional tense that fulfills the combined role of the aorist and imperfect. It denotes an action that took place in the past and is formed by adding personal endings directly to the **infinitive stem**. Its use is **stylistically marked** and SHOULD NOT be used in communication with speakers whose native language is East Slavic or Polish, as the forms are not broadly intelligible.
@@ -337,8 +400,105 @@ Before the connecting vowel `e`, the consonants `k`, `g`, `h` undergo the First 
 | 2pl. | :isv[kazaste] | :isv[neseste] | :isv[izrěčeste] | :isv[možeste] |
 | 3pl. | :isv[kazahų] | :isv[nesehų] | :isv[izrěčehų] | :isv[možehų] |
 
-### 5.7.4.5. Pluperfect (Optional)
+### Distinguishing the Aorist and Imperfect (Extended System)
 
+In the extended tense system, the aorist and imperfect are distinct tenses rather than a single "simple past." The **aorist** denotes a past action that reached its endpoint; it is the narrative tense of foregrounded events. The **imperfect** denotes a past action that was ongoing, durative, or repeated; it provides background narration.
+
+As a general principle, **perfective verbs typically take the aorist** and **imperfective verbs typically take the imperfect**, since aspect and tense reinforce each other. However, cross-combinations are possible (see "Usage notes" below).
+
+#### Aorist Formation
+
+The aorist is formed from the **infinitive stem** (or equivalently, the L-participle stem without `-l`). Its endings are identical to the merged simple past given above, with one key difference: the **2sg. and 3sg. have a zero ending** (no `-še`):
+
+| Person/Number | Vowel-stem example (:isv[sdělati]) | Consonant-stem example (:isv[odvesti]) |
+|---|---|---|
+| 1sg. | :isv[sdělah] | :isv[odvedeh] / :isv[odvedoh] |
+| 2sg. | :isv[sděla] | :isv[odvede] |
+| 3sg. | :isv[sděla] | :isv[odvede] |
+| 1pl. | :isv[sdělahmo] | :isv[odvedehmo] |
+| 2pl. | :isv[sdělaste] | :isv[odvedeste] |
+| 3pl. | :isv[sdělašę] / :isv[sdělahų] | :isv[odvedešę] / :isv[odvedehų] |
+
+The 3pl. ending `-šę` follows the Serbian/Croatian pattern. Other living languages with the aorist (Bulgarian, Macedonian) use only `-hų` in this position; both forms are acceptable in Interslavic.
+
+#### Imperfect Formation
+
+The imperfect is formed from the **present tense stem** (specifically the 3sg. present form). Three formation strategies exist, all attested in living Slavic languages. They may be combined.
+
+**Strategy 1 — :isv[-jah] endings (from the 3sg. present):** The most regular approach. Take the 3sg. present form and append `-jah`, `-jaše`/`-ješe`, etc. If the 3sg. already ends in `-j`, the endings attach directly to it.
+
+| Person/Number | Ending |
+|---|---|
+| 1sg. | `-jah` |
+| 2sg. | `-jaše` / `-ješe` |
+| 3sg. | `-jaše` / `-ješe` |
+| 1pl. | `-jahmo` |
+| 2pl. | `-jašte` / `-ješte` |
+| 3pl. | `-jahų` |
+
+Examples: :isv[peče] → :isv[pečejah]; :isv[ǉubi] → :isv[ǉubijah]; :isv[pije] → :isv[pijah]; :isv[dělaje] → :isv[dělajah].
+
+For verbs with 3sg. in `-aje`/`-a` (the `-ati` class), shortened forms without `-ja-` are also acceptable: :isv[dělah], :isv[dělaše] (identical to the merged simple past).
+
+**Strategy 2 — :isv[-ěh] endings (with vowel ě):** Close to Old Czech and often Bulgarian. Take the 3sg. present, drop the final vowel, and add `-ěh`, `-ěše`, etc.
+
+Examples: :isv[prosi] → :isv[prosěh]; :isv[vede] → :isv[veděh]; :isv[peče] → :isv[pečěh]/`:isv[pečeh]`.
+
+After `č`, `j`, `š`, `ž`, the vowel `ě` MAY be simplified to `e`.
+
+**Strategy 3 — consonant alternation (with -ah endings):** Close to Serbian/Croatian. Based on the past passive participle stem (the `-eny`/`-eńje` form). If a soft consonant precedes `-eny`, add `-ah`, `-aše`; otherwise add `-jah`, `-jaše` (which may trigger iotation).
+
+Examples: :isv[govorjeny] → :isv[govorjah]; :isv[prošeny] → :isv[prošah]; :isv[vedeny] → :isv[vedjah]/`:isv[ved́ah]`.
+
+#### Imperfect Paradigm Example
+
+Full paradigm of :isv[viděti] (impf.) contrasted with :isv[uviděti] (pf.) using Strategy 1:
+
+| Person/Number | Aorist (:isv[uviděti]) | Imperfect (:isv[viděti]) |
+|---|---|---|
+| 1sg. | :isv[uviděh] | :isv[vidijah] |
+| 2sg. | :isv[uvidě] | :isv[vidijaše] / :isv[vidiješe] |
+| 3sg. | :isv[uvidě] | :isv[vidijaše] / :isv[vidiješe] |
+| 1pl. | :isv[uviděhmo] | :isv[vidijahmo] |
+| 2pl. | :isv[uviděste] | :isv[vidijašte] / :isv[vidiješte] |
+| 3pl. | :isv[uviděšę] / :isv[uviděhų] | :isv[vidijahų] |
+
+#### Distinctive Endings: Aorist vs. Imperfect
+
+The key formal differences between the two tenses are:
+
+| Feature | Aorist | Imperfect |
+|---|---|---|
+| 2sg./3sg. | Zero ending (:isv[sděla], :isv[odvede]) | `-jaše`/`-ješe`/`-ěše`/`-aše` |
+| 2pl. | `-ste` | `-šte` (following Upper Sorbian and historical Proto-Slavic `-šete`) |
+| 3pl. | `-šę` (optional) or `-hų` | `-hų` only |
+| Stem base | Infinitive stem | Present tense stem (strategies 1–2) or passive participle stem (strategy 3) |
+
+#### Irregular Imperfects
+
+- :isv[byti]: always :isv[běh], :isv[běše] (alternative 2sg./3sg.: :isv[bě]).
+- :isv[iměti]: :isv[imah]/`:isv[imaše]` or :isv[imějěh]/`:isv[imějěše]`.
+- :isv[idti] and compounds: :isv[id́ah]/`:isv[id́aše]` or :isv[ideh]/`:isv[ideše]`; compound :isv[prijdti] → :isv[priideh]/`:isv[priide]` (not \*:isv[prišeh]).
+- :isv[dati]: aorist :isv[dadeh]/`:isv[dadoh]`/`:isv[dah]`, with 2sg./3sg. :isv[dade]/`:isv[dado]`/`:isv[da]`.
+
+#### Usage Notes
+
+1. **Imperfect of perfective verbs** is possible and expresses a repeated action that always reached completion: :isv[Vsegda, kogda pogledijah...] "Every time I looked..."
+2. **Aorist of imperfective verbs** is possible, especially for verbs without a perfective counterpart, to emphasize that the action came to an end: :isv[Hodih v tu školu 9 let] "I went to that school for 9 years (and then stopped)."
+
+:::warning[Unresolved: Merging vs. separating aorist and imperfect]
+The standard position (following Jan van Steenbergen's grammar) merges the aorist and imperfect into a single "simple past" with one set of endings. Roberto Lombino's proposal (2022) argues that this merger is unnatural for speakers of languages that preserve the distinction (Bulgarian, Macedonian, Serbian/Croatian) and provides detailed formation rules for keeping the tenses separate. The three imperfect formation strategies described above are from this proposal.
+
+Key tensions:
+- **Simplicity vs. naturalness:** A merged paradigm is simpler for learners, but speakers of South Slavic languages expect the distinction.
+- **Stem choice for the imperfect:** The three strategies (from 3sg. present with `-jah`, from 3sg. present with `-ěh`, from passive participle stem with consonant alternation) produce different forms; no single strategy has been adopted as normative.
+- **2pl. ending:** Should the imperfect use `-šte` (distinct from aorist `-ste`) or should both share `-ste`? The `-šte` form has historical and Upper Sorbian support but adds complexity.
+- **3pl. aorist:** Should the ending `-šę` (Serbian/Croatian pattern) be permitted alongside `-hų`?
+
+A committee decision is needed on whether the extended system formally recognizes two separate tenses or retains the merged simple past as the only option.
+:::
+
+### Pluperfect (Optional)
 The **pluperfect** (past-before-past) is an optional tense. It is formed by combining the L-participle with the **past tense of :isv[byti]**, either the simple past or compound past:
 
 - :isv[ja běh dělal] "I had been doing" (using simple past of :isv[byti])
@@ -348,10 +508,8 @@ The pluperfect SHOULD be used to explicitly signal that one past action preceded
 
 ---
 
-## 5.7.5. Future Tense
-
-### 5.7.5.1. Compound Future: bųdų + Infinitive
-
+## Future Tense
+### Compound Future: bųdų + Infinitive
 The primary future tense is formed by combining the **future tense forms of :isv[byti]** with the **infinitive** of the main verb. The future forms of :isv[byti] are conjugated as if from the stem :isv[bud-] in the present tense:
 
 | Person/Number | :isv[byti] future | Full example (:isv[pisati]) |
@@ -369,20 +527,31 @@ The claim that the compound future is used for "both imperfective and perfective
 
 This construction is used for **both imperfective and perfective** verbs to express future meaning in Standard Interslavic.
 
-### 5.7.5.2. Perfective Present as Future
-
+### Perfective Present as Future
 In East and West Slavic languages, the present tense forms of a **perfective** verb regularly express future meaning (e.g. Russian *напишу* "I will write"). This usage is possible in Interslavic but **SHOULD be avoided** when addressing South Slavic speakers, for whom the present tense of a perfective verb does not carry automatic future meaning and may be misunderstood as present habitual.
 
 :::info[TODO: Committee Input Needed]
 A normative ruling is needed on whether the use of the perfective present as future is (a) fully equivalent to the compound future, (b) a permitted stylistic variant, or (c) restricted to registers targeting non-South-Slavic audiences. Currently the Steen source recommends avoidance; the Ranmaru source explains the South Slavic motivation in detail.
 :::
 
+:::warning[Unresolved: Multiple Future Tenses and Perfective Present Semantics]
+Lombino (2022) describes a system of **three semantically distinct future constructions** in the literary register, each conveying a different degree of certainty or obligation:
+
+1. :isv[bųdų] + infinitive = **certain future** at a concrete moment: :isv[Dnesj večer bųdų govoriti s prijateli.] ("Tonight I will speak with friends." --- it is settled.)
+2. :isv[htěti]/`:isv[těti]` + infinitive = **planned or uncertain future**: :isv[Za tydŭnj hoćų jěhati k roditeljem.] ("In a week I intend to go to my parents.")
+3. :isv[imati] + infinitive = **obligatory future**: :isv[Iz'jutra imajų cělyj dŭnj sěděti v školě.] ("Tomorrow I have to sit in school all day." --- obligation, not desire.)
+
+Additionally, Lombino proposes that the **perfective present** may express **general/gnomic** truths where completion is inherent but time is unspecified: :isv[Bylŭn čaj pomože protiv mnogym bolestem.] ("Herbal tea helps against many illnesses." --- a general fact about the effect, not a specific future event.) This semantic interpretation differs from both the East Slavic pattern (perfective present = future) and the South Slavic pattern (perfective present = subordinate clause only), and represents a third possibility attested in some West Slavic usage.
+
+All three future constructions can also be projected into the past (future-in-the-past) using the imperfect of the auxiliary: :isv[budjah čitati] "I was going to read", :isv[hočah čitati] "I intended to read", :isv[imah čitati] "I was supposed to read".
+
+These distinctions are productive in individual Slavic languages (Czech, Slovak, and South Slavic for :isv[imati]; Polish and Serbian/Croatian for :isv[htěti]; English calques notwithstanding, the :isv[idti] + infinitive pattern parallels French *aller* + infinitive and is attested colloquially in Czech and Polish). Whether and how to incorporate them into Interslavic norms remains undecided.
+:::
+
 ---
 
-## 5.7.6. Conditional Mood
-
-### 5.7.6.1. Present Conditional: by + L-Participle
-
+## Conditional Mood
+### Present Conditional: by + L-Participle
 The conditional mood is formed by combining the **conditional auxiliary forms of :isv[byti]** with the **L-participle** of the main verb. The conditional forms of :isv[byti] derive historically from the aorist of :isv[byti]:
 
 | Person/Number | Conditional auxiliary | Example (:isv[dělati]) |
@@ -406,8 +575,7 @@ The distinction between South Slavic and West Slavic 3pl. conditional forms and 
 
 **Note on 3pl.:** In the South Slavic tradition the 3pl. conditional auxiliary is :isv[by] (same as 3sg.); in the West Slavic tradition a distinct 3pl. form :isv[byhų] MAY be used.
 
-### 5.7.6.2. Past Conditional
-
+### Past Conditional
 The **past conditional** (expressing a counterfactual about the past) is formed by inserting the past form of :isv[byti] into the standard conditional:
 
 - :isv[ja byl byh dělal] "I would have done" (masculine)
@@ -415,10 +583,8 @@ The **past conditional** (expressing a counterfactual about the past) is formed 
 
 ---
 
-## 5.7.7. Imperative Mood
-
-### 5.7.7.1. Formation from Present Stem
-
+## Imperative Mood
+### Formation from Present Stem
 The imperative is formed from the **present tense stem**. Specifically, take the **3rd person singular present tense** form and remove the personal ending to obtain the imperative base; then attach the imperative endings:
 
 | Person/Number | Ending after consonant | Ending after `-j-` | Ending after `-j` |
@@ -457,26 +623,34 @@ The special imperative rule for `-avati` verbs is not mentioned in the source ma
 The source says the accent shift "deserves recommendation" but does not formalize it as a normative rule. The indicative form cited here as "3sg." (:isv[prósi]) appears to be the 2nd conjugation 3sg. present, which is correct.
 :::
 
-### 5.7.7.2. Third-Person Optative with nehaj
-
+### Third-Person Optative with nehaj
 Interslavic has no synthetic imperative for the 3rd person. Third-person commands and wishes are expressed with the **optative particle :isv[nehaj]** followed by the indicative form of the verb:
 
 - :isv[Nehaj umre!] — "Let him die!"
 - :isv[Nehaj žive dolgo!] — "May he live long!"
 
-### 5.7.7.3. Hortative First Plural
-
+### Hortative First Plural
 The 1st person plural imperative functions as an **inclusive hortative** ("let us"):
 
 - :isv[dělajmo] — "let's do!"
-- :isv[pojdimo] — "let's go!"
+- :isv[pojdimo] --- "let's go!"
+
+:::warning[Unresolved: Subjunctive Mood and Supine]
+Lombino (2022) describes two additional verbal categories for the literary register that are absent from Standard Interslavic:
+
+**Supine.** The supine is a truncated form of the infinitive (infinitive minus the final `-i`, yielding forms ending in `-t`) used after verbs of motion: :isv[Hoćų spati.] ("I want to sleep" --- infinitive) vs. :isv[Idų spat.] ("I'm going to sleep" --- supine). The supine is preserved productively in Slovenian, Sorbian, and (vestigially) in Czech and Slovak. Its inclusion in Interslavic would provide a syntactic distinction between purpose-of-motion and general complement clauses that many Slavic speakers would recognize.
+
+**Subjunctive (conjunctive) mood.** Lombino proposes a full subjunctive mood distinct from the conditional, formed by adding shortened personal endings to the infinitive stem: :isv[dělam], :isv[dělas], :isv[děla(st)], :isv[dělamo], :isv[dělate], :isv[děla]. This mood would be used after conjunctions expressing uncertainty (:isv[da] "that [subjunctive]", :isv[jestli] "whether") and in subordinate clauses of purpose and doubt. The paradigm derives from the Old Church Slavonic subjunctive (itself historically the optative) and parallels the :isv[da]-construction in South Slavic languages.
+
+The subjunctive would exist across multiple tenses (present, past, future, and their pre- variants), creating a substantial expansion of the verbal paradigm. The author acknowledges potential ambiguity between subjunctive and indicative forms for many verbs and proposes an epenthetic `-d-` to disambiguate: :isv[děladem], :isv[dělades] (subjunctive) vs. :isv[dělajemo], :isv[dělajete] (indicative).
+
+These categories reveal a fundamental tension: the conditional mood (:isv[byh dělal]) already handles counterfactual and hypothetical meaning in Standard Interslavic, and adding a subjunctive would require speakers to master an additional paradigm whose functional territory overlaps significantly with the conditional. The supine, by contrast, is a small addition (a single form per verb) with clear distributional rules. No committee decision has been reached on either feature.
+:::
 
 ---
 
-## 5.7.8. Non-Finite Forms
-
-### 5.7.8.1. Infinitive
-
+## Non-Finite Forms
+### Infinitive
 All infinitives end in **`-ti`**. This ending is invariant and serves as the dictionary citation form. The infinitive stem is the infinitive minus `-ti`.
 
 :::caution[Unverified Content]
@@ -485,8 +659,7 @@ The source describes :isv[moči], :isv[peči], :isv[běči] as "less transparent
 
 Verbs whose stems end in `-k` or `-g` retain these consonants before `-ti` (:isv[mogti], :isv[pekti], :isv[běgti]) rather than using the contracted South Slavic forms (:isv[moči], :isv[peči], :isv[běči]). The `-ći` variant is fully acceptable as an alternative but SHOULD NOT be the primary form in Standard Interslavic. The form :isv[iti] is an acceptable alternative to :isv[idti].
 
-### 5.7.8.2. Present Active Participle (-uči / -eči)
-
+### Present Active Participle (-uči / -eči)
 The **present active participle** is derived from the **present tense stem** by replacing the 3rd person plural ending `-t` with `-či`:
 
 - First Conjugation: 3pl. ends in `-ut` → participle ends in `-uči`
@@ -507,12 +680,10 @@ When used as an **attributive adjective**, the present active participle inflect
 
 When used as an **adverbial participle (transgressive)**, the form is uninflected for gender and is co-indexed with the grammatical subject: :isv[Iduči do raboty, ona vsegda dymi cigaretoju] "While going to her work, she always smokes a cigarette."
 
-### 5.7.8.3. Adverbial Present Active Participle (Transgressive)
+### Adverbial Present Active Participle (Transgressive)
+The transgressive form (also called the adverbial present active participle) has the same endings as the attributive present active participle (`-uči`, `-eči`) but is **not inflected** for gender, number, or case. It MUST be co-indexed with the subject of the main clause. See the relevant section for formation.
 
-The transgressive form (also called the adverbial present active participle) has the same endings as the attributive present active participle (`-uči`, `-eči`) but is **not inflected** for gender, number, or case. It MUST be co-indexed with the subject of the main clause. See §5.7.8.2 for formation.
-
-### 5.7.8.4. Past Active Participle (-vši / -ši)
-
+### Past Active Participle (-vši / -ši)
 The **past active participle** is formed from the **infinitive stem**:
 
 - If the stem ends in a **vowel**: add `-vši`
@@ -526,8 +697,7 @@ The **past active participle** is formed from the **infinitive stem**:
 
 This participle can be used adjectivally or adverbially. Its adjectival use is very rare. The past active participle is a **bookish form**: it exists in most Slavic languages but is rarely used in spoken language. In Standard Interslavic it MAY be used in formal or literary registers.
 
-### 5.7.8.5. Present Passive Participle (-omy / -imy)
-
+### Present Passive Participle (-omy / -imy)
 The **present passive participle** is derived from the **present tense stem**:
 
 - First Conjugation: present stem + `-omy` (or `-emy` after a soft consonant)
@@ -539,10 +709,9 @@ The **present passive participle** is derived from the **present tense stem**:
 | :isv[nesti] | :isv[nes-] | :isv[nesomy] | "being carried" |
 | :isv[hvaliti] | :isv[hvali-] | :isv[hvalimy] | "being praised" |
 
-This participle is rarely used in most Slavic languages. Some forms have become **lexicalized adjectives** with shifted meanings: :isv[vidimy] means "visible" rather than "being seen." Its use in Interslavic is permitted but not required; the reflexive passive construction (§5.7.10.2) is generally preferred.
+This participle is rarely used in most Slavic languages. Some forms have become **lexicalized adjectives** with shifted meanings: :isv[vidimy] means "visible" rather than "being seen." Its use in Interslavic is permitted but not required; the reflexive passive construction  is generally preferred.
 
-### 5.7.8.6. Past Passive Participle (-ny / -eny / -ty)
-
+### Past Passive Participle (-ny / -eny / -ty)
 The **past passive participle** is formed from the **infinitive stem**:
 
 | Infinitive type | Suffix | Example |
@@ -559,10 +728,8 @@ The past passive participle inflects as a regular hard-type adjective.
 
 ---
 
-## 5.7.9. Verbal Nouns (Gerunds)
-
-### 5.7.9.1. Formation from Past Passive Participle
-
+## Verbal Nouns (Gerunds)
+### Formation from Past Passive Participle
 A **verbal noun** (gerund) is formed from the past passive participle by substituting:
 
 - `-ny` → `-nje`
@@ -583,10 +750,8 @@ Verbal nouns are grammatically neuter nouns and decline as regular Second Declen
 
 ---
 
-## 5.7.10. Passive Voice
-
-### 5.7.10.1. Passive with byti + Past Passive Participle
-
+## Passive Voice
+### Passive with byti + Past Passive Participle
 :::caution[Unverified Content]
 The MUST requirement for participle agreement in "gender, number, and case" is not explicitly stated in the source. The source describes the passive construction but does not formalize agreement rules. The elaborated table below (with conditional and past conditional rows) goes beyond the source's examples.
 :::
@@ -603,11 +768,10 @@ The **analytical passive** is formed by combining an appropriate form of :isv[by
 | Past conditional | :isv[byl byh] + past pass. part. | :isv[ja byl byh neseny] | "I would have been carried" |
 
 :::caution[Unverified Content]
-Sections 5.7.10.2 and 5.7.10.3 on the reflexive passive and the passive avoidance recommendation are not covered in the source material. The source does not discuss the reflexive-passive construction or register-based preferences for passive voice strategies.
+Sections and  on the reflexive passive and the passive avoidance recommendation are not covered in the source material. The source does not discuss the reflexive-passive construction or register-based preferences for passive voice strategies.
 :::
 
-### 5.7.10.2. Reflexive Passive with -sę
-
+### Reflexive Passive with -sę
 The **reflexive-passive** construction, using the reflexive particle :isv[sę], is the **preferred** alternative to the analytical passive in most registers:
 
 - :isv[pica dělaje sę] — "pizza is being made"
@@ -615,16 +779,13 @@ The **reflexive-passive** construction, using the reflexive particle :isv[sę], 
 
 The reflexive passive SHOULD be used in preference to the analytical passive in casual and colloquial speech.
 
-### 5.7.10.3. Avoidance Recommendation
-
+### Avoidance Recommendation
 Analytical passive constructions SHOULD be avoided in casual speech in favor of active or reflexive-passive constructions. In formal, administrative, and written registers the analytical passive is fully acceptable.
 
 ---
 
-## 5.7.11. Irregular Verbs
-
-### 5.7.11.1. Byti (to be): Full Paradigm
-
+## Irregular Verbs
+### Byti (to be): Full Paradigm
 The verb :isv[byti] "to be" is the only truly irregular verb in Interslavic. Its paradigm must be learned in full.
 
 **Present tense:**
@@ -672,14 +833,13 @@ The short (enclitic) forms of the copula (:isv[sòm, si, je, smo, ste, sųt]) ar
 The explanation that the :isv[bě-] forms "arose under the influence of the imperfect" is not stated in the source material.
 :::
 
-The :isv[by-] stem forms are used for the **conditional auxiliary** (see §5.7.6). The :isv[bě-] forms arose under the influence of the imperfect.
+The :isv[by-] stem forms are used for the **conditional auxiliary** (see the relevant section). The :isv[bě-] forms arose under the influence of the imperfect.
 
 **L-participle of :isv[byti]:** :isv[byl] (m.), :isv[byla] (f.), :isv[bylo] (n.), :isv[byli] (pl.)
 
 **Imperative of :isv[byti]:** :isv[bųď] (2sg.), :isv[bųďmo] (1pl.), :isv[bųďte] (2pl.)
 
-### 5.7.11.2. Dati, Jesti, Věděti (Athematic Conjugation)
-
+### Dati, Jesti, Věděti (Athematic Conjugation)
 The verbs :isv[dati] "to give", :isv[jesti] "to eat", and :isv[věděti] "to know" form their present tense according to the **athematic conjugation**, whose root ends in a vowel:
 
 **Present tense:**
@@ -711,10 +871,9 @@ The imperative forms for :isv[dati], :isv[jesti], and :isv[věděti] are not giv
 | :isv[jesti] | :isv[jěď] | :isv[jěďmo] | :isv[jěďte] |
 | :isv[věděti] | :isv[věď] | :isv[věďmo] | :isv[věďte] |
 
-**Note:** The verb :isv[iměti] "to have" is not athematic in Standard Interslavic. It follows the Third (contracted) Conjugation or the First Conjugation with the `-aj-` stem (see §5.7.2.4 and §5.7.11.4).
+**Note:** The verb :isv[iměti] "to have" is not athematic in Standard Interslavic. It follows the Third (contracted) Conjugation or the First Conjugation with the `-aj-` stem (see  and ).
 
-### 5.7.11.3. Idti and Its Compounds
-
+### Idti and Its Compounds
 The verb :isv[idti] "to go (on foot, directional)" is conjugated **regularly** in the present tense:
 
 | Person/Number | Form |
@@ -748,8 +907,7 @@ The alternative infinitive spelling :isv[iti] (without the *d*) is fully accepta
 This entire subsection on :isv[iměti] has no basis in the source material. The source does not mention :isv[iměti], its conjugation, the :isv[němati] negative form, or the recommendation to use :isv[iměti] instead of the Russian-style construction. The paradigm tables, the note on :isv[němati], and the impersonal usage of :isv[něma] are all unsourced.
 :::
 
-### 5.7.11.4. Iměti (to have)
-
+### Iměti (to have)
 The verb :isv[iměti] "to have" is the standard means of expressing possession in Interslavic. (Russian speakers should note that the *u menja jest* construction, while comprehensible, is not idiomatic Interslavic; the verb :isv[iměti] SHOULD be used instead.)
 
 :isv[Iměti] follows the Third (contracted) Conjugation or the First Conjugation with `-aj-` stem:
@@ -775,3 +933,30 @@ The verb :isv[iměti] "to have" is the standard means of expressing possession i
 | 3pl. | :isv[němajųt] |
 
 The 3sg. form :isv[něma] MAY be used impersonally with the meaning "there is no / there are no": :isv[Nema nas tu] "We are not here / There's none of us here."
+
+---
+
+## Yat (ě) Consistency in Verb Stems
+### Principle
+Verb stems that contain etymological yat (ě) SHOULD retain it consistently across all prefixed, suffixed, and aspect-derived forms. This follows from the general principle that Interslavic spelling preserves etymological vowel distinctions within a morpheme family (see the relevant section).
+
+The distinction between :latn[ě] and :latn[e] in verb stems is not merely orthographic. It encodes a systematic sound correspondence across Slavic languages: etymological ě corresponds to different reflexes in different language groups (e.g., Czech í, Polish a/ia, Russian e/ё, Bulgarian я/е). Inconsistent use of ě within a verb family disrupts these correspondences and impairs the flavourization potential of Interslavic.
+
+### Rule for Infinitive Endings
+Interslavic verb infinitives end in :isv[-ěti] or :isv[-ęti] when the preceding consonant is hard. The ending :isv[-eti] occurs only after functionally soft consonants (:latn[j], :latn[č], :latn[š], :latn[ž], :latn[c]), where :latn[ě] is simplified to :latn[e] by the standard orthographic convention. A verb infinitive ending in :isv[-eti] after a non-soft consonant should be treated as a potential error and verified against its Proto-Slavic etymology.
+
+### Examples of Consistent Application
+| Root | Correct forms | Incorrect forms | Etymology |
+|---|---|---|---|
+| :isv[plěn-] "captive, plunder" | :isv[plěniti], :isv[zaplěniti], :isv[zaplěnjati] | \*:isv[pleniti] alongside :isv[zaplěniti] | OCS плѣнъ |
+| :isv[trě-] "to rub" | :isv[trěti], :isv[utrěti] | \*:isv[treti], \*:isv[utreti] | PS \*terti; cf. Ru. _тереть_, Cz. _třít_ |
+| :isv[mrě-] "to die" | :isv[mrěti], :isv[zamrěti], :isv[umrěti] | \*:isv[zamreti], \*:isv[umreti] | PS \*merti; cf. Ru. _замереть_, Cz. _zemřít_ |
+
+### Special Case: drati vs. dreti
+The verb meaning "to tear" presents a distinct issue. While some dictionary entries list :isv[dreti], the majority of Slavic languages reflect a Proto-Slavic form \*dьrati (with the same ablaut pattern as \*bьrati → :isv[brati]). The recommended form is therefore :isv[drati] with the present tense :isv[dere], parallel to :isv[brati] / :isv[bere]. This is not a case of ě restoration but of correcting the stem vowel to match the predominant Slavic evidence.
+
+:::warning[Unresolved: Verb stem yat consistency]
+The current dictionary contains several verb families where etymological ě is applied inconsistently — present in some prefixed forms but absent in others, or absent from base verbs where Proto-Slavic and OCS evidence clearly indicates yat. The affected families include at minimum :isv[plěn-], :isv[trě-] ("to rub"), and :isv[mrě-] ("to die"). Additionally, the form :isv[dreti] should likely be corrected to :isv[drati] based on cross-Slavic evidence.
+
+A systematic audit of verb entries against Proto-Slavic and OCS etymologies is needed to identify and correct all such inconsistencies. The governing principle should be: if the Proto-Slavic or OCS form contains yat (ѣ), the Interslavic form retains ě, except after functionally soft consonants where ě is simplified to e (see the relevant section).
+:::

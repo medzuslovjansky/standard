@@ -1,13 +1,10 @@
-# 5.10. Word Formation and Derivation
-
+# Word Formation and Derivation
 This section specifies the productive morphological processes by which new words are formed in Interslavic: suffixation, prefixation, zero derivation, and compounding. All normative rules use the terms MUST, SHALL, SHOULD, and MAY as defined in RFC 2119.
 
 ---
 
-## 5.10.1. Productive Noun-Forming Suffixes
-
-### 5.10.1.1. Agent Nouns: :isv[-nik], :isv[-telj], :isv[-ec], :isv[-ač]
-
+## Productive Noun-Forming Suffixes
+### Agent Nouns: :isv[-nik], :isv[-telj], :isv[-ec], :isv[-ač]
 Interslavic possesses four productive agentive suffixes for deriving person nouns from verb and noun bases.
 
 **Suffix :isv[-telj]** derives agent nouns from verb stems, denoting the person who habitually or professionally performs the action:
@@ -66,8 +63,7 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 
 The soft consonant :isv[nj] hardens before :isv[-nik] and :isv[-ny].
 
-### 5.10.1.2. Abstract Nouns: :isv[-ost], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina]
-
+### Abstract Nouns: :isv[-ost], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina]
 **Suffix :isv[-ost]** is the primary suffix for deriving abstract quality nouns from adjectives. It is always feminine:
 
 :::caution[Unverified Content]
@@ -96,19 +92,18 @@ The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples
 | :isv[žiti] "to live" | :isv[žitje] | "life" |
 | :isv[pisati] "to write" | :isv[pisanje] | "writing" |
 
-### 5.10.1.3. Collective and Group Nouns: :isv[-stvo], :isv[-išče]
-
+### Collective and Group Nouns: :isv[-stvo], :isv[-išče]
 :::caution[Unverified Content]
 The source does not distinguish a separate "collective" use of :isv[-stvo]. It lists :isv[bratstvo] under abstract quality derivation (noun-to-noun), not as a collective suffix.
 :::
 
-**Suffix :isv[-stvo]** (see also §5.10.1.2) serves as a collective suffix when derived from animal or group nouns:
+**Suffix :isv[-stvo]** (see also ) serves as a collective suffix when derived from animal or group nouns:
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
 | :isv[brat] "brother" | :isv[bratstvo] | "brotherhood (collective)" |
 
-**Suffix :isv[-išče]** derives place nouns from verbs and nouns. It may also function as an augmentative (see §5.10.1.5):
+**Suffix :isv[-išče]** derives place nouns from verbs and nouns. It may also function as an augmentative (see the relevant section):
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
@@ -117,8 +112,7 @@ The source does not distinguish a separate "collective" use of :isv[-stvo]. It l
 | :isv[voz] "wagon" | :isv[vozišče] | "parking lot" |
 | :isv[ogonj] "fire" | :isv[ognišče] | "fireplace, hearth" |
 
-### 5.10.1.4. Diminutives: :isv[-ok]/:isv[-ek], :isv[-ik], :isv[-ka], :isv[-ko]
-
+### Diminutives: :isv[-ok]/:isv[-ek], :isv[-ik], :isv[-ka], :isv[-ko]
 Diminutives are gender-sensitive and phonologically conditioned. The selection of suffix depends on both the grammatical gender of the base noun and the nature of the final stem consonant:
 
 | Gender | Condition | Suffix | Example |
@@ -132,8 +126,7 @@ Suffixes beginning with :isv[-o-] change to :isv[-e-] after a soft consonant:
 
 - :isv[byk] + :isv[-ok] → :isv[byček]
 
-### 5.10.1.5. Augmentatives: :isv[-išče], :isv[-ina]
-
+### Augmentatives: :isv[-išče], :isv[-ina]
 :::caution[Unverified Content]
 The source does not discuss augmentatives at all. The claim that :isv[-išče] carries augmentative force and that :isv[-ina] forms augmentatives is not attested in the source material.
 :::
@@ -147,8 +140,7 @@ The source does not discuss augmentatives at all. The claim that :isv[-išče] c
 | :isv[morje] "sea" | :isv[primorje] | "land by the sea" |
 | :isv[brjuh] "belly" | :isv[podbrjušje] | "underbelly" |
 
-### 5.10.1.6. Feminine Person Nouns: :isv[-ica], :isv[-ka], :isv[-nja]
-
+### Feminine Person Nouns: :isv[-ica], :isv[-ka], :isv[-nja]
 The feminine equivalents of masculine agent nouns and national/professional designations are formed as follows:
 
 | Masculine suffix | Feminine suffix | Example |
@@ -168,8 +160,7 @@ The source does not provide :isv[učiteljka] as an example. The source shows :is
 
 | :isv[učitelj] "teacher (m.)" | :isv[učiteljka] | "teacher (f.)" |
 
-### 5.10.1.7. Inhabitant and Nationality Nouns: :isv[-anin]/:isv[-jan], :isv[-ec]
-
+### Inhabitant and Nationality Nouns: :isv[-anin]/:isv[-jan], :isv[-ec]
 :::caution[Unverified Content]
 The source only mentions :isv[-ec] (and "sometimes :isv[-an(in)]") for inhabitant/nationality nouns, with :isv[Albanec] as the sole example. The :isv[Moskvjanin]/:isv[Moskvjane] examples and the rule about :isv[-in-] loss in the plural are not in the source.
 :::
@@ -187,8 +178,7 @@ The suffix :isv[-ec] is an alternative for nationality nouns, particularly when 
 |------|-------------|-------|
 | :isv[Albanija] | :isv[Albanec] | "Albanian" |
 
-### 5.10.1.8. Young Animal Nouns: :isv[-e] (stem :isv[-et-])
-
+### Young Animal Nouns: :isv[-e] (stem :isv[-et-])
 Baby animal nouns are derived by adding :isv[-e] to the name of the animal, producing a neuter noun of the :isv[-et-] stem class:
 
 | Base | Derived form | Gloss |
@@ -198,10 +188,8 @@ Baby animal nouns are derived by adding :isv[-e] to the name of the animal, prod
 
 ---
 
-## 5.10.2. Productive Adjective-Forming Suffixes
-
-### 5.10.2.1. Relational Adjectives: :isv[-ny], :isv[-sky], :isv[-ji]
-
+## Productive Adjective-Forming Suffixes
+### Relational Adjectives: :isv[-ny], :isv[-sky], :isv[-ji]
 Three primary suffixes derive relational adjectives from nouns. The choice among them is governed by the semantic class of the base noun:
 
 | Suffix | Condition | Example |
@@ -212,6 +200,43 @@ Three primary suffixes derive relational adjectives from nouns. The choice among
 
 Suffixes beginning with :isv[-o-] change to :isv[-e-] after a soft consonant:
 - :isv[konec] + :isv[-ovy] → :isv[koncevy]
+
+#### Softness Preservation at the Root–Suffix Boundary
+When an adjective-forming suffix (especially :isv[-sky], :isv[-ny]) is attached to a root whose final consonant is inherently soft, the softness of that root consonant should in principle be preserved through derivation. This follows the general morphophonological principle that **root-internal softness is a property of the lexeme, not of the suffix**.
+
+Examples where root softness is preserved:
+
+| Root | Derived adjective | Rationale |
+|------|------------------|-----------|
+| :isv[morje] (root :isv[morj-], where :isv[rj] = :ipa[rʲ]) | :isv[morjsky] | The :isv[rj] is an iotated consonant inherent to the root; it persists before :isv[-sky] (cf. Czech _mořský_, BCMS _morski_ with soft r) |
+| :isv[konj] (from PS \*konjь) | :isv[konjsky] | The final :isv[nj] is iotation-derived softness, preserved before :isv[-sky] (cf. Czech _koňský_, BCMS _konjski_) |
+
+In the etymological register (MS Plus), where yer-derived softness is explicitly marked, the soft mark persists before suffixes:
+
+| Root (MS Plus) | Derived adjective (MS Plus) | Standard form |
+|----------------|----------------------------|---------------|
+| :isv[svinь-] (from :isv[svinja], PS \*svinьja) | :isv[svińsky] | :isv[svinsky] |
+
+:::warning[Unresolved: Pre-Suffix Softening of S and Z]
+In MS Plus, certain consonants undergo softening before derivational suffixes such as :isv[-sky], :isv[-ny], :isv[-no], :isv[-ba]. This is already established for consonants like :isv[r] (e.g., :isv[boŕba]) and :isv[t] (e.g., :isv[svat́ba]). However, the extension of this pattern to :isv[s] → :isv[ś] and :isv[z] → :isv[ź] is not consistently applied.
+
+Cases where pre-suffix softening of :isv[s] and :isv[z] is expected by analogy with the broader pattern:
+
+| Root | Expected MS Plus form | Standard form | Comparative evidence |
+|------|-----------------------|---------------|---------------------|
+| :isv[Rus] + :isv[-sky] | :isv[ruśsky] | :isv[russky] | Polish _ruski_ (historically soft s), Russian _русский_ |
+| :isv[bliz] + :isv[-no] | :isv[pribliźno] | :isv[priblizno] | Czech _přibližně_, Russian _приблизительно_ (with soft z) |
+| :isv[obraz] + :isv[-ny] | :isv[obraźny] | :isv[obrazny] | Russian _образный_ (with soft z before derivational boundary) |
+| :isv[groza] + :isv[-ba] | :isv[groźba] | :isv[grozba] | Already attested in the dictionary with soft :isv[ź] |
+
+Note that :isv[t] and :isv[d] are partial exceptions: they generally do not soften before most suffixes in the living Slavic languages, except before :isv[-ba] (e.g., :isv[svat́ba]).
+
+The trade-offs are:
+1. **Extending softening to ś/ź** would make the MS Plus system more internally consistent and align with the comparative Slavic evidence.
+2. **Not extending it** keeps the rule set smaller and avoids introducing distinctions that may not be salient to all Slavic speakers.
+
+A systematic review of all derivational contexts involving :isv[s] and :isv[z] before suffixes is needed to determine the correct scope of this rule.
+:::
 
 **Full suffix inventory for adjective derivation from nouns:**
 
@@ -228,18 +253,16 @@ Suffixes beginning with :isv[-o-] change to :isv[-e-] after a soft consonant:
 This entire subsection on possessive adjectives has no basis in the source material. The source does not discuss possessive adjective suffixes :isv[-ov], :isv[-in], or the gender-based selection rules described here.
 :::
 
-### 5.10.2.2. Possessive Adjectives: :isv[-ov], :isv[-in], :isv[-ji]
-
+### Possessive Adjectives: :isv[-ov], :isv[-in], :isv[-ji]
 Possessive adjectives are derived from noun bases. The suffix selection follows the gender of the base noun:
 
 | Base gender | Suffix | Example |
 |-------------|--------|---------|
 | Masculine/neuter | :isv[-ov] | :isv[brat] "brother" → :isv[bratov] "brother's" |
 | Feminine | :isv[-in] | :isv[mati] "mother" → :isv[matin] "mother's" |
-| Animate (archaic/etymological) | :isv[-ji] | — (see also §5.3.4) |
+| Animate (archaic/etymological) | :isv[-ji] | — (see also ) |
 
-### 5.10.2.3. Material Adjectives: :isv[-any], :isv[-ěny]
-
+### Material Adjectives: :isv[-any], :isv[-ěny]
 :::caution[Unverified Content]
 The section heading includes suffix :isv[-any] but it is not discussed in the text or source. The example :isv[kameny] is not in the source and does not use the :isv[-ěny] suffix pattern described here.
 :::
@@ -252,9 +275,8 @@ The suffix :isv[-ěny] derives adjectives expressing the material from which som
 | :isv[steklo] "glass" | :isv[steklěny] | "made of glass" |
 | :isv[kamenj] "stone" | :isv[kameny] | "of stone" |
 
-### 5.10.2.4. Adjectives Derived from Verbs
-
-Verbal conjugation produces four adjectival forms in the shape of participles (see §5.9.5 for full paradigms). In addition:
+### Adjectives Derived from Verbs
+Verbal conjugation produces four adjectival forms in the shape of participles (see  for full paradigms). In addition:
 
 **Suffix :isv[-livy]** derives adjectives expressing tendency or habitual behaviour from verbs:
 
@@ -284,10 +306,8 @@ The example :isv[žalostlivy] is not in the source. Additionally, the derived fo
 
 ---
 
-## 5.10.3. Productive Verb-Forming Suffixes and Processes
-
-### 5.10.3.1. Denominative Verbs: :isv[-iti], :isv[-ovati]
-
+## Productive Verb-Forming Suffixes and Processes
+### Denominative Verbs: :isv[-iti], :isv[-ovati]
 **Suffix :isv[-ovati]** is the primary suffix for deriving verbs from nouns, expressing behaviour or activity associated with the noun:
 
 | Base | Derived form | Gloss |
@@ -313,8 +333,7 @@ The prefix :isv[obez-] combined with :isv[-iti] forms verbs meaning "to deprive 
 | :isv[glava] "head" | :isv[obezglaviti] | "to decapitate" |
 | :isv[dom] "house" | :isv[obezdomiti] | "to render homeless" |
 
-### 5.10.3.2. Causative Verbs: :isv[-iti] from Adjectives
-
+### Causative Verbs: :isv[-iti] from Adjectives
 The prefix :isv[o-] combined with :isv[-iti] forms causative verbs from adjectives, expressing "to make something have the quality of the adjective":
 
 | Base | Derived form | Gloss |
@@ -335,8 +354,7 @@ The prefix :isv[od-] combined with :isv[-iti] forms verbs expressing removal of 
 |------|-------------|-------|
 | :isv[črny] "black" | :isv[odčrniti] | "to remove the black colour" |
 
-### 5.10.3.3. Iterative and Habitual Verbs: :isv[-yvati]/:isv[-ivati], :isv[-vati]
-
+### Iterative and Habitual Verbs: :isv[-yvati]/:isv[-ivati], :isv[-vati]
 Prefixed perfective verbs derive imperfective counterparts through systematic suffix replacement. The rule set is as follows:
 
 | Perfective ending | Imperfective suffix | Example |
@@ -352,8 +370,7 @@ The source states that "the base form of a prefixed verb is always perfective" b
 
 **Normative rule:** Prefixation of a bare verb always creates a perfective verb. An imperfective counterpart MUST be derived by one of the suffix-replacement processes above.
 
-### 5.10.3.4. Inchoative Verbs: :isv[-ěti]
-
+### Inchoative Verbs: :isv[-ěti]
 The suffix :isv[-ěti] forms inchoative verbs from adjectives, expressing the process of becoming:
 
 | Base | Derived form | Gloss |
@@ -364,11 +381,9 @@ The suffix :isv[-ěti] forms inchoative verbs from adjectives, expressing the pr
 
 ---
 
-## 5.10.4. Verbal Prefixes: Meanings and Productivity
-
-### 5.10.4.1. Directional Prefixes
-
-The following table specifies all productive verbal prefixes with their primary spatial meanings, perfectivizing function, and idiomatic extensions. Prefixation of a bare imperfective verb always creates a perfective; for aspectual pairs, see §5.10.3.3.
+## Verbal Prefixes: Meanings and Productivity
+### Directional Prefixes
+The following table specifies all productive verbal prefixes with their primary spatial meanings, perfectivizing function, and idiomatic extensions. Prefixation of a bare imperfective verb always creates a perfective; for aspectual pairs, see the relevant section
 
 | Prefix | Primary meaning | Key examples |
 |--------|-----------------|--------------|
@@ -395,8 +410,7 @@ The following table specifies all productive verbal prefixes with their primary 
 | :isv[vy-] | out; completely; well (North Slavic; = :isv[iz-] in South Slavic) | :isv[vyjdti] "to go out"; :isv[vyvariti] "to boil completely" |
 | :isv[za-] | behind; closing; beginning | :isv[zajdti] "to go behind"; :isv[zapěvati] "to start singing" |
 
-### 5.10.4.2. Aspectual-Only Prefixes
-
+### Aspectual-Only Prefixes
 :::caution[Unverified Content]
 The source says :isv[po-] is "often used as a perfective marker" but does not state a SHOULD preference for :isv[po-] over other prefixes. The normative SHOULD language is an editorial addition.
 :::
@@ -405,20 +419,18 @@ The prefix :isv[po-] functions as a default perfectivizer for a wide range of ve
 
 The prefix :isv[na-] (with reflexive :isv[se]) signals satiation or sufficiency: :isv[naspati se] "to sleep one's fill"; :isv[najesti se] "to eat one's fill".
 
-The prefixes :isv[prě-] and :isv[u-] are used specifically with adjectives as bases to produce perfective verbs expressing intensification (see §5.10.3.2):
+The prefixes :isv[prě-] and :isv[u-] are used specifically with adjectives as bases to produce perfective verbs expressing intensification (see the relevant section):
 - :isv[prě-] + adjective: "very/too much" → :isv[prěumorjeny] "exhausted"
 - :isv[ne-] (negative prefix) + adjective: negation → :isv[nedobry] "not good"
 
 ---
 
-## 5.10.5. Nominalisations and Deverbal Nouns
-
+## Nominalisations and Deverbal Nouns
 :::caution[Unverified Content]
-This section largely duplicates content from section 5.10.1.2 (verbal nouns in :isv[-nje]/:isv[-tje]) and 5.10.1.1 (agent nouns). The subsections on result nouns (:isv[-ok], :isv[-ba]) below introduce suffixes not attested in the source material.
+This section largely duplicates content from section (verbal nouns in :isv[-nje]/:isv[-tje]) and  (agent nouns). The subsections on result nouns (:isv[-ok], :isv[-ba]) below introduce suffixes not attested in the source material.
 :::
 
-### 5.10.5.1. Action Nominalization: Verbal Nouns in :isv[-nje]/:isv[-tje]
-
+### Action Nominalization: Verbal Nouns in :isv[-nje]/:isv[-tje]
 The verbal noun (gerund) is the standard action nominalization. It is formed from the verb infinitive by replacing :isv[-ti] with :isv[-nje], or where the past passive participle stem ends in :isv[-t-], with :isv[-tje]:
 
 | Infinitive | Verbal noun | Gloss |
@@ -438,8 +450,7 @@ Verbal nouns are always neuter and decline following the :isv[-nje]/:isv[-tje] n
 This entire subsection on result nominalization is not supported by the source material. The suffixes :isv[-ok] (as result noun), :isv[-ba], and :isv[-ina] (as result noun) and the examples :isv[krojok], :isv[borba], and :isv[prosba] do not appear in the source.
 :::
 
-### 5.10.5.2. Result Nominalization: :isv[-ok], :isv[-ba], :isv[-ina]
-
+### Result Nominalization: :isv[-ok], :isv[-ba], :isv[-ina]
 Result nouns denote the product or outcome of an action rather than the action itself.
 
 **Suffix :isv[-ok]** (masculine) derives result nouns from verb stems:
@@ -455,9 +466,8 @@ Result nouns denote the product or outcome of an action rather than the action i
 | :isv[boriti] "to fight" | :isv[borba] | "struggle, fight" |
 | :isv[prositi] "to beg" | :isv[prosba] | "request" |
 
-### 5.10.5.3. Agent Nominalization: :isv[-telj], :isv[-nik], :isv[-ec]
-
-Agent nominalization from verb bases is treated fully in §5.10.1.1. These three suffixes are the primary deverbal agent noun suffixes, with :isv[-telj] restricted to verb bases and :isv[-nik] more commonly derived from noun bases.
+### Agent Nominalization: :isv[-telj], :isv[-nik], :isv[-ec]
+Agent nominalization from verb bases is treated fully in the relevant section These three suffixes are the primary deverbal agent noun suffixes, with :isv[-telj] restricted to verb bases and :isv[-nik] more commonly derived from noun bases.
 
 ---
 
@@ -465,8 +475,7 @@ Agent nominalization from verb bases is treated fully in §5.10.1.1. These three
 This entire section on zero derivation is not discussed in the source material. The source mentions that an adjective "can also function as a noun, remaining unchanged" (with :isv[běly] as example) but does not describe a "zero derivation" process, deverbal noun conversion, or the SHOULD rule about lexicalized items. The :isv[vezti] to :isv[voz] example is not in the source.
 :::
 
-## 5.10.6. Zero Derivation
-
+## Zero Derivation
 Zero derivation (conversion) is a minor process in Interslavic by which a word changes word class without any overt affixal change.
 
 The primary attested case is the deverbal noun directly from a verb root, where the noun denotes a vehicle, instrument, or container associated with the verbal action:
@@ -481,10 +490,8 @@ Zero derivation is **not** a productive process in Interslavic and its outputs S
 
 ---
 
-## 5.10.7. Compounding
-
-### 5.10.7.1. Compound Formation Rules
-
+## Compounding
+### Compound Formation Rules
 Interslavic permits free compounding of two roots to express a new concept. The standard linking element is :isv[-o-] after hard consonants and :isv[-e-] after soft consonants:
 
 | First element | Second element | Compound | Gloss |
@@ -506,8 +513,7 @@ The source describes compounding with :isv[-o-] (and :isv[-e-] after soft conson
 
 The linking vowel MUST be :isv[-o-] after hard consonants and :isv[-e-] after soft consonants. No linking vowel is inserted when the first element already ends in a vowel.
 
-### 5.10.7.2. Compound Orthography
-
+### Compound Orthography
 When the first element of a compound is a borrowing from English or another non-Slavic language, the elements MAY be separated by a hyphen (Interslavic: :isv[defis]):
 
 | Latin script | Gloss |
@@ -518,17 +524,15 @@ When the first element of a compound is a borrowing from English or another non-
 Native Interslavic compounds are written as a single word without a hyphen.
 
 :::caution[Unverified Content]
-The cross-reference to §4.6.5 cannot be verified against the source material.
+The cross-reference to  cannot be verified against the source material.
 :::
 
-For the treatment of compound orthography in the context of the writing system, see §4.6.5.
+For the treatment of compound orthography in the context of the writing system, see the relevant section
 
 ---
 
-## 5.10.8. Adverb Formation
-
-### 5.10.8.1. Adjective to Adverb: :isv[-o]
-
+## Adverb Formation
+### Adjective to Adverb: :isv[-o]
 The standard adverb is formed from an adjective by substituting the adjectival ending with :isv[-o]:
 
 | Adjective | Adverb | Gloss |
@@ -537,8 +541,7 @@ The standard adverb is formed from an adjective by substituting the adjectival e
 | :isv[tihy] "quiet" | :isv[tiho] | "quietly" |
 | :isv[skory] "fast" | :isv[skoro] | "quickly, soon" |
 
-### 5.10.8.2. Comparative Adverbs: :isv[-(ě)je]
-
+### Comparative Adverbs: :isv[-(ě)je]
 The comparative form of the adverb is derived by replacing the comparative adjective suffix :isv[-(ěj)ši] with :isv[-(ě)je]:
 
 | Comparative adjective | Comparative adverb | Gloss |

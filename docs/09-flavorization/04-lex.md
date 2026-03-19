@@ -1,15 +1,13 @@
-# 9.4. Lexical Flavorization
-
+# Lexical Flavorization
 Lexical flavorization selects among documented Interslavic synonyms according to their regional distribution.
 Unlike phonological or morphological flavorization, which alters the form of words, lexical flavorization chooses between distinct lexical items — each independently attested in the Slavic languages — whose geographic distribution differs across the Slavic dialect continuum.
 
 All lexical choices specified in this chapter draw exclusively from the documented Interslavic dictionary.
-Introducing words borrowed solely from a single national language without broader Slavic etymological grounding does not constitute flavorization; it constitutes code-switching (§9.1.3).
+Introducing words borrowed solely from a single national language without broader Slavic etymological grounding does not constitute flavorization; it constitutes code-switching .
 
 ---
 
-## 9.4.1. Regional Synonyms and Their Distribution
-
+## Regional Synonyms and Their Distribution
 :::caution[Unverified Content]
 The formal labeling system (North/South/East/West) with the specific definitions in the table below is not described in the source material. The source mentions that the dictionary "sometimes offers synonyms, with one word covering one part of Slavic territory and a second word the other," but does not define a formal label taxonomy.
 :::
@@ -33,16 +31,14 @@ The committee should specify the formal criteria by which a synonym pair receive
 
 ---
 
-## 9.4.2. Northern vs. Southern Lexical Choices
-
+## Northern vs. Southern Lexical Choices
 The following table documents the principal lexical alternations between the Northern and Southern canonical models.
 Items are listed by semantic category.
 
-### 9.4.2.1. Pronouns and Determiners
-
+### Pronouns and Determiners
 | Meaning | Northern | Southern | Notes |
 |---|---|---|---|
-| which, who (relative) | :isv[ktory] | :isv[koj] | See also §9.3.3 |
+| which, who (relative) | :isv[ktory] | :isv[koj] | See also  |
 :::caution[Unverified Content]
 The `tot`/`taj` and `onen`/`onaj` demonstrative pronoun alternations are not discussed in the source material. Only the `ktory`/`koj` relative pronoun distinction is sourced.
 :::
@@ -56,8 +52,7 @@ Regional reference:
 |---|---|---|---|---|
 | `który` | `котрий` | `який` | `který` | `који` |
 
-### 9.4.2.2. Prepositions and Particles
-
+### Prepositions and Particles
 | Meaning | Northern | Southern |
 |---|---|---|
 | for (purposive) | :isv[dlja] | :isv[za] |
@@ -75,9 +70,8 @@ Regional reference for 'for (purposive)':
 |---|---|---|---|---|
 | `dla` | `для` | `за` | `pro` | `за` |
 
-### 9.4.2.3. Verbal Prefixes as Lexical Markers
-
-The prefix alternation :isv[vy-] / :isv[iz-] (documented morphologically in §9.3.4) also has a lexical dimension: many prefixed verbs are lexicalized with one prefix but not the other, creating Northern and Southern vocabulary items.
+### Verbal Prefixes as Lexical Markers
+The prefix alternation :isv[vy-] / :isv[iz-] (documented morphologically in the relevant section) also has a lexical dimension: many prefixed verbs are lexicalized with one prefix but not the other, creating Northern and Southern vocabulary items.
 
 | Meaning | Northern | Southern |
 |---|---|---|
@@ -86,8 +80,7 @@ The prefix alternation :isv[vy-] / :isv[iz-] (documented morphologically in §9.
 | to carry out | :isv[vynesti] | :isv[iznesti] |
 | to produce | :isv[vyrobiti] | :isv[izrobiti] |
 
-### 9.4.2.4. Common Vocabulary Alternations
-
+### Common Vocabulary Alternations
 :::caution[Unverified Content]
 This entire vocabulary alternation table is not present in the source material. The source mentions that the dictionary offers synonyms with regional distribution but does not list specific word pairs such as `gorod`/`grad`, `glaz`/`oko`, `vsegda`/`uvěk`, `uže`/`već`, `toliko`/`samo`, `očenь`/`veoma`, `teper`/`sada`, etc. These pairs may be plausible but cannot be verified against the source.
 :::
@@ -119,8 +112,7 @@ Regional reference for 'city':
 The vocabulary alternation table above is illustrative and not exhaustive. The committee should review and expand this table to cover all major synonym pairs in the Interslavic dictionary that carry a regional preference marking. In particular, the committee should confirm whether :isv[gorod] is the recommended Northern form or whether :isv[město] is preferred for a West-Slavic-leaning Northern flavor.
 :::
 
-### 9.4.2.5. Conjunctions and Discourse Markers
-
+### Conjunctions and Discourse Markers
 :::caution[Unverified Content]
 This entire section on conjunction and discourse marker alternations (`no`/`ali`, `esli`/`ako`, `kogda`/`kad`, `poka`/`dok`, `posle`/`nakon`) is not present in the source material. These pairs may be plausible but cannot be verified against the source.
 :::
@@ -142,8 +134,7 @@ Regional reference for 'if':
 
 ---
 
-## 9.4.3. Worked Lexical Flavorization Example
-
+## Worked Lexical Flavorization Example
 The following parallel texts illustrate lexical flavorization.
 The same propositional content is expressed in standard Interslavic, then in the Northern canonical model, then in the Southern canonical model.
 Lexically flavorized items are marked with square brackets and annotated below.
@@ -179,7 +170,7 @@ Lexical choices (Southern):
 ---
 
 **Observation:** The Northern and Southern versions are mutually intelligible: all four substituted words are attested in the standard Interslavic dictionary, and any speaker of standard Interslavic can recover the meaning without difficulty.
-This illustrates the intelligibility threshold requirement of §9.1.3.
+This illustrates the intelligibility threshold requirement of the relevant section
 
 :::info[TODO: Committee Input Needed]
 The worked example above should be expanded to include at least one example that exercises conjunctions, verbal prefix alternations, and pronoun/determiner choices simultaneously. The committee should also specify whether annotated lexical flavorization examples should mark the standard form, the Northern form, and the Southern form in a three-column parallel format, or whether the current inline annotation style is preferred.

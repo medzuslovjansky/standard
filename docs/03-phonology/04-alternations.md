@@ -1,5 +1,4 @@
-# 3.4. Phonological Alternations and Morphophonology
-
+# Phonological Alternations and Morphophonology
 Inflection in Interslavic is kept as regular as possible.
 Nevertheless, alternations such as palatalization and iotation of consonants are pervasive across all Slavic languages.
 They play a crucial role in both inflection and word formation, and cannot be avoided even in the most simplified register of Interslavic — to do otherwise would produce forms that are heavily artificial and unnatural to every Slavic ear.
@@ -9,10 +8,8 @@ Rules stated with **SHALL** or **MUST** are obligatory; rules stated with **SHOU
 
 ---
 
-## 3.4.1. Palatalization
-
-### 3.4.1.1. First (Velar) Palatalization: k g h c → č ž š č
-
+## Palatalization
+### First (Velar) Palatalization: k g h c → č ž š č
 _Palatalization_ is the conditioned change of the velar consonants :ipa[/k g h/] — and, in a subset of environments, the dental affricate :ipa[/c/] — to the postalveolar consonants :ipa[/č ž š/].
 
 | Input (Latin) | Output (Latin) | IPA change |
@@ -81,9 +78,8 @@ The examples `Čeh → češsky` and `drug → družba` are not present in the s
 | :isv[Čeh] | :isv[češsky] | Czech (person) → Czech (adj.) |
 | :isv[drug] | :isv[družba] | friend → friendship |
 
-### 3.4.1.2. Scope Restriction: Palatalization is Not a General Declension Rule
-
-First palatalization SHALL NOT apply in the regular declension of nouns, adjectives, or pronouns, except in the vocative singular described in §3.4.1.1a.
+### Scope Restriction: Palatalization is Not a General Declension Rule
+First palatalization SHALL NOT apply in the regular declension of nouns, adjectives, or pronouns, except in the vocative singular described in the relevant sectiona.
 
 Examples demonstrating absence of palatalization in declension:
 
@@ -99,8 +95,7 @@ Examples demonstrating absence of palatalization in declension:
 The source material does not discuss second (progressive) palatalization. This entire subsection, including the claim that its results are preserved in lexicalized forms, has no basis in the primary source.
 :::
 
-### 3.4.1.3. Second (Progressive) Palatalization: Lexically Preserved Forms
-
+### Second (Progressive) Palatalization: Lexically Preserved Forms
 The historical second (progressive) palatalization — whereby velars following a front vowel shifted to :ipa[/c z s/] — is not a productive synchronic rule in Interslavic.
 However, its results are preserved in a number of lexicalized forms and SHOULD be recognized by learners.
 
@@ -110,14 +105,12 @@ A curated list of lexicalized second-palatalization forms in the Standard Inters
 
 ---
 
-## 3.4.2. Iotation
-
+## Iotation
 _Iotation_ is the conditioned change of a hard consonant when it is followed by the palatal glide :ipa[/j/].
 The result differs from simple softening: the :ipa[/j/] is absorbed into the consonant and does not appear in the surface form.
-Iotation is distinct from palatalization (§3.4.1) and from simple palatal softening (§3.1.2.3).
+Iotation is distinct from palatalization  and from simple palatal softening .
 
-### 3.4.2.1. Iotation Patterns by Consonant Class
-
+### Iotation Patterns by Consonant Class
 :::caution[Unverified Content]
 The detailed iotation table below includes IPA values, specific ISV example words (e.g., `topjų`, `krmjų`, `krvjų`, `družų`, `koljų`, `klonjų`, `govorjų`, `košų`, `važų`, `svěćų`, `vođų`, `piščų`, `pušćų`, `jěžđų`), and the `zg → žž/žđ` row that are not present in the source material. The source provides the consonant-change rules but not these specific example forms.
 :::
@@ -154,14 +147,17 @@ This approach is consistent with West Slavic usage and maximizes regularity.
 In standard orthography these are written as :isv[č] and :isv[dž] (Cyrillic `ч` and `дж`).
 The distinction between :isv[ć]/:isv[đ] and :isv[č]/:isv[dž] is therefore of etymological significance only and does not affect standard spelling.
 
+**Note on `st`/`zd` iotation and the clusters :isv[šć] and :isv[žđ]:** The iotation of :isv[st] → :isv[šć] and :isv[zd] → :isv[žđ] constitutes a distinct alternation pattern whose reflexes across Slavic languages differ substantially from those of simple :isv[t]/​:isv[d] iotation. For example: :isv[čistiti] → :isv[čišćeńje]/​:isv[čišćeny] ("cleaning/cleaned"), :isv[jezditi] → :isv[ježđeńje]/​:isv[ježđeny] ("riding/ridden").
+
+There are two approaches to pronouncing these clusters in MS Plus. In the first approach (influenced by East Slavic, Polish), the preceding hard sibilant assimilates the softness of the following affricate: :isv[šć] is pronounced :ipa[[ɕt͡ɕ]] (with :isv[š] becoming :ipa[[ɕ]]) and :isv[žđ] is pronounced :ipa[[ʑd͡ʑ]] (with :isv[ž] becoming :ipa[[ʑ]]). This approach is reflected in IPA transcriptions in the Dynamic Dictionary. In the second approach (as in Serbo-Croatian, Czech, Slovak), each consonant retains its independent pronunciation: :isv[šć] is :ipa[[ʂt͡ɕ]] and :isv[žđ] is :ipa[[ʐd͡ʑ]], with the sibilant remaining hard. Both approaches are acceptable; the second is simpler in that each letter has a fixed pronunciation regardless of context.
+
 :::caution[Unverified Content]
 The note below about Proto-Slavic `*kt`/`*gt` clusters and the examples `moć`, `noć`, `peć` is not discussed in the source material.
 :::
 
 **Note on `kt`/`gt` clusters:** Proto-Slavic \*kt and \*gt before front vowels also merged with the iotation output of :ipa[/t/]; the reflex in Interslavic is :isv[ć] (written :isv[č]) / :isv[đ] (written :isv[dž]) as in Serbo-Croatian: _moć_ "power," _noć_ "night," _peć_ "oven."
 
-### 3.4.2.2. Environments Where Iotation Applies
-
+### Environments Where Iotation Applies
 Iotation SHALL apply in the following morphological environments:
 
 **a. First person singular present tense of `-iti` class verbs:**
@@ -187,6 +183,10 @@ The examples `světiti → svěčeny` and `prositi → prošeny` are not in the 
 
 | :isv[světiti] | :isv[svěčeny] | lit, illuminated |
 | :isv[prositi] | :isv[prošeny] | asked, requested |
+| :isv[posvętiti] | :isv[posvęćeny] | consecrated |
+| :isv[roditi] | :isv[rođeny] | born |
+
+The same iotation applies to verbal nouns (ending in :isv[-ćeńje]/:isv[-đeńje] in the etymological register, :isv[-čeńje]/:isv[-dženje] in standard): :isv[posvętiti] → :isv[posvęćeńje] "consecration," :isv[roditi] → :isv[rođeńje] "birth." The iotation of :isv[st] and :isv[zd] clusters follows the same pattern: :isv[čistiti] → :isv[čišćeńje]/​:isv[čišćeny] "cleaning/cleaned," :isv[jezditi] → :isv[ježđeńje]/​:isv[ježđeny] "riding/ridden."
 
 **c. Imperfective derivation from perfective verbs in `-iti` (before `-jati`/`-jovati`):**
 
@@ -198,6 +198,10 @@ The example `osvětiti → osvěčati` is not in the source material. The source
 :::
 
 | :isv[osvětiti] | :isv[osvěčati] | to illuminate (ipfv.) |
+| :isv[ograditi] | :isv[ograđati] | to fence in (ipfv.) |
+| :isv[nasytiti] | :isv[nasyćati] | to saturate (ipfv.) |
+
+The alternation of stem-final :isv[-titi]/:isv[-diti] to :isv[-ćati]/:isv[-đati] (standard :isv[-čati]/:isv[-džati]) is one of the most productive iotation patterns in Interslavic verb morphology.
 
 **d. With the palatalizing suffix `-je` (verbal nouns and place names):**
 
@@ -206,8 +210,7 @@ The example `osvětiti → osvěčati` is not in the source material. The source
 | :isv[dělati] | :isv[dělanje] | doing, action |
 | :isv[morje] | :isv[primorje] | seashore |
 
-### 3.4.2.3. Iotation Blocked at Prefix Boundaries
-
+### Iotation Blocked at Prefix Boundaries
 Iotation SHALL NOT apply across a prefix-stem boundary when the stem begins with `j-`.
 The prefix and stem retain their respective phonemes unchanged.
 
@@ -224,8 +227,7 @@ These SHALL NOT be spelled :isv[šesti], :isv[vjati] → `*žati`, etc.
 
 ---
 
-## 3.4.3. Interaction of Soft Consonants with /j/: Palatalization Without Iotation
-
+## Interaction of Soft Consonants with /j/: Palatalization Without Iotation
 When a consonant that is already soft is followed by :ipa[/j/], the consonant and glide remain unchanged; no further iotation occurs.
 The softener blocks the change.
 
@@ -267,14 +269,12 @@ This pattern applies in:
 
 ---
 
-## 3.4.4. The o/e Alternation After Soft Consonants
-
+## The o/e Alternation After Soft Consonants
 Old Slavic did not permit :ipa[/o/] after a soft consonant.
 Whenever such a sequence arose through inflection or suffixation, the :ipa[/o/] was replaced by :ipa[/e/].
 This rule is maintained as a productive alternation in Interslavic.
 
-### 3.4.4.1. Rule Statement
-
+### Rule Statement
 After a soft consonant, the following ending and suffix vowels SHALL be changed as shown:
 
 | After hard consonant | After soft consonant |
@@ -287,8 +287,7 @@ After a soft consonant, the following ending and suffix vowels SHALL be changed 
 
 The same alternation applies within the suffixes `-ost`, `-ovati`, and `-ovy` when their stem ends in a soft consonant.
 
-### 3.4.4.2. Paradigm Examples
-
+### Paradigm Examples
 | Hard-stem form | Soft-stem form | Gloss / grammatical note |
 |---|---|---|
 | :isv[okno] | :isv[morje] | nom. sg. neuter |
@@ -303,13 +302,11 @@ The doc uses `svěžost` but the source material has `svěžest́` (with the sof
 
 ---
 
-## 3.4.5. The y/i and y/e Alternations
-
-The phoneme :ipa[/y/] MUST NOT follow a soft consonant (see §3.2.2.1).
+## The y/i and y/e Alternations
+The phoneme :ipa[/y/] MUST NOT follow a soft consonant (see the relevant section).
 As a consequence, inflectional endings containing :ipa[/y/] alternate with endings containing :ipa[/i/] or :ipa[/e/] depending on whether the stem ends in a hard or soft consonant.
 
-### 3.4.5.1. Adjectives and Pronouns: y → i After Soft Consonants
-
+### Adjectives and Pronouns: y → i After Soft Consonants
 In adjectival and pronominal endings, :ipa[/y/] becomes :ipa[/i/] after soft consonants.
 
 | Hard-stem form | Soft-stem form | Grammatical context |
@@ -322,8 +319,7 @@ The example `novomu / trěćemu` is not in the source material. The source only 
 
 | :isv[novomu] | :isv[trěćemu] | dat. sg. m. adj. |
 
-### 3.4.5.2. Nouns: y → e After Soft Consonants
-
+### Nouns: y → e After Soft Consonants
 In noun endings, the soft counterpart of :ipa[/y/] is :ipa[/e/], not :ipa[/i/].
 
 | Hard-stem form | Soft-stem form | Grammatical context |
@@ -338,11 +334,10 @@ The example `slovy / morja / morje` is not in the source material, which only pr
 
 ---
 
-## 3.4.6. ě → i in Dative/Locative of Soft-Stem Feminine Nouns
-
-The phoneme :ipa[/ě/] MUST follow a hard consonant or :ipa[/c/] in standard Interslavic (see §3.2.2.2).
+## ě → i in Dative/Locative of Soft-Stem Feminine Nouns
+The phoneme :ipa[/ě/] MUST follow a hard consonant or :ipa[/c/] in standard Interslavic (see the relevant section).
 Consequently, in the dative and locative singular of feminine nouns with a soft stem, the ending `-ě` is replaced by `-i`.
-This is the inverse of the y → e rule (§3.4.5.2): whereas the y/e alternation reflects the impossibility of :ipa[/y/] after soft consonants, this alternation reflects the impossibility of :ipa[/ě/] after soft consonants.
+This is the inverse of the y → e rule : whereas the y/e alternation reflects the impossibility of :ipa[/y/] after soft consonants, this alternation reflects the impossibility of :ipa[/ě/] after soft consonants.
 
 | Hard-stem form | Soft-stem form | Grammatical context |
 |---|---|---|
@@ -356,15 +351,13 @@ The examples `sestě / nočji` and `ženbě / zemji` are not in the source mater
 
 ---
 
-## 3.4.7. Fleeting Vowels (Jer Reflexes)
-
+## Fleeting Vowels (Jer Reflexes)
 A characteristic feature of Slavic morphophonology is the existence of "fleeting" (movable) vowels — vowels that appear in some forms of a word but disappear in others.
 These reflect the Common Slavic reduced vowels (jers) `ъ` and `ь`, which were lost in "weak" syllabic positions and vocalized to :ipa[/o/] and :ipa[/e/] in "strong" positions.
 
 In most cases, a fleeting vowel appears when its absence would produce an impermissible final consonant cluster, and disappears when a vowel-initial ending follows.
 
-### 3.4.7.1. Environments for Fleeting -o- and -e-
-
+### Environments for Fleeting -o- and -e-
 Fleeting vowels appear in the following morphological environments:
 
 **a. Nominative (and inanimate accusative) singular of certain masculine nouns:**
@@ -417,8 +410,7 @@ The example `sestra / sestėr` is not in the source material, which only lists `
 | :isv[s-] (prefix) | :isv[sȯdržati] | to contain |
 | :isv[v-] (prefix) | :isv[vȯjdti] | to enter |
 
-### 3.4.7.2. Fleeting Vowel Marking in Citation Forms
-
+### Fleeting Vowel Marking in Citation Forms
 In standard orthography, fleeting vowels are not distinguished from regular vowels in spelling; the word is written in its full (strong) form with `o` or `e`.
 In the etymological register, fleeting vowels MAY be marked with the dot diacritic: :isv[ȯ] for fleeting :ipa[/o/] and :isv[ė] for fleeting :ipa[/e/].
 Dictionaries SHOULD mark fleeting vowels to signal the alternation to learners and NLP tools.
@@ -439,14 +431,8 @@ The cross-Slavic divergence of the hard jer `*ъ` (producing `o` in Russian, `e`
 
 ---
 
-:::caution[Unverified Content]
-This entire section on voicing assimilation (3.4.8) has no basis in the primary source material, which does not discuss voicing assimilation, final devoicing, or transparent segments. All normative claims (SHALL, SHOULD, MAY) in this section are unsourced.
-:::
-
-## 3.4.8. Voicing Assimilation
-
-### 3.4.8.1. Regressive (Anticipatory) Voicing Assimilation
-
+## Voicing Assimilation
+### Regressive (Anticipatory) Voicing Assimilation
 Within obstruent clusters, voicing assimilates regressively: each obstruent in the cluster takes on the voicing of the rightmost obstruent.
 This rule applies within words and SHOULD be reflected in pronunciation; it is not indicated in standard orthography.
 
@@ -455,34 +441,39 @@ This rule applies within words and SHOULD be reflected in pronunciation; it is n
 | Voiceless + voiced → voiced + voiced | cluster-internal | :isv[prosba] | :ipa[[ˈprɔzba]] | request |
 | Voiced + voiceless → voiceless + voiceless | cluster-internal | :isv[vod+ka] | :ipa[[ˈvɔtka]] | vodka (loanword) |
 
-### 3.4.8.2. Transparent Segments: /v/ and /j/
-
+### Transparent Segments: /v/ and /j/
 The consonants :ipa[/v/] and :ipa[/j/] SHALL NOT trigger devoicing of a preceding obstruent.
 They are phonologically transparent with respect to voicing assimilation: an obstruent before :ipa[/v/] or :ipa[/j/] retains its underlying voicing specification.
 
-### 3.4.8.3. Final Devoicing: Not Normative
+### Final Devoicing: Optional
+Final devoicing (the neutralization of voiced/voiceless obstruent contrasts in word-final position) is optional in Standard Interslavic. All major Slavic languages apply final devoicing except Ukrainian and Shtokavian (Serbian/Croatian/Bosnian), where word-final obstruents retain their voicing. Speakers MAY apply final devoicing or not, according to their native habits — neither approach significantly affects intelligibility.
 
-Final devoicing (the neutralization of voiced/voiceless obstruent contrasts in word-final position, as found in Russian, Polish, German, and Dutch) is NOT normative in Standard Interslavic.
-Word-final obstruents SHALL retain their underlying voicing specification in citation forms and formal speech.
-Speakers whose native language has final devoicing MAY apply it in casual speech, but this is not the prescribed standard.
+The following devoicing correspondences apply in word-final position:
+
+| Voiced | Devoiced | Example | Devoiced pronunciation |
+|---|---|---|---|
+| :isv[b] | :isv[p] | :isv[hlěb] | :ipa[[xlʲɛp]] |
+| :isv[d] | :isv[t] | :isv[sad] | :ipa[[sat]] |
+| :isv[dž] | :isv[č] | :isv[vodž] | :ipa[[vɔʈ͡ʂ]] |
+| :isv[g] | :isv[k] | :isv[geolog] | :ipa[[gɛɔɫɔk]] |
+| :isv[v] | :isv[f] | :isv[arhiv] | :ipa[[arxif]] |
+| :isv[z] | :isv[s] | :isv[prikaz] | :ipa[[prikas]] |
+| :isv[ž] | :isv[š] | :isv[bagaž] | :ipa[[bagaʂ]] |
 
 ---
 
 :::caution[Unverified Content]
-This entire section on vowel reduction (3.4.9) has no basis in the primary source material, which does not discuss vowel reduction or unstressed vowel quality. All normative claims (SHALL, MAY) in this section are unsourced.
+This entire section on vowel reduction () has no basis in the primary source material, which does not discuss vowel reduction or unstressed vowel quality. All normative claims (SHALL, MAY) in this section are unsourced.
 :::
 
-## 3.4.9. Vowel Reduction
-
-### 3.4.9.1. Vowel Reduction is Not Normative
-
+## Vowel Reduction
+### Vowel Reduction is Not Normative
 Unstressed vowel reduction — the process by which unstressed vowels merge into a central or mid vowel (as in Russian _аканье_ / _akan'je_, where unstressed :ipa[/o/] and :ipa[/a/] merge to :ipa[[ɐ]] or :ipa[[ə]]) — is NOT prescribed in Standard Interslavic.
 
 All vowels SHALL maintain their full phonemic quality regardless of stress position.
 This ensures maximum intelligibility across the Slavic language area, since vowel quality carries lexical and morphological information that would otherwise be lost.
 
-### 3.4.9.2. Permitted Speaker-Based Reduction
-
+### Permitted Speaker-Based Reduction
 Speakers from languages with strong vowel reduction (Russian, Ukrainian, to a lesser extent Bulgarian) MAY apply their native reduction patterns in casual or spontaneous speech.
 This is an acceptable allophonic variation and does not render the speech non-standard, provided the phonemic distinctions remain recoverable from context.
 In formal, written, or normative contexts, full vowel quality SHALL be maintained.
@@ -493,16 +484,16 @@ In formal, written, or normative contexts, full vowel quality SHALL be maintaine
 
 | Section | Alternation | Trigger environment | Example | Obligatory? |
 |---|---|---|---|---|
-| §3.4.1 | k g h c → č ž š č | Before `-e` (vocative, verb present); before `-i-`; before palatalizing suffixes | :isv[Bog] → :isv[Bože]; :isv[pekti] → :isv[pečeš] | SHALL |
-| §3.4.2 | Consonant + j → iotated output | 1sg. pres. of `-iti` verbs; PPP; imperfective derivation; suffix `-je` | :isv[prositi] → :isv[prošų]; :isv[tratiti] → :isv[tračeny] | SHALL |
+|  | k g h c → č ž š č | Before `-e` (vocative, verb present); before `-i-`; before palatalizing suffixes | :isv[Bog] → :isv[Bože]; :isv[pekti] → :isv[pečeš] | SHALL |
+|  | Consonant + j → iotated output | 1sg. pres. of `-iti` verbs; PPP; imperfective derivation; suffix `-je` | :isv[prositi] → :isv[prošų]; :isv[tratiti] → :isv[tračeny] | SHALL |
 :::caution[Unverified Content]
-The summary example `kosji` does not appear in section 3.4.3 itself, which uses `kotji` (from `kot`). This is an internal inconsistency. The form `kosji` (from `kos`, blackbird) is unverified.
+The summary example `kosji` does not appear in section itself, which uses `kotji` (from `kot`). This is an internal inconsistency. The form `kosji` (from `kos`, blackbird) is unverified.
 :::
 
-| §3.4.3 | Soft cons. + j → unchanged | Already-soft consonant before suffix `-je`/`-ji`/`-jų` | :isv[kosji] (not `\*košji`) | SHALL |
-| §3.4.4 | -o/-ov/-om/-ogo/-oj → -e/-ev/-em/-ego/-ej | After soft consonant | :isv[gradov] → :isv[krajev]; :isv[okno] → :isv[morje] | SHALL |
-| §3.4.5 | y → i (adj./pron.) or y → e (noun) | After soft consonant | :isv[dobry] → :isv[svěži]; :isv[domy] → :isv[kraje] | SHALL |
-| §3.4.6 | ě → i | Dat./loc. sg. f. after soft consonant | :isv[ženě] → :isv[zemji] | SHALL |
-| §3.4.7 | Fleeting o/e: appears in strong position, absent in weak | Nom. sg. m.; gen. pl. f./n.; before certain suffixes | :isv[otėc] ~ :isv[otca]; :isv[okno] ~ :isv[okėn] | lexically determined |
-| §3.4.8 | Voicing assimilation (regressive) | Obstruent clusters | :isv[prosba] → :ipa[[ˈprɔzba]] | pronunciation only |
-| §3.4.9 | Vowel reduction | Unstressed position | — | NOT normative |
+|  | Soft cons. + j → unchanged | Already-soft consonant before suffix `-je`/`-ji`/`-jų` | :isv[kosji] (not `\*košji`) | SHALL |
+|  | -o/-ov/-om/-ogo/-oj → -e/-ev/-em/-ego/-ej | After soft consonant | :isv[gradov] → :isv[krajev]; :isv[okno] → :isv[morje] | SHALL |
+|  | y → i (adj./pron.) or y → e (noun) | After soft consonant | :isv[dobry] → :isv[svěži]; :isv[domy] → :isv[kraje] | SHALL |
+|  | ě → i | Dat./loc. sg. f. after soft consonant | :isv[ženě] → :isv[zemji] | SHALL |
+|  | Fleeting o/e: appears in strong position, absent in weak | Nom. sg. m.; gen. pl. f./n.; before certain suffixes | :isv[otėc] ~ :isv[otca]; :isv[okno] ~ :isv[okėn] | lexically determined |
+|  | Voicing assimilation (regressive) | Obstruent clusters | :isv[prosba] → :ipa[[ˈprɔzba]] | pronunciation only |
+|  | Vowel reduction | Unstressed position | — | NOT normative |

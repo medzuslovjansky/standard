@@ -1,5 +1,4 @@
-# 5.9. Conjunctions and Particles
-
+# Conjunctions and Particles
 :::caution[Unverified Content]
 The RFC 2119 normative framing (MUST, SHALL, SHOULD, MAY) is an editorial addition. The source material does not use normative language or RFC 2119 terminology.
 :::
@@ -8,8 +7,7 @@ This section specifies the inventory and usage of conjunctions, particles, cliti
 
 ---
 
-## 5.9.1. Coordinating Conjunctions
-
+## Coordinating Conjunctions
 A **coordinating conjunction** joins two or more words, phrases, or clauses of equal syntactic weight. Coordinating conjunctions are invariable and stand between the items they conjoin.
 
 | Form | Meaning |
@@ -34,8 +32,7 @@ The conjunctions :isv[i] and :isv[a] differ in nuance: :isv[i] introduces a simp
 
 ---
 
-## 5.9.2. Subordinating Conjunctions
-
+## Subordinating Conjunctions
 A **subordinating conjunction** links a dependent (subordinate) clause to an independent (main) clause. Subordinating conjunctions are invariable.
 
 | Form | Meaning |
@@ -67,8 +64,7 @@ A **subordinating conjunction** links a dependent (subordinate) clause to an ind
 | :isv[že] | that |
 | :isv[že by] | in order to, so that |
 
-### 5.9.2.1. Final Clauses
-
+### Final Clauses
 Final (purpose) clauses expressing purpose MAY be introduced by :isv[že] or :isv[da] followed by the conditional particle :isv[by]:
 
 - :isv[Turisti posětet Niderlandiju, že by fotografovali tulipany.] — "Tourists visit the Netherlands to photograph the tulips."
@@ -76,8 +72,7 @@ Final (purpose) clauses expressing purpose MAY be introduced by :isv[že] or :is
 
 ---
 
-## 5.9.3. Correlative Conjunctions
-
+## Correlative Conjunctions
 :::caution[Unverified Content]
 The MUST constraint requiring both members of the pair to be present is an editorial addition. The source lists correlative conjunctions but does not state normative usage rules.
 :::
@@ -95,8 +90,7 @@ The MUST constraint requiring both members of the pair to be present is an edito
 
 ---
 
-## 5.9.4. The Question Particle :isv[li]
-
+## The Question Particle :isv[li]
 :::caution[Unverified Content]
 The source material states that :isv[li] is "placed right after the focus point of the question, usually the verb" but does not use normative MUST language. The MUST constraint is editorial.
 :::
@@ -105,14 +99,13 @@ The particle :isv[li] is a sentential clitic used to form **yes/no questions**. 
 
 - :isv[Kupil li otec knigu?] — "Has father bought a book?"
 
-The particle :isv[li] is unstressed and functions as an enclitic (see §5.9.7). When used as a subordinating conjunction introducing an indirect yes/no question, :isv[li] means "whether, if":
+The particle :isv[li] is unstressed and functions as an enclitic (see the relevant section). When used as a subordinating conjunction introducing an indirect yes/no question, :isv[li] means "whether, if":
 
 - :isv[Ne věm, kupil li otec knigu.] — "I don't know whether father bought a book."
 
 ---
 
-## 5.9.5. The Question Particle :isv[či]
-
+## The Question Particle :isv[či]
 :::caution[Unverified Content]
 The source describes :isv[či] as preceding the sentence but does not specify normative rules about its position or its equivalence with other question constructions in the detail given below.
 :::
@@ -121,7 +114,7 @@ The particle :isv[či] introduces a **yes/no question** by fronting the entire c
 
 - :isv[Či otec kupil knigu?] — "Has father bought a book?"
 
-As a subordinating conjunction (§5.9.2), :isv[či] introduces indirect yes/no questions meaning "whether":
+As a subordinating conjunction , :isv[či] introduces indirect yes/no questions meaning "whether":
 
 - :isv[Sprašal jesm go, či on prijde.] — "I asked him whether he would come."
 
@@ -137,14 +130,13 @@ All three constructions (intonation, :isv[či], :isv[li]) are grammatically equi
 This entire section on the negative particle :isv[ne], including double negation rules and the MUST/OBLIGATORY constraints, has no basis in the designated source material (grammar-conjunctions.md / grammar-prepositions.md). These rules may reflect general Slavic grammar conventions but are not sourced here.
 :::
 
-## 5.9.6. The Negative Particle :isv[ne]
-
+## The Negative Particle :isv[ne]
 The particle :isv[ne] is the primary negation marker. It MUST immediately precede the verb it negates:
 
 - :isv[On ne ide.] — "He is not going."
 - :isv[Ja ne věm.] — "I don't know."
 
-When negative pronouns or adverbs (§5.5.7) are present in the clause, the negative particle :isv[ne] before the verb is OBLIGATORY. Double (or multiple) negation is grammatically required in Interslavic:
+When negative pronouns or adverbs  are present in the clause, the negative particle :isv[ne] before the verb is OBLIGATORY. Double (or multiple) negation is grammatically required in Interslavic:
 
 - :isv[Nikto ne prijde.] — "No one will come." (lit. "No one not-will-come")
 - :isv[Ničto ne znaju.] — "They know nothing."
@@ -157,8 +149,7 @@ Omission of :isv[ne] before the verb when a negative word is present constitutes
 This entire section on the optative particle :isv[nehaj] and its usage for third-person imperatives has no basis in the designated source material. The MUST constraint on placement is editorial.
 :::
 
-## 5.9.7. The Optative Particle :isv[nehaj]
-
+## The Optative Particle :isv[nehaj]
 The particle :isv[nehaj] is used to form **third-person imperatives** (jussives). It MUST precede the third-person present-tense verb form:
 
 - :isv[Nehaj on govori!] — "Let him speak!"
@@ -174,15 +165,13 @@ The inventory of additional particles (e.g., :isv[da], :isv[že] used as optativ
 ---
 
 :::caution[Unverified Content]
-This entire section on clitics and clitic placement (5.9.8), including the Wackernagel position constraint, clitic inventory tables, clitic ordering rules, and reflexive :isv[sę] placement rules, has no basis in the designated source material. The clitic pronoun forms, verbal clitic forms, ordering constraints, and all MUST requirements are editorial additions without source support.
+This entire section on clitics and clitic placement (), including the Wackernagel position constraint, clitic inventory tables, clitic ordering rules, and reflexive :isv[sę] placement rules, has no basis in the designated source material. The clitic pronoun forms, verbal clitic forms, ordering constraints, and all MUST requirements are editorial additions without source support.
 :::
 
-## 5.9.8. Clitics and Clitic Placement
-
+## Clitics and Clitic Placement
 **Clitics** are phonologically unstressed words that attach prosodically to a neighboring stressed host. In Interslavic, clitics cluster in **second position** in the clause (Wackernagel position): after the first stressed constituent of the clause.
 
-### 5.9.8.1. Clitic Inventory
-
+### Clitic Inventory
 The clitic inventory of Interslavic comprises the following items:
 
 **Short (clitic) pronoun forms:**
@@ -214,16 +203,14 @@ The clitic inventory of Interslavic comprises the following items:
 |---|---|
 | :isv[by] | conditional particle (all persons) |
 
-### 5.9.8.2. Second-Position (Wackernagel) Constraint
-
+### Second-Position (Wackernagel) Constraint
 Clitics in Interslavic MUST cluster in **second position** in the clause: immediately after the first stressed constituent (which may be a word, a phrase, or a fronted subordinate clause). Placement of clitics at any other position in the clause is non-standard.
 
 **Example:**
 
 - :isv[Ja mu go dal jesm.] — "I gave it to him." (clitics :isv[mu go jesm] in second position, after the subject :isv[ja])
 
-### 5.9.8.3. Clitic Ordering within the Cluster
-
+### Clitic Ordering within the Cluster
 When multiple clitics co-occur, they MUST appear in the following fixed order within the clitic cluster:
 
 1. Conditional / verbal auxiliary clitic (:isv[by], short forms of :isv[byti])
@@ -238,8 +225,7 @@ When multiple clitics co-occur, they MUST appear in the following fixed order wi
 The interaction of clitic ordering with the question particle :isv[li] (which itself occupies second position after the verb) needs formal specification. Edge cases involving fronted :isv[či], multiple auxiliary clitics in compound tenses, and split constructions in relative clauses require committee decision.
 :::
 
-### 5.9.8.4. Reflexive :isv[sę]: Position and Splitting
-
+### Reflexive :isv[sę]: Position and Splitting
 The reflexive clitic :isv[sę] follows the conjugated verb form when the verb is finite. In compound tenses (auxiliary + past active participle), :isv[sę] MUST follow the auxiliary, not the participle:
 
 - :isv[On sę myje.] — "He washes himself." (simple present)

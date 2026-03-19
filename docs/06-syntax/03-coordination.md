@@ -1,13 +1,10 @@
-# 6.4. Coordination
-
+# Coordination
 This section specifies the syntactic rules governing coordination in Interslavic: the behavior of coordinating and correlative conjunctions, agreement in coordinated noun phrases, and the conditions under which material may be elided or gapped in the second conjunct.
 
 ---
 
-## 6.4.1. Coordinating Conjunctions and Their Syntax
-
-### 6.4.1.1. Inventory of Coordinating Conjunctions
-
+## Coordinating Conjunctions and Their Syntax
+### Inventory of Coordinating Conjunctions
 :::caution[Unverified Content]
 The designated primary source (grammar-conjunctions.md) contains only preposition material, not conjunctions. The entire conjunction inventory table below has no basis in the provided source material. While common Slavic conjunctions like :isv[i], :isv[a], :isv[ale], :isv[ili] are plausible, items such as :isv[jednako] ("however"), :isv[pa] ("so/and so"), :isv[ubo] ("therefore"), and :isv[poněže] ("whereas") cannot be verified.
 :::
@@ -28,8 +25,7 @@ Interslavic has the following coordinating conjunctions:
 | :isv[než / neželi] | "than" — comparative |
 | :isv[poněže] | "whereas" — adversative/concessive |
 
-### 6.4.1.2. Syntactic Constraints on Coordination
-
+### Syntactic Constraints on Coordination
 :::caution[Unverified Content]
 The MUST and SHOULD constraints on coordination of like syntactic categories are not supported by the provided source material, which covers prepositions rather than coordination syntax. These rules appear to be inferred from general linguistic principles rather than sourced from Interslavic-specific documentation.
 :::
@@ -40,8 +36,7 @@ Coordinated elements **MUST** belong to the **same syntactic category** (both NP
 - Grammatical (VP + VP): :isv[čita i piše] — "reads and writes"
 - Grammatical (clause + clause): :isv[On pišet, a ona čita.] — "He writes, but she reads."
 
-### 6.4.1.3. Placement of Coordinating Conjunctions
-
+### Placement of Coordinating Conjunctions
 :::caution[Unverified Content]
 The placement rules and the MAY permission for comma-separated lists are not addressed in the provided source material. These conventions follow general Slavic patterns but are not verified against Interslavic-specific documentation.
 :::
@@ -53,8 +48,7 @@ Coordinating conjunctions stand **between** the elements they conjoin. They are 
 
 ---
 
-## 6.4.2. Correlative Conjunctions
-
+## Correlative Conjunctions
 :::caution[Unverified Content]
 This entire subsection on correlative conjunctions (the paired inventory, the MUST constraint, and all examples) has no basis in the provided source material. The correlative pairs :isv[kako … tako i …], :isv[ne jedino … ale takože …], :isv[čim … tym …], and :isv[koliko … toliko …] cannot be verified.
 :::
@@ -70,7 +64,7 @@ Correlative conjunctions work in **pairs**, with the first element appearing bef
 | :isv[čim … tym …] | "the … the …" (comparative) |
 | :isv[koliko … toliko …] | "the … the …" (proportional) |
 
-Correlative conjunction pairs **MUST** conjoin constituents of the same syntactic category, following the same constraint as simple coordinating conjunctions (§6.4.1.2).
+Correlative conjunction pairs **MUST** conjoin constituents of the same syntactic category, following the same constraint as simple coordinating conjunctions .
 
 - :isv[Ni otec ni mati ne zna.] — "Neither father nor mother knows."
 - :isv[Kako otec, tako i syn.] — "Both father and son."
@@ -78,10 +72,8 @@ Correlative conjunction pairs **MUST** conjoin constituents of the same syntacti
 
 ---
 
-## 6.4.3. Agreement in Coordinated Noun Phrases
-
-### 6.4.3.1. Verb Agreement with Coordinated Subjects
-
+## Agreement in Coordinated Noun Phrases
+### Verb Agreement with Coordinated Subjects
 :::caution[Unverified Content]
 The MUST rule requiring plural verb agreement with coordinated subjects is not addressed in the provided source material. This follows general Slavic convention but is unsourced for Interslavic specifically.
 :::
@@ -92,11 +84,10 @@ When two or more NPs are coordinated as the subject of a clause, the finite verb
 - :isv[Kniga i žurnal ležat na stolu.] — "The book and the magazine lie on the table."
 
 :::info[TODO: Committee Input Needed]
-**§6.4.3.1 — Verb agreement with "nearest conjunct" (proximity agreement):** Some Slavic languages permit singular agreement with a coordinated subject when the verb precedes the coordinated NP (proximity rule). Whether Interslavic should normatively permit or prohibit this construction requires committee determination.
+** — Verb agreement with "nearest conjunct" (proximity agreement):** Some Slavic languages permit singular agreement with a coordinated subject when the verb precedes the coordinated NP (proximity rule). Whether Interslavic should normatively permit or prohibit this construction requires committee determination.
 :::
 
-### 6.4.3.2. Gender Resolution in L-Participle Agreement
-
+### Gender Resolution in L-Participle Agreement
 :::caution[Unverified Content]
 The entire gender resolution subsection — the MUST rule for masculine plural default :isv[-li], the feminine plural :isv[-ly] rule, and the claim that neuter plural L-participles share the masculine plural form — has no basis in the provided source material. These rules cannot be verified.
 :::
@@ -114,16 +105,14 @@ When all coordinated subjects are grammatically neuter, the neuter plural form :
 
 ---
 
-## 6.4.4. Ellipsis in Coordination
-
+## Ellipsis in Coordination
 :::caution[Unverified Content]
 This entire subsection on ellipsis in coordination (VP ellipsis, NP ellipsis, the MUST constraint on case marking retention, and all examples) has no basis in the provided source material. The rules and examples appear to be constructed from general linguistic principles.
 :::
 
 **Ellipsis** is the omission of material in the second (or subsequent) conjunct when that material is recoverable from the first conjunct or from the discourse context. Interslavic permits ellipsis under recoverability, subject to the constraint that **case marking on residual material MUST be maintained**.
 
-### 6.4.4.1. VP Ellipsis
-
+### VP Ellipsis
 The verb phrase of the second conjunct may be omitted when it is identical to the first-conjunct VP:
 
 - :isv[On čita knigu, ona — žurnal.]
@@ -131,8 +120,7 @@ The verb phrase of the second conjunct may be omitted when it is identical to th
 
 The dash (—) optionally marks the ellipsis site in written Interslavic. The residual NP :isv[žurnal] retains the accusative case it would bear as the direct object of the elided verb.
 
-### 6.4.4.2. NP Ellipsis
-
+### NP Ellipsis
 A noun within an NP may be elided when the referent is clear from context, leaving the modifier(s) to stand alone. The modifier retains the case appropriate to the syntactic position of the whole NP:
 
 - :isv[Kupil jesm bělų knigu i červenų [knigu].]
@@ -142,8 +130,7 @@ The elided noun's case is preserved on the remaining adjective (:isv[červenų] 
 
 ---
 
-## 6.4.5. Gapping
-
+## Gapping
 :::caution[Unverified Content]
 This entire subsection on gapping (including the MUST constraint on case retention, the SHOULD recommendation against non-parallel gapping, and all examples) has no basis in the provided source material.
 :::
@@ -164,13 +151,12 @@ Internal consistency issue: the text refers to :isv[syna] as nominative, but the
 Gapping is most natural when the two conjuncts are parallel in structure (same argument structure, same verb). Gapping across non-parallel structures is possible but SHOULD be avoided as it may reduce clarity.
 
 :::info[TODO: Committee Input Needed]
-**§6.4.5 — Backward gapping / "stripping":** The source material does not address stripping (gapping where only one remnant remains in the second conjunct, often with a contrastive particle). Whether stripping is normatively sanctioned in Interslavic requires committee specification. Example: :isv[On pišet, a ona [piše] nět.] ("He writes, but she does not.")
+** — Backward gapping / "stripping":** The source material does not address stripping (gapping where only one remnant remains in the second conjunct, often with a contrastive particle). Whether stripping is normatively sanctioned in Interslavic requires committee specification. Example: :isv[On pišet, a ona [piše] nět.] ("He writes, but she does not.")
 :::
 
 ---
 
-## 6.4.6. Coordination and Case
-
+## Coordination and Case
 :::caution[Unverified Content]
 The MUST and MUST NOT rules about case agreement in coordinated NPs are not addressed in the provided source material. The source confirms that :isv[s] governs the instrumental (supporting that specific example), but the general coordination-and-case rule itself is unsourced for Interslavic.
 :::

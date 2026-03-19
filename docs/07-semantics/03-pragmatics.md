@@ -1,5 +1,4 @@
-# 7.3. Pragmatics
-
+# Pragmatics
 :::caution[Unverified Content]
 This file has no direct source material for fact-checking. The pragmatic rules, ISV example forms, and phrasebook entries below have not been verified against an authoritative reference and require expert review.
 :::
@@ -8,10 +7,8 @@ This section specifies the pragmatic rules of Interslavic: how speakers and writ
 
 ---
 
-## 7.3.1. Register and Politeness
-
-### 7.3.1.1. T/V Distinction: :isv[ty] vs. :isv[vy]
-
+## Register and Politeness
+### T/V Distinction: :isv[ty] vs. :isv[vy]
 Interslavic maintains the **T/V distinction** inherited from all Slavic languages: the second-person singular pronoun :isv[ty] (T-form) and the second-person plural pronoun :isv[vy] (V-form) are used differently depending on social context.
 
 | Form | Primary use |
@@ -37,8 +34,7 @@ The choice between :isv[ty] and :isv[vy] when addressing an individual is a **pr
 
 Writers of Interslavic texts SHOULD use :isv[vy] as the default when the audience is unknown or mixed, and SHOULD use :isv[ty] only when the communicative context clearly establishes informality.
 
-### 7.3.1.2. Formal Morphology and Titles
-
+### Formal Morphology and Titles
 Formal address uses **titles and honorifics** in the **vocative case** when directly addressing a person. Standard titles include:
 
 | Title | Meaning | Vocative |
@@ -64,8 +60,7 @@ Mixed scripts detected: *kандидат* and *доктор* are written in Cyri
 Establish a standardized inventory of formal titles and their vocative forms. Determine the recommended convention for gender-neutral formal address. Specify whether academic titles (*magistr, kандидат, доктор*) follow Latin-script or Cyrillic-script-dominant conventions.
 :::
 
-### 7.3.1.3. Register Vocabulary: Formal vs. Colloquial Synonyms
-
+### Register Vocabulary: Formal vs. Colloquial Synonyms
 Certain synonym pairs in Interslavic are **register-differentiated**: one form is appropriate for formal writing, the other for informal speech. The dictionary SHOULD mark register for all such pairs.
 
 Writers SHOULD use formal vocabulary in:
@@ -84,13 +79,11 @@ Compile the register-differentiated synonym list. Flag items where the committee
 
 ---
 
-## 7.3.2. Deixis
-
+## Deixis
 Deixis is the encoding of spatial, temporal, and personal reference relative to the speech situation.
 
-### 7.3.2.1. Person Deixis
-
-Personal pronouns are the primary person-deictic system of Interslavic. The full paradigm is specified in §5.6. The basic deictic values are:
+### Person Deixis
+Personal pronouns are the primary person-deictic system of Interslavic. The full paradigm is specified in the relevant section The basic deictic values are:
 
 | Pronoun | Person deictic value |
 |---|---|
@@ -101,8 +94,7 @@ Personal pronouns are the primary person-deictic system of Interslavic. The full
 | :isv[vy] | Addressees (plural); or polite singular (V-form) |
 | :isv[oni / one] | Third persons (plural) |
 
-### 7.3.2.2. Spatial Deixis: :isv[toj / ta / to] vs. :isv[sej / sa / se]
-
+### Spatial Deixis: :isv[toj / ta / to] vs. :isv[sej / sa / se]
 Interslavic has two demonstrative series expressing spatial distance from the speaker:
 
 | Series | Deictic value | Notes |
@@ -110,15 +102,14 @@ Interslavic has two demonstrative series expressing spatial distance from the sp
 | :isv[toj / ta / to] | **Distal** (that, those) — entity not in the immediate vicinity of the speaker | The neutral default demonstrative in modern Interslavic |
 | :isv[sej / sa / se] | **Proximal** (this, these) — entity in the immediate vicinity of the speaker | More archaic in character; use is stylistically optional |
 
-Both demonstratives decline for gender, number, and case in the same pattern as adjectives (see §5.4).
+Both demonstratives decline for gender, number, and case in the same pattern as adjectives (see the relevant section).
 
 The proximal series :isv[sej / sa / se] is **optional**: a writer MAY always use :isv[toj] to mean "this" when pointing to nearby objects, relying on context to supply the proximal reading. The proximal series SHOULD be used when a proximal–distal contrast needs to be made explicit within a single text segment.
 
 - :isv[Toj čelovek je moj prijatelj.] — "That man is my friend." (distal)
 - :isv[Sej čelovek je moj prijatelj.] — "This man is my friend." (proximal, explicit contrast)
 
-### 7.3.2.3. Temporal Deixis
-
+### Temporal Deixis
 Temporal deictic expressions locate events relative to the moment of speech:
 
 | Expression | Meaning |
@@ -137,10 +128,8 @@ These expressions are **deictic anchors**: their reference shifts with the time 
 
 ---
 
-## 7.3.3. Information Structure
-
-### 7.3.3.1. Topic–Comment Structure
-
+## Information Structure
+### Topic–Comment Structure
 Interslavic discourse organizes clauses into **topic** (what the sentence is about; typically given, already-known information) and **comment** (what is said about the topic; typically new information).
 
 The default position for the **topic** is **sentence-initial**. The default position for the **comment** (especially the most informative, rhematically prominent element) is **post-verbal or sentence-final**.
@@ -148,10 +137,9 @@ The default position for the **topic** is **sentence-initial**. The default posi
 - :isv[Moja sestra [topic\] kupila knigu [comment\].] — "My sister bought a book." (neutral: sister is topic, book is new info)
 - :isv[Knigu [topic\] kupila moja sestra [comment\].] — "The book was bought by my sister." (book is topicalized; sister is the new/contrasted info)
 
-This principle interacts with pro-drop (§6.1.4): when the topic-subject is recoverable from context, it is typically omitted.
+This principle interacts with pro-drop : when the topic-subject is recoverable from context, it is typically omitted.
 
-### 7.3.3.2. Focus and Contrast
-
+### Focus and Contrast
 **Focused** constituents — those bearing the most informationally prominent content — are marked primarily by **prosodic prominence** (stress in speech). In writing, focus may be conveyed by:
 
 1. **Fronting** the focused constituent to a pre-verbal or sentence-initial position.
@@ -162,10 +150,9 @@ Contrastive focus signals that the focused constituent is being distinguished fr
 
 - :isv[Ja kupil KNIGU, ne žurnal.] — "I bought a BOOK, not a magazine." (contrastive focus on :isv[knigu])
 
-See §6.8 for cross-reference to questions and information structure in the syntax chapter.
+See the relevant section for cross-reference to questions and information structure in the syntax chapter.
 
-### 7.3.3.3. Theme–Rheme Progression in Discourse
-
+### Theme–Rheme Progression in Discourse
 In coherent discourse, successive sentences maintain cohesion through **theme–rheme chaining**: the rheme (new information) of one sentence typically becomes the theme (given information) of the next.
 
 > :isv[Ona kupila knigu.] — "She bought a book."
@@ -176,8 +163,7 @@ Each sentence takes the rheme of the preceding sentence as its theme, creating a
 
 ---
 
-## 7.3.4. Discourse Markers
-
+## Discourse Markers
 **Discourse markers** are words and phrases that signal logical, temporal, or rhetorical relationships between clauses, sentences, or larger discourse units. They do not contribute propositional content but guide the reader's interpretation of how segments connect.
 
 The following table lists the primary discourse markers of Interslavic with their functions:
@@ -198,8 +184,7 @@ The following table lists the primary discourse markers of Interslavic with thei
 | :isv[takože] | Additive ("also, too, likewise") | :isv[Takože trěba pamętati...] "It is also necessary to remember..." |
 | :isv[mimo togo] | Additive ("moreover, in addition") | :isv[Mimo togo, zakon rěči, čto...] "Moreover, the law states that..." |
 
-### 7.3.4.1. Logical Connectors: Full Inventory (Merunka)
-
+### Logical Connectors: Full Inventory (Merunka)
 This subsection provides the comprehensive discourse connector inventory from Vojtech Merunka's handbook on Interslavic (Chapter 21, "Связь между словами" / "Word Connections"). The inventory is organized by semantic category. Grammatical labels: *adv.* = adverb, *prep. G.* = preposition governing the genitive, *prep. A.* = preposition governing the accusative, *prep. I.* = preposition governing the instrumental, *prep. D.* = preposition governing the dative, *N.* = nominative complement.
 
 Usage note: a connector placed as the **first word** of a sentence carries stronger force than the same connector placed further within the sentence.
@@ -369,11 +354,10 @@ Usage note: a connector placed as the **first word** of a sentence carries stron
 | :isv[na zaključenje ... G.] | in conclusion, to conclude |
 | :isv[nakonec] (adv.) | finally, in the end |
 
-### 7.3.4.2. Content Transitions
-
+### Content Transitions
 Beyond logical connectors, discourse cohesion is also maintained through **content transitions** — devices that carry the same topic or reference forward from one sentence or paragraph to the next. Merunka identifies four main techniques:
 
-**1. Pronouns.** A noun subject is followed by a personal pronoun to maintain reference to the same entity, and by a possessive pronoun to shift to something associated with that entity. See §5.6 for the full pronoun paradigm.
+**1. Pronouns.** A noun subject is followed by a personal pronoun to maintain reference to the same entity, and by a possessive pronoun to shift to something associated with that entity. See the relevant section for the full pronoun paradigm.
 
 - Personal pronouns: :isv[ja, ty, on, ona, ono, my, vy, oni]
 - Possessive pronouns: :isv[moj, tvoj, naš, vaš]; the genitive-possessive forms of :isv[on/ona/ono/oni] are :isv[jego/jej/jego/jih]
@@ -395,37 +379,33 @@ Inconsistent spelling: the word appears as both :isv[pamětnik] and :isv[památn
 Example:
 > :isv[Vaše **auto** jest lěpo. Ale myslim, že taky **voz** jest mnogo skupy.] — "Your **car** looks nice. But I think such a **vehicle** is very expensive."
 
-**4. Demonstrative pronouns.** Demonstrative pronouns (:isv[toj, ta, to, ti, te] and their extended forms :isv[tutoj, tamtoj]) refer back to what has already been mentioned. See §7.3.2.2 and §5.4 for the full declension.
+**4. Demonstrative pronouns.** Demonstrative pronouns (:isv[toj, ta, to, ti, te] and their extended forms :isv[tutoj, tamtoj]) refer back to what has already been mentioned. See the relevant section and  for the full declension.
 
 Example:
 > :isv[Moj brat imaje veliky **dom**. Kako stary jest **toj dom**?] — "My brother has a big **house**. How old is **that house**?"
 
 ---
 
-## 7.3.5. Speech Acts
-
+## Speech Acts
 Speech acts are communicative actions performed through language. The following subsections specify the standard Interslavic forms associated with major speech act types.
 
-### 7.3.5.1. Assertions
-
+### Assertions
 **Assertions** (declarative speech acts) are performed using **declarative sentence form**: subject–verb–object order with falling intonation (or period in writing).
 
 - :isv[Interslavsky jest slavjansky jezyk.] — "Interslavic is a Slavic language."
 
-No special marking is required for an assertion. The indicative mood is the default for assertions; the conditional is used for hypothetical assertions (see §7.1.4.4).
+No special marking is required for an assertion. The indicative mood is the default for assertions; the conditional is used for hypothetical assertions (see the relevant section).
 
-### 7.3.5.2. Questions and Requests for Information
-
-Yes/no questions and content questions are specified in §6.8. Briefly:
+### Questions and Requests for Information
+Yes/no questions and content questions are specified in the relevant section Briefly:
 
 - **Yes/no questions** are formed with rising intonation, with the particle :isv[či] sentence-initially, or with :isv[li] after the verb.
 - **Content questions** are formed with an interrogative word (:isv[čto, kto, kde, kogda, kako, počemu], etc.) in sentence-initial position.
 
-See §6.8 for full specification.
+See the relevant section for full specification.
 
-### 7.3.5.3. Requests and Commands
-
-**Direct commands** use the **imperative mood** (see §5.7.5):
+### Requests and Commands
+**Direct commands** use the **imperative mood** (see the relevant section):
 
 - :isv[Daj mně knigu!] — "Give me the book!" (2sg imperative)
 - :isv[Pojdemo!] — "Let's go!" (1pl imperative)
@@ -438,8 +418,7 @@ See §6.8 for full specification.
 
 The bare imperative without a politeness marker is appropriate in informal contexts (with :isv[ty] addressees) but SHOULD NOT be used in formal address.
 
-### 7.3.5.4. Offers and Invitations
-
+### Offers and Invitations
 **Offers** and **invitations** use hortative or interrogative structures:
 
 - **Hortative (1pl imperative):** :isv[Pojdemo v restoran!] — "Let's go to a restaurant!"
@@ -447,8 +426,7 @@ The bare imperative without a politeness marker is appropriate in informal conte
 - **Declarative offer:** :isv[Ja mogu pomoći.] — "I can help." (implicit offer)
 - **Modal interrogative:** :isv[Mogu li vam što predložiti?] — "May I offer you something?"
 
-### 7.3.5.5. Greetings and Formulaic Expressions
-
+### Greetings and Formulaic Expressions
 Standard greetings, farewells, thanks, and apologies function as **formulaic speech acts** — their communicative function is largely independent of their compositional meaning. The following forms are conventional in Interslavic; speakers SHOULD be aware that specific greetings vary by source-language culture.
 
 | Function | Expression | Notes |
@@ -478,9 +456,8 @@ The form :isv[zovų sę] uses nasal vowel characters (`ų`, `ę`) which are Poli
 Confirm the standardized greeting repertoire. Determine whether *ahoj* or *zdravo* should be the recommended informal greeting for pan-Slavic use. Establish the recommended form for written salutations (letters, emails) at both formal and informal levels.
 :::
 
-### 7.3.5.6. Phrasebook: Formulaic Expressions (Merunka)
-
-The following tables present Interslavic formulaic expressions drawn from the phrasebook appendix of Vojtech Merunka's handbook. They complement the greeting inventory in §7.3.5.5 with additional situational formulae. Russian source phrases are given as semantic reference only.
+### Phrasebook: Formulaic Expressions (Merunka)
+The following tables present Interslavic formulaic expressions drawn from the phrasebook appendix of Vojtech Merunka's handbook. They complement the greeting inventory in the relevant section with additional situational formulae. Russian source phrases are given as semantic reference only.
 
 #### Greetings and Farewells
 
@@ -652,7 +629,7 @@ Inconsistent root: :isv[zablodil] uses root `blod-` but :isv[zabludila] uses roo
 | Я опоздаю. | :isv[Idu pozdno.] | I will be late. |
 | Когда? | :isv[Kogda?] | When? |
 :::caution[Unverified Content]
-Inconsistency with section 7.3.2.3: "today" is :isv[segodnja] in the temporal deixis table but :isv[Dnes] (Czech-style) here. Similarly, "now" is :isv[teper] in section 7.3.2.3 but :isv[Segda] here. The form :isv[Segda] is not attested in the earlier section and may be non-standard.
+Inconsistency with section: "today" is :isv[segodnja] in the temporal deixis table but :isv[Dnes] (Czech-style) here. Similarly, "now" is :isv[teper] in section but :isv[Segda] here. The form :isv[Segda] is not attested in the earlier section and may be non-standard.
 :::
 
 | Сегодня. | :isv[Dnes.] | Today. |

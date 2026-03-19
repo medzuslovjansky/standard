@@ -4,10 +4,8 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 
 ---
 
-## 1. Noun-Forming Suffixes
-
-### 1.1 Noun → Noun
-
+## Noun-Forming Suffixes
+### Noun → Noun
 | Suffix | Semantic class | Output gender | Example |
 |--------|----------------|--------------|---------|
 | :isv[-ok] | diminutive (m., hard stem) | m. | :isv[pes] → :isv[pesok] "doggy" |
@@ -25,16 +23,14 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[-an(in)] | inhabitant (alternative to -ec) | m. | (cf. :isv[Slovjanin], :isv[Moskvjanin]) |
 | :isv[-e] (-et- stem) | young animal | n. | :isv[kot] → :isv[kote] "kitten"; :isv[jelenj] → :isv[jelene] "fawn" |
 
-### 1.2 Adjective → Noun
-
+### Adjective → Noun
 | Suffix | Semantic class | Output gender | Example |
 |--------|----------------|--------------|---------|
 | :isv[-ost] | abstract quality from adjective | f. | :isv[dobry] → :isv[dobrost] "goodness" |
 | :isv[-ec] | person embodying quality | m. | :isv[izgnany] → :isv[izgnanec] "exile" |
 | :isv[-išče] | place with quality | n. | :isv[mokry] → :isv[mokrišče] "wetland" |
 
-### 1.3 Verb → Noun
-
+### Verb → Noun
 | Suffix | Semantic class | Output gender | Example |
 |--------|----------------|--------------|---------|
 | :isv[-telj] | agent/professional (one who does) | m. | :isv[učiti] → :isv[učitelj] "teacher" |
@@ -46,10 +42,8 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 
 ---
 
-## 2. Adjective-Forming Suffixes
-
-### 2.1 Noun → Adjective
-
+## Adjective-Forming Suffixes
+### Noun → Adjective
 | Suffix | Semantic class | Example |
 |--------|----------------|---------|
 | :isv[-sky] | relating to geography, entity, profession | :isv[žena] → :isv[žensky] "female"; :isv[morje] → :isv[morsky] "marine" |
@@ -59,8 +53,7 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[-ovy] / :isv[-evy] | having characteristics of; colour/type | :isv[pomaranča] → :isv[pomarančevy] "orange (colour)" |
 | :isv[-ovity] / :isv[-evity] | resembling, -like | :isv[malpa] → :isv[malpovity] "ape-like" |
 
-### 2.2 Adjective → Adjective
-
+### Adjective → Adjective
 | Suffix/Prefix | Semantic class | Example |
 |--------------|----------------|---------|
 | :isv[ne-] (prefix) | negation | :isv[dobry] → :isv[nedobry] "not good" |
@@ -69,8 +62,7 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[bez-] … :isv[-ny] (circumfix) | absence of quality | :isv[dom] → :isv[bezdomny] "homeless"; :isv[naděja] → :isv[beznadějny] "hopeless" |
 | :isv[-šnji] | from adverb: adjectivising temporal/local adverbs | :isv[včera] → :isv[včerašnji] "yesterday's"; :isv[dnes] → :isv[dnešnji] "today's" |
 
-### 2.3 Comparative and Superlative
-
+### Comparative and Superlative
 | Form | Formation | Example |
 |------|-----------|---------|
 | Analytic comparative | **vyše / bolje** + positive | :isv[vyše prosty] "simpler" |
@@ -93,8 +85,7 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[legky] "easy" | :isv[legši] | :isv[legše] |
 | :isv[mekky] "soft" | :isv[mekši] | :isv[mekše] |
 
-### 2.4 Verb → Adjective
-
+### Verb → Adjective
 | Suffix | Semantic class | Example |
 |--------|----------------|---------|
 | :isv[-livy] | tendency/habit | :isv[govoriti] → :isv[govorlivy] "talkative" |
@@ -103,10 +94,8 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 
 ---
 
-## 3. Verb-Forming Suffixes and Prefixes
-
-### 3.1 Noun/Adjective → Verb
-
+## Verb-Forming Suffixes and Prefixes
+### Noun/Adjective → Verb
 | Suffix/Pattern | Semantic class | Example |
 |---------------|----------------|---------|
 | :isv[-ovati] | general denominal verb ("act like; do with") | :isv[malpa] → :isv[malpovati] "act like a monkey"; :isv[noč] → :isv[nočevati] "spend the night" |
@@ -117,14 +106,12 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[u-] + :isv[-iti] (from comparative) | make more/better | :isv[lěpši] → :isv[ulěpšiti] "improve"; :isv[menši] → :isv[umenšiti] "reduce" |
 | :isv[od-] + :isv[-iti] (from adj.) | remove the characteristic | :isv[črny] → :isv[odčrniti] "remove black colour" |
 
-### 3.2 Adverb → Adjective
-
+### Adverb → Adjective
 | Suffix | Example |
 |--------|---------|
 | :isv[-šnji] | :isv[nyně] → :isv[nyněšnji] "current, present" |
 
-### 3.3 Adjective → Adverb
-
+### Adjective → Adverb
 | Pattern | Example |
 |---------|---------|
 | Replace adj. ending with :isv[-o] | :isv[dobry] → :isv[dobro] "well"; :isv[svěži] → :isv[svěže] "freshly" |
@@ -132,8 +119,7 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 
 ---
 
-## 4. Compound Word Formation
-
+## Compound Word Formation
 Two roots joined by connecting vowel **-o-** (hard) / **-e-** (soft):
 
 | Example | Components | Meaning |
@@ -147,8 +133,7 @@ Borrowings from English may use hyphen: :isv[rok-muzika] "rock music", :isv[veb-
 
 ---
 
-## 5. Negative and Intensifying Prefixes (Non-verbal)
-
+## Negative and Intensifying Prefixes (Non-verbal)
 | Prefix | Function | Example |
 |--------|----------|---------|
 | :isv[ne-] | negation (adj., nouns) | :isv[neprijetny] "unpleasant", :isv[nedobry] "not good" |

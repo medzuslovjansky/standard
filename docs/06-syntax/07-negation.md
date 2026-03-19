@@ -1,5 +1,4 @@
-# 6.8. Negation
-
+# Negation
 :::caution[Unverified Content]
 This entire file lacks direct source material. The source file (grammar-syntax.md by Jan van Steenbergen) does not cover negation syntax. All rules, examples, and paradigms in this section are AI-generated extrapolations from general Slavic patterns and cannot be verified against the original Interslavic documentation.
 :::
@@ -8,8 +7,7 @@ This section specifies the syntax of negation in Interslavic: sentential negatio
 
 ---
 
-## 6.8.1. Sentential Negation with :isv[Ne]
-
+## Sentential Negation with :isv[Ne]
 Sentential (clausal) negation is expressed by the particle :isv[ne], which is placed **immediately before** the finite verb. This negates the proposition expressed by the entire clause.
 
 > :isv[Otec ne kupil knigu.]
@@ -31,8 +29,7 @@ The particle :isv[ne] is a **proclitic**: it is pronounced without a break befor
 
 ---
 
-## 6.8.2. Constituent Negation
-
+## Constituent Negation
 The particle :isv[ne] may also precede a **non-verbal constituent** to negate that specific constituent rather than the entire clause. This is **constituent negation** (narrow-scope negation) as opposed to sentential (wide-scope) negation.
 
 > :isv[Ne otec kupil knigu, a mati.]
@@ -52,8 +49,7 @@ In constituent negation, the finite verb is **not** negated; only the targeted c
 
 ---
 
-## 6.8.3. Double (Concord) Negation
-
+## Double (Concord) Negation
 Interslavic employs an **obligatory negative concord** system. When a negative pronoun, adjective, or adverb is present in a clause, the finite verb **MUST** also be negated by :isv[ne]. The co-occurrence of two or more negative elements does not produce a positive (double-negative) interpretation; both negatives are required to express a single negation.
 
 **Negative pronouns and adjectives:**
@@ -67,7 +63,7 @@ Interslavic employs an **obligatory negative concord** system. When a negative p
 | :isv[nijedin] | not a single, none |
 
 :::caution[Unverified Content]
-Several forms in the negative adverbs table below conflict with the morphology chapter (§5.5, pronouns correlative table): `nigde` should be `nikdě` (the form `nigde` mirrors Russian нигде); `nikako` should be `nikak`; `nikoľko` should be `nikoliko` (the form `nikoľko` mirrors Russian нисколько); and `namo` as a standalone negative adverb is not attested in the morphology tables (only `nikamo` is listed).
+Several forms in the negative adverbs table below conflict with the morphology chapter (, pronouns correlative table): `nigde` should be `nikdě` (the form `nigde` mirrors Russian нигде); `nikako` should be `nikak`; `nikoľko` should be `nikoliko` (the form `nikoľko` mirrors Russian нисколько); and `namo` as a standalone negative adverb is not attested in the morphology tables (only `nikamo` is listed).
 :::
 
 **Negative adverbs:**
@@ -89,7 +85,7 @@ Several forms in the negative adverbs table below conflict with the morphology c
 > "She bought nothing."
 
 :::caution[Unverified Content]
-The form `byliь` contains a stray Cyrillic soft sign character (ь). The correct form would be `byli`. The same issue affects `viděliь` in §6.8.4 below.
+The form `byliь` contains a stray Cyrillic soft sign character (ь). The correct form would be `byli`. The same issue affects `viděliь` in the relevant section below.
 :::
 
 > :isv[My nigde ne byliь.]
@@ -105,8 +101,7 @@ The negative pronoun or adverb may appear in any syntactic position (subject, ob
 
 ---
 
-## 6.8.4. Genitive of Negation
-
+## Genitive of Negation
 Under **sentential negation** (when :isv[ne] precedes the finite verb and negates the entire clause), a direct object that would otherwise be in the **accusative** case SHOULD shift to the **genitive**. This is the genitive of negation.
 
 **Accusative under affirmation → Genitive under negation:**
@@ -119,16 +114,15 @@ Under **sentential negation** (when :isv[ne] precedes the finite verb and negate
 
 The genitive of negation applies most consistently to **direct (accusative) objects** of transitive verbs. Its application is **stronger** with inanimate objects than with animate ones, and **stronger** in more formal or literary registers.
 
-The shift to genitive is also triggered in **existential** and **presentational** clauses under negation — see §6.8.5.
+The shift to genitive is also triggered in **existential** and **presentational** clauses under negation — see the relevant section
 
 :::info[TODO: Committee Input Needed]
-**§6.8.4 — Obligatoriness of the genitive of negation:** The degree to which the genitive shift is obligatory vs. optional (especially with animate direct objects, with specific NPs, or in colloquial registers) requires a formal normative decision. Some Slavic languages treat this shift as categorical; others treat it as optional or conditioned by definiteness and animacy. The committee should specify the Interslavic norm.
+** — Obligatoriness of the genitive of negation:** The degree to which the genitive shift is obligatory vs. optional (especially with animate direct objects, with specific NPs, or in colloquial registers) requires a formal normative decision. Some Slavic languages treat this shift as categorical; others treat it as optional or conditioned by definiteness and animacy. The committee should specify the Interslavic norm.
 :::
 
 ---
 
-## 6.8.5. Negation of :isv[Byti] (Existential)
-
+## Negation of :isv[Byti] (Existential)
 The verb :isv[byti] in its **existential** function ("to exist, there is/are") behaves specially under negation:
 
 1. **The subject of a negated existential :isv[byti] takes the genitive case** (genitive of negation extended to existential subjects):
@@ -149,12 +143,12 @@ The verb :isv[byti] in its **existential** function ("to exist, there is/are") b
    > :isv[Ne bylo vody.] — "There was no water."
    > :isv[Ne budet vody.] — "There will be no water."
 
-The genitive marking on the subject in negated existential sentences is **parallel** to the genitive of negation on direct objects (§6.8.4) and is part of the same general principle: negation extends its scope to the NP most directly governed by the negated predicate, shifting it from nominative/accusative to genitive.
+The genitive marking on the subject in negated existential sentences is **parallel** to the genitive of negation on direct objects  and is part of the same general principle: negation extends its scope to the NP most directly governed by the negated predicate, shifting it from nominative/accusative to genitive.
 
 ---
 
 :::info[TODO: Committee Input Needed]
-**§6.8.5 — Status of :isv[nět]:** Whether :isv[nět] is treated as a grammaticalized particle (like Russian *нет*) or as a contracted verbal form should be formally specified. Its morphosyntactic status affects whether it can carry tense morphology, combine with aspect, or appear in embedded clauses. A committee decision is needed.
+** — Status of :isv[nět]:** Whether :isv[nět] is treated as a grammaticalized particle (like Russian *нет*) or as a contracted verbal form should be formally specified. Its morphosyntactic status affects whether it can carry tense morphology, combine with aspect, or appear in embedded clauses. A committee decision is needed.
 
-**§6.8.3 — Negative concord with stacked negatives:** When multiple negative items appear in the same clause (e.g., "nobody never did anything to anyone"), the rules governing accumulation of negative concord items in a single clause — and whether this is stylistically neutral or marked — should be specified.
+** — Negative concord with stacked negatives:** When multiple negative items appear in the same clause (e.g., "nobody never did anything to anyone"), the rules governing accumulation of negative concord items in a single clause — and whether this is stylistically neutral or marked — should be specified.
 :::

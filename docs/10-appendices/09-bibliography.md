@@ -1,5 +1,4 @@
-# 10.9. Bibliography and Normative References
-
+# Bibliography and Normative References
 :::info
 
 This appendix lists the normative references on which the Interslavic specification rests, followed by a classified bibliography of descriptive sources for the individual Slavic languages and for comparative and historical Slavic linguistics. Entries are grouped thematically and ordered alphabetically by author within each group. Citation style follows a modified Chicago author–date convention.
@@ -34,7 +33,7 @@ The following sources have normative status for this specification. Any conflict
 
 **Van Steenbergen, Jan.** _Interslavic Dictionaries_ (multilingual). Available at: `http://steen.free.fr/interslavic/slovniky.html`. Normative word-list for lexical entries cited in this specification.
 
-**Van Steenbergen, Jan.** _Interslavic Voting Machine_ (computational tool). Available at: `http://steen.free.fr/interslavic/voting_machine.html`. Implements the majority-voting algorithm described in §2 of this specification; results produced by this tool are considered authoritative for lexical derivation questions not otherwise resolved by the grammar.
+**Van Steenbergen, Jan.** _Interslavic Voting Machine_ (computational tool). Available at: `http://steen.free.fr/interslavic/voting_machine.html`. Implements the majority-voting algorithm described in the relevant section of this specification; results produced by this tool are considered authoritative for lexical derivation questions not otherwise resolved by the grammar.
 
 ---
 
@@ -54,13 +53,13 @@ The following sources have normative status for this specification. Any conflict
 
 **Merunka, Vojtěch, and Jan van Steenbergen.** "Medžuslovjansky: A Proposal for a Modern Pan-Slavic Language." _Slovjani.info_, 2017. Available at: `http://slovjani.info/`. Summarises the post-merger unified standard.
 
-**Van Steenbergen, Jan.** _A Short History of Interslavic_. Available at: `http://steen.free.fr/interslavic/history.html`. Primary narrative source for §1 (historical context) of this specification.
+**Van Steenbergen, Jan.** _A Short History of Interslavic_. Available at: `http://steen.free.fr/interslavic/history.html`. Primary narrative source for  (historical context) of this specification.
 
 **Van Steenbergen, Jan.** _Language Comparison: Interslavic and Other Languages_. Available at: `http://steen.free.fr/interslavic/faq.html`. Source for the comparative discussion of Interslavic versus Russian, Esperanto, Slovio, and Old Church Slavonic.
 
 **Van Steenbergen, Jan.** _Introduction to Constructed Slavic Languages_. Available at: `http://steen.free.fr/interslavic/conlangs.html`. Surveys the full tradition of pan-Slavic constructed languages from the 17th century to the present.
 
-**Zamenhof, Ludwik Łazarz.** _Fundamento de Esperanto_. Paris: Hachette, 1905. Included for comparative reference; Esperanto's design principles are contrasted with those of Interslavic in §1.
+**Zamenhof, Ludwik Łazarz.** _Fundamento de Esperanto_. Paris: Hachette, 1905. Included for comparative reference; Esperanto's design principles are contrasted with those of Interslavic in the relevant section
 
 ### Section B. Old Church Slavonic and Proto-Slavic
 

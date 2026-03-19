@@ -1,5 +1,4 @@
-# 6.5. Subordination
-
+# Subordination
 :::caution[Unverified Content]
 The majority of this document cannot be verified against the provided source material. The primary source (`grammar-conjunctions.md`) covers prepositions, not subordinating conjunctions or clause types. The secondary source (`grammar-syntax.md`) covers basic word order, questions, passive voice, and purpose clauses only. Sections on complement clauses, infinitival complements, tense correlation, conditionals, temporal clauses, concessive/adversative clauses, compound sentences, subordination connectors, and punctuation rules have no corresponding source material and may reflect the document author's synthesis rather than established Interslavic norms.
 :::
@@ -8,8 +7,7 @@ This section specifies the syntactic rules governing subordinate clauses in Inte
 
 ---
 
-## 6.5.1. Finite Complement Clauses (:isv[že]/:isv[čto] Clauses)
-
+## Finite Complement Clauses (:isv[že]/:isv[čto] Clauses)
 Verbs of saying, thinking, knowing, believing, and perception take **finite complement clauses** introduced by the subordinating conjunction **:isv[že]** or its variant **:isv[čto]** ("that"). The embedded verb stands in the **indicative** mood, in whichever tense is appropriate for the content expressed.
 
 - :isv[On věrit, že zemlja jest okrugla.]
@@ -35,8 +33,7 @@ Omission of the complementizer is optional; the full form with :isv[že] or :isv
 
 ---
 
-## 6.5.2. Infinitival Complements
-
+## Infinitival Complements
 When the subject of the complement clause is **coreferent** with the subject of the matrix clause (control), Interslavic strongly prefers the **infinitive** rather than a finite clause:
 
 - :isv[On hoče idti.] — "He wants to go." (not :isv[on hoče, da on ide])
@@ -56,11 +53,10 @@ In the table below, the form :isv[hotetь] uses a Cyrillic soft sign (ь) mixed 
 | Volitional/desiderative | :isv[hotetь] "want", :isv[želati] "wish", :isv[prositi] "ask (to)" |
 | Motion verbs (purposive) | :isv[idti kupiti] "go to buy", :isv[priti viděti] "come to see" |
 
-When the subjects of matrix and embedded clause **differ**, a finite clause introduced by :isv[že]/:isv[čto] or a :isv[da] + present tense construction is used instead (see §6.5.5 and §6.1.8).
+When the subjects of matrix and embedded clause **differ**, a finite clause introduced by :isv[že]/:isv[čto] or a :isv[da] + present tense construction is used instead (see  and ).
 
-### 6.5.2.1. :isv[Da] + Present Tense as Alternative to Infinitive
-
-As specified in §6.1.8, the construction **:isv[da]** + **present tense** is an optional alternative to the infinitive after modal and auxiliary verbs. The verb following :isv[da] always stands in the present tense regardless of the tense of the governing verb, and agrees with its own subject:
+### :isv[Da] + Present Tense as Alternative to Infinitive
+As specified in the relevant section, the construction **:isv[da]** + **present tense** is an optional alternative to the infinitive after modal and auxiliary verbs. The verb following :isv[da] always stands in the present tense regardless of the tense of the governing verb, and agrees with its own subject:
 
 - :isv[Ja moram idti.] — "I must go."
   — alternatively: :isv[Ja moram da idem.]
@@ -76,8 +72,7 @@ This construction is particularly appropriate in texts addressing South Slavic r
 
 ---
 
-## 6.5.3. Tense Correlation in Embedded Clauses
-
+## Tense Correlation in Embedded Clauses
 Interslavic does **not** have a strict sequence-of-tense rule comparable to that in English or French. The tense in a subordinate clause is interpreted **relative to speech time**, not relative to the tense of the matrix verb.
 
 - :isv[On skazal, že ona jest bolna.]
@@ -93,12 +88,10 @@ Writers SHOULD select the tense that accurately describes the time of the embedd
 
 ---
 
-## 6.5.4. Conditional Clauses
-
+## Conditional Clauses
 Interslavic distinguishes three types of conditional constructions depending on the degree of factual commitment.
 
-### 6.5.4.1. Real Conditional
-
+### Real Conditional
 A **real (open) conditional** expresses a condition that is genuinely open — the speaker does not prejudge whether it holds. The protasis (condition) is introduced by **:isv[jesli]** or **:isv[ako]** ("if") and takes the **indicative** mood. The apodosis (consequence) also takes the indicative:
 
 - :isv[Jesli ona pridet, my bųdemo radostni.]
@@ -109,8 +102,7 @@ A **real (open) conditional** expresses a condition that is genuinely open — t
 
 Both :isv[jesli] and :isv[ako (li)] are accepted; :isv[jesli] is more pan-Slavic in distribution.
 
-### 6.5.4.2. Hypothetical (Counterfactual) Conditional
-
+### Hypothetical (Counterfactual) Conditional
 A **hypothetical conditional** presents the condition as contrary to fact or unlikely. Both protasis and apodosis use the **conditional mood** (:isv[by] + L-participle):
 
 - :isv[Ako byh ja věděl o tym, ne pošel byh tamo.]
@@ -122,8 +114,7 @@ A **hypothetical conditional** presents the condition as contrary to fact or unl
 - :isv[Rusi sę ne žalili by na žiťje, ako by imali lěpšų vlådų.]
   "Russians would not complain about life if they had a better government."
 
-### 6.5.4.3. Past Counterfactual Conditional
-
+### Past Counterfactual Conditional
 A **past counterfactual** specifies that the condition was not met in the past. It is formed with the **past conditional** (:isv[byl by] + L-participle) in both clauses:
 
 - :isv[Ako byh byl prišel, ja byh bil viděl to.]
@@ -131,8 +122,7 @@ A **past counterfactual** specifies that the condition was not met in the past. 
 
 The past conditional is formed with the L-participle of :isv[byti] (:isv[byl] / :isv[byla] / :isv[bylo]) combined with the conditional particle :isv[by]: :isv[ja byl byh dělal] "I would have done (it)".
 
-### 6.5.4.4. The Conjunction :isv[ako ne] ("unless")
-
+### The Conjunction :isv[ako ne] ("unless")
 The conjunction **:isv[ako ne]** introduces a negative conditional with the meaning "unless":
 
 - :isv[Pridu, ako ne bųde dožd.]
@@ -140,12 +130,10 @@ The conjunction **:isv[ako ne]** introduces a negative conditional with the mean
 
 ---
 
-## 6.5.5. Purposive Clauses
-
+## Purposive Clauses
 Purpose clauses express the goal or intended result of the action in the main clause. Interslavic has two overlapping constructions for this function.
 
-### 6.5.5.1. :isv[Že by] / :isv[Da by] + Conditional
-
+### :isv[Že by] / :isv[Da by] + Conditional
 The primary construction uses **:isv[že by]** or **:isv[da by]** followed by the **conditional** (:isv[by] + L-participle):
 
 - :isv[Turisti posětet Niderlandiju, že by fotografovali tulipany.]
@@ -156,8 +144,7 @@ The primary construction uses **:isv[že by]** or **:isv[da by]** followed by th
 
 The tense of the main clause (present or past) does not affect the conditional form in the purpose clause.
 
-### 6.5.5.2. :isv[Da] + Present Tense (South Slavic Style)
-
+### :isv[Da] + Present Tense (South Slavic Style)
 As an alternative, particularly in South Slavic register, **:isv[da]** + **present tense** expresses purpose with volitional force:
 
 - :isv[Prišel sem da ti kažem.]
@@ -170,8 +157,7 @@ As an alternative, particularly in South Slavic register, **:isv[da]** + **prese
 The use of :isv[aby] as a purposive subordinator is not attested in the provided source material. The source only covers :isv[že by] and :isv[da by] for purpose clauses.
 :::
 
-### 6.5.5.3. :isv[Aby] as a Purposive Subordinator
-
+### :isv[Aby] as a Purposive Subordinator
 The conjunction **:isv[aby]** ("in order to") is also available as a purposive subordinator and is common in West Slavic stylistic register:
 
 - :isv[Prišel jesm, aby pomogti.]
@@ -179,8 +165,7 @@ The conjunction **:isv[aby]** ("in order to") is also available as a purposive s
 
 ---
 
-## 6.5.6. Temporal Clauses
-
+## Temporal Clauses
 Temporal subordinate clauses specify the time relation between the embedded event and the main clause event. The following subordinating conjunctions introduce temporal clauses:
 
 | Conjunction | Meaning | Register |
@@ -217,15 +202,13 @@ The verb form :isv[pridetu] appears incorrect. Expected :isv[pridet] or :isv[pri
   (not :isv[kogda on bųde priti])
 
 :::info[TODO: Committee Input Needed]
-**§6.5.6 — Aspect selection in temporal clauses:** The rule for aspect selection in temporal clauses (perfective vs. imperfective, particularly with :isv[kogda], :isv[dopoka], and :isv[dokolě]) needs formal specification with full paradigm examples. The source material establishes the conjunctions but does not provide a systematic account of the aspect–tense interaction in the embedded clause. Committee codification of the normative rule is required.
+** — Aspect selection in temporal clauses:** The rule for aspect selection in temporal clauses (perfective vs. imperfective, particularly with :isv[kogda], :isv[dopoka], and :isv[dokolě]) needs formal specification with full paradigm examples. The source material establishes the conjunctions but does not provide a systematic account of the aspect–tense interaction in the embedded clause. Committee codification of the normative rule is required.
 :::
 
 ---
 
-## 6.5.7. Concessive and Adversative Clauses
-
-### 6.5.7.1. Concessive Clauses
-
+## Concessive and Adversative Clauses
+### Concessive Clauses
 Concessive clauses express a circumstance that is acknowledged but does not prevent the main clause from being true. The primary concessive conjunctions are:
 
 | Conjunction | Meaning |
@@ -242,8 +225,7 @@ Concessive clauses express a circumstance that is acknowledged but does not prev
 
 The concessive clause typically precedes the main clause, though it may follow. No special verb form is required in either clause: both take the indicative appropriate to their time reference.
 
-### 6.5.7.2. Adversative Clauses
-
+### Adversative Clauses
 Adversative constructions contrast two propositions. The primary adversative conjunction is **:isv[no]** ("but"), which connects clauses of equal weight:
 
 - :isv[On hoče idti, no ona hoče ostati.]
@@ -261,8 +243,7 @@ The conjunction **:isv[jednako]** ("however, nevertheless") introduces an advers
 
 ---
 
-## 6.5.8. Compound Sentences (Coordination)
-
+## Compound Sentences (Coordination)
 A sentence is **compound** (:isv[složnosočinjenoje]) when its constituent clauses are independent of one another — neither depends on the other for its meaning, and each carries equal informational weight. Compound sentences are formed by placing a coordinating conjunction or particle between the clauses.
 
 The main coordinating conjunctions are:
@@ -308,22 +289,19 @@ In Slavic languages the interrogative particle :isv[ako] (or its equivalent) is 
 
 ---
 
-## 6.5.9. Complex Sentences: The Three Subordination Connectors
-
+## Complex Sentences: The Three Subordination Connectors
 A sentence is **complex** (:isv[složnopodčinjenoje]) when one clause (the **subordinate** clause) depends semantically on another (the **main** clause). The subordinate clause cannot stand alone without the elements of the main clause that signal the dependency.
 
 In Interslavic, a subordinate clause within a complex sentence always opens with a special grammatical (referential) element that signals the relationship of the subordinate clause to the corresponding main clause. There are three such connectors:
 
-### 6.5.9.1. The Conjunction :isv[že] ("that")
-
+### The Conjunction :isv[že] ("that")
 The conjunction **:isv[že]** introduces a subordinate clause that as a whole refers back to the **verbal predicate** of the main clause. The entire subordinate clause functions as a complement of that predicate.
 
 - :isv[Govorju, že to ne jest dobro.]
   "I am saying that this is not good." (:isv[govorju] ⇐ :isv[že])
 
-### 6.5.9.2. The Relative Pronoun :isv[iže] and Its Paradigm
-
-The relative pronoun **:isv[iže]** (and its gender/case forms) introduces a subordinate clause that refers back to a **noun, numeral, or pronoun** in the main clause. It signals that the subordinate clause is a relative (adjectival) clause modifying that nominal element. (For the full paradigm see Chapter 7.)
+### The Relative Pronoun :isv[iže] and Its Paradigm
+The relative pronoun **:isv[iže]** (and its gender/case forms) introduces a subordinate clause that refers back to a **noun, numeral, or pronoun** in the main clause. It signals that the subordinate clause is a relative (adjectival) clause modifying that nominal element. (For the full paradigm see the [Semantics](../07-semantics/index.md) chapter.)
 
 - :isv[Kto jest tamtoj člověk, ktory imaje zeleno auto?]
   "Who is that person who has a green car?" (:isv[člověk] ⇐ :isv[ktory])
@@ -334,8 +312,7 @@ The relative pronoun **:isv[iže]** (and its gender/case forms) introduces a sub
 - :isv[Moj prijatelj, jegože mlada žena tamo ide, jest bolestny.]
   "My friend, whose young wife is going there, is ill." (:isv[prijatelj] ⇐ :isv[jegože])
 
-### 6.5.9.3. Interrogative Pronouns and Adverbs as Subordinators
-
+### Interrogative Pronouns and Adverbs as Subordinators
 Any **interrogative pronoun** (:isv[ktory], :isv[koliko], …), **numeral**, or **adverb** (:isv[kogda], …) may serve as a subordinating connector. It refers back to a noun, numeral, adverb, or adverbial expression in the main clause.
 
 - :isv[Ne znaju točno, koliko imajemo ljudij.]
@@ -346,8 +323,7 @@ Any **interrogative pronoun** (:isv[ktory], :isv[koliko], …), **numeral**, or 
 
 ---
 
-## 6.5.10. Punctuation: The Comma Rule
-
+## Punctuation: The Comma Rule
 Since Interslavic is a constructed language, it has no single rigid punctuation tradition. Writers MAY follow the comma conventions of their native language. However, one simple rule is universally applicable and is **RECOMMENDED** for use in all Interslavic writing:
 
 > **Each clause of a complex sentence that has its own predicate — together with its own subject, objects, and other elements — MUST be separated from the adjacent clause by a comma.**
@@ -377,17 +353,17 @@ This rule applies throughout all examples in Merunka's handbook and is used cons
 The embedded relative clause is surrounded by commas on both sides because it interrupts the main clause.
 
 :::note[Cross-reference]
-This comma rule applies equally to relative clauses (§6.5.9.2), complement clauses (§6.5.1), conditional clauses (§6.5.4), temporal clauses (§6.5.6), purposive clauses (§6.5.5), and concessive clauses (§6.5.7). It supersedes any more permissive practice from the writer's native-language orthography when the goal is maximal clarity.
+This comma rule applies equally to relative clauses , complement clauses , conditional clauses , temporal clauses , purposive clauses , and concessive clauses . It supersedes any more permissive practice from the writer's native-language orthography when the goal is maximal clarity.
 :::
 
 ---
 
 :::info[TODO: Committee Input Needed]
-**§6.5.4.3 — Past counterfactual paradigm:** The full inflectional paradigm of the past conditional (:isv[byl byh dělal] etc.) is established in principle but the person/number forms require explicit tabulation and cross-reference to the morphology chapter on the conditional mood. Committee review of the complete paradigm is needed.
+** — Past counterfactual paradigm:** The full inflectional paradigm of the past conditional (:isv[byl byh dělal] etc.) is established in principle but the person/number forms require explicit tabulation and cross-reference to the morphology chapter on the conditional mood. Committee review of the complete paradigm is needed.
 
-**§6.5.5.3 — Scope of :isv[aby]:** Whether :isv[aby] governs an infinitive, a present-tense form, or a conditional in purposive contexts — and whether its distribution differs from :isv[že by] / :isv[da by] — needs committee determination. The source lists :isv[aby] as "in order to" but does not specify its complementation pattern in detail.
+** — Scope of :isv[aby]:** Whether :isv[aby] governs an infinitive, a present-tense form, or a conditional in purposive contexts — and whether its distribution differs from :isv[že by] / :isv[da by] — needs committee determination. The source lists :isv[aby] as "in order to" but does not specify its complementation pattern in detail.
 
-**§6.5.7 — Concessive with conditional mood:** Whether concessive clauses may use the conditional mood (as in some Slavic languages: :isv[hotě by byl] "even if he were") is not addressed in the source material. A normative ruling is needed.
+** — Concessive with conditional mood:** Whether concessive clauses may use the conditional mood (as in some Slavic languages: :isv[hotě by byl] "even if he were") is not addressed in the source material. A normative ruling is needed.
 
-**§6.5.8 — :isv[da] as coordinating vs. subordinating conjunction:** The conjunction :isv[da] appears both as a coordinating final conjunction (§6.5.8) and as a subordinating purposive marker (§6.5.5.2) and as an alternative to the infinitive (§6.5.2.1). Committee clarification of the unified analysis of :isv[da] across these uses is needed.
+** — :isv[da] as coordinating vs. subordinating conjunction:** The conjunction :isv[da] appears both as a coordinating final conjunction  and as a subordinating purposive marker  and as an alternative to the infinitive . Committee clarification of the unified analysis of :isv[da] across these uses is needed.
 :::

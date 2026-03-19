@@ -1,20 +1,18 @@
-# 9.3. Morphological Flavorization
-
+# Morphological Flavorization
 Morphological flavorization selects among documented inflectional and derivational variants of Interslavic to increase familiarity for speakers of a particular dialect area.
 Unlike phonological flavorization, which operates on sounds, morphological flavorization operates on grammatical forms: endings, pronouns, prefixes, and prepositions.
 
 All morphological variants specified in this chapter are **optional**.
 Standard Interslavic forms are always acceptable regardless of target audience.
 :::caution[Unverified Content]
-The MUST requirement for intelligibility and the cross-reference to §9.1.3 are not stated in the source material. The source discusses intelligibility as a general goal but does not formalize it as a normative constraint with a section reference.
+The MUST requirement for intelligibility and the cross-reference to  are not stated in the source material. The source discusses intelligibility as a general goal but does not formalize it as a normative constraint with a section reference.
 :::
 
-A morphologically flavorized text MUST remain fully intelligible to any speaker of standard Interslavic (§9.1.3).
+A morphologically flavorized text MUST remain fully intelligible to any speaker of standard Interslavic .
 
 ---
 
-## 9.3.1. Infinitive Ending: `-ti` vs. `-ť`
-
+## Infinitive Ending: `-ti` vs. `-ť`
 Standard Interslavic uses the infinitive ending :isv[-ti], which is the form found across South Slavic, Czech, Slovak, and Ukrainian.
 
 **Rule for Northern flavor:** The infinitive ending SHOULD be shortened to :isv[-ť].
@@ -50,12 +48,11 @@ Regional reference:
 |---|---|---|---|---|
 | `-ć` / `-c` | `-ти` | `-` (no infinitive) | `-t` | `-ти` |
 
-**Note:** Bulgarian and Macedonian speakers use analytical constructions rather than an infinitive (§9.3.7). The Southern model retains :isv[-ti].
+**Note:** Bulgarian and Macedonian speakers use analytical constructions rather than an infinitive . The Southern model retains :isv[-ti].
 
 ---
 
-## 9.3.2. Adjectival Nominative/Accusative Neuter Singular: `-o` vs. `-e`
-
+## Adjectival Nominative/Accusative Neuter Singular: `-o` vs. `-e`
 Standard Interslavic uses the neuter singular adjective ending :isv[-o] (e.g., :isv[dobro]), which is the South Slavic dominant form.
 
 **Rule for Northern flavor:** The neuter singular nominative/accusative adjectival ending SHOULD be changed to :isv[-e] (e.g., :isv[dobre]).
@@ -74,10 +71,15 @@ Regional reference:
 |---|---|---|---|---|
 | `-e` | `-е` | `-о` | `-é` | `-о` |
 
+:::warning[Unresolved: The Neuter -e/-o Tension]
+The neuter singular ending :isv[-o] vs. :isv[-e] is one of the most visible North–South splits in the Slavic world. The standard Interslavic choice of :isv[-o] (following the South Slavic and East Slavic pattern for most adjective classes) means that Polish, Czech, and Slovak speakers encounter an unfamiliar ending in high-frequency words like :isv[dobro] (where they expect _dobre_, _dobré_, _dobré_). The reverse choice would alienate South Slavic and some East Slavic speakers.
+
+This tension extends beyond adjective endings to neuter noun forms and affects the overall "feel" of the language for different speaker groups. Some community members have proposed encoding both values with a special letter (analogous to the :latn[å] compromise for the :latn[a]/:latn[o] alternation), which would allow each reader to interpret the vowel according to their own language's pattern. However, no concrete notation has been adopted, and the standard currently resolves the tension by choosing one form (:isv[-o]) and documenting :isv[-e] as a Northern flavorization option.
+:::
+
 ---
 
-## 9.3.3. Relative Pronoun: `ktory` (North) vs. `koj` (South)
-
+## Relative Pronoun: `ktory` (North) vs. `koj` (South)
 Interslavic provides two relative pronouns:
 
 - :isv[ktory] — primarily North Slavic in orientation (cf. Polish _który_, Russian _который_).
@@ -107,8 +109,7 @@ The Bulgarian entry `який` appears incorrect — `який` is Ukrainian, no
 
 ---
 
-## 9.3.4. Directional Prefix: `vy-` (North) vs. `iz-` (South)
-
+## Directional Prefix: `vy-` (North) vs. `iz-` (South)
 Interslavic provides two competing prefixes expressing outward direction or origin:
 
 - :isv[vy-] — North Slavic orientation (cf. Polish _wy-_, Russian _вы-_, Czech _vy-_).
@@ -134,8 +135,7 @@ Regional reference:
 
 ---
 
-## 9.3.5. Purposive Preposition: `dlja` (North) vs. `za` (South) 'for'
-
+## Purposive Preposition: `dlja` (North) vs. `za` (South) 'for'
 The preposition 'for' with purposive meaning is expressed by two competing forms:
 
 - :isv[dlja] — North Slavic orientation (cf. Russian _для_, Polish _dla_, Ukrainian _для_).
@@ -161,17 +161,15 @@ Regional reference:
 
 ---
 
-## 9.3.6. Case Ending Variants by Flavor
-
+## Case Ending Variants by Flavor
 :::caution[Unverified Content]
-This entire section (9.3.6) on case ending variants has no basis in the source material. The source does not provide detailed case ending tables differentiated by Northern/Southern flavor. The specific feminine genitive singular Southern form `-e`, dative `-i`, instrumental `-om`, and locative `-i` variants, as well as the adjectival ending variants, cannot be verified against the source.
+This entire section () on case ending variants has no basis in the source material. The source does not provide detailed case ending tables differentiated by Northern/Southern flavor. The specific feminine genitive singular Southern form `-e`, dative `-i`, instrumental `-om`, and locative `-i` variants, as well as the adjectival ending variants, cannot be verified against the source.
 :::
 
 Several case endings have documented Northern and Southern variants.
 The following table summarizes the principal morphological alternations across the major paradigm classes.
 
-### 9.3.6.1. Noun Case Endings
-
+### Noun Case Endings
 The following table shows the main variant endings.
 An asterisk marks the form recommended in the respective canonical model.
 
@@ -211,9 +209,8 @@ Regional reference for genitive singular feminine:
 |---|---|---|---|---|
 | `-y` / `-i` | `-и` | `-а` (analytic) | `-y` | `-е` |
 
-### 9.3.6.2. Adjectival Endings
-
-Full adjectival declension variants are documented in the paradigm tables (§10.1.2).
+### Adjectival Endings
+Full adjectival declension variants are documented in the paradigm tables .
 The key flavor-sensitive endings are:
 
 | Form | Standard | Northern | Southern |
@@ -223,13 +220,12 @@ The key flavor-sensitive endings are:
 | Fem. sg. gen. | :isv[-oj] | :isv[-oj] | :isv[-e] |
 
 :::info[TODO: Committee Input Needed]
-A comprehensive comparison table of all case endings across Northern and Southern paradigms has not yet been finalized. The committee should specify whether the standard paradigm tables (§10.1.1–§10.1.2) should include a dedicated flavor column or whether a separate summary table should appear in §10.2.4.
+A comprehensive comparison table of all case endings across Northern and Southern paradigms has not yet been finalized. The committee should specify whether the standard paradigm tables  should include a dedicated flavor column or whether a separate summary table should appear in the relevant section
 :::
 
 ---
 
-## 9.3.7. Avoiding Infinitives and Cases: Bulgarian/Macedonian Flavor
-
+## Avoiding Infinitives and Cases: Bulgarian/Macedonian Flavor
 :::caution[Unverified Content]
 The source material only briefly mentions "avoiding the use of infinitives and noun cases when addressing Bulgarians" as an example of grammatical-level flavourisation. The detailed rules in this section — the `da` + finite verb substitution patterns, the constraint on accusative retention, the prohibition on postposed articles, and the MUST/MUST NOT normative requirements — are elaborations not present in the source.
 :::
@@ -263,8 +259,7 @@ The committee should specify: (a) the complete inventory of constructions for wh
 
 ---
 
-## 9.3.8. Worked Morphological Flavorization Examples
-
+## Worked Morphological Flavorization Examples
 :::caution[Unverified Content]
 These worked examples are not present in the source material. While the individual rules they demonstrate (infinitive shortening, prefix alternation, `dlja`/`za` substitution) are sourced, the specific sentences and especially the Bulgarian/Macedonian accommodation example (with `da piše`, `može da`) are original compositions that cannot be verified against the source.
 :::

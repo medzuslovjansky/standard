@@ -1,5 +1,4 @@
-# 7.2. Lexical Semantics
-
+# Lexical Semantics
 :::caution[No Source Material Available]
 This file has no direct source material for verification. All content in this section requires expert review to confirm accuracy and consistency with established Interslavic standards.
 :::
@@ -8,12 +7,10 @@ This section specifies the principles governing the assignment of meaning to Int
 
 ---
 
-## 7.2.1. Semantic Fields and Core Vocabulary
+## Semantic Fields and Core Vocabulary
+The Interslavic standard lexicon is organized around **semantic fields** — clusters of related meanings that together cover a major domain of human experience or knowledge. Coverage of each field is verified against the twelve source languages of the weighted voting system (see the relevant section).
 
-The Interslavic standard lexicon is organized around **semantic fields** — clusters of related meanings that together cover a major domain of human experience or knowledge. Coverage of each field is verified against the twelve source languages of the weighted voting system (see §8.1.1).
-
-### 7.2.1.1. Core Semantic Fields
-
+### Core Semantic Fields
 The following semantic fields are recognized as foundational. Each field MUST be representable with core vocabulary that is widely intelligible across all major Slavic language groups.
 
 :::caution[Unverified Content]
@@ -37,8 +34,7 @@ The verb "to see" appears as :isv[viditi] in "Basic actions" but as :isv[viděti
 | **Numbers and quantities** | :isv[jedin] "one", :isv[dva] "two", :isv[tri] "three", :isv[mnogo] "many", :isv[malo] "few/little" |
 | **Properties and qualities** | :isv[dobry] "good", :isv[zly] "bad/evil", :isv[veliky] "great/large", :isv[maly] "small", :isv[novy] "new", :isv[stary] "old" |
 
-### 7.2.1.2. Verification Procedure
-
+### Verification Procedure
 When assigning vocabulary to a semantic field, the committee SHOULD verify that the selected form achieves the broadest possible intelligibility by:
 
 1. Consulting word forms in all twelve source languages.
@@ -46,17 +42,15 @@ When assigning vocabulary to a semantic field, the committee SHOULD verify that 
 3. Noting where regional gaps exist (e.g., a form that is opaque to East Slavic speakers) and, where possible, providing an alternative or gloss.
 
 :::info[TODO: Committee Input Needed]
-Define the complete inventory of semantic fields to be covered in the standard lexicon. Specify minimum coverage depth (number of core items) for each field. Determine whether technology, medicine, and law form separate specialized sublexicons or are handled under the general international vocabulary rules in §8.2.
+Define the complete inventory of semantic fields to be covered in the standard lexicon. Specify minimum coverage depth (number of core items) for each field. Determine whether technology, medicine, and law form separate specialized sublexicons or are handled under the general international vocabulary rules in the relevant section
 :::
 
 ---
 
-## 7.2.2. Polysemy and Disambiguation
-
+## Polysemy and Disambiguation
 **Polysemy** — a single word form carrying multiple related but distinct meanings — is a pervasive feature of the Interslavic lexicon, as it is in all natural Slavic languages.
 
-### 7.2.2.1. Treatment in the Dictionary
-
+### Treatment in the Dictionary
 Polysemous words are listed in the dictionary with **all attested meanings** enumerated and numbered. No a priori disambiguation rule exists: context determines the intended meaning.
 
 **Example:** :isv[leto]
@@ -81,24 +75,21 @@ The form :isv[vselennaja] closely mirrors Russian *вселенная* and may n
 
 Both meanings are attested across Slavic. Context and collocation typically disambiguate: :isv[mir i vojna] "peace and war"; :isv[mir i vselennaja] "world and universe."
 
-### 7.2.2.2. Disambiguation Strategies
-
+### Disambiguation Strategies
 When a polysemous word creates genuine ambiguity in a specific context, the writer MAY use the following strategies:
 
 1. **Collocation:** combine the word with a modifier or collocate that activates the intended reading.
-2. **Paraphrase:** use a less ambiguous synonym or phrase (see §7.2.3).
+2. **Paraphrase:** use a less ambiguous synonym or phrase (see the relevant section).
 3. **Explicit gloss:** in formal or technical texts, follow the word with a parenthetical equivalent.
 
 Writers SHOULD NOT rely on typographical devices (e.g., quotation marks, italics) alone to disambiguate polysemous words.
 
 ---
 
-## 7.2.3. Synonymy and Near-Synonymy
-
+## Synonymy and Near-Synonymy
 The Interslavic dictionary MAY list **multiple acceptable synonyms** for a single concept. This reflects the reality that different Slavic source languages contribute competing roots, and both (or several) forms may enjoy broad recognition.
 
-### 7.2.3.1. Register and Regional Associations
-
+### Register and Regional Associations
 Each synonym entry in the dictionary SHOULD be marked for:
 
 | Marker | Meaning |
@@ -124,15 +115,14 @@ The forms :isv[rěčati] and :isv[bajati] as synonyms for "to speak" could not b
 
 Writers SHOULD default to the form marked *(neutral)* unless a specific stylistic effect is desired.
 
-### 7.2.3.2. Near-Synonyms with Distinct Semantic Coverage
-
+### Near-Synonyms with Distinct Semantic Coverage
 Some near-synonyms differ not in register but in **semantic coverage** — they have overlapping but non-identical referential ranges. In such cases the dictionary entry SHOULD specify the difference.
 
 **Example:** :isv[znati] vs. :isv[věděti]
 
 Both mean "to know," but:
 - :isv[znati] expresses acquaintance with persons, places, and facts — knowing in the sense of being familiar with. It is the neutral everyday default.
-- :isv[věděti] is the athematic verb (see §5.7.9) conveying direct or authoritative knowledge; it appears in more formal and philosophical registers.
+- :isv[věděti] is the athematic verb (see the relevant section) conveying direct or authoritative knowledge; it appears in more formal and philosophical registers.
 
 :::info[TODO: Committee Input Needed]
 Document all major synonym pairs where the register or regional marking is not yet settled by committee decision. In particular: :isv[toljko / toliko], :isv[ili / abo], :isv[čto / što / kaj] as interrogatives, and similar items where competing forms serve partially overlapping functions.
@@ -140,20 +130,17 @@ Document all major synonym pairs where the register or regional marking is not y
 
 ---
 
-## 7.2.4. False Cognates (False Friends)
-
+## False Cognates (False Friends)
 **False cognates** (false friends) are words whose Interslavic form closely resembles a word in another Slavic language, but the two words differ significantly in meaning. These present a particular risk to communication because a reader relying on native-language intuitions may misread the Interslavic text.
 
-### 7.2.4.1. Categories of False Friends
-
+### Categories of False Friends
 | Type | Description |
 |---|---|
 | **Complete false friends** | The Interslavic form and the superficially similar native form have entirely unrelated meanings. |
 | **Partial false friends** | The two forms share some but not all meanings; one language's usage is narrower or shifted. |
 | **Deceptive cognates** | The forms are etymologically related but have diverged in meaning through independent semantic change. |
 
-### 7.2.4.2. Selected High-Risk False Friend Pairs
-
+### Selected High-Risk False Friend Pairs
 The following pairs represent the most common sources of misreading across major Slavic language groups. This list is illustrative, not exhaustive.
 
 :::caution[Unverified Content]
@@ -169,13 +156,12 @@ The :isv[urod] entry below contradicts other standard files (e.g., 08-lexicon/01
 | :isv[stol] | "table" | *stol* | "chair" | Slovenian (*stol* = chair) |
 | :isv[vrěd] | "harm, damage" | *vreda* | "value, worth" | Serbian/Croatian (*vrednost* = value) |
 
-### 7.2.4.3. Avoidance Strategies
-
+### Avoidance Strategies
 When writing Interslavic for an audience that includes speakers of a language where a false friend is known to occur, the writer SHOULD:
 
 1. Prefer a synonym or paraphrase that does not trigger the false-friend association for that audience.
 2. Add a brief parenthetical gloss on first use in a long or formal text.
-3. Consult the false-friends appendix of the dictionary (see §10.X).
+3. Consult the false-friends appendix of the dictionary (see X).
 
 :::info[TODO: Committee Input Needed]
 Compile a comprehensive false-friends reference organized by source-language interference. Prioritize pairs that produce meaning reversals or strongly misleading readings over pairs that merely differ in scope or connotation.

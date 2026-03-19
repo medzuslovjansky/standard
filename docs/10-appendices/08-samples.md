@@ -6,8 +6,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 1. Moj najlěpši prijatelj
-
+## Moj najlěpši prijatelj
 **Topic:** Describing a friend; personal appearance and character
 
 ### Interslavic
@@ -46,8 +45,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 2. Obyčny denj
-
+## Obyčny denj
 **Topic:** Daily routine; present tense narration
 
 ### Interslavic
@@ -86,8 +84,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 3. Svobodno vrěmę
-
+## Svobodno vrěmę
 **Topic:** Leisure activities; weekends
 
 ### Interslavic
@@ -122,8 +119,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 4. Odkųdy jesi?
-
+## Odkųdy jesi?
 **Topic:** Meeting someone new; origins and language learning
 
 ### Interslavic
@@ -160,8 +156,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 5. Pivo, prošų
-
+## Pivo, prošų
 **Topic:** Ordering in a bar; asking for help
 
 ### Interslavic
@@ -196,8 +191,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 6. Ostrižeńje
-
+## Ostrižeńje
 **Topic:** At the hairdresser; appearance and colour
 
 ### Interslavic
@@ -230,8 +224,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 7. Moj rodinny album
-
+## Moj rodinny album
 **Topic:** Family; physical resemblance; future plans
 
 ### Interslavic
@@ -274,8 +267,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 8. Kakòvo strånno hobbi!
-
+## Kakòvo strånno hobbi!
 **Topic:** Unusual hobbies; comparison and surprise
 
 ### Interslavic
@@ -314,8 +306,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 9. Velika prośba
-
+## Velika prośba
 **Topic:** Asking a favour; describing people's appearance
 
 ### Interslavic
@@ -350,8 +341,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 10. Kamo pojědem v odpusk?
-
+## Kamo pojědem v odpusk?
 **Topic:** Planning a holiday; disagreement and compromise
 
 ### Interslavic
@@ -392,8 +382,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 11. Nenaviđų domovų råbotų!
-
+## Nenaviđų domovų råbotų!
 **Topic:** Household chores; narrating past events; in-laws
 
 ### Interslavic
@@ -436,8 +425,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 12. Anja ima novogo prijatelja
-
+## Anja ima novogo prijatelja
 **Topic:** Gossip about relationships; character judgements
 
 ### Interslavic
@@ -480,8 +468,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 13. Moj idealny mųž
-
+## Moj idealny mųž
 **Topic:** Ideals and reality; appearance; gentle humour
 
 ### Interslavic
@@ -518,8 +505,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 14. Figurna jězda na ledu
-
+## Figurna jězda na ledu
 **Topic:** Taking up a new sport; persuasion; humour
 
 ### Interslavic
@@ -564,8 +550,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 15. Samoletom ili vlåkom?
-
+## Samoletom ili vlåkom?
 **Topic:** Travel planning; fears; negotiation
 
 ### Interslavic
@@ -602,8 +587,7 @@ Sources: dialogues adapted from the Ranmaru educational series (files 56–74); 
 
 ---
 
-## 16. Russky medvěď
-
+## Russky medvěď
 **Topic:** Facts about Russia; myth vs. reality; prose monologue with joke
 
 Some foreigners think that bears walk along the streets in Russia. Of course, that is not true! Bears live in forests and do not like people.
@@ -632,8 +616,7 @@ That is why Russians love bears and call them "mishki". Misha was the mascot of 
 
 ---
 
-## 17. Najhlådnějši gråd na Zemji
-
+## Najhlådnějši gråd na Zemji
 **Topic:** Extreme geography; community life; descriptive prose
 
 ### Interslavic
@@ -656,8 +639,7 @@ In winter the day lasts only 3 hours. And in summer it is light even at night. I
 
 ---
 
-## 18. Sankt-Peterburg
-
+## Sankt-Peterburg
 **Topic:** History and culture of a city; descriptive prose
 
 ### Interslavic
@@ -684,8 +666,7 @@ These are days when at night outside it is almost as light as during the day. Th
 
 ---
 
-## 19. Prividěńje
-
+## Prividěńje
 **Topic:** Ghost story; historical legend; Saint Petersburg
 
 ### Interslavic
@@ -712,8 +693,7 @@ Now the Russian Museum is located in the Mikhailovsky Castle. The museum staff d
 
 ---
 
-## 20. Naše selo — The Pan-Slavic Relay
-
+## Naše selo — The Pan-Slavic Relay
 **Topic:** Village life; nostalgia; literary prose
 
 This text originates from the Pan-Slavic Relay of September–October 2009, an event in which participants in various Slavic constructed languages translated a passage in relay fashion. The source passage was taken from a nineteenth-century English essay by Mary Russell Mitford. The Interslavic version below is by Jan van Steenbergen, representing the Slovianski stage of the relay; it is included here as a literary register sample distinct from the conversational dialogues above.
@@ -742,8 +722,7 @@ In any case, a small social group — which is a village community — is what p
 
 This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merunka's *Novoslovienskij jazyk* (2012), pages 87–92. The phrasebook is presented in eight thematic categories. Interslavic is given in Latin script as in the original. Parenthesised letters such as *(A)*, *(G)*, *(L)*, *(D)* indicate the grammatical case required for the blank slot.
 
-### 1. Greetings and farewells
-
+### Greetings and farewells
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Добро пожаловать! | :isv[Dobro došli!] | Welcome! |
@@ -768,8 +747,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Передай … от меня привет! | :isv[Kaži pozdrav … *(D)* od mene!] | Give my regards to … ! (informal) |
 | Передайте … от меня привет! | :isv[Kažite pozdrav … *(D)* od mene!] | Give my regards to … ! (formal) |
 
-### 2. Wishes
-
+### Wishes
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | На здоровье! | :isv[Na zdravje!] | Cheers! / To your health! |
@@ -785,8 +763,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Во истину воскресе! | :isv[V istinu vozkres!] | Truly He is risen! |
 | С днём рождения! | :isv[Mnoge lěta!] | Many happy returns! |
 
-### 3. Asking for help
-
+### Asking for help
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Пожалуйста! | :isv[Prošu! Prosim!] | Please! |
@@ -812,8 +789,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Я хочу есть. | :isv[Hoču jesti.] | I want to eat. |
 | Я хочу пить. | :isv[Hoču piti.] | I want to drink. |
 
-### 4. Getting acquainted
-
+### Getting acquainted
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Меня зовут … | :isv[Moje ime je …] | My name is … |
@@ -841,8 +817,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Тебе у нас нравится? | :isv[Dobro li je tobě u nas?] | Do you like it here? (informal) |
 | Вам у нас нравится? | :isv[Dobro li jest vam u nas?] | Do you like it here? (formal) |
 
-### 5. Understanding
-
+### Understanding
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Можешь повторить? | :isv[Možeš li to kazati ješče jedin raz?] | Can you repeat that? (informal) |
@@ -872,8 +847,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Я учу межславянский только месяц. | :isv[Učim se medžuslovjansky jedin mesec.] | I have only been learning Interslavic for one month. |
 | Мне нравится межславянский. | :isv[Ljubim slovjanske jezyky.] | I love Slavic languages. |
 
-### 6. Directions
-
+### Directions
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Извините, как дойти до …? | :isv[Prošu, kako mogu idti do … ? *(G)*] | Excuse me, how do I get to …? |
@@ -901,8 +875,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Могу я пойти с Вами? | :isv[Mogu li idti s vami?] | May I come with you? (formal) |
 | Я вернусь. | :isv[Budu se vratiti.] | I will return. |
 
-### 7. Time
-
+### Time
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Сколько времени? | :isv[Koliko je vrěmene? Kaka je časina?] | What time is it? |
@@ -937,8 +910,7 @@ This section reproduces the Russian–Interslavic phrasebook from Vojtěch Merun
 | Ноябрь. | :isv[November.] | November. |
 | Декабрь. | :isv[December.] | December. |
 
-### 8. Shopping, hotels, and restaurants
-
+### Shopping, hotels, and restaurants
 | Russian | Interslavic | English |
 |---------|-------------|---------|
 | Я хочу это. | :isv[Tuto hoču.] | I want this. |

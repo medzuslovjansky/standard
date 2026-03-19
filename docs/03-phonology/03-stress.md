@@ -1,256 +1,157 @@
-# 3.3. Stress and Prosody
-
-:::caution[Unverified Content]
-The source confirms stress is "free" but does not characterise it as "mobile" or "expiratory." These typological characterisations are not present in the source material.
-:::
-
-Stress in Interslavic operates within a typologically familiar Slavic framework: it is **free** (not lexically fixed to a specific syllable position), potentially **mobile** across a paradigm, and **expiratory** (realised primarily through increased loudness and duration rather than pitch alone).
-Because Interslavic is designed to be produced comfortably by speakers of all Slavic languages — each of which has its own accentual system — the standard imposes only a minimal set of normative constraints, supplemented by conventions that maximise intelligibility.
+# Stress and Prosody
+Stress in Interslavic is **free**: no single fixed-position rule is imposed for all words.
+Every speaker may follow the accentual habits of their own native Slavic language.
+Because Interslavic is designed to be produced comfortably by speakers of all Slavic languages — each of which has its own accentual system — the standard imposes only a small set of guidelines that maximise intelligibility and give the language a pleasant melodic regularity.
 
 ---
 
-## 3.3.1. Free Stress Principle
-
-### 3.3.1.1. Formal freedom of stress
-
+## Free Stress Principle
+### Formal freedom of stress
 Stress placement in Standard Interslavic is **formally free**: no single fixed-position rule (initial, penultimate, or final) is imposed for all words.
-:::caution[Unverified Content]
-The source does not contain this SHALL statement. The source says accentuation is "free" and provides guidelines, but does not explicitly instruct speakers to follow their native Slavic language's accentual pattern.
-:::
-
-Speakers SHALL follow the accentual pattern of their own native Slavic language wherever that pattern produces a pronunciation that is recognisable to other Slavic speakers.
-
-:::caution[Unverified Content]
-Polish has fixed penultimate stress, not initial stress as stated here. Czech and Slovak have fixed initial stress. This paragraph's characterisation of "Polish initial stress" is factually incorrect.
-:::
+Every speaker may follow the accentual habits that feel natural to them.
 
 The freedom of stress is a deliberate design choice.
-Forcing all speakers to adopt a single fixed-stress system (e.g., Polish initial stress or Czech fixed initial stress) would make Interslavic feel unnatural for the majority, who come from languages with free or mobile stress.
+Forcing all speakers to adopt a single fixed-stress system would make Interslavic feel unnatural for the majority, who come from languages with free or mobile stress.
 Conversely, attempting to prescribe a full lexical stress dictionary would impose an unrealistic burden on learners and speakers.
 
-### 3.3.1.2. Permissible range of stress positions
-
-In practice, stress SHOULD fall on one of the following syllables (counted from the end of the word):
+### Permissible range of stress positions
+In practice, stress SHOULD fall on the **second or third syllable from the end** of the word. The following table summarises the preferred positions by word length:
 
 | Word length | Preferred stress positions |
 |---|---|
 | Monosyllable | The only syllable |
-| Disyllable | First (penultimate) syllable |
-| Trisyllable | First or second syllable (antepenultimate or penultimate) |
-| Four or more syllables | Second or third syllable from the beginning |
+| Disyllable | First (= penultimate) syllable |
+| Trisyllable or longer | Second or third syllable from the end |
 
-These positions reflect the central tendency across attested Slavic stress systems and provide a practical default for speakers who have no strong native-language preference for a given word.
+Within these limits the speaker has freedom: it is equally correct to say :isv[sílaba] (third from end) or :isv[silába] (second from end). The choice is a matter of personal preference and may vary from word to word.
 
-:::info[TODO: Committee Input Needed]
-The committee should confirm whether this syllable-count table should be expressed as a SHOULD or as a normative MUST, and whether any additional syllable counts (five-plus syllables) require explicit specification.
-:::
+Importantly, in words of three or more syllables stress should **not** fall on the very first syllable (unless it coincides with the second or third position from the end), and it should **not** fall on the very last syllable (see also  on affixes).
 
 ---
 
-## 3.3.2. Default Stress Convention for Citation Forms
+## Stress and Affixes
+### Prefixes are typically unstressed
+Stress should **not** fall on prefixes. In a disyllabic word that consists of a prefix plus a root, this rule takes priority over the general preference to avoid final-syllable stress. For example:
 
-### 3.3.2.1. Penultimate stress as the citation-form default
-
-:::caution[Unverified Content]
-The source does not establish "penultimate stress" as a citation-form default. The source provides position-by-syllable-count guidelines (first syllable for disyllables, first or second for trisyllables, second or third for four-syllable words), which do not uniformly reduce to a penultimate rule. The SHALL statement here is not supported by the source.
-:::
-
-When a word is presented in isolation (citation form, dictionary headword, metalinguistic discussion), and when the speaker has no applicable native-language model, stress SHALL fall on the **penultimate syllable** of polysyllabic words.
-Monosyllables are stressed on their single syllable.
-
-:::caution[Unverified Content]
-The claim that Czech, Slovak, and Sorbian support a penultimate default is misleading: those languages have fixed initial stress, not penultimate. Polish has penultimate stress but is not mentioned here. The reasoning in this paragraph does not hold.
-:::
-
-This convention aligns with the dominant pattern in West Slavic (Czech, Slovak, Sorbian — though those languages have fixed initial stress, the penultimate is the most widely accessible neutral position) and with a large portion of South Slavic usage.
-
-Examples (stress marked with acute accent on the vowel of the stressed syllable):
-
-:::caution[Unverified Content]
-The example :isv[jazyký] has the acute accent on the final syllable, but the IPA :ipa[[jaˈzɨkɨ]] shows stress on the penultimate. The written accent mark and the IPA are inconsistent. Additionally, the IPA vowel :ipa[ɨ] is not standard for Interslavic :isv[y]; the source does not specify this realisation.
-:::
-
-| Word | IPA | Gloss |
+| Word | Stress | Gloss |
 |---|---|---|
-| :isv[váriti] | :ipa[[ˈvariti]] | to cook |
-| :isv[jazyký] | :ipa[[jaˈzɨkɨ]] | languages (nom.pl.) |
-| :isv[goród] | :ipa[[ɡoˈrod]] | city |
-| :isv[zémja] | :ipa[[ˈzemja]] | earth |
-| :isv[bibliotéka] | :ipa[[bibliˈotɛka]] | library |
+| :isv[naglås] | :isv[naglǻs] (not :isv[náglås]) | stress, accent |
+| :isv[prikaz] | :isv[prikáz] | command |
+| :isv[nadpis] | :isv[nadpís] | inscription |
+| :isv[vȯzhod] | :isv[vȯzhód] | east, sunrise |
+| :isv[něčto] | :isv[něčtó] | something |
 
-### 3.3.2.2. Monosyllables
+In words of three or more syllables the conflict does not arise, because stress can always fall on a non-initial, non-final syllable.
 
-:::caution[Unverified Content]
-The source does not discuss clitics, proclitic behaviour, or the stress properties of prepositions, :isv[i], or :isv[ne]. The cross-reference to "§3.3.5 on clitics" points to a section about imperative vs. indicative stress, not clitics.
-:::
+Note that :isv[pre-] and :isv[su-] in the borrowed words :isv[prefiks] and :isv[sufiks] are also prefixes (though not of Slavic origin), so stress on the last syllable (:isv[prefíks], :isv[sufíks]) is equally permissible.
 
-Monosyllabic words, including clitics in their stressed (long) forms, carry stress on their single syllable.
-Monosyllabic proclitics (prepositions, the conjunction :isv[i], the particle :isv[ne]) are typically **unstressed** in connected speech and lean prosodically on the following word (see §3.3.5 on clitics).
+### Suffixes and derivational endings are typically unstressed
+Analogously, stress should **not** fall on derivational suffixes and productive endings. Instead it falls on the syllable immediately **before** the suffix. This is particularly relevant for words with the suffix :isv[-cija]:
+
+| Word | Stress | Gloss |
+|---|---|---|
+| :isv[investicija] | :isv[invesTÍcija] | investment |
+| :isv[investicijejų] | :isv[invesTÍcijejų] | investment (instr.sg.) |
+
+This pronunciation is natural for East Slavic speakers. It may look unfamiliar to Polish speakers, who habitually place stress on the penultimate syllable; however, the Polish pronunciation of the cognate word (_inwes**TY**cja_) actually has the same stress position relative to the suffix, and so the Interslavic pattern :isv[invesTÍcija] is in practice equally accessible. (Note: in Old Polish and modern Silesian, the stress in such words falls on _-cy-_ — :isv[inwesty**CY**ja] — a pattern that Lechitic speakers should be aware of when speaking Interslavic.)
+
+The same principle applies to all other derivational suffixes and prefixes.
 
 ---
 
-## 3.3.3. Stress in Prefixed Forms
+## Stress in Infinitives
+The infinitive ending :isv[-ti] is a grammatical suffix, and the general principle of not stressing suffixes applies. At the same time, the second-or-third-from-end rule gives the speaker a choice. Both patterns are correct:
 
-### 3.3.3.1. Prefixes are typically unstressed
+- Ukrainian/Slovenian style: :isv[načiNÁti]
+- Other styles: :isv[naČÍnati]
 
-:::caution[Unverified Content]
-The source says "it is better to avoid stress falling on prefixes, suffixes, case endings etc." — this is a recommendation, not the normative SHALL NOT stated here. The specific list of prefixes is not in the source.
-:::
+A Serbo-Croatian (Štokavian) or Czech/Slovak speaker might say :isv[NÁčinati], but this places stress on the first syllable of a four-syllable word, which the guidelines discourage. The forms :isv[načínati] and :isv[naČÍnati] are therefore more widely recommended.
 
-In standard Interslavic, derivational and verbal prefixes (e.g., :isv[na-], :isv[od-], :isv[po-], :isv[pre-], :isv[pro-], :isv[raz-], :isv[s-]/:isv[sȯ-], :isv[u-], :isv[v-]/:isv[vȯ-], :isv[vy-], :isv[za-]) are **typically unstressed**.
-Stress SHALL NOT routinely shift to a prefix in standard forms.
+---
+
+## Stress in Inflected Forms (Paradigm Consistency)
+### Stress does not shift with inflectional endings
+Stress SHOULD remain **on the same syllable of the stem** across the entire inflectional paradigm of a given word. Adding case endings to nouns and adjectives, or personal endings to verbs, does **not** move the stress.
+
+This is especially important for Polish speakers, whose native language places stress on the penultimate syllable of every word form, causing the stress to shift as endings are added. In Interslavic, this shift should be avoided.
+
+Examples — adjective :isv[dóbry]:
+
+| Form | Word | Note |
+|---|---|---|
+| Nom.sg.m. | :isv[dÓbry] | stress on stem |
+| Gen.sg.m. | :isv[dÓbrogo] | stress stays (not :isv[dobRÓgo]) |
+| Dat.sg.m. | :isv[dÓbromu] | stress stays (not :isv[dobrÓmu]) |
+| Instr.pl. | :isv[dÓbrymi] | stress stays (not :isv[dobrÝmi]) |
+
+Further examples:
+
+| Base form | Inflected forms | Note |
+|---|---|---|
+| :isv[intenSÍVny] | :isv[intenSÍVnomu] | stress stays |
+| :isv[TRÁKtor] | :isv[TRÁKtory], :isv[TRÁKtorami] | stress stays |
+| :isv[Ágent] | :isv[Ágenti], :isv[Ágentami] | stress stays |
+| :isv[dělaJŲ́ći] | :isv[dělaJŲ́ćego], :isv[dělaJŲ́ćemu] | stress stays |
+
+This pattern closely resembles Russian stress behaviour and will be natural and easy to understand for East Slavic speakers, though it is accessible to all. Note that this can result in up to four unstressed syllables (as in :isv[TRÁKtorami] or :isv[Ágentami]), which is normal and natural.
+
+---
+
+## Stress in Derivation (Word Formation)
+### Stress may shift between derived forms
+While inflectional endings do not move the stress , **derivational processes** (forming a new word from an existing root) are not bound by the same constraint. A derived word is a new lexical item and may carry stress on a different syllable than its base, subject to the general rules above .
 
 Examples:
 
-| Word | IPA | Gloss |
+| Base word | Derived word | Note |
 |---|---|---|
-| :isv[napisáti] | :ipa[[napiˈsati]] | to write (pf.) |
-| :isv[razuměváti] | :ipa[[razumeˈvati]] | to understand (ipf.) |
-| :isv[odlétěti] | :ipa[[odˈleteti]] | to fly away |
-| :isv[zakázati] | :ipa[[zaˈkazati]] | to forbid |
+| :isv[góvor] (speech) | :isv[govóriti] (to speak) | stress shifts to a different syllable |
+| :isv[bezpokójny] (restless) | :isv[bezpokojéńje] (anxiety) | stress moves before the suffix :isv[-eńje] |
+| :isv[privýkly] (accustomed) | :isv[privykáti] ~ :isv[privýkati] (to get used to) | both positions are correct |
+| :isv[izmágati] (to exhaust) | :isv[izmagány] (exhausted) | stress shifts |
 
-### 3.3.3.2. Prefix stress in fixed lexical items
+### Short and long verb forms
+Interslavic permits both short and long conjugation forms for verbs. These are independent paradigms, and each may have its own stress position. Once a stress position is chosen within a paradigm, however, it remains fixed across the inflectional forms of that paradigm (per ).
 
-Certain lexically fixed forms — primarily short nominal derivatives — may carry stress on the prefix as a conventionalised feature.
-Speakers are permitted (MAY) to stress such forms on the prefix when the corresponding form in their native language does so, but this is not required by the standard.
+For example, from the infinitive :isv[privýkati]:
 
-:::info[TODO: Committee Input Needed]
-The committee should compile a list of lexical items where prefix stress is conventionally fixed (e.g., :isv[výbor], :isv[zázrak], :isv[zákon]-type forms attested in the corpus), and decide whether these constitute normative exceptions or speaker-optional variants.
-:::
-
----
-
-## 3.3.4. Stress in Inflected Forms (Paradigm Consistency)
-
-### 3.3.4.1. Stress consistency across a paradigm
-
-In the **citation-form convention** (§3.3.2), stress SHOULD remain **consistent across the entire inflectional paradigm** of a given lexeme.
-If the citation form has stress on a particular syllable, all inflected forms SHOULD retain stress on the corresponding syllable of the same stem, regardless of the addition of endings.
-
-This principle is motivated by intelligibility: paradigm-stable stress reduces the cognitive load on listeners who are tracking the morphological structure of an inflected word.
-
-:::caution[Unverified Content]
-The form :isv[váriš] is labelled "adjective" but it is a verb form (2nd person singular indicative). This label is incorrect.
-:::
-
-Example — adjective :isv[váriš] → paradigm:
-
-| Form | Word | Stress position |
+| Form | Short conjugation | Long conjugation |
 |---|---|---|
-| Indicative 2sg. | :isv[váriš] | stem |
-| Indicative 3sg. | :isv[vári] | stem |
-| Indicative 1pl. | :isv[várimo] | stem |
-| Indicative 2pl. | :isv[várite] | stem |
+| 1sg. | :isv[já privýkam] | :isv[ja privykájų] |
+| 1pl. | :isv[mý privýkamo] | :isv[my privykájemo] |
+| Past m.sg. | :isv[ón privýkal] | — |
+| Past f.sg. | :isv[óna privýkala] | — |
 
-### 3.3.4.2. Speaker-adapted stress shift
-
-Speakers whose native language has mobile stress MAY apply paradigmatic stress shifts consistent with their native-language patterns.
-Such shifts are not non-standard, provided that the resulting forms remain recognisable within the Slavic continuum.
-For formal texts, written materials, and broadcast use, the citation-form convention (paradigm-stable penultimate stress) is RECOMMENDED.
+Note that it is **not** necessary to say :isv[já privýkajų] merely because the infinitive is :isv[privýkati] — such rigid consistency across derivational boundaries is neither required nor more natural. The general rules  apply independently to each word form.
 
 ---
 
-## 3.3.5. Disambiguation Role of Stress: Imperative vs. Indicative
-
+## Intonation and Prosody
 :::caution[Unverified Content]
-This entire section (§3.3.5) on using stress to disambiguate imperative from indicative forms has no basis in the source material. The source does not discuss imperative stress, verb class distinctions, or stress-based disambiguation of verb forms.
+This entire section  on intonation and prosody — including declarative, interrogative, imperative, exclamative contours, and focus-marking prosody — has no basis in the source material. The source mentions only "use prosody as well as you can" in a general remark, with no specific intonation rules or contour descriptions.
 :::
 
-### 3.3.5.1. Stress on the ending in imperative forms
-
-A notable functional recommendation concerns the **distinction between present indicative and imperative forms** in Class II (conjugation type `-iti`) verbs, where the two paradigms can be segmentally identical in certain persons.
-
-To avoid ambiguity, imperative forms SHOULD receive stress on the **ending** rather than on the stem:
-
-:::caution[Unverified Content]
-The gloss "(he/she) gifts" for 2sg. :isv[dáriš] is incorrect — 2sg. means "you gift," not "he/she gifts."
-:::
-
-| Form type | Word | IPA | Gloss |
-|---|---|---|---|
-| Indicative 2sg. | :isv[dáriš] | :ipa[[ˈdariʃ]] | (he/she) gifts |
-| **Imperative 2sg.** | **:isv[darí]** | :ipa[[daˈri]] | Gift! (command) |
-| Indicative 1pl. | :isv[dárimo] | :ipa[[ˈdarimo]] | we gift |
-| **Imperative 1pl.** | **:isv[darímo]** | :ipa[[daˈrimo]] | Let us gift! |
-| Indicative 2pl. | :isv[dárite] | :ipa[[ˈdarite]] | you (pl.) gift |
-| **Imperative 2pl.** | **:isv[daríte]** | :ipa[[daˈrite]] | Gift! (pl. command) |
-
-This recommendation is drawn from the attested practice of Interslavic users and is supported by the analogous pattern in several Slavic languages (e.g., Russian, where imperative stress often differs from indicative).
-
-### 3.3.5.2. Scope of the imperative stress recommendation
-
-The stress-on-ending recommendation applies specifically to **Class II verbs** (stems ending in `-i-` before the thematic suffix).
-For other verb classes, where indicative and imperative forms are already formally distinguishable by the shape of the ending, the general stress rules (§3.3.2–§3.3.4) apply without modification.
-
-:::info[TODO: Committee Input Needed]
-The committee should determine whether the imperative-stress recommendation should be elevated from SHOULD to MUST for formal registers, and whether the distinction extends to Class I verbs in any environments.
-:::
-
----
-
-## 3.3.6. Documented Exceptions and Lexically Fixed Stress
-
-:::caution[Unverified Content]
-This entire section (§3.3.6) on homograph disambiguation by stress and compound word stress has no basis in the source material. The source does not discuss stress-distinguished homograph pairs or compound word stress rules.
-:::
-
-### 3.3.6.1. Homograph disambiguation by stress
-
-Certain Interslavic word pairs are orthographically identical but carry different meanings according to stress placement.
-These represent **lexically fixed stress distinctions** and SHALL be respected in formal usage:
-
-| Word | Stress variant A | Meaning A | Stress variant B | Meaning B |
-|---|---|---|---|---|
-| :isv[zamok] | :isv[zámok] | castle, lock | :isv[zamók] | padlock |
-
-The existence of such pairs demonstrates that stress, though normally free, can acquire **lexemic contrastive function** in specific items.
-
-:::info[TODO: Committee Input Needed]
-The committee should compile a comprehensive list of stress-distinguished homograph pairs attested in the Interslavic lexicon, modelled on the :isv[zámok] / :isv[zamók] example, and decide the extent to which these pairs need to be normatively specified.
-:::
-
-### 3.3.6.2. Stress in compound words
-
-In compound words (formed by combining two or more lexical stems), stress SHOULD fall on the **root of the second (or final) component** in the citation-form convention.
-However, the first component MAY retain a secondary stress.
-
-:::info[TODO: Committee Input Needed]
-The committee should determine normative stress rules for Interslavic compounds, with reference to the behaviour of compounds in individual Slavic languages and to attested Interslavic compound vocabulary.
-:::
-
----
-
-## 3.3.7. Intonation and Prosody
-
-:::caution[Unverified Content]
-This entire section (§3.3.7) on intonation and prosody — including declarative, interrogative, imperative, exclamative contours, and focus-marking prosody — has no basis in the source material. The source mentions only "use prosody as well as you can" in a general remark, with no specific intonation rules or contour descriptions.
-:::
-
-### 3.3.7.1. Declarative intonation contour
-
+### Declarative intonation contour
 Standard Interslavic declarative sentences use a **falling intonation contour**: pitch rises to a local peak near the beginning of the intonational phrase and falls progressively toward the end, reaching its lowest point on the final stressed syllable or after it.
 
 This pattern is typologically common across Slavic languages and SHALL be treated as the canonical contour for statements.
 
 Example: :isv[Já govòrjų po-medžuslovjansky.] — pitch falls across the predicate toward the sentence-final word.
 
-### 3.3.7.2. Interrogative intonation — yes/no questions
-
+### Interrogative intonation — yes/no questions
 **Yes/no questions formed by intonation alone** (without a question particle) use a **rising intonation contour**, typically with the rise occurring on or just before the final content word of the question.
 
 Example: :isv[Ty govòriš po-medžuslovjansky?] — pitch rises on the final stressed syllable.
 
 This pattern mirrors the usage common in South Slavic languages and is accessible to speakers of other branches.
 
-### 3.3.7.3. Interrogative intonation — wh-questions
-
+### Interrogative intonation — wh-questions
 **Wh-questions** (formed with interrogative words such as :isv[kto], :isv[čto], :isv[kde], :isv[kogda], :isv[kako], :isv[čemu]) use a **falling contour** similar to declaratives.
 The interrogative word itself typically carries a pitch peak, after which pitch falls across the rest of the clause.
 
 Example: :isv[Kde ty živěš?] — pitch peak on :isv[kde], then falls.
 
-### 3.3.7.4. Intonation with question particles :isv[li] and :isv[či]
-
+### Intonation with question particles :isv[li] and :isv[či]
 Questions formed with the postposed particle :isv[li] or the fronted particle :isv[či] do **not** require a rising intonation contour.
 **Declarative intonation (falling) SHALL be used** with :isv[li]- and :isv[či]-questions.
 
@@ -260,8 +161,7 @@ Examples:
 - :isv[Govòriš li po-medžuslovjansky?] — falling contour.
 - :isv[Či ty govòriš po-medžuslovjansky?] — falling contour.
 
-### 3.3.7.5. Imperative and exclamative intonation
-
+### Imperative and exclamative intonation
 **Imperative sentences** use an **emphatic-fall contour**: pitch rises sharply on the stressed syllable of the main verb and falls steeply thereafter.
 The overall contour is shorter and more abrupt than in declaratives.
 
@@ -271,12 +171,11 @@ Examples:
 - :isv[Govòri!] — sharp fall after the stressed syllable.
 - :isv[Kakój krasívy gorod!] — expanded-range falling contour.
 
-### 3.3.7.6. Focus-marking prosody
-
+### Focus-marking prosody
 **New-information focus** (rhematic focus, narrow focus) and **contrastive focus** are both signalled in Interslavic by a **local pitch peak** on the focused constituent.
 This peak is higher than the surrounding prosodic context and is followed by a fall before the end of the intonational phrase.
 
-**New-information focus** typically falls on the **rightmost** new-information constituent in neutral word order (see §6.1.2).
+**New-information focus** typically falls on the **rightmost** new-information constituent in neutral word order (see the relevant section).
 **Contrastive focus** may fall on any constituent that is being set in opposition to an alternative, regardless of its position in the clause.
 
 In written Interslavic, focus is not orthographically marked.

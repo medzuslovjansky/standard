@@ -1,7 +1,5 @@
-# 2. Fundamental Principles and Design Criteria
-
-## 2.1. Core Design Principles
-
+# Fundamental Principles and Design Criteria
+## Core Design Principles
 Interslavic is based on the common heritage of all Slavic nations, and differences are bridged by building compromises. All Slavic languages are treated equally, although it cannot be avoided that a Slavic interlanguage is closer to "middle-of-the-road" languages like Slovak or Rusyn than to peripheral languages like Sorbian or Macedonian.
 
 Interslavic is explicitly not meant to be "more Slavic than the Slavs" by purifying it from foreign influences, even though a language based on the commonalities of the Slavic languages will automatically eliminate many local (non-Slavic) influences anyway. There is no reason to exclude international vocabulary, provided that it can be recognised by all, or at least most, Slavic speakers.
@@ -13,18 +11,16 @@ Interslavic has two primary purposes:
 
 When a common solution cannot be found across Slavic languages, a compromise is built. If even a compromise is impossible, a choice must be made or both solutions may be offered.
 
-### 2.1.1. Maximum Mutual Intelligibility
-
+### Maximum Mutual Intelligibility
 Interslavic lexical, phonological, and grammatical choices SHALL maximize passive comprehension by speakers of Slavic languages without prior Interslavic study.
 
-- Word roots, grammatical endings, and phonological forms SHALL be selected according to the weighted-majority voting mechanism described in §2.2.4.
+- Word roots, grammatical endings, and phonological forms SHALL be selected according to the weighted-majority voting mechanism described in the relevant section
 - When a root or form exists in all Slavic languages in the same meaning, it SHALL be adopted without modification.
 - When only one or two languages diverge from the majority, the majority form SHALL nonetheless apply.
 - Vocabulary that is broadly recognisable to Slavic speakers SHALL be preferred over vocabulary familiar only to speakers of a single branch.
 - International vocabulary MAY be adopted if used in most Slavic languages and recognisable by the majority of Slavic speakers.
 
-### 2.1.2. Naturalism over Artificiality
-
+### Naturalism over Artificiality
 Interslavic MUST preserve grammatical categories that are universal to or widespread among the Slavic languages.
 
 :::caution[Unverified Content]
@@ -33,12 +29,11 @@ The source material lists gender, cases, and verbal aspect but does not mention 
 
 - Grammatical gender, case system, verbal aspect, and animacy distinction SHALL be retained as core structural features.
 - Features entirely absent from all natural Slavic languages MUST NOT be introduced.
-- Words SHALL NOT be borrowed directly from any individual Slavic language. Instead, the derivation SHOULD proceed from the hypothetical Proto-Slavic or Old Church Slavonic base form, then subjected to systematic derivation rules (see §2.2.1).
+- Words SHALL NOT be borrowed directly from any individual Slavic language. Instead, the derivation SHOULD proceed from the hypothetical Proto-Slavic or Old Church Slavonic base form, then subjected to systematic derivation rules (see the relevant section).
 - Irregularity is to be avoided unless preserving it is essential for naturalistic recognisability.
 - Artificiality is to be avoided as well: the language SHOULD feel organic to a Slavic speaker.
 
-### 2.1.3. Simplicity and Regularity
-
+### Simplicity and Regularity
 Interslavic SHOULD keep grammar as simple and regular as possible without sacrificing its Slavic character.
 
 - Irregularities SHALL be reduced to the minimum set unavoidable for naturalism.
@@ -51,17 +46,15 @@ The source discusses simplifying paradigms to avoid "endless tables" but does no
 
 - Nominal and verbal paradigms SHALL be presented in compact tables, avoiding redundancy.
 
-### 2.1.4. Neutrality Among Slavic Languages
-
+### Neutrality Among Slavic Languages
 No single Slavic language SHALL function as the default or primary model for Interslavic.
 
 - All three Slavic subfamilies — East, West, and South — SHALL be treated on an equal basis.
-- The voting system defined in §2.2.4 operationalises this neutrality through balanced subgroup weighting.
+- The voting system defined in the relevant section operationalises this neutrality through balanced subgroup weighting.
 - When two candidate forms receive equal votes, population weighting may serve as a tiebreaker.
 - Languages with fewer than approximately one million speakers (e.g., Sorbian, Kashubian, Rusyn) do not participate in formal voting but SHALL still be considered in the evaluation of proposed forms.
 
-### 2.1.5. Scalability: Basic vs. Extended Register
-
+### Scalability: Basic vs. Extended Register
 Interslavic accommodates users with varying levels of proficiency and differing communication needs through two defined usage registers.
 
 **Basic Interslavic** (also referred to as :isv[Slovianto] / :cyrl[Словянто]) is a simplified subset intended primarily for non-Slavs or beginners:
@@ -90,10 +83,8 @@ The source says "Ideally, level 1 should be a subset of level 2" — a descripti
 
 The two registers SHALL be defined such that Basic Interslavic is a strict subset of Standard Interslavic. A learner MAY advance from one register to the other without invalidating previously acquired knowledge.
 
-## 2.2. Linguistic Basis
-
-### 2.2.1. Proto-Slavic and Common Slavic Heritage
-
+## Linguistic Basis
+### Proto-Slavic and Common Slavic Heritage
 Word roots and grammatical patterns in Interslavic SHOULD be traceable to reconstructed Proto-Slavic.
 
 - Interslavic forms are not borrowed directly from any modern Slavic language. Instead, derivation proceeds from the reconstructed Proto-Slavic or attested Old Church Slavonic base form, which is then subjected to systematic phonological simplification.
@@ -101,8 +92,7 @@ Word roots and grammatical patterns in Interslavic SHOULD be traceable to recons
 - The phonological development of modern Slavic languages from Proto-Slavic is highly regular. Once a speaker recognises how sounds in their own language correspond to Interslavic, they will be able to both recognise and predict unfamiliar words.
 - For example, the Common Slavic sequences `tj/dj` become `č/ž` in East Slavic, `c/dz` in Polish, `c/z` in Czecho-Slovak, `č/j` in Slovene, `ć/đ` in Serbo-Croatian, `ḱ/ǵ` in Macedonian, and `št/žd` in Bulgarian. The Interslavic compromise is `č/dž` (e.g., :isv[svěča] / :cyrl[свѣча] 'candle' and :isv[medžu] / :cyrl[меджу] 'between'), which has the additional advantage that `dž` is the voiced equivalent of `č`, creating phonological symmetry.
 
-### 2.2.2. Old Church Slavonic Influence
-
+### Old Church Slavonic Influence
 :::caution[Unverified Content]
 The source material mentions OCS only briefly as a reference for deriving word forms. The detailed normative claims in this subsection — including the etymological register with specific characters (ě, å, ę, ų, ȯ), the claim that OCS SHALL NOT function as the default model, the guidance on when to consult OCS forms, and the characterisation of Interslavic as a "modern continuation of OCS" — are not present in the source and could not be verified against it.
 :::
@@ -110,12 +100,11 @@ The source material mentions OCS only briefly as a reference for deriving word f
 Old Church Slavonic (OCS) provides a well-attested historical reference point that is very close to Proto-Slavic. It serves as an important source for Interslavic but SHALL NOT function as the default model for contemporary usage.
 
 - OCS forms SHOULD be consulted when the reconstruction of a Proto-Slavic base form is uncertain or when a modern Slavic consensus is absent.
-- The etymological register of Interslavic orthography (see §4) draws on OCS-era distinctions such as :isv[ě] / :cyrl[ѣ], and the optional vowels :isv[å], :isv[ę], :isv[ų], and :isv[ȯ].
+- The etymological register of Interslavic orthography (see the relevant section) draws on OCS-era distinctions such as :isv[ě] / :cyrl[ѣ], and the optional vowels :isv[å], :isv[ę], :isv[ų], and :isv[ȯ].
 - OCS phonology, grammar, and syntax are archaic and in many respects incompatible with the needs of modern communication; they SHALL NOT be imposed on standard Interslavic usage.
 - Interslavic may be described as a modern continuation of OCS: it begins where OCS ends, incorporating the subsequent shared development of the Slavic languages. One could say that making Interslavic is essentially the undoing of the divergences that caused the Slavic languages to drift apart.
 
-### 2.2.3. Relationship to the Twelve Source Languages
-
+### Relationship to the Twelve Source Languages
 Interslavic draws on the following languages in its voting and derivation process:
 
 1. Russian
@@ -152,8 +141,7 @@ For voting purposes, these languages are grouped into six subgroups, each carryi
 
 When two languages within one subgroup disagree on a form, each receives ½ vote. When two candidate forms are tied on subgroup votes, population size SHALL serve as the tiebreaker. Languages with fewer than approximately one million speakers do not participate in formal voting but SHALL remain eligible for consideration.
 
-### 2.2.4. The Weighted Voting Mechanism
-
+### The Weighted Voting Mechanism
 Root selection, form selection, and meaning assignment each proceed through the following decision criteria in priority order:
 
 1. If a word root exists in all Slavic languages in the same meaning, it SHALL be adopted.
@@ -172,14 +160,12 @@ Root selection, form selection, and meaning assignment each proceed through the 
 
 These rules describe a general tendency; when a different solution is evidently superior, common sense SHALL prevail over mechanical application of the voting procedure. The voting mechanism is a normative tool, not a mechanical algorithm that overrides linguistic judgment.
 
-## 2.3. Relationship to Other Languages and Projects
-
+## Relationship to Other Languages and Projects
 :::caution[Unverified Content]
-The entire section 2.3 (Relationship to Other Languages and Projects), including subsections 2.3.1, 2.3.2, and 2.3.3, has no basis in the primary source material. The source does not discuss Esperanto, Slovio, simplified Slavic schemes, or Russian as a pan-Slavic lingua franca.
+The entire section (Relationship to Other Languages and Projects), including subsections , , and , has no basis in the primary source material. The source does not discuss Esperanto, Slovio, simplified Slavic schemes, or Russian as a pan-Slavic lingua franca.
 :::
 
-### 2.3.1. Distinction from Esperanto and Other Universal Auxlangs
-
+### Distinction from Esperanto and Other Universal Auxlangs
 Interslavic is a *zonal constructed language* — an auxiliary language for communication with or among speakers of a relatively homogeneous family of languages (the Slavic languages). It SHALL NOT be evaluated against the criteria of a universal auxiliary language.
 
 - Esperanto was designed for global use and maximises cultural neutrality and grammatical simplicity for learners of any background. As a result, knowledge of Esperanto is useful only in communication with other Esperantists.
@@ -187,16 +173,14 @@ Interslavic is a *zonal constructed language* — an auxiliary language for comm
 - Although Interslavic grammar is more complex than Esperanto's grammar, it is extremely easy for Slavic speakers, because the essential skill is recognising how forms in one's own language correspond to Interslavic forms.
 - The benefits of Interslavic and the benefits of Esperanto are of an entirely different order and serve different communicative purposes.
 
-### 2.3.2. Distinction from Simplified or Reduced Slavic Schemes
-
+### Distinction from Simplified or Reduced Slavic Schemes
 Several projects have attempted to construct a Slavic auxiliary language by drastically simplifying one existing Slavic language or by building on an Esperanto-like schematic framework (e.g., *Slovio*). Interslavic is structurally distinct from all such approaches.
 
 - Interslavic preserves full case morphology (seven cases), grammatical gender, and verbal aspect, because these categories are present in the natural Slavic languages and their presence maximises passive intelligibility for Slavic speakers.
 - Simplifying a natural Slavic language (e.g., stripping Russian of its soft consonants and reducing declensions) does not produce Interslavic — it produces "bad Russian." In mixed groups, native speakers of the base language are always at an advantage, violating the neutrality criterion.
 - Interslavic vocabulary relates to all Slavic languages in a predictable, rule-governed way. A speaker who understands the correspondence rules can predict unfamiliar words. Schemes based on one language do not have this property for speakers of other branches.
 
-### 2.3.3. Distinction from Russian as a Pan-Slavic Lingua Franca
-
+### Distinction from Russian as a Pan-Slavic Lingua Franca
 Russian is the native or well-known second language of approximately half the Slavic-speaking world. Despite this reach, it SHALL NOT be treated as a substitute for Interslavic.
 
 - Russian has undergone substantial independent development from Common Slavic. Its syntax differs significantly from other Slavic languages; the verb "to have" is practically absent, and the verb "to be" is heavily reduced in both form and use. Without prior study, a West or South Slav is unlikely to understand Russian.
@@ -205,5 +189,5 @@ Russian is the native or well-known second language of approximately half the Sl
 - Interslavic draws on Russian as one of six equally-weighted subgroups, ensuring that Russian input is properly represented without being dominant.
 
 :::info[TODO: Committee Input Needed]
-Section 2.3 may require expansion to address the relationship of Interslavic to :isv[Neoslavonic] (:isv[Novoslověnsky]) and other recent naturalistic projects that post-date the original Steen source materials. The committee should clarify whether a normative comparison is warranted, or whether a cross-reference to the historical survey suffices.
+Section may require expansion to address the relationship of Interslavic to :isv[Neoslavonic] (:isv[Novoslověnsky]) and other recent naturalistic projects that post-date the original Steen source materials. The committee should clarify whether a normative comparison is warranted, or whether a cross-reference to the historical survey suffices.
 :::

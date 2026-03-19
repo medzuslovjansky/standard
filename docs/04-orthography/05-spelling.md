@@ -1,30 +1,26 @@
-# 4.6. Spelling Conventions
-
-This section specifies the normative orthographic conventions for Standard Interslavic beyond the letter-by-letter correspondences already established in §4.2–§4.5. The rules below apply equally to both the Latin and Cyrillic scripts unless a script is explicitly named.
+# Spelling Conventions
+This section specifies the normative orthographic conventions for Standard Interslavic beyond the letter-by-letter correspondences already established in the relevant section The rules below apply equally to both the Latin and Cyrillic scripts unless a script is explicitly named.
 
 ---
 
-## 4.6.1. One-Phoneme–One-Grapheme Principle and Exceptions
-
+## One-Phoneme–One-Grapheme Principle and Exceptions
 The standard orthography of Interslavic strives for a bijective (one-to-one) correspondence between phonemes and graphemes. Each phoneme SHOULD be represented by exactly one grapheme or digraph, and each grapheme or digraph SHOULD represent exactly one phoneme.
 
 The following documented exceptions to strict bijectivity are normative:
 
 | Situation | Description |
 |---|---|
-| :latn[ě] / :cyrl[є] optionality | The grapheme :latn[ě] (Latin) / :cyrl[є] (Cyrillic) MAY be simplified to :latn[e] / :cyrl[е] in informal registers without violating standard orthography (see §4.2.3). |
-| :latn[y] / :cyrl[ы] optionality | The grapheme :latn[y] (Latin) / :cyrl[ы] (Cyrillic) MAY be substituted by :latn[i] / :cyrl[и] by speakers whose native language does not distinguish the two (see §4.2.3). |
+| :latn[ě] / :cyrl[є] optionality | The grapheme :latn[ě] (Latin) / :cyrl[є] (Cyrillic) MAY be simplified to :latn[e] / :cyrl[е] in informal registers without violating standard orthography (see the relevant section). |
+| :latn[y] / :cyrl[ы] optionality | The grapheme :latn[y] (Latin) / :cyrl[ы] (Cyrillic) MAY be substituted by :latn[i] / :cyrl[и] by speakers whose native language does not distinguish the two (see the relevant section). |
 | Digraphs as single graphemes | :latn[dž], :latn[lj], :latn[nj] (Latin) and :cyrl[дж], :cyrl[љ], :cyrl[њ] (Cyrillic) each represent a single phoneme and MUST be treated as single orthographic units for all purposes including capitalization and syllabification. |
-| Etymological diacritics | Letters of the etymological alphabet (§4.4) carry diacritics that are not phonemically contrastive in standard Interslavic and SHOULD be omitted in non-etymological registers, with the exceptions of :isv[ć]→:isv[č] and :isv[đ]→:isv[dž]. |
+| Etymological diacritics | Letters of the etymological alphabet  carry diacritics that are not phonemically contrastive in standard Interslavic and SHOULD be omitted in non-etymological registers, with the exceptions of :isv[ć]→:isv[č] and :isv[đ]→:isv[dž]. |
 
 Scripts MUST NOT be mixed within a single continuous text. A text written in the Latin script MUST use only Latin orthographic conventions; a text written in the Cyrillic script MUST use only Cyrillic orthographic conventions.
 
 ---
 
-## 4.6.2. Capitalization Rules
-
-### 4.6.2.1. Sentence-Initial Capitalization
-
+## Capitalization Rules
+### Sentence-Initial Capitalization
 The first letter of every sentence SHALL be written in uppercase. This rule applies after every full stop, question mark, and exclamation mark that ends a sentence.
 
 - _:isv[Dobro jutro. Kak se imaš?]_
@@ -34,8 +30,7 @@ When a sentence begins with a digraph (:latn[Dž], :latn[Lj], :latn[Nj] in Latin
 - Latin: _:isv[Džungla je opasna.]_ (not :latn[DŽungla])
 - Cyrillic: :cyrl[Џунгла је опасна.] (the digraph :cyrl[Дж] acts as a single unit; uppercase form is :cyrl[Џ] in Cyrillic)
 
-### 4.6.2.2. Proper Noun Capitalization
-
+### Proper Noun Capitalization
 The following categories SHALL be capitalized in both scripts:
 
 - Personal names: _:isv[Ivan]_, _:isv[Marija]_
@@ -44,8 +39,7 @@ The following categories SHALL be capitalized in both scripts:
 - Names of organizations and institutions when used as official titles
 - Names of historical periods and events when used as proper names: _:isv[Renesansa]_, _:isv[Reformacija]_
 
-### 4.6.2.3. Adjectives Derived from Proper Nouns
-
+### Adjectives Derived from Proper Nouns
 Adjectives derived from proper nouns SHALL be written in **lowercase** in both scripts. This follows the majority Slavic convention and distinguishes Interslavic from English practice.
 
 | Derived adjective | Gloss | Corresponding proper noun |
@@ -57,8 +51,7 @@ Adjectives derived from proper nouns SHALL be written in **lowercase** in both s
 
 **Exception:** When an adjective is part of an official proper name (e.g., the name of a publication, organization, or geographical entity used attributively as a title), it SHALL follow the capitalization of that title.
 
-### 4.6.2.4. Months, Days of the Week, and Seasons
-
+### Months, Days of the Week, and Seasons
 Month names, day-of-the-week names, and season names SHALL be written in **lowercase** in ordinary prose in both scripts:
 
 - _:isv[januar]_, _:isv[februar]_, _:isv[mart]_
@@ -69,10 +62,8 @@ These words are capitalized only when they appear as the first word of a sentenc
 
 ---
 
-## 4.6.3. Punctuation Rules
-
-### 4.6.3.1. Standard Punctuation Marks and Their Usage
-
+## Punctuation Rules
+### Standard Punctuation Marks and Their Usage
 Interslavic uses the following punctuation marks with the specified normative functions:
 
 | Mark | Name | Primary function |
@@ -88,8 +79,7 @@ Interslavic uses the following punctuation marks with the specified normative fu
 
 The space before and after punctuation marks follows continental European convention: **no space before** a mark, **one space after** a mark that ends a unit. The colon and semicolon follow the same pattern. The em-dash (—) is set with a thin space or no space on either side consistently within a document; either style is acceptable provided it is applied consistently.
 
-### 4.6.3.2. Quotation Marks
-
+### Quotation Marks
 Three styles of quotation marks are acceptable in Interslavic. The choice of style MAY reflect regional or typographic convention, but MUST be applied consistently within a single document:
 
 | Style | Opening | Closing | Notes |
@@ -104,8 +94,7 @@ Direct quotations of speech MAY alternatively be introduced with an em-dash at t
 
 > — :isv[Dobro jutro,] — :isv[reče Ivan.]
 
-### 4.6.3.3. Comma Usage in Complex Sentences
-
+### Comma Usage in Complex Sentences
 The following rules govern comma placement. They reflect the majority Slavic norm, which differs from English practice in several respects:
 
 **Subordinate clauses:** Every subordinate clause SHALL be set off from the main clause by a comma, regardless of its position (initial, medial, or final).
@@ -124,10 +113,8 @@ The following rules govern comma placement. They reflect the majority Slavic nor
 
 ---
 
-## 4.6.4. Abbreviation Conventions
-
-### 4.6.4.1. Standard Grammatical Abbreviations
-
+## Abbreviation Conventions
+### Standard Grammatical Abbreviations
 The following abbreviations are normative for grammatical annotation in dictionary entries, grammatical tables, and linguistic commentary. They are the same regardless of script.
 
 | Abbreviation | Expansion | Gloss |
@@ -162,8 +149,7 @@ The following abbreviations are normative for grammatical annotation in dictiona
 
 Abbreviations end with a full stop. When an abbreviation falls at the end of a sentence, only one full stop is used.
 
-### 4.6.4.2. Common Abbreviations in Running Text
-
+### Common Abbreviations in Running Text
 The following abbreviations are accepted in Interslavic running text:
 
 | Abbreviation | Full form | Gloss |
@@ -187,10 +173,8 @@ The committee should confirm whether script-specific Cyrillic abbreviation forms
 
 ---
 
-## 4.6.5. Compound Word Orthography
-
-### 4.6.5.1. Solid Compounds
-
+## Compound Word Orthography
+### Solid Compounds
 Compounds formed from two or more native Slavic roots SHALL be written as single words without a hyphen. This is the default form for productive compounding in Interslavic:
 
 | Latin | Cyrillic | Gloss | Components |
@@ -203,8 +187,7 @@ Compounds formed from two or more native Slavic roots SHALL be written as single
 
 The solid compound form applies regardless of the grammatical categories of the constituent elements (noun + noun, adjective + noun, verb root + noun, etc.).
 
-### 4.6.5.2. Hyphenated Compounds
-
+### Hyphenated Compounds
 A hyphen SHALL be used in the following environments:
 
 1. **Compounds containing a proper-noun component:** When one element of a compound is or contains a proper noun (a name of a person, place, or language), the compound is written with a hyphen to mark the boundary:
@@ -225,8 +208,7 @@ A hyphen SHALL be used in the following environments:
 The committee should specify additional environments (if any) in which direction-compound adjectives like :isv[sěvero-vostočny] should be treated as solid vs. hyphenated, and whether the rule extends uniformly to all compass-point compounds and to toponym-derived directional adjectives.
 :::
 
-### 4.6.5.3. Linking Vowel in Compounds
-
+### Linking Vowel in Compounds
 When two roots are joined in a solid compound, a **linking vowel (interfiks)** is inserted between them according to the following rule:
 
 - **:isv[-o-]** after a root ending in a hard consonant (the default linking vowel):
@@ -237,16 +219,33 @@ When two roots are joined in a solid compound, a **linking vowel (interfiks)** i
   - :isv[oruž-e-nosec] → :isv[oruženosec] / :cyrl[оружeносeц] (arms-bearer)
   - :isv[duš-e-spasitelny] / :cyrl[душeспаситeлны] (soul-saving)
 
-The linking vowel is absent when the first element already ends in a vowel or when the compound is formed with a bound prefix (§5.10).
+The linking vowel is absent when the first element already ends in a vowel or when the compound is formed with a bound prefix .
 
-When the linking vowel is preceded by a fleeting vowel in the root (i.e., a vowel that disappears before suffixes — see §3.4), the fleeting vowel is dropped and the linking vowel is inserted normally.
+When the linking vowel is preceded by a fleeting vowel in the root (i.e., a vowel that disappears before suffixes — see the relevant section), the fleeting vowel is dropped and the linking vowel is inserted normally.
+
+### Soft Consonant Spelling at Morpheme Boundaries
+When a derivational or inflectional suffix is attached to a root ending in a soft consonant, the following spelling conventions apply:
+
+**Iotation-derived softness** (:isv[lj], :isv[nj], :isv[rj] — from Proto-Slavic consonant + \*j) is always written with the digraph, even before a suffix:
+- :isv[morje] → :isv[morjsky] (not :isv[morsky])
+- :isv[konj] → :isv[konjsky] (not :isv[konsky])
+
+**Yer-derived softness** (from Proto-Slavic consonant + \*ь) is written in the etymological register with the appropriate diacritic (:latn[ń], :latn[ĺ], :latn[ŕ], :latn[ś], :latn[ź], :latn[t́], :latn[d́]) but is dropped in the standard register:
+- MS Plus: :isv[svińsky], standard: :isv[svinsky]
+- MS Plus: :isv[ruśsky], standard: :isv[russky]
+
+**Before :isv[i]:** Soft consonants before the vowel :isv[i] are not explicitly marked in either register. The softness is implicit from the declension class or derivational context. See the relevant section for a discussion of this ambiguity and proposed solutions.
+
+:::warning[Unresolved: Scope of Pre-Suffix Softening]
+The standard orthography does not distinguish between roots that end in an inherently soft consonant (where softness should persist through derivation) and roots that end in a hard consonant (where no softening occurs). In the standard register, both :isv[morjsky] (soft root :isv[morj-]) and :isv[russky] (potentially soft root :isv[ruś-] in MS Plus) look like they follow different rules — the first preserves softness visibly (as a digraph), while the second does not.
+
+This asymmetry arises because iotation-derived softness is always visible in standard orthography (via digraphs :isv[lj], :isv[nj]), while yer-derived softness is invisible in standard orthography (no diacritic). The etymological register resolves this by making both types visible, but most users write in the standard register. A clearer statement of the rules governing which consonants soften before which suffixes — and whether this softening extends to :isv[s] and :isv[z] — is needed. See the relevant sectiona.
+:::
 
 ---
 
-## 4.6.6. Number Formatting
-
-### 4.6.6.1. Cardinal Numerals in Text
-
+## Number Formatting
+### Cardinal Numerals in Text
 The following conventions govern when numerals are written as words versus digits:
 
 - Numbers from **one to ten** SHALL be written as words in running prose: _:isv[jeden]_, _:isv[dva]_, _:isv[tri]_, …, _:isv[deset]_.
@@ -255,10 +254,9 @@ The following conventions govern when numerals are written as words versus digit
 - **Approximate or round numbers** (hundreds, thousands) are typically written as words in literary or formal prose: _:isv[sto]_, _:isv[tyseč]_, _:isv[million]_.
 - When two numerals appear adjacent in a sentence, at least one SHALL be expressed as a word to avoid ambiguity.
 
-Large numerals expressed in digits MAY use a thin space or period as a thousands separator (see §4.6.6.3).
+Large numerals expressed in digits MAY use a thin space or period as a thousands separator (see the relevant section).
 
-### 4.6.6.2. Ordinal Numerals in Text
-
+### Ordinal Numerals in Text
 Ordinal numerals in running text SHOULD be written as words: _:isv[prvy]_, _:isv[drugy]_, _:isv[treti]_.
 
 In references to numbered items (sections, articles, volumes, pages), ordinal numerals MAY be expressed as a digit followed by a period: `1.`, `2.`, `3.`. This convention follows continental European typographic practice and MUST NOT be confused with a terminal sentence-full-stop.
@@ -268,13 +266,12 @@ In references to numbered items (sections, articles, volumes, pages), ordinal nu
 
 When an ordinal numeral expressed as digit-plus-period falls at the end of a sentence, only one period is written.
 
-### 4.6.6.3. Decimal and Thousands Separators
-
+### Decimal and Thousands Separators
 Interslavic follows **continental European numeric convention**:
 
 | Function | Symbol | Example |
 |---|---|---|
-| Thousands separator | period (`.`) or thin space | `1.000.000` or `1 000 000` |
+| Thousands separator | period (`.`) or thin space | `` or `1 000 000` |
 | Decimal separator | comma (`,`) | `3,14` |
 
 The thin-space convention for thousands grouping (`1 000 000`) is preferred in typeset documents as it avoids ambiguity with the sentence-final period. The period-as-thousands-separator (`1.000`) is acceptable in informal or technical writing.
@@ -287,10 +284,8 @@ The committee should confirm the preferred thousands separator (thin space vs. p
 
 ---
 
-## 4.6.7. Syllabification and Hyphenation at Line Breaks
-
-### 4.6.7.1. Syllabification Principles
-
+## Syllabification and Hyphenation at Line Breaks
+### Syllabification Principles
 When a word must be broken across a line, the break SHALL occur at a syllable boundary. The following principles determine syllable boundaries in Interslavic:
 
 1. **Every syllable contains exactly one vowel nucleus** (or one syllabic :isv[r]).
@@ -298,8 +293,7 @@ When a word must be broken across a line, the break SHALL occur at a syllable bo
 3. **Digraphs are never split.** The digraphs :latn[dž], :latn[lj], :latn[nj] (Latin) and :cyrl[дж], :cyrl[љ], :cyrl[њ] (Cyrillic) are treated as single consonants for syllabification purposes and SHALL NOT be divided across a line break.
 4. **A break SHOULD NOT leave a single letter isolated** at the beginning or end of a line.
 
-### 4.6.7.2. Rules for Consonant Clusters at Word Breaks
-
+### Rules for Consonant Clusters at Word Breaks
 When two or more consonants stand between two vowels, the break point is determined by the onset-maximization principle: as many consonants as are permissible as a word-initial cluster in Interslavic SHALL be assigned to the following syllable.
 
 Examples:
@@ -317,5 +311,30 @@ Prefixes and suffixes retain their morphological identity at line breaks: a brea
 - :isv[ob-učati] is preferred over :isv[obu-čati] at a line break, since :isv[ob-] is a recognizable prefix.
 
 :::info[TODO: Committee Input Needed]
-The committee should review and confirm the list of permissible word-initial consonant clusters in Standard Interslavic, as this list directly determines onset-maximization decisions at line breaks. Cross-reference with §3.2 (Phonotactics) when that section is finalized.
+The committee should review and confirm the list of permissible word-initial consonant clusters in Standard Interslavic, as this list directly determines onset-maximization decisions at line breaks. Cross-reference with  (Phonotactics) when that section is finalized.
+:::
+
+---
+
+## Consistency of Yat (ě) in Lexical Stems
+### Principle
+When a lexical root contains etymological yat (ě), the yat SHOULD be written consistently across all derivatives and prefixed forms of that root. Inconsistent alternation between :latn[ě] and :latn[e] within a single morpheme family undermines the regularity of the orthography and obscures the etymological relationships that the Interslavic spelling system is designed to preserve.
+
+This principle applies to:
+- unprefixed and prefixed forms of the same verb (e.g., :isv[plěniti] and :isv[zaplěniti], not \*:isv[pleniti] alongside :isv[zaplěniti]);
+- verb stems and their derived nouns, adjectives, and verbal nouns;
+- aspectual pairs formed by prefixation or suffixation.
+
+### The ě/e Distinction in Verb Endings
+As a general rule, verb infinitive endings in Interslavic are :isv[-ěti] or :isv[-ęti], not \*:isv[-eti]. The ending :isv[-eti] is legitimate only after functionally soft consonants (:latn[j], :latn[č], :latn[š], :latn[ž], :latn[c]), where :latn[ě] is simplified to :latn[e] by the standard orthographic rule (see the relevant section). In all other environments, a verb ending that appears as :isv[-eti] should be checked against its Proto-Slavic and Old Church Slavonic etymology to determine whether it should be :isv[-ěti].
+
+:::warning[Unresolved: Inconsistent ě in verb stems in the dictionary]
+Several verb families in the current dictionary exhibit inconsistent treatment of etymological ě:
+
+- **:isv[plěn-] family:** The unprefixed forms :isv[plen], :isv[pleniti] lack ě, while the prefixed forms :isv[zaplěniti], :isv[zaplěnjati] have it. The Old Church Slavonic form плѣнъ confirms that all forms should use :isv[plěn-].
+- **:isv[trěti] "to rub":** Currently listed as :isv[treti] / :isv[utreti], but the etymological vowel is ě (cf. Russian _тереть_, Czech _rozetřít_). The correct form should be :isv[trěti].
+- **:isv[mrěti] "to die":** Currently listed as :isv[zamreti] / :isv[umreti], but the etymological vowel is ě (cf. Russian _замереть_, Czech _zemřít_). The correct form should be :isv[zamrěti] / :isv[umrěti].
+- **:isv[dreti] vs. :isv[drati]:** The form :isv[dreti] appears in some sources, but the majority of Slavic languages reflect \*dьrati → :isv[drati] (analogous to \*bьrati → :isv[brati]), with present tense :isv[dere]. The preferred form is likely :isv[drati] (:isv[dere]) rather than either :isv[dreti] or :isv[drěti].
+
+These inconsistencies should be resolved by systematic comparison with Proto-Slavic and OCS etymologies, applying the principle that etymological ě is preserved in all positions except after functionally soft consonants.
 :::

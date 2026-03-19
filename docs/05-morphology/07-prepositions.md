@@ -1,5 +1,4 @@
-# 5.8. Prepositions
-
+# Prepositions
 :::caution[Unverified Content]
 The source material does not use RFC 2119 normative language. The original text uses informal phrasing like "should only be used" rather than formal MUST/SHALL/SHOULD/MAY distinctions. The RFC 2119 framing below is an addition not present in the source.
 :::
@@ -8,8 +7,7 @@ This section specifies the case government of prepositions and the inventory of 
 
 ---
 
-## 5.8.1. Case Government of Prepositions
-
+## Case Government of Prepositions
 :::caution[Unverified Content]
 The source uses "should only be used" (informal recommendation), not "MUST" (normative requirement). The source also describes the place/time rules as "a guideline, although there are exceptions," which is weaker than the unconditional principle stated here.
 :::
@@ -22,8 +20,7 @@ Prepositions in Interslavic MUST be used according to their logical meaning, not
 
 Most prepositions govern the genitive. This is especially true of all prepositions derived from nouns, adjectives, or adverbs.
 
-### 5.8.1.1. Genitive-Governing Prepositions
-
+### Genitive-Governing Prepositions
 The following prepositions govern the genitive case:
 
 | Preposition | Meaning |
@@ -65,8 +62,7 @@ The following prepositions govern the genitive case:
 | :isv[vslěd] | following, because of, as a result of |
 | :isv[za] | during, in times of |
 
-### 5.8.1.2. Dative-Governing Prepositions
-
+### Dative-Governing Prepositions
 The following prepositions govern the dative case:
 
 | Preposition | Meaning |
@@ -77,8 +73,7 @@ The following prepositions govern the dative case:
 | :isv[protiv] | against |
 | :isv[soglasno, suglasno] | according to |
 
-### 5.8.1.3. Accusative-Governing Prepositions
-
+### Accusative-Governing Prepositions
 The following prepositions govern the accusative case exclusively:
 
 | Preposition | Meaning |
@@ -87,8 +82,7 @@ The following prepositions govern the accusative case exclusively:
 | :isv[po] | for (in pursuit of, to obtain); for (the Xth time); up to |
 | :isv[za] | for, because of, due to, in exchange for, in favour of, instead of |
 
-### 5.8.1.4. Instrumental-Governing Prepositions
-
+### Instrumental-Governing Prepositions
 The following prepositions govern the instrumental case exclusively:
 
 | Preposition | Meaning |
@@ -96,8 +90,7 @@ The following prepositions govern the instrumental case exclusively:
 | :isv[ponad] | above, beyond |
 | :isv[s, so] | with, together with; by means of, using |
 
-### 5.8.1.5. Locative-Governing Prepositions
-
+### Locative-Governing Prepositions
 The following prepositions govern the locative case exclusively:
 
 | Preposition | Meaning |
@@ -106,8 +99,7 @@ The following prepositions govern the locative case exclusively:
 | :isv[po] | after, following; along(side); throughout, all over |
 | :isv[pri] | near; during (rule of a king) |
 
-### 5.8.1.6. Dual-Case Prepositions: Accusative (Motion) vs. Instrumental (Static)
-
+### Dual-Case Prepositions: Accusative (Motion) vs. Instrumental (Static)
 The following five prepositions govern two cases. The **instrumental** is used when the location is stable; the **accusative** expresses directed motion toward the location.
 
 **Example:** :isv[Kot spi pod stolom] — "The cat is sleeping under the table" (instrumental, static); :isv[Kot poběgl pod stol] — "The cat fled under the table" (accusative, motion).
@@ -120,11 +112,10 @@ The following five prepositions govern two cases. The **instrumental** is used w
 | :isv[prěd] | before, in front of, ahead of (place and time); prior to, ago |
 | :isv[za] | behind (place); after (time) |
 
-The preposition :isv[za] also governs the genitive (§5.8.1.1) and the accusative (§5.8.1.3) in distinct meanings.
+The preposition :isv[za] also governs the genitive  and the accusative  in distinct meanings.
 
-### 5.8.1.7. Dual-Case Prepositions: Accusative (Motion) vs. Locative (Static)
-
-The prepositions :isv[v] and :isv[na] behave like those in §5.8.1.6, except that the **locative** (not the instrumental) is used for a stable location.
+### Dual-Case Prepositions: Accusative (Motion) vs. Locative (Static)
+The prepositions :isv[v] and :isv[na] behave like those in the relevant section, except that the **locative** (not the instrumental) is used for a stable location.
 
 | Preposition | With locative (static) | With accusative (motion) |
 |---|---|---|
@@ -135,14 +126,12 @@ The prepositions :isv[v] and :isv[na] behave like those in §5.8.1.6, except tha
 This entire subsection has no corresponding section in the source material. The source lists the forms :isv[s, so] and :isv[v, vo] but provides no explicit rule about when the extended forms should be used and does not contain a SHOULD requirement for this alternation.
 :::
 
-## 5.8.2. Fleeting Vowel in Prepositions *s* and *v*
-
+## Fleeting Vowel in Prepositions *s* and *v*
 The prepositions :isv[s] and :isv[v] take the extended forms :isv[so] and :isv[vo] before consonant clusters and before certain pronouns, in order to avoid difficult consonant sequences. Writers SHOULD apply this alternation wherever the resulting consonant cluster would otherwise be phonologically difficult.
 
 **Examples:** :isv[so mnoj] "with me"; :isv[vo vsěh] "in all."
 
-## 5.8.3. Prepositional Constructions
-
+## Prepositional Constructions
 The following multi-word combinations function as prepositions and are often translated as single prepositions in other languages. This list is not exhaustive.
 
 | Preposition | Case governed | Meaning |
@@ -181,12 +170,10 @@ Many prepositions may also be used as verbal prefixes. See the section on word f
 
 ---
 
-## 5.8.4. Conjunctions
-
+## Conjunctions
 A conjunction is a part of speech that connects two words, sentences, phrases, or clauses. Conjunctions are invariable and stand between the items they conjoin. There are three types: **coordinating conjunctions** join items of equal syntactic weight; **correlative conjunctions** work in pairs; **subordinating conjunctions** link a dependent clause to an independent clause.
 
-### 5.8.4.1. Coordinating Conjunctions
-
+### Coordinating Conjunctions
 | Conjunction | Meaning |
 |---|---|
 | :isv[a] | and, but |
@@ -201,8 +188,7 @@ A conjunction is a part of speech that connects two words, sentences, phrases, o
 | :isv[poněže] | whereas |
 | :isv[ubo] | therefore |
 
-### 5.8.4.2. Correlative Conjunctions
-
+### Correlative Conjunctions
 Correlative conjunctions occur in fixed pairs:
 
 | Conjunction | Meaning |
@@ -214,8 +200,7 @@ Correlative conjunctions occur in fixed pairs:
 | :isv[ne jedino … ale takože] | not only … but also … |
 | :isv[ni … ni …] | neither … nor … |
 
-### 5.8.4.3. Subordinating Conjunctions
-
+### Subordinating Conjunctions
 | Conjunction | Meaning |
 |---|---|
 | :isv[aby] | in order to |

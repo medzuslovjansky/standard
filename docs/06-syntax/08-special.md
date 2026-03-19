@@ -1,19 +1,16 @@
-# 6.9. Special Clause Types
-
+# Special Clause Types
 This section specifies the syntax of special clause types in Interslavic that have distinctive structural properties: imperatives (direct commands, hortatives, and optatives); impersonal constructions (meteorological predicates, dative-experiencer constructions, modal impersonals); reflexive constructions and their three functions; and complement control (subject-control and object-control verbs).
 
 ---
 
-## 6.9.1. Imperatives
-
+## Imperatives
 :::caution[Unverified Content]
-The entire §6.9.1 (Imperatives) section — including imperative formation rules, paradigm tables, consonant alternation rules, irregular imperatives, hortative, and optative constructions — has no basis in the primary source material (grammar-syntax.md), which does not address imperative morphology or syntax.
+The entire  (Imperatives) section — including imperative formation rules, paradigm tables, consonant alternation rules, irregular imperatives, hortative, and optative constructions — has no basis in the primary source material (grammar-syntax.md), which does not address imperative morphology or syntax.
 :::
 
 The imperative mood is used to express direct commands, requests, invitations, and prohibitions. Interslavic imperatives are morphologically formed for three person–number combinations and syntactically may be supplemented by a third-person optative construction using :isv[nehaj].
 
-### 6.9.1.1. Direct 2nd-Person Imperative
-
+### Direct 2nd-Person Imperative
 The **2nd-person imperative** is the canonical form of the direct command, addressed to the person(s) the speaker is speaking to directly.
 
 **Formation:** The imperative stem is derived from the **3rd person singular present tense** form (in the traditional/non-contracted conjugation). If the stem ends in the glide :isv[-j-], the imperative endings attach directly; otherwise, the linking vowel :isv[-i-] is inserted.
@@ -64,8 +61,7 @@ The Interslavic imperative has three forms: 2nd person singular, 1st person plur
 
 **Pragmatic note:** The direct 2nd-person imperative is used for direct, unhedged commands and requests. For requests that require politeness, speakers may prefer the conditional (:isv[by] + L-participle) or phrases with modal verbs such as :isv[možete li] "could you".
 
-### 6.9.1.2. Hortative 1st Plural
-
+### Hortative 1st Plural
 The **1st-person plural imperative** (hortative) expresses an **inclusive invitation or proposal** — "Let's (all) do X" — addressing both the speaker and the interlocutor(s).
 
 The form is constructed by adding **-mo** to the 2sg imperative stem:
@@ -78,11 +74,10 @@ The form is constructed by adding **-mo** to the 2sg imperative stem:
 The hortative is an **inclusive** form: it necessarily includes the speaker. For an exclusive directive to a group not including the speaker, the 2nd-person plural imperative (:isv[-te] form) is used instead.
 
 :::info[TODO: Committee Input Needed]
-**§6.9.1.2 — Hortative vs. indicative 1pl distinction:** The outline notes that the hortative 1pl is distinct from the indicative 1pl present by stress pattern. The exact stress rule distinguishing :isv[dělajmo] (imperative) from any indicative 1pl form has not been fully specified in the source material. A committee decision on whether stress is the primary or only distinguishing feature, and what the normative stress placement is, is needed.
+** — Hortative vs. indicative 1pl distinction:** The outline notes that the hortative 1pl is distinct from the indicative 1pl present by stress pattern. The exact stress rule distinguishing :isv[dělajmo] (imperative) from any indicative 1pl form has not been fully specified in the source material. A committee decision on whether stress is the primary or only distinguishing feature, and what the normative stress placement is, is needed.
 :::
 
-### 6.9.1.3. 3rd-Person Optative: *Nehaj* + Indicative
-
+### 3rd-Person Optative: *Nehaj* + Indicative
 For **3rd-person commands, wishes, and optative expressions** ("let him/her/it/them do X"), Interslavic uses the construction :isv[nehaj] followed by the verb in the **3rd-person indicative** (present or past as appropriate).
 
 > :isv[Nehaj on pride!] — "Let him come!"
@@ -94,16 +89,14 @@ The particle :isv[nehaj] is invariable. It may also be used with 1st and 2nd per
 
 ---
 
-## 6.9.2. Impersonal Constructions
-
+## Impersonal Constructions
 :::caution[Unverified Content]
-The entire §6.9.2 (Impersonal Constructions) section — including weather verbs, dative-experiencer constructions, and modal impersonals — has no basis in the primary source material (grammar-syntax.md), which does not discuss impersonal constructions.
+The entire  (Impersonal Constructions) section — including weather verbs, dative-experiencer constructions, and modal impersonals — has no basis in the primary source material (grammar-syntax.md), which does not discuss impersonal constructions.
 :::
 
 Impersonal constructions are clauses that lack a **nominative subject**. In Interslavic, impersonal constructions appear in several structural types.
 
-### 6.9.2.1. Weather Verbs and Meteorological Predicates
-
+### Weather Verbs and Meteorological Predicates
 Meteorological events and natural phenomena are expressed by **3rd-person singular verbs with no overt subject**:
 
 > :isv[Sněži.] — "It snows / It is snowing."
@@ -113,8 +106,7 @@ Meteorological events and natural phenomena are expressed by **3rd-person singul
 
 No dummy subject pronoun is inserted. The verb appears in the default 3sg form.
 
-### 6.9.2.2. Dative-Experiencer Constructions
-
+### Dative-Experiencer Constructions
 Many psychological states and physical sensations are expressed impersonally with a **dative experiencer** (the person who undergoes the state, in the dative case) and no nominative subject:
 
 > :isv[Mně jest holodno.] — "I am cold." (lit. "To me it is cold.")
@@ -127,10 +119,9 @@ The form :isv[Tebu] is suspect. The expected ISV dative of :isv[ty] is :isv[teb�
 > :isv[Nam jest veselo.] — "We are merry."
 > :isv[Mně sę hočet spati.] — "I feel like sleeping." (lit. "To me it wants to sleep.")
 
-The predicate in these constructions is an **invariable adverbial/predicative form** (often ending in :isv[-o]) or an impersonal verb. The copula :isv[jest] may be omitted in present-tense constructions (see §6.1.5.3).
+The predicate in these constructions is an **invariable adverbial/predicative form** (often ending in :isv[-o]) or an impersonal verb. The copula :isv[jest] may be omitted in present-tense constructions (see the relevant section).
 
-### 6.9.2.3. Modal Impersonals
-
+### Modal Impersonals
 Impersonal modal predicates express necessity, possibility, or permission without a nominative subject. The logical subject of the modal appears in the **dative** case, and the modal predicate is invariable:
 
 > :isv[Možno jest idti.] — "It is possible to go / One may go."
@@ -142,24 +133,21 @@ The copula :isv[jest] is frequently omitted: :isv[Možno idti.]
 
 ---
 
-## 6.9.3. Reflexive Constructions
-
+## Reflexive Constructions
 The reflexive particle :isv[sę] (accusative reflexive pronoun, enclitic) serves three distinct grammatical functions in Interslavic. All three use the same form of the particle; the specific function is determined by the verb class and context.
 
 :::caution[Unverified Content]
-The §6.9.3.1 (Reflexive Proper) and §6.9.3.2 (Reciprocal) subsections are not supported by the primary source material, which only discusses the reflexive passive/impersonal use of :isv[sę] (e.g., :isv[Pica dělaje se]).
+The  (Reflexive Proper) and  (Reciprocal) subsections are not supported by the primary source material, which only discusses the reflexive passive/impersonal use of :isv[sę] (e.g., :isv[Pica dělaje se]).
 :::
 
-### 6.9.3.1. Reflexive Proper
-
+### Reflexive Proper
 In the **reflexive proper**, :isv[sę] signals that the action of the verb is directed back onto the subject — the subject acts on itself:
 
 > :isv[On myje sę.] — "He washes himself."
 > :isv[Ona oblěkajet sę.] — "She dresses herself."
 > :isv[Děti igrajut sę.] — "The children play (occupy themselves)."
 
-### 6.9.3.2. Reciprocal
-
+### Reciprocal
 With a **plural subject**, :isv[sę] may express a **reciprocal** meaning — the members of the group act on each other:
 
 > :isv[Oni ljubjat sę.] — "They love each other."
@@ -172,13 +160,12 @@ The form :isv[viděliь] contains a Cyrillic soft sign (ь) mixed into an otherw
 
 The reciprocal and reflexive readings may be ambiguous with plural subjects; context and the semantics of the verb typically disambiguate. An explicit reciprocal phrase :isv[jedin drugogo] ("one another") may be used when disambiguation is needed.
 
-### 6.9.3.3. Reflexive Passive (Impersonal Passive)
-
+### Reflexive Passive (Impersonal Passive)
 :::caution[Unverified Content]
 The claim that the reflexive passive is "one of the two preferred alternatives to the analytic passive" is partially supported by the source, which describes the reflexive construction as "even more common" than the 3pl impersonal. However, the source does not frame it as one of exactly two alternatives, and the claim about it being the preferred construction when the agent is "unknown or irrelevant" (in the paragraph below the examples) overstates what the source says.
 :::
 
-The construction **verb + :isv[sę]** with an **inanimate object as the surface subject** (or with no overt subject at all) expresses a **reflexive passive** or **general impersonal** meaning. This is one of the two preferred alternatives to the analytic passive (see §6.1.6.2):
+The construction **verb + :isv[sę]** with an **inanimate object as the surface subject** (or with no overt subject at all) expresses a **reflexive passive** or **general impersonal** meaning. This is one of the two preferred alternatives to the analytic passive (see the relevant section):
 
 > :isv[Pica dělaje sę.] — "Pizza is being made." (lit. "Pizza makes itself.")
 > :isv[To prodaje sę.] — "That is sold / on sale."
@@ -189,16 +176,14 @@ In this construction, the nominal participant (if present) may appear as nominat
 
 ---
 
-## 6.9.4. Complement Control
-
+## Complement Control
 :::caution[Unverified Content]
-The entire §6.9.4 (Complement Control) section — including subject control, object control, and raising constructions — has no basis in the primary source material (grammar-syntax.md), which does not discuss control or raising constructions.
+The entire  (Complement Control) section — including subject control, object control, and raising constructions — has no basis in the primary source material (grammar-syntax.md), which does not discuss control or raising constructions.
 :::
 
 **Control** constructions involve a main (matrix) verb that selects an infinitive complement. The implicit (phonologically null) subject of the infinitive is **obligatorily coreferent** with a specific argument of the main verb — the **controller**. Interslavic has two types of control: subject control and object control.
 
-### 6.9.4.1. Subject Control
-
+### Subject Control
 In **subject-control** constructions, the implicit subject of the infinitive is **coreferent with the grammatical subject** of the matrix verb. The controller is the nominative argument of the matrix verb.
 
 :::caution[Unverified Content]
@@ -225,8 +210,7 @@ Typical subject-control verbs include modal and volitional verbs:
 > :isv[My možemo pomoći.]
 > "We are able to help." (we = subject of :isv[moći] = implicit subject of :isv[pomoći])
 
-### 6.9.4.2. Object Control
-
+### Object Control
 In **object-control** constructions, the implicit subject of the infinitive is **coreferent with the direct or indirect object** of the matrix verb. The controller is an accusative or dative argument of the matrix verb.
 
 Typical object-control verbs include verbs of requesting, compelling, and permitting:
@@ -247,8 +231,7 @@ Typical object-control verbs include verbs of requesting, compelling, and permit
 > :isv[Ona pozvolila dětem igrati sę.]
 > "She allowed the children to play." (children = dative object of :isv[pozvoliti] = implicit subject of :isv[igrati])
 
-### 6.9.4.3. Control vs. Raising
-
+### Control vs. Raising
 Interslavic also has **raising** constructions, in which a nominal argument is syntactically the subject of the matrix verb but receives its thematic role from the embedded predicate. The most common raising predicate is the copula :isv[byti] in its predicative function with adjectives:
 
 > :isv[On jest gotov idti.]
@@ -257,9 +240,9 @@ Interslavic also has **raising** constructions, in which a nominal argument is s
 The distinction between raising and control is relevant for correctly analyzing agreement patterns and the interpretation of implicit arguments.
 
 :::info[TODO: Committee Input Needed]
-**§6.9.4 — Full inventory of control verbs:** The examples above represent the core cases. A complete, normatively specified list of subject-control and object-control verbs, along with the case of the controller for each, has not been established in the source material. The committee should compile and ratify this list.
+** — Full inventory of control verbs:** The examples above represent the core cases. A complete, normatively specified list of subject-control and object-control verbs, along with the case of the controller for each, has not been established in the source material. The committee should compile and ratify this list.
 
-**§6.9.4.3 — Raising verbs:** The set of raising predicates beyond :isv[byti] + adjective (e.g., raising-to-subject with perception verbs, raising-to-object constructions) has not been formally specified. Committee input is needed to determine the full extent of raising in Interslavic.
+** — Raising verbs:** The set of raising predicates beyond :isv[byti] + adjective (e.g., raising-to-subject with perception verbs, raising-to-object constructions) has not been formally specified. Committee input is needed to determine the full extent of raising in Interslavic.
 
-**§6.9.2 — Impersonal dative experiencer constructions:** The full inventory of impersonal dative-experiencer predicates and whether the copula :isv[jest] omission follows the same rules as in copular sentences (§6.1.5.3) requires further specification.
+** — Impersonal dative experiencer constructions:** The full inventory of impersonal dative-experiencer predicates and whether the copula :isv[jest] omission follows the same rules as in copular sentences  requires further specification.
 :::

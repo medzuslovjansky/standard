@@ -1,22 +1,19 @@
-# 9.5. Orthographic Flavorization
-
+# Orthographic Flavorization
 Orthographic flavorization adapts the written form of an Interslavic text to resemble the conventions of a particular national orthography.
 It operates independently of phonological, morphological, and lexical flavorization: a text may be orthographically flavorized without any phonological or morphological changes, and vice versa.
 
 Orthographic flavorization is governed by the following normative constraint: every orthographic variant MUST map onto standard Interslavic by a rule-governed, one-to-one or context-conditioned correspondence.
-The mapping MUST be recoverable by any reader of standard Interslavic (§9.1.3).
+The mapping MUST be recoverable by any reader of standard Interslavic .
 Orthographic conventions that introduce ambiguity — where the standard form cannot be reliably recovered — are not orthographic flavorization; they are non-standard spellings.
 
 The standard Interslavic Latin alphabet is based primarily on the Slovene orthography, with additions from West Slavic (:isv[y]) and Czech/Sorbian (:isv[ě]).
 The standard Interslavic Cyrillic alphabet is based on Serbian/Macedonian Cyrillic, with additions from Russian/Belarusian (`ы`) and Ukrainian (`є`).
-Both standard alphabets are specified in §4.1 (Latin) and §4.2 (Cyrillic).
+Both standard alphabets are specified in the relevant section (Latin) and  (Cyrillic).
 
 ---
 
-## 9.5.1. Latin Alphabet Variants
-
-### 9.5.1.1. Polish-Based Orthography
-
+## Latin Alphabet Variants
+### Polish-Based Orthography
 Polish speakers may find the standard Interslavic Latin alphabet unfamiliar because Polish does not use :isv[č], :isv[š], :isv[ž], :isv[ě], or :isv[v] in the same way.
 The Polish-based orthographic flavorization replaces these characters with their Polish equivalents or nearest analogues.
 
@@ -30,7 +27,7 @@ The Polish-based orthographic flavorization replaces these characters with their
 | :isv[ž] | `ż` | Polish _ż_ | or `rz` in some positions |
 | :isv[ě] | `ie` | Polish _ie_ | reflex of Proto-Slavic ě |
 | :isv[j] | `j` | unchanged | Polish _j_ is [j] |
-| :isv[lj] | `l` | Polish _l_ (soft) | see §9.2.2.2 |
+| :isv[lj] | `l` | Polish _l_ (soft) | see the relevant section |
 | :isv[nj] | `ń` | Polish _ń_ | |
 | :isv[č] cluster | `cz` | — | |
 | Etymological :isv[ę] | `ię` | Polish _ię_ | from etymological alphabet |
@@ -76,8 +73,7 @@ Regional reference (characters used in each language):
 | `ž` | `ż`/`rz` | `ж` | `ж` | `ž` | `ž` |
 | `ě` | `ie` | `i` / `є` | `—` | `e` / `ě` | `e` / `ije` |
 
-### 9.5.1.2. Czech/Slovak-Based Orthography
-
+### Czech/Slovak-Based Orthography
 Czech and Slovak readers are generally comfortable with the standard Interslavic Latin alphabet, since both languages use diacritics in a similar fashion.
 Minimal adjustments suffice to increase familiarity.
 
@@ -90,8 +86,8 @@ Minimal adjustments suffice to increase familiarity.
 | :isv[lj] | `l` | assimilated as in Czech standard |
 | :isv[nj] | `ň` | Slovak/Czech `ň` for [nʲ] |
 | :isv[dž] | `dž` | retained |
-| :isv[šč] | `šč` → `šť` | West Slavic flavor; see also §9.2.2.4 |
-| :isv[g] | `h` | optional; reflects Czech/Slovak g→h shift (§9.2.2.1) |
+| :isv[šč] | `šč` → `šť` | West Slavic flavor; see also  |
+| :isv[g] | `h` | optional; reflects Czech/Slovak g→h shift  |
 
 **Example:**
 
@@ -109,8 +105,7 @@ Regional reference:
 | `lj` | `li` | `ль` | `л` | `l` | `lj` |
 | `g` | `g` | `г` [ɦ] | `г` | `h` [ɦ] | `g` |
 
-### 9.5.1.3. Croatian/Slovene-Based Orthography
-
+### Croatian/Slovene-Based Orthography
 The Croatian and Slovene orthographic systems are structurally close to the standard Interslavic Latin alphabet, which was partly modeled on them.
 Orthographic flavorization for Croatian/Slovene readers is therefore minimal.
 
@@ -118,10 +113,10 @@ Orthographic flavorization for Croatian/Slovene readers is therefore minimal.
 
 | Standard Latin | Croatian/Slovene-based | Notes |
 |---|---|---|
-| :isv[y] | `i` | South Slavic merger of y and i (§9.2.1.1) |
-| :isv[ě] | `je` / `ije` | Croatian reflex (§9.2.1.2); Slovene uses `e` |
-| :isv[šč] | `št` | Southern cluster reduction (§9.2.2.4) |
-| :isv[ć] / :isv[đ] | `ć` / `đ` | retained where etymologically justified (§9.2.2.3) |
+| :isv[y] | `i` | South Slavic merger of y and i  |
+| :isv[ě] | `je` / `ije` | Croatian reflex ; Slovene uses `e` |
+| :isv[šč] | `št` | Southern cluster reduction  |
+| :isv[ć] / :isv[đ] | `ć` / `đ` | retained where etymologically justified  |
 | :isv[lj] | `lj` | retained; Croatian/Slovene standard |
 | :isv[nj] | `nj` | retained; Croatian/Slovene standard |
 
@@ -142,16 +137,14 @@ Regional reference:
 
 ---
 
-## 9.5.2. Cyrillic Alphabet Variants
-
+## Cyrillic Alphabet Variants
 The standard Interslavic Cyrillic is based on Serbian/Macedonian Cyrillic.
 It includes `ы` (from Russian/Belarusian) and `є` (from Ukrainian).
 The letters `ј`, `љ`, `њ` follow Serbian conventions.
 
 Two main Cyrillic orthographic flavor models are documented: East Slavic and South Slavic (Serbian/Macedonian).
 
-### 9.5.2.1. East Slavic (Russian/Ukrainian) Cyrillic
-
+### East Slavic (Russian/Ukrainian) Cyrillic
 East Slavic readers — particularly Russians — may not correctly recognize the Serbian Cyrillic letter `ј`, which they associate with the English sound [dʒ] rather than [j].
 Similarly, `љ` and `њ` are unfamiliar to East Slavic readers.
 
@@ -209,8 +202,7 @@ Regional reference:
 | `њ` | `нь` | `нь` | `н` | `њ` | `њ` |
 | `є` | `е` | `є` | `е` | `е` | `е` |
 
-### 9.5.2.2. Serbian/Macedonian Cyrillic
-
+### Serbian/Macedonian Cyrillic
 Standard Interslavic Cyrillic is already based on Serbian/Macedonian conventions and requires minimal adaptation for South Slavic readers.
 The main adjustments concern the treatment of `ы` (unfamiliar to South Slavic readers) and `є`.
 
@@ -218,14 +210,14 @@ The main adjustments concern the treatment of `ы` (unfamiliar to South Slavic r
 
 | Standard Cyrillic | Serbian/Macedonian Cyrillic | Notes |
 |---|---|---|
-| `ы` | `и` | South Slavic merger of ы and и (§9.2.1.1) |
+| `ы` | `и` | South Slavic merger of ы and и  |
 | `є` | `е` | South Slavic reflex; `є` is not used in Serbian/Macedonian |
-| `ѣ` (`ě`) | `е` / `је` / `ије` | South Slavic realization (§9.2.1.2) |
-| `шч` | `шт` | South Slavic cluster reduction (§9.2.2.4); may also write `щ` with value `шт` |
+| `ѣ` (`ě`) | `е` / `је` / `ије` | South Slavic realization  |
+| `шч` | `шт` | South Slavic cluster reduction ; may also write `щ` with value `шт` |
 | `ј` | `ј` | retained; Serbian/Macedonian standard |
 | `љ` | `љ` | retained; Serbian/Macedonian standard |
 | `њ` | `њ` | retained; Serbian/Macedonian standard |
-| `ћ` / `ђ` | `ћ` / `ђ` | retained where etymologically justified (§9.2.2.3) |
+| `ћ` / `ђ` | `ћ` / `ђ` | retained where etymologically justified  |
 
 **Example:**
 
@@ -245,10 +237,9 @@ Regional reference:
 
 ---
 
-## 9.5.3. Worked Orthographic Flavorization Example
-
+## Worked Orthographic Flavorization Example
 The following parallel texts present the same sentence in standard Interslavic and in each of the five documented orthographic flavors.
-The sentence is taken from the worked phonological example (§9.2.3).
+The sentence is taken from the worked phonological example .
 
 **Source sentence:**
 
@@ -283,5 +274,5 @@ The sentence is taken from the worked phonological example (§9.2.3).
 | **Serbian/Macedonian Cyrillic** | _Ученје не јест тежко и не троваје долго._ |
 
 :::info[TODO: Committee Input Needed]
-The worked orthographic examples above should be validated against the full substitution tables and expanded with a sentence that exercises all major character substitutions simultaneously — including `šč`, etymological `ę` and `ų`, syllabic `r`, and soft consonant markers. The committee should also determine whether a consolidated flavorization substitution reference table (proposed for §10.2.4) should reproduce these tables in full or reference them by section.
+The worked orthographic examples above should be validated against the full substitution tables and expanded with a sentence that exercises all major character substitutions simultaneously — including `šč`, etymological `ę` and `ų`, syllabic `r`, and soft consonant markers. The committee should also determine whether a consolidated flavorization substitution reference table (proposed for ) should reproduce these tables in full or reference them by section.
 :::

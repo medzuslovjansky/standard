@@ -1,5 +1,4 @@
-# 6.6. Relative Clauses
-
+# Relative Clauses
 :::caution[Unverified Content]
 This file has no direct source material in the original Interslavic grammar by Jan van Steenbergen. The source material covers relative pronoun forms (ktory, koj, iže) and their inflection (in the pronouns section), but does not address relative clause syntax, gap vs. resumptive pronoun strategies, long-distance extraction, or free relative clause structure. Most of the syntactic analysis in this file is likely AI-generated and should be reviewed by the committee.
 :::
@@ -8,14 +7,13 @@ This section specifies the structure, pronoun selection, inflection, and extract
 
 ---
 
-## 6.6.1. Headed Relative Clauses with :isv[ktory]
-
+## Headed Relative Clauses with :isv[ktory]
 The primary relative pronoun in Interslavic is :isv[ktory] ("who, which, that"). It introduces **headed relative clauses** — clauses that modify an explicit antecedent noun phrase.
 
 :isv[Ktory] **agrees** with the antecedent in **gender** and **number**, and takes the **case** required by its grammatical function within the relative clause (subject, direct object, indirect object, etc.). It is inflected exactly like an ordinary hard-stem adjective.
 
 :::caution[Unverified Content]
-The verb form :isv[dah] in the table below and in section 6.6.2 is a South Slavic aorist form. Standard ISV past tense of :isv[dati] would be :isv[dal].
+The verb form :isv[dah] in the table below and in section is a South Slavic aorist form. Standard ISV past tense of :isv[dati] would be :isv[dal].
 :::
 
 | Function in relative clause | Example |
@@ -44,8 +42,7 @@ The relative clause immediately follows the antecedent NP. Separation of the rel
 
 ---
 
-## 6.6.2. The :isv[koj] Alternative (Southern Flavorization)
-
+## The :isv[koj] Alternative (Southern Flavorization)
 The pronoun :isv[koj] ("which") is the **South Slavic variant** of the relative pronoun. It is inflected like the possessive pronoun :isv[moj] (soft-stem adjective paradigm) and is used in precisely the same syntactic construction as :isv[ktory].
 
 :isv[Koj] and :isv[ktory] are **fully interchangeable** as relative pronouns; their meanings are identical. The choice between them is a matter of **stylistic register** or **dialect orientation**:
@@ -63,8 +60,7 @@ In all cases where :isv[koj] appears, :isv[ktory] may be substituted, and vice v
 
 ---
 
-## 6.6.3. The Archaic Pronoun :isv[iže]
-
+## The Archaic Pronoun :isv[iže]
 A third, more archaic relative pronoun :isv[iže] is also available, primarily in elevated or literary style. Its declension is irregular:
 
 - **Nominative** (all genders, both numbers): :isv[iže]
@@ -78,8 +74,7 @@ A third, more archaic relative pronoun :isv[iže] is also available, primarily i
 
 ---
 
-## 6.6.4. Gap Strategy (No Resumptive Pronoun)
-
+## Gap Strategy (No Resumptive Pronoun)
 Interslavic relative clauses normally employ the **gap strategy**: the position from which the relative pronoun has been extracted is left **empty** (a syntactic gap). No resumptive pronoun is inserted in the extraction site.
 
 The relative pronoun itself, appearing at the head of the relative clause, bears the case that corresponds to its grammatical role in the embedded clause. This is what makes the case inflection of :isv[ktory]/:isv[koj] syntactically crucial.
@@ -98,9 +93,8 @@ The absence of resumptive pronouns in canonical relative clauses is a structural
 
 ---
 
-## 6.6.5. Resumptive Pronoun in Long-Distance Extraction
-
-In cases of **deeply embedded extraction** — where the gap would be separated from the relative pronoun by one or more clause boundaries — a **resumptive pronoun MAY appear** in the extraction site. This is a licensed exception to the gap strategy specified in §6.6.4.
+## Resumptive Pronoun in Long-Distance Extraction
+In cases of **deeply embedded extraction** — where the gap would be separated from the relative pronoun by one or more clause boundaries — a **resumptive pronoun MAY appear** in the extraction site. This is a licensed exception to the gap strategy specified in the relevant section
 
 Long-distance extraction arises when the antecedent is relativized out of an embedded complement clause:
 
@@ -111,13 +105,12 @@ Long-distance extraction arises when the antecedent is relativized out of an emb
 The use of a resumptive pronoun in such contexts reduces processing difficulty and is grammatically acceptable. Writers SHOULD use a resumptive pronoun when the extraction site is more than one clause boundary away from the relative pronoun.
 
 :::info[TODO: Committee Input Needed]
-**§6.6.5 — Resumptive pronoun conditions:** The exact conditions licensing (or requiring) a resumptive pronoun in long-distance extraction — number of clause boundaries, type of embedding predicate, island constraints — are not specified in the source material. Committee determination of normative rules for long-distance relativization is needed.
+** — Resumptive pronoun conditions:** The exact conditions licensing (or requiring) a resumptive pronoun in long-distance extraction — number of clause boundaries, type of embedding predicate, island constraints — are not specified in the source material. Committee determination of normative rules for long-distance relativization is needed.
 :::
 
 ---
 
-## 6.6.6. Animacy Effects in Relative Pronoun Selection
-
+## Animacy Effects in Relative Pronoun Selection
 The accusative form of the relative pronoun :isv[ktory] follows the **animacy distinction** that applies to all masculine adjective-like forms in Interslavic:
 
 - **Inanimate masculine singular accusative** = same as nominative: :isv[ktory]
@@ -134,8 +127,7 @@ The same animacy rule applies to :isv[koj] in its accusative forms.
 
 ---
 
-## 6.6.7. Free (Headless) Relative Clauses
-
+## Free (Headless) Relative Clauses
 A **free relative clause** (also called a headless relative clause) is a relative clause that lacks an explicit antecedent noun. The relative pronoun itself incorporates both the role of "head" and "relativizer". Interslavic forms free relative clauses with the pronouns :isv[kto] ("whoever"), :isv[čto] ("whatever"), and :isv[ktory] / :isv[koj] ("whichever") used without an overt antecedent NP:
 
 - :isv[Kto žela, može priti.]
@@ -156,7 +148,7 @@ In free relative clauses with :isv[kto] and :isv[čto], the pronoun takes the ca
 ---
 
 :::info[TODO: Committee Input Needed]
-**§6.6.3 — :isv[Iže] in formal/liturgical texts:** The precise scope of permissible :isv[iže] usage — whether it is purely archaic/liturgical or may appear in any elevated register — requires a committee ruling. The source describes it as a "third option" without prescribing restrictions.
+** — :isv[Iže] in formal/liturgical texts:** The precise scope of permissible :isv[iže] usage — whether it is purely archaic/liturgical or may appear in any elevated register — requires a committee ruling. The source describes it as a "third option" without prescribing restrictions.
 
-**§6.6.7 — Case matching in free relatives:** When the role of the free relative clause in the matrix clause differs from the role of the pronoun within the embedded clause (the "case mismatch" problem), the norm for which case form the free relative pronoun takes has not been established in the source material. Committee codification of the standard resolution is needed.
+** — Case matching in free relatives:** When the role of the free relative clause in the matrix clause differs from the role of the pronoun within the embedded clause (the "case mismatch" problem), the norm for which case form the free relative pronoun takes has not been established in the source material. Committee codification of the standard resolution is needed.
 :::

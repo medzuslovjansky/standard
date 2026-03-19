@@ -1,13 +1,10 @@
-# 5.5. Pronouns
-
+# Pronouns
 This section specifies the forms, inflection, and usage rules for all pronominal categories in Interslavic. All normative statements use MUST, SHALL, SHOULD, and MAY as defined in RFC 2119.
 
 ---
 
-## 5.5.1. Personal Pronouns
-
-### 5.5.1.1. Paradigm: 1st, 2nd, 3rd person singular and plural
-
+## Personal Pronouns
+### Paradigm: 1st, 2nd, 3rd person singular and plural
 Personal pronouns in Interslavic inflect for six cases (nominative, accusative, genitive, dative, instrumental, locative). There is no vocative for pronouns. The reflexive pronoun :isv[sebe] inflects identically to the second-person singular but has no nominative form.
 
 Third-person pronouns also distinguish gender (masculine, feminine, neuter in the singular) and animacy (masculine plural only: :isv[oni] for groups containing male referents, :isv[one] for all others). The third person is historically derived from demonstrative pronouns and therefore behaves differently from first- and second-person forms.
@@ -42,8 +39,7 @@ The source material does not describe this distinction as "obligatory" nor speci
 
 In the plural, Interslavic maintains two nominative forms: :isv[oni] is used for groups that include at least one male person or male animal; :isv[one] is used for all other groups (exclusively female, mixed-gender inanimate, neuter). This distinction is obligatory in the nominative.
 
-### 5.5.1.2. Long vs. short (clitic) forms
-
+### Long vs. short (clitic) forms
 Several personal pronouns have two sets of forms: a **long (full) form** and a **short (clitic) form**. The clitic forms appear in parentheses in the paradigm above (e.g., :isv[mę], :isv[tę], :isv[go], :isv[mi], :isv[ti], :isv[mu]).
 
 The following rules govern their distribution:
@@ -57,12 +53,63 @@ Because not all verb endings are equally transparent to all speakers of Slavic l
 
 The pronoun :isv[on] refers to any noun of masculine grammatical gender, not only to male beings. The pronoun :isv[ona] refers to any noun of feminine grammatical gender.
 
+### Optional dual personal pronouns
+
+The dual personal pronouns are entirely optional and correspond to the optional dual number in nouns and verbs (see the nouns chapter for the full discussion of dual number status). They are based on Roberto Lombino's reconstruction (2021) from Old Church Slavonic and Slovenian models.
+
+**Dual nominative forms:**
+
+| Person | Masculine | Feminine |
+|--------|-----------|----------|
+| 1du. ("we two") | :isv[na] | :isv[ně] |
+| 2du. ("you two") | :isv[va] | :isv[vě] |
+| 3du. ("they two") | :isv[ona] | :isv[one] |
+
+:::info[Note on :isv[ně]]
+The feminine 1du. form :isv[ně] is an innovation created by analogy with the :isv[dva] / :isv[dvě] gender distinction. It is not attested in Old Church Slavonic or any natural Slavic language, where only :isv[na] or :isv[vě] occur. It was proposed on the Interslavic server as a logical extension of the system.
+:::
+
+**Full dual paradigm:**
+
+| Case | 1du. :isv[na/ně] | 2du. :isv[va/vě] | 3du. :isv[ona/one] |
+|------|-------------------|-------------------|---------------------|
+| Nom. | :isv[na] (m.) / :isv[ně] (f.) | :isv[va] (m.) / :isv[vě] (f.) | :isv[ona] (m.) / :isv[one] (f.) |
+| Acc. | :isv[naju] | :isv[vaju] | :isv[ju] / :isv[jeju] / :isv[neju] |
+| Gen./Loc. | :isv[naju] | :isv[vaju] | :isv[ju] / :isv[jeju] / :isv[neju] |
+| Dat./Instr. | :isv[nama] | :isv[vama] | :isv[jima] / :isv[njima] |
+
+The third-person dual genitive/accusative forms :isv[ju] / :isv[jeju] / :isv[neju] parallel the singular third-person alternation :isv[go] / :isv[jego] / :isv[njego] (short / full / post-prepositional).
+
+**Dual possessive pronouns:**
+
+The dual possessive pronouns may be either indeclinable (genitive-based) or declinable (adjectival):
+
+| Indeclinable | Declinable | Meaning |
+|---|---|---|
+| :isv[naju] | :isv[najin] | "of us two, our (dual)" |
+| :isv[vaju] | :isv[vajin] | "of you two, your (dual)" |
+| :isv[jeju] | :isv[jejin] (?) | "of them two, their (dual)" |
+
+The declinable forms are declined like :isv[moj]. The 3du. declinable possessive :isv[jejin] is tentative; in the singular, :isv[jejin] means "her", so if that form is replaced by :isv[jejny] (by analogy with :isv[jihny]), then :isv[jejin] becomes available for dual use.
+
+Example: :isv[naju knjiga] = :isv[najina knjiga] = "the book of us two"
+
+**Dual adjective forms:**
+
+Adjectives in the dual follow this pattern:
+
+| Case | Masculine | Feminine/Neuter |
+|------|-----------|-----------------|
+| Nom. | :isv[mlada] / :isv[svěža] | :isv[mlade] / :isv[svěže] |
+| Gen./Loc. | :isv[mladu] / :isv[svěžu] | :isv[mladu] / :isv[svěžu] |
+| Dat./Instr. | :isv[mladyma] / :isv[svěžima] | :isv[mladyma] / :isv[svěžima] |
+
+The possessive pronouns :isv[moj], :isv[tvoj], :isv[naš], :isv[vaš] follow the same dual adjective pattern.
+
 ---
 
-## 5.5.2. Reflexive Pronouns
-
-### 5.5.2.1. Sebe / sę paradigm
-
+## Reflexive Pronouns
+### Sebe / sę paradigm
 :::caution[Unverified Content]
 The source material consistently writes the reflexive clitic as :isv[se] (e.g. :isv[Ja myju se]), not :isv[sę]. The use of :isv[sę] throughout this section cannot be verified against the source.
 :::
@@ -84,8 +131,7 @@ The absence of number and person inflection in the reflexive pronoun means it ca
 
 The reflexive pronoun also serves as a **reciprocal** pronoun. :isv[Oni bijut sę] may mean either "They are hitting themselves" or "They are hitting each other." To make the reciprocal reading explicit, the formula :isv[jedin drugogo] SHOULD be added: :isv[Oni bijut sę jedin drugogo].
 
-### 5.5.2.2. Reflexive possessive: svoj
-
+### Reflexive possessive: svoj
 The reflexive possessive :isv[svoj] "one's own" is used whenever the possessor is coreferential with the grammatical subject of the same clause, regardless of person or number.
 
 :isv[Ja myju svoje avto] "I am washing my (own) car."
@@ -97,8 +143,7 @@ The contrast above is normatively significant: when the subject in a third-perso
 
 ---
 
-## 5.5.3. Possessive Pronouns
-
+## Possessive Pronouns
 Possessive pronouns agree with the noun they modify in gender, number, and case. They are inflected like adjectives, with the exception of the masculine nominative singular (and inanimate accusative singular), where the zero ending is used rather than the adjectival :isv[-y] / :isv[-i].
 
 The core possessive pronouns are:
@@ -109,7 +154,7 @@ The core possessive pronouns are:
 | :isv[tvoj] | your, yours (singular familiar) |
 | :isv[naš] | our, ours |
 | :isv[vaš] | your, yours (plural or formal) |
-| :isv[svoj] | one's own (reflexive possessive; see §5.5.2.2) |
+| :isv[svoj] | one's own (reflexive possessive; see the relevant section) |
 
 **Declension of :isv[moj] (representative paradigm for :isv[moj], :isv[tvoj], :isv[naš], :isv[vaš], :isv[svoj]):**
 
@@ -130,7 +175,7 @@ The source material states that these pronouns are declined like :isv[svěži] (
 The claim that :isv[naš] and :isv[vaš] specifically follow the "soft adjectival pattern (:isv[svěži]-type)" is not stated in these terms in the source material. The source says these pronouns decline "like :isv[svěži]" but does not single out :isv[naš] and :isv[vaš] as having a distinct pattern from :isv[moj]/:isv[tvoj].
 :::
 
-The pronouns :isv[naš] and :isv[vaš] follow the soft adjectival pattern (:isv[svěži]-type) in their oblique forms. The pronouns :isv[moj], :isv[tvoj], :isv[naš], :isv[vaš], :isv[svoj], and :isv[čij] decline like :isv[svěži]; see §5.3.2.2.
+The pronouns :isv[naš] and :isv[vaš] follow the soft adjectival pattern (:isv[svěži]-type) in their oblique forms. The pronouns :isv[moj], :isv[tvoj], :isv[naš], :isv[vaš], :isv[svoj], and :isv[čij] decline like :isv[svěži]; see the relevant section
 
 **Third-person possessives:**
 
@@ -156,14 +201,12 @@ The genitive forms (:isv[jego], :isv[jej], :isv[jih]) are preferred in standard 
 
 **Interrogative and indefinite possessives:**
 
-The interrogative possessive pronoun :isv[čij] "whose" and its derived forms :isv[ničij] "nobody's", :isv[něčij] "somebody's", etc. are inflected like :isv[moj]. For the full system of derived possessives see §5.5.6 (indefinite pronouns) and §5.5.8 (correlative table).
+The interrogative possessive pronoun :isv[čij] "whose" and its derived forms :isv[ničij] "nobody's", :isv[něčij] "somebody's", etc. are inflected like :isv[moj]. For the full system of derived possessives see the relevant section (indefinite pronouns) and  (correlative table).
 
 ---
 
-## 5.5.4. Demonstrative Pronouns
-
-### 5.5.4.1. Primary demonstrative: toj / ten
-
+## Demonstrative Pronouns
+### Primary demonstrative: toj / ten
 The primary demonstrative pronoun is :isv[toj] (masculine), :isv[ta] (feminine), :isv[to] (neuter), meaning "this / that". This form SHOULD be used whenever there is no need to distinguish explicitly between proximal "this" and distal "that".
 
 The variant form :isv[ten] for the masculine nominative singular is used in western Slavic contexts; in other contexts :isv[toj] is the preferred form.
@@ -185,8 +228,7 @@ The accusative row appears to contain errors: neuter accusative is given as :isv
 
 The plural oblique forms :isv[těh], :isv[těm], :isv[těmi] are found particularly in Russian, Bulgarian, and Czech; the variants :isv[tyh], :isv[tym], :isv[tymi] are found in other Slavic languages. Both are acceptable in Interslavic.
 
-### 5.5.4.2. Proximal vs. distal distinction: tutoj and tamtoj
-
+### Proximal vs. distal distinction: tutoj and tamtoj
 When a speaker needs to explicitly distinguish between "this one (here)" and "that one (over there)", Interslavic provides:
 
 - :isv[tutoj] "this (near the speaker)"
@@ -194,8 +236,7 @@ When a speaker needs to explicitly distinguish between "this one (here)" and "th
 
 Both :isv[tutoj] and :isv[tamtoj] are declined exactly like :isv[toj] (see table above). These forms SHOULD be used when spatial deixis needs to be made explicit.
 
-### 5.5.4.3. Three-way deictic distinction (archaic/literary)
-
+### Three-way deictic distinction (archaic/literary)
 A more precise three-way deictic system exists and MAY be used, particularly in literary or more archaic registers:
 
 | Pronoun | Nominative | Meaning |
@@ -254,10 +295,8 @@ The source material mentions :isv[ov] (not :isv[ovoj]) and states it is "decline
 
 ---
 
-## 5.5.5. Interrogative and Relative Pronouns
-
-### 5.5.5.1. Kto (who) and čto / što (what)
-
+## Interrogative and Relative Pronouns
+### Kto (who) and čto / što (what)
 The primary interrogative pronouns are :isv[kto] "who?" and :isv[čto] (also written :isv[što]) "what?". These pronouns do not inflect for number or gender.
 
 :::caution[Unverified Content]
@@ -278,16 +317,14 @@ Both :isv[kto] and :isv[čto] serve as interrogative pronouns in direct and indi
 - :isv[Oni sųt besědovali o tom, čto bylo je pisano v gazetah.] "They were talking about what had been written in the newspapers."
 - :isv[Ja zapytal sòm, u kogo oni sųt kupili ovų rybų.] "I asked from whom they bought that fish."
 
-### 5.5.5.2. Ktory / koj (which, relative)
-
+### Ktory / koj (which, relative)
 The pronoun :isv[ktory] "which, that" is the standard relative pronoun. It inflects like a hard adjective (:isv[dobry]-type) and agrees with its antecedent in gender and number; it takes its case from its function in the relative clause.
 
 The South Slavic alternative :isv[koj] is inflected like :isv[moj] and is fully interchangeable with :isv[ktory] in both relative and interrogative uses.
 
 A third, more archaic option is :isv[iže]. In the nominative it is invariable across genders and numbers. In oblique cases it is formed from the corresponding form of the personal pronoun :isv[on] / :isv[ona] / :isv[ono] with the suffix :isv[-že]: genitive masculine singular :isv[jegože], dative masculine singular :isv[jemuže], etc. This form MAY be used in literary or archaic-register texts.
 
-### 5.5.5.3. Other interrogative pronouns: kaky, čij, koliko
-
+### Other interrogative pronouns: kaky, čij, koliko
 Additional interrogative determiners and pronouns include:
 
 | Form | Meaning | Inflection |
@@ -334,10 +371,8 @@ The adverbs :isv[čemu] "why (cause)" and :isv[začto] "why (purpose / for what)
 
 ---
 
-## 5.5.6. Indefinite Pronouns
-
-### 5.5.6.1. Formation with ně-
-
+## Indefinite Pronouns
+### Formation with ně-
 The prefix :isv[ně-] attached to an interrogative pronoun or adverb forms an **indefinite** pronoun or adverb, equivalent to English "some-" or "-some":
 
 | Form | Meaning |
@@ -356,8 +391,7 @@ The prefix :isv[ně-] attached to an interrogative pronoun or adverb forms an **
 
 The forms :isv[někto], :isv[něčto], etc. are inflected like :isv[kto] and :isv[čto] respectively. The forms :isv[někoj], :isv[něčij], etc. are inflected like :isv[moj].
 
-### 5.5.6.2. Formation with vs- (universal/collective)
-
+### Formation with vs- (universal/collective)
 The prefix :isv[vs-] forms **universal (collective)** pronouns meaning "every-, all-":
 
 | Form | Meaning |
@@ -388,10 +422,8 @@ The neuter singular :isv[vse] is used in the collective sense "everything, all (
 
 ---
 
-## 5.5.7. Negative Pronouns
-
-### 5.5.7.1. Formation with ni-
-
+## Negative Pronouns
+### Formation with ni-
 The prefix :isv[ni-] attached to an interrogative pronoun or adverb forms a **negative** pronoun or adverb:
 
 | Form | Meaning |
@@ -415,8 +447,7 @@ The forms :isv[nikoliko], :isv[nikamo], and :isv[nikųdy] are not listed in the 
 
 The forms :isv[nikto], :isv[ničto], etc. are inflected like :isv[kto] and :isv[čto] respectively. The forms :isv[nikoj], :isv[ničij], etc. are inflected like :isv[moj].
 
-### 5.5.7.2. Double negation requirement
-
+### Double negation requirement
 :::caution[Unverified Content]
 The double negation requirement and the constructions equivalent to Russian "некого/нечего" described below are not discussed in the source material.
 :::
@@ -439,8 +470,7 @@ Interslavic does not have a separate series of pronouns corresponding to Russian
 
 ---
 
-## 5.5.8. Pronominal Adverbs and the Correlative System
-
+## Pronominal Adverbs and the Correlative System
 Interslavic has a systematic **table of correlatives**: a set of interrelated pronouns, determiners, and adverbs built on a regular grid of pronominal roots and semantic prefixes/suffixes. The system covers the semantic categories of person (:isv[kto] / *who*), thing (:isv[čto] / *what*), quality (:isv[kaky] / *what kind*), quantity (:isv[koliko] / *how many*), possession (:isv[čij] / *whose*), selection (:isv[koj] / *which*), manner (:isv[kak] / *how*), location (:isv[kdě] / *where*), direction-to (:isv[kamo] / *whither*), path (:isv[kųdy] / *which way*), origin (:isv[odkųdy] / *whence*), and time (:isv[kogda] / *when*).
 
 **Semantic prefix keys:**

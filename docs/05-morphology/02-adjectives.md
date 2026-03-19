@@ -1,16 +1,14 @@
-# 5.3. Adjectives
-
+# Adjectives
 This section specifies the inflection, short forms, possessive formation, and degrees of comparison of adjectives in Interslavic. All normative rules use the terms MUST, SHALL, SHOULD, and MAY as defined in RFC 2119.
 
 ---
 
-## 5.3.1. Adjectival Agreement
-
+## Adjectival Agreement
 Adjectives in Interslavic MUST agree with the head noun they modify in **gender**, **number**, and **case**. This requirement applies both in attributive position (adjective preceding or following the noun) and in predicative position (adjective linked to the noun by a copula).
 
 Adjectival declension is entirely regular. Three systematic rules govern all paradigms:
 
-1. **Hard vs. soft stem alternations.** Adjective stems ending in *š*, *ž*, *č*, or *j* are soft stems. After soft stems, every `-o-` becomes `-e-` and every `-y-` becomes `-i-` in the endings (see §5.3.2.2).
+1. **Hard vs. soft stem alternations.** Adjective stems ending in *š*, *ž*, *č*, or *j* are soft stems. After soft stems, every `-o-` becomes `-e-` and every `-y-` becomes `-i-` in the endings (see the relevant section).
 
 2. **Animate masculine accusative.** The accusative of an adjective modifying an animate masculine noun MUST be identical to the genitive, both in the singular and in the plural. For inanimate masculines and for all other genders the accusative equals the nominative (singular and plural).
 
@@ -18,10 +16,8 @@ Adjectival declension is entirely regular. Three systematic rules govern all par
 
 ---
 
-## 5.3.2. Hard vs. Soft Adjective Declension
-
-### 5.3.2.1. Hard Adjective Paradigm (:isv[dobry])
-
+## Hard vs. Soft Adjective Declension
+### Hard Adjective Paradigm (:isv[dobry])
 The model adjective is :isv[dobry] "good". Endings after hard stems are shown without parentheses; where a cell is shared across genders, a single form is given.
 
 :::caution[Unverified Content]
@@ -50,8 +46,7 @@ The source references "basic endings" tables but the table content is not includ
 | Instrumental | :isv[dobrym] | :isv[dobrym] | :isv[dobrym] | :isv[dobrojų] | :isv[dobrymi] | :isv[dobrymi] | :isv[dobrymi] | :isv[dobrymi] |
 | Locative | :isv[dobrom] | :isv[dobrom] | :isv[dobrom] | :isv[dobroj] | :isv[dobryh] | :isv[dobryh] | :isv[dobryh] | :isv[dobryh] |
 
-### 5.3.2.2. Soft Adjective Paradigm (:isv[svěži])
-
+### Soft Adjective Paradigm (:isv[svěži])
 Soft adjectives have stems ending in *š*, *ž*, *č*, or *j*. The alternations `-o` → `-e` and `-y` → `-i` apply systematically throughout. The model adjective is :isv[svěži] "fresh".
 
 **Basic adjectival endings (soft stem; forms in parentheses differ from hard):**
@@ -78,21 +73,44 @@ Soft adjectives have stems ending in *š*, *ž*, *č*, or *j*. The alternations 
 
 ---
 
-## 5.3.3. Short (Predicative) Form
+## Short (Predicative) Form
 
-### 5.3.3.1. Distribution of Short Forms
+:::warning[Unresolved: Definite vs. Indefinite Adjective Declension]
+Lombino (2022) proposes a fully productive distinction between **definite (determined) and indefinite (undetermined) adjective forms**, modeled on Old Church Slavonic and modern Bulgarian. In this system:
 
+- **Indefinite forms** (short forms) are fully declined as nouns: :isv[mlad], gen. :isv[mlada], dat. :isv[mladu], etc., following the corresponding noun declension pattern. They are used predicatively and with indefinite nouns.
+- **Definite forms** (long forms) carry the standard pronominal endings: :isv[mladyj], :isv[mladaja], :isv[mladoje], etc. They are used when the noun is contextually definite.
+
+Additionally, this system includes a **postpositive definite article** suffixed with `-t-` to the noun itself (e.g., :isv[bratrŭt] "the brother", :isv[zemjata] "the earth", :isv[poljeto] "the field"), following the Bulgarian pattern. The article is used only when the noun has no other determiner (adjective, possessive, or demonstrative).
+
+Standard Interslavic preserves only a vestige of this system: the short form in the masculine nominative singular. The question of whether to document the full definite/indefinite distinction as an optional literary feature remains open. The system would increase expressive precision but at a significant cost to learnability, and it is productive only in Bulgarian, Macedonian, and (in part) Old Church Slavonic among Slavic languages.
+:::
+
+### The East Slavic Long/Short Adjective Distinction
+
+Beyond the definite/indefinite question discussed above, a separate tension exists regarding the **productive grammatical function** of long vs. short adjective forms in East Slavic languages. In Russian, the distinction between long forms (_добрый, добрая, доброе_) and short forms (_добр, добра, добро_) is not merely stylistic — it is syntactically productive:
+
+- Short forms are **obligatory** in certain predicative constructions (e.g., _Он болен_ "He is ill" vs. _больной человек_ "a sick person").
+- Short forms can carry **different semantic nuances** from long forms (e.g., _Он хороший_ "He is a good person [general quality]" vs. _Он хорош_ "He looks good [at this moment]").
+- Ukrainian and Belarusian each preserve elements of this distinction, though with different distributions: Ukrainian tends to use short forms predicatively while Belarusian shows a mixed pattern.
+
+Standard Interslavic uses long adjective endings (:isv[-y], :isv[-a], :isv[-o] in the nominative) as the default in all syntactic positions, with the short form available only as a stylistic option in the masculine nominative singular. The full paradigm of short-form endings across all genders and numbers — which would be needed for a productive short/long distinction — is not part of the standard grammar.
+
+:::warning[Unresolved: Productive Short Adjective Forms for Eastern Flavorization]
+East Slavic languages maintain a grammatically productive distinction between long and short adjective forms across all genders, with the short forms obligatory in certain predicative constructions. Interslavic currently treats the short form as vestigial (masculine nominative singular only). Formalizing a full set of short-form predicative adjective endings (:isv[-Ø] masc., :isv[-a] fem., :isv[-o] neut., :isv[-y] pl.) as an Eastern flavorization option would bring the language closer to East Slavic grammatical expectations, but would add a layer of complexity that most West and South Slavic speakers would find unfamiliar. The scientific notation has explored marking this distinction with special vowel diacritics on adjective endings (long :isv[-yj]/:isv[-ij]/:isv[-aja]/:isv[-oje] vs. short :isv[-y]/:isv[-i]/:isv[-a]/:isv[-o]), but no consensus has been reached on whether this should enter any practical register of the language.
+:::
+
+### Distribution of Short Forms
 Interslavic possesses a vestigial **short form** of adjectives, a relic of the indefinite (non-pronominal) declension inherited from Common Slavic. The short form differs from the regular (long) form **only in the masculine nominative singular**, where the ending `-y` / `-i` is omitted, leaving a bare stem.
 
-Short forms do not constitute a separate declension class; all oblique forms of short-form adjectives are identical to those of the corresponding long-form adjective. The short form MUST NOT be confused with adverbs, which are also derived from the bare stem (see §5.4.1).
+Short forms do not constitute a separate declension class; all oblique forms of short-form adjectives are identical to those of the corresponding long-form adjective. The short form MUST NOT be confused with adverbs, which are also derived from the bare stem (see the relevant section).
 
 The short form occurs productively in two classes of adjective:
 
-1. **Possessive adjectives in `-ov` and `-in`** (§5.3.4): the masculine nominative singular is zero-ended — :isv[bratov], :isv[mamin] — while all other forms add regular long endings.
+1. **Possessive adjectives in `-ov` and `-in`** : the masculine nominative singular is zero-ended — :isv[bratov], :isv[mamin] — while all other forms add regular long endings.
 2. A small number of other adjectives where tradition preserves the short masculine nominative, e.g. :isv[velik] alongside :isv[veliky].
 
-### 5.3.3.2. Short Form in Predicative Position
-
+### Short Form in Predicative Position
 The short form MAY be used when the adjective functions as a **predicate nominal** (i.e., after a copula such as :isv[jest] "is"):
 
 - :isv[Petr jest ščestliv.] — "Peter is happy."
@@ -107,10 +125,8 @@ Neither form is obligatory in predicative position; the long form is more common
 
 ---
 
-## 5.3.4. Possessive Adjectives
-
-### 5.3.4.1. Formation with `-ov` and `-in`
-
+## Possessive Adjectives
+### Formation with `-ov` and `-in`
 Possessive adjectives express that an object belongs to or is associated with a specific person or animal. They are formed from nouns as follows:
 
 :::caution[Unverified Content]
@@ -139,8 +155,7 @@ The source material does not provide a full declension table for possessive adje
 | Instrumental | :isv[maminym] | :isv[maminym] | :isv[maminym] | :isv[maminojų] | :isv[maminymi] | :isv[maminymi] | :isv[maminymi] | :isv[maminymi] |
 | Locative | :isv[maminom] | :isv[maminom] | :isv[maminom] | :isv[maminoj] | :isv[maminyh] | :isv[maminyh] | :isv[maminyh] | :isv[maminyh] |
 
-### 5.3.4.2. Scope Restriction: Single-Word Possessor Only
-
+### Scope Restriction: Single-Word Possessor Only
 Possessive adjectives in `-ov` / `-ev` and `-in` MUST be used only when the possessor is expressed as a **single uninflected word** (a simple noun without modifiers or additional words):
 
 - :isv[bratova kniga] — "brother's book" (single-word possessor → possessive adjective)
@@ -153,13 +168,11 @@ When the possessor is a phrase, a multi-word name, or requires its own inflectio
 ---
 
 :::caution[Unverified Content]
-The entire section 5.3.5 on demonstratives as quasi-articles has no basis in the source material on adjectives. The source does not discuss demonstrative pronouns, articles, or the declension of `toj/ta/to` in this context.
+The entire section on demonstratives as quasi-articles has no basis in the source material on adjectives. The source does not discuss demonstrative pronouns, articles, or the declension of `toj/ta/to` in this context.
 :::
 
-## 5.3.5. Demonstratives as Quasi-Articles
-
-### 5.3.5.1. :isv[Toj] / :isv[ta] / :isv[to] (Proximal and Distal Demonstratives)
-
+## Demonstratives as Quasi-Articles
+### :isv[Toj] / :isv[ta] / :isv[to] (Proximal and Distal Demonstratives)
 Interslavic has **no grammaticalized definite or indefinite article**. The demonstrative pronoun :isv[toj] (masc.), :isv[ta] (fem.), :isv[to] (neut.) — "that; this" — serves as the closest functional equivalent to a definiteness marker.
 
 The full declension of :isv[toj] / :isv[ta] / :isv[to] follows the standard adjectival paradigm with the following forms:
@@ -173,8 +186,7 @@ The full declension of :isv[toj] / :isv[ta] / :isv[to] follows the standard adje
 | Instrumental | :isv[tym] | :isv[tym] | :isv[tym] | :isv[tojų] | :isv[tymi] |
 | Locative | :isv[tom] | :isv[tom] | :isv[tom] | :isv[toj] | :isv[tyh] |
 
-### 5.3.5.2. Anaphoric and Deictic Uses
-
+### Anaphoric and Deictic Uses
 Demonstratives in Interslavic serve two functions:
 
 1. **Deictic use**: pointing to a referent in the physical or discourse context — :isv[toj čelověk] "that man (over there)".
@@ -184,15 +196,25 @@ Because Interslavic lacks a definite article, the demonstrative in its anaphoric
 
 ---
 
-## 5.3.6. Degrees of Comparison
+## Degrees of Comparison
+Adjectives (and the adverbs derived from them; see the relevant section) have three degrees of comparison: **positive**, **comparative**, and **superlative**.
 
-Adjectives (and the adverbs derived from them; see §5.4.2) have three degrees of comparison: **positive**, **comparative**, and **superlative**.
-
-### 5.3.6.1. Positive (Base) Form
-
+### Positive (Base) Form
 The **positive degree** is the uninflected base form of the adjective, expressing a quality without comparison: :isv[dobry] "good", :isv[prosty] "simple", :isv[svěži] "fresh".
 
-### 5.3.6.2. Synthetic Comparative (`-ějši` / `-ejši`)
+### Synthetic Comparative (`-ějši` / `-ejši`)
+
+:::info[Literary Register: Alternative Comparative Formation]
+Lombino (2022) describes an alternative comparative formation used in the rich/literary register, based on iotation (consonant softening) or the suffix `-ěj-` rather than the standard `-š-` suffix:
+
+- **Monosyllabic adjectives** form the comparative by iotating the final consonant (the same consonant alternation used in verbal derivation: `t > ć`, `d > đ`, `s > š`, etc.): :isv[mlad] > :isv[mlađ/mlađa/mlađe], :isv[lěp] > :isv[lěpj/lěpša].
+- **Polysyllabic adjectives** add the suffix `-ěj-`: :isv[bogat] > :isv[bogatěj/bogatěja/bogatěje], :isv[jasŭn] > :isv[jasněj/jasněja/jasněje].
+- **Adjectives with `-k-` or `-ok-`** drop the suffix before comparison: :isv[širok] > :isv[širj], :isv[dalek] > :isv[dalj].
+
+This system is closer to the inherited Common Slavic comparative (preserved in varying degrees across South and West Slavic languages) and avoids the `-ějši` suffix, which is a Interslavic innovation combining features from multiple language groups. The standard `-ějši` / `-ši` forms remain the default for Standard Interslavic.
+
+Lombino also documents an **absolute superlative** (elative), formed with the standard `naj-` prefix but used without comparison to express a high degree: :isv[Najuvažimji prijateli!] ("Most esteemed friends!" --- not the most esteemed of all, but very esteemed).
+:::
 
 The primary synthetic comparative is formed by replacing the ending `-y` / `-i` with the suffix **`-ějši`** (after hard stems) or **`-ejši`** (after soft stems, i.e. after *š*, *ž*, *č*, *j*):
 
@@ -224,7 +246,7 @@ The source uses `blagy → blažejši` to illustrate the g→ž alternation. The
 | :isv[daleky] | :isv[dalši] | "farther" |
 | :isv[vysoky] | :isv[vysši] | "higher" |
 
-The comparative form is a fully inflected adjective and MUST agree with its head noun in gender, number, and case, following the soft adjective paradigm (§5.3.2.2).
+The comparative form is a fully inflected adjective and MUST agree with its head noun in gender, number, and case, following the soft adjective paradigm .
 
 **Comparative adverbs** are formed from the synthetic comparative by replacing `-ši` with `-e` (yielding the ending `-ěje` / `-eje`):
 
@@ -245,8 +267,7 @@ For adjectives in `-ky` / `-eky` / `-oky`, the comparative adverb is formed by a
 | :isv[blizko] | :isv[bliže] | "closer" |
 | :isv[rědko] | :isv[rědže] | "more rarely" |
 
-### 5.3.6.3. Analytic Comparative (:isv[vyše] / :isv[bolje] + positive)
-
+### Analytic Comparative (:isv[vyše] / :isv[bolje] + positive)
 The analytic comparative is formed by placing **:isv[vyše]** or **:isv[bolje]** ("more") before the positive form of the adjective or adverb:
 
 - :isv[vyše prosty] — "simpler, more simple"
@@ -283,8 +304,7 @@ When introducing the standard of comparison, use the genitive with the prepositi
 - :isv[Ljubov je silnějša od smŕti.] — "Love is stronger than death."
 - :isv[Goręći čaj je lěpši, než hlådny.] — "Hot tea is better than cold."
 
-### 5.3.6.4. Superlative (`naj-` Prefix)
-
+### Superlative (`naj-` Prefix)
 The **superlative** is formed by adding the prefix **`naj-`** to the comparative form:
 
 | Comparative | Superlative (adj.) | Superlative (adv.) |
@@ -321,10 +341,9 @@ The example `prěneprijatny` is not in the source. The source also spells the ne
 
 - :isv[neprijatny] — "unpleasant, not pleasant"
 
-### 5.3.6.5. Irregular Comparatives
-
+### Irregular Comparatives
 :::caution[Unverified Content]
-The source says regular forms of these adjectives "will look childish or artificial," but does not use normative SHOULD language. Also, the source lists `blagy → blažejši` as a regular comparative example (with g→ž alternation) alongside its irregular form `unši`, but the doc omits the regular `blažejši` from the consonant-alternation examples in section 5.3.6.2.
+The source says regular forms of these adjectives "will look childish or artificial," but does not use normative SHOULD language. Also, the source lists `blagy → blažejši` as a regular comparative example (with g→ž alternation) alongside its irregular form `unši`, but the doc omits the regular `blažejši` from the consonant-alternation examples in section
 :::
 
 The following seven adjectives have suppletive or irregular comparative forms. Use of the regular synthetic comparative (e.g., :isv[dobrějši]) is not incorrect, but SHOULD be avoided in favor of the established forms given below:

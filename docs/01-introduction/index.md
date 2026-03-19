@@ -1,13 +1,10 @@
-# 1. Introduction and Scope
-
+# Introduction and Scope
 :::caution[Unverified Content]
-Sections 1.1.1 through 1.1.3 (Normative status, Scope, and What this specification does not cover) are new specification framework content with no basis in the source material. The normative keyword definitions, module breakdown, and scope exclusions are not derived from any source.
+Sections through  (Normative status, Scope, and What this specification does not cover) are new specification framework content with no basis in the source material. The normative keyword definitions, module breakdown, and scope exclusions are not derived from any source.
 :::
 
-## 1.1. Purpose of this Specification
-
-### 1.1.1. Normative status
-
+## Purpose of this Specification
+### Normative status
 This specification employs the following key words to indicate requirement levels, in accordance with established standards practice:
 
 - **SHALL** and **MUST** indicate an absolute requirement. Conforming implementations and conforming text MUST satisfy the stated condition without exception.
@@ -22,37 +19,34 @@ Normative sections are those that contain requirements on Interslavic text, impl
 The terms defined above apply throughout the entire specification. Where this specification uses the verb forms "is", "are", or "defines" in descriptive contexts, those forms carry no normative weight.
 :::
 
-### 1.1.2. Scope: what this specification covers
-
+### Scope: what this specification covers
 This specification normatively describes the **Interslavic language** (:isv[Medžuslovjansky jezyk] / :cyrl[Меджусловјанскы језык]) — a zonal auxiliary language constructed to be broadly intelligible to speakers of the Slavic language family without prior study. The following linguistic modules are covered:
 
 | Module | Sections |
 |---|---|
-| Phonology (phonemic inventory, phonotactics, stress, sandhi) | §3 |
-| Orthography and writing systems (Latin, Cyrillic, etymological registers) | §4 |
-| Morphology (nominal, pronominal, adjectival, verbal, and minor word-class inflection; derivational morphology) | §5 |
-| Syntax (phrase structure, clause types, word order, agreement, subordination) | §6 |
-| Semantics and pragmatics (aspect, tense, modality, information structure, discourse norms) | §7 |
-| Lexicon and vocabulary policy (selection criteria, borrowing, neologism formation) | §8 |
-| Flavorization (systematic regional adaptation) | §9 |
+| Phonology (phonemic inventory, phonotactics, stress, sandhi) |  |
+| Orthography and writing systems (Latin, Cyrillic, etymological registers) |  |
+| Morphology (nominal, pronominal, adjectival, verbal, and minor word-class inflection; derivational morphology) |  |
+| Syntax (phrase structure, clause types, word order, agreement, subordination) |  |
+| Semantics and pragmatics (aspect, tense, modality, information structure, discourse norms) |  |
+| Lexicon and vocabulary policy (selection criteria, borrowing, neologism formation) |  |
+| Flavorization (systematic regional adaptation) |  |
 
 The specification covers **Standard Interslavic** (the full grammatical system) and **Basic Interslavic** (the simplified register sometimes called :isv[Slovianto]), defining which rules in each section apply to each register.
 
-### 1.1.3. What this specification does not cover
-
+### What this specification does not cover
 The following topics are explicitly **outside the scope** of this specification:
 
 - **Historical and comparative Slavic linguistics.** This specification does not provide reconstruction procedures for Proto-Slavic, comparative etymological tables, or a full account of Slavic language divergence. Such material is referenced where relevant but is not presented normatively.
-- **Frequency corpus data.** Lexical frequency statistics, collocational databases, and corpus-derived usage norms are not included. The vocabulary policy in §8 defines selection principles without requiring corpus enumeration.
+- **Frequency corpus data.** Lexical frequency statistics, collocational databases, and corpus-derived usage norms are not included. The vocabulary policy in the relevant section defines selection principles without requiring corpus enumeration.
 - **Pedagogical sequencing.** This specification defines the language, not a curriculum. It does not prescribe the order in which features should be taught, nor does it provide graded exercises or learning-path guidance. Those are the province of teaching materials derived from this specification.
-- **Non-linguistic cultural content.** This specification does not address Slavic cultural practices, historiography, folklore, or geopolitics, except to the extent they bear directly on normative linguistic choices (e.g., political neutrality as a design criterion, §2.1.4).
-- **Dialectology and sociolinguistic variation.** Natural Slavic dialect continua and sociolinguistic registers within individual Slavic languages are not described. Controlled variation within Interslavic is covered exclusively through the flavorization module (§9).
+- **Non-linguistic cultural content.** This specification does not address Slavic cultural practices, historiography, folklore, or geopolitics, except to the extent they bear directly on normative linguistic choices (e.g., political neutrality as a design criterion, ).
+- **Dialectology and sociolinguistic variation.** Natural Slavic dialect continua and sociolinguistic registers within individual Slavic languages are not described. Controlled variation within Interslavic is covered exclusively through the flavorization module .
 
-### 1.1.4. Relationship to prior Interslavic works
-
+### Relationship to prior Interslavic works
 This specification consolidates and supersedes a body of prior descriptive work on Interslavic. The primary reference sources integrated into this document are:
 
-**Jan van Steenbergen's materials at steen.free.fr/interslavic** constitute the principal prior description of modern Interslavic. These materials — covering grammar, vocabulary, phonology, and orthography — represent the accumulated result of the :isv[Slovianski] project (2006–2017) and its subsequent merger with :isv[Neoslavonic] (:isv[Novoslověnsky]). Where this specification is silent on a point of grammar, the steen.free.fr description SHOULD be consulted as an authoritative reference, but it is not itself normative in the sense defined by §1.1.1.
+**Jan van Steenbergen's materials at steen.free.fr/interslavic** constitute the principal prior description of modern Interslavic. These materials — covering grammar, vocabulary, phonology, and orthography — represent the accumulated result of the :isv[Slovianski] project (2006–2017) and its subsequent merger with :isv[Neoslavonic] (:isv[Novoslověnsky]). Where this specification is silent on a point of grammar, the steen.free.fr description SHOULD be consulted as an authoritative reference, but it is not itself normative in the sense defined by 
 
 :::caution[Unverified Content]
 The SHOULD requirement that steen.free.fr be consulted as authoritative reference for gaps in this specification is a new normative claim not present in the source material. The sources do not define a fallback hierarchy for unspecified grammar points.
@@ -89,43 +83,37 @@ The specification should formally enumerate which specific steen.free.fr pages a
 ---
 
 :::caution[Unverified Content]
-The entire Section 1.2 (Intended Audiences) and its subsections (1.2.1 through 1.2.3) are new specification content with no basis in the source material. The audience categories, conformance requirements for NLP tool authors, and guidance for linguists and educators are not derived from any source.
+The entire Section (Intended Audiences) and its subsections ( through ) are new specification content with no basis in the source material. The audience categories, conformance requirements for NLP tool authors, and guidance for linguists and educators are not derived from any source.
 :::
 
-## 1.2. Intended Audiences
-
+## Intended Audiences
 This specification is written for multiple audiences. The normative requirements apply uniformly regardless of audience; the guidance below indicates which sections will be most relevant to each group.
 
-### 1.2.1. Language implementers and NLP tool authors
-
-Software developers building spell-checkers, grammar checkers, morphological analyzers, machine translation engines, or other natural-language processing tools for Interslavic SHALL treat all normative sections as binding conformance requirements. Normative sections employ formal rule notation suitable for algorithmic interpretation wherever feasible. Paradigm tables in §5 are intended to be machine-readable.
+### Language implementers and NLP tool authors
+Software developers building spell-checkers, grammar checkers, morphological analyzers, machine translation engines, or other natural-language processing tools for Interslavic SHALL treat all normative sections as binding conformance requirements. Normative sections employ formal rule notation suitable for algorithmic interpretation wherever feasible. Paradigm tables in the relevant section are intended to be machine-readable.
 
 :::note
 Requirements on text producers (authors, speakers) do not imply requirements on consumers (parsers, readers), and vice versa. Conformance claims SHOULD specify which conformance class they address.
 :::
 
-### 1.2.2. Linguists and language researchers
+### Linguists and language researchers
+Linguists and language researchers SHOULD use this specification as the primary reference for the synchronic description of Interslavic. IPA transcriptions (in /slashes/ for phonemic and [brackets] for phonetic representations) and comparative Slavic data are provided in the relevant section and throughout for scientific reference. Historical and comparative context is informative, not normative.
 
-Linguists and language researchers SHOULD use this specification as the primary reference for the synchronic description of Interslavic. IPA transcriptions (in /slashes/ for phonemic and [brackets] for phonetic representations) and comparative Slavic data are provided in §3 and throughout for scientific reference. Historical and comparative context is informative, not normative.
-
-### 1.2.3. Educators and advanced learners
-
-Educators and advanced learners SHOULD use this specification alongside derived pedagogical materials. Paradigm tables, worked examples, and informative notes throughout the document are provided for pedagogical utility but are not themselves normative. For introductory learning, the :isv[Slovianto] simplified grammar (§5, Basic Interslavic register) provides a sufficient starting point.
+### Educators and advanced learners
+Educators and advanced learners SHOULD use this specification alongside derived pedagogical materials. Paradigm tables, worked examples, and informative notes throughout the document are provided for pedagogical utility but are not themselves normative. For introductory learning, the :isv[Slovianto] simplified grammar (, Basic Interslavic register) provides a sufficient starting point.
 
 :::note
-This specification defines the language; it does not define a teaching sequence. Recommended learning paths are the responsibility of derived teaching materials. Beginners are referred to the :isv[Slovianto] overview before consulting the full morphological paradigms in §5.
+This specification defines the language; it does not define a teaching sequence. Recommended learning paths are the responsibility of derived teaching materials. Beginners are referred to the :isv[Slovianto] overview before consulting the full morphological paradigms in the relevant section
 :::
 
 ---
 
 :::caution[Unverified Content]
-The entire Section 1.3 (How to Read this Specification) and all its subsections (1.3.1 through 1.3.5) are new specification framework content with no basis in the source material. This includes typographical conventions, paradigm table abbreviations, version numbering, and the change process.
+The entire Section (How to Read this Specification) and all its subsections ( through ) are new specification framework content with no basis in the source material. This includes typographical conventions, paradigm table abbreviations, version numbering, and the change process.
 :::
 
-## 1.3. How to Read this Specification
-
-### 1.3.1. Typographical and notational conventions
-
+## How to Read this Specification
+### Typographical and notational conventions
 The following typographical conventions are used consistently throughout this specification:
 
 | Convention | Usage | Example |
@@ -136,7 +124,7 @@ The following typographical conventions are used consistently throughout this sp
 | /slashes/ | Phonemic (underlying) representation | :ipa[ˈruka] |
 | [brackets] | Phonetic (surface) representation | :ipa[ˈrukɐ] |
 | 'single quotes' | Glosses and translations | 'hand' |
-| §N.N | Cross-reference to section | §3.1.1 |
+| §N.N | Cross-reference to section |  |
 | SMALL CAPS | Normative keywords (SHALL, MUST, SHOULD, MAY) | SHALL |
 
 Interslavic examples SHALL be given in both Latin and Cyrillic scripts when introducing a form for the first time. Subsequent references in the same section MAY use Latin script alone.
@@ -145,8 +133,7 @@ Interslavic examples SHALL be given in both Latin and Cyrillic scripts when intr
 :isv[Medžuslovjansky jezyk] / :cyrl[Меджусловјанскы језык] — 'the Interslavic language'. After its first appearance, this may be referred to as :isv[Medžuslovjansky] alone.
 :::
 
-### 1.3.2. Normative vs. informative content
-
+### Normative vs. informative content
 The normative/informative distinction follows these conventions:
 
 - **Normative text** appears in the main body of sections without special marking, except for the required use of normative keywords (SHALL, MUST, SHOULD, MAY).
@@ -155,18 +142,16 @@ The normative/informative distinction follows these conventions:
 - **TODO callouts** (yellow shaded boxes labeled `:::info[TODO: Committee Input Needed]`) mark locations where the committee must supply a normative decision before the specification is finalized.
 - **CAUTION callouts** (orange shaded boxes labeled `:::caution[Committee Review Needed]`) mark locations where two or more sources are in conflict or where the committee must choose among competing documented practices.
 
-### 1.3.3. Phonemic and morphophonemic notation
-
+### Phonemic and morphophonemic notation
 This specification distinguishes three levels of representation:
 
 1. **Underlying (phonemic) representation**: enclosed in /slashes/. Represents the phoneme inventory without phonological alternations applied. Example: the root of :isv[ruka] 'hand' is /ruk-/.
 2. **Surface (phonetic) representation**: enclosed in [brackets]. Represents the realized pronunciation, including all allophonic processes. Example: /ruka/ → :ipa[ˈrukɐ] in a Polish-influenced variety.
-3. **Morphophonemic representation**: enclosed in curly braces `{}`. Represents underlying morphological alternants before phonological rules apply. Used in §5 to capture stem alternations. Example: the verb root `{pis-}/{piš-}` for :isv[pisati] / :cyrl[писати] 'to write'.
+3. **Morphophonemic representation**: enclosed in curly braces `{}`. Represents underlying morphological alternants before phonological rules apply. Used in the relevant section to capture stem alternations. Example: the verb root `{pis-}/{piš-}` for :isv[pisati] / :cyrl[писати] 'to write'.
 
 When a rule applies at all three levels, all three representations MAY be provided. When only phonemic representation is needed, /slashes/ alone suffice.
 
-### 1.3.4. Paradigm table conventions
-
+### Paradigm table conventions
 All declension and conjugation paradigm tables in this specification use the following labeling conventions:
 
 **Grammatical cases** (abbreviated in column and row headers):
@@ -229,19 +214,18 @@ Additional abbreviations used in morphological analysis:
 | IMP | Imperative |
 | REFL | Reflexive |
 
-### 1.3.5. Version, stability, and change process
-
-**Version identifier format.** This specification SHALL carry a version identifier of the form `MAJOR.MINOR.PATCH` (e.g., `1.0.0`). The MAJOR number increments on normative changes that are not backward compatible. The MINOR number increments on backward-compatible normative additions. The PATCH number increments on corrections and clarifications that do not alter normative content.
+### Version, stability, and change process
+**Version identifier format.** This specification SHALL carry a version identifier of the form `MAJOR.MINOR.PATCH` (e.g., ``). The MAJOR number increments on normative changes that are not backward compatible. The MINOR number increments on backward-compatible normative additions. The PATCH number increments on corrections and clarifications that do not alter normative content.
 
 **Stability commitment.** Normative rules designated as **stable** SHALL NOT change in patch releases and SHALL NOT be removed or replaced without a MAJOR version increment. Rules designated as **provisional** MAY change in MINOR releases.
 
 **Change process.** Proposed changes to normative content SHALL be submitted to the Interslavic Language Committee (the successor body to the 2017 merger committee). Changes SHALL be accepted only after:
 
-1. Review against the primary source languages (see §2.2.3 for the twelve-language voting set);
+1. Review against the primary source languages (see  for the twelve-language voting set);
 2. Assessment of impact on mutual intelligibility;
 3. Public comment period of not less than thirty (30) days.
 
-**Conflict resolution.** Where existing Slavic language data yield contradictory evidence for a normative choice, the weighted-majority voting mechanism defined in §2.2.4 SHALL be applied. Conflicts that cannot be resolved by that mechanism SHALL be logged in a public errata register and marked `:::caution[Committee Review Needed]` in the specification text until resolved.
+**Conflict resolution.** Where existing Slavic language data yield contradictory evidence for a normative choice, the weighted-majority voting mechanism defined in the relevant section SHALL be applied. Conflicts that cannot be resolved by that mechanism SHALL be logged in a public errata register and marked `:::caution[Committee Review Needed]` in the specification text until resolved.
 
 :::info[TODO: Committee Input Needed]
 The formal governance structure of the Interslavic Language Committee — its membership criteria, voting procedures, quorum rules, and public accountability mechanisms — must be defined before this specification is designated as a version 1.0 normative release.

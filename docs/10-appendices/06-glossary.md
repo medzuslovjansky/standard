@@ -1,5 +1,4 @@
-# 9.1. Glossary
-
+# Glossary
 :::info
 
 The glossary provides definitions for technical terms used throughout the specification. Users unfamiliar with specific linguistic terminology are encouraged to refer to this section for clarification.
