@@ -168,6 +168,111 @@ Transliteration software SHOULD normalize informal Cyrillic iotated forms to the
 
 ---
 
+## The Latin–Cyrillic Asymmetry: The :latn[lj]/:latn[nj] ↔ :cyrl[љ]/:cyrl[њ] Problem
+
+### Problem Statement
+The single most debated orthographic issue in Interslavic is the asymmetry between the Latin digraphs :latn[lj] and :latn[nj] (two letters each) and the Cyrillic single letters :cyrl[љ] and :cyrl[њ]. In Latin orthography, the morphological structure of a word like :isv[pisanje] is transparent: a reader can parse it as :isv[pisan-] + :isv[-je] (the stem plus the palatalizing suffix). In Cyrillic, the standard form :cyrl[писање] absorbs the suffix-initial :cyrl[ј] into the digraph letter :cyrl[њ], making the suffix boundary invisible.
+
+This asymmetry matters because Interslavic has two etymologically distinct sources of :isv[nj] and :isv[lj]:
+
+1. **Iotation-derived** (Proto-Slavic \*nj, \*lj — consonant fused with \*j): :isv[konj] "horse," :isv[polje] "field." Here the :isv[nj]/:isv[lj] is genuinely a single fused sound. The Cyrillic :cyrl[њ]/:cyrl[љ] is the appropriate representation.
+
+2. **Yer-softened + suffix -je** (Proto-Slavic \*nь + \*je, \*lь + \*je): :isv[pisanje] "writing" (from \*pisańьje), :isv[usilje] "effort" (from \*usiĺьje). Here :isv[nj]/:isv[lj] is actually a sequence of a soft consonant and the suffix-initial :isv[j] — two distinct morphological units that happen to look like the iotation digraph.
+
+In Latin script this ambiguity is manageable because context and the optional etymological diacritics (:isv[ń], :isv[ĺ]) can disambiguate. In Cyrillic, however, both types map to :cyrl[њ]/:cyrl[љ], with no way to indicate whether the letter represents a fused iotated sound or a soft consonant + :isv[j] sequence.
+
+### Scale of the Problem: Word Inventory
+The following inventory illustrates how many words are affected by the :isv[lj]/:isv[nj] distinction:
+
+**LJ-type words:**
+| Category | Count | Examples |
+|---|---|---|
+| Words ending in :isv[-lje] (iotation) | 5 | :isv[bolje], :isv[dalje], :isv[polje], :isv[velje], :isv[gųslje] |
+| Words ending in :isv[-ĺje] (yer-softened + suffix) | 6 | :isv[usiĺje], :isv[obiĺje], :isv[nasiĺje], :isv[veseĺje], :isv[pohmeĺje], :isv[evangeĺje] |
+| Words ending in :isv[-lje] in genitive plural | ~25 | :isv[kulje], :isv[nedělje], :isv[fasolje] |
+| Words ending in :isv[-telj] | 115+ | :isv[prijatelj], :isv[učitelj] |
+| Other words ending in :isv[-lj] | ~60 | Borrowed: :isv[aprilj], :isv[akvarelj]; Slavic: :isv[bolj], :isv[žalj], :isv[solj] |
+| Feminine nouns ending in :isv[-lja] | ~25 | :isv[fasolja], :isv[volja], :isv[sablja] |
+
+**NJ-type words:**
+| Category | Count | Examples |
+|---|---|---|
+| Words ending in :isv[-nj] (yer-softened stem) | ~65 | :isv[kamenj], :isv[konj], :isv[bojaznj] |
+| Words ending in :isv[-nje] (iotation, non-verbal) | 7 | :isv[srědnje], :isv[menje], :isv[dnešnje], :isv[inje], :isv[ponje], :isv[prědnje], :isv[sanje] |
+| Feminine nouns ending in :isv[-nja] | ~58 | :isv[bogynja], :isv[råbynja], :isv[kuznja], :isv[kavarnja], :isv[spaljnja] |
+| Adjectives ending in :isv[-nji] | ~35 | :isv[dnešnji], :isv[prědnji] |
+| Verbal nouns ending in :isv[-ńje] (yer-softened + suffix) | 600+ | :isv[pisańje], :isv[znańje], :isv[dělańje] |
+
+The verbal nouns in :isv[-ńje] constitute by far the largest open class. Any solution to the asymmetry problem must handle these ~600+ words correctly.
+
+### Consequences for Morphological Derivation
+The standard Cyrillic form :cyrl[знање] (:isv[znanje]) is morphologically opaque in a specific way: from it, a reader cannot reliably derive the genitive plural form. Two analyses compete:
+
+1. If :cyrl[знање] is read as a fused :cyrl[њ] + :cyrl[е] (as in :cyrl[коње] from :isv[konj]), the genitive plural would be :isv[znanj] (by analogy with :isv[konjev]).
+2. If :cyrl[знање] is read as :isv[znań] + :isv[-je] (soft :isv[ń] + suffix), the genitive plural would be :isv[znanij] (the :isv[-ij] ending, parallel to :isv[čutij] from :isv[čutje]).
+
+The correct form is :isv[znanij], because the underlying structure is :isv[znań-je]. But this is recoverable only if the reader knows the etymological structure — the standard Cyrillic spelling provides no signal.
+
+Compare: from :isv[čutje] (standard :cyrl[чутје]), the genitive plural :isv[čutij] is straightforwardly derivable because the :cyrl[ј] is visible. But :isv[znanje] → :isv[znanij] requires knowing that the :cyrl[њ] conceals a morpheme boundary.
+
+### The Karadžić Principle and Its Limits
+The Cyrillic letters :cyrl[љ] and :cyrl[њ] were introduced by Vuk Karadžić as part of his phonemic reform of Serbian orthography, guided by the principle "one sound, one letter" (_piši kao što govoriš_ — "write as you speak"). In Serbian, this principle is fully consistent: :cyrl[љ] and :cyrl[њ] always represent single fused palatal sounds.
+
+In Interslavic, however, this principle conflicts with the Slovenian model for suffix :isv[-je] (see the relevant section in Phonological Alternations): the Interslavic :isv[-nje] in verbal nouns represents :isv[ń] + :isv[j] — two morphophonemic units — not a single fused sound. Writing :cyrl[њ] for this sequence applies Karadžić's principle to a context where it was never intended, since in Serbian the verbal noun suffix actually does undergo full iotation (e.g., :isv[pisanje] → Serbian :cyrl[писање] with genuinely fused :cyrl[њ]).
+
+This tension between the phonemic script principle and morphological transparency is fundamental and has no perfect resolution. The current standardization of :cyrl[љ]/:cyrl[њ] for both iotation-derived and yer-derived softness prioritizes script consistency and practical readability, at the cost of morphological transparency in Cyrillic.
+
+### Solutions Considered
+The following solutions were analysed by the committee. Each addresses a different facet of the problem, and none is without drawbacks:
+
+**Solution 1: Require :latn[ĺ] and :latn[ń] in standard Latin orthography** (before :latn[j] in verbal nouns, etc.). This makes transliteration consistent (:latn[ĺj] → :cyrl[љ], :latn[nj] → :cyrl[њ]) and is etymologically the most correct approach. However, it adds a diacritic requirement to the standard orthography (complicating keyboard input and learning), and it renders existing published Latin texts non-standard.
+
+**Solution 2: Standardize :cyrl[љ] and :cyrl[њ] in Cyrillic** (absorbing the suffix :cyrl[ј] into the digraph letter). This makes transliteration consistent in the other direction and produces Cyrillic text that is intuitive for Russian (:cyrl[знанье] → :cyrl[знање]), Ukrainian (:cyrl[питання] → :cyrl[пытање]), and Bulgarian (:cyrl[питане] → :cyrl[пытање]) readers. Published Cyrillic texts may need re-transliteration, but Latin texts remain unchanged. The cost is reduced morphological transparency in Cyrillic and the genitive plural derivability problem.
+
+**Solution 3: Allow both :cyrl[лј]/:cyrl[нј] and :cyrl[љ]/:cyrl[њ] as equal variants.** This preserves the status quo and makes all existing texts correct. However, it produces a 1:2 asymmetry (one Latin form → two Cyrillic forms), complicates dictionary normalization, and leaves content creators unable to control which Cyrillic form the transliterator produces.
+
+**Solution 4: Change the suffixes to :isv[-lije]/:isv[-nije]** (closer to Russian -ние/-лие). This eliminates the ambiguity entirely but constitutes a radical change affecting 5000+ words, distances Interslavic from all Slavic languages except Russian and Bulgarian, and renders all existing content obsolete.
+
+**Solution 5: Alternative suffix forms** (:isv[-nie], :isv[-nıje], :cyrl[-ние], :cyrl[-ніе], :cyrl[-нѥ], etc.). These were explored and rejected as creating more problems than they solve — effectively the same objections as Solution 4 but worse.
+
+**Solution 6: Use a context-aware transliterator** with an exception list. This preserves the grammar and existing texts but requires maintaining a list of ~100+ exceptional words, fails on unknown words (particularly neologisms and proper names), and creates inconsistency between different transliterator implementations.
+
+**Solution 7: Replace the digraphs :latn[nj]/:latn[lj] with diacritic letters :latn[ň]/:latn[ľ] everywhere** (write :isv[koň], :isv[voľa], :isv[učeňje]). This achieves a 1:1 :latn[ň]↔:cyrl[њ] mapping and solves the transliteration problem, but it is a radical reform of the Latin orthography, is unfamiliar to South Slavic readers, and distances Interslavic from Serbian/Croatian orthographic conventions that inspired the digraph system.
+
+**Solution 8: Merge yer-derived and iotation-derived softness into a single system** (:isv[ĺ]/:isv[ń] everywhere, eliminating the digraphs :isv[lj]/:isv[nj]). This achieves the "one sound, one letter" principle but again constitutes a radical reform and is difficult for South Slavic speakers.
+
+**Solution with apostrophe:** Use an apostrophe as the Latin equivalent of the Cyrillic soft sign :cyrl[ь] — e.g., :isv[měd'] (:cyrl[мєдь]), :isv[učen'je] (:cyrl[ученьје]), :isv[kost'] (:cyrl[кость]). This creates a symmetrical 1:1 Latin↔Cyrillic mapping and is available on all keyboards. However, the apostrophe already has other functions in Slavic orthographies (marking elision in Italian-influenced traditions, marking hard sign in Ukrainian transliteration), and the approach was considered too radical a departure from existing practice.
+
+### The Adopted Decision
+The committee adopted **Solution 2**: standardize :cyrl[љ] and :cyrl[њ] in Cyrillic (rather than :cyrl[лј] and :cyrl[нј]) for all positions, including verbal nouns and other forms where the underlying structure is soft consonant + suffix :isv[-je]. The Latin orthography remains unchanged — writers continue to write :isv[pisanje], :isv[usilje], with the optional etymological forms :isv[pisańje], :isv[usiĺje] available in MS Plus.
+
+This decision:
+- makes Latin-to-Cyrillic transliteration fully deterministic (:latn[nj] → :cyrl[њ] in all positions);
+- produces Cyrillic text that is natural for East Slavic and Bulgarian readers;
+- preserves all existing Latin texts as standard;
+- follows the precedent of the Slovenian language, where the same morphological situation exists and the orthography does not mark the suffix boundary.
+
+The trade-offs are:
+- morphological transparency in Cyrillic is reduced (the suffix :isv[-je] is no longer visible in forms like :cyrl[писање]);
+- the genitive plural :isv[-ij] cannot be derived from the standard Cyrillic spelling alone;
+- the etymological distinction between iotation-derived and yer-derived softness is neutralized in Cyrillic.
+
+:::info[Exceptions]
+A small number of words contain the sequences :cyrl[нј] or :cyrl[лј] across a prefix or compound boundary, where the :cyrl[н]/​:cyrl[л] and :cyrl[ј] belong to different morphemes and must NOT be fused into :cyrl[њ]/​:cyrl[љ]. Examples: :cyrl[конјунктивны] (:isv[konjunktivny]), :cyrl[конјугација] (:isv[konjugacija]), :cyrl[панјевропејскы] (:isv[panjevropejsky]). In these cases the morpheme boundary prevents fusion, parallel to how it works in Serbian (cf. Serbian :cyrl[ињекција], :cyrl[коњугација]).
+:::
+
+### Practical Implications for Content Creators
+Writers working in the Latin script may continue to use the standard orthography (:isv[pisanje]) or the etymological orthography (:isv[pisańje]) without any change. When their text is transliterated to Cyrillic, the result will be :cyrl[писање] in both cases — the etymological distinction is not preserved in the Cyrillic transliteration.
+
+Writers working directly in Cyrillic should use :cyrl[њ] and :cyrl[љ] uniformly, including in verbal nouns. The sequences :cyrl[нј] and :cyrl[лј] should appear only at morpheme boundaries where the two letters belong to different morphemes (see exceptions above).
+
+### Keyboard and Input Considerations
+The letters :cyrl[љ] and :cyrl[њ] are available on all Serbian, Macedonian, and Montenegrin keyboard layouts. For writers using Russian, Ukrainian, or Bulgarian keyboard layouts (which lack :cyrl[љ] and :cyrl[њ]), the fallback forms :cyrl[ль] and :cyrl[нь] are acceptable (see the relevant section in the standard orthography specification).
+
+On the Latin side, the optional etymological letters :latn[ĺ]/​:latn[ľ] and :latn[ń] are available on Slovak keyboard layouts. Czech layouts provide :latn[ň] and :latn[ď]/​:latn[ť] but not :latn[ĺ]/​:latn[ľ]. The Interslavic keyboard layouts for both Latin and Cyrillic scripts include all necessary characters.
+
+---
+
 ## Etymological Alphabet Transliteration
 The etymological (scientific) alphabet contains additional letters beyond the standard set.
 These letters are defined and described in the relevant section; they appear only in scholarly or etymological-register texts.

@@ -13,7 +13,11 @@ const config: Config = {
   organizationName: 'medzuslovjansky',
   projectName: 'interslavic.online',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],

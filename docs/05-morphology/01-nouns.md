@@ -700,3 +700,11 @@ For Third Declension nouns with stem-final `-j-`, the genitive plural takes `-ij
 :::caution[Committee Review Needed]
 The exact recommended form for genitive plural of specific `-j-` stem nouns (e.g., :isv[burja], :isv[zemja], :isv[morje]) is not uniformly specified across existing reference materials. A normative list or decision rule SHOULD be adopted by the committee.
 :::
+
+:::info[Genitive Plural and the Cyrillic :cyrl[њ]/:cyrl[љ] Standardization]
+The standardization of :cyrl[њ] and :cyrl[љ] in Cyrillic (see the transliteration specification) has a direct consequence for genitive plural prediction. A reader encountering :cyrl[знање] in Cyrillic cannot determine from the spelling alone whether the genitive plural is :isv[znanj] (if :cyrl[њ] is a fused digraph) or :isv[znanij] (if :cyrl[њ] conceals the morpheme boundary :isv[znań] + :isv[-je]). The correct form is :isv[znanij], but this requires knowing that all verbal nouns in :isv[-nje] have the underlying structure :isv[-ńje].
+
+As a practical rule: **all neuter nouns ending in :isv[-anje], :isv[-enje], :isv[-onje] (verbal nouns from the :isv[-nje] suffix) form the genitive plural in :isv[-ij]**: :isv[pisanje] → :isv[pisanij], :isv[znanje] → :isv[znanij], :isv[učenje] → :isv[učenij]. This is predictable from the word class (verbal noun), even when the spelling does not make the morpheme boundary visible.
+
+By contrast, the small set of non-verbal nouns ending in :isv[-nje] (e.g., :isv[inje] "hoarfrost," :isv[sanje] "dream") and nouns ending in :isv[-lje] (e.g., :isv[polje] "field") have iotation-derived :isv[nj]/:isv[lj] and form the genitive plural differently: :isv[polj], :isv[sanj].
+:::

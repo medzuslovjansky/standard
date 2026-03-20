@@ -170,6 +170,19 @@ These letters do not appear in any living Slavic alphabet.
 In Unicode they can only be formed with a combining diacritic (acute accent or haček), which means display may vary across fonts.
 When using a haček form (:latn[ť], :latn[ď]), note that in many fonts the haček is rendered as an apostrophe.
 
+:::info[Unicode and Rendering Challenges]
+The acute-accented forms :latn[T́ t́] and :latn[D́ d́] are not precomposed Unicode characters — they must be represented as a base letter followed by a combining acute accent (U+0301). This has practical consequences:
+
+- **Font rendering:** Many fonts do not correctly position the combining accent above uppercase :latn[T] and :latn[D], resulting in the accent floating above the letter or colliding with ascenders. The problem is particularly severe on Windows systems with older font rendering engines.
+- **Text processing:** String operations (sorting, comparison, search) may behave inconsistently depending on whether Unicode normalization (NFC vs. NFD) is applied. A text editor that stores :latn[t́] as NFC may produce a different byte sequence than one that stores it as NFD, causing search mismatches.
+- **Copy-paste interoperability:** Copying text containing combining diacritics between applications may strip or reorder the combining characters, producing garbled output.
+
+The háček forms :latn[Ť ť] and :latn[Ď ď] are precomposed Unicode characters (U+0164/U+0165 and U+010E/U+010F respectively), available in Czech and Slovak character sets. They render reliably in virtually all fonts and do not suffer from the combining-diacritic problems. This practical advantage is one argument in favour of the háček forms over the acute forms, independent of the phonological function debate.
+
+For :latn[Ĺ ĺ]: this precomposed character (U+0139/U+013A) exists in Unicode and is used in the Slovak alphabet, where it marks vowel length rather than softness. It renders reliably. However, some community members prefer :latn[Ľ ľ] (U+013D/U+013E, also from Slovak), which marks softness in Slovak — a semantic match with the Interslavic usage. Both forms are accepted.
+:::
+
+
 The following comparison table shows etymological vs. standard forms:
 
 | Etymological | Standard | Gloss |

@@ -53,6 +53,20 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 | :isv[glupy] "stupid" | :isv[glupec] | "fool" |
 | :isv[izgnany] "banished" | :isv[izgnanec] | "exile" |
 
+**Suffix :isv[-ca]** derives agent nouns from verb stems, denoting the performer of an action. It is masculine and takes feminine :isv[-ka] or :isv[-ica]:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[raditi] "to advise" | :isv[radca] | "counsellor" |
+| :isv[ubijati] "to kill" | :isv[ubijca] | "killer" |
+
+**Suffix :isv[-ić]** derives patronymic and diminutive nouns, particularly in South Slavic tradition:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[knęz] "prince" | :isv[knęžić] | "young prince" |
+| :isv[šljahta] "nobility" | :isv[šljahtić] | "nobleman" |
+
 **Suffix :isv[-ak]** derives nouns denoting a person characterised by a quality or associated with the base noun:
 
 | Base | Derived form | Gloss |
@@ -71,8 +85,8 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 
 The soft consonant :isv[nj] hardens before :isv[-nik] and :isv[-ny].
 
-### Abstract Nouns: :isv[-ost], :isv[-ota], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina]
-**Suffix :isv[-ost]** is the primary suffix for deriving abstract quality nouns from adjectives. It is always feminine:
+### Abstract Nouns: :isv[-osť], :isv[-ota], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina], :isv[-oba]
+**Suffix :isv[-osť]** is the primary suffix for deriving abstract quality nouns from adjectives. It is always feminine:
 
 :::caution[Unverified Content]
 The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples :isv[slobodnost] and :isv[starost] are not attested in the source material. The claim that :isv[-ost] is "always feminine" is not stated in the source.
@@ -99,6 +113,18 @@ The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples
 | :isv[prijatelj] "friend" | :isv[prijateljstvo] | "friendship" |
 | :isv[muž] "man" | :isv[mužstvo] | "manhood" |
 | :isv[brat] "brother" | :isv[bratstvo] | "brotherhood" |
+
+**Suffix :isv[-oba]** derives abstract nouns from adjective or verb roots, expressing a state, condition, or feeling:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[žal] "grief" | :isv[žaloba] | "complaint" |
+
+:::info[Computational Morphology Note]
+The most productive derivational chain in Interslavic is **:isv[-ny] → :isv[-nosť]**: nearly every :isv[-ny] adjective has a corresponding :isv[-nosť] noun. In morphological decomposition, :isv[-nosť] always splits as :isv[-n-] + :isv[-osť], where :isv[-n-] is the adjectival suffix and :isv[-osť] is the abstract quality suffix. The combining form before consonant-initial suffixes is :isv[-ost-] (e.g., :isv[malostlivy] "petty" from :isv[malosť]).
+
+A linking vowel :isv[-e-] appears before :isv[-stvo] in certain inherited formations: :isv[tvorčestvo] "creation", :isv[jestestvo] "essence".
+:::
 
 **Suffix :isv[-nje] (verbal noun)** is the productive suffix for action nominalisation (gerund). It is formed from the verb and is always neuter. When the past passive participle stem ends in :isv[-t-], the variant :isv[-tje] applies:
 
@@ -151,12 +177,41 @@ Suffixes beginning with :isv[-o-] change to :isv[-e-] after a soft consonant:
 
 - :isv[byk] + :isv[-ok] → :isv[byček]
 
+Compound (double) diminutives are formed by stacking a second diminutive suffix onto an already diminished form:
+
+| Pattern | Example | Gloss |
+|---------|---------|-------|
+| :isv[-ečko] (neuter) | :isv[město] → :isv[městečko] | "little town" |
+| :isv[-uška] (feminine) | :isv[črny] → :isv[črnuška] | "nigella (black plant)" |
+| :isv[-ęčka] (feminine) | :isv[goręča] → :isv[goręčka] | "fever" |
+
 ### Augmentatives: :isv[-išče], :isv[-ina]
 :::caution[Unverified Content]
 The source does not discuss augmentatives at all. The claim that :isv[-išče] carries augmentative force and that :isv[-ina] forms augmentatives is not attested in the source material.
 :::
 
 **Suffix :isv[-išče]** may carry augmentative force alongside its place-noun function; context and base determine the primary reading. The suffix :isv[-ina] is used to form augmentatives and large-instance nouns, as well as abstract nouns of quality or extent.
+
+**Suffix :isv[-ina]** also derives nouns denoting the meat of an animal, from the :isv[-ęt-] stem (young animal) form:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[jagnę] "lamb" (stem :isv[jagnęt-]) | :isv[jagnętina] | "lamb meat" |
+| :isv[kurę] "chicken" (stem :isv[kuręt-]) | :isv[kurętina] | "chicken meat" |
+| :isv[telę] "calf" (stem :isv[telęt-]) | :isv[telętina] | "veal" |
+
+**Suffix :isv[-aj]** derives masculine nouns denoting a natural yield, phenomenon, or botanical term:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[roditi] "to bear" | :isv[urođaj] | "harvest" |
+| :isv[mlěčny] "milky" | :isv[mlěčaj] | "spurge (plant)" |
+
+**Suffix :isv[-ščina]** derives feminine nouns denoting a territory, linguistic variety, or cultural-historical region:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[slovjańsky] "Slavic" | :isv[Slovjańščina] | "Slavic lands; Slavic (language)" |
 
 **Suffix :isv[-je]** derives place nouns from prepositional phrases or locative descriptions, often with a prefixal element:
 
@@ -301,7 +356,7 @@ The suffix :isv[-ěny] derives adjectives expressing the material from which som
 ### Adjectives Derived from Verbs
 Verbal conjugation produces four adjectival forms in the shape of participles (see  for full paradigms). In addition:
 
-**Suffix :isv[-livy]** derives adjectives expressing tendency or habitual behaviour from verbs:
+**Suffix :isv[-livy]** derives adjectives expressing tendency or habitual behaviour from verbs, and occasionally from noun bases expressing a quality:
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
@@ -319,13 +374,16 @@ The example :isv[žalostlivy] is not in the source. Additionally, the derived fo
 | :isv[nesti] "to carry" | :isv[nesomy] | "portable" |
 | :isv[razuměti] "to understand" | :isv[razumlivy] | "understandable" |
 
-**Suffix :isv[-šnji]** adjectivises adverbs of time:
+**Suffix :isv[-šnji]** adjectivises adverbs of time and place. The vowel before :isv[-šnji] varies: :isv[-ašnji] for general temporal/locative, :isv[-išnji] for temporal "tomorrow/New Year's", :isv[-ošnji] for locative "from there":
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
 | :isv[včera] "yesterday" | :isv[včerašnji] | "yesterday's" |
 | :isv[dnes] "today" | :isv[dnešnji] | "today's" |
 | :isv[nyně] "now" | :isv[nyněšnji] | "current, present" |
+| :isv[jutro] "tomorrow" | :isv[jutrišnji] | "tomorrow's" |
+| :isv[tam] "there" | :isv[tamošnji] | "local (to that place)" |
+| :isv[novogodišnji] | :isv[novogodišnji] | "New Year's" |
 
 ---
 
@@ -532,6 +590,10 @@ The composite suffix :isv[-izacija] (= :isv[-iz-] + :isv[-acija]) always implies
 | :isv[socializm] | :isv[socialist] | "socialist" |
 
 The composite suffix :isv[-ističny] (= :isv[-ist] + :isv[-ičny]) always implies a corresponding :isv[-ist] noun: :isv[optimist] → :isv[optimističny].
+
+:::info[Computational Morphology Note]
+Composite suffixes follow a predictable rule: if a derivational chain :isv[X-ist] exists, then :isv[X-ist-ičny] always exists; if :isv[X-iz-ovati] exists, then :isv[X-iz-acija] always exists. These regularities enable automated decomposition of suffix chains into their component morphemes.
+:::
 
 **Suffix :isv[-or]** (masculine) derives agent nouns, primarily in professional and technical contexts:
 

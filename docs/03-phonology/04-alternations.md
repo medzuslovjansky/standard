@@ -267,6 +267,89 @@ This pattern applies in:
 
 **Practical consequence:** The suffixes `-je`, `-ji`, and the instrumental ending `-jų` trigger iotation only of velars (:isv[k] :isv[g] :isv[h]) and :isv[c]; they do NOT trigger iotation of dentals (:isv[t] :isv[d] :isv[s] :isv[z]) or other consonants in standard Interslavic.
 
+### The Slovenian Model: Why Interslavic Has :isv[-nje] and Not :isv[-ńe]
+The treatment of the suffix :isv[-je] after already-soft consonants represents a fundamental design choice. In Proto-Slavic, when the palatalizing suffix \*-ьje was attached to a stem ending in a soft consonant, two outcomes were possible in the daughter languages:
+
+1. **The Serbian/Croatian model (full iotation):** The yer drops and the suffix \*j fully merges with the preceding consonant, producing a further-iotated output. Result: \*pitьje → _piće_, \*zdravьje → _zdravlje_. The suffix :isv[-je] is absorbed and invisible in the surface form.
+
+2. **The Slovenian model (blocked iotation):** The yer "blocks" full iotation — the soft consonant remains soft but does not undergo further change, and the suffix :isv[-je] remains visible. Result: \*pitьje → _pitje_, \*zdravьje → _zdravje_.
+
+**Interslavic chose the Slovenian model.** This choice preserves the morphological transparency of the suffix :isv[-je], which is one of the most productive and frequent suffixes in the language (used for verbal nouns, place names, possessive adjectives, and instrumentals of i-stem nouns). The suffix remains identifiable in the surface form: :isv[pisanje] (writing), :isv[zdravje] (health), :isv[usilje] (effort), :isv[morje] (sea).
+
+This design decision has far-reaching consequences:
+- It explains why standard Interslavic writes :isv[pisanje] rather than :isv[pisańe] — the :isv[nj] in :isv[-nje] is a sequence of the stem-final soft :isv[n] and the suffix-initial :isv[j], not a fused digraph.
+- It creates the Latin–Cyrillic asymmetry problem: in Latin script, :isv[pisanje] can be read as a transparent morphological structure (stem :isv[pisan-] + suffix :isv[-je]), but in Cyrillic, the standard :cyrl[писање] absorbs the :isv[j] into the digraph :cyrl[њ], obscuring the suffix boundary.
+- It makes the genitive plural recoverable in principle: if one knows the suffix is :isv[-ńje] (etymologically :isv[-ń] + :isv[-je]), one can derive the genitive plural :isv[-ij] (e.g., :isv[pisanij]). When the :isv[-je] suffix is absorbed into a digraph, this derivation becomes opaque.
+
+The choice between these models was not automatic — both have Slavic precedent, and the Serbian model is arguably more phonetically natural for South Slavic speakers. But the Slovenian model was preferred because it preserves the suffix as a recognizable morphological unit, which serves Interslavic's principle of maximal transparency.
+
+:::info[Cross-Slavic Comparison of the -ьje Reflex]
+| Language | Reflex of \*pisańьje | Model |
+|---|---|---|
+| Russian | _писание_ (-ije) | yer → full vowel |
+| Ukrainian | _писання_ (-ńńa) | gemination |
+| Belarusian | _пісанне_ (-ńńe) | gemination |
+| Polish | _pisanie_ (-ńe) | yer lost, n+j fused |
+| Czech | _psaní_ (-ńí) | yer lost, n+j fused |
+| Slovak | _písanie_ (-ńie) | partial vowel insertion |
+| Slovenian | _pisanje_ (-nje) | yer blocks iotation |
+| Serbian/Croatian | _pisanje_ (-nje) | in writing; but the :cyrl[њ] represents full fusion |
+| Macedonian | _пишување_ (-nje variant) | yer lost |
+| Bulgarian | _писане_ (-ne) | yer lost |
+| **Interslavic** | :isv[pisanje] (-nje) | **Slovenian model** |
+:::
+
+### The Four Etymological Categories of Consonant–Suffix Interaction
+
+The interaction of consonants with softening and iotation can be understood as a systematic four-category framework. Every consonant in Interslavic falls into one of four configurations when it precedes a vowel or suffix:
+
+1. **Base (#)** — the plain hard consonant
+2. **Softened (#ь)** — the consonant adjacent to a historical front yer (yer-derived softness)
+3. **Iotated (#j)** — the consonant fused with the palatal glide \*j (iotation-derived softness)
+4. **Softened + iotated (#ьj)** — a yer-softened consonant followed by a palatalizing suffix like :isv[-je]
+
+The following table shows the etymological and standard reflexes for each category across all consonant types:
+
+**Etymological orthography (MS Plus):**
+
+| | :isv[l] | :isv[n] | :isv[r] | :isv[t] | :isv[d] | :isv[s] | :isv[z] | :isv[p] | :isv[k] | :isv[c] |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **#** (base) | :isv[l] | :isv[n] | :isv[r] | :isv[t] | :isv[d] | :isv[s] | :isv[z] | :isv[p] | :isv[k] | :isv[c] |
+| **#ь** (softened) | :isv[ĺ]/​:isv[lj] | :isv[ń]/​:isv[nj] | :isv[ŕ] | :isv[ť] | :isv[ď] | :isv[ś] | :isv[ź] | :isv[p] | :isv[č] | :isv[č] |
+| **#j** (iotated) | :isv[lj] | :isv[nj] | :isv[rj] | :isv[ć] | :isv[đ] | :isv[š] | :isv[ž] | :isv[pj] | :isv[č] | :isv[č] |
+| **#ьj** (soft + j) | :isv[ĺj] | :isv[ńj] | :isv[ŕj] | :isv[ťj] | :isv[ďj] | :isv[śj] | :isv[źj] | :isv[pj] | :isv[čj] | :isv[čj] |
+
+**Standard orthography (Latin / Cyrillic):**
+
+| | :isv[l] :cyrl[л] | :isv[n] :cyrl[н] | :isv[r] :cyrl[р] | :isv[t] :cyrl[т] | :isv[d] :cyrl[д] | :isv[s] :cyrl[с] | :isv[z] :cyrl[з] | :isv[p] :cyrl[п] | :isv[k] :cyrl[к] | :isv[c] :cyrl[ц] |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **#** | :isv[l] :cyrl[л] | :isv[n] :cyrl[н] | :isv[r] :cyrl[р] | :isv[t] :cyrl[т] | :isv[d] :cyrl[д] | :isv[s] :cyrl[с] | :isv[z] :cyrl[з] | :isv[p] :cyrl[п] | :isv[k] :cyrl[к] | :isv[c] :cyrl[ц] |
+| **#ь** | :isv[lj] :cyrl[љ] | :isv[nj] :cyrl[њ] | :isv[r] :cyrl[р] | :isv[t] :cyrl[т] | :isv[d] :cyrl[д] | :isv[s] :cyrl[с] | :isv[z] :cyrl[з] | :isv[p] :cyrl[п] | :isv[č] :cyrl[ч] | :isv[č] :cyrl[ч] |
+| **#j** | :isv[lj] :cyrl[љ] | :isv[nj] :cyrl[њ] | :isv[rj] :cyrl[рј] | :isv[č] :cyrl[ч] | :isv[dž] :cyrl[дж] | :isv[š] :cyrl[ш] | :isv[ž] :cyrl[ж] | :isv[pj] :cyrl[пј] | :isv[č] :cyrl[ч] | :isv[č] :cyrl[ч] |
+| **#ьj** | :isv[lj] :cyrl[љ] | :isv[nj] :cyrl[њ] | :isv[rj] :cyrl[рј] | :isv[tj] :cyrl[тј] | :isv[dj] :cyrl[дј] | :isv[sj] :cyrl[сј] | :isv[zj] :cyrl[зј] | :isv[pj] :cyrl[пј] | :isv[čj] :cyrl[чј] | :isv[čj] :cyrl[чј] |
+
+Several observations follow from this table:
+
+1. **For :isv[l] and :isv[n], softening (#ь) and iotation (#j) produce identical standard forms** — both yield :isv[lj] and :isv[nj]. This is the source of the iotation/yer-softening conflation problem discussed in the relevant sections. Only the etymological register distinguishes them: :isv[ĺ]/​:isv[ń] (yer-derived) vs. :isv[lj]/​:isv[nj] (iotation-derived).
+
+2. **The fourth category (#ьj) is the source of the -nje/-lje problem.** When a yer-softened :isv[n] or :isv[l] is followed by the suffix :isv[-je], the etymological form is :isv[ńj]/​:isv[ĺj] — which in standard orthography collapses to :isv[nj]/​:isv[lj], becoming indistinguishable from plain iotation. In Cyrillic, both map to :cyrl[њ]/​:cyrl[љ].
+
+3. **The three-way :isv[l]-distinction.** The interaction of the base :isv[l] with these categories produces three distinct words that can appear near-identical in standard orthography:
+   - :isv[pȯlny] "full" (from PS \*pъlnъ — base :isv[l], no softening)
+   - :isv[poĺny] "related to _pol_" (from the root :isv[pol-] + yer-softened :isv[ĺ] + suffix :isv[-ny])
+   - :isv[poljny] "related to _polje_" (from :isv[polj-] + suffix :isv[-ny], where :isv[lj] is iotation-derived)
+
+   In standard orthography all three write the :isv[l] differently: :isv[polny], :isv[polny], :isv[poljny] — but the first two are homographs. Only the etymological register distinguishes all three.
+
+:::warning[Unresolved: Standard Orthographic Transparency of the #ьj Category]
+The fourth category (#ьj — yer-softened consonant + palatalizing suffix) is systematically indistinguishable from the third category (#j — plain iotation) in the standard orthography for :isv[l] and :isv[n]. This means that the standard spelling of verbal nouns like :isv[pisanje] does not reveal whether the underlying form is :isv[pisańje] (yer-softened :isv[ń] + suffix :isv[-je]) or a hypothetical :isv[pisanje] (plain :isv[n] iotated by suffix). The distinction matters for:
+- **Genitive plural formation:** :isv[pisańje] → gen. pl. :isv[pisanij] (the :isv[-ij] ending is recoverable from the :isv[ń] + :isv[j] analysis), but the standard spelling :isv[pisanje] suggests only :isv[pisanj].
+- **Cross-Slavic reflexes:** Russian _писание_ (-ije), Polish _pisanie_ (-ńe), Czech _psaní_ (-ńí) all reflect the :isv[ń] + :isv[j] structure, not a fused :isv[nj].
+- **Karadžić's principle ("one sound, one letter")** suggests that the fused digraphs :cyrl[љ] and :cyrl[њ] should represent single sounds, not sequences of soft consonant + :isv[j]. Yet in verbal nouns, :cyrl[њ] represents exactly such a sequence, violating the phonemic principle.
+
+The decision to standardize :cyrl[љ] and :cyrl[њ] (rather than :cyrl[лј] and :cyrl[нј]) in Cyrillic for these forms prioritizes practical readability and consistency of transliteration, but comes at the cost of morphological transparency.
+:::
+
 ---
 
 ## The o/e Alternation After Soft Consonants
