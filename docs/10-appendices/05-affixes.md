@@ -22,11 +22,13 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[-ka] (person) | female equivalent (general) | f. | :isv[prijatelj] → :isv[prijateljka] "girlfriend"; :isv[gradžanin] → :isv[gradžanka] "female citizen" |
 | :isv[-an(in)] | inhabitant (alternative to -ec) | m. | (cf. :isv[Slovjanin], :isv[Moskvjanin]) |
 | :isv[-e] (-et- stem) | young animal | n. | :isv[kot] → :isv[kote] "kitten"; :isv[jelenj] → :isv[jelene] "fawn" |
+| :isv[-ak] | person characterised by quality/association | m. | :isv[ryba] → :isv[rybak] "fisherman"; :isv[bedny] → :isv[bednjak] "poor person" |
 
 ### Adjective → Noun
 | Suffix | Semantic class | Output gender | Example |
 |--------|----------------|--------------|---------|
 | :isv[-ost] | abstract quality from adjective | f. | :isv[dobry] → :isv[dobrost] "goodness" |
+| :isv[-ota] | abstract quality (less productive than :isv[-ost]) | f. | :isv[krasny] → :isv[krasota] "beauty"; :isv[prosty] → :isv[prostota] "simplicity" |
 | :isv[-ec] | person embodying quality | m. | :isv[izgnany] → :isv[izgnanec] "exile" |
 | :isv[-išče] | place with quality | n. | :isv[mokry] → :isv[mokrišče] "wetland" |
 
@@ -37,8 +39,26 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[-ač] | professional/trade | m. | :isv[kovati] → :isv[kovač] "blacksmith"; :isv[krojiti] → :isv[krojač] "tailor" |
 | :isv[-ar] | professional/trade | m. | :isv[pekti] → :isv[pekar] "baker" |
 | :isv[-išče] | place of activity (often from L-participle) | n. | :isv[igrati] → :isv[igrališče] "playground"; :isv[žiti] → :isv[žilišče] "dwelling" |
+| :isv[-ilo] | instrument, tool | n. | :isv[běliti] → :isv[bělilo] "bleach"; :isv[kaditi] → :isv[kadilo] "censer" |
 | :isv[-nje] | verbal noun (gerund), from past pass. part. | n. | :isv[dělati] → :isv[dělanje] "doing"; :isv[žiti] → :isv[žitje] "life" |
 | :isv[-tje] | verbal noun (alternative after -t stem) | n. | :isv[piti] → :isv[pitje] "drinking" |
+
+### International / Borrowed Noun-Forming Suffixes
+These suffixes entered Slavic from Latin and Greek as atomic units and are not further decomposable into native morphemes.
+
+| Suffix | Semantic class | Output gender | Example |
+|--------|----------------|--------------|---------|
+| :isv[-ija] | abstract quality, state, place, domain | f. | :isv[filosofija] "philosophy"; :isv[demokratija] "democracy" |
+| :isv[-acija] | action, result, process (from Latin -ātiō) | f. | :isv[informacija] "information"; :isv[organizacija] "organisation" |
+| :isv[-izm] | doctrine, system, movement | m. | :isv[realizm] "realism"; :isv[organizm] "organism" |
+| :isv[-ist] | adherent, practitioner (fem. :isv[-istka]) | m. | :isv[pianist] "pianist"; :isv[socialist] "socialist" |
+| :isv[-or] | agent (professional/technical) | m. | :isv[direktor] "director"; :isv[profesor] "professor" |
+| :isv[-ant] / :isv[-ent] | agent (from Latin present participle) | m. | :isv[konsultant] "consultant"; :isv[prezident] "president" |
+| :isv[-ura] | process, result, institution | f. | :isv[kultura] "culture"; :isv[literatura] "literature" |
+| :isv[-ika] | discipline, field of study | f. | :isv[matematika] "mathematics"; :isv[fizika] "physics" |
+| :isv[-oid] | resembling (from Greek -οειδής) | m. | :isv[asteroid] "asteroid"; :isv[humanoid] "humanoid" |
+
+Composite borrowed suffixes (documented as derivation chains, not atomic units): :isv[-izacija] = :isv[-iz-] + :isv[-acija]; :isv[-ističny] = :isv[-ist] + :isv[-ičny].
 
 ---
 
@@ -52,6 +72,9 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 | :isv[-ěny] | made of (material) | :isv[drěvo] → :isv[drěvěny] "wooden"; :isv[steklo] → :isv[steklěny] "of glass" |
 | :isv[-ovy] / :isv[-evy] | having characteristics of; colour/type | :isv[pomaranča] → :isv[pomarančevy] "orange (colour)" |
 | :isv[-ovity] / :isv[-evity] | resembling, -like | :isv[malpa] → :isv[malpovity] "ape-like" |
+| :isv[-isty] | full of, abounding in | :isv[les] → :isv[lesisty] "forested"; :isv[kamenj] → :isv[kamenisty] "rocky" |
+| :isv[-ičny] | relating to (from Latin -icus; atomic in Slavic) | :isv[historija] → :isv[historičny] "historical"; :isv[klasičny] "classical" |
+| :isv[-aľny] | relational (from Latin -ālis; atomic in Slavic) | :isv[nacija] → :isv[nacionaľny] "national"; :isv[oficiaľny] "official" |
 
 ### Adjective → Adjective
 | Suffix/Prefix | Semantic class | Example |
@@ -114,8 +137,22 @@ Consonant mutations before selected suffixes: **k/c→č**, **g→ž**, **h→š
 ### Adjective → Adverb
 | Pattern | Example |
 |---------|---------|
-| Replace adj. ending with :isv[-o] | :isv[dobry] → :isv[dobro] "well"; :isv[svěži] → :isv[svěže] "freshly" |
+| Replace adj. ending with :isv[-o] / :isv[-e] (soft stem) | :isv[dobry] → :isv[dobro] "well"; :isv[svěži] → :isv[svěže] "freshly" |
 | Replace comparative **-(ěj)ši** with **-(ě)je** | :isv[slabějši] → :isv[slaběje] "more weakly" |
+
+### Indefinite Particle-Suffix
+| Suffix | Semantic class | Example |
+|--------|----------------|---------|
+| :isv[-koli] | free-choice indefinite ("any-, -ever") | :isv[kdě] → :isv[kdekoli] "anywhere"; :isv[kogda] → :isv[kogdakoli] "whenever" |
+
+### Frozen Adverb Endings (not productive)
+The following endings appear only in inherited adverbs and are not available for new derivations:
+
+| Ending | Origin | Examples |
+|--------|--------|----------|
+| :isv[-a] | frozen genitive | :isv[včera] "yesterday", :isv[snova] "again" |
+| :isv[-om] | frozen instrumental | :isv[pěškom] "on foot", :isv[krugom] "around" |
+| :isv[-u] | frozen locative | :isv[vnizu] "below", :isv[naverhu] "above" |
 
 ---
 
@@ -133,13 +170,18 @@ Borrowings from English may use hyphen: :isv[rok-muzika] "rock music", :isv[veb-
 
 ---
 
-## Negative and Intensifying Prefixes (Non-verbal)
+## Non-Verbal Prefixes
 | Prefix | Function | Example |
 |--------|----------|---------|
 | :isv[ne-] | negation (adj., nouns) | :isv[neprijetny] "unpleasant", :isv[nedobry] "not good" |
 | :isv[prě-] | intensification, excess | :isv[prěumorjeny] "exhausted", :isv[prěsladky] "too sweet" |
 | :isv[naj-] | superlative | :isv[najdobry] "best", :isv[najnověje] "most recently" |
 | :isv[bez-] | absence (with :isv[-ny] or :isv[-nik]) | :isv[bezdomny] "homeless", :isv[bezbožnik] "godless person" |
+| :isv[među-] | inter-, between | :isv[medžunarodny] "international" |
+| :isv[pra-] | proto-, ancient, primordial | :isv[praotec] "forefather", :isv[prajęzyk] "proto-language" |
+| :isv[ně-] | indefinite ("some-"); see also Pronouns | :isv[někto] "someone", :isv[někdě] "somewhere" |
+| :isv[anti-] | opposition, against | :isv[antivojenny] "anti-war" |
+| :isv[de-] | reversal, removal | :isv[demilitarizacija] "demilitarisation" |
 | :isv[malo-] | little, small (compounding) | :isv[maloznačny] "insignificant" |
 | :isv[mnogo-] | much, many (compounding) | :isv[mnogokratno] "many times" |
 | :isv[samo-] | self- (compounding) | :isv[samokritika] "self-criticism" |

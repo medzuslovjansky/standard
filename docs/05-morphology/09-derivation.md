@@ -53,6 +53,14 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 | :isv[glupy] "stupid" | :isv[glupec] | "fool" |
 | :isv[izgnany] "banished" | :isv[izgnanec] | "exile" |
 
+**Suffix :isv[-ak]** derives nouns denoting a person characterised by a quality or associated with the base noun:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[ryba] "fish" | :isv[rybak] | "fisherman" |
+| :isv[bedny] "poor" | :isv[bednjak] | "poor person" |
+| :isv[prostý] "simple" | :isv[prosťak] | "simpleton" |
+
 **Phonological conditioning:** When the noun stem ends in :isv[k], :isv[g], or :isv[h], the following alternations apply before :isv[-nik], :isv[-ka], :isv[-ko], :isv[-ny], :isv[-ok], and :isv[-sky]:
 
 | Stem-final consonant | Change | Example |
@@ -63,7 +71,7 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 
 The soft consonant :isv[nj] hardens before :isv[-nik] and :isv[-ny].
 
-### Abstract Nouns: :isv[-ost], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina]
+### Abstract Nouns: :isv[-ost], :isv[-ota], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina]
 **Suffix :isv[-ost]** is the primary suffix for deriving abstract quality nouns from adjectives. It is always feminine:
 
 :::caution[Unverified Content]
@@ -75,6 +83,14 @@ The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples
 | :isv[dobry] "good" | :isv[dobrost] | "goodness" |
 | :isv[slobodny] "free" | :isv[slobodnost] | "freedom" |
 | :isv[stary] "old" | :isv[starost] | "old age" |
+
+**Suffix :isv[-ota]** is a less productive alternative to :isv[-ost] for deriving abstract quality nouns from adjectives. It is always feminine:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[krasny] "beautiful" | :isv[krasota] | "beauty" |
+| :isv[prosty] "simple" | :isv[prostota] | "simplicity" |
+| :isv[mokry] "wet" | :isv[mokrota] | "dampness" |
 
 **Suffix :isv[-stvo]** derives abstract nouns from nouns denoting persons, expressing a quality, condition, or collective associated with that person type:
 
@@ -91,6 +107,15 @@ The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples
 | :isv[dělati] "to do" | :isv[dělanje] | "doing, making" |
 | :isv[žiti] "to live" | :isv[žitje] | "life" |
 | :isv[pisati] "to write" | :isv[pisanje] | "writing" |
+
+### Instrument Nouns: :isv[-ilo]
+**Suffix :isv[-ilo]** derives neuter nouns denoting an instrument or tool used for the action expressed by the verb:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[běliti] "to whiten" | :isv[bělilo] | "bleach, whitener" |
+| :isv[kaditi] "to burn incense" | :isv[kadilo] | "censer" |
+| :isv[světiti] "to shine, illuminate" | :isv[světilo] | "luminary, light source" |
 
 ### Collective and Group Nouns: :isv[-stvo], :isv[-išče]
 :::caution[Unverified Content]
@@ -248,6 +273,7 @@ A systematic review of all derivational contexts involving :isv[s] and :isv[z] b
 | :isv[-ěny] | "made of (material)" | :isv[drěvěny] "wooden"; :isv[steklěny] "of glass" |
 | :isv[-ovy] | "having characteristics of" | :isv[pomarančevy] "orange (colour)" |
 | :isv[-ovity] | "resembling, -ish" | :isv[malpovity] "ape-like"; :isv[zelenovity] "greenish" |
+| :isv[-isty] | "full of, abounding in" | :isv[lesisty] "forested"; :isv[kamenisty] "rocky" |
 
 :::caution[Unverified Content]
 This entire subsection on possessive adjectives has no basis in the source material. The source does not discuss possessive adjective suffixes :isv[-ov], :isv[-in], or the gender-based selection rules described here.
@@ -262,18 +288,15 @@ Possessive adjectives are derived from noun bases. The suffix selection follows 
 | Feminine | :isv[-in] | :isv[mati] "mother" → :isv[matin] "mother's" |
 | Animate (archaic/etymological) | :isv[-ji] | — (see also ) |
 
-### Material Adjectives: :isv[-any], :isv[-ěny]
-:::caution[Unverified Content]
-The section heading includes suffix :isv[-any] but it is not discussed in the text or source. The example :isv[kameny] is not in the source and does not use the :isv[-ěny] suffix pattern described here.
-:::
-
-The suffix :isv[-ěny] derives adjectives expressing the material from which something is made:
+### Material Adjectives: :isv[-ěny], :isv[-any]
+The suffix :isv[-ěny] derives adjectives expressing the material from which something is made. After hard consonants, the variant :isv[-any] may appear:
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
 | :isv[drěvo] "wood" | :isv[drěvěny] | "wooden" |
 | :isv[steklo] "glass" | :isv[steklěny] | "made of glass" |
-| :isv[kamenj] "stone" | :isv[kameny] | "of stone" |
+| :isv[kost] "bone" | :isv[kostany] | "made of bone" |
+| :isv[glina] "clay" | :isv[glinany] | "made of clay" |
 
 ### Adjectives Derived from Verbs
 Verbal conjugation produces four adjectival forms in the shape of participles (see  for full paradigms). In addition:
@@ -471,6 +494,138 @@ Agent nominalization from verb bases is treated fully in the relevant section Th
 
 ---
 
+## International and Borrowed Derivational Suffixes
+Interslavic, like all modern Slavic languages, has adopted a set of derivational suffixes from Latin and Greek via international scientific and cultural vocabulary. These suffixes are **atomic** in Slavic — they entered the language as whole units and are not decomposable into native morphemes (cf. Русская грамматика 1980, Zemskaja).
+
+### Noun-Forming International Suffixes
+
+**Suffix :isv[-ija]** (feminine) is the most frequent borrowed suffix, deriving nouns denoting abstract qualities, states, places, and domains:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Greek *philosophía*) | :isv[filosofija] | "philosophy" |
+| (Greek *dēmokratía*) | :isv[demokratija] | "democracy" |
+| (place name) | :isv[Germanija] | "Germany" |
+
+**Suffix :isv[-acija]** (feminine) derives nouns of action, result, or process. It traces to Latin *-ātiō* and functions as an atomic unit in Slavic — several :isv[-acija] words lack any corresponding verb (e.g., :isv[nacija], :isv[ovacija]):
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[organizovati] "to organise" | :isv[organizacija] | "organisation" |
+| :isv[informovati] "to inform" | :isv[informacija] | "information" |
+| (no verb) | :isv[nacija] | "nation" |
+
+The composite suffix :isv[-izacija] (= :isv[-iz-] + :isv[-acija]) always implies a corresponding :isv[-izovati] verb and should be treated as a derivation chain, not an atomic suffix: :isv[modernizovati] → :isv[modernizacija].
+
+**Suffix :isv[-izm]** (masculine) derives nouns denoting doctrines, systems, movements, and conditions:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Greek *realismos*) | :isv[realizm] | "realism" |
+| (Latin *organismus*) | :isv[organizm] | "organism" |
+
+**Suffix :isv[-ist]** (masculine; feminine :isv[-istka]) derives nouns denoting adherents or practitioners:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[piano] | :isv[pianist] | "pianist" |
+| :isv[socializm] | :isv[socialist] | "socialist" |
+
+The composite suffix :isv[-ističny] (= :isv[-ist] + :isv[-ičny]) always implies a corresponding :isv[-ist] noun: :isv[optimist] → :isv[optimističny].
+
+**Suffix :isv[-or]** (masculine) derives agent nouns, primarily in professional and technical contexts:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Latin *director*) | :isv[direktor] | "director" |
+| (Latin *professor*) | :isv[profesor] | "professor" |
+
+**Suffixes :isv[-ant] / :isv[-ent]** (masculine) derive agent nouns from Latin present participle stems:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Latin *consultant-*) | :isv[konsultant] | "consultant" |
+| (Latin *praesid-ent-*) | :isv[prezident] | "president" |
+| (Latin *stud-ent-*) | :isv[student] | "student" |
+
+**Suffix :isv[-ura]** (feminine) derives nouns denoting processes, results, and institutions:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Latin *cultūra*) | :isv[kultura] | "culture" |
+| (Latin *litterātūra*) | :isv[literatura] | "literature" |
+
+**Suffix :isv[-ika]** (feminine) derives nouns denoting disciplines and fields of study. It is semi-atomic — some :isv[-ika] words pair with :isv[-ik] agent nouns (:isv[matematik] / :isv[matematika]), but others do not:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Greek *mathēmatikḗ*) | :isv[matematika] | "mathematics" |
+| (Greek *physikḗ*) | :isv[fizika] | "physics" |
+
+**Suffix :isv[-oid]** (masculine) derives nouns denoting resemblance, from Greek *-oeidḗs*:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| (Greek *asteroeidḗs*) | :isv[asteroid] | "asteroid" |
+| (Latin *hūmānus*) | :isv[humanoid] | "humanoid" |
+
+### Adjective-Forming International Suffixes
+
+**Suffix :isv[-ičny]** derives relational adjectives. It traces to Latin *-icus* + Slavic *-ьnъ* but is atomic in Slavic — many :isv[-ičny] adjectives lack a corresponding :isv[-ik] noun (e.g., no \*:isv[specifik], \*:isv[dramatik]):
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[historija] "history" | :isv[historičny] | "historical" |
+| :isv[logika] "logic" | :isv[logičny] | "logical" |
+| :isv[praktika] "practice" | :isv[praktičny] | "practical" |
+
+**Suffix :isv[-aľny]** derives relational adjectives. It traces to Latin *-ālis* + Slavic *-ьnъ* but is atomic — no intermediate :isv[-aľ] noun exists for the overwhelming majority of words:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[nacija] "nation" | :isv[nacionaľny] | "national" |
+| :isv[oficija] "office" | :isv[oficiaľny] | "official" |
+| :isv[muzika] "music" | :isv[muzikaľny] | "musical" |
+
+### Non-Verbal Prefixes: :isv[među-], :isv[pra-], :isv[anti-], :isv[de-], :isv[ně-]
+In addition to the verbal prefixes and the negating/intensifying prefixes :isv[ne-], :isv[prě-], :isv[naj-], and :isv[bez-], the following prefixes attach primarily to nouns and adjectives:
+
+**Prefix :isv[među-]** ("inter-, between") derives adjectives and nouns expressing a relationship between two or more entities:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[narod] "nation" | :isv[medžunarodny] | "international" |
+| :isv[planetnÿ] "planetary" | :isv[medžuplanetny] | "interplanetary" |
+
+**Prefix :isv[pra-]** ("proto-, ancient, primordial") derives nouns denoting origins and ancestry:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[otec] "father" | :isv[praotec] | "forefather" |
+| :isv[język] "language" | :isv[prajęzyk] | "proto-language" |
+
+**Prefix :isv[anti-]** (international, "against, opposed to") derives nouns and adjectives expressing opposition:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[vojenny] "military" | :isv[antivojenny] | "anti-war" |
+
+**Prefix :isv[de-]** (international, "reversal, removal") derives verbs and nouns expressing undoing of a process:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[militarizacija] | :isv[demilitarizacija] | "demilitarisation" |
+| :isv[kodovati] "to encode" | :isv[dekodovati] | "to decode" |
+
+**Prefix :isv[ně-]** (indefinite, "some-") derives indefinite pronouns and adverbs from interrogative bases. This prefix is treated in detail in the Pronouns chapter:
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[kto] "who" | :isv[někto] | "someone" |
+| :isv[kdě] "where" | :isv[někdě] | "somewhere" |
+
+---
+
 :::caution[Unverified Content]
 This entire section on zero derivation is not discussed in the source material. The source mentions that an adjective "can also function as a noun, remaining unchanged" (with :isv[běly] as example) but does not describe a "zero derivation" process, deverbal noun conversion, or the SHOULD rule about lexicalized items. The :isv[vezti] to :isv[voz] example is not in the source.
 :::
@@ -548,3 +703,23 @@ The comparative form of the adverb is derived by replacing the comparative adjec
 |----------------------|-------------------|-------|
 | :isv[slabějši] "weaker" | :isv[slaběje] | "more weakly" |
 | :isv[lěpši] "better" | :isv[lěpje] | "better (adv.)" |
+
+### Indefinite Adverbs: :isv[-koli]
+The particle-suffix :isv[-koli] attaches to interrogative adverbs to form free-choice indefinite adverbs ("any-, -ever"). It is fully productive across the interrogative paradigm and is the most pan-Slavically recognisable form of the indefinite marker (cf. Czech :isv[-koli], OCS :isv[-koližьdo], Polish :isv[-kolwiek]):
+
+| Base | Derived form | Gloss |
+|------|-------------|-------|
+| :isv[kdě] "where" | :isv[kdekoli] | "anywhere" |
+| :isv[kogda] "when" | :isv[kogdakoli] | "whenever" |
+| :isv[kako] "how" | :isv[kakokoli] | "anyhow" |
+
+This pattern applies equally to pronouns (see the Pronouns chapter): :isv[kto] → :isv[ktokoli] "anyone", :isv[čto] → :isv[čtokoli] "anything".
+
+### Non-Productive (Frozen) Adverb Endings
+A number of common Interslavic adverbs preserve frozen case endings from Proto-Slavic that are no longer productive. These are lexicalised items, not active derivational patterns:
+
+- **:isv[-a]** (frozen genitive): :isv[včera] "yesterday", :isv[snova] "again"
+- **:isv[-om]** (frozen instrumental): :isv[pěškom] "on foot", :isv[krugom] "around"
+- **:isv[-u]** (frozen locative): :isv[vnizu] "below", :isv[naverhu] "above"
+
+These endings SHOULD NOT be used to coin new adverbs. New adverbs are formed with :isv[-o] / :isv[-e] from adjectives.
