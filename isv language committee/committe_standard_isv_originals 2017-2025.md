@@ -8,13 +8,13 @@ InterSlavic Linguistic Forum Foundation
 
 (WORK IN PROGRESS - please do not change without authorization; there are also later reforms, not added for now)
 
-temporary annotations: 
+_temporary annotations:_
 
-_- JvS still didn't remove śamo, śųdy, śako, śaky from his webpage table or even marked as unintelligible http://steen.free.fr/interslavic/pronouns.html
-- JvS  still didn't add -enky adjective deminutive suffix to his webpage list: http://steen.free.fr/interslavic/word_formation.html#compound_words
-- in 2018 the writing of Etymological Cyryliic syllabic ŕ was still not resolved 
-- in there's a peculiar statement about đ-dž writing in etymological
-_
+- _JvS still didn't remove śamo, śųdy, śako, śaky from his webpage table or even marked as unintelligible http://steen.free.fr/interslavic/pronouns.html_
+- _JvS  still didn't add -enky adjective deminutive suffix to his webpage list: http://steen.free.fr/interslavic/word_formation.html#compound_words_
+- _in 2018 the writing of Etymological Cyryliic syllabic ŕ was still not resolved_ 
+- _in there's a peculiar statement about đ-dž writing in etymological_
+
 ## 2017.06-2018.07 English Version
 
 # DECISIONS FROM 2018-07
