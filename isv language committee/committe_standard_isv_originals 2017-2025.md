@@ -3,7 +3,9 @@ copied from unpublished files and posts from Facebook & similar places & gathere
 versioning of the ISV standard. 
 
   _Michał Andrzeic Stanisławin Swat_
+
 Founder and Chairman
+
 InterSlavic Linguistic Forum Foundation
 
 (WORK IN PROGRESS - please do not change without authorization; there are also later reforms, not added for now)
