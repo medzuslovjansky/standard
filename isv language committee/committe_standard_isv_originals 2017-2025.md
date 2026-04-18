@@ -60,6 +60,6 @@ męsar → męsara → męsarami...
 1. when ńn = nn. denj>denjny>denny
 2. word formation is based on root: sila → silny, prijatelj → prijateljsky, selo → selsky
 3. Removal of: "śamo, śųdy, śako, śaky" from pronouns ⚠️⚠️⚠️⚠️⚠️
-4. Weird past tenses are leaved, but we write that they are VERY unintelligible ⚠️⚠️⚠️⚠️⚠️_(weird - like the simple past tense „dělah, dělaše etc. – annotation from 18.04.2026, M.S.)_
+4. Weird past tenses are leaved, but we write that they are VERY unintelligible ⚠️⚠️⚠️⚠️⚠️ _(weird - like the simple past tense „dělah, dělaše etc. – annotation from 18.04.2026, M.S.)_
 5. future tense: "bųdų dělati"(not „bųdų dělal”), past tense – only „dělal”  ⚠️⚠️⚠️⚠️⚠️
 6. addition of deminutive of adjective: "-enky", e.g."-enky, napr. malenky, vysočenky, mųdrenky" ⚠️⚠️⚠️⚠️⚠️
