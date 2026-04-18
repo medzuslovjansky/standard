@@ -6,7 +6,13 @@ versioning of the ISV standard.
 Founder and Chairman
 InterSlavic Linguistic Forum Foundation
 
-(WORK IN PROGRESS)
+(WORK IN PROGRESS - please do not change without authorization; there are also later reforms, not added for now)
+temporary annotations: 
+
+- JvS still didn't remove śamo, śųdy, śako, śaky from his webpage table or even marked as unintelligible http://steen.free.fr/interslavic/pronouns.html
+- JvS  still didn't add -enky adjective deminutive suffix to his webpage list: http://steen.free.fr/interslavic/word_formation.html#compound_words
+- in 2018 the writing of Etymological Cyryliic syllabic ŕ was still not resolved 
+- in there's a peculiar statement about đ-dž writing in etymological
 
 ## 2017.06-2018.07 English Version
 
@@ -31,7 +37,7 @@ męsar → męsara → męsarami...
 - Å / Ӑ → (kråva / крӑва)  
 - Ć / Ћ → (hoćų / хоћѫ)  
 - Ď / ДЬ → (měď / мѣдь)  
-- Đ / Ђ → (među / међу) *(better to write DŽ even in scientific system)*  
+- Đ / Ђ → (među / међу) *(better to write DŽ even in scientific system)* ⚠️⚠️⚠️⚠️⚠️  
 - Ę / Ѧ → (telę / телѧ)  
 - Ľ / ЛЬ → only before J (e.g. *usiľje / усильје*), otherwise lj / ль – in Cyryllic there's no difference besides that non-scientific writing is „усилје”  
 - Ń / НЬ → same as Ľ (e.g. *pytańje / пытаньје*), non-scientific пытанје, but *konj / конь*  
@@ -50,7 +56,7 @@ męsar → męsara → męsarami...
 
 1. when ńn = nn. denj>denjny>denny
 2. word formation is based on root: sila → silny, prijatelj → prijateljsky, selo → selsky
-3. Removal of: "śamo, śųdy, śako, śaky" from pronouns
+3. Removal of: "śamo, śųdy, śako, śaky" from pronouns ⚠️⚠️⚠️⚠️⚠️
 4. Weird past tenses are leaved, but we write that they are VERY unintelligible ⚠️⚠️⚠️⚠️⚠️_(weird - like the simple past tense „dělah, dělaše etc. – annotation from 18.04.2026, M.S.)_
-5. future tense: "bųdų dělati"(not „bųdų dělal”), past tense – only „dělal”
-6. addition of deminutive of adjective: "-enky", e.g."-enky, napr. malenky, vysočenky, mųdrenky"
+5. future tense: "bųdų dělati"(not „bųdų dělal”), past tense – only „dělal”  ⚠️⚠️⚠️⚠️⚠️
+6. addition of deminutive of adjective: "-enky", e.g."-enky, napr. malenky, vysočenky, mųdrenky" ⚠️⚠️⚠️⚠️⚠️
