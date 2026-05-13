@@ -18,7 +18,7 @@ These optional phonemes MAY be written by means of the Interslavic etymological 
 
 ## Vowels
 ### Core Vowel Phonemes (7)
-Basic Interslavic has **seven vowel phonemes**.
+Interslavic has **seven vowel phonemes**.
 Five of them — :ipa[/a/], :ipa[/e/], :ipa[/i/], :ipa[/o/], :ipa[/u/] — have a relatively uniform pronunciation across speakers and are mandatory in all registers.
 The remaining two — :ipa[/ě/] and :ipa[/y/] — have a pronunciation that may differ between speakers.
 
