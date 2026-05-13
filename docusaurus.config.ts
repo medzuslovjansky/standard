@@ -29,7 +29,7 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/medzuslovjansky/standard/edit/main/',
+          editUrl: 'https://github.com/medzuslovjansky/standard/edit/master/',
           remarkPlugins: [remarkDirective, remarkIsvDirective],
         },
         blog: false,
