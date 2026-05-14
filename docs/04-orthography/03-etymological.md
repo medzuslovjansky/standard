@@ -10,7 +10,7 @@ A reader unfamiliar with these diacritics MAY ignore them entirely and still rea
 
 ## Purpose and Register
 The etymological alphabet is intended for use in scholarly, etymological, and high-precision contexts.
-It SHALL NOT be used as the default orthography in everyday communication.
+It SHOULD NOT be used as the default orthography in everyday communication.
 
 Specifically, the etymological alphabet serves the following purposes:
 
@@ -37,7 +37,7 @@ Because the standard orthography neutralises several Proto-Slavic distinctions, 
 | Standard form | Etymological form A | Gloss A | Etymological form B | Gloss B |
 |---|---|---|---|---|
 | :isv[čest] | :isv[čęsť] | part, portion (cf. Ru. _часть_, Pl. _część_, Cz. _část_) | :isv[česť] | honour (cf. Ru. _честь_, Pl. _cześć_, Cz. _čest_) |
-| :isv[moč] | :isv[moč] | power, might | :isv[moć] | to be able |
+| :isv[moč] | :isv[moč] | urine | :isv[moć] | power, might |
 | :isv[grad] | :isv[grad] | hail | :isv[gråd] | city, town |
 | :isv[dobru] | :isv[dobru] | good (dat. sg.) | :isv[dobrų] | good (acc. sg. fem.) |
 
@@ -59,7 +59,7 @@ These letters are divided into additional vowels and additional consonants.
 |---|---|---|---|---|
 | :latn[å] | :ipa[ɒ] ~ :ipa[ɑ] | Proto-Slavic \*or, \*ol (liquid + back vowel sequences) | :latn[a] | :isv[kråva] → :isv[krava] (cow) |
 | :latn[ė] | :ipa[ə] (fleeting) | Strong yer *ь [ĭ] | :latn[e] (or silent) | :isv[pės] → :isv[pes] (dog) |
-| :latn[ę] | :ipa[ɛ̃ ~ ʲæ] | Proto-Slavic front nasal \*ę; OCS :cyrl[Ѧ] (_jus maloj_) | :latn[e] | :isv[pęť] → :isv[pet] (five) |
+| :latn[ę] | :ipa[ʲæ] | Proto-Slavic front nasal \*ę; OCS :cyrl[Ѧ] (_jus maloj_) | :latn[e] | :isv[pęť] → :isv[pet] (five) |
 | :latn[ȯ] | :ipa[ə] (fleeting) | Strong yer *ъ [ŭ] | :latn[o] (or silent) | :isv[sȯn] → :isv[son] (dream) |
 | :latn[ų] | :ipa[ʊ] | Proto-Slavic back nasal \*ǫ; OCS :cyrl[Ѫ] (_jus bolšoj_) | :latn[u] | :isv[rųka] → :isv[ruka] (hand) |
 
@@ -79,12 +79,11 @@ To produce this sound, position the mouth as for :ipa[a] and attempt to say :ipa
 | :latn[glåva] | :latn[glava] | `hlava` | `głowa` | `голова` | head |
 | :latn[bråda] | :latn[brada] | `brada` | `broda` | `борода` | beard |
 | :latn[mråz] | :latn[mraz] | `mráz` | `mróz` | `мороз` | frost |
-| :latn[tråva] | :latn[trava] | `tráva` | `trawa` | `трава` | grass |
 | :latn[glås] | :latn[glas] | `hlas` | `głos` | `голос` | voice |
 | :latn[blåto] | :latn[blato] | `bláto` | `błoto` | `болото` | mud, swamp |
 | :latn[zlåto] | :latn[zlato] | `zlato` | `złoto` | `золото` | gold |
 
-The prefix :isv[råz-] (from PS \*orz-) is a notable case: it surfaces as `roz-` in Polish and Ukrainian, as `raz-` in Russian (a South Slavic borrowing via Old Church Slavonic), and as `raz-`/`roz-` in Czech and Slovak.
+The prefix :isv[råz-] (from PS \*orz-) is a notable case: it surfaces as `roz-` in Polish and Ukrainian, as `raz-` in Russian (a South Slavic borrowing via Old Church Slavonic), and primarily as `roz-` (and rarely `raz-`) in Czech and Slovak.
 In Belarusian, the underlying form is `roz-` (visible in stressed syllables: `розум`, `розніца`), but _akanje_ (the neutralisation of unstressed `o` to `a`) masks it in unstressed position, making it appear identical to the Russian `raz-` form.
 In standard Interslavic the prefix is written :isv[raz-]; in the etymological register it is written :isv[råz-].
 
@@ -97,9 +96,13 @@ In standard Interslavic they surface as :latn[e] and :latn[o]; the etymological 
 | :latn[pės] | :latn[pes] | dog | nom. :isv[pes] → gen. :isv[psa] |
 | :latn[sȯn] | :latn[son] | dream | nom. :isv[son] → gen. :isv[sna] |
 | :latn[lėv] | :latn[lev] | lion | nom. :isv[lev] → gen. :isv[lva] |
-| :latn[dȯšť] | :latn[došť] | rain | nom. :isv[došť] → gen. :isv[dšťа] |
 
 It is also acceptable to write :latn[è] and :latn[ò] instead of :latn[ė] and :latn[ȯ].
+
+:::info[Community Discussion: Pronunciation of ė and ȯ]
+Some speakers propose :ipa[æ] as the primary pronunciation of :latn[ė], arguing that strong yer \*ь reflexes span from :ipa[ɛ] in most languages to :ipa[a] in Shtokavian and that :ipa[æ] represents a middle ground.
+The current official recommendation is :ipa[ə], reflecting the reduced, fleeting character of the vowel.
+:::
 
 **Notes on :latn[ę] (front nasal):**
 Historically, :latn[ę] was the Proto-Slavic front nasal vowel :ipa[ɛ̃].
@@ -122,6 +125,11 @@ In modern Interslavic it is NOT pronounced as a nasal but as :ipa[ʊ] — a soun
 It is also acceptable to pronounce it simply as :ipa[u], making no spoken distinction between :latn[ų] and :latn[u].
 The grapheme :latn[ų] was chosen over :latn[ǫ] because in the majority of Slavic languages this vowel shifted to :ipa[u].
 
+:::info[Community Discussion: Pronunciation of ų]
+Some speakers propose :ipa[o] rather than :ipa[ʊ] as the primary recommendation for :latn[ų], arguing that Slavic reflexes span :ipa[u] (most North Slavic) through :ipa[ɔ] (Slovene, Polish nasal) and that :ipa[o] is the most neutral middle point.
+The current official recommendation remains :ipa[ʊ].
+:::
+
 | Etymological | OCS | Russian | Bulgarian | Macedonian | Polish | Slovene | Gloss |
 |---|---|---|---|---|---|---|---|
 | :isv[pųť] | пѫть | путь | път | пат | pąć | pot | path |
@@ -132,11 +140,11 @@ The grapheme :latn[ų] was chosen over :latn[ǫ] because in the majority of Slav
 ### Additional Consonants (8)
 | Letter | IPA | Proto-Slavic / OCS source | Standard equivalent | Example |
 |---|---|---|---|---|
-| :latn[ć] | :ipa[t͡ɕ] | Proto-Slavic \*tj; OCS :cyrl[Щ] (šč) | :latn[č] | :isv[ćuđi] → :isv[čudži] (strange) |
+| :latn[ć] | :ipa[t͡ɕ] | Proto-Slavic \*tj; OCS :cyrl[Щ] (šč) | :latn[č] | :isv[ćuđi] → :isv[čudži] (foreign, alien) |
 | :latn[đ] | :ipa[d͡ʑ] | Proto-Slavic \*dj; OCS :cyrl[ЖД] (žd) | :latn[dž] | :isv[krađa] → :isv[kradža] (theft) |
 | :latn[ĺ] (:latn[ľ]) | :ipa[lʲ] | Soft :latn[l] before a weak yer *ь | :latn[lj] (only before :latn[j]) | :isv[nasiľje] → :isv[nasilje] (violence) |
 | :latn[ń] | :ipa[nʲ] | Soft :latn[n] before a weak yer *ь | :latn[nj] (only before :latn[j]) | :isv[hođeńje] → :isv[hođenje] (walking) |
-| :latn[ŕ] | :ipa[rʲ] | Soft :latn[r] before a weak yer *ь | :latn[r] | :isv[pŕvy] → :isv[prvy] (first) |
+| :latn[ŕ] | :ipa[rʲ] | Soft :latn[r] adjacent to a weak yer *ь | :latn[r] | :isv[rybaŕ] → :isv[rybar] (fisher) |
 | :latn[t́] (:latn[ť]) | :ipa[tʲ] | Soft :latn[t] before a weak yer *ь | :latn[t] | :isv[pamęt́] → :isv[pamęt] (memory) |
 | :latn[d́] (:latn[ď]) | :ipa[dʲ] | Soft :latn[d] before a weak yer *ь | :latn[d] | :isv[gvozd́] → :isv[gvozd] (nail) |
 | :latn[ś] | :ipa[sʲ] | Soft :latn[s] before a weak yer *ь | :latn[s] | :isv[gųś] → :isv[gųs] (goose) |
@@ -153,11 +161,11 @@ The Latin letters :latn[ć] and :latn[đ] are taken directly from the Serbo-Croa
 During the early development of the unified Interslavic project (shortly after the merger of the Slovianski and Novoslovensky projects), alternative diacritics were considered for these letters. One proposal was to use circumflex accents, yielding :latn[ĉ] and :latn[dẑ] instead of the current :latn[ć] and :latn[đ]. This approach would have been more systematic, giving the diacritic a unique function not shared with other letter types (since the acute accent on :latn[ć] serves a different purpose than the acute on soft consonants like :latn[ś] and :latn[ź]). Ultimately, :latn[ć] and :latn[đ] were retained because they are naturally occurring letters whose established phonetic values in Serbo-Croatian match the intended MS Plus pronunciation.
 
 **Notes on :latn[ĺ] (:latn[ľ]) and :latn[ń]:**
-These letters occur only before a consonant (including before :latn[j]).
-Phonetically they are identical to :latn[lj] and :latn[nj]; the difference is that :latn[ĺ]/:latn[ń] mark etymologically justified softness that is NOT universally reflected in standard Interslavic digraphs.
+These letters occur primarily before a consonant (including before :latn[j]); in principle they also occur word-finally where the root historically ended in a front yer *ь (see the note below for current dictionary inconsistencies).
+Phonetically they are typically realized identically to :latn[lj] and :latn[nj]; speakers may optionally keep :latn[ĺ] distinct as :ipa[lʲ] (vs. :ipa[ʎ] for :latn[lj]). The difference is that :latn[ĺ]/:latn[ń] mark etymologically justified softness that is NOT universally reflected in standard Interslavic digraphs.
 The letters :latn[ĺ] and :latn[ľ] are interchangeable variants of the same letter; similarly, the letters :latn[t́] and :latn[ť], and :latn[d́] and :latn[ď], are interchangeable pairs.
 
-The distinction between :latn[ĺ]/:latn[ń] and the standard digraphs :latn[lj]/:latn[nj] encodes an important etymological difference. The digraphs :latn[lj] and :latn[nj] represent **iotation-derived softness** (Proto-Slavic \*lj, \*nj from consonant + \*j), which is reflected as a soft consonant in all Slavic languages, North and South alike. By contrast, :latn[ĺ] and :latn[ń] represent **yer-derived softness** (Proto-Slavic \*lь, \*nь — consonant + front yer), which is soft in Northern Slavic languages but hard in Southern Slavic. For example: :isv[polje] "field" has iotation-derived :latn[lj] (Croatian also has _polje_ with a soft L), while :isv[veĺmi] "very" has yer-derived :latn[ĺ] (Croatian _veoma_ has a hard L, and Russian _весьма_ has a soft L). In standard orthography, iotation-derived softness is written with the digraphs (:isv[lj], :isv[nj]), while yer-derived softness is dropped entirely (written as hard :isv[l], :isv[n]). The MS Plus register restores the yer-derived softness with the háček letters.
+The distinction between :latn[ĺ]/:latn[ń] and the standard digraphs :latn[lj]/:latn[nj] encodes an important etymological difference. The digraphs :latn[lj] and :latn[nj] represent **iotation-derived softness** (Proto-Slavic \*lj, \*nj from consonant + \*j), which is reflected as a soft consonant in all Slavic languages, North and South alike. By contrast, :latn[ĺ] and :latn[ń] represent **yer-derived softness** (Proto-Slavic \*lь, \*nь — consonant + front yer), which is soft in Northern Slavic languages but hard in Southern Slavic. For example: :isv[polje] "field" has iotation-derived :latn[lj] (Croatian also has _polje_ with a soft L), while :isv[veĺmi] "very" has yer-derived :latn[ĺ] (Croatian _veoma_ has a hard L, and Belarusian _вельмі_ has a soft L). In standard orthography, iotation-derived softness is written with the digraphs (:isv[lj], :isv[nj]), while yer-derived softness is dropped entirely (written as hard :isv[l], :isv[n]). The MS Plus register restores the yer-derived softness with acute-accented letters (ĺ, ń, ŕ, ś, ź, t́, d́); háček variants (ľ, ť, ď) are accepted alternatives for some of these.
 
 :::warning[Unresolved: Scope of ĺ and ń in the Dictionary]
 The Interslavic dictionary and existing documentation are not yet fully consistent in applying the distinction between iotation-derived softness (:latn[lj], :latn[nj]) and yer-derived softness (:latn[ĺ], :latn[ń]). Some dictionary entries use the iotation digraphs :latn[lj] or :latn[nj] where the softness is historically yer-derived — for example, :isv[bolj] instead of the expected :isv[bol]/​:isv[boĺ] (cf. Croatian _bol_ with hard L), or :isv[koljce] instead of :isv[kolce]/​:isv[koĺce] (from \*kolьce, cf. _kolo_). The athematic masculine nouns (:isv[kamenj], :isv[korenj], :isv[prstenj], etc.) similarly use the iotation digraph :isv[nj] in their nominative form, but their final softness is yer-derived (\*kamy, oblique stem \*kamen-), suggesting that the standard form should end in hard :isv[n] and the MS Plus form in :isv[ń] (i.e., :isv[kamen] / :isv[kameń]).
@@ -204,6 +212,7 @@ The following comparison table shows etymological vs. standard forms:
 The etymological consonants :latn[ť] and :latn[ď] are defined as reflexes of Proto-Slavic yer-softened :ipa[*tь] and :ipa[*dь]. However, the Interslavic dictionary also contains a number of loanwords and proper names in which the standard orthography writes :latn[tj] or :latn[dj] — sequences that in practice imply a soft :ipa[/tʲ/] or :ipa[/dʲ/] even though standard Interslavic has no such phonemes (see a).
 
 In the MS Plus register, :latn[ť] and :latn[ď] provide a natural way to represent genuine soft :ipa[/tʲ/] and :ipa[/dʲ/] in these words. For example, :isv[kostjum] could be written :isv[kosťum], :isv[tjuŕma] as :isv[ťuŕma], and :isv[tjulenj] as :isv[ťulenj] — making the intended pronunciation explicit and resolving the ambiguity that exists in standard orthography.
+Note also that :latn[tj] and :latn[dj] sequences may simply be pronounced as distinct consonants :ipa[[tj]] and :ipa[[dj]] — a natural option for speakers whose languages preserve these clusters.
 
 This would extend the use of :latn[ť] and :latn[ď] beyond their etymological Proto-Slavic function to cover borrowed soft :ipa[/tʲ/] and :ipa[/dʲ/] from non-Slavic sources. The extension is natural: the phonetic value is the same (:ipa[[tʲ]] and :ipa[[dʲ]]), and the letters already exist in the MS Plus inventory. However, this usage has not yet been formally adopted.
 
@@ -227,17 +236,27 @@ An extended Cyrillic alphabet using historical OCS characters (:cyrl[ѣ], :cyrl[
 
 For these reasons, **the Interslavic etymological alphabet has no standard Cyrillic equivalent**.
 
-However, in scholarly publications concerned specifically with the history of Slavic languages, the following OCS-derived Cyrillic letters are used conventionally for the etymological vowels:
+However, a number of additional Cyrillic characters appear in scholarly publications and community resources (such as dictionaries and learning materials):
 
-| Latin (etym.) | Cyrillic (conventional) | OCS name | Standard Cyrillic equiv. |
+| Latin (etym.) | Cyrillic (conventional) | Source / name | Standard Cyrillic equiv. |
 |---|---|---|---|
-| :latn[ę] | :cyrl[ѧ] | _jus maloj_ (small yus) | :cyrl[е] |
-| :latn[ų] | :cyrl[ѫ] | _jus bolšoj_ (big yus) | :cyrl[у] |
-| :latn[ję-] (word-initial) | :cyrl[ѩ] | _jotated small yus_ | :cyrl[е] |
-| :latn[jų-] (word-initial) | :cyrl[ѭ] | _jotated big yus_ | :cyrl[ю] |
+| :latn[ě] | :cyrl[ѣ] | OCS _yat_ (ять) | :cyrl[е] |
+| :latn[ę] | :cyrl[ѧ] | OCS _jus maloj_ (small yus) | :cyrl[е] |
+| :latn[ų] | :cyrl[ѫ] | OCS _jus bolšoj_ (big yus) | :cyrl[у] |
+| :latn[ję-] (word-initial) | :cyrl[ѩ] | OCS _jotated small yus_ | :cyrl[е] |
+| :latn[jų-] (word-initial) | :cyrl[ѭ] | OCS _jotated big yus_ | :cyrl[ю] |
+| :latn[ė] | :cyrl[ь] (as vowel) | front yer | :cyrl[е] (or silent) |
+| :latn[ȯ] | :cyrl[ъ] (as vowel) | back yer | :cyrl[о] (or silent) |
+| :latn[ć] | :cyrl[ћ] | Serbian Cyrillic | :cyrl[ч] |
+| :latn[đ] | :cyrl[ђ] | Serbian Cyrillic | :cyrl[дж] |
 
-These Cyrillic historical forms MAY be used in scholarly contexts but are NOT part of the normative Interslavic Cyrillic orthography.
-Their use in ordinary Interslavic texts is explicitly discouraged.
+These characters are NOT part of the normative Interslavic Cyrillic orthography.
+Their use in ordinary Interslavic texts is not recommended, though they appear in some scholarly publications and community resources.
+
+:::info[Informal Use: Iotated Yat ꙓ for jě Clusters]
+In informal Cyrillic writing and some transliteration tools (notably the extended transliterator at steen.free.fr), the historical letter :cyrl[ꙓ] (iotated yat) is used to represent the :latn[jě] cluster.
+This usage has no official status but is attested in the wild; it mirrors the Proto-Slavic distinction between plain yat (:cyrl[ѣ]) and its jotated form (:cyrl[ꙓ]).
+:::
 
 ---
 
@@ -307,7 +326,7 @@ Three approaches have been proposed to address the ambiguity of soft consonants 
 No consensus has been reached. The current practice is effectively option 3 — softness before :latn[i] is unmarked.
 :::
 
-**Softness through derivation:** When a derivational suffix is attached to a root whose final consonant is soft, the softness should persist. In the etymological register this is marked explicitly (e.g., :latn[svińsky] from :latn[svinь-]), but in standard orthography the softness is lost (written :latn[svinsky]). See the relevant sectiona for the full treatment of softness at root–suffix boundaries in adjective formation.
+**Softness through derivation:** When a derivational suffix is attached to a root whose final consonant is soft, the softness should persist. In the etymological register this is marked explicitly (e.g., :latn[svińsky] from :latn[svinь-]), but in standard orthography the softness is lost (written :latn[svinsky]). See the relevant sections for the full treatment of softness at root–suffix boundaries in adjective formation.
 
 ### Diacritic Consistency in MS Plus
 
@@ -316,10 +335,11 @@ The MS Plus diacritic system, while functional, exhibits an internal tension in 
 - On consonants like :latn[ś], :latn[ź], :latn[ŕ], :latn[ń], :latn[ĺ], :latn[t́], :latn[d́], the acute marks **yer-derived palatalization** (softening caused by the historical front yer *ь).
 - On :latn[ć], however, the acute marks **iotation** (the reflex of Proto-Slavic \*tj), which is a fundamentally different phonological process — iotation produces postalveolar or palatal affricates, while yer-softening produces palatalized versions of the base consonant.
 
-Similarly, the háček (caron) has two distinct functions in broader Slavic orthographic tradition:
+Similarly, the háček (caron) has three distinct functions in broader Slavic orthographic tradition:
 
 - It marks **postalveolar sibilants** (:latn[š], :latn[ž], :latn[č]) — its primary function in Interslavic.
 - In Czech and Slovak, it also marks **palatalized stops** (:latn[ť], :latn[ď], :latn[ň]) — a softening function that overlaps with what Interslavic uses the acute for.
+- It marks the **yat vowel** (:latn[ě]) in Czech, Slovak, and Interslavic — indicating the reflex of Proto-Slavic \*ě.
 
 This means that the choice between :latn[ť]/:latn[t́] and :latn[ď]/:latn[d́] is not purely aesthetic: it reflects a deeper question about whether the diacritic system should prioritize **consistency of function** (one diacritic = one phonological process) or **naturalness of appearance** (using letter forms already established in living Slavic alphabets). The current MS Plus system permits both háček and acute variants for soft T and D (i.e., :latn[ť]/:latn[t́] and :latn[ď]/:latn[d́] are interchangeable), effectively deferring the decision.
 
@@ -361,7 +381,6 @@ In Proto-Slavic and Old Church Slavonic, the vowel yat (ѣ) appeared after all c
 
 However, this simplification was not applied consistently. The consonant :latn[c] is also functionally soft (it is an affricate that patterns with the other postalveolar consonants in its palatalization behaviour), yet the word :isv[cěly] retains :latn[ě] after :latn[c]. This creates an internal inconsistency in the orthography.
 
-The inconsistency extends beyond :isv[cěly]. Etymological :latn[ě] after :latn[š] and :latn[č] was also simplified in forms like :isv[oglušeńje] (etymologically _ogluš**ě**ńje_) and :isv[mękčeńje] (etymologically _mękč**ě**ńje_).
 
 ### The Trade-Off
 The treatment of yat after functionally soft consonants involves a fundamental trade-off between two design principles of Interslavic:
@@ -376,13 +395,19 @@ The treatment of yat after functionally soft consonants involves a fundamental t
 
 In other words, the etymological :latn[ě] carries no additional phonetic information for standard Interslavic but encodes valuable cross-Slavic correspondence data that is used in flavourization.
 
+:::info[Informal Proposal: Iotated Yat as a Higher-Level Code Point]
+Some community members have proposed distinguishing a "jotated yat" :latn[jě] at a register above MS Plus — a letter that would produce full flavorizations (Czech _jíst_, Polish _jadł_, etc.) but reflect as plain :latn[e] in standard and MS Plus orthography.
+This mirrors the historical Proto-Slavic distinction between plain yat (:cyrl[ѣ]) and its jotated variant (:cyrl[ꙓ]), which appears informally in some Cyrillic transliteration tools (see the note in the Cyrillic characters section).
+No decision has been reached; the proposal remains exploratory.
+:::
+
 ### Pronunciation Note
-Regardless of which orthographic solution is adopted, the pronunciation rule is clear: after the functionally soft consonants :latn[j], :latn[č], :latn[š], :latn[ž], and :latn[c], the letter :latn[ě] — if written — is pronounced simply as :ipa[e]. The doubled softening (soft consonant + palatalizing vowel) is unnecessary and SHOULD NOT be produced in speech.
+Regardless of which orthographic solution is adopted, the pronunciation rule is clear: after the functionally soft consonants :latn[j], :latn[č], :latn[š], :latn[ž], and :latn[c], the letter :latn[ě] — if written — is pronounced simply as :ipa[e]. In practice, the doubled softening (soft consonant + palatalizing vowel) does not arise — after already-soft consonants, :latn[ě] is simply realized as plain :ipa[e].
 
 :::warning[Unresolved: Treatment of ě after functionally soft consonants]
 The current orthography is inconsistent: :latn[ě] has been removed after :latn[j], :latn[č], :latn[š], and :latn[ž] (e.g., :isv[jesti], :isv[tęžeje]) but retained after :latn[c] (e.g., :isv[cěly]). Three solutions have been proposed:
 
-1. **Restore etymological ě everywhere** — write :isv[jěsti], :isv[jěhati], :isv[dråžěje], :isv[cěly], :isv[oglušěńje], :isv[mękčěńje], etc., with a pronunciation note that after already-soft consonants ě is realized as plain :ipa[e]. This maximises flavourization potential.
+1. **Restore etymological ě everywhere** — write :isv[jěsti], :isv[jěhati], :isv[dråžěje], :isv[cěly], etc., with a pronunciation note that after already-soft consonants ě is realized as plain :ipa[e]. This maximises flavourization potential.
 2. **Keep etymological ě everywhere but mark it as phonetically neutral** — same spelling as (1), but the specification explicitly states that after :latn[j], :latn[č], :latn[š], :latn[ž], and :latn[c], the letter :latn[ě] does not indicate additional softening.
 3. **Remove ě after c as well** — write :isv[cely] instead of :isv[cěly], completing the simplification pattern. This maximises orthographic consistency at the cost of flavourization data.
 
