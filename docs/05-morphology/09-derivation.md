@@ -9,21 +9,13 @@ Interslavic possesses four productive agentive suffixes for deriving person noun
 
 **Suffix :isv[-telj]** derives agent nouns from verb stems, denoting the person who habitually or professionally performs the action:
 
-:::caution[Unverified Content]
-The source only provides :isv[učitelj] as an example of :isv[-telj]. The examples :isv[pisatelj] and :isv[vladatelj] are not attested in the source material.
-:::
-
 | Base | Derived form | Gloss |
 |------|-------------|-------|
 | :isv[učiti] "to teach" | :isv[učitelj] | "teacher" |
 | :isv[pisati] "to write" | :isv[pisatelj] | "writer" |
-| :isv[vladati] "to rule" | :isv[vladatelj] | "ruler" |
+| :isv[žiti] "to live" | :isv[žitelj] | "inhabitant" |
 
-:::caution[Unverified Content]
-The source states that :isv[-nica] is the feminine of :isv[-nik] (not :isv[-telj]). For :isv[-telj] nouns, the source uses :isv[-ka] as the feminine suffix (e.g. :isv[prijateljka]).
-:::
-
-The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
+The feminine counterpart of :isv[-telj] nouns is formed with :isv[-ka] (e.g. :isv[učiteljka], :isv[žiteljka]).
 
 **Suffix :isv[-ač]** derives agent nouns from verb stems, with a focus on trades and crafts:
 
@@ -86,17 +78,14 @@ The feminine counterpart of :isv[-telj] nouns is formed with :isv[-nica].
 The soft consonant :isv[nj] hardens before :isv[-nik] and :isv[-ny].
 
 ### Abstract Nouns: :isv[-osť], :isv[-ota], :isv[-stvo], :isv[-nje]/:isv[-tje], :isv[-ina], :isv[-oba]
-**Suffix :isv[-osť]** is the primary suffix for deriving abstract quality nouns from adjectives. It is always feminine:
-
-:::caution[Unverified Content]
-The source only provides :isv[dobrost] as an example of :isv[-ost]. The examples :isv[slobodnost] and :isv[starost] are not attested in the source material. The claim that :isv[-ost] is "always feminine" is not stated in the source.
-:::
+**Suffix :isv[-osť]** is the primary suffix for deriving abstract quality nouns from adjectives. It is nearly always feminine (inherited nouns like :isv[gosť] are exceptions):
 
 | Base | Derived form | Gloss |
 |------|-------------|-------|
-| :isv[dobry] "good" | :isv[dobrost] | "goodness" |
-| :isv[slobodny] "free" | :isv[slobodnost] | "freedom" |
-| :isv[stary] "old" | :isv[starost] | "old age" |
+| :isv[dobry] "good" | :isv[dobrosť] | "goodness" |
+| :isv[zly] "evil" | :isv[zlosť] | "evil, spite" |
+| :isv[cěly] "whole" | :isv[cělosť] | "wholeness, integrity" |
+| :isv[rady] "glad" | :isv[radosť] | "joy" |
 
 **Suffix :isv[-ota]** is a less productive alternative to :isv[-ost] for deriving abstract quality nouns from adjectives. It is always feminine:
 
@@ -258,13 +247,14 @@ The suffix :isv[-ec] is an alternative for nationality nouns, particularly when 
 |------|-------------|-------|
 | :isv[Albanija] | :isv[Albanec] | "Albanian" |
 
-### Young Animal Nouns: :isv[-e] (stem :isv[-et-])
-Baby animal nouns are derived by adding :isv[-e] to the name of the animal, producing a neuter noun of the :isv[-et-] stem class:
+### Young Animal Nouns: :isv[-ę] (stem :isv[-ęt-])
+Baby animal nouns are neuter nouns of the :isv[-ęt-] stem class.
+The stem :isv[-ęt-] is visible in oblique forms and in diminutives formed with :isv[-ko]:
 
-| Base | Derived form | Gloss |
-|------|-------------|-------|
-| :isv[kot] "cat" | :isv[kote] | "kitten" |
-| :isv[jelenj] "deer" | :isv[jelene] | "fawn" |
+| Young animal | Diminutive | Gloss |
+|---|---|---|
+| :isv[telę] "calf" | :isv[telętko] | "little calf" |
+| :isv[žrěbę] "foal" | :isv[žrěbętko] | "little foal" |
 
 ---
 
