@@ -18,7 +18,7 @@ The IPA column is provided for reference only; it does not affect the transliter
 | :latn[D d] | :cyrl[Д д] | :ipa[d] | |
 | :latn[Dž dž] | :cyrl[Дж дж] | :ipa[d͡ʒ] | digraph; see the relevant section |
 | :latn[E e] | :cyrl[Е е] | :ipa[e] | |
-| :latn[Ě ě] | :cyrl[Ѣ ѣ] | :ipa[ě] | |
+| :latn[Ě ě] | :cyrl[Є є] | :ipa[ě] | normative; :cyrl[Ѣ ѣ] is the historical variant, now discouraged |
 | :latn[F f] | :cyrl[Ф ф] | :ipa[f] | |
 | :latn[G g] | :cyrl[Г г] | :ipa[ɡ] | |
 | :latn[H h] | :cyrl[Х х] | :ipa[x] | |
@@ -80,10 +80,10 @@ The table below constitutes the normative mapping for converting Standard Cyrill
 | :cyrl[Ч ч] | :latn[Č č] | :ipa[t͡ʃ] | |
 | :cyrl[Ш ш] | :latn[Š š] | :ipa[ʃ] | |
 | :cyrl[Ы ы] | :latn[Y y] | :ipa[y] | |
-| :cyrl[Ѣ ѣ] | :latn[Ě ě] | :ipa[ě] | |
+| :cyrl[Є є] | :latn[Ě ě] | :ipa[ě] | normative |
+| :cyrl[Ѣ ѣ] | :latn[Ě ě] | :ipa[ě] | historical variant; now discouraged; retained in MS Plus and etymological texts |
 
-**Note:** The Cyrillic letters :cyrl[Є є] (used in some informal or regional variants as an alternative for :cyrl[Ѣ ѣ]) transliterate to :latn[Ě ě].
-The letter :cyrl[Й й], used by some writers instead of :cyrl[Ј ј], transliterates to :latn[J j]; however, :cyrl[Ј ј] is the standard Cyrillic form.
+**Note:** The letter :cyrl[Й й], used by some writers instead of :cyrl[Ј ј], transliterates to :latn[J j]; however, :cyrl[Ј ј] is the standard Cyrillic form.
 
 ---
 
@@ -151,20 +151,25 @@ In informal Cyrillic writing, the letter :cyrl[ј] is sometimes replaced by iota
 These informal alternatives do **not** affect Latin transliteration: all Cyrillic forms above transliterate uniformly to Latin :latn[j] following the corresponding vowel.
 Conversely, when converting Latin to Cyrillic, the normative form with :cyrl[ј] MUST be used; the Russian-style forms with :cyrl[й] are permitted only as keyboard-fallback alternatives (see  of the core orthography spec).
 
-### Iotated vowels in informal Cyrillic
-Some writers use iotated vowel letters (:cyrl[ја], :cyrl[је], :cyrl[ји], :cyrl[ју]) or pre-iotated letters (:cyrl[я], :cyrl[є]/:cyrl[е], :cyrl[и], :cyrl[ю]) instead of the sequence :cyrl[ј] + vowel.
-For transliteration purposes these sequences MUST be resolved as follows:
+### Iotated vowels in Cyrillic
+The normative Cyrillic form writes iotated sounds as the sequence :cyrl[ј] + plain vowel letter: :cyrl[ја], :cyrl[је], :cyrl[ји], :cyrl[ју].
+Some writers instead use traditional pre-iotated letters (:cyrl[я], :cyrl[ю], etc.) — these are informal alternatives that occur but are not standard.
+For transliteration purposes all such forms MUST be resolved as follows:
 
 | Cyrillic form | Latin transliteration |
 |---|---|
-| :cyrl[ја] or :cyrl[я] | :latn[ja] |
-| :cyrl[је] or :cyrl[є] (when = :ipa[je]) | :latn[je] |
-| :cyrl[ји] | :latn[ji] |
-| :cyrl[ју] or :cyrl[ю] | :latn[ju] |
-| :cyrl[јa] after a consonant (as soft marker) | :latn[ja] |
+| :cyrl[ја], :cyrl[Ꙗ ꙗ] (historical), or :cyrl[я] (informal) | :latn[ja] |
+| :cyrl[је], :cyrl[Ѥ ѥ] (used in Jan's transliterator to reserve :cyrl[Є є] for yat'), or :cyrl[є] (informal) | :latn[je] |
+| :cyrl[ји] or :cyrl[Ӥ ӥ] (informally agreed letter, used in Jan's transliterator) | :latn[ji] |
+| :cyrl[ју] or :cyrl[ю] (informal) | :latn[ju] |
+| :cyrl[ја] after a consonant (as soft marker) | :latn[ja] |
 
 The normative Cyrillic form for all of the above is the sequence :cyrl[ј] + plain vowel letter.
 Transliteration software SHOULD normalize informal Cyrillic iotated forms to the normative :cyrl[ј]-sequence form before outputting Latin.
+
+:::caution[Unresolved: Status of :latn[rj] as a functional digraph]
+In practice, every instance of :latn[rj] in standard Interslavic corresponds to the historical :latn[ř] — there are no counterexamples. Yet :latn[rj] is not acknowledged as a digraph in learning materials, and its Cyrillic counterpart :cyrl[рј] is kept formally separate from :cyrl[рь]. An additional inconsistency: the :isv[-āřь] ending (as in :isv[rybar]) is simplified to plain :isv[-r] in standard orthography and written :isv[rybaŕ] in MS Plus, even though the etymologically correct form would be :isv[rybarj] — which would be consistent with the :latn[lj]/​:latn[nj] treatment. Whether :latn[rj] should be formally recognized as a digraph equivalent to :latn[lj]/​:latn[nj] remains unresolved.
+:::
 
 ---
 
@@ -231,7 +236,7 @@ The following solutions were analysed by the committee. Each addresses a differe
 
 **Solution 3: Allow both :cyrl[лј]/:cyrl[нј] and :cyrl[љ]/:cyrl[њ] as equal variants.** This preserves the status quo and makes all existing texts correct. However, it produces a 1:2 asymmetry (one Latin form → two Cyrillic forms), complicates dictionary normalization, and leaves content creators unable to control which Cyrillic form the transliterator produces.
 
-**Solution 4: Change the suffixes to :isv[-lije]/:isv[-nije]** (closer to Russian -ние/-лие). This eliminates the ambiguity entirely but constitutes a radical change affecting 5000+ words, distances Interslavic from all Slavic languages except Russian and Bulgarian, and renders all existing content obsolete.
+**Solution 4: Change the suffixes to :isv[-lije]/:isv[-nije]** (closer to Russian -ние/-лие). This eliminates the ambiguity entirely but constitutes a radical change affecting 5000+ words, distances Interslavic from all Slavic languages except Russian and Bulgarian (and Belarusian and Ukrainian, which also have long forms in these positions: :be[-нне] and :uk[-ння]), and renders all existing content obsolete.
 
 **Solution 5: Alternative suffix forms** (:isv[-nie], :isv[-nıje], :cyrl[-ние], :cyrl[-ніе], :cyrl[-нѥ], etc.). These were explored and rejected as creating more problems than they solve — effectively the same objections as Solution 4 but worse.
 
@@ -255,10 +260,10 @@ This decision:
 The trade-offs are:
 - morphological transparency in Cyrillic is reduced (the suffix :isv[-je] is no longer visible in forms like :cyrl[писање]);
 - the genitive plural :isv[-ij] cannot be derived from the standard Cyrillic spelling alone;
-- the etymological distinction between iotation-derived and yer-derived softness is neutralized in Cyrillic.
+- the etymological distinction between iotation-derived and yer-derived softness is neutralized in standard Cyrillic (though the unofficial etymological Cyrillic register preserves it via :cyrl[ньје]/​:cyrl[льје] vs. :cyrl[њ]/​:cyrl[љ], matching Latin MS Plus — since that register is not standardized, the practical impact is limited).
 
 :::info[Exceptions]
-A small number of words contain the sequences :cyrl[нј] or :cyrl[лј] across a prefix or compound boundary, where the :cyrl[н]/​:cyrl[л] and :cyrl[ј] belong to different morphemes and must NOT be fused into :cyrl[њ]/​:cyrl[љ]. Examples: :cyrl[конјунктивны] (:isv[konjunktivny]), :cyrl[конјугација] (:isv[konjugacija]), :cyrl[панјевропејскы] (:isv[panjevropejsky]). In these cases the morpheme boundary prevents fusion, parallel to how it works in Serbian (cf. Serbian :cyrl[ињекција], :cyrl[коњугација]).
+A small number of words contain the sequences :cyrl[нј] or :cyrl[лј] across a prefix or compound boundary, where the :cyrl[н]/​:cyrl[л] and :cyrl[ј] belong to different morphemes and must NOT be fused into :cyrl[њ]/​:cyrl[љ]. Examples: :cyrl[конјунктивны] (:isv[konjunktivny]), :cyrl[конјугација] (:isv[konjugacija]), :cyrl[панјевропејскы] (:isv[panjevropejsky]). In these cases the morpheme boundary prevents fusion into :cyrl[њ]/​:cyrl[љ]; :cyrl[нј]/​:cyrl[лј] is written explicitly. Note that Serbian and Polish do NOT prevent fusion in equivalent international borrowings — Serbian :cyrl[ињекција] and :cyrl[коњугација], Polish _koniugacja_ and _koniunktura_ all show absorbed boundaries. Interslavic diverges from this practice in order to maintain morpheme-boundary transparency.
 :::
 
 ### Practical Implications for Content Creators
@@ -284,8 +289,8 @@ The transliteration correspondences for etymological letters are given below for
 | :latn[Å å] | :cyrl[Ӑ ӑ] | :ipa[ɒ ~ o] | syllabic liquid context: :latn[rå], :latn[lå] |
 | :latn[Ę ę] | :cyrl[Ѧ ѧ] | :ipa[ʲæ ~ ɛ̃] | historically front nasal |
 | :latn[Ų ų] | :cyrl[Ѫ ѫ] | :ipa[ʊ ~ u] | historically back nasal |
-| :latn[Ė ė] | :cyrl[Ъ ъ]\* | :ipa[ə] | strong front yer |
-| :latn[Ȯ ȯ] | :cyrl[Ъ ъ]\* | :ipa[ə] | strong back yer; see note |
+| :latn[Ė ė] | :cyrl[Ъ ъ] (disputed; see note) | :ipa[ə] | strong front yer |
+| :latn[Ȯ ȯ] | :cyrl[Ъ ъ] | :ipa[ə] | strong back yer |
 | :latn[Ć ć] | :cyrl[Ћ ћ] | :ipa[t͡ɕ] | Proto-Slavic *tj; standard: :latn[č] |
 | :latn[Đ đ] | :cyrl[Ђ ђ] | :ipa[d͡ʑ] | Proto-Slavic *dj; standard: :latn[dž] |
 | :latn[Ŕ ŕ] / :latn[Ř ř] | :cyrl[Рь рь] | :ipa[rʲ] | soft syllabic r |
@@ -296,8 +301,9 @@ The transliteration correspondences for etymological letters are given below for
 | :latn[Ď ď] / :latn[D́ d́] | :cyrl[Дь дь] | :ipa[dʲ] | |
 | :latn[Ť ť] / :latn[T́ t́] | :cyrl[Ть ть] | :ipa[tʲ] | |
 
-\* In the etymological Cyrillic register, :latn[ė] and :latn[ȯ] share the Cyrillic letter :cyrl[Ъ]; the distinction is encoded only in the Latin form.
-In practice, the Cyrillic etymological register does not maintain a full one-to-one correspondence for the strong yer letters, and authors working in the etymological register are advised to use the Latin script.
+:::caution[Unresolved: Cyrillic representation of the strong front yer :latn[ė]]
+No consensus has been reached on which Cyrillic letter should represent :latn[ė] (strong front yer). Using :cyrl[Ъ] for both :latn[ė] and :latn[ȯ] was never formally agreed upon. Proposed alternatives include plain :cyrl[ь] (simplest, but risks confusion with the consonant-softening function) and :cyrl[ь̀] (front yer with grave accent, proposed as a compromise). The Cyrillic etymological register therefore does not maintain a reliable one-to-one correspondence for the strong front yer, and authors working in the etymological register are advised to use the Latin script.
+:::
 
 ### Etymological Cyrillic-to-Latin
 | Cyrillic (etym.) | Latin (etym.) | Notes |
@@ -305,7 +311,7 @@ In practice, the Cyrillic etymological register does not maintain a full one-to-
 | :cyrl[Ӑ ӑ] | :latn[Å å] | |
 | :cyrl[Ѧ ѧ] | :latn[Ę ę] | |
 | :cyrl[Ѫ ѫ] | :latn[Ų ų] | |
-| :cyrl[Ъ ъ] (as strong yer) | :latn[Ė ė] or :latn[Ȯ ȯ] | context-dependent; see note above |
+| :cyrl[Ъ ъ] (as strong yer) | :latn[Ȯ ȯ] | :latn[Ė ė] mapping is unresolved; see note above |
 | :cyrl[Ћ ћ] | :latn[Ć ć] | |
 | :cyrl[Ђ ђ] | :latn[Đ đ] | |
 
@@ -322,6 +328,6 @@ For quick reference, the following table collects all cases where simple letter-
 | Digraph spanning morpheme boundary | Insert hyphen; do not merge |
 | Cyrillic :cyrl[ј] after vowel (informal :cyrl[й]) | Normalize to :cyrl[ј]; transliterate as Latin :latn[j] |
 | Cyrillic iotated forms :cyrl[я], :cyrl[ю], :cyrl[є], :cyrl[ји] | Resolve to :latn[j] + plain vowel before transliterating |
-| Cyrillic :cyrl[Є є] (= :cyrl[Ѣ ѣ] variant) | Transliterate as Latin :latn[Ě ě] |
+| Cyrillic :cyrl[Ѣ ѣ] (historical variant of normative :cyrl[Є є]) | Transliterate as Latin :latn[Ě ě] |
 | Cyrillic :cyrl[Й й] (= :cyrl[Ј ј] informal) | Transliterate as Latin :latn[J j] |
 | Etymological letters | Apply  table; standard forms follow – |
