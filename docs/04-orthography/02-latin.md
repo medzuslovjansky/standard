@@ -145,7 +145,9 @@ Five letters in the Cyrillic alphabet require specific comment because they are 
 
 **Ы ы** (= Latin :latn[y]). This letter represents the close central unrounded vowel :ipa[ɨ]. It is familiar to East Slavic and Polish readers but absent from South Slavic languages. Writers who are uncertain about its distribution, or who address a predominantly South Slavic audience, may substitute :cyrl[и] throughout.
 
-**Ј ј** (= Latin :latn[j]). Interslavic adopts this letter from Serbian and Macedonian Cyrillic rather than using Russian/Ukrainian :cyrl[й], because :cyrl[й] has distributional restrictions (it cannot freely precede consonants or appear in all positions that :latn[j] can). For writers who cannot produce :cyrl[ј], the following context-sensitive substitutions are recommended:
+**Ј ј** (= Latin :latn[j]). Interslavic adopts this letter from Serbian and Macedonian Cyrillic rather than using Russian/Ukrainian :cyrl[й], because :cyrl[й] has distributional restrictions (it cannot freely precede vowels or appear in all positions that :latn[j] can).
+Using :cyrl[ј] also keeps the alphabet compact: since it can freely precede any vowel, there is no need for the dedicated iotated letters (:cyrl[я], :cyrl[ю], etc.) that traditional Cyrillic requires.
+For writers who cannot produce :cyrl[ј], the following context-sensitive substitutions are recommended:
 
 - :cyrl[ја] → :cyrl[я], :cyrl[ју] → :cyrl[ю] (iotated vowels; most natural solution, though less familiar to some Serbian and Macedonian readers)
 - :cyrl[јо]: write as :cyrl[јо]; Russian :cyrl[ё] is to be avoided as it carries different connotations
@@ -162,9 +164,9 @@ The standard Cyrillic orthography uses one digraph and one common cluster:
 | Cyrillic | Latin | IPA | Notes |
 |----------|-------|-----|-------|
 | :cyrl[Дж дж] | :latn[Dž dž] | :ipa[d͡ʒ] | Standard Cyrillic digraph for the voiced affricate |
-| :cyrl[Шч шч] | :latn[Šč šč] | :ipa[ʃt͡ʃ] | Cluster corresponding to Russian :cyrl[щ]; not a true digraph |
+| :cyrl[Шч шч] | :latn[Šč šč] | :ipa[ʃt͡ʃ] | Cluster of two phonemes representing Proto-Slavic *šč; in Interslavic always š+č, unlike Russian :cyrl[щ] (a single phoneme also used for the OCS *ď reflex) |
 
-The letter :cyrl[щ] is not part of the standard Interslavic Cyrillic alphabet, though it may appear in texts aimed at a Bulgarian readership as an informal variant of :cyrl[шч].
+The letter :cyrl[щ] is not part of the standard Interslavic Cyrillic alphabet, though it may appear in texts aimed at a Bulgarian, Russian, or Ukrainian readership as an informal variant of :cyrl[шч].
 
 ---
 
