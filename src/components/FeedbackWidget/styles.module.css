@@ -1,0 +1,220 @@
+.popover {
+  position: fixed;
+  z-index: 9999;
+  background: var(--ifm-background-surface-color, #fff);
+  border: 1px solid var(--ifm-color-emphasis-300, #ccc);
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  padding: 4px;
+  font: 13px/1 var(--ifm-font-family-base, system-ui);
+}
+
+.popoverButton {
+  background: var(--ifm-color-primary);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 10px;
+  cursor: pointer;
+  font: inherit;
+}
+
+.popoverButton:hover {
+  background: var(--ifm-color-primary-dark);
+}
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal {
+  background: var(--ifm-background-surface-color, #fff);
+  color: var(--ifm-font-color-base, #222);
+  border-radius: 8px;
+  width: min(560px, 92vw);
+  max-height: 90vh;
+  overflow: auto;
+  padding: 20px 22px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+  font: 14px/1.4 var(--ifm-font-family-base, system-ui);
+}
+
+.modal h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
+}
+
+.pill {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--ifm-color-emphasis-200, #eee);
+  color: var(--ifm-color-emphasis-800, #444);
+}
+
+.pill_pending {
+  background: rgba(255, 213, 79, 0.4);
+  color: #7a5a00;
+}
+
+.pill_taken {
+  background: rgba(135, 200, 255, 0.4);
+  color: #14406c;
+}
+
+.pill_processed {
+  background: rgba(140, 220, 140, 0.4);
+  color: #1f5d1f;
+}
+
+[data-theme='dark'] .pill_pending { color: #ffd668; }
+[data-theme='dark'] .pill_taken { color: #a4d3ff; }
+[data-theme='dark'] .pill_processed { color: #b3e5b3; }
+
+.result {
+  border-left: 3px solid #4caf50;
+  background: rgba(76, 175, 80, 0.08);
+  padding: 8px 10px;
+  margin: 0 0 14px;
+  white-space: pre-wrap;
+}
+
+.quote {
+  border-left: 3px solid var(--ifm-color-primary);
+  background: var(--ifm-color-emphasis-100, #f5f5f5);
+  padding: 8px 10px;
+  margin: 0 0 14px;
+  font-style: italic;
+  white-space: pre-wrap;
+}
+
+.modal label {
+  display: block;
+  margin: 10px 0 4px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.modal textarea,
+.modal input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid var(--ifm-color-emphasis-300, #ccc);
+  border-radius: 4px;
+  background: var(--ifm-background-color, #fff);
+  color: inherit;
+  font: inherit;
+}
+
+.modal textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.delete {
+  background: transparent;
+  border: 1px solid #c33;
+  color: #c33;
+}
+
+.delete:hover:not(:disabled) {
+  background: #c33;
+  color: #fff;
+}
+
+.actions button {
+  padding: 8px 14px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  font: inherit;
+}
+
+.cancel {
+  background: transparent;
+  border-color: var(--ifm-color-emphasis-300, #ccc);
+  color: inherit;
+}
+
+.submit {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #c33;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.tokenOk {
+  color: #2a8a4a;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+[data-theme='dark'] .tokenOk {
+  color: #6fcf80;
+}
+
+.status {
+  font-size: 12px;
+  color: var(--ifm-color-emphasis-700, #666);
+  margin-top: 8px;
+}
+
+/* Overlay highlights for existing feedback */
+:global(mark.fw-mark) {
+  background: rgba(255, 213, 79, 0.55);
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+  border-bottom: 1px dashed rgba(180, 120, 0, 0.7);
+}
+
+:global(mark.fw-mark[data-fw-status='taken']) {
+  background: rgba(135, 200, 255, 0.55);
+  border-bottom-color: rgba(40, 110, 190, 0.7);
+}
+
+:global(mark.fw-mark[data-fw-status='processed']) {
+  background: rgba(140, 220, 140, 0.5);
+  border-bottom-color: rgba(40, 120, 40, 0.7);
+}
+
+:global(mark.fw-mark.fw-mark--mine) {
+  outline: 1px solid rgba(255, 165, 0, 0.6);
+}

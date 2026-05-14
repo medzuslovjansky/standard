@@ -19,7 +19,7 @@ jobs:
       - name: Archive local website
         run: scripts/archive.sh 3000 "archived-site"
       - name: Upload archive as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: website-archive
           path: archived-site
