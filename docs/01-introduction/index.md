@@ -1,7 +1,4 @@
 # Introduction and Scope
-:::caution[Unverified Content]
-Sections through  (Normative status, Scope, and What this specification does not cover) are new specification framework content with no basis in the source material. The normative keyword definitions, module breakdown, and scope exclusions are not derived from any source.
-:::
 
 ## Purpose of this Specification
 ### Normative status
@@ -57,24 +54,6 @@ The source material specifies the conference location as "Staré Město near Uhe
 :::
 
 **The 2017 merger and unified standard.** On 1–2 June 2017, the First Conference on the Interslavic Language (CISLa 2017) was held in Staré Město, Czech Republic. Immediately following that conference, Jan van Steenbergen and Vojtěch Merunka formed a five-member committee (with Roberto Lombino, Michał Swat, and Pavel Skrylev) that unified the two principal active projects — :isv[Slovianski] and :isv[Novoslověnsky] — into a single standard. The resulting unified form, named :isv[Medžuslovjansky], is the language described by this specification.
-
-**Earlier zonal constructed language projects.** The following historical projects contributed linguistic material and methodology to modern Interslavic; they are incorporated rather than superseded:
-
-| Project | Author(s) | Year | Contribution |
-|---|---|---|---|
-| *Ruski* (manuscript) | Juraj Križanić | 1666 | First systematic description of an inter-Slavic language |
-| *Universalis Lingua Slavica* | Ján Herkeľ | 1826 | West Slavic comparative basis |
-| *Uzajemni Pravopis Slavjanski* | Matija Majar-Ziljski | 1865 | Mutual orthography; comparison-based grammar methodology |
-| :isv[Mežduslavjanski jezik] | Ladislav Podmele | 1950s | 20th-century naturalistic attempt |
-| :isv[Slovianski] | Rečnik, Svoboda, van Steenbergen, Polyakov et al. | 2006 | Direct precursor; systematic comparison of living Slavic languages |
-| :isv[Slovioski] | Radzikowski, Moraczewski, Borovička | 2009 | Merged into :isv[Interslavic] in 2010 |
-| :isv[Novoslověnsky] (:isv[Neoslavonic]) | Merunka, Molhanec | 2010 | Old Church Slavonic modernization; merged 2017 |
-
-:::caution[Unverified Content]
-In the table above, Podmele's project is described as a "20th-century naturalistic attempt," but the source material describes it as "based mostly on Russian, probably due to the political reality of those days." It is not characterized as "naturalistic" in the sources.
-:::
-
-This specification does **not** incorporate or endorse *Slovio* (Mark Hučko). *Slovio* is a distinct and unrelated constructed language, and claims of derivation or equivalence are factually incorrect.
 
 :::caution[Committee Review Needed]
 The specification should formally enumerate which specific steen.free.fr pages are normatively incorporated by reference, which are informative background, and which are superseded. A precise list with URLs and access dates is needed to establish citable precedent.
