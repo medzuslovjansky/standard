@@ -11,6 +11,7 @@ import { visit } from 'unist-util-visit';
  *   :abbr[text]{title="…"}  — Abbreviation with optional expansion
  *
  * Slavic language directives (BCP 47 lang attribute):
+ *   Proto-Slavic: :sla
  *   East Slavic:  :ru :uk :be :rue
  *   West Slavic:  :pl :cs :sk :hsb :dsb :csb :szl :rsk
  *   South Slavic: :sl :hr :bs :sr :mk :bg :cu
@@ -21,6 +22,8 @@ const DIRECTIVE_LANG = {
   latn: 'isv-Latn',
   cyrl: 'isv-Cyrl',
   ipa: 'x-ipa',
+  // Proto-Slavic
+  sla: 'x-sla',  // Proto-Slavic (reconstructed)
   // East Slavic
   ru: 'ru',    // Russian
   uk: 'uk',    // Ukrainian
