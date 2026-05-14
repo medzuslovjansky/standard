@@ -7,7 +7,7 @@ The current standard recognises **two official orthographies**: a Latin alphabet
 
 ## The Two Standard Orthographies
 ### Standard Latin Orthography
-The standard Latin alphabet comprises **27 letters** — the 26 letters of the basic Latin alphabet (excluding :latn[q], :latn[w], and :latn[x], which have no native Slavic use) plus four letters with diacritics: :latn[č], :latn[ě], :latn[š], :latn[ž]. Two digraphs — :latn[dž] and :latn[lj]/(:latn[nj]) — are treated as single phonemic units.
+The standard Latin alphabet comprises **27 letters** — the 26 letters of the basic Latin alphabet (excluding :latn[q], :latn[w], and :latn[x], which have no native Slavic use) plus four letters with diacritics: :latn[č], :latn[ě], :latn[š], :latn[ž]. Three digraphs — :latn[dž], :latn[lj], and :latn[nj] — are treated as single phonemic units.
 
 The full specification of the Latin orthography, including letter inventory, digraphs, capitalization rules, and fallback encodings, is given in [**Standard Latin and Cyrillic Orthography**](./02-latin.md).
 
