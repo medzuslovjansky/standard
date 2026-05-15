@@ -164,7 +164,7 @@ The standard Cyrillic orthography uses one digraph and one common cluster:
 | Cyrillic | Latin | IPA | Notes |
 |----------|-------|-----|-------|
 | :cyrl[Дж дж] | :latn[Dž dž] | :ipa[d͡ʒ] | Standard Cyrillic digraph for the voiced affricate |
-| :cyrl[Шч шч] | :latn[Šč šč] | :ipa[ʃt͡ʃ] | Cluster of two phonemes representing Proto-Slavic *šč; in Interslavic always š+č, unlike Russian :cyrl[щ] (a single phoneme also used for the OCS *ď reflex) |
+| :cyrl[Шч шч] | :latn[Šč šč] | :ipa[ʃt͡ʃ] | Cluster of two phonemes representing Proto-Slavic *šč; in Interslavic always š+č, unlike Russian :cyrl[щ] (a single phoneme also used for the OCS *ť reflex) |
 
 The letter :cyrl[щ] is not part of the standard Interslavic Cyrillic alphabet, though it may appear in texts aimed at a Bulgarian, Russian, or Ukrainian readership as an informal variant of :cyrl[шч].
 
