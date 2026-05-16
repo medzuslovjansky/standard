@@ -145,8 +145,8 @@ The current official recommendation remains :ipa[ʊ].
 | :latn[ĺ] (:latn[ľ]) | :ipa[lʲ] | Soft :latn[l] before a weak yer :sla[*ь] | :latn[lj] (only before :latn[j]) | :isv[nasiľje] → :isv[nasilje] (violence) |
 | :latn[ń] | :ipa[nʲ] | Soft :latn[n] before a weak yer :sla[*ь] | :latn[nj] (only before :latn[j]) | :isv[hođeńje] → :isv[hođenje] (walking) |
 | :latn[ŕ] | :ipa[rʲ] | Soft :latn[r] adjacent to a weak yer :sla[*ь] | :latn[r] | :isv[rybaŕ] → :isv[rybar] (fisher) |
-| :latn[t́] (:latn[ť]) | :ipa[tʲ] | Soft :latn[t] before a weak yer :sla[*ь] | :latn[t] | :isv[pamęt́] → :isv[pamęt] (memory) |
-| :latn[d́] (:latn[ď]) | :ipa[dʲ] | Soft :latn[d] before a weak yer :sla[*ь] | :latn[d] | :isv[gvozd́] → :isv[gvozd] (nail) |
+| :latn[t́] (:latn[ť]) | :ipa[tʲ ~ c] | Soft :latn[t] before a weak yer :sla[*ь] | :latn[t] | :isv[pamęt́] → :isv[pamęt] (memory) |
+| :latn[d́] (:latn[ď]) | :ipa[dʲ ~ ɟ] | Soft :latn[d] before a weak yer :sla[*ь] | :latn[d] | :isv[gvozd́] → :isv[gvozd] (nail) |
 | :latn[ś] | :ipa[sʲ] | Soft :latn[s] before a weak yer :sla[*ь] | :latn[s] | :isv[gųś] → :isv[gųs] (goose) |
 | :latn[ź] | :ipa[zʲ] | Soft :latn[z] before a weak yer :sla[*ь] | :latn[z] | :isv[vitęź] → :isv[vitęz] (hero) |
 
@@ -174,7 +174,7 @@ A systematic review of the lexicon is needed to ensure that iotation-derived and
 :::
 
 **Notes on :latn[t́]/:latn[ť] and :latn[d́]/:latn[ď]:**
-These letters do not appear in any living Slavic alphabet.
+The acute-accented forms (:latn[t́], :latn[d́]) do not appear in any living Slavic alphabet; the háček variants (:latn[ť], :latn[ď]) do appear in Czech and Slovak, where they carry the same phonetic values (:ipa[tʲ ~ c] and :ipa[dʲ ~ ɟ] respectively).
 In Unicode they can only be formed with a combining diacritic (acute accent or haček), which means display may vary across fonts.
 When using a haček form (:latn[ť], :latn[ď]), note that in many fonts the haček is rendered as an apostrophe.
 
