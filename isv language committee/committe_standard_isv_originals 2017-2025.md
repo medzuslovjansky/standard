@@ -128,4 +128,33 @@ LOC: dvoh, trěh, četyrěh
 
 ---
 
-# DECISIONS OF THE INTERSLAVIC LANGUUAGE COMMITTEE FROM 2017-06-18 
+# DECISIONS OF THE INTERSLAVIC LANGUAGE COMMITTEE FROM 2017-06-18 
+1.rejection of the additional ending "-eh" in neuter & feminine genitive of plural, because of the declension of words like "ulica" (ulicej)
+2.introduction of form denj > dnjev
+3. in masc. pl. the difference between nominative and accusative [is introduced - annotation from 9.6.2026] (declension taken from OCS and PS, today a similar difference is present only in sh and Slovenian) 
+nominative: kraj-i          gråd-i
+accusative: kraj-e       grad-y
+4) in adjective and nouns the masc. pl. there was introduced a distinction between nominative and accusative, based on the Jan's table: 
+nom:  kråtki      ....     korabi plavajųt       
+acc:  kråtke       .... koraby uviděl jesm 
+
+5) NEEDS TO BE DISCUSSED equal plural with distinction in nominative and accusative:
+
+nom:  kråtki    ...      korabi/kraji             ženy/ulice        slova               sųt  ????????????  
+acc:  kråtke    ...      koraby/kraje          ženy/ulice       slova                vidžų ??????????????
+
+6) In all athematic declensions the ending -e in genitive was rejected (togo slovese). Now the only difference in the athematic declension is the expansion of a word's root (togo slovesa, c'rkvi, imena, materi, kamenja, telęta)
+-o'v  like "kost"
+-mę like "slovo"
+-ę like "slovo"
+-er- like "kost"
+-eń like "mųž"
+
+7) the declension of sing. macs. and neuter of locative and dative: ending  -u(ob  slovu, ob mųžu, ob polju, ob grådu; komu? čemu? slovu, mųžu, polju, grådu).
+
+The endings -ě and -ji at masc and neuter of the hard and soft declension ob slově, ob mųžu, ob polji, ob grådě, ob kamenji) are leaved as additional possibilities.  
+
+8) feminine plural: nominative =  accusative
+9) in feminine words with consonant at the ending in nominative, there's no softness (kost, nit, sět, bizkost), but the rest of the declension is soft (kostjami, kostjah, kostjam...)
+If the consonant at the ending of the feminine word is already soft (pomoć, myš...) there's no soft declension (kim? čim? pomoćų, myšų, očami, pomoćami, myšami...)
+10) there's a suggestion about Rusyn writing ky, gy (native words ky, gy…; foreign ki, gi) and KI only in plural nominative ( kråtky, kråtkogo, kråtkomu, kråtky/kråtkogo, kråtkym, kråtkym) and in the plural kråtki but then  kråtkyh, kråtkym, kråtke, kråtkyh, kråtkymi and equally mlådy (jednina), mlådi (univerzalna množina) still not entirely agreed.
