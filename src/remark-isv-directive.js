@@ -1,10 +1,14 @@
 import { visit } from 'unist-util-visit';
+import { etymToStandardLatin, etymToStandardCyrillic } from "./isv-etym.js";
 
 /**
  * Remark plugin for Interslavic text directives.
  *
  * Supported inline directives:
- *   :isv[text]              — Interslavic text (Latin script)
+ *   :isv[text]              — Interslavic text (input etymological script);
+ *                             rendered in the reader's chosen alphabet
+ *                             (etymological / standard Latin / standard Cyrillic)
+ *                             via the navbar switcher
  *   :latn[text]             — Explicitly Latin-script text
  *   :cyrl[text]             — Explicitly Cyrillic-script text
  *   :ipa[text]              — IPA transcription
@@ -54,6 +58,31 @@ export default function remarkIsvDirective() {
       if (node.type !== 'textDirective') return;
 
       const data = node.data || (node.data = {});
+
+      // Etymological directive → three pre-rendered spans, one per alphabet.
+      // The active one is chosen at read time by CSS keyed on the
+      // `data-isv-alphabet` attribute set on <html> by the navbar switcher.
+      if (node.name === "isv") {
+        const source = (node.children || [])
+          .map((child) => (typeof child.value === "string" ? child.value : ""))
+          .join("");
+
+        const variant = (className, lang, value) => ({
+          type: "element",
+          tagName: "span",
+          properties: { className: [className], lang },
+          children: [{ type: "text", value }],
+        });
+
+        data.hName = "span";
+        data.hProperties = { className: ["etym"] };
+        data.hChildren = [
+          variant("etym-etym", "isv-Latn", source),
+          variant("etym-latn", "isv-Latn", etymToStandardLatin(source)),
+          variant("etym-cyrl", "isv-Cyrl", etymToStandardCyrillic(source)),
+        ];
+        return;
+      }
 
       // Abbreviation directive → <abbr>
       if (node.name === 'abbr') {
