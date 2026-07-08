@@ -4,6 +4,31 @@
  * work well for content-centric websites.
  */
 
+/**
+ * Etymological alphabet switching for :etym[…] directives.
+ *
+ * The remark plugin renders all three alphabets as sibling spans. Exactly one
+ * is shown, selected by the `data-isv-alphabet` attribute on <html> (set by the
+ * navbar AlphabetSwitcher). With no attribute, the etymological form is shown.
+ */
+.etym-latn,
+.etym-cyrl {
+  display: none;
+}
+
+html[data-isv-alphabet='latn'] .etym-etym,
+html[data-isv-alphabet='cyrl'] .etym-etym {
+  display: none;
+}
+
+html[data-isv-alphabet='latn'] .etym-latn {
+  display: inline;
+}
+
+html[data-isv-alphabet='cyrl'] .etym-cyrl {
+  display: inline;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #1a56b0;

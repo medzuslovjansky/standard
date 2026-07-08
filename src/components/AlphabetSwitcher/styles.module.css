@@ -1,0 +1,15 @@
+.switcher {
+  margin: 0 0.5rem;
+  padding: 0.25rem 1.5rem 0.25rem 0.5rem;
+  font: inherit;
+  font-size: 0.9rem;
+  color: var(--ifm-navbar-link-color);
+  background-color: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  cursor: pointer;
+}
+
+.switcher:hover {
+  border-color: var(--ifm-color-emphasis-500);
+}

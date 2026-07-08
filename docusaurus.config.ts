@@ -13,6 +13,16 @@ const config: Config = {
   organizationName: 'medzuslovjansky',
   projectName: 'standard',
   onBrokenLinks: 'throw',
+  // Apply the reader's saved alphabet choice before first paint so
+  // etymological text does not flash in the default alphabet.
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML:
+        "(function(){try{var a=localStorage.getItem('isv-alphabet');if(a){document.documentElement.setAttribute('data-isv-alphabet',a);}}catch(e){}})();",
+    },
+  ],
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',
@@ -57,6 +67,10 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          type: 'custom-alphabetSwitcher',
+          position: 'right',
+        },
         {
           href: 'https://github.com/medzuslovjansky/standard',
           label: 'GitHub',
