@@ -1,1 +1,0 @@
-(globalThis.webpackChunkstandard=globalThis.webpackChunkstandard||[]).push([[5741],{5741(){}}]);
